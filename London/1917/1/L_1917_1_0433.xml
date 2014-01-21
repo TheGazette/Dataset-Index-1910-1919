@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="0433" pageID="https://www.thegazette.co.uk/id/London/index/year/1917/volume/1/page/0433" pagePDF="https://www.thegazette.co.uk/London/index/year/1917/volume/1/page/0433" pageRDF="https://www.thegazette.co.uk/London/index/year/1917/volume/1/page/0433?view=linked-data" type="index" volume="1" year="1917">
+<Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="433" pageID="https://www.thegazette.co.uk/id/London/index/year/1917/volume/1/page/433" pagePDF="https://www.thegazette.co.uk/London/index/year/1917/volume/1/page/433" pageRDF="https://www.thegazette.co.uk/London/index/year/1917/volume/1/page/433?view=linked-data" type="index" volume="1" year="1917">
   <ItemGroup>
     <MainItem>
       <Key>Todd</Key>
@@ -11,15 +11,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Tomkinson</Key>
-      <Title>Lt.</Title>
+      <Forenames>Lt</Forenames>
+      <Text>. (Sq.. Cdr.)</Text>
+      <PageNumber>13</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>13</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Travers</Key>
+      <Text>, B^ (now actg. Flight Cdr.) (Flight Cdr.)</Text>
       <PageNumber>13</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -53,7 +53,7 @@
     <MainItem>
       <Key>Tyndale-Biscoe</Key>
       <Forenames>H.</Forenames>
-      <Text>L'E. (now actg. temp. Flight Lt.) (Flight Lt.)</Text>
+      <Text>LE. (now actg. temp. Flight Lt.) (Flight Lt.)</Text>
       <PageNumber>14</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -126,11 +126,11 @@
     <MainItem>
       <Key>Waugh</Key>
       <Forenames>J. K.</Forenames>
-    </MainItem>
-    <Text>
+      <Text>(now actg. Flight Lt»J (for temp, service) (Flight</Text>
       <PageNumber>14</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Lt.)\</Text>
       <PageNumber>1649</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -170,14 +170,14 @@
     <MainItem>
       <Key>Will</Key>
       <Forenames>E. P.</Forenames>
+      <Text>(temp. Fit. Sub-Lt.)</Text>
+      <PageNumber>102</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>102</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Williams</Key>
+      <Text>. W. T. S. (for temp, service) (Flight Lt.)</Text>
       <PageNumber>14</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -267,53 +267,65 @@
     <MainItem>
       <Key>Wright</Key>
       <Forenames>M. E. A.</Forenames>
+      <Text>(Flight Cdr.)-^tr</Text>
+      <PageNumber>13</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>13</PageNumber>
-    <ItemGroup>
-      <MainItem>
-        <Key>Sussex</Key>
-        <PageNumber>2997</PageNumber>
-      </MainItem>
-    </ItemGroup>
-    <SectionTitle>Vice-Lieutenants</SectionTitle>
-    <ItemGroup>
-      <MainItem>
-        <Key>Derby</Key>
-        <PageNumber>3011</PageNumber>
-      </MainItem>
-      <SubItem>
-        <PageNumber>3011</PageNumber>
-      </SubItem>
-    </ItemGroup>
-    <SectionTitle>Deputy-Lieutenants</SectionTitle>
-    <ItemGroup>
-      <MainItem>
-        <Key>Derby</Key>
-        <PageNumber>2027</PageNumber>
-      </MainItem>
-      <SubItem>
-        <PageNumber>2027</PageNumber>
-      </SubItem>
-      <SubItem>
-        <PageNumber>2027</PageNumber>
-      </SubItem>
-      <SubItem>
-        <PageNumber>1177</PageNumber>
-        <PageNumber>1177</PageNumber>
-        <PageNumber>1177</PageNumber>
-      </SubItem>
-    </ItemGroup>
-    <MainItem>Derby: Milner, William Aldam ... 2027</MainItem>
-  </Text>
+  <CategoryTitle>Lieutenancy of Counties</CategoryTitle>
   <ItemGroup>
-    <Key>Derby</Key>
-    <PageNumber>2027</PageNumber>
+    <MainItem>
+      <Key>Sussex</Key>
+      <Text>: Leconfield, Charles Henry, Baron (Lieutenant and Custos Rotulorum)</Text>
+      <PageNumber>2997</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <SectionTitle>Vice-Lieutenants</SectionTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Derby</Key>
+      <Text>: Arkwright, Frederic Charles</Text>
+      <PageNumber>3011</PageNumber>
+    </MainItem>
     <SubItem>
+      <Text>Hubbersty, Henry Alfred</Text>
+      <PageNumber>3011</PageNumber>
+    </SubItem>
+  </ItemGroup>
+  <SectionTitle>Deputy-Lieutenants</SectionTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Derby</Key>
+      <Text>-. Armitage, Cecil Henry</Text>
+      <PageNumber>2027</PageNumber>
+    </MainItem>
+    <SubItem>
+      <Text>Barnes, Edwin Clay</Text>
+      <PageNumber>2027</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>Doverdale, the Rt. Hon. Edward, Baron</Text>
+      <PageNumber>2027</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>
+        <PageNumber>1177</PageNumber>
+        <PageNumber>1177</PageNumber>
+      </Text>
+      <PageNumber>1177</PageNumber>
+    </SubItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Derby</Key>
+      <Text>: Milner, William Aldam</Text>
+      <PageNumber>2027</PageNumber>
+    </MainItem>
+    <SubItem>
+      <Text>Peacock, Major Frederick William</Text>
       <PageNumber>1177</PageNumber>
     </SubItem>
     <SubItem>
+      <Text>Tavlor, Lieut.-Col. Herbert Brooke, V.D</Text>
       <PageNumber>1177</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -321,54 +333,63 @@
     <MainItem>
       <Key>Dundee</Key>
       <Forenames>County</Forenames>
+      <Text>of the City of: Crichton, Alexander Black</Text>
+      <PageNumber>2642</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>2642</PageNumber>
-    <ItemGroup>
-      <MainItem>
-        <Key>Durham</Key>
-        <PageNumber>1783</PageNumber>
-      </MainItem>
-      <SubItem>
-        <PageNumber>1068</PageNumber>
-      </SubItem>
-    </ItemGroup>
-    <ItemGroup>
-      <MainItem>
-        <Key>Essex</Key>
-        <PageNumber>1177</PageNumber>
-      </MainItem>
-    </ItemGroup>
-    <ItemGroup>
-      <MainItem>
-        <Key>Glamorgaashire</Key>
+  <ItemGroup>
+    <MainItem>
+      <Key>Durham</Key>
+      <Text>: Liddell, The Hon. C. A</Text>
+      <PageNumber>1783</PageNumber>
+    </MainItem>
+    <SubItem>
+      <Text>Palmer, Claude Bowes</Text>
+      <PageNumber>1068</PageNumber>
+    </SubItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Essex</Key>
+      <Text>: Christie, Lieut.-Col. Charles Henry Fehler</Text>
+      <PageNumber>1177</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Glamorgaashire</Key>
+      <Text>: Clark, Wyndham Darner</Text>
+      <PageNumber>2267</PageNumber>
+    </MainItem>
+    <SubItem>
+      <Text>
         <PageNumber>2267</PageNumber>
-      </MainItem>
-      <SubItem>
-        <PageNumber>2267</PageNumber>
-        <PageNumber>2267</PageNumber>
-      </SubItem>
-    </ItemGroup>
-    <ItemGroup>
-      <MainItem>
-        <Key>Hertford</Key>
-        <PageNumber>291</PageNumber>
-      </MainItem>
-      <SubItem>
-        <PageNumber>291</PageNumber>
-      </SubItem>
-    </ItemGroup>
-    <ItemGroup>
-      <MainItem>
-        <Key>Huntingdon</Key>
-        <PageNumber>852</PageNumber>
-      </MainItem>
-    </ItemGroup>
-  </Text>
+      </Text>
+      <PageNumber>2267</PageNumber>
+    </SubItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Hertford</Key>
+      <Text>: Croft, Maj. Henry Page, C.M.G., M.P</Text>
+      <PageNumber>291</PageNumber>
+    </MainItem>
+    <SubItem>
+      <Text>Hadden, Maj.-Gen. Sir Charles Frederick, K.C.B</Text>
+      <PageNumber>291</PageNumber>
+    </SubItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Huntingdon</Key>
+      <Text>: Chichester, Lt.-Col. Alan George</Text>
+      <PageNumber>852</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Wilts</Key>
+      <Text>: Sadler, James Henry</Text>
       <PageNumber>1389</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -388,31 +409,28 @@
       <Text>, notice</Text>
       <PageNumber>2924</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Agricultural</Key>
-      <Forenames>Produce</Forenames>
-    </MainItem>
-    <Text>
-      <PageNumber>140</PageNumber>
-      <SubItem>
-        <PageNumber>408</PageNumber>
-      </SubItem>
-      <SubItem>
-        <PageNumber>871</PageNumber>
-      </SubItem>
-      <SubItem>
-        <PageNumber>1300</PageNumber>
-      </SubItem>
-      <SubItem>
-        <PageNumber>1803</PageNumber>
-      </SubItem>
-      <PageNumber>2288</PageNumber>
-    </Text>
     <SubItem>
-      <PageNumber>2552</PageNumber>
-      <PageNumber>2789</PageNumber>
+      <Text>6th January, 1917</Text>
+      <PageNumber>408</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>20th „ „</Text>
+      <PageNumber>871</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>3rd February, 1917</Text>
+      <PageNumber>1300</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>17th „ „</Text>
+      <PageNumber>1803</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>
+        <PageNumber>2288</PageNumber>
+        <PageNumber>2552</PageNumber>
+        <PageNumber>2789</PageNumber>
+      </Text>
       <PageNumber>3029</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -420,20 +438,21 @@
     <MainItem>
       <Key>Agricultural</Key>
       <Forenames>Produce Supplies</Forenames>
+      <Text>, cancelling of registry</Text>
+      <PageNumber>1306</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>1306</PageNumber>
-    <ItemGroup>
-      <MainItem>
-        <Key>Aktiengesellsohaft</Key>
-        <PageNumber>2669</PageNumber>
-      </MainItem>
-    </ItemGroup>
-  </Text>
+  <ItemGroup>
+    <MainItem>
+      <Key>Aktiengesellsohaft</Key>
+      <Text>vormals Frister und Rossman, notice under Trading with the Enemy</Text>
+      <PageNumber>2669</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Alexandra</Key>
+      <Text>(Newport and South Wales) Docks and Railway Act,</Text>
       <PageNumber>2898</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -447,8 +466,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Allolit</Key>
-      <Title>Co.</Title>
-      <Text>, notice under Trading with the Enemy Amendment</Text>
+      <Forenames>Co</Forenames>
+      <Text>., notice under Trading with the Enemy Amendment</Text>
       <PageNumber>650</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -472,43 +491,37 @@
     <MainItem>
       <Key>Appelboom</Key>
       <Forenames>Simon</Forenames>
+      <Text>, change of name by deed poll to Sydney Simmonds</Text>
+      <PageNumber>1688</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>1688</PageNumber>
-    <ItemGroup>
-      <MainItem>
-        <Key>Arndt</Key>
-        <PageNumber>1920</PageNumber>
-      </MainItem>
-    </ItemGroup>
-  </Text>
+  <ItemGroup>
+    <MainItem>
+      <Key>Arndt</Key>
+      <Text>&amp; Cohn (creditors)</Text>
+      <PageNumber>1920</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Asher</Key>
+      <Text>&amp; Co. (creditors)</Text>
       <PageNumber>158</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Atlantica</Key>
-      <Title>Co.</Title>
-      <Text>, Ltd., notice under Trading with the Enemy Amendment Act</Text>
+      <Forenames>Co</Forenames>
+      <Text>., Ltd., notice under Trading with the Enemy Amendment Act</Text>
       <PageNumber>2670</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Auctions</Key>
-      <Forenames>Sale</Forenames>
-    </MainItem>
-    <Text>
-      <PageNumber>1314</PageNumber>
-      <SubItem>
-        <PageNumber>421</PageNumber>
-      </SubItem>
-    </Text>
     <SubItem>
+      <Text>Finchley House Estate, Finchley (Morris v. Hervey)</Text>
+      <PageNumber>421</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>Pudsey, Borough Cabinet Works, Occupation Lane (Annie Davey and another v. Emily Elizabeth Gattrell and others)</Text>
       <PageNumber>2668</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -556,74 +569,75 @@
     <MainItem>
       <Key>Baltic</Key>
       <Forenames>Timber Co</Forenames>
+      <Text>., notice under Trading with the Enemy Amendment Act</Text>
+      <PageNumber>786</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <Text>
-    <PageNumber>786</PageNumber>
-    <ItemGroup>
-      <MainItem>
-        <Key>Bangor</Key>
-        <PageNumber>2047</PageNumber>
-      </MainItem>
-    </ItemGroup>
-    <ItemGroup>
-      <MainItem>
-        <Key>Bank</Key>
-        <PageNumber>3013</PageNumber>
-      </MainItem>
-    </ItemGroup>
-    <MainItem>Bank of England : Account pursuant to Act 7 and 8 Vic, cap. 32, for the week ending: 3rd January, 1917 306</MainItem>
-  </Text>
-  <ItemGroup>
-    <Key>Bank</Key>
-    <PageNumber>306</PageNumber>
-    <SubItem>
-      <PageNumber>517</PageNumber>
-    </SubItem>
-    <SubItem>
-      <PageNumber>973</PageNumber>
-    </SubItem>
-    <SubItem>
-      <PageNumber>1396</PageNumber>
-    </SubItem>
-    <SubItem>
-      <PageNumber>1900</PageNumber>
-    </SubItem>
-    <SubItem>
-      <PageNumber>2401</PageNumber>
-    </SubItem>
-    <SubItem>
-      <PageNumber>2903</PageNumber>
-    </SubItem>
-    <SubItem>
-      <PageNumber>2168</PageNumber>
-    </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Banks</Key>
-      <Title>Private</Title>
+      <Key>Bangor</Key>
+      <Text>and North Wales Benefit Building Society, cancelling of registry</Text>
+      <PageNumber>2047</PageNumber>
     </MainItem>
-    <Text>
-      <PageNumber>125</PageNumber>
-      <SubItem>
-        <PageNumber>396</PageNumber>
-      </SubItem>
-      <SubItem>
-        <PageNumber>858</PageNumber>
-      </SubItem>
-      <SubItem>
-        <PageNumber>1288</PageNumber>
-        <PageNumber>1483</PageNumber>
-      </SubItem>
-      <SubItem>
-        <PageNumber>2034</PageNumber>
-      </SubItem>
-      <SubItem>
-        <PageNumber>2530</PageNumber>
-      </SubItem>
-    </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Bank</Key>
+      <Text>of British North America, notice</Text>
+      <PageNumber>3013</PageNumber>
+    </MainItem>
     <SubItem>
+      <Text>10th „ „</Text>
+      <PageNumber>517</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>24th ,, „</Text>
+      <PageNumber>973</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>7th February, 1917</Text>
+      <PageNumber>1396</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>21st „ „</Text>
+      <PageNumber>1900</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>7th March, 1917</Text>
+      <PageNumber>2401</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>21st „ „</Text>
+      <PageNumber>2903</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>Notice</Text>
+      <PageNumber>2168</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>30th ,, „</Text>
+      <PageNumber>396</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>13th „ „</Text>
+      <PageNumber>858</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>
+        <PageNumber>1288</PageNumber>
+      </Text>
+      <PageNumber>1483</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>17th „</Text>
+      <PageNumber>2034</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>3rd March, 1917</Text>
+      <PageNumber>2530</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>17th „ ,,</Text>
       <PageNumber>3015</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -631,12 +645,13 @@
     <MainItem>
       <Key>Banks</Key>
       <Forenames>Trustee</Forenames>
-    </MainItem>
-    <Text>
+      <Text>and Post Office Savings, return of amounts, received from, and paid to, . '. '. for four weeks ended : 20th January, 1917 ::</Text>
       <PageNumber>859</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
-      <PageNumber>791</PageNumber>
+      <Text>
+        <PageNumber>791</PageNumber>
+      </Text>
       <PageNumber>2777</PageNumber>
     </SubItem>
   </ItemGroup>

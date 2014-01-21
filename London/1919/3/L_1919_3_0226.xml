@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="0226" pageID="https://www.thegazette.co.uk/id/London/index/year/1919/volume/3/page/0226" pagePDF="https://www.thegazette.co.uk/London/index/year/1919/volume/3/page/0226" pageRDF="https://www.thegazette.co.uk/London/index/year/1919/volume/3/page/0226?view=linked-data" type="index" volume="3" year="1919">
+<Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="226" pageID="https://www.thegazette.co.uk/id/London/index/year/1919/volume/3/page/226" pagePDF="https://www.thegazette.co.uk/London/index/year/1919/volume/3/page/226" pageRDF="https://www.thegazette.co.uk/London/index/year/1919/volume/3/page/226?view=linked-data" type="index" volume="3" year="1919">
   <ItemGroup>
     <MainItem>
       <Key>Allan</Key>
-      <Title>Lt.</Title>
-      <Text>E, B., M.C. (rel. spec, appt. Ci. FF, and temp, rank of Oapt.) ., J</Text>
+      <Forenames>Lt</Forenames>
+      <Text>. E, B., M.C. (rel. spec, appt. Ci. FF, and temp, rank of Capt.) ., J</Text>
       <PageNumber>0617</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -22,8 +22,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Aillard</Key>
-      <Title>Lt.</Title>
-      <Text>(actg. Maj.) W., O.B.E. {Dep. Asst. Dir. of Inland Water Trans., 01. BB, and temp. Maj.)</Text>
+      <Forenames>Lt</Forenames>
+      <Text>. (actg. Maj.) W., O.B.E. {Dep. Asst. Dir. of Inland Water Trans., 01. BB, and temp. Maj.)</Text>
       <PageNumber>10713</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -59,11 +59,11 @@
       <Key>Alidred</Key>
       <Title>Lt.</Title>
       <Forenames>R. A.</Forenames>
-    </MainItem>
-    <Text>
+      <Text>(rel. appt. asRly. Traffic Offr., CI. HH)</Text>
       <PageNumber>9662</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Corr. of date of relg. appt. as Rlv. Traffic Offr., CI. HH</Text>
       <PageNumber>11864</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -72,16 +72,16 @@
       <Key>Allen</Key>
       <Title>temp. Capt.</Title>
       <Forenames>A.</Forenames>
+      <Text>(rel. appt. Asst. to Dep Asst. Dir.-Gen. Transportation, CI. FF)</Text>
+      <PageNumber>9557</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>9557</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
+      <Text>^ temp. Capt. A. G. (rel. appt. as Brig. Maj.)</Text>
       <PageNumber>9237</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -90,8 +90,8 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Title>Lt.</Title>
-      <Text>-Col. B. M. (rel. temp; spec, app't., CI. GG)</Text>
+      <Forenames>Lt</Forenames>
+      <Text>.-Col. B. M. (rel. temp; spec, appt., CI. GG)</Text>
       <PageNumber>10164</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -111,12 +111,13 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Title>temp. Lt.</Title>
-    </MainItem>
-    <Text>
+      <Title>temp.</Title>
+      <Forenames>Lt</Forenames>
+      <Text>. (actg. Capt.) F. A. E. (Dep. Asst. Dir. of Inland Water Trans., CI. BB, and temp. Maij.)</Text>
       <PageNumber>10713</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Rel. appt. as Dep. Asst. Dir. of Inland Water Trans., CI. BB, and temp, rank of Maj</Text>
       <PageNumber>12088</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -125,8 +126,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Title>temp.</Title>
-      <Text>2nd Lt. J. L. (rel. appt. as Rlv. Traffic Offr., 01. HH, and temp, rank of Lt.)</Text>
+      <Text>temp. 2nd Lt. J. L. (rel. appt. as Rlv. Traffic Offr., 01. HH, and temp, rank of Lt.)</Text>
       <PageNumber>10737</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -135,19 +135,22 @@
       <Key>
         <KeyDitto>— ___ ___</KeyDitto>
       </Key>
-      <Title>Bt. Lt.</Title>
+      <Title>Bt.</Title>
+      <Forenames>Lt</Forenames>
+      <Text>.-Col. R, S., D.S.O. (Tel. appt. 'as G.S.O., 1st Gr. and temp, rank of Lt.-Coh)</Text>
+      <PageNumber>8311</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>8311</PageNumber>
-    <MainItem>___ ___ . 2nd Lt. (now Lt.) W. L. (Rly. Traffic Offr., 01. HH, and temp. Lt.) 8564</MainItem>
-  </Text>
   <ItemGroup>
-    <Key>
-      <KeyDitto>___ ___ .</KeyDitto>
-    </Key>
-    <PageNumber>8564</PageNumber>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ .</KeyDitto>
+      </Key>
+      <Text>2nd Lt. (now Lt.) W. L. (Rly. Traffic Offr., 01. HH, and temp. Lt.)</Text>
+      <PageNumber>8564</PageNumber>
+    </MainItem>
     <SubItem>
+      <Text>Rel. appt. as Rly. Traffic Offr., CI. HH</Text>
       <PageNumber>11989</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -164,24 +167,15 @@
     <MainItem>
       <Key>Allerton</Key>
       <Title>temp.</Title>
-      <Forenames>Capt</Forenames>
-      <Text>O, D.S.O. (rel. appt. as G.S.O., 3rd Gr.)</Text>
+      <Forenames>Capt O</Forenames>
+      <Text>, D.S.O. (rel. appt. as G.S.O., 3rd Gr.)</Text>
       <PageNumber>10337</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Allfrey</Key>
-      <Title>Maj.</Title>
-      <Forenames>H.</Forenames>
-    </MainItem>
-  </ItemGroup>
-  <Text>
-    <PageNumber>10337</PageNumber>
-  </Text>
-  <ItemGroup>
-    <MainItem>
       <Key>Allhusen</Key>
+      <Text>. Maj. F. H., C.M.G., D.S.O. (rel. temp, rank of Lt.Col.) :</Text>
       <PageNumber>9324</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -197,16 +191,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Allsopp</Key>
-      <Title>Itemp. Lt.</Title>
-      <Text>(temp. Oapt.) A. T. W. (R.T.O., CI. FF, and retains 'higher temp, rank)</Text>
+      <Title>Itemp.</Title>
+      <Forenames>Lt</Forenames>
+      <Text>. (temp. Capt.) A. T. W. (R.T.O., CI. FF, and retains 'higher temp, rank)</Text>
       <PageNumber>9552</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Allum</Key>
-      <Title>temp. Capt.</Title>
-      <Text>(temp. Maj-) S. C. (Inspr. of Works, Imp. War Graves Commn., and temp. Lt.-Col.)</Text>
+      <Text>, temp. Capt. (temp. Maj-) S. C. (Inspr. of Works, Imp. War Graves Commn., and temp. Lt.-Col.)</Text>
       <PageNumber>9085</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -226,16 +220,16 @@
       </Key>
       <Title>temp. Lt.</Title>
       <Forenames>C. E.</Forenames>
+      <Text>(rel. appt. of Quay Supt., CI. GG)</Text>
+      <PageNumber>10162</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>10162</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>
         <KeyDitto>___ ___ ___ '</KeyDitto>
       </Key>
+      <Text>2nd Lt D. A. T. (Rly. Traffic Offr., 01. GG)</Text>
       <PageNumber>11675</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -246,21 +240,13 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>D. F.</Forenames>
-    </MainItem>
-    <Text>
+      <Text>, D.lS.O. (G.S.O., 2nd Gr., and rel. temp. rank of TJt.-CoI.)</Text>
       <PageNumber>8371</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Dep. Asst. Prov. Marshal, CI. GG, and temp. . Capt. (Sub. Not.)</Text>
       <PageNumber>11420</PageNumber>
     </SubItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Anderson</Key>
-      <Title>temp. Lt.</Title>
-      <Text>(temp. Maj.) F. E. (rel. appt. as Dep. Asst Dir. of Ky. Traffic, CI. BB, Not. in Gaz. 20 May, 1919, cancelled)</Text>
-      <PageNumber>10542</PageNumber>
-    </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
@@ -269,7 +255,7 @@
       </Key>
       <Title>temp. Lt.</Title>
       <Forenames>H.</Forenames>
-      <Text>'N. (Tel', appt. as Dep. Dir. of Rly. Traffic, CI. BB, and temp, rank of Maj.)</Text>
+      <Text>'N. (Tel, appt. as Dep. Dir. of Rly. Traffic, CI. BB, and temp, rank of Maj.)</Text>
       <PageNumber>10591</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -278,8 +264,8 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Title>Lt.</Title>
-      <Text>-Col. J. D. C.B.E. (Asst. Dir. of Supplies and Trans., CI. X)</Text>
+      <Forenames>Lt</Forenames>
+      <Text>.-Col. J. D. C.B.E. (Asst. Dir. of Supplies and Trans., CI. X)</Text>
       <PageNumber>11859</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -290,11 +276,11 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>R. A. T.</Forenames>
-    </MainItem>
-    <Text>
+      <Text>i(rel. appt. as Staff Lt.) ,</Text>
       <PageNumber>9661</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Rel. appt. as Staff Lt. (Sub. Not.)</Text>
       <PageNumber>10425</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -305,11 +291,11 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>R. N. K.</Forenames>
-    </MainItem>
-    <Text>
+      <Text>(spec, appt., CI. GG)</Text>
       <PageNumber>11315</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Spec, appt., CI. GG (Sub. Not.)</Text>
       <PageNumber>11646</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -318,8 +304,9 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ .</KeyDitto>
       </Key>
-      <Title>Bt. Lt.</Title>
-      <Text>-Ool. S. M., D.S.O. (rel. appt. as Brig.-Gent and temp, rank of Brig.Gen.)</Text>
+      <Title>Bt.</Title>
+      <Forenames>Lt</Forenames>
+      <Text>.-Col. S. M., D.S.O. (rel. appt. as Brig.-Gent and temp, rank of Brig.Gen.)</Text>
       <PageNumber>10978</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -330,11 +317,11 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>V. D.</Forenames>
-    </MainItem>
-    <Text>
+      <Text>.(rel. temp, rank of Maj.)</Text>
       <PageNumber>10322</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Rel. temp, appt., attd. Gen. Staff, Q. GG, and granted rank of Miaj</Text>
       <PageNumber>11432</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -345,34 +332,37 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>W.</Forenames>
+      <Text>, D.S.O., M.C. (rel. appt. as G.S.O., 2nd Gr., Oen. Staff, and rel. temp. rank of Maj.)</Text>
+      <PageNumber>11441</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>11441</PageNumber>
-    <MainItem>___ ___ rOapt. W. H. .(rel. temp. appt. as Staff Capt.). 8320</MainItem>
-  </Text>
   <ItemGroup>
-    <Key>
-      <KeyDitto>___ ___</KeyDitto>
-    </Key>
-    <PageNumber>8320</PageNumber>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Text>rCapt. W. H. .(rel. temp. appt. as Staff Capt.)</Text>
+      <PageNumber>8320</PageNumber>
+    </MainItem>
     <SubItem>
+      <Text>Corr. of date of relg. appt. as Staff Capt</Text>
       <PageNumber>9410</PageNumber>
     </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Aiiderson-Pelhiam</Key>
-      <Title>temp. Ca.</Title>
-      <Text>pt. A., O.B.E. (rel. appt. as Staff Oapt.)</Text>
+      <Title>temp.</Title>
+      <Forenames>Ca</Forenames>
+      <Text>.pt. A., O.B.E. (rel. appt. as Staff Capt.)</Text>
       <PageNumber>10979</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Andrew</Key>
-      <Title>Lt.</Title>
-      <Text>-Col. A. W., C.M.G. (rel. appt. as Brig.-Comdr. and temp, rank of Brig.-Gen.)</Text>
+      <Forenames>Lt</Forenames>
+      <Text>.-Col. A. W., C.M.G. (rel. appt. as Brig.-Comdr. and temp, rank of Brig.-Gen.)</Text>
       <PageNumber>9505</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -383,12 +373,13 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>E.</Forenames>
-    </MainItem>
-    <Text>
+      <Text>, M.C. (rel. temp, rank of Capt.)</Text>
       <PageNumber>11666</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
-      <PageNumber>9204</PageNumber>
+      <Text>
+        <PageNumber>9204</PageNumber>
+      </Text>
       <PageNumber>11990</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -397,8 +388,7 @@
       <Key>
         <KeyDitto>___ ___ .</KeyDitto>
       </Key>
-      <Title>temp.</Title>
-      <Text>2nd Lt. H. {rel. appt. as Asst. Emlb. Staff Offr., CI. FF, and temp, rank of Capt.)</Text>
+      <Text>temp. 2nd Lt. H. {rel. appt. as Asst. Emlb. Staff Offr., CI. FF, and temp, rank of Capt.)</Text>
       <PageNumber>11884</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -414,7 +404,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Andrews</Key>
-      <Title>temp. Oapt.</Title>
+      <Title>temp. Capt.</Title>
       <Forenames>A. J.</Forenames>
       <Text>(Rly. Traffic Offr., CI. GG)</Text>
       <PageNumber>10308</PageNumber>
@@ -425,9 +415,9 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Title>temp. Oapt.</Title>
+      <Title>temp. Capt.</Title>
       <Forenames>N.</Forenames>
-      <Text>, O.B.E. (temp. Staff Oapt.)</Text>
+      <Text>, O.B.E. (temp. Staff Capt.)</Text>
       <PageNumber>11670</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -471,15 +461,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Angold</Key>
-      <Title>Lt.</Title>
+      <Forenames>Lt</Forenames>
+      <Text>. (actg. Capt.) H. F. (rel. spec, appt., CI. HH)</Text>
+      <PageNumber>10056</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>10056</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Angus</Key>
+      <Text>. Lt. J. C. (spec, appt CI. FF!</Text>
       <PageNumber>11786</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -497,8 +487,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Annesley</Key>
-      <Title>Bt. Lt.</Title>
-      <Text>-Col. C. R. T., D.S.O. (Asst. Dir. of Supplies, CI. X)</Text>
+      <Title>Bt.</Title>
+      <Forenames>Lt</Forenames>
+      <Text>.-Col. C. R. T., D.S.O. (Asst. Dir. of Supplies, CI. X)</Text>
       <PageNumber>11342</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -507,25 +498,15 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Title>temp.</Title>
-      <Text>2nd Lt. P. de V. (rel. spec, appt., CI. II, and P.B. appt.)</Text>
+      <Text>temp. 2nd Lt. P. de V. (rel. spec, appt., CI. II, and P.B. appt.)</Text>
       <PageNumber>8473</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Annett</Key>
-      <Title>temp.</Title>
-      <Text>2nd Lt. (actg. Capt.) W. T. (Dep. Asst. Dir. of Supplies and Trans., CI. BB, and temp. Maj.)</Text>
+      <Text>, temp. 2nd Lt. (actg. Capt.) W. T. (Dep. Asst. Dir. of Supplies and Trans., CI. BB, and temp. Maj.)</Text>
       <PageNumber>8926</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Anstey</Key>
-      <Title>Maj</Title>
-      <Text>; (Bt. Lt.-Col.) E. C, D.S.0. (spec, appt., CI. X)</Text>
-      <PageNumber>11984</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -533,18 +514,18 @@
       <Key>Applewhaite</Key>
       <Title>Lt.</Title>
       <Forenames>C. T.</Forenames>
-    </MainItem>
-    <Text>
+      <Text>(Dep. Asst. Prov. Marshal, CI. GG)</Text>
       <PageNumber>8372</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Dep. Asst. Prov. Mamahai, CI. FF, and temp. Capt.</Text>
       <PageNumber>11234</PageNumber>
     </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Ambuithnot</Key>
-      <Title>Oapt.</Title>
+      <Title>Capt.</Title>
       <Forenames>R. W. M.</Forenames>
       <Text>, M.C. (rel. appt. as Staff Capt.)</Text>
       <PageNumber>9933</PageNumber>
@@ -563,8 +544,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Archer</Key>
-      <Title>temp.</Title>
-      <Text>2nd Lt. C. C. (A.D.C.)</Text>
+      <Text>, temp. 2nd Lt. C. C. (A.D.C.)</Text>
       <PageNumber>9505</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -573,7 +553,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Title>temp. Oapt.</Title>
+      <Title>temp. Capt.</Title>
       <Forenames>C. D. W.</Forenames>
       <Text>{Rly. Traffic Offr.j CI. GG.)</Text>
       <PageNumber>10308</PageNumber>
@@ -622,8 +602,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Title>temp.</Title>
-      <Text>2nd Lt. J. (temp. spec</Text>
+      <Text>temp. 2nd Lt. J. (temp. spec</Text>
       <PageNumber>9398</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -632,16 +611,16 @@
       <Key>
         <KeyDitto>___ —</KeyDitto>
       </Key>
-      <Title>temp.</Title>
-      <Text>2nd Lt. (temp. .Capt.) T. E. S., M.B.E. (Dep. Asst. Dir. of Lab., CI. FF, and retains higher temp rank)</Text>
+      <Text>temp. 2nd Lt. (temp. .Capt.) T. E. S., M.B.E. (Dep. Asst. Dir. of Lab., CI. FF, and retains higher temp rank)</Text>
       <PageNumber>9506</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Armytage</Key>
-      <Title>Bt. Lt.</Title>
-      <Text>-Col. Sir G. A., Bt., C.M.G., D.S.O. (rel. appt. as Brig. Comdr. and temp, rank of Brig.-Gen.)</Text>
+      <Title>Bt.</Title>
+      <Forenames>Lt</Forenames>
+      <Text>.-Col. Sir G. A., Bt., C.M.G., D.S.O. (rel. appt. as Brig. Comdr. and temp, rank of Brig.-Gen.)</Text>
       <PageNumber>11645</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -650,16 +629,16 @@
       <Key>Arnold</Key>
       <Title>Lt.</Title>
       <Forenames>A. J.</Forenames>
+      <Text>(empld.. on Disposal of Surplus Stores, CI. BB, and temp. Maj.)</Text>
+      <PageNumber>8971</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>8971</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
+      <Text>2nd Lt. M. P. (spec, appt., 01. FF, and temp. Capt.)</Text>
       <PageNumber>12088</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -675,7 +654,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ash</Key>
-      <Title>temp. Oapt.</Title>
+      <Title>temp. Capt.</Title>
       <Forenames>H. D.</Forenames>
       <Text>(rel. appt. as Staff Capt.)</Text>
       <PageNumber>9810</PageNumber>
@@ -684,21 +663,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Ashby</Key>
-      <Title>temp.</Title>
-      <Text>2nd Lt. H. F. (rel. spec. appt.. CI. HH)</Text>
+      <Text>, temp. 2nd Lt. H. F. (rel. spec. appt.. CI. HH)</Text>
       <PageNumber>10978</PageNumber>
     </MainItem>
   </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___</KeyDitto>
-      </Key>
-      <Title>Lt.</Title>
-      <Text>-Col. J. S. (rel. temp. spec. appt. 01. FF)</Text>
-      <PageNumber>10163</PageNumber>
-    </MainItem>
-  </ItemGroup>
+  <KeyDitto>___ ___ ___</KeyDitto>
   <ItemGroup>
     <MainItem>
       <Key>Ashdown</Key>
@@ -713,14 +682,14 @@
       <Key>Ashe</Key>
       <Title>temp. Lt.</Title>
       <Forenames>B. H. N.</Forenames>
+      <Text>(rel. spec, appt., CI. HH)</Text>
+      <PageNumber>11441</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>11441</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Ashman</Key>
+      <Text>. Lt. H. W. (empld. under Directe. of Requisitions and</Text>
       <PageNumber>10972</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -735,60 +704,52 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Ashton</Key>
-      <Title>Capt.</Title>
-      <Forenames>J.</Forenames>
-      <Text>A, {Asst. Prov. 83J</Text>
-      <PageNumber>2</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Title>Capt.</Title>
       <Forenames>P.</Forenames>
+      <Text>, M.C. (rel. appt. of Brig.-Maf.)</Text>
+      <PageNumber>9114</PageNumber>
+      <PageNumber>10162</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>9114</PageNumber>
-    <PageNumber>10162</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Aspinall</Key>
+      <Text>. Lt.-Col. H. H. H. (rel. appt. of Dep. Asst. Dir. of Labour)</Text>
       <PageNumber>9114</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Asser</Key>
-      <Title>Bt. Lt.</Title>
+      <Title>Bt.</Title>
+      <Forenames>Lt</Forenames>
+      <Text>.-Col. V., C.M.G., D.S.O. (rel. appt. as Brig.Gen. attd. to Hd.-Qr. Unite and temp, rank of Brig.-Gen.)</Text>
+      <PageNumber>11645</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>11645</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Aston</Key>
+      <Text>. temp. Mij. (a.otg. Lt.-Col.) R. G., O.B.E. (rel. temp, rank of Lt.-Col.), Sub. Not</Text>
       <PageNumber>10066</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Atchley</Key>
-      <Title>temp. Mai.</Title>
+      <Title>temp. Maj.</Title>
       <Forenames>C. A.</Forenames>
+      <Text>, O.B.E. (rel. temp. apnt. as Staff Capt. for Rlv. Trans., War Office)</Text>
+      <PageNumber>11884</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>11884</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Athlone</Key>
+      <Text>. Bt. Col. A. A. F. W. A. G.. Earl of, G.C.B., G.C.V.O., C.M.G.. D.S.O. (rel. appt. as Brig.-Gen. and temp, rank of Brig.-Gen.)</Text>
       <PageNumber>10321</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -797,11 +758,11 @@
       <Key>Athol</Key>
       <Title>Lt.</Title>
       <Forenames>G. B. J.</Forenames>
-    </MainItem>
-    <Text>
+      <Text>(temp. spec. I appt., CI. HH)</Text>
       <PageNumber>10738</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Corr. of surname</Text>
       <PageNumber>11338</PageNumber>
     </SubItem>
   </ItemGroup>

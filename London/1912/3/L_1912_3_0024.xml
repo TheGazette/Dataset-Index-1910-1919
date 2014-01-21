@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="0024" pageID="https://www.thegazette.co.uk/id/London/index/year/1912/volume/3/page/0024" pagePDF="https://www.thegazette.co.uk/London/index/year/1912/volume/3/page/0024" pageRDF="https://www.thegazette.co.uk/London/index/year/1912/volume/3/page/0024?view=linked-data" type="index" volume="3" year="1912">
-  <SubCategoryTitle>MILITARY PROMOTIONS, Territorial Force.</SubCategoryTitle>
+<Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="024" pageID="https://www.thegazette.co.uk/id/London/index/year/1912/volume/3/page/024" pagePDF="https://www.thegazette.co.uk/London/index/year/1912/volume/3/page/024" pageRDF="https://www.thegazette.co.uk/London/index/year/1912/volume/3/page/024?view=linked-data" type="index" volume="3" year="1912">
   <ItemGroup>
     <MainItem>
       <Key>Liddell</Key>
@@ -140,8 +139,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Thompson</Key>
-      <Title>2nd Lieut.</Title>
-      <Text>J: P. (resigned)</Text>
+      <Text>2nd Lieut. J: P. (resigned)</Text>
       <PageNumber>6940</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -209,20 +207,21 @@
       <Key>Anderson</Key>
       <Title>Capt.</Title>
       <Forenames>E. L.</Forenames>
+      <Text>(seconded)</Text>
+      <PageNumber>4977</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>4977</PageNumber>
-    <ItemGroup>
-      <MainItem>
-        <Key>Annis</Key>
-        <PageNumber>6860</PageNumber>
-      </MainItem>
-    </ItemGroup>
-  </Text>
+  <ItemGroup>
+    <MainItem>
+      <Key>Annis</Key>
+      <Text>E. G. (Lieut.)</Text>
+      <PageNumber>6860</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Archdale</Key>
+      <Text>M. A(Capt.)</Text>
       <PageNumber>7112</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -263,15 +262,16 @@
     <MainItem>
       <Key>Barnsley</Key>
       <Forenames>R. E.</Forenames>
-      <Text>(Lieut.) '.</Text>
+      <Text>(Lieut.) '</Text>
       <PageNumber>6192</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Beresford</Key>
-      <Title>Lieut.-Col. and Hon. Surg.</Title>
-      <Text>-Gen. Col. R. de la P. (resigned)</Text>
+      <Title>Lieut.-Col. and Hon.</Title>
+      <Forenames>Surg</Forenames>
+      <Text>.-Gen. Col. R. de la P. (resigned)</Text>
       <PageNumber>5187</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -313,7 +313,7 @@
     <MainItem>
       <Key>Blumberg</Key>
       <Forenames>H.</Forenames>
-      <Text>D'A. (Maj.)</Text>
+      <Text>DA. (Maj.)</Text>
       <PageNumber>6703</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -959,14 +959,14 @@
       <Key>Richardson</Key>
       <Title>Capt.</Title>
       <Forenames>H.</Forenames>
+      <Text>(resigned)</Text>
+      <PageNumber>6376</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>6376</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Riddell</Key>
+      <Text>B: (Maj.)</Text>
       <PageNumber>4977</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1165,24 +1165,21 @@
       <PageNumber>4754</PageNumber>
     </MainItem>
   </ItemGroup>
+  <SectionTitle>Territorial Force Nursing Service</SectionTitle>
+  <SubSectionTitle>Principal Matron</SubSectionTitle>
   <ItemGroup>
     <MainItem>
-      <SectionTitle>
-        <Key>Territorial</Key>
-        <Forenames>Force Nursing Service</Forenames>
-      </SectionTitle>
-      <Text>
-        <SectionTitle>Principal Matron</SectionTitle>
-      </Text>
+      <Key>Edmonson</Key>
+      <Forenames>E.</Forenames>
       <PageNumber>5535</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SectionTitle>Matrons</SectionTitle>
+  <SubSectionTitle>Matrons</SubSectionTitle>
   <ItemGroup>
     <MainItem>
       <Key>McKay</Key>
-      <Forenames>C. A.</Forenames>
-      <Text>T '.</Text>
+      <Forenames>C. A. T</Forenames>
+      <Text>'</Text>
       <PageNumber>5535</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1313,13 +1310,12 @@
       <PageNumber>6859</PageNumber>
     </MainItem>
   </ItemGroup>
+  <SectionTitle>Royal Field Artillery</SectionTitle>
   <ItemGroup>
     <MainItem>
-      <SectionTitle>
-        <Key>Royal</Key>
-        <Forenames>Field Artillery</Forenames>
-      </SectionTitle>
-      <Text>. Aikman, W. W. (Lieut.)</Text>
+      <Key>Aikman</Key>
+      <Forenames>W. W.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>6375</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1366,8 +1362,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bassano</Key>
-      <Title>Surg.</Title>
-      <Text>-Capt. H. F. (resigned) ,.</Text>
+      <Forenames>Surg</Forenames>
+      <Text>.-Capt. H. F. (resigned) ,</Text>
       <PageNumber>5531</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1383,7 +1379,7 @@
     <MainItem>
       <Key>Bayley</Key>
       <Forenames>H.</Forenames>
-      <Text>(Oapt.)</Text>
+      <Text>(Capt.)</Text>
       <PageNumber>5857</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1468,7 +1464,7 @@
     <MainItem>
       <Key>Buchan</Key>
       <Forenames>H. F. W. W.</Forenames>
-      <Text>(2nd Lieut.</Text>
+      <Text>(2nd Lieut</Text>
       <PageNumber>5185</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1487,14 +1483,14 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>R. L.</Forenames>
+      <Text>(resigned) ...</Text>
+      <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>ibid.</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Clarke</Key>
+      <Text>R, G. Q. (Capt.'</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1709,8 +1705,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Title>Supy.</Title>
-      <Text>-Maj. and Hon. Lieut.Col. J. (resigned)</Text>
+      <Forenames>Supy</Forenames>
+      <Text>.-Maj. and Hon. Lieut.Col. J. (resigned)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1750,8 +1746,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Halse</Key>
-      <Title>Lieut.</Title>
-      <Text>-Co. A. H. (retire)</Text>
+      <Text>Lieut.-Co. A. H. (retire)</Text>
       <PageNumber>4879</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1966,15 +1961,15 @@
     <MainItem>
       <Key>Lemarchand</Key>
       <Forenames>F. W.</Forenames>
+      <Text>(2nd Lieut.)</Text>
+      <PageNumber>5857</PageNumber>
+      <PageNumber>6104</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>5857</PageNumber>
-    <PageNumber>6104</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Lewis</Key>
+      <Text>H(Capt.)</Text>
       <PageNumber>7024</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1982,8 +1977,7 @@
     <MainItem>
       <Key>McCandlish</Key>
       <Title>Capt. and Hon. Maj.</Title>
-      <Forenames>E.</Forenames>
-      <Text>J</Text>
+      <Forenames>E. J</Forenames>
       <PageNumber>6104</PageNumber>
     </MainItem>
   </ItemGroup>

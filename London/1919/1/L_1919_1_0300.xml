@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="0300" pageID="https://www.thegazette.co.uk/id/London/index/year/1919/volume/1/page/0300" pagePDF="https://www.thegazette.co.uk/London/index/year/1919/volume/1/page/0300" pageRDF="https://www.thegazette.co.uk/London/index/year/1919/volume/1/page/0300?view=linked-data" type="index" volume="1" year="1919">
+<Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="300" pageID="https://www.thegazette.co.uk/id/London/index/year/1919/volume/1/page/300" pagePDF="https://www.thegazette.co.uk/London/index/year/1919/volume/1/page/300" pageRDF="https://www.thegazette.co.uk/London/index/year/1919/volume/1/page/300?view=linked-data" type="index" volume="1" year="1919">
   <ItemGroup>
     <MainItem>
       <Key>Scotland</Key>
@@ -32,8 +32,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Title>Lt.</Title>
-      <Text>-Col. Charles McAdam, Officer; Order of the British Empire</Text>
+      <Forenames>Lt</Forenames>
+      <Text>.-Col. Charles McAdam, Officer; Order of the British Empire</Text>
       <PageNumber>12</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -43,11 +43,11 @@
         <KeyDitto>—— ___</KeyDitto>
       </Key>
       <Forenames>Ernest Alexander</Forenames>
-    </MainItem>
-    <Text>
+      <Text>, Officer, Order of the British Empire</Text>
       <PageNumber>462</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Date</Text>
       <PageNumber>2855</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -56,8 +56,9 @@
       <Key>
         <KeyDitto>—— ___ ___</KeyDitto>
       </Key>
-      <Title>Asst. Admin.</Title>
-      <Text>(A./Unit Admin.) Miss Flora Murray, Mem' ber, Order of the British Empire</Text>
+      <Title>Asst.</Title>
+      <Forenames>Admin</Forenames>
+      <Text>. (A./Unit Admin.) Miss Flora Murray, Mem' ber, Order of the British Empire</Text>
       <PageNumber>11</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -68,11 +69,11 @@
       </Key>
       <Title>Miss</Title>
       <Forenames>Ina Lochhead</Forenames>
-    </MainItem>
-    <Text>
+      <Text>, Member, Order of the British Empire</Text>
       <PageNumber>472</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Date</Text>
       <PageNumber>2855</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -94,11 +95,11 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>John</Forenames>
-    </MainItem>
-    <Text>
+      <Text>, Member, Order of the British Empire</Text>
       <PageNumber>472</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Date ?</Text>
       <PageNumber>855</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -108,11 +109,11 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>John Archibald</Forenames>
-    </MainItem>
-    <Text>
+      <Text>, Officer, Order of the British Empire</Text>
       <PageNumber>463</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Date</Text>
       <PageNumber>2855</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -151,8 +152,7 @@
       <Key>
         <KeyDitto>___ —— ___ ___</KeyDitto>
       </Key>
-      <Title>Capt.</Title>
-      <Text>(A./Lt.-Col.) Thomas Henry, M.C., Companion, D.S.O</Text>
+      <Text>Capt. (A./Lt.-Col.) Thomas Henry, M.C., Companion, D.S.O</Text>
       <PageNumber>585</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -161,8 +161,8 @@
       <Key>
         <KeyDitto>—— ___ ___</KeyDitto>
       </Key>
-      <Title>Lt.</Title>
-      <Text>-Col. William Henry, C.M.G.,D.S.O.,BartoD.S.O.</Text>
+      <Forenames>Lt</Forenames>
+      <Text>.-Col. William Henry, C.M.G.,D.S.O.,BartoD.S.O</Text>
       <PageNumber>3225</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -178,16 +178,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Scovell</Key>
-      <Title>Lt.</Title>
-      <Text>-Col. George Julian Selwyn, Commander, Order of the British Empire</Text>
+      <Forenames>Lt</Forenames>
+      <Text>.-Col. George Julian Selwyn, Commander, Order of the British Empire</Text>
       <PageNumber>83</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Soratohley</Key>
-      <Title>Lt.</Title>
-      <Text>-Col. Victor Henry ' Sylvester,D.S.O., Officer,Order of the British Empire</Text>
+      <Forenames>Lt</Forenames>
+      <Text>.-Col. Victor Henry ' Sylvester,D.S.O., Officer,Order of the British Empire</Text>
       <PageNumber>84</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -203,23 +203,23 @@
   <ItemGroup>
     <MainItem>
       <Key>Scudamore</Key>
-      <Title>Maj.</Title>
+      <Text>, Maj. (T./Brig.-Gen.) ' Charles Philip, C.M.G., D.S.O., Companion, Order of the Bath</Text>
+      <PageNumber>51</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>51</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Scully</Key>
+      <Text>,Capt. (T./Lt.-Col.) Vincent Marcus Barron, O.B.E., Companion, D.S.O</Text>
       <PageNumber>3226</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Seabrook</Key>
-      <Title>Engr. Lt.</Title>
-      <Text>(A. /Ehgr. Lt.Comdr.) James Alfred, Officer, ' Order'of the British Empire :.</Text>
+      <Title>Engr.</Title>
+      <Forenames>Lt</Forenames>
+      <Text>. (A. /Ehgr. Lt.Comdr.) James Alfred, Officer, ' Orderof the British Empire :</Text>
       <PageNumber>112</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -227,17 +227,14 @@
     <MainItem>
       <Key>Seabrooke</Key>
       <Forenames>James Herbert</Forenames>
-      <Text>
-        <CategoryTitle>CLE</CategoryTitle>
-      </Text>
+      <Text>, Esq., CLE., Knight Commander, Order of the Indian Empire</Text>
       <PageNumber>110</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Seagrim</Key>
-      <Title>Maj.</Title>
-      <Text>(T./Lt.-Col.) Albert Harold, Companion, D.S.O</Text>
+      <Text>, Maj. (T./Lt.-Col.) Albert Harold, Companion, D.S.O</Text>
       <PageNumber>20</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -245,19 +242,22 @@
     <MainItem>
       <Key>Seatle</Key>
       <Forenames>John Bridson</Forenames>
+      <Text>, Offioer, Order of the British Empire</Text>
+      <PageNumber>459</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <Text>
-    <PageNumber>459</PageNumber>
     <SubItem>
+      <Text>Date</Text>
       <PageNumber>2855</PageNumber>
     </SubItem>
-    <MainItem>Seddon.-Harry Sterratt,Commander . Order of the British Empire:. 451</MainItem>
-  </Text>
+  </ItemGroup>
   <ItemGroup>
-    <Key>Seddon</Key>
-    <PageNumber>451</PageNumber>
+    <MainItem>
+      <Key>Seddon</Key>
+      <Text>.-Harry Sterratt,Commander . Order of the British Empire:</Text>
+      <PageNumber>451</PageNumber>
+    </MainItem>
     <SubItem>
+      <Text>. Date</Text>
       <PageNumber>2855</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -265,11 +265,11 @@
     <MainItem>
       <Key>Selbie</Key>
       <Forenames>Robert Hope</Forenames>
-    </MainItem>
-    <Text>
+      <Text>, Commander, Order of the British Empire</Text>
       <PageNumber>451</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Date . . .. .. Y.</Text>
       <PageNumber>2855</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -277,11 +277,11 @@
     <MainItem>
       <Key>Selby</Key>
       <Forenames>Prideaux George</Forenames>
-    </MainItem>
-    <Text>
+      <Text>, M.R.C.S;, L.R.C.P., Officer, Order of the British Empire</Text>
       <PageNumber>459</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Date -</Text>
       <PageNumber>2855</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -289,17 +289,18 @@
     <MainItem>
       <Key>Selby-Biggs</Key>
       <Forenames>Edith Lindsay</Forenames>
+      <Text>; Lady,. Offioer, Order of the British . . Empire .. ...-. .. '</Text>
+      <PageNumber>453</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <Text>
-    <PageNumber>453</PageNumber>
     <SubItem>
+      <Text>Date..' '. ' .. ' :.. . :</Text>
       <PageNumber>2855</PageNumber>
     </SubItem>
-  </Text>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Selby</Key>
+      <Text>-Lowndes, Maj: William* Officer, Order of the British Empire</Text>
       <PageNumber>10</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -308,19 +309,22 @@
       <Key>Sells</Key>
       <Title>Mrs.</Title>
       <Forenames>Julia Perronet</Forenames>
+      <Text>, Offioer, Order of the British Empire</Text>
+      <PageNumber>459</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <Text>
-    <PageNumber>459</PageNumber>
     <SubItem>
+      <Text>Date</Text>
       <PageNumber>2866</PageNumber>
     </SubItem>
-    <MainItem>Sempill de Segundo, Maj. Charles, V.D., M.B., B.S., Offioer, Order of the British Empire 459</MainItem>
-  </Text>
+  </ItemGroup>
   <ItemGroup>
-    <Key>Sempill</Key>
-    <PageNumber>459</PageNumber>
+    <MainItem>
+      <Key>Sempill</Key>
+      <Text>de Segundo, Maj. Charles, V.D., M.B., B.S., Offioer, Order of the British Empire</Text>
+      <PageNumber>459</PageNumber>
+    </MainItem>
     <SubItem>
+      <Text>Date</Text>
       <PageNumber>2855</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -346,23 +350,24 @@
       <Key>Sephton</Key>
       <Title>Miss</Title>
       <Forenames>Theresa Frances</Forenames>
-      <Text>, Royal Red Cross, 2nd CI.</Text>
+      <Text>, Royal Red Cross, 2nd CI</Text>
       <PageNumber>78</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Sergeant</Key>
-      <Title>Lt.</Title>
-      <Text>(A./Capt.) Herbert Lee, Member, Order of the British Empire</Text>
+      <Forenames>Lt</Forenames>
+      <Text>. (A./Capt.) Herbert Lee, Member, Order of the British Empire</Text>
       <PageNumber>54</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Sergison-Brooke</Key>
-      <Title>Maj. and Bt. Lt.</Title>
-      <Text>Col. (T./Brig.-Gen.) Bertram Norman, D.S.O., Companion, St. Michael and St. George ... Serjeant, T. /Lt.-Col. Theophilus Hengist, Officer, Order of the British Empire</Text>
+      <Title>Maj. and Bt.</Title>
+      <Forenames>Lt</Forenames>
+      <Text>.Col. (T./Brig.-Gen.) Bertram Norman, D.S.O., Companion, St. Michael and St. George ... Serjeant, T. /Lt.-Col. Theophilus Hengist, Officer, Order of the British Empire</Text>
       <PageNumber>10</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -385,8 +390,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sewell</Key>
-      <Title>Lt.</Title>
-      <Text>-Col. (T./Col.) Evelyn Pierce, D.S.O., M.B., Companion, St. Michael and St. George</Text>
+      <Forenames>Lt</Forenames>
+      <Text>.-Col. (T./Col.) Evelyn Pierce, D.S.O., M.B., Companion, St. Michael and St. George</Text>
       <PageNumber>52</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -395,16 +400,16 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Title>Maj. and Bt. Lt.</Title>
-      <Text>-Col. (T./Brig.Gen.) Horace Someiville, D.S.O., Companion, St. Miohael and St. George</Text>
+      <Title>Maj. and Bt.</Title>
+      <Forenames>Lt</Forenames>
+      <Text>.-Col. (T./Brig.Gen.) Horace Someiville, D.S.O., Companion, St. Miohael and St. George</Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Shackleton</Key>
-      <Title>Mrs.</Title>
-      <Text>, Order of Meroy</Text>
+      <Text>, Mrs., Order of Meroy</Text>
       <PageNumber>197</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -421,11 +426,11 @@
     <MainItem>
       <Key>ShahidHusain</Key>
       <Forenames>Shaikh</Forenames>
-    </MainItem>
-    <Text>
+      <Text>, Officer, Order of the Biitish Empire</Text>
       <PageNumber>461</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Date</Text>
       <PageNumber>2855</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -433,11 +438,11 @@
     <MainItem>
       <Key>Shaikh</Key>
       <Forenames>Yakub Vazir Muhammad</Forenames>
-    </MainItem>
-    <Text>
+      <Text>, Member, Order of the British Empire</Text>
       <PageNumber>476</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Date</Text>
       <PageNumber>2855</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -464,11 +469,11 @@
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>William Fry</Forenames>
-    </MainItem>
-    <Text>
+      <Text>, Officer, Order of the British Empire</Text>
       <PageNumber>459</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Date</Text>
       <PageNumber>2855</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -476,11 +481,11 @@
     <MainItem>
       <Key>Shapley</Key>
       <Forenames>George William Thomas</Forenames>
-    </MainItem>
-    <Text>
+      <Text>, Member, Order of the British Empire</Text>
       <PageNumber>477</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Date</Text>
       <PageNumber>2855</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -488,19 +493,18 @@
     <MainItem>
       <Key>Shapurji</Key>
       <Forenames>Bomanji Billimoria</Forenames>
-    </MainItem>
-    <Text>
+      <Text>, Member, Order of the British Empire</Text>
       <PageNumber>475</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Date</Text>
       <PageNumber>2855</PageNumber>
     </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Sharp</Key>
-      <Title>Capt.</Title>
-      <Text>(T;/Maj.) Aubrey Temple, Officer, Order of the British Empire</Text>
+      <Text>, Capt. (T;/Maj.) Aubrey Temple, Officer, Order of the British Empire</Text>
       <PageNumber>10</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -518,7 +522,7 @@
     <MainItem>
       <Key>Sharpe</Key>
       <Forenames>T.</Forenames>
-      <Text>/Maj. William McCormick, Companion, D.S.O.</Text>
+      <Text>/Maj. William McCormick, Companion, D.S.O</Text>
       <PageNumber>66</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -527,16 +531,18 @@
       <Key>Sharpies</Key>
       <Title>Lt.</Title>
       <Forenames>John Butterfield</Forenames>
+      <Text>, Member, Order of the British Empire</Text>
+      <PageNumber>95</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>95</PageNumber>
-    <MainItem>Shaw.D'onald Stuart, Member, Order of the British Empire 472</MainItem>
-  </Text>
   <ItemGroup>
-    <Key>Shaw</Key>
-    <PageNumber>472</PageNumber>
+    <MainItem>
+      <Key>Shaw</Key>
+      <Text>.Donald Stuart, Member, Order of the British Empire</Text>
+      <PageNumber>472</PageNumber>
+    </MainItem>
     <SubItem>
+      <Text>. Date</Text>
       <PageNumber>2855</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -545,8 +551,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Title>Surgn.</Title>
-      <Text>-Comdr. Ernest Albert, J M.D., B:A., Officer, Order of the British'Empire</Text>
+      <Forenames>Surgn</Forenames>
+      <Text>.-Comdr. Ernest Albert, J M.D., B:A., Officer, Order of the BritishEmpire</Text>
       <PageNumber>112</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -561,32 +567,37 @@
       <PageNumber>459</PageNumber>
     </MainItem>
   </ItemGroup>
+  <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
+  <KeyDitto>___</KeyDitto>
+  <KeyDitto>___ —— ___ ___</KeyDitto>
+  <KeyDitto>___ ___ ___ ___</KeyDitto>
+  <KeyDitto>___ ___ ___ ___</KeyDitto>
+  <KeyDitto>___ ___ ___ ___</KeyDitto>
+  <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
+  <KeyDitto>___ ___ ___ ___</KeyDitto>
   <ItemGroup>
     <MainItem>
-      <Key>Shaw</Key>
-      <Title>Maj.</Title>
-    </MainItem>
-    <Text>
-      <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
-      <KeyDitto>___</KeyDitto>
-      <KeyDitto>___ —— ___ ___</KeyDitto>
-      <KeyDitto>___ ___ ___ ___</KeyDitto>
-      <KeyDitto>___ ___ ___ ___</KeyDitto>
-      <KeyDitto>___ ___ ___ ___</KeyDitto>
-      <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
-      <KeyDitto>___ ___ ___ ___</KeyDitto>
-      <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
+      <Key>
+        <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
+      </Key>
+      <Forenames>John Tresidder</Forenames>
+      <Text>, Member, Order of the British Empire Date Shepperd, Walter Henry, Officer, Order of the British Empire.. Date .. Shera, Maj. Louis Murray, M.C, Officer, Order of the British Empire .. . . .. Shere Shemshere Jung Bahadur Rana, Maj.-Gen. Honorary Knight Commander, Order of the British Empire .. .. Sheridan, T./Maj (T./Col.) Philip Cahill, C°mpanion,.'St. Michael and St. George .. .. .. Sheringham, T./Capt. (A./Lt.-Col.) Charles John de Bunsen, M.C., Companion, D.S.O. .. .. Sherington, Maj. Guy, Officer; Order of the British Empire. ... Shield, Capt. John Gilson, Mber, Order of the British Empire .... Shingleton, T./Maj. Leslie, Officer, Order of the British Empire .... Shinkwin, Maj.(T/Col.) Ion Richard Staveley, D.S.O., Companion . St. Michael and St George .. Shipley;Waiter Henry Foster; Mem. ber Order of the British Empire Date .. .. . ... .. .Shore, Lewis Erie, M.D., C.Ch., . Officer, Order of the British . .' Empire :. .. . ..' 'Shorland, T./2nd Lt. JamesWilliam, 1 Companion, D.S.O. .. .. ;Shorrock, 2nd. Lt. James,' Com... 'panion, D.S.O.' '</Text>
       <PageNumber>55</PageNumber>
-      <SubItem>
-        <PageNumber>51</PageNumber>
-      </SubItem>
-      <SubItem>
-        <PageNumber>11</PageNumber>
-        <PageNumber>35</PageNumber>
-      </SubItem>
-      <PageNumber>13</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>/&gt;</Text>
+      <PageNumber>51</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>
+        <PageNumber>11</PageNumber>
+      </Text>
+      <PageNumber>35</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>
+        <PageNumber>13</PageNumber>
+      </Text>
       <PageNumber>1956</PageNumber>
     </SubItem>
   </ItemGroup>

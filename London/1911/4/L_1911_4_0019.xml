@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="0019" pageID="https://www.thegazette.co.uk/id/London/index/year/1911/volume/4/page/0019" pagePDF="https://www.thegazette.co.uk/London/index/year/1911/volume/4/page/0019" pageRDF="https://www.thegazette.co.uk/London/index/year/1911/volume/4/page/0019?view=linked-data" type="index" volume="4" year="1911">
+<Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="019" pageID="https://www.thegazette.co.uk/id/London/index/year/1911/volume/4/page/019" pagePDF="https://www.thegazette.co.uk/London/index/year/1911/volume/4/page/019" pageRDF="https://www.thegazette.co.uk/London/index/year/1911/volume/4/page/019?view=linked-data" type="index" volume="4" year="1911">
   <ItemGroup>
     <MainItem>
       <Key>Montgomery</Key>
@@ -50,14 +50,14 @@
       <Key>Plumer</Key>
       <Title>Lieut.-Gen. Sir</Title>
       <Forenames>H. C. O.</Forenames>
+      <Text>, General Officer Commanding-inChief, Northern Command ...</Text>
+      <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>ibid.</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Pollard</Key>
+      <Text>, .Maj. J. H. W., General Staff Officer, 2nd Grade</Text>
       <PageNumber>7375</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -173,8 +173,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brabourne</Key>
-      <Title>2nd Lieut. Lord</Title>
-      <Text>(resigned)</Text>
+      <Text>, 2nd Lieut. Lord (resigned)</Text>
       <PageNumber>9451</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -217,14 +216,14 @@
     <MainItem>
       <Key>Clegg</Key>
       <Forenames>H. N. M.</Forenames>
+      <Text>(Capt.)</Text>
+      <PageNumber>7198</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>7198</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Dalrymple</Key>
+      <Text>Hamilton, Lieut. N. V. C. (resigned)</Text>
       <PageNumber>8718</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -266,8 +265,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Granard</Key>
-      <Title>Rt. Hon. Earl</Title>
-      <Text>of (Capt.)</Text>
+      <Forenames>Rt</Forenames>
+      <Text>. Hon. Earl of (Capt.)</Text>
       <PageNumber>8718</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -300,14 +299,15 @@
     <MainItem>
       <Key>Kempthorne</Key>
       <Forenames>H. N.</Forenames>
+      <Text>(Capt.)</Text>
+      <PageNumber>7955</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>7955</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
-      <Key>L</Key>
+      <Key>LEstrange</Key>
+      <Forenames>T. J.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>7285</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -417,14 +417,14 @@
     <MainItem>
       <Key>Custance</Key>
       <Forenames>C. N.</Forenames>
+      <Text>(Lieut.)</Text>
+      <PageNumber>7376</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>7376</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>De</Key>
+      <Text>la Pryme, P. C! (Capt.)</Text>
       <PageNumber>9450</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -635,7 +635,7 @@
     </MainItem>
   </ItemGroup>
   <SectionTitle>Boyal Military College</SectionTitle>
-  <SectionTitle>School of Military Engineering</SectionTitle>
+  <SubSectionTitle>School of Military Engineering</SubSectionTitle>
   <ItemGroup>
     <MainItem>
       <Key>Eddis</Key>
@@ -1103,8 +1103,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Trevor</Key>
-      <Title>Surg.</Title>
-      <Text>-Gen. Sir F. W. (retained supernumerary)</Text>
+      <Forenames>Surg</Forenames>
+      <Text>.-Gen. Sir F. W. (retained supernumerary)</Text>
       <PageNumber>9450</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1184,16 +1184,16 @@
     <MainItem>
       <Key>Dixson</Key>
       <Forenames>L. L.</Forenames>
+      <Text>(Lieut.)</Text>
+      <PageNumber>8057</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>8057</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
+      <Text>(Capt.)</Text>
       <PageNumber>8718</PageNumber>
       <PageNumber>9450</PageNumber>
     </MainItem>
@@ -1220,22 +1220,23 @@
   <ItemGroup>
     <MainItem>
       <Key>O</Key>
+      <Text>'Rorke, Rev. B. G</Text>
+      <PageNumber>8350</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>8350</PageNumber>
-    <SectionTitle>Chaplain</SectionTitle>
-    <ItemGroup>
-      <MainItem>
-        <Key>O</Key>
-        <PageNumber>7797</PageNumber>
-      </MainItem>
-    </ItemGroup>
-    <SectionTitle>Brevet</SectionTitle>
-  </Text>
+  <SectionTitle>Temporary Boman Catholic Chaplain</SectionTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>O</Key>
+      <Text>'Reilly, Rev. J .-</Text>
+      <PageNumber>7797</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <SectionTitle>Brevet</SectionTitle>
   <ItemGroup>
     <MainItem>
       <Key>Conway-Gordon</Key>
+      <Text>(Col.)</Text>
       <PageNumber>7376</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1243,15 +1244,17 @@
     <MainItem>
       <Key>FitzGerald</Key>
       <Forenames>G. J.</Forenames>
+      <Text>(Lieut.-Col.)</Text>
+      <PageNumber>7285</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>7285</PageNumber>
-    <SectionTitle>Memoranda</SectionTitle>
-  </Text>
+  <SectionTitle>Memoranda</SectionTitle>
   <ItemGroup>
     <MainItem>
-      <Key>A</Key>
+      <Key>ACourt</Key>
+      <Title>Lieut.</Title>
+      <Forenames>C. J.</Forenames>
+      <Text>(removed on account of non-employment)</Text>
       <PageNumber>7797</PageNumber>
     </MainItem>
   </ItemGroup>

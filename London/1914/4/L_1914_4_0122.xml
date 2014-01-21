@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="0122" pageID="https://www.thegazette.co.uk/id/London/index/year/1914/volume/4/page/0122" pagePDF="https://www.thegazette.co.uk/London/index/year/1914/volume/4/page/0122" pageRDF="https://www.thegazette.co.uk/London/index/year/1914/volume/4/page/0122?view=linked-data" type="index" volume="4" year="1914">
+<Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="122" pageID="https://www.thegazette.co.uk/id/London/index/year/1914/volume/4/page/122" pagePDF="https://www.thegazette.co.uk/London/index/year/1914/volume/4/page/122" pageRDF="https://www.thegazette.co.uk/London/index/year/1914/volume/4/page/122?view=linked-data" type="index" volume="4" year="1914">
   <ItemGroup>
     <MainItem>
       <Key>Batterbury</Key>
@@ -11,8 +11,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Beley</Key>
-      <Title>George .</Title>
-      <Text>(temporary Lieut.)'</Text>
+      <Forenames>George</Forenames>
+      <Text>.(temporary Lieut.)'</Text>
       <PageNumber>9543</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -87,11 +87,11 @@
       <Key>Byass</Key>
       <Title>Brevet Col.</Title>
       <Forenames>Harry N.</Forenames>
-    </MainItem>
-    <Text>
+      <Text>(to command 7th Bat.)</Text>
       <PageNumber>7904</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Correction of date</Text>
       <PageNumber>9501</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -115,11 +115,11 @@
     <MainItem>
       <Key>Caswell</Key>
       <Forenames>C. G. C. W. L.</Forenames>
-    </MainItem>
-    <Text>
+      <Text>(temporary Lieut.)</Text>
       <PageNumber>9380</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Temporary Capt</Text>
       <PageNumber>10551</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -145,11 +145,11 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>William S.</Forenames>
-    </MainItem>
-    <Text>
+      <Text>(temporary 2nd Lieut.)</Text>
       <PageNumber>9544</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Temporary Lieut</Text>
       <PageNumber>9990</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -205,11 +205,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Cooper</Key>
-      <Forenames>John Stephen</Forenames>
-      <Text>
+      <Key>
         <KeyDitto />
-      </Text>
+      </Key>
+      <Text>2nd Lieut.)</Text>
       <PageNumber>10194</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -217,22 +216,24 @@
     <MainItem>
       <Key>Cousin</Key>
       <Forenames>Arthur Norman</Forenames>
+      <Text>(temporary 2nd Lieut.) a</Text>
+      <PageNumber>544</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <Text>
-    <PageNumber>544</PageNumber>
     <SubItem>
+      <Text>Correction</Text>
       <PageNumber>10449</PageNumber>
     </SubItem>
     <SubItem>
+      <Text>Correction of date</Text>
       <PageNumber>10909</PageNumber>
     </SubItem>
-  </Text>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>
         <KeyDitto>— ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
+      <Text>(temporary) 2nd Lieut. Charles Norman (correction of date)</Text>
       <PageNumber>10693</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -240,14 +241,14 @@
     <MainItem>
       <Key>Dixon</Key>
       <Forenames>Cyril Benton</Forenames>
+      <Text>(temporary 2nd Lieut.)</Text>
+      <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>ibid.</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Earl</Key>
+      <Text>,,Francis Campion (temporary 2nd Lieut.)</Text>
       <PageNumber>10665</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -272,11 +273,11 @@
     <MainItem>
       <Key>Ellwood</Key>
       <Forenames>Cecil Francis</Forenames>
-    </MainItem>
-    <Text>
+      <Text>(temporary Lieut.)</Text>
       <PageNumber>9543</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>temporary Capt</Text>
       <PageNumber>9990</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -365,28 +366,29 @@
     <MainItem>
       <Key>Hunt</Key>
       <Forenames>Alfred John</Forenames>
+      <Text>(2nd Lieut.)</Text>
+      <PageNumber>8021</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>8021</PageNumber>
-    <ItemGroup>
-      <MainItem>
-        <Key>Hunter</Key>
-        <PageNumber>11207</PageNumber>
-      </MainItem>
-    </ItemGroup>
-  </Text>
+  <ItemGroup>
+    <MainItem>
+      <Key>Hunter</Key>
+      <Text>. Leslie Ellis (temporary 2nd Lieut.) \</Text>
+      <PageNumber>11207</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Ingold</Key>
+      <Text>,.. Geoffrey John Herbert (temporary 2nd Lieut.)</Text>
       <PageNumber>9544</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Jackson</Key>
-      <Forenames>Charles</Forenames>
-      <Text>B, A. (Capt.)</Text>
+      <Forenames>Charles B</Forenames>
+      <Text>, A. (Capt.)</Text>
       <PageNumber>8020</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -444,11 +446,11 @@
       <Key>Mainwaring</Key>
       <Title>Col.</Title>
       <Forenames>Charles V.</Forenames>
-    </MainItem>
-    <Text>
+      <Text>(to command the Sheffield Bat.)</Text>
       <PageNumber>8222</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Correction of date</Text>
       <PageNumber>10693</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -465,11 +467,11 @@
     <MainItem>
       <Key>Maunder</Key>
       <Forenames>Sidney William</Forenames>
-    </MainItem>
-    <Text>
+      <Text>(temporary Qrmr. and Hon. Lieut.)</Text>
       <PageNumber>9544</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Antedated</Text>
       <PageNumber>10693</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -501,11 +503,11 @@
     <MainItem>
       <Key>Moore</Key>
       <Forenames>Reginald Eric J.</Forenames>
-    </MainItem>
-    <Text>
+      <Text>(temporary 2nd Lieut.)</Text>
       <PageNumber>9544</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Temporary Lieut</Text>
       <PageNumber>9990</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -645,7 +647,7 @@
       <Key>Quill</Key>
       <Title>Lieut.-Col.</Title>
       <Forenames>Berkeley C.</Forenames>
-      <Text>C.B. (to command 11th Bat.)</Text>
+      <Text>C.B. (to command 17th Bat.)</Text>
       <PageNumber>10113</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -653,16 +655,16 @@
     <MainItem>
       <Key>Quirk</Key>
       <Forenames>D.</Forenames>
+      <Text>(temporary Lieut.)</Text>
+      <PageNumber>10551</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>10551</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>
         <KeyDitto>— ___ ___ ___</KeyDitto>
       </Key>
+      <Text>J A. (temporary Lieut.)</Text>
       <PageNumber>9380</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -678,11 +680,11 @@
     <MainItem>
       <Key>Richards</Key>
       <Forenames>Ernest Albert</Forenames>
-    </MainItem>
-    <Text>
+      <Text>(temporary Lieut.)</Text>
       <PageNumber>9380</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>temporary Maj</Text>
       <PageNumber>10909</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -714,17 +716,18 @@
     <MainItem>
       <Key>Rowthorn</Key>
       <Forenames>W.</Forenames>
+      <Text>II. (temporary Capt.)</Text>
+      <PageNumber>9669</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <Text>
-    <PageNumber>9669</PageNumber>
     <SubItem>
+      <Text>Antedated</Text>
       <PageNumber>10909</PageNumber>
     </SubItem>
-  </Text>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Sanders</Key>
+      <Text>. Arthur E. (Lieut.)</Text>
       <PageNumber>8020</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -842,11 +845,11 @@
     <MainItem>
       <Key>Tunbridge</Key>
       <Forenames>Norman Leslie</Forenames>
-    </MainItem>
-    <Text>
+      <Text>(temporary 2nd Lieut.)</Text>
       <PageNumber>9544</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Temporary Lieut</Text>
       <PageNumber>9690</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -895,7 +898,7 @@
     <MainItem>
       <Key>Whitle</Key>
       <Forenames>John William</Forenames>
-      <Text>(temporarv Capt.) :.</Text>
+      <Text>(temporarv Capt.) :</Text>
       <PageNumber>10449</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -920,11 +923,11 @@
       <Key>Wolseley</Key>
       <Title>Maj.</Title>
       <Forenames>John F.</Forenames>
-    </MainItem>
-    <Text>
+      <Text>(to command 8th Bat. and to be temporary Lieut.-Col.)</Text>
       <PageNumber>7904</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Correction of date</Text>
       <PageNumber>9501</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -948,16 +951,16 @@
     <MainItem>
       <Key>Yale</Key>
       <Title>Col.</Title>
-      <Forenames>James</Forenames>
-    </MainItem>
-    <Text>
+      <Forenames>James C</Forenames>
+      <Text>, D.S.O. (to command 10th Bat.)</Text>
       <PageNumber>7904</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Correction of date</Text>
       <PageNumber>9501</PageNumber>
     </SubItem>
   </ItemGroup>
-  <SectionTitle>The Durham Light Infantry</SectionTitle>
+  <SubSectionTitle>The Durham Light Infantry</SubSectionTitle>
   <ItemGroup>
     <MainItem>
       <Key>Ainsworth</Key>
@@ -978,11 +981,12 @@
     <MainItem>
       <Key>Ashby</Key>
       <Title>Col.</Title>
-    </MainItem>
-    <Text>
+      <Forenames>George A.</Forenames>
+      <Text>, C.B. (to command 13th Bat.)</Text>
       <PageNumber>7904</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Correction of date</Text>
       <PageNumber>9501</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1032,7 +1036,7 @@
     <MainItem>
       <Key>Blacket</Key>
       <Forenames>Pendrill Cyril</Forenames>
-      <Text>(temporary Lieut.) .'.</Text>
+      <Text>(temporary Lieut.)</Text>
       <PageNumber>10925</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1075,11 +1079,11 @@
       <Key>Bowes</Key>
       <Title>Lieut.-Col.</Title>
       <Forenames>Hugh</Forenames>
-    </MainItem>
-    <Text>
+      <Text>(to command the County Bat., and to be temporary Lieut.-Col.)</Text>
       <PageNumber>ibid.</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Date of appointment</Text>
       <PageNumber>10431</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1119,7 +1123,7 @@
     <MainItem>
       <Key>Carr-Ellison</Key>
       <Forenames>Thomas</Forenames>
-      <Text>(temporarv Lieut.) ... .... ... .:.</Text>
+      <Text>(temporarv Lieut.) ... .... ... .:</Text>
       <PageNumber>9243</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1132,15 +1136,6 @@
       <PageNumber>11127</PageNumber>
     </MainItem>
   </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
-      </Key>
-      <Forenames>John Digby</Forenames>
-      <Text>(2nd . Lieut.) . . .:. 9W</Text>
-      <PageNumber>2</PageNumber>
-    </MainItem>
-  </ItemGroup>
+  <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
 </Index>
 

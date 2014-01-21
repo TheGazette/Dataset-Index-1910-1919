@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="0015" pageID="https://www.thegazette.co.uk/id/London/index/year/1911/volume/3/page/0015" pagePDF="https://www.thegazette.co.uk/London/index/year/1911/volume/3/page/0015" pageRDF="https://www.thegazette.co.uk/London/index/year/1911/volume/3/page/0015?view=linked-data" type="index" volume="3" year="1911">
-  <SubCategoryTitle>MILITARY PROMOTIONS.</SubCategoryTitle>
+<Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="015" pageID="https://www.thegazette.co.uk/id/London/index/year/1911/volume/3/page/015" pagePDF="https://www.thegazette.co.uk/London/index/year/1911/volume/3/page/015" pageRDF="https://www.thegazette.co.uk/London/index/year/1911/volume/3/page/015?view=linked-data" type="index" volume="3" year="1911">
+  <SectionTitle>School of Instruction for Mounted Infantry</SectionTitle>
   <ItemGroup>
     <MainItem>
-      <Key>School</Key>
-      <Text>
-        <SectionTitle>Infantry</SectionTitle>
-      </Text>
+      <Key>Allgood</Key>
+      <Title>Maj.</Title>
+      <Forenames>W. H. L.</Forenames>
+      <Text>(Assistant Commandant)</Text>
       <PageNumber>6731</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -54,14 +54,6 @@
       <Forenames>F.</Forenames>
       <Text>(Assist. Commissary and Hon. Lieut.)</Text>
       <PageNumber>6951</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Milman</Key>
-      <Title>Lieut.</Title>
-      <Text>0. C. E. (Ordnance Officer, Fourth Class)</Text>
-      <PageNumber>6883</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -126,7 +118,7 @@
       <PageNumber>6373</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SectionTitle>Naval Ordnance Department</SectionTitle>
+  <SubSectionTitle>Naval Ordnance Department</SubSectionTitle>
   <ItemGroup>
     <MainItem>
       <Key>Aplin</Key>
@@ -227,14 +219,6 @@
       <Forenames>H. S.</Forenames>
       <Text>(retired pay)</Text>
       <PageNumber>5354</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Browne</Key>
-      <Forenames>E. G.</Forenames>
-      <Text>(Lieut.-Col. 1</Text>
-      <PageNumber>5919</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -409,8 +393,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fayrer</Key>
-      <Title>Lt.</Title>
-      <Text>-Col. Sir J., Bart. (retired) Finny, C. M(Lieut.) Foster, A. L. (Capt.) Fraser, A. E. G. (Capt.) ... Fretz, W. L. E. (Lieut.) ... Frost, W. A. (Lieut.) Graham, W. T. (Lieut.) ... Gray, W. L. (Lieut.-Col.)</Text>
+      <Forenames>Lt</Forenames>
+      <Text>.-Col. Sir J., Bart. (retired) Finny, C. M(Lieut.) Foster, A. L. (Capt.) Fraser, A. E. G. (Capt.) ... Fretz, W. L. E. (Lieut.) ... Frost, W. A. (Lieut.) Graham, W. T. (Lieut.) ... Gray, W. L. (Lieut.-Col.)</Text>
       <PageNumber>5919</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -557,14 +541,14 @@
     <MainItem>
       <Key>Laird</Key>
       <Forenames>W. B.</Forenames>
+      <Text>(Lieut.)</Text>
+      <PageNumber>6374</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>6374</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Leckie</Key>
+      <Text>; M. (Capt.)</Text>
       <PageNumber>6227</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -703,20 +687,21 @@
     <MainItem>
       <Key>Norman</Key>
       <Forenames>H. H.</Forenames>
+      <Text>(Maj.)</Text>
+      <PageNumber>5806</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>5806</PageNumber>
-    <ItemGroup>
-      <MainItem>
-        <Key>O</Key>
-        <PageNumber>6227</PageNumber>
-      </MainItem>
-    </ItemGroup>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>O</Key>
+      <Text>'Kelly, R. (Capt.)</Text>
+      <PageNumber>6227</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>O</Key>
+      <Text>'Reilly, P. S. (Maj.)</Text>
       <PageNumber>6883</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1032,13 +1017,13 @@
       <PageNumber>6227</PageNumber>
     </MainItem>
   </ItemGroup>
+  <SectionTitle>Army Medical Reserve of Officers</SectionTitle>
   <ItemGroup>
     <MainItem>
-      <SectionTitle>
-        <Key>Army</Key>
-        <Forenames>Medical Reserve</Forenames>
-      </SectionTitle>
-      <Text>of Officers. Bury, Lieut. C. (resigned)</Text>
+      <Key>Bury</Key>
+      <Title>Lieut.</Title>
+      <Forenames>C.</Forenames>
+      <Text>(resigned)</Text>
       <PageNumber>5716</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1103,7 +1088,7 @@
     </MainItem>
   </ItemGroup>
   <SectionTitle>Army Veterinary Service</SectionTitle>
-  <SectionTitle>Army Veterinary Corps</SectionTitle>
+  <SubSectionTitle>Army Veterinary Corps</SubSectionTitle>
   <ItemGroup>
     <MainItem>
       <Key>Dixson</Key>
@@ -1231,27 +1216,26 @@
     <MainItem>
       <Key>Thwaytes</Key>
       <Forenames>R. C. G.</Forenames>
+      <Text>(Lieut.)</Text>
+      <PageNumber>6227</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>6227</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Woods</Key>
+      <Text>, H, S. (Lieut.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SectionTitle>let Class</SectionTitle>
+  <SectionTitle>Army Chaplains' Department, let Class</SectionTitle>
   <ItemGroup>
     <MainItem>
       <Key>Brough</Key>
-      <Title>Rev.</Title>
-      <Text>J</Text>
+      <Text>, Rev. J</Text>
       <PageNumber>6883</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SectionTitle>3rd Class</SectionTitle>
+  <SubSectionTitle>3rd Class</SubSectionTitle>
   <ItemGroup>
     <MainItem>
       <Key>Baynham</Key>
@@ -1349,14 +1333,12 @@
       <PageNumber>7011</PageNumber>
     </MainItem>
   </ItemGroup>
+  <SubSectionTitle>4th Class</SubSectionTitle>
   <ItemGroup>
     <MainItem>
-      <Key>White</Key>
+      <Key>Alford</Key>
       <Title>Rev.</Title>
-      <Forenames>R. L.</Forenames>
-      <Text>
-        <SectionTitle>4th Class</SectionTitle>
-      </Text>
+      <Forenames>C. S. L.</Forenames>
       <PageNumber>5634</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1373,8 +1355,7 @@
     <MainItem>
       <Key>Fitch</Key>
       <Title>Rev.</Title>
-      <Forenames>E.</Forenames>
-      <Text>A</Text>
+      <Forenames>E. A</Forenames>
       <PageNumber>5634</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1391,8 +1372,7 @@
     <MainItem>
       <Key>Green</Key>
       <Title>Rev.</Title>
-      <Forenames>E.</Forenames>
-      <Text>W</Text>
+      <Forenames>E. W</Forenames>
       <PageNumber>5634</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1517,8 +1497,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Belk</Key>
-      <Title>Lt.</Title>
-      <Text>-Col. W. (retired)</Text>
+      <Forenames>Lt</Forenames>
+      <Text>.-Col. W. (retired)</Text>
       <PageNumber>6802</PageNumber>
     </MainItem>
   </ItemGroup>

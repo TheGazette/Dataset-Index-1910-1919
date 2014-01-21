@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="0148" pageID="https://www.thegazette.co.uk/id/London/index/year/1914/volume/3/page/0148" pagePDF="https://www.thegazette.co.uk/London/index/year/1914/volume/3/page/0148" pageRDF="https://www.thegazette.co.uk/London/index/year/1914/volume/3/page/0148?view=linked-data" type="index" volume="3" year="1914">
-  <SubCategoryTitle>NAVAL PEOMOTIONS.</SubCategoryTitle>
+<Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="148" pageID="https://www.thegazette.co.uk/id/London/index/year/1914/volume/3/page/148" pagePDF="https://www.thegazette.co.uk/London/index/year/1914/volume/3/page/148" pageRDF="https://www.thegazette.co.uk/London/index/year/1914/volume/3/page/148?view=linked-data" type="index" volume="3" year="1914">
+  <SectionTitle>Native Indian Land Forces</SectionTitle>
   <ItemGroup>
     <MainItem>
-      <SectionTitle>
-        <Key>Native</Key>
-        <Forenames>Indian Land Forces</Forenames>
-      </SectionTitle>
-      <Text>. Singh, Kanwar Amar (Capt.)</Text>
+      <Key>Singh</Key>
+      <Forenames>Kanwar Amar</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>7107</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -21,21 +19,19 @@
       <PageNumber>7501</PageNumber>
     </MainItem>
   </ItemGroup>
+  <SectionTitle>Indian Civil Veterinary Department</SectionTitle>
+  <SubSectionTitle>Lieutenant-Colonel</SubSectionTitle>
+  <SubSubSectionTitle>Retired List</SubSubSectionTitle>
   <ItemGroup>
     <MainItem>
-      <SectionTitle>
-        <Key>Indian</Key>
-        <Forenames>Civil Veterinary Department</Forenames>
-      </SectionTitle>
-      <Text>
-        <SectionTitle>Lieutenant-Colonel</SectionTitle>
-        <SectionTitle>Retired List</SectionTitle>
-      </Text>
+      <Key>Maxwell</Key>
+      <Forenames>Harrie Malcolm</Forenames>
+      <Text>, F.R.C.V.S</Text>
       <PageNumber>7108</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SectionTitle>Lieutenants</SectionTitle>
-  <SectionTitle>Retired List</SectionTitle>
+  <SubSectionTitle>Lieutenants</SubSectionTitle>
+  <SubSubSectionTitle>Retired List</SubSubSectionTitle>
   <ItemGroup>
     <MainItem>
       <Key>Brownlow</Key>
@@ -50,8 +46,8 @@
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SectionTitle>Department</SectionTitle>
-  <SectionTitle>Senior Assistant Surgeons</SectionTitle>
+  <SectionTitle>Indian Subordinate Medical Department</SectionTitle>
+  <SubSectionTitle>Senior Assistant Surgeons</SubSectionTitle>
   <ItemGroup>
     <MainItem>
       <Key>Aicher</Key>
@@ -96,14 +92,14 @@
     <MainItem>
       <Key>Mills</Key>
       <Forenames>Percival Beatson</Forenames>
+      <Text>(Hon. Lieut.)</Text>
+      <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>___ ___ ___</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>O</Key>
+      <Text>'Brien, George Patrick (Hon. Lieut.) ...</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -131,40 +127,41 @@
       <PageNumber>5966</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SectionTitle>Retired List</SectionTitle>
+  <SubSubSectionTitle>Retired List</SubSubSectionTitle>
   <ItemGroup>
     <MainItem>
       <Key>Murphy</Key>
       <Title>Hon. Capt.</Title>
-      <Forenames>Daniel</Forenames>
-      <Text>O'Connell</Text>
+      <Forenames>Daniel O</Forenames>
+      <Text>'Connell</Text>
       <PageNumber>5559</PageNumber>
     </MainItem>
   </ItemGroup>
   <SectionTitle>Indian Army Departments</SectionTitle>
-  <SectionTitle>Commissaries</SectionTitle>
+  <SubSectionTitle>Commissaries</SubSectionTitle>
   <ItemGroup>
     <MainItem>
       <Key>Goodhall</Key>
       <Forenames>Edward James</Forenames>
+      <Text>(Hon. Capt.)</Text>
+      <PageNumber>5966</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>5966</PageNumber>
-    <ItemGroup>
-      <MainItem>
-        <Key>O</Key>
-        <PageNumber>ibid.</PageNumber>
-      </MainItem>
-    </ItemGroup>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>O</Key>
+      <Text>'Brien, William (Hon. Capt.) ...</Text>
+      <PageNumber>ibid.</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>O</Key>
+      <Text>'Donnell, Charles (Hon. Capt.)...</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SectionTitle>Retired List</SectionTitle>
+  <SubSubSectionTitle>Retired List</SubSubSectionTitle>
   <ItemGroup>
     <MainItem>
       <Key>Arthur</Key>
@@ -184,7 +181,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lawrence</Key>
-      <Title>Hon. Capt. John .</Title>
+      <Title>Hon. Capt.</Title>
+      <Forenames>John</Forenames>
       <PageNumber>5456</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -196,7 +194,7 @@
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SectionTitle>Deputy Commissaries</SectionTitle>
+  <SubSectionTitle>Deputy Commissaries</SubSectionTitle>
   <ItemGroup>
     <MainItem>
       <Key>Allwright</Key>
@@ -217,75 +215,85 @@
     <MainItem>
       <Key>Coulter</Key>
       <Forenames>Robert</Forenames>
+      <Text>(Hon. Capt.)</Text>
+      <PageNumber>7501</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>7501</PageNumber>
-    <ItemGroup>
-      <MainItem>
-        <Key>Kent</Key>
-        <PageNumber>6999</PageNumber>
-      </MainItem>
-    </ItemGroup>
-    <ItemGroup>
-      <MainItem>
-        <Key>Nairn</Key>
-        <PageNumber>7477</PageNumber>
-      </MainItem>
-    </ItemGroup>
-    <ItemGroup>
-      <MainItem>
-        <Key>Stirling</Key>
-        <PageNumber>6895</PageNumber>
-      </MainItem>
-    </ItemGroup>
-    <ItemGroup>
-      <MainItem>
-        <Key>Surrey</Key>
-        <PageNumber>7395</PageNumber>
-      </MainItem>
-    </ItemGroup>
-    <SectionTitle>Deputy Lieutenants</SectionTitle>
-    <ItemGroup>
-      <MainItem>
-        <Key>Bedford</Key>
-        <PageNumber>6308</PageNumber>
-      </MainItem>
-    </ItemGroup>
-    <ItemGroup>
-      <MainItem>
-        <Key>Berwick</Key>
-        <PageNumber>5763</PageNumber>
-      </MainItem>
-    </ItemGroup>
-    <ItemGroup>
-      <MainItem>
-        <Key>Derby</Key>
-        <PageNumber>6407</PageNumber>
-      </MainItem>
-    </ItemGroup>
-    <ItemGroup>
-      <MainItem>
-        <Key>Northampton</Key>
-        <PageNumber>7016</PageNumber>
-      </MainItem>
-    </ItemGroup>
-    <ItemGroup>
-      <MainItem>
-        <Key>Somerset</Key>
-        <PageNumber>5966</PageNumber>
-      </MainItem>
-    </ItemGroup>
-    <ItemGroup>
-      <MainItem>
-        <Key>Southampton</Key>
-        <PageNumber>6209</PageNumber>
-      </MainItem>
-    </ItemGroup>
-  </Text>
+  <ItemGroup>
+    <MainItem>
+      <Key>Kent</Key>
+      <Text>: Harris, Rt. Hon. George R. Canning, Baron, G.C.S.I., G.C.I.E</Text>
+      <PageNumber>6999</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Nairn</Key>
+      <Text>: Mackintosh-Walker, Thomas C. Bruce</Text>
+      <PageNumber>7477</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Stirling</Key>
+      <Text>: Zetland, Most Hon. The Marquis of, P.C., K.T</Text>
+      <PageNumber>6895</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Surrey</Key>
+      <Text>: Elles, Lieut.-Gen. Sir Edmond Roche, G.C.LE., K.C.B</Text>
+      <PageNumber>7395</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <SectionTitle>Deputy Lieutenants</SectionTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Bedford</Key>
+      <Text>: Deane, Major James, C.M.G</Text>
+      <PageNumber>6308</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Berwick</Key>
+      <Text>: Boswall, Sir George Reginald Houstoun, Bt</Text>
+      <PageNumber>5763</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Derby</Key>
+      <Text>: Markham, Charles Paxton</Text>
+      <PageNumber>6407</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Northampton</Key>
+      <Text>: Wake, Sir Herewald</Text>
+      <PageNumber>7016</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Somerset</Key>
+      <Text>: Daniel, Lieut. . Col. Henry Thomas, T.D</Text>
+      <PageNumber>5966</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Southampton</Key>
+      <Text>: Ashley, Major Wilfred William, M.P</Text>
+      <PageNumber>6209</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Sussex</Key>
+      <Text>: Thornton, Major Robert Lawrence</Text>
       <PageNumber>5367</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -293,28 +301,30 @@
     <MainItem>
       <Key>York</Key>
       <Forenames>City</Forenames>
+      <Text>: Wailes-Fairbairn, William Fairbairn</Text>
+      <PageNumber>5966</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>5966</PageNumber>
-    <ItemGroup>
-      <MainItem>
-        <Key>Yorkshire</Key>
-        <PageNumber>6079</PageNumber>
-      </MainItem>
-    </ItemGroup>
-    <ItemGroup>
-      <MainItem>
-        <Key>Yorkshire</Key>
-        <PageNumber>5966</PageNumber>
-      </MainItem>
-    </ItemGroup>
-  </Text>
   <ItemGroup>
     <MainItem>
-      <SectionTitle>
-        <Key>Bear-Admirals</Key>
-      </SectionTitle>
+      <Key>Yorkshire</Key>
+      <Text>(North Riding) : Helmsley, Rt. Hon. Charles Wm. Reginald Viscount, M.P</Text>
+      <PageNumber>6079</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Yorkshire</Key>
+      <Text>(West Riding): Wailes-Fairbairn, William Fairbairn</Text>
+      <PageNumber>5966</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <SubSectionTitle>Bear-Admirals</SubSectionTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Ballard</Key>
+      <Forenames>George Alexander</Forenames>
+      <Text>, C.B</Text>
       <PageNumber>6794</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -329,7 +339,7 @@
     <MainItem>
       <Key>Singer</Key>
       <Forenames>Morgan</Forenames>
-      <Text>, AdC.</Text>
+      <Text>, AdC</Text>
       <PageNumber>7294</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -341,13 +351,13 @@
       <PageNumber>7396</PageNumber>
     </MainItem>
   </ItemGroup>
+  <SectionTitle>Naval Aides-de-Camp to His Majesty the King</SectionTitle>
   <ItemGroup>
     <MainItem>
-      <Key>Naval</Key>
-      <Forenames>Aides-de-Camp</Forenames>
-      <Text>
-        <SectionTitle>the King</SectionTitle>
-      </Text>
+      <Key>Callaghan</Key>
+      <Title>Admiral Sir</Title>
+      <Forenames>George Astley</Forenames>
+      <Text>, G.C.V.O., K.C.B. (First and Principal)</Text>
       <PageNumber>7293</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -384,25 +394,25 @@
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SectionTitle>Captains</SectionTitle>
+  <SubSectionTitle>Captains</SubSectionTitle>
   <ItemGroup>
     <MainItem>
       <Key>Backhouse</Key>
       <Forenames>Roger R. Charles</Forenames>
-      <Text>, C.B.</Text>
+      <Text>, C.B</Text>
       <PageNumber>7293</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SectionTitle>Retired List</SectionTitle>
+  <SubSubSectionTitle>Retired List</SubSubSectionTitle>
   <ItemGroup>
     <MainItem>
       <Key>Chapman</Key>
       <Forenames>Cuthbert Godfrey</Forenames>
-      <Text>, M.V.O.</Text>
+      <Text>, M.V.O</Text>
       <PageNumber>5450</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SectionTitle>Engineer Captains</SectionTitle>
+  <SubSectionTitle>Engineer Captains</SubSectionTitle>
   <ItemGroup>
     <MainItem>
       <Key>Emdin</Key>
@@ -417,7 +427,7 @@
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SectionTitle>Retired List</SectionTitle>
+  <SubSubSectionTitle>Retired List</SubSubSectionTitle>
   <ItemGroup>
     <MainItem>
       <Key>Stuttaford</Key>
@@ -441,7 +451,7 @@
       <PageNumber>7293</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SectionTitle>Retired List</SectionTitle>
+  <SubSubSectionTitle>Retired List</SubSubSectionTitle>
   <ItemGroup>
     <MainItem>
       <Key>Chapman</Key>
@@ -513,7 +523,7 @@
       <PageNumber>7093</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SectionTitle>Retired List</SectionTitle>
+  <SubSubSectionTitle>Retired List</SubSubSectionTitle>
   <ItemGroup>
     <MainItem>
       <Key>Lawton</Key>
@@ -521,14 +531,12 @@
       <PageNumber>7478</PageNumber>
     </MainItem>
   </ItemGroup>
+  <SubSectionTitle>Assistant Commissaries</SubSectionTitle>
   <ItemGroup>
     <MainItem>
-      <SectionTitle>
-        <Key>Assistant</Key>
-      </SectionTitle>
-      <Title>Commissaries.</Title>
-      <Forenames>Allen</Forenames>
-      <Text>, James (Hon. Lieut.)</Text>
+      <Key>Allen</Key>
+      <Forenames>James</Forenames>
+      <Text>(Hon. Lieut.)</Text>
       <PageNumber>5966</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -544,11 +552,11 @@
     <MainItem>
       <Key>McEntee</Key>
       <Forenames>John</Forenames>
-    </MainItem>
-    <Text>
+      <Text>(Hon. Lieut</Text>
       <PageNumber>7107</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Correction of date</Text>
       <PageNumber>7501</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -564,28 +572,30 @@
     <MainItem>
       <Key>Waldegrave</Key>
       <Forenames>Frederick Stanley</Forenames>
+      <Text>(Hon. Lieut.)</Text>
+      <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>ibid.</PageNumber>
-    <SubCategoryTitle>Lieutenancy of Counties.</SubCategoryTitle>
-    <SectionTitle>Lieutenant</SectionTitle>
-    <ItemGroup>
-      <MainItem>
-        <Key>Argyll</Key>
-        <PageNumber>6494</PageNumber>
-      </MainItem>
-    </ItemGroup>
-    <SectionTitle>Vice-Lieutenants</SectionTitle>
-  </Text>
+  <CategoryTitle>Lieutenancy of Counties</CategoryTitle>
+  <SectionTitle>Lieutenant</SectionTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Argyll</Key>
+      <Text>: Breadaibane, Marquess of, K.G</Text>
+      <PageNumber>6494</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <SectionTitle>Vice-Lieutenants</SectionTitle>
   <ItemGroup>
     <MainItem>
       <Key>Hertford</Key>
+      <Text>: ' . . Essex, Rt. Eon. George Devereux . -de Vere, Earl of &gt;,» -</Text>
       <PageNumber>6793</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SectionTitle>Admirals</SectionTitle>
-  <SectionTitle>Retired List</SectionTitle>
+  <CategoryTitle>NAVAL PROMOTIONS</CategoryTitle>
+  <SubSectionTitle>Admirals</SubSectionTitle>
+  <SubSubSectionTitle>Retired List</SubSubSectionTitle>
   <ItemGroup>
     <MainItem>
       <Key>Paget</Key>
@@ -604,7 +614,7 @@
       <PageNumber>7293</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SectionTitle>Vice-Admirals</SectionTitle>
+  <SubSectionTitle>Vice-Admirals</SubSectionTitle>
   <ItemGroup>
     <MainItem>
       <Key>Bayly</Key>
@@ -645,19 +655,19 @@
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SectionTitle>Retired List</SectionTitle>
+  <SubSubSectionTitle>Retired List</SubSubSectionTitle>
   <ItemGroup>
     <MainItem>
       <Key>Fisher</Key>
       <Forenames>William Blake</Forenames>
-      <Text>, C.B.</Text>
+      <Text>, C.B</Text>
       <PageNumber>6794</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Startin</Key>
-      <Title>James .</Title>
+      <Forenames>James</Forenames>
       <PageNumber>7294</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -668,14 +678,11 @@
       <PageNumber>7478</PageNumber>
     </MainItem>
   </ItemGroup>
+  <SectionTitle>Lieutenant Commanders</SectionTitle>
   <ItemGroup>
     <MainItem>
-      <SectionTitle>
-        <Key>Lieutenant</Key>
-      </SectionTitle>
-      <Title>Commanders.</Title>
-      <Forenames>Cochrane</Forenames>
-      <Text>, Archibald Douglas</Text>
+      <Key>Cochrane</Key>
+      <Forenames>Archibald Douglas</Forenames>
       <PageNumber>5966</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -733,20 +740,21 @@
     <MainItem>
       <Key>Morris</Key>
       <Forenames>Charles Sebastian</Forenames>
+      <Text>.„ ...</Text>
+      <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>ibid.</PageNumber>
-    <ItemGroup>
-      <MainItem>
-        <Key>St</Key>
-        <PageNumber>___ ___ ___</PageNumber>
-      </MainItem>
-    </ItemGroup>
-  </Text>
+  <ItemGroup>
+    <MainItem>
+      <Key>St</Key>
+      <Text>John, Arthur Beauchamp ...</Text>
+      <PageNumber>___ ___ ___</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Sedgwick</Key>
+      <Text>Cyril Gordon</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -790,11 +798,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Wilmot-Smith</Key>
-      <Title>Andrew .</Title>
+      <Forenames>Andrew</Forenames>
       <PageNumber>7395</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SectionTitle>Retired List</SectionTitle>
+  <SubSubSectionTitle>Retired List</SubSubSectionTitle>
   <ItemGroup>
     <MainItem>
       <Key>Land</Key>

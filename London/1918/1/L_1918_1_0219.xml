@@ -1,17 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="0219" pageID="https://www.thegazette.co.uk/id/London/index/year/1918/volume/1/page/0219" pagePDF="https://www.thegazette.co.uk/London/index/year/1918/volume/1/page/0219" pageRDF="https://www.thegazette.co.uk/London/index/year/1918/volume/1/page/0219?view=linked-data" type="index" volume="1" year="1918">
+<Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="219" pageID="https://www.thegazette.co.uk/id/London/index/year/1918/volume/1/page/219" pagePDF="https://www.thegazette.co.uk/London/index/year/1918/volume/1/page/219" pageRDF="https://www.thegazette.co.uk/London/index/year/1918/volume/1/page/219?view=linked-data" type="index" volume="1" year="1918">
   <ItemGroup>
     <MainItem>
       <Key>Maxwell</Key>
-      <Title>Lt.</Title>
-    </MainItem>
-    <Text>
+      <Forenames>Lt</Forenames>
+      <Text>.-Col. James MeOall, C.B., Companion, D.S.O</Text>
       <PageNumber>24</PageNumber>
-      <SubItem>
-        <PageNumber>382</PageNumber>
-      </SubItem>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Cant. (T./Maj.) John, M.C, Commander, D.S.O Capt. Leslie Blythe, Officer, Order of the British Empire</Text>
+      <PageNumber>382</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>T./Lt.-Col. Robert David Percival, Companion, D.S.O.</Text>
       <PageNumber>24</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -19,12 +20,13 @@
     <MainItem>
       <Key>May</Key>
       <Forenames>George Ernest</Forenames>
-    </MainItem>
-    <Text>
+      <Text>, Knight Commander, Order of the British Empire</Text>
       <PageNumber>367</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
-      <PageNumber>565</PageNumber>
+      <Text>
+        <PageNumber>565</PageNumber>
+      </Text>
       <PageNumber>382</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -40,20 +42,20 @@
   <ItemGroup>
     <MainItem>
       <Key>Mayes</Key>
-      <Title>Lt.</Title>
-      <Text>-Col. Henry George, Member, Order of the British Empire</Text>
+      <Forenames>Lt</Forenames>
+      <Text>.-Col. Henry George, Member, Order of the British Empire</Text>
       <PageNumber>401</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Mayne</Key>
-      <Title>Lt.</Title>
-    </MainItem>
-    <Text>
+      <Forenames>Lt</Forenames>
+      <Text>.-Col. Herbert Blair, Companion, D.S.O</Text>
       <PageNumber>24</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>William, Member, Order of the British Empire</Text>
       <PageNumber>401</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -70,19 +72,18 @@
       <Key>Meadows</Key>
       <Title>Miss</Title>
       <Forenames>Alice Margaret</Forenames>
-    </MainItem>
-    <Text>
+      <Text>, Member, Order of the British Empire</Text>
       <PageNumber>401</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Maj. (T./Lt. -Col.), Sydney Manvers Woolner, Companion, D.S.O.</Text>
       <PageNumber>24</PageNumber>
     </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Meares</Key>
-      <Title>Maj.</Title>
-      <Text>(T./Lt.-Col.) Cyril Frankland, Companion, D.S.O.</Text>
+      <Text>, Maj. (T./Lt.-Col.) Cyril Frankland, Companion, D.S.O</Text>
       <PageNumber>24</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -107,7 +108,7 @@
       <Key>Medill</Key>
       <Title>Maj.</Title>
       <Forenames>Percy Montgomery</Forenames>
-      <Text>, Companion, D.S.O.</Text>
+      <Text>, Companion, D.S.O</Text>
       <PageNumber>1801</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -140,8 +141,7 @@
   <ItemGroup>
     <MainItem>
       <Key>MeJIba</Key>
-      <Title>Madame</Title>
-      <Text>, Dame Commander, Order of the British Empire</Text>
+      <Text>, Madame, Dame Commander, Order of the British Empire</Text>
       <PageNumber>3283</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -156,26 +156,27 @@
   <ItemGroup>
     <MainItem>
       <Key>Melvill</Key>
-      <Title>Maj.</Title>
+      <Text>, Maj. (A./Lt.-Col.) Teignmonth Philip, Companion, D.S.O</Text>
+      <PageNumber>24</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>24</PageNumber>
-    <MainItem>Melville. Col. Charles Henderson, M.B, Companion, St. Michael and St. George .. — William, M.V.O, J. P.',' Meniber, Order of the British Empire... 40i Menzies, T./Lt. Alastair Forbes, Companion, D.S.O 2156</MainItem>
-  </Text>
+  <KeyDitto>—</KeyDitto>
   <ItemGroup>
-    <Key>Melville</Key>
-    <KeyDitto>—</KeyDitto>
-    <PageNumber>2156</PageNumber>
+    <MainItem>
+      <Key>Menzies</Key>
+      <Forenames>T.</Forenames>
+      <Text>/Lt. Alastair Forbes, Companion, D.S.O</Text>
+      <PageNumber>2156</PageNumber>
+    </MainItem>
     <SubItem>
+      <Text>Alexander James Pople, Officer, Order of the British Empire</Text>
       <PageNumber>382</PageNumber>
     </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Mercer</Key>
-      <Title>Col.</Title>
-      <Text>(temp. Maj.-Gen.) David, C.B, Knight Commander. Order of the Bath</Text>
+      <Text>, Col. (temp. Maj.-Gen.) David, C.B, Knight Commander. Order of the Bath</Text>
       <PageNumber>79</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -192,11 +193,11 @@
     <MainItem>
       <Key>Merriman</Key>
       <Forenames>Henry John</Forenames>
-    </MainItem>
-    <Text>
+      <Text>, Member, Order of the British Empire</Text>
       <PageNumber>401</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Miss Katherine Violet Sarle, Royal Red Cross, lst 01</Text>
       <PageNumber>54</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -213,11 +214,11 @@
       <Key>Metcalfe</Key>
       <Title>Miss</Title>
       <Forenames>Edith Minna</Forenames>
-    </MainItem>
-    <Text>
+      <Text>, Member, Order of the British Empire</Text>
       <PageNumber>401</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Correction</Text>
       <PageNumber>2212</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -275,19 +276,18 @@
     <MainItem>
       <Key>Michie</Key>
       <Forenames>Charles</Forenames>
-    </MainItem>
-    <Text>
+      <Text>, Member, Order of the British Empire</Text>
       <PageNumber>401</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>T./Maj. David Kinloch, Companion, D.S.O</Text>
       <PageNumber>24</PageNumber>
     </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Micldem</Key>
-      <Title>Maj.</Title>
-      <Text>&amp; Bt. Lt.-Col. (T./ Col.) Henry Andrew, D.S.O, Companion, St. Michael &amp; St. George</Text>
+      <Text>, Maj. &amp; Bt. Lt.-Col. (T./ Col.) Henry Andrew, D.S.O, Companion, St. Michael &amp; St. George</Text>
       <PageNumber>8</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -322,20 +322,20 @@
     <MainItem>
       <Key>Miles</Key>
       <Forenames>Alice</Forenames>
-    </MainItem>
-    <Text>
+      <Text>, Lady, Commander, Order of the British Empire</Text>
       <PageNumber>3287</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
-      <PageNumber>6</PageNumber>
+      <Text>
+        <PageNumber>6</PageNumber>
+      </Text>
       <PageNumber>1802</PageNumber>
     </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Mill</Key>
-      <Title>Maj.</Title>
-      <Text>(T./Lt.-Col.) Thomas, M.B, F.R.C.S, Companion, St. Michael and St. George</Text>
+      <Text>, Maj. (T./Lt.-Col.) Thomas, M.B, F.R.C.S, Companion, St. Michael and St. George</Text>
       <PageNumber>8</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -344,11 +344,11 @@
       <Key>Millar</Key>
       <Title>Mrs.</Title>
       <Forenames>Ella Morison</Forenames>
-    </MainItem>
-    <Text>
+      <Text>, Member, Order of the British Empire</Text>
       <PageNumber>401</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Miss Lily, Royal Red Cross, 2nd Class</Text>
       <PageNumber>2459</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -365,8 +365,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Millen</Key>
-      <Title>Lt.</Title>
-      <Text>-Col. Lionel Herbert, 'Companion, D.S.O</Text>
+      <Forenames>Lt</Forenames>
+      <Text>.-Col. Lionel Herbert, 'Companion, D.S.O</Text>
       <PageNumber>29</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -374,8 +374,8 @@
     <MainItem>
       <Key>Miller</Key>
       <Title>Miss</Title>
-      <Forenames>A.</Forenames>
-      <Text>E, Officer, Order of British Empire</Text>
+      <Forenames>A. E</Forenames>
+      <Text>, Officer, Order of British Empire</Text>
       <PageNumber>3284</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -385,20 +385,23 @@
         <KeyDitto>——</KeyDitto>
       </Key>
       <Forenames>Arnold Henry</Forenames>
-    </MainItem>
-    <Text>
+      <Text>, Officer, Order of the British Empire</Text>
       <PageNumber>382</PageNumber>
-      <SubItem>
-        <PageNumber>3234</PageNumber>
-      </SubItem>
-      <SubItem>
-        <PageNumber>24</PageNumber>
-      </SubItem>
-      <SubItem>
-        <PageNumber>24</PageNumber>
-      </SubItem>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Marv Elizabeth, Ladv, Officer, Order of (British Empire</Text>
+      <PageNumber>3234</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>Capt. Geonge Waterston, Companion, D.S.O</Text>
+      <PageNumber>24</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>Maj. (T./Lt.-Col.) Hubert Garrett Blair. M.C, Companion, D.S.O</Text>
+      <PageNumber>24</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>T./Capt. (A./Maj.) Leonard . Challinor, Companion, D.S.O. (corr.)</Text>
       <PageNumber>2163</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -421,53 +424,62 @@
       <PageNumber>24</PageNumber>
     </MainItem>
   </ItemGroup>
+  <KeyDitto>—</KeyDitto>
+  <KeyDitto>—</KeyDitto>
+  <KeyDitto>——</KeyDitto>
   <ItemGroup>
     <MainItem>
-      <Key>Millner</Key>
-      <Title>Capt.</Title>
-      <Text>
-        <KeyDitto>—</KeyDitto>
-        <KeyDitto>—</KeyDitto>
-        <KeyDitto>——</KeyDitto>
-      </Text>
+      <Key>Milner-White</Key>
+      <Forenames>T.</Forenames>
+      <Text>/Ohapln, 4th</Text>
       <PageNumber>01</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Milsom</Key>
+      <Key>
+        <KeyDitto>——</KeyDitto>
+      </Key>
       <Title>Maj.</Title>
-      <Forenames>Cecil Francis</Forenames>
-    </MainItem>
-    <Text>
-      <KeyDitto>——</KeyDitto>
+      <Forenames>Robert</Forenames>
+      <Text>. Commander, Order of the British Empire ... Walter, Member, Order of the British Empiro Capt. (T./Lt.-Col.) William Gore Sutherland, M.C, Companion, D.S.O Mobbs, Arthur Noel, Officer, Order of the British Empire Moberly, Lt. James Edward, Member, Order of the British Empire 2nd Lt. Walter Hamilton, Companion, D.S.O Mockler, Lt.-Col. &amp; Bt. Gol. Percy Rice, Companion, St. Michael &amp; St. George Moffat, T./Capt. Francis John Campbell, Companion, D.S.O. James. J.P, Officer, Order of the British Empire ... Moffatt, Alexander George. Member, Order of the British Empire ... Mohamadu Abba. Emir of Yola, Honorary Commander, Order of the British Empire</Text>
       <PageNumber>1600</PageNumber>
-      <SubItem>
+    </MainItem>
+    <SubItem>
+      <Text>
         <PageNumber>24</PageNumber>
         <PageNumber>24</PageNumber>
         <PageNumber>17</PageNumber>
         <PageNumber>28</PageNumber>
         <PageNumber>29</PageNumber>
-        <PageNumber>2896</PageNumber>
-      </SubItem>
-      <SubItem>
-        <PageNumber>24</PageNumber>
-        <PageNumber>24</PageNumber>
-        <PageNumber>24</PageNumber>
-        <PageNumber>24</PageNumber>
-        <PageNumber>3283</PageNumber>
-      </SubItem>
-      <SubItem>
-        <PageNumber>29</PageNumber>
-        <PageNumber>401</PageNumber>
-      </SubItem>
-      <SubItem>
-        <PageNumber>28</PageNumber>
-        <PageNumber>371</PageNumber>
-      </SubItem>
-      <PageNumber>24</PageNumber>
-    </Text>
+      </Text>
+      <PageNumber>2896</PageNumber>
+    </SubItem>
     <SubItem>
+      <Text>
+        <PageNumber>24</PageNumber>
+        <PageNumber>24</PageNumber>
+        <PageNumber>24</PageNumber>
+        <PageNumber>24</PageNumber>
+      </Text>
+      <PageNumber>3283</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>
+        <PageNumber>29</PageNumber>
+      </Text>
+      <PageNumber>401</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>
+        <PageNumber>28</PageNumber>
+      </Text>
+      <PageNumber>371</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>
+        <PageNumber>24</PageNumber>
+      </Text>
       <PageNumber>382</PageNumber>
     </SubItem>
   </ItemGroup>

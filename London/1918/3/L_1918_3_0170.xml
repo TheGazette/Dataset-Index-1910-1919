@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="0170" pageID="https://www.thegazette.co.uk/id/London/index/year/1918/volume/3/page/0170" pagePDF="https://www.thegazette.co.uk/London/index/year/1918/volume/3/page/0170" pageRDF="https://www.thegazette.co.uk/London/index/year/1918/volume/3/page/0170?view=linked-data" type="index" volume="3" year="1918">
+<Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="170" pageID="https://www.thegazette.co.uk/id/London/index/year/1918/volume/3/page/170" pagePDF="https://www.thegazette.co.uk/London/index/year/1918/volume/3/page/170" pageRDF="https://www.thegazette.co.uk/London/index/year/1918/volume/3/page/170?view=linked-data" type="index" volume="3" year="1918">
   <ItemGroup>
     <MainItem>
       <Key>Hoporaft</Key>
@@ -12,8 +12,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hope</Key>
-      <Title>Lt.Col.</Title>
-      <Text>(temp. Brig.-Gen.y J. W., D.S.O., Brig.-Gen., R.A. (rel. appt. and temp. rank)</Text>
+      <Forenames>Lt</Forenames>
+      <Text>.Col. (temp. Brig.-Gen.y J. W., D.S.O., Brig.-Gen., R.A. (rel. appt. and temp. rank)</Text>
       <PageNumber>7716</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -29,8 +29,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hore-Ruthven</Key>
-      <Title>Lt.</Title>
-      <Text>-Col. (temp. Brig.^Gen.) the Hon. A: G. A., V.G, C.M.G., D.S.O. (Brig. Comdr., and retain temp. rank)</Text>
+      <Forenames>Lt</Forenames>
+      <Text>.-Col. (temp. Brig.^Gen.) the Hon. A: G. A., V.G, C.M.G., D.S.O. (Brig. Comdr., and retain temp. rank)</Text>
       <PageNumber>10840</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -84,8 +84,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Horton</Key>
-      <Title>Bt. Lt.</Title>
-      <Text>-Col. (temp. Lt.Col.) C. W., D.S.O. (A.A. and Q.M.G.) -</Text>
+      <Title>Bt.</Title>
+      <Forenames>Lt</Forenames>
+      <Text>.-Col. (temp. Lt.Col.) C. W., D.S.O. (A.A. and Q.M.G.) -</Text>
       <PageNumber>10383</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -101,42 +102,44 @@
   <ItemGroup>
     <MainItem>
       <Key>Howard</Key>
-      <Title>Bt. Lt.</Title>
-      <Text>-Col. C. A., D.S.O. (rel. appt. as A.D.C.)</Text>
+      <Title>Bt.</Title>
+      <Forenames>Lt</Forenames>
+      <Text>.-Col. C. A., D.S.O. (rel. appt. as A.D.C.)</Text>
       <PageNumber>9969</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Howe</Key>
-      <Title>Lt.</Title>
+      <Forenames>Lt</Forenames>
+      <Text>. (D.O.) C. A. (temp. spec, appt., Cl. HlH)|</Text>
+      <PageNumber>9418</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>9418</PageNumber>
-    <ItemGroup>
-      <MainItem>
-        <Key>Howell</Key>
-        <PageNumber>7841</PageNumber>
-      </MainItem>
-      <SubItem>
-        <PageNumber>8699</PageNumber>
-      </SubItem>
-    </ItemGroup>
-  </Text>
+  <ItemGroup>
+    <MainItem>
+      <Key>Howell</Key>
+      <Text>2nd Lt. B. C. (spec, appt., graded for pay as Staff Lt., 2nd Cl.) ... .;</Text>
+      <PageNumber>7841</PageNumber>
+    </MainItem>
+    <SubItem>
+      <Text>Spec, ap.pt., graded for pay HH, R. Warrant 9th July, 1918, Sub. Not</Text>
+      <PageNumber>8699</PageNumber>
+    </SubItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
+      <Text>2nd Lt. (actg. Capt.) G. F. (attd. to Gen. Staff, Cl. GG, rem. seed., and retain actg. rank)</Text>
       <PageNumber>10505</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Howell-Davies</Key>
-      <Title>temp. Capt.</Title>
-      <Text>(actg. Maj.) R., D.S.O. (Asst. Dir. of Roads, Cl. X, and temp. Lt.-Col.)</Text>
+      <Text>temp. Capt. (actg. Maj.) R., D.S.O. (Asst. Dir. of Roads, Cl. X, and temp. Lt.-Col.)</Text>
       <PageNumber>11511</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -183,11 +186,11 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>E. L.</Forenames>
-    </MainItem>
-    <Text>
+      <Text>, D.S.O. (rel. appt. as Base Comdt., Cl. X, and temp, rank of Col.)</Text>
       <PageNumber>11507</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Temp. Asst. to a Brig.Gen. i/c Admin., CI. X, and temp. Lt.-Col.</Text>
       <PageNumber>10747</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -234,11 +237,11 @@
       <Key>Hunt</Key>
       <Title>Lt.</Title>
       <Forenames>J.</Forenames>
-    </MainItem>
-    <Text>
+      <Text>(spec, appt., Cl. II, and seed.)*</Text>
       <PageNumber>9677</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Rel. appt., Cl. II</Text>
       <PageNumber>11507</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -269,14 +272,14 @@
       </Key>
       <Title>temp. Maj.</Title>
       <Forenames>J.</Forenames>
+      <Text>, D.S.O. (D.A.D. Auxiliaries, Cl. FF)</Text>
+      <PageNumber>9535</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>9535</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Hunter</Key>
+      <Text>, Capt. J. C. i(A.D.C, and seed.) ,</Text>
       <PageNumber>10076</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -339,8 +342,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Hutchesson</Key>
-      <Title>temp. Lt.</Title>
-      <Text>(temp. Capt.) J. F. (spec, appt., Cl. FF,' and retain temp, rank)</Text>
+      <Title>temp.</Title>
+      <Forenames>Lt</Forenames>
+      <Text>. (temp. Capt.) J. F. (spec, appt., Cl. FF,' and retain temp, rank)</Text>
       <PageNumber>9441</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -403,16 +407,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Hyslop</Key>
-      <Title>Bt. Lt.</Title>
-      <Text>-Col. R. G. B. M. (G.S.O., 2nd Gr.)</Text>
+      <Title>Bt.</Title>
+      <Forenames>Lt</Forenames>
+      <Text>.-Col. R. G. B. M. (G.S.O., 2nd Gr.)</Text>
       <PageNumber>9326</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Ees</Key>
-      <Title>Maj.</Title>
-      <Text>(actg. Lt.-Col.) F. A., D.S.O. (Dep. Dir. of Signals, graded for pay as an Asst. Dir. of Supplies and Trans., and temp. Col.)</Text>
+      <Text>Maj. (actg. Lt.-Col.) F. A., D.S.O. (Dep. Dir. of Signals, graded for pay as an Asst. Dir. of Supplies and Trans., and temp. Col.)</Text>
       <PageNumber>6265</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -439,7 +443,7 @@
       <Key>Insley</Key>
       <Title>temp. Lt.</Title>
       <Forenames>E. E.</Forenames>
-      <Text>(empld. under Directorate of Hirangs and Requisitions, .graded for pay as Staff'Lt., let Cl and trd. to Gen. List), Sub. Not</Text>
+      <Text>(empld. under Directorate of Hirangs and Requisitions, .graded for pay as StaffLt., let Cl and trd. to Gen. List), Sub. Not</Text>
       <PageNumber>7869</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -455,8 +459,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Irvin</Key>
-      <Title>temp. Lt.</Title>
-      <Text>(actg. Capt.) A. D. (spec. appt., graded for pay as Staff Capt., trd. to Gen. List, and temp. Capt.)</Text>
+      <Title>temp.</Title>
+      <Forenames>Lt</Forenames>
+      <Text>. (actg. Capt.) A. D. (spec. appt., graded for pay as Staff Capt., trd. to Gen. List, and temp. Capt.)</Text>
       <PageNumber>8407</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -490,8 +495,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Jackson</Key>
-      <Title>Maj.</Title>
-      <Text>(temp. Lt.-Col.) E. S., C.M.G., D.S.O. '(rel. appt. as A. Q.M.G. and temp, rank) Spec, appt., Cl. X</Text>
+      <Text>Maj. (temp. Lt.-Col.) E. S., C.M.G., D.S.O. '(rel. appt. as A. Q.M.G. and temp, rank) Spec, appt., Cl. X</Text>
       <PageNumber>11165</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -544,8 +548,7 @@
       <Key>
         <KeyDitto>—— ___ ___</KeyDitto>
       </Key>
-      <Title>temp. Capt.</Title>
-      <Text>(actg. Maj.) P. L., M.C. (spec. appt., graded for pay BB. R. Warrant 9th July, 1918)</Text>
+      <Text>temp. Capt. (actg. Maj.) P. L., M.C. (spec. appt., graded for pay BB. R. Warrant 9th July, 1918)</Text>
       <PageNumber>8711</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -563,24 +566,23 @@
   <ItemGroup>
     <MainItem>
       <Key>Jacob</Key>
-      <Title>Lt.</Title>
+      <Forenames>Lt</Forenames>
+      <Text>.-Col. A. Le G., C.M.G., CLE., D.S.O. (A.D.C. to H.M. the King, and Bt. Col.)</Text>
+      <PageNumber>9521</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <CategoryTitle>CLE</CategoryTitle>
-    <PageNumber>9521</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Jacoby</Key>
+      <Text>2nd Lt. L. J. (spec, appt., Cl. II, and seed.)</Text>
       <PageNumber>10626</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>James</Key>
-      <Title>Lt.</Title>
-      <Text>(temp. Lt.-Col.) A. W. H., M.C. (Dep. Inspr. of Training, rem. seed, and retain temp, rank)</Text>
+      <Forenames>Lt</Forenames>
+      <Text>. (temp. Lt.-Col.) A. W. H., M.C. (Dep. Inspr. of Training, rem. seed, and retain temp, rank)</Text>
       <PageNumber>10840</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -598,14 +600,14 @@
       <Key>Jarvis</Key>
       <Title>temp. Capt.</Title>
       <Forenames>C. H.</Forenames>
+      <Text>, M.C. (temp. G.S.O., 3rd. Gr. and trd. to Gen. List)</Text>
+      <PageNumber>10243</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>10243</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Jemmett</Key>
+      <Text>2nd Lt., W. B. (Asst. Prov. Marshal, CL GG, and temp. Lt.)</Text>
       <PageNumber>9327</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -614,22 +616,21 @@
       <Key>Jennings</Key>
       <Title>temp. Capt.</Title>
       <Forenames>P. J.</Forenames>
+      <Text>(Dep. Asst. Dir. of Inland Water Trans., graded for pay B.B. R.W. 9th July, 1918, and temp. Maj.)</Text>
+      <PageNumber>8971</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>8971</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Jephson</Key>
+      <Text>Capt., (T/Maj.). P. H. R. (spec, appt., Cl. EE)</Text>
       <PageNumber>9677</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Jerram</Key>
-      <Title>Maj.</Title>
-      <Text>, C F., D.S.O. (G.S.O., 1st. Gr., and temp. Lt.-Col.)</Text>
+      <Text>Maj., C F., D.S.O. (G.S.O., 1st. Gr., and temp. Lt.-Col.)</Text>
       <PageNumber>10839</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -645,8 +646,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Johns</Key>
-      <Title>temp. Maj.</Title>
-      <Text>, H. W., D.S.O. (Asst. Dir. of Inland Water Trans., Cl. X, and temp. Lt.-Col.)</Text>
+      <Text>temp. Maj., H. W., D.S.O. (Asst. Dir. of Inland Water Trans., Cl. X, and temp. Lt.-Col.)</Text>
       <PageNumber>9441</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -664,17 +664,18 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Title>Bt. Lt.</Title>
+      <Title>Bt.</Title>
+      <Forenames>Lt</Forenames>
+      <Text>.-Col: (temp. Lt.-Col.) H.A., D.S.O. (Asst. Dir. of Trans., graded for pay as an A.Q.M.G.)</Text>
+      <PageNumber>8265</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>8265</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
+      <Text>2nd Lt. S.C (spec. appt. Cl. II, and seed.)</Text>
       <PageNumber>9321</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -703,8 +704,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Johnston</Key>
-      <Title>temp.</Title>
-      <Text>. Lt. E. T. (spec, appt. graded for' pay H, R.W. 9th July, 1918)</Text>
+      <Text>temp.. Lt. E. T. (spec, appt. graded for' pay H, R.W. 9th July, 1918)</Text>
       <PageNumber>8976</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -724,8 +724,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Title>Col.</Title>
-      <Text>(temp. Brig.-Gen) T.K.E., C.B. (temp. Brig.Gen. in Charge of Admin.)</Text>
+      <Text>Col. (temp. Brig.-Gen) T.K.E., C.B. (temp. Brig.Gen. in Charge of Admin.)</Text>
       <PageNumber>8043</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -734,8 +733,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Title>Lt.</Title>
-      <Text>, W. G. (R.T.O., Cl. GG, and seed.)</Text>
+      <Forenames>Lt</Forenames>
+      <Text>., W. G. (R.T.O., Cl. GG, and seed.)</Text>
       <PageNumber>10502</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -761,16 +760,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Jolowiez</Key>
-      <Title>temp.</Title>
+      <Text>temp. 2nd Lt. H. F. (rel. spec, appt., Cl. GG)</Text>
+      <PageNumber>10732</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>10732</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Joly</Key>
-      <CategoryTitle>CLE</CategoryTitle>
+      <Text>de Lotbiniere, Col. (temp. Brig.-Gen.) A. C. de L., C.B., C.S.I., CLE. (temp. Chief Engr. and retain temp, rank)</Text>
       <PageNumber>9356</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -788,8 +785,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Title>Bt. Lt.</Title>
-      <Text>-Col. H. A. (D.Q.M.G. and temp. Brig.-Gen.)</Text>
+      <Title>Bt.</Title>
+      <Forenames>Lt</Forenames>
+      <Text>.-Col. H. A. (D.Q.M.G. and temp. Brig.-Gen.)</Text>
       <PageNumber>9637</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -822,7 +820,7 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>I.</Forenames>
-      <Text>(Asst. Emb'. Staff . Offr. and seed</Text>
+      <Text>(Asst. Emb. Staff . Offr. and seed</Text>
       <PageNumber>8030</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -853,8 +851,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Title>temp.</Title>
-      <Text>2nd Lt. (actg. Lt.) . L. A. (Asst. Instr., Cl. G.G., and rel. actg. rank)</Text>
+      <Text>temp. 2nd Lt. (actg. Lt.) . L. A. (Asst. Instr., Cl. G.G., and rel. actg. rank)</Text>
       <PageNumber>11406</PageNumber>
     </MainItem>
   </ItemGroup>

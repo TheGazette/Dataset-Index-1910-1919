@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="0038" pageID="https://www.thegazette.co.uk/id/London/index/year/1914/volume/2/page/0038" pagePDF="https://www.thegazette.co.uk/London/index/year/1914/volume/2/page/0038" pageRDF="https://www.thegazette.co.uk/London/index/year/1914/volume/2/page/0038?view=linked-data" type="index" volume="2" year="1914">
-  <SubCategoryTitle>NAVAL PROMOTIONS.</SubCategoryTitle>
+<Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="038" pageID="https://www.thegazette.co.uk/id/London/index/year/1914/volume/2/page/038" pagePDF="https://www.thegazette.co.uk/London/index/year/1914/volume/2/page/038" pageRDF="https://www.thegazette.co.uk/London/index/year/1914/volume/2/page/038?view=linked-data" type="index" volume="2" year="1914">
   <ItemGroup>
     <MainItem>
       <Key>Jenkin</Key>
-      <Title>Conrad .</Title>
+      <Forenames>Conrad</Forenames>
       <PageNumber>3662</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -93,26 +92,28 @@
     <MainItem>
       <Key>Nicholson</Key>
       <Forenames>Randolph Stewart Gres-</Forenames>
+      <Text>ham</Text>
+      <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>ibid.</PageNumber>
-    <ItemGroup>
-      <MainItem>
-        <Key>O</Key>
-        <PageNumber>___</PageNumber>
-      </MainItem>
-    </ItemGroup>
-    <ItemGroup>
-      <MainItem>
-        <Key>O</Key>
-        <PageNumber>4302</PageNumber>
-      </MainItem>
-    </ItemGroup>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>O</Key>
+      <Text>'Connell, Donal Bernard ——</Text>
+      <PageNumber>___</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>O</Key>
+      <Text>'Conor, Edmond Henry</Text>
+      <PageNumber>4302</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>O</Key>
+      <Text>'Donnell, George Eric Maxia</Text>
       <PageNumber>3663</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -335,7 +336,7 @@
       <PageNumber>___ ___ .</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SectionTitle>Retired List</SectionTitle>
+  <SubSubSectionTitle>Retired List</SubSubSectionTitle>
   <ItemGroup>
     <MainItem>
       <Key>Walton</Key>
@@ -350,10 +351,10 @@
       <PageNumber>4380</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SectionTitle>Retired List</SectionTitle>
+  <SubSubSectionTitle>Retired List</SubSubSectionTitle>
   <ItemGroup>
     <MainItem>
-      <Key>HoaTe</Key>
+      <Key>Hoare</Key>
       <Forenames>Charles Alfred</Forenames>
       <PageNumber>3168</PageNumber>
     </MainItem>
@@ -375,7 +376,7 @@
       <PageNumber>3662</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SectionTitle>Retired List</SectionTitle>
+  <SubSubSectionTitle>Retired List</SubSubSectionTitle>
   <ItemGroup>
     <MainItem>
       <Key>James</Key>
@@ -434,7 +435,6 @@
     <MainItem>
       <Key>Fairbank</Key>
       <Forenames>Christian Beverley</Forenames>
-      <Text>'</Text>
       <PageNumber>4221</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -499,7 +499,7 @@
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SectionTitle>Retired List</SectionTitle>
+  <SubSubSectionTitle>Retired List</SubSubSectionTitle>
   <ItemGroup>
     <MainItem>
       <Key>Bradshaw</Key>
@@ -665,12 +665,12 @@
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SectionTitle>Nursing Service</SectionTitle>
+  <SectionTitle>Queen Alexandra's Royal Naval Nursing Service</SectionTitle>
   <SectionTitle>Sisters</SectionTitle>
   <ItemGroup>
     <MainItem>
       <Key>Davies</Key>
-      <Title>Harriott .</Title>
+      <Forenames>Harriott</Forenames>
       <PageNumber>4536</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -813,8 +813,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lowrey</Key>
-      <Title>Thomas .</Title>
-      <Text>,'</Text>
+      <Forenames>Thomas</Forenames>
+      <Text>.,'</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -844,8 +844,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Noble</Key>
-      <Title>Alexander .</Title>
-      <Text>..</Text>
+      <Forenames>Alexander</Forenames>
+      <Text>...</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -867,8 +867,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Robson</Key>
-      <Title>James .</Title>
-      <Text>.. ... ... Rochester, James Taylor ...</Text>
+      <Forenames>James</Forenames>
+      <Text>... ... ... Rochester, James Taylor ...</Text>
       <PageNumber>___ ___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -895,17 +895,8 @@
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Williams</Key>
-      <Forenames>John William Hill Ellis</Forenames>
-      <Text>
-        <SectionTitle>Paymaster-in-Chief</SectionTitle>
-      </Text>
-      <PageNumber>3926</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <SectionTitle>. Retired List</SectionTitle>
+  <SubSectionTitle>Paymaster-in-Chief</SubSectionTitle>
+  <SubSubSectionTitle>. Retired List</SubSubSectionTitle>
   <ItemGroup>
     <MainItem>
       <Key>Alton</Key>
@@ -914,14 +905,12 @@
       <PageNumber>3662</PageNumber>
     </MainItem>
   </ItemGroup>
+  <SubSectionTitle>Fleet Paymasters</SubSectionTitle>
   <ItemGroup>
     <MainItem>
-      <SectionTitle>
-        <Key>Fleet</Key>
-      </SectionTitle>
-      <Title>Paymasters.</Title>
-      <Forenames>Dyer</Forenames>
-      <Text>, Ernest H. MoArthur</Text>
+      <Key>Dyer</Key>
+      <Forenames>Ernest H.</Forenames>
+      <Text>MoArthur</Text>
       <PageNumber>5069</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -935,7 +924,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Haynes</Key>
-      <Title>Wm. Frederick .</Title>
+      <Title>Wm.</Title>
+      <Forenames>Frederick</Forenames>
       <PageNumber>5069</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -970,7 +960,7 @@
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SectionTitle>Retired List</SectionTitle>
+  <SubSubSectionTitle>Retired List</SubSubSectionTitle>
   <ItemGroup>
     <MainItem>
       <Key>Gill</Key>
@@ -978,7 +968,7 @@
       <PageNumber>3471</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SectionTitle>Staf Paymasters</SectionTitle>
+  <SubSectionTitle>Staf Paymasters</SubSectionTitle>
   <ItemGroup>
     <MainItem>
       <Key>Bere</Key>
@@ -1000,7 +990,7 @@
       <PageNumber>3757</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SectionTitle>Paymasters</SectionTitle>
+  <SubSectionTitle>Paymasters</SubSectionTitle>
   <ItemGroup>
     <MainItem>
       <Key>Barker</Key>
@@ -1017,17 +1007,15 @@
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
+  <SubSectionTitle>Assistant Paymaster</SubSectionTitle>
   <ItemGroup>
     <MainItem>
-      <Key>Putt</Key>
-      <Forenames>
-        <SectionTitle>Assistant Paymaster</SectionTitle>
-      </Forenames>
-      <Text>. Humphreys, Arthur Frederick</Text>
+      <Key>Humphreys</Key>
+      <Forenames>Arthur Frederick</Forenames>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SectionTitle>Chief Boatswains</SectionTitle>
+  <SubSectionTitle>Chief Boatswains</SubSectionTitle>
   <ItemGroup>
     <MainItem>
       <Key>Bumpus</Key>
@@ -1045,7 +1033,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Jopling</Key>
-      <Title>Mark .</Title>
+      <Forenames>Mark</Forenames>
       <PageNumber>3001</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1056,13 +1044,12 @@
       <PageNumber>3662</PageNumber>
     </MainItem>
   </ItemGroup>
+  <SubSectionTitle>Chief Carpenters</SubSectionTitle>
   <ItemGroup>
     <MainItem>
-      <Key>Staples</Key>
-      <Forenames>
-        <SectionTitle>Chief Carpenters</SectionTitle>
-      </Forenames>
-      <Text>. Dailey, Frederick Ernest ... ,</Text>
+      <Key>Dailey</Key>
+      <Forenames>Frederick Ernest</Forenames>
+      <Text>... ,</Text>
       <PageNumber>4380</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1094,10 +1081,9 @@
       <Forenames>Frank Tozer</Forenames>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
-    <SectionTitle>
-      <Text>Chief Gunners</Text>
-    </SectionTitle>
+    <SubSectionTitle>Chief Gunners</SubSectionTitle>
     <SubItem>
+      <Text>Chief Gunners.</Text>
       <PageNumber>3001</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1111,7 +1097,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Barrow</Key>
-      <Title>Joseph .</Title>
+      <Forenames>Joseph</Forenames>
+      <Text>.</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1189,7 +1176,7 @@
       <PageNumber>3001</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SectionTitle>Pension List</SectionTitle>
+  <SubSectionTitle>Pension List</SubSectionTitle>
   <ItemGroup>
     <MainItem>
       <Key>Shillitoe</Key>
@@ -1198,7 +1185,6 @@
       <PageNumber>4984</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SectionTitle>Mates</SectionTitle>
   <ItemGroup>
     <MainItem>
       <Key>Ansell</Key>
@@ -1217,8 +1203,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Brown</Key>
-      <Title>Ernest .</Title>
-      <Text>.....</Text>
+      <Forenames>Ernest</Forenames>
+      <Text>......</Text>
       <PageNumber>___ ___ ___ ___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1348,15 +1334,13 @@
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
+  <SectionTitle>Divisional Chief Officer of Coastguard</SectionTitle>
+  <SectionTitle>Pension List</SectionTitle>
   <ItemGroup>
     <MainItem>
-      <SectionTitle>
-        <Key>Divisional</Key>
-        <Forenames>Chief Officer</Forenames>
-      </SectionTitle>
-      <Text>
-        <SectionTitle>Pension List</SectionTitle>
-      </Text>
+      <Key>Johnson</Key>
+      <Forenames>Richard</Forenames>
+      <Text>(Hon. Lieut.)</Text>
       <PageNumber>4302</PageNumber>
     </MainItem>
   </ItemGroup>

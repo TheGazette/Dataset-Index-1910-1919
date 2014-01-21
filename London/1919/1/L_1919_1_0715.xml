@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="0715" pageID="https://www.thegazette.co.uk/id/London/index/year/1919/volume/1/page/0715" pagePDF="https://www.thegazette.co.uk/London/index/year/1919/volume/1/page/0715" pageRDF="https://www.thegazette.co.uk/London/index/year/1919/volume/1/page/0715?view=linked-data" type="index" volume="1" year="1919">
+<Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="715" pageID="https://www.thegazette.co.uk/id/London/index/year/1919/volume/1/page/715" pagePDF="https://www.thegazette.co.uk/London/index/year/1919/volume/1/page/715" pageRDF="https://www.thegazette.co.uk/London/index/year/1919/volume/1/page/715?view=linked-data" type="index" volume="1" year="1919">
   <ItemGroup>
     <MainItem>
       <Key>fSheppard</Key>
@@ -40,7 +40,7 @@
     <MainItem>
       <Key>Teague</Key>
       <Forenames>J.</Forenames>
-      <Text>, M.C.</Text>
+      <Text>, M.C</Text>
       <PageNumber>4046</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -54,7 +54,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Thorpe</Key>
-      <Text>C. W. G.</Text>
+      <Text>. C. W. G</Text>
       <PageNumber>4046</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -76,7 +76,7 @@
     <MainItem>
       <Key>Welsh</Key>
       <Forenames>A. C. R.</Forenames>
-      <Text>, M.C.</Text>
+      <Text>, M.C</Text>
       <PageNumber>4046</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -111,18 +111,20 @@
     <MainItem>
       <Key>Abbott</Key>
       <Forenames>J. W.</Forenames>
+      <Text>(Lt.)</Text>
+      <PageNumber>1543</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>1543</PageNumber>
-    <MainItem>-T^T___ ___ P. D. (2hdLt.) Abrahall, F. T. E. (actg. Capt. while comd. Brig. S. and T. Co.) 1815</MainItem>
-  </Text>
   <ItemGroup>
-    <Key>
-      <KeyDitto>-</KeyDitto>
-    </Key>
-    <PageNumber>1815</PageNumber>
+    <MainItem>
+      <Key>
+        <KeyDitto>-</KeyDitto>
+      </Key>
+      <Text>T^T___ ___ P. D. (2hdLt.) Abrahall, F. T. E. (actg. Capt. while comd. Brig. S. and T. Co.)</Text>
+      <PageNumber>1815</PageNumber>
+    </MainItem>
     <SubItem>
+      <Text>Corr. of Christian names</Text>
       <PageNumber>2874</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -130,11 +132,11 @@
     <MainItem>
       <Key>Abrahams</Key>
       <Forenames>E. C.</Forenames>
-    </MainItem>
-    <Text>
+      <Text>(2nd Lt.)</Text>
       <PageNumber>2627</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Not. cancelled</Text>
       <PageNumber>3897</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -160,16 +162,18 @@
     <MainItem>
       <Key>Adie</Key>
       <Forenames>T. D.</Forenames>
+      <Text>(Lt.)</Text>
+      <PageNumber>917</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>917</PageNumber>
-    <MainItem>Agar, 2nd Lt. C. S. (Not. of promn. July 24th, 1917, cancelled) .. 3893</MainItem>
-  </Text>
   <ItemGroup>
-    <Key>Agar</Key>
-    <PageNumber>3893</PageNumber>
+    <MainItem>
+      <Key>Agar</Key>
+      <Text>, 2nd Lt. C. S. (Not. of promn. July 24th, 1917, cancelled)</Text>
+      <PageNumber>3893</PageNumber>
+    </MainItem>
     <SubItem>
+      <Text>Trd. to British Service</Text>
       <PageNumber>3897</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -185,27 +189,31 @@
     <MainItem>
       <Key>Aikman</Key>
       <Forenames>E. H.</Forenames>
+      <Text>(temp. Capt.)</Text>
+      <PageNumber>908</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>908</PageNumber>
-    <ItemGroup>
-      <MainItem>
-        <Key>Ainslie</Key>
-        <PageNumber>3488</PageNumber>
-      </MainItem>
-      <SubItem>
-        <PageNumber>3897</PageNumber>
-      </SubItem>
-    </ItemGroup>
-    <MainItem>-r ___ ___ ___ K. (Lt.) 3028</MainItem>
-  </Text>
   <ItemGroup>
-    <Key>
-      <KeyDitto>-</KeyDitto>
-    </Key>
-    <PageNumber>3028</PageNumber>
+    <MainItem>
+      <Key>Ainslie</Key>
+      <Text>, 2nd Lt. C. J. (Not. of July 24th, 1917, cancelled)</Text>
+      <PageNumber>3488</PageNumber>
+    </MainItem>
     <SubItem>
+      <Text>Corr. of date of resignation</Text>
+      <PageNumber>3897</PageNumber>
+    </SubItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>-</KeyDitto>
+      </Key>
+      <Text>r ___ ___ ___ K. (Lt.)</Text>
+      <PageNumber>3028</PageNumber>
+    </MainItem>
+    <SubItem>
+      <Text>Actg. Capt. with pay and allces. as Lt.</Text>
       <PageNumber>3158</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -245,16 +253,16 @@
     <MainItem>
       <Key>Alderson</Key>
       <Forenames>F. H.</Forenames>
+      <Text>(2nd Lt.)</Text>
+      <PageNumber>2627</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>2627</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
+      <Text>^— ___ H. W. (temp. Lt.)</Text>
       <PageNumber>2744</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -262,11 +270,11 @@
     <MainItem>
       <Key>Alexander</Key>
       <Forenames>C. G.</Forenames>
-    </MainItem>
-    <Text>
+      <Text>(Lt.)</Text>
       <PageNumber>3760</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Capt.</Text>
       <PageNumber>3488</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -276,16 +284,16 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>W.</Forenames>
+      <Text>(2nd Lt.)</Text>
+      <PageNumber>2874</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>2874</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>
         <KeyDitto>-</KeyDitto>
       </Key>
+      <Text>r^ ___ W..L (2nd Lt.) Alfieri, F. J. (corr. of date of admission)</Text>
       <PageNumber>3490</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -293,12 +301,13 @@
     <MainItem>
       <Key>Algar</Key>
       <Forenames>A. P.</Forenames>
+      <Text>(actg. Capt., addtl.)</Text>
+      <PageNumber>1809</PageNumber>
     </MainItem>
-    <Text>
-      <PageNumber>1809</PageNumber>
-    </Text>
     <SubItem>
-      <PageNumber>1809</PageNumber>
+      <Text>
+        <PageNumber>1809</PageNumber>
+      </Text>
       <PageNumber>1809</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -341,8 +350,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Allen</Key>
-      <Forenames>A.</Forenames>
-      <Text>J, L. (2nd Lt.)</Text>
+      <Forenames>A. J</Forenames>
+      <Text>, L. (2nd Lt.)</Text>
       <PageNumber>3643</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -362,17 +371,17 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>E. C.</Forenames>
+      <Text>(2nd Lt.)</Text>
+      <PageNumber>3028</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>3028</PageNumber>
-    <KeyDitto>—— ___ ___</KeyDitto>
-  </Text>
+  <KeyDitto>—— ___ ___</KeyDitto>
   <ItemGroup>
     <MainItem>
       <Key>
         <KeyDitto>-</KeyDitto>
       </Key>
+      <Text>~—G. H. (Lt.)</Text>
       <PageNumber>720</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -400,14 +409,14 @@
     <MainItem>
       <Key>Allsop</Key>
       <Forenames>J. J. W.</Forenames>
+      <Text>(2nd Lt.)</Text>
+      <PageNumber>2168</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>2168</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>AUum</Key>
+      <Text>; R. W. (2nd Lt.)</Text>
       <PageNumber>918</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -415,11 +424,11 @@
     <MainItem>
       <Key>Ambler</Key>
       <Forenames>C. T. M.</Forenames>
-    </MainItem>
-    <Text>
+      <Text>(Lt.)</Text>
       <PageNumber>1969</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Aotg. Capt.</Text>
       <PageNumber>3301</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -445,18 +454,20 @@
         <KeyDitto>—— ___ ___</KeyDitto>
       </Key>
       <Forenames>C. B.</Forenames>
+      <Text>(actg. Capt. while comdg, Co.)</Text>
+      <PageNumber>2746</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>2746</PageNumber>
-    <MainItem>-r.— ___ F. S. (2nd Lt.) 3492</MainItem>
-  </Text>
   <ItemGroup>
-    <Key>
-      <KeyDitto>-</KeyDitto>
-    </Key>
-    <PageNumber>3492</PageNumber>
+    <MainItem>
+      <Key>
+        <KeyDitto>-</KeyDitto>
+      </Key>
+      <Text>r.— ___ F. S. (2nd Lt.)</Text>
+      <PageNumber>3492</PageNumber>
+    </MainItem>
     <SubItem>
+      <Text>Lt</Text>
       <PageNumber>3760</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -502,11 +513,11 @@
         <KeyDitto>___ ___ -</KeyDitto>
       </Key>
       <Forenames>D. E.</Forenames>
-    </MainItem>
-    <Text>
+      <Text>(Lt.)</Text>
       <PageNumber>730</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>___ W. M. (Lt.)</Text>
       <PageNumber>720</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -514,14 +525,15 @@
     <MainItem>
       <Key>Angelo</Key>
       <Forenames>N. L.</Forenames>
-    </MainItem>
-    <Text>
+      <Text>(actg. Capt., addtl.)</Text>
       <PageNumber>724</PageNumber>
-      <SubItem>
-        <PageNumber>724</PageNumber>
-      </SubItem>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Retains actg. rank while comdg. a Co., Nov. 4,1917</Text>
+      <PageNumber>724</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>Not. of July 23 and Sept. 6, 1918, cancelled</Text>
       <PageNumber>724</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -569,11 +581,11 @@
     <MainItem>
       <Key>Armitage</Key>
       <Forenames>K. L. F.</Forenames>
-    </MainItem>
-    <Text>
+      <Text>(actg. Capt.)</Text>
       <PageNumber>910</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Capt . .-</Text>
       <PageNumber>3488</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -597,11 +609,11 @@
     <MainItem>
       <Key>Arridge</Key>
       <Forenames>H. C.</Forenames>
-    </MainItem>
-    <Text>
+      <Text>(2nd Lt.)</Text>
       <PageNumber>1819</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Lt.</Text>
       <PageNumber>1807</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -653,22 +665,22 @@
     <MainItem>
       <Key>Ashley-Smith</Key>
       <Forenames>R.</Forenames>
+      <Text>(actg. Capt., addtl.)</Text>
+      <PageNumber>1967</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>1967</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Ashton</Key>
+      <Text>; F. J. (temp. Capt.) . -</Text>
       <PageNumber>908</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Ashworth</Key>
-      <Forenames>C.</Forenames>
-      <Text>H (Lt.)</Text>
+      <Forenames>C. H</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>730</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -676,16 +688,18 @@
     <MainItem>
       <Key>Askew</Key>
       <Forenames>T. E.</Forenames>
+      <Text>(Lt.)</Text>
+      <PageNumber>729</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>729</PageNumber>
-    <MainItem>Asquith,.E. J. (Lt.) .. .. 720</MainItem>
-  </Text>
   <ItemGroup>
-    <Key>Asquith</Key>
-    <PageNumber>720</PageNumber>
+    <MainItem>
+      <Key>Asquith</Key>
+      <Text>,.E. J. (Lt.)</Text>
+      <PageNumber>720</PageNumber>
+    </MainItem>
     <SubItem>
+      <Text>Actg. Capt</Text>
       <PageNumber>3301</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -725,16 +739,7 @@
       <PageNumber>2874</PageNumber>
     </MainItem>
   </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ -— ___ ___</KeyDitto>
-      </Key>
-      <Forenames>H.</Forenames>
-      <Text>.0. (2nd Lt.)</Text>
-      <PageNumber>3897</PageNumber>
-    </MainItem>
-  </ItemGroup>
+  <KeyDitto>___ -— ___ ___</KeyDitto>
   <ItemGroup>
     <MainItem>
       <Key>Aucutt</Key>
@@ -747,14 +752,14 @@
     <MainItem>
       <Key>Audley</Key>
       <Forenames>W. D.</Forenames>
+      <Text>(Lt.)</Text>
+      <PageNumber>1807</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>1807</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Audsley</Key>
+      <Text>„C. E. (2nd Lt.)</Text>
       <PageNumber>3304</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -770,12 +775,13 @@
     <MainItem>
       <Key>Augier</Key>
       <Forenames>D. E.</Forenames>
+      <Text>(actg. Capt., addtl.)</Text>
+      <PageNumber>1808</PageNumber>
     </MainItem>
-    <Text>
-      <PageNumber>1808</PageNumber>
-    </Text>
     <SubItem>
-      <PageNumber>1808</PageNumber>
+      <Text>
+        <PageNumber>1808</PageNumber>
+      </Text>
       <PageNumber>1808</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -811,16 +817,18 @@
     <MainItem>
       <Key>Auston</Key>
       <Forenames>G. T.</Forenames>
+      <Text>(rel. actg. rank of Capt. on ceasing to be Adjt.)</Text>
+      <PageNumber>1816</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>1816</PageNumber>
-    <MainItem>Babington, T, Z. D. (actg. Capt. while comdg. Co.) .. .. 1813</MainItem>
-  </Text>
   <ItemGroup>
-    <Key>Babington</Key>
-    <PageNumber>1813</PageNumber>
+    <MainItem>
+      <Key>Babington</Key>
+      <Text>, T, Z. D. (actg. Capt. while comdg. Co.)</Text>
+      <PageNumber>1813</PageNumber>
+    </MainItem>
     <SubItem>
+      <Text>Not. of 26th Apr., 1918 cancelled</Text>
       <PageNumber>1813</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -852,11 +860,11 @@
     <MainItem>
       <Key>Baguley</Key>
       <Forenames>J. M.</Forenames>
-    </MainItem>
-    <Text>
+      <Text>(2nd Lt.)</Text>
       <PageNumber>3643</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Not. cancelled</Text>
       <PageNumber>3897</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -874,14 +882,14 @@
         <KeyDitto>___ —— ___ ___</KeyDitto>
       </Key>
       <Forenames>F.</Forenames>
+      <Text>. R. (aetg. Capt. while comdg. Co.)</Text>
+      <PageNumber>2745</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>2745</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Bain</Key>
+      <Text>, L.T. (2nd Lt.)</Text>
       <PageNumber>3159</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -917,14 +925,14 @@
         <KeyDitto>___ ___ —— ___ ___</KeyDitto>
       </Key>
       <Forenames>R. S.</Forenames>
+      <Text>(2nd Lt.)</Text>
+      <PageNumber>2747</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>2747</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Bald</Key>
+      <Text>; A. (2nd Lt.)</Text>
       <PageNumber>3492</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -958,14 +966,14 @@
     <MainItem>
       <Key>Baldwin</Key>
       <Forenames>E. S.</Forenames>
+      <Text>(2nd Lt.)</Text>
+      <PageNumber>2627</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>2627</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Ball</Key>
+      <Text>; G. W. M. (2nd Lt.)</Text>
       <PageNumber>1820</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -992,19 +1000,12 @@
       <Text>(Capt.)</Text>
       <PageNumber>2624</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Banon</Key>
-      <Forenames>H. M.</Forenames>
-    </MainItem>
-    <Text>
-      <PageNumber>722</PageNumber>
-      <SubItem>
-        <PageNumber>722</PageNumber>
-      </SubItem>
-    </Text>
     <SubItem>
+      <Text>Retains actg. rank while oomdg. a Co., Dec. 7, 1917</Text>
+      <PageNumber>722</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>Retains aotg. rank while V oomdg. a Co., Feb. 12,1918</Text>
       <PageNumber>722</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1041,12 +1042,13 @@
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>A. J.</Forenames>
-    </MainItem>
-    <Text>
+      <Text>(2nd Lt.)</Text>
       <PageNumber>730</PageNumber>
-      <PageNumber>909</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>
+        <PageNumber>909</PageNumber>
+      </Text>
       <PageNumber>2168</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1064,11 +1066,11 @@
     <MainItem>
       <Key>Barker</Key>
       <Forenames>G. M.</Forenames>
-    </MainItem>
-    <Text>
+      <Text>(2nd Lt.)</Text>
       <PageNumber>3760</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Lt.</Text>
       <PageNumber>3763</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1078,11 +1080,11 @@
         <KeyDitto>— ___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>H. A. E.</Forenames>
-    </MainItem>
-    <Text>
+      <Text>(2nd Lt.)</Text>
       <PageNumber>3893</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Lt</Text>
       <PageNumber>1819</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1130,11 +1132,11 @@
     <MainItem>
       <Key>Barnard</Key>
       <Forenames>L. G.</Forenames>
-    </MainItem>
-    <Text>
+      <Text>(2nd Lt.)</Text>
       <PageNumber>3761</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Lt</Text>
       <PageNumber>2168</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1212,16 +1214,16 @@
     <MainItem>
       <Key>Barry</Key>
       <Forenames>C. B.</Forenames>
+      <Text>(2nd Lt.)</Text>
+      <PageNumber>1543</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>1543</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>
         <KeyDitto>___ ——</KeyDitto>
       </Key>
+      <Text>7 D. T. (temp. 2nd Lt.)</Text>
       <PageNumber>3159</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1249,11 +1251,11 @@
     <MainItem>
       <Key>Bartleet</Key>
       <Forenames>T. E.</Forenames>
-    </MainItem>
-    <Text>
+      <Text>(2nd Lt.)</Text>
       <PageNumber>909</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Lt.</Text>
       <PageNumber>918</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1283,22 +1285,15 @@
       <Text>(2nd Lt.)</Text>
       <PageNumber>2744</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___ ___</KeyDitto>
-      </Key>
-      <Forenames>R. M. S.</Forenames>
-    </MainItem>
-    <Text>
-      <PageNumber>726</PageNumber>
-      <SubItem>
-        <PageNumber>726</PageNumber>
-        <PageNumber>726</PageNumber>
-      </SubItem>
-    </Text>
+    <KeyDitto>___ ___ ___ ___</KeyDitto>
     <SubItem>
+      <Text>
+        <PageNumber>726</PageNumber>
+      </Text>
+      <PageNumber>726</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>cancelled</Text>
       <PageNumber>918</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1444,21 +1439,22 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>W.F. B.</Forenames>
+      <Text>(2ndLt.)</Text>
+      <PageNumber>1543</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>1543</PageNumber>
-    <ItemGroup>
-      <MainItem>
-        <Key>Bean</Key>
-        <PageNumber>1820</PageNumber>
-        <PageNumber>1962</PageNumber>
-      </MainItem>
-    </ItemGroup>
-  </Text>
+  <ItemGroup>
+    <MainItem>
+      <Key>Bean</Key>
+      <Text>* T. L. L. (2nd Lt.)</Text>
+      <PageNumber>1820</PageNumber>
+      <PageNumber>1962</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Beard</Key>
+      <Text>, H; (2nd Lt.)</Text>
       <PageNumber>3764</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1508,14 +1504,14 @@
         <KeyDitto>___ ___ ___ .</KeyDitto>
       </Key>
       <Forenames>W.G.</Forenames>
+      <Text>(Lt.)</Text>
+      <PageNumber>2871</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>2871</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Beck</Key>
+      <Text>, 3. P. (Lt.)</Text>
       <PageNumber>2871</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1523,14 +1519,14 @@
     <MainItem>
       <Key>Beckett</Key>
       <Forenames>J.</Forenames>
+      <Text>(2nd Lt.) .. ..;</Text>
+      <PageNumber>2874</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>2874</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Bedell</Key>
+      <Text>, G: W. (aotg. Capt. with pay andallces. as Lt. while Adjt.)</Text>
       <PageNumber>910</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1545,8 +1541,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bell</Key>
-      <Forenames>A.</Forenames>
-      <Text>J: (temp. Capt.)</Text>
+      <Forenames>A. J</Forenames>
+      <Text>: (temp. Capt.)</Text>
       <PageNumber>908</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1576,12 +1572,12 @@
         <KeyDitto>___ ___ ___ ___ —</KeyDitto>
       </Key>
       <Forenames>R. S.</Forenames>
-    </MainItem>
-    <Text>
+      <Text>(2nd Lt.) TM</Text>
       <PageNumber>1969</PageNumber>
       <PageNumber>3492</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>. Not. Feb. 7,1919 cancelled</Text>
       <PageNumber>3493</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1621,15 +1617,8 @@
     <MainItem>
       <Key>Behriet</Key>
       <Forenames>L. G.</Forenames>
-    </MainItem>
-  </ItemGroup>
-  <Text>
-    <PageNumber>3764</PageNumber>
-  </Text>
-  <ItemGroup>
-    <MainItem>
-      <Key>Bennett</Key>
-      <PageNumber>819</PageNumber>
+      <Text>(2nd Lfc)</Text>
+      <PageNumber>3764</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

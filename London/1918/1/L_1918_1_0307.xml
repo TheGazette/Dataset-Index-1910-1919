@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="0307" pageID="https://www.thegazette.co.uk/id/London/index/year/1918/volume/1/page/0307" pagePDF="https://www.thegazette.co.uk/London/index/year/1918/volume/1/page/0307" pageRDF="https://www.thegazette.co.uk/London/index/year/1918/volume/1/page/0307?view=linked-data" type="index" volume="1" year="1918">
+<Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="307" pageID="https://www.thegazette.co.uk/id/London/index/year/1918/volume/1/page/307" pagePDF="https://www.thegazette.co.uk/London/index/year/1918/volume/1/page/307" pageRDF="https://www.thegazette.co.uk/London/index/year/1918/volume/1/page/307?view=linked-data" type="index" volume="1" year="1918">
   <ItemGroup>
     <MainItem>
-      <Key>Cortett</Key>
-      <Text>. —Corp, temp. 2nd Lt. C. N. (rel. commn. on acc. of ill-health oauaed by wounds and to be Hon. 2nd Lt.)</Text>
+      <Key>
+        <KeyDitto>—</KeyDitto>
+      </Key>
+      <Forenames>Corp</Forenames>
+      <Text>, temp. 2nd Lt. C. N. (rel. commn. on acc. of ill-health oauaed by wounds and to be Hon. 2nd Lt.)</Text>
       <PageNumber>992</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -19,15 +22,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Cormack</Key>
-      <Title>temp.</Title>
-    </MainItem>
-    <Text>
+      <Text>, temp. 2nd Lt. A. R. (temp. Lt.)</Text>
       <PageNumber>3698</PageNumber>
-      <SubItem>
-        <PageNumber>859</PageNumber>
-      </SubItem>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Cadet E. W. (2nd Lt.)</Text>
+      <PageNumber>859</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>Cadet P. F. (temp. 2nd Lt. on prob.)</Text>
       <PageNumber>3377</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -36,17 +39,18 @@
       <Key>Cornaby</Key>
       <Title>temp. Lt.</Title>
       <Forenames>W. B.</Forenames>
+      <Text>(trd.)</Text>
+      <PageNumber>3382</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <Text>
-    <PageNumber>3382</PageNumber>
     <SubItem>
+      <Text>Date of promn. to temp. Lt</Text>
       <PageNumber>3382</PageNumber>
     </SubItem>
-  </Text>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Cornah</Key>
+      <Text>, 2nd Lt. J. W. (Lt.)</Text>
       <PageNumber>786</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -55,19 +59,18 @@
       <Key>Cornelius</Key>
       <Title>Lt.</Title>
       <Forenames>C.</Forenames>
-    </MainItem>
-    <Text>
+      <Text>(trd. and actg. Capt.)</Text>
       <PageNumber>1081</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Ceases to be empld. with an Infy. Bn. .,. -</Text>
       <PageNumber>2693</PageNumber>
     </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Cornelius-Wheeler</Key>
-      <Title>temp.</Title>
-      <Text>2nd Lt. C. (Fit. Oomdr. and temp. Capt.)</Text>
+      <Text>, temp. 2nd Lt. C. (Fit. Oomdr. and temp. Capt.)</Text>
       <PageNumber>684</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -76,26 +79,26 @@
       <Key>Cornell</Key>
       <Title>Capt.</Title>
       <Forenames>B. S.</Forenames>
-    </MainItem>
-    <Text>
+      <Text>, M.B. (temp. Lt.)</Text>
       <PageNumber>3715</PageNumber>
-      <SubItem>
-        <PageNumber>2471</PageNumber>
-      </SubItem>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>temp. 2nd Lt. F. W. (temp. Lt.)</Text>
+      <PageNumber>2471</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>2nd Lt. R. W. (Lt.)</Text>
       <PageNumber>231</PageNumber>
     </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Corner</Key>
-      <Title>temp.</Title>
-    </MainItem>
-    <Text>
+      <Text>, temp. 2nd Lt., attd., H. W. (trd. to Reg. Bn.)</Text>
       <PageNumber>231</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>? Cadet R. W. (temp. 2nd Lt. on prob.)</Text>
       <PageNumber>3442</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -104,11 +107,11 @@
       <Key>Comes</Key>
       <Title>Cadet</Title>
       <Forenames>E. H.</Forenames>
-    </MainItem>
-    <Text>
+      <Text>(temp. 2nd Lt. on prob.)</Text>
       <PageNumber>1808</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>temp. 2nd Lt. L. G., M.C. (actg. Capt.)</Text>
       <PageNumber>3299</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -124,8 +127,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Corney</Key>
-      <Title>temp.</Title>
-      <Text>2nd Lt. on prob. W. J. (Flying Offr., Observer, and confd.)</Text>
+      <Text>, temp. 2nd Lt. on prob. W. J. (Flying Offr., Observer, and confd.)</Text>
       <PageNumber>1060</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -143,19 +145,20 @@
       <Key>Cornforth</Key>
       <Title>Cadet</Title>
       <Forenames>C. A. B.</Forenames>
-    </MainItem>
-    <Text>
+      <Text>(temp. 2nd Lt., attd.)</Text>
       <PageNumber>2056</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Lt. J. C. (actg. Capt.)</Text>
       <PageNumber>941</PageNumber>
     </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Cornhill</Key>
-      <Title>Asst. Commy.</Title>
-      <Text>of Ord. and Hon. Lt. (temp. D.C.O.) G. (Hon. Oapt.)</Text>
+      <Title>Asst.</Title>
+      <Forenames>Commy</Forenames>
+      <Text>. of Ord. and Hon. Lt. (temp. D.C.O.) G. (Hon. Capt.)</Text>
       <PageNumber>1206</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -173,33 +176,33 @@
       <Key>Cornish</Key>
       <Title>Rev.</Title>
       <Forenames>A.</Forenames>
-    </MainItem>
-    <Text>
+      <Text>(temp. Chapln., 4th CI.)</Text>
       <PageNumber>2702</PageNumber>
-      <SubItem>
-        <PageNumber>347</PageNumber>
-      </SubItem>
-      <SubItem>
-        <PageNumber>1054</PageNumber>
-      </SubItem>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Pte. A. J. (temp. 2nd Lt.)</Text>
+      <PageNumber>347</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>temp. 2nd Lt. H. D. (temp. Lt., Gen. List)</Text>
+      <PageNumber>1054</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>temp. 2nd Lt., attd., V. C. (trd. to Reg. Bn.)</Text>
       <PageNumber>1495</PageNumber>
     </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Cornish-Bowden</Key>
-      <Title>Maj.</Title>
-      <Text>(temp. Lt.Col.) J. H. T., D.S.O. (Bt. Lt.Col.)</Text>
+      <Text>, Maj. (temp. Lt.Col.) J. H. T., D.S.O. (Bt. Lt.Col.)</Text>
       <PageNumber>2972</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Cornock</Key>
-      <Title>temp. Capt.</Title>
-      <Text>J H. (attd.)</Text>
+      <Text>, temp. Capt. J H. (attd.)</Text>
       <PageNumber>815</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -215,12 +218,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Cornwall</Key>
-      <Title>temp.</Title>
-    </MainItem>
-    <Text>
+      <Text>, temp. 2nd Lt. G. (temp. Lt.)</Text>
       <PageNumber>1919</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>temp. Lt. W. F., M.B. (temp. Capt.) '.</Text>
       <PageNumber>3714</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -237,14 +239,15 @@
     <MainItem>
       <Key>Cornwell</Key>
       <Forenames>Oadet F.</Forenames>
-    </MainItem>
-    <Text>
+      <Text>(temp. 2nd Lt. on prob.)</Text>
       <PageNumber>3377</PageNumber>
-      <SubItem>
-        <PageNumber>2873</PageNumber>
-      </SubItem>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>temp. Lt. F. B. (attd.)</Text>
+      <PageNumber>2873</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>Cadet V. J. S. (temp. 2nd Lt. on prob.)</Text>
       <PageNumber>1413</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -262,11 +265,11 @@
       <Key>Corrall</Key>
       <Title>Lt.</Title>
       <Forenames>W. R.</Forenames>
-    </MainItem>
-    <Text>
+      <Text>, M.C. (actg. Maj.)</Text>
       <PageNumber>922</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Temp. Maj</Text>
       <PageNumber>1882</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -275,34 +278,33 @@
       <Key>Corrie</Key>
       <Title>Cadet</Title>
       <Forenames>D. B.</Forenames>
-    </MainItem>
-    <Text>
+      <Text>(temp. 2nd Lt.)</Text>
       <PageNumber>2020</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Cadet J. (2nd Lt.)</Text>
       <PageNumber>3738</PageNumber>
     </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Corrie</Key>
-      <Title>temp.</Title>
-    </MainItem>
-    <Text>
+      <Text>, temp. 2nd Lt. on prob. M. (Flying Offr. and confd.)</Text>
       <PageNumber>2178</PageNumber>
-      <SubItem>
-        <PageNumber>2196</PageNumber>
-      </SubItem>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>2nd Lt. O. C. K., M.C. (actg. Capt.)</Text>
+      <PageNumber>2196</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>Reverts to actg. rank of Lt., Sub. Not.</Text>
       <PageNumber>3068</PageNumber>
     </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Corringham</Key>
-      <Title>temp.</Title>
-      <Text>2nd Lt. G. H. (Gen. List)</Text>
+      <Text>, temp. 2nd Lt. G. H. (Gen. List)</Text>
       <PageNumber>2600</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -336,15 +338,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Cory</Key>
-      <Title>temp. Lt.</Title>
-    </MainItem>
-    <Text>
+      <Title>temp.</Title>
+      <Forenames>Lt</Forenames>
+      <Text>., attd., C. C. (temp. Lt.)</Text>
       <PageNumber>233</PageNumber>
-      <SubItem>
-        <PageNumber>2575</PageNumber>
-      </SubItem>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>temp. 2nd Lt. E. Q. (rel. commn. on acc. of ill-health contracted on active service and to be Hon. 2nd Lt.)</Text>
+      <PageNumber>2575</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>Cadet J. (temp. 2nd Lt.)</Text>
       <PageNumber>1412</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -353,11 +357,11 @@
       <Key>Cory-Wright</Key>
       <Title>Lt.</Title>
       <Forenames>G.</Forenames>
-    </MainItem>
-    <Text>
+      <Text>(Fit. Comdr. and temp. Capt.)</Text>
       <PageNumber>3099</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>, Lt. R., M.C. (placed on ret. list on acc. of ill-health contracted on active service)</Text>
       <PageNumber>3402</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -373,43 +377,32 @@
   <ItemGroup>
     <MainItem>
       <Key>Cosgrove</Key>
-      <Title>temp.</Title>
-    </MainItem>
-    <Text>
+      <Text>, temp. 2nd Lt. N. R. (temp. Lt.)</Text>
       <PageNumber>1817</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>W. T. (temp. 2nd Lt. on prob.)</Text>
       <PageNumber>2465</PageNumber>
     </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Cosham</Key>
-      <Title>temp.</Title>
-      <Text>2nd Lt., attd., H. (temp. Lt.)</Text>
+      <Text>, temp. 2nd Lt., attd., H. (temp. Lt.)</Text>
       <PageNumber>674</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Cossaboom</Key>
-      <Title>temp. Mech. Sjt.</Title>
-    </MainItem>
-  </ItemGroup>
-  <Text>
-    <PageNumber>97</PageNumber>
-  </Text>
-  <ItemGroup>
-    <MainItem>
       <Key>Oossar</Key>
+      <Text>, 2nd Lt. E. (actg. Lt.)</Text>
       <PageNumber>1079</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Cossart</Key>
-      <Title>temp.</Title>
-      <Text>2nd Lt. O. B. (actg. Lt.)</Text>
+      <Text>, temp. 2nd Lt. O. B. (actg. Lt.)</Text>
       <PageNumber>3445</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -418,19 +411,18 @@
       <Key>Cosslett</Key>
       <Title>Gnr.</Title>
       <Forenames>E. T.</Forenames>
-    </MainItem>
-    <Text>
+      <Text>(temp. 2nd Lt.)</Text>
       <PageNumber>2311</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Flying Offr. and confd.</Text>
       <PageNumber>3442</PageNumber>
     </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Costa</Key>
-      <Title>temp.</Title>
-      <Text>2nd Lt. on prob. L. G. (Flying Offr. and confd.)</Text>
+      <Text>, temp. 2nd Lt. on prob. L. G. (Flying Offr. and confd.)</Text>
       <PageNumber>3258</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -447,41 +439,40 @@
       <Key>Costello</Key>
       <Title>Cadet</Title>
       <Forenames>G.</Forenames>
+      <Text>(temp. 2nd Lt.)</Text>
+      <PageNumber>3378</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <Text>
-    <PageNumber>3378</PageNumber>
     <SubItem>
+      <Text>2nd Lt. T. W. (Lt.) '</Text>
       <PageNumber>3403</PageNumber>
     </SubItem>
-  </Text>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Oostelloe</Key>
+      <Text>, 2nd Lt. W. H. G. (Lt.)</Text>
       <PageNumber>1810</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Costigan</Key>
-      <Title>temp.</Title>
-    </MainItem>
-    <Text>
+      <Text>, temp. 2nd Lt. R. H. (attd.)</Text>
       <PageNumber>2597</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Temp. Lt</Text>
       <PageNumber>2962</PageNumber>
     </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Costley-White</Key>
-      <Title>temp.</Title>
-    </MainItem>
-    <Text>
+      <Text>, temp. 2nd Lt. K. (temp. Lt.)</Text>
       <PageNumber>942</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Adjt. and actg. Capt.</Text>
       <PageNumber>2312</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -496,50 +487,41 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Cotesworth</Key>
-      <Title>Capt.</Title>
-      <Text>0. H. (apptd. to a Ser. Bn.)</Text>
-      <PageNumber>3450</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
       <Key>Cotman</Key>
-      <Title>temp.</Title>
-      <Text>2nd Lt. R. A. (temp. Lt.)</Text>
+      <Text>, temp. 2nd Lt. R. A. (temp. Lt.)</Text>
       <PageNumber>3543</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Coton</Key>
-      <Title>temp.</Title>
+      <Text>, temp. 2nd Lt., attd., C. O. (temp. Lt., attd.)</Text>
+      <PageNumber>2711</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>2711</PageNumber>
-    <MainItem>Cottam, 2nd Lt. A. E. (Lt.) 2273</MainItem>
-  </Text>
   <ItemGroup>
-    <Key>Cottam</Key>
-    <PageNumber>2273</PageNumber>
+    <MainItem>
+      <Key>Cottam</Key>
+      <Text>, 2nd Lt. A. E. (Lt.)</Text>
+      <PageNumber>2273</PageNumber>
+    </MainItem>
     <SubItem>
+      <Text>Cadet G. H. (temp. 2nd Lt.)</Text>
       <PageNumber>100</PageNumber>
     </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Cottee</Key>
-      <Title>temp.</Title>
-      <Text>2nd Lt., attd., H. E. (trd. to Ser. Bn.)</Text>
+      <Text>, temp. 2nd Lt., attd., H. E. (trd. to Ser. Bn.)</Text>
       <PageNumber>1792</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Cottell</Key>
-      <Title>Lt.</Title>
-      <Text>-CoL R. J. C. (Brevet Col.)</Text>
+      <Forenames>Lt</Forenames>
+      <Text>.-CoL R. J. C. (Brevet Col.)</Text>
       <PageNumber>14</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -548,11 +530,11 @@
       <Key>Cotter</Key>
       <Title>Rev.</Title>
       <Forenames>J. B.</Forenames>
-    </MainItem>
-    <Text>
+      <Text>(temp. Chapln., 4th 01.)</Text>
       <PageNumber>3102</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>temp. 2nd Lt., attd., J. C. R. (temp. Lt.)</Text>
       <PageNumber>1531</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -561,35 +543,40 @@
       <Key>Cotterill</Key>
       <Title>temp. Lt.</Title>
       <Forenames>B. B.</Forenames>
-    </MainItem>
-    <Text>
+      <Text>(actg. Capt.)</Text>
       <PageNumber>2014</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
-      <PageNumber>3071</PageNumber>
+      <Text>
+        <PageNumber>3071</PageNumber>
+      </Text>
       <PageNumber>2466</PageNumber>
     </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Cottle</Key>
-      <Title>Lt.</Title>
+      <Forenames>Lt</Forenames>
+      <Text>. (temp. Capt.) P. J., M.O. (actg. Maj.)</Text>
+      <PageNumber>3556</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>3556</PageNumber>
-    <MainItem>Cotton, 2nd 01. Air Mech. A. F. (temp. 2nd Lt.) 2310</MainItem>
-  </Text>
   <ItemGroup>
-    <Key>Cotton</Key>
-    <PageNumber>2310</PageNumber>
+    <MainItem>
+      <Key>Cotton</Key>
+      <Text>, 2nd 01. Air Mech. A. F. (temp. 2nd Lt.)</Text>
+      <PageNumber>2310</PageNumber>
+    </MainItem>
     <SubItem>
+      <Text>Flying Offr</Text>
       <PageNumber>3896</PageNumber>
     </SubItem>
     <SubItem>
+      <Text>temp. 2nd Lt. (actg. Capt.) E. W. (temp. Lt. and retain actg. rank)</Text>
       <PageNumber>3080</PageNumber>
     </SubItem>
     <SubItem>
+      <Text>Maj. F. W. (Lt.-CoL)</Text>
       <PageNumber>1062</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -598,44 +585,51 @@
       <Key>Cotton</Key>
       <Title>Cadet</Title>
       <Forenames>G. A.</Forenames>
+      <Text>(2nd Lt.)</Text>
+      <PageNumber>3566</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <Text>
-    <PageNumber>3566</PageNumber>
     <SubItem>
+      <Text>r CpL H. (temp. 2nd Lt.)</Text>
       <PageNumber>1525</PageNumber>
     </SubItem>
     <SubItem>
+      <Text>2nd Lt. J. H. (temp. Capt.)</Text>
       <PageNumber>3899</PageNumber>
     </SubItem>
     <SubItem>
-      <PageNumber>2206</PageNumber>
+      <Text>
+        <PageNumber>2206</PageNumber>
+      </Text>
       <PageNumber>3714</PageNumber>
     </SubItem>
     <SubItem>
+      <Text>Capt. W. E. L., M.C. (temp. Maj.)</Text>
       <PageNumber>3830</PageNumber>
     </SubItem>
-    <MainItem>Cotton-Swanston, 2nd Lt. W. L. (seed.) 1350</MainItem>
-  </Text>
+  </ItemGroup>
   <ItemGroup>
-    <Key>Cotton-Swanston</Key>
-    <PageNumber>1350</PageNumber>
+    <MainItem>
+      <Key>Cotton-Swanston</Key>
+      <Text>, 2nd Lt. W. L. (seed.)</Text>
+      <PageNumber>1350</PageNumber>
+    </MainItem>
     <SubItem>
+      <Text>Lt</Text>
       <PageNumber>3297</PageNumber>
     </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Cottrell</Key>
-      <Title>temp.</Title>
-    </MainItem>
-    <Text>
+      <Text>, temp. 2nd Lt., attd., A. E. (trd. to Ser. Bn.)</Text>
       <PageNumber>2601</PageNumber>
-      <SubItem>
-        <PageNumber>974</PageNumber>
-      </SubItem>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Qrmr. and Hon. Lt. A. W. A. W. (Hon. Capt.)</Text>
+      <PageNumber>974</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>Actg. Lt.-Col</Text>
       <PageNumber>3897</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -644,26 +638,25 @@
       <Key>Cottrell-Dormer</Key>
       <Title>temp. Capt.</Title>
       <Forenames>C.</Forenames>
-    </MainItem>
-    <Text>
+      <Text>(Supt. Remt. Serv.)</Text>
       <PageNumber>3079</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Capt. (temp. Maj.) M. (rel. commn. on acc. of ill-health and to be Hon. Maj.)</Text>
       <PageNumber>2032</PageNumber>
     </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Couch</Key>
-      <Title>temp. Capt.</Title>
+      <Text>, temp. Capt., attd., C. J. (trd.)</Text>
+      <PageNumber>3262</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>3262</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Couchman</Key>
+      <Text>, 2nd Lt. A. (Lt.)</Text>
       <PageNumber>3714</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -690,14 +683,15 @@
       <Key>Couldrey</Key>
       <Title>Lt.</Title>
       <Forenames>R. C.</Forenames>
-    </MainItem>
-    <Text>
+      <Text>(rel. actg. rank of Capt.)</Text>
       <PageNumber>2765</PageNumber>
-      <SubItem>
-        <PageNumber>3732</PageNumber>
-      </SubItem>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Seed</Text>
+      <PageNumber>3732</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>Temp. Capt.</Text>
       <PageNumber>2401</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -713,35 +707,33 @@
   <ItemGroup>
     <MainItem>
       <Key>Cculing</Key>
-      <Title>temp.</Title>
+      <Text>, temp. 2nd Lt. A. V. (temp. Lt.) Sub. Not</Text>
+      <PageNumber>3897</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>3897</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Coull</Key>
+      <Text>, 2nd Lt. F. (temp. Lt.)</Text>
       <PageNumber>3449</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Coulman</Key>
-      <Title>Lt.</Title>
-    </MainItem>
-    <Text>
+      <Forenames>Lt</Forenames>
+      <Text>. (actg. Capt.) L. F. (actg. Maj.)</Text>
       <PageNumber>414</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Capt</Text>
       <PageNumber>2613</PageNumber>
     </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Coulshed</Key>
-      <Title>temp.</Title>
-      <Text>2nd Lt., attd., W. (trd. to Reg. Bn.)</Text>
+      <Text>, temp. 2nd Lt., attd., W. (trd. to Reg. Bn.)</Text>
       <PageNumber>2316</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -750,28 +742,34 @@
       <Key>Coulson</Key>
       <Title>temp. Maj.</Title>
       <Forenames>B. J. B.</Forenames>
+      <Text>(actg. Lt.-Col.)</Text>
+      <PageNumber>2856</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <Text>
-    <PageNumber>2856</PageNumber>
     <SubItem>
+      <Text>Cadet E. A. (temp. 2nd Lt., attd.)</Text>
       <PageNumber>1055</PageNumber>
     </SubItem>
     <SubItem>
+      <Text>2nd Lt. R. A. (Lt.)</Text>
       <PageNumber>3576</PageNumber>
     </SubItem>
     <SubItem>
+      <Text>2nd Lt. W. H. (Lt. and rem. seed.)</Text>
       <PageNumber>1905</PageNumber>
     </SubItem>
     <SubItem>
+      <Text>Not cancelled</Text>
       <PageNumber>3713</PageNumber>
     </SubItem>
-    <MainItem>Coulston, 2nd Lt. H. C. (Lt.) 3296</MainItem>
-  </Text>
+  </ItemGroup>
   <ItemGroup>
-    <Key>Coulston</Key>
-    <PageNumber>3296</PageNumber>
+    <MainItem>
+      <Key>Coulston</Key>
+      <Text>, 2nd Lt. H. C. (Lt.)</Text>
+      <PageNumber>3296</PageNumber>
+    </MainItem>
     <SubItem>
+      <Text>temp. Maj. P. B. (rel. commn. on acc. of ill-health contracted on active service and to be Hon. Maj.)</Text>
       <PageNumber>3545</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -779,11 +777,11 @@
     <MainItem>
       <Key>Coulter</Key>
       <Forenames>R. P.</Forenames>
-    </MainItem>
-    <Text>
+      <Text>(temp. 2nd Lt. on prob.)</Text>
       <PageNumber>1902</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Cadet T. (temp. 2nd Lt.)</Text>
       <PageNumber>3690</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -792,7 +790,7 @@
       <Key>Coulthard</Key>
       <Title>Miss</Title>
       <Forenames>M.</Forenames>
-      <Text>(Asst. Administrator, W.A.A.C.) .. :.</Text>
+      <Text>(Asst. Administrator, W.A.A.C.) .. :</Text>
       <PageNumber>3294</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -808,35 +806,36 @@
   <ItemGroup>
     <MainItem>
       <Key>Coumbe</Key>
-      <Title>temp.</Title>
+      <Text>, temp. 2nd Lt. F. E. (temp. Lt.)</Text>
+      <PageNumber>3694</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>3694</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Counsell</Key>
+      <Text>, 2nd Lt. D. R. (Lt.)</Text>
       <PageNumber>2690</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Coupal</Key>
-      <Title>temp.</Title>
+      <Text>, temp. 2nd Lt. A. B. (Fit. Comdr. and temp. Capt.)</Text>
+      <PageNumber>2284</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>2284</PageNumber>
-    <MainItem>Couper, 2nd Lt. F. K. (Lt,).. 1786</MainItem>
-  </Text>
   <ItemGroup>
-    <Key>Couper</Key>
-    <PageNumber>1786</PageNumber>
+    <MainItem>
+      <Key>Couper</Key>
+      <Text>, 2nd Lt. F. K. (Lt,)</Text>
+      <PageNumber>1786</PageNumber>
+    </MainItem>
     <SubItem>
+      <Text>temp. 2nd Lt. J. A. (rel. commn. on aoc. of illhe 'lth)</Text>
       <PageNumber>2035</PageNumber>
     </SubItem>
     <SubItem>
+      <Text>Maj. J. R. (actg. Lt.-Col.)</Text>
       <PageNumber>1717</PageNumber>
     </SubItem>
   </ItemGroup>

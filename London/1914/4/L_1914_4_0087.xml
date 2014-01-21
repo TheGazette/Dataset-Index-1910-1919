@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="0087" pageID="https://www.thegazette.co.uk/id/London/index/year/1914/volume/4/page/0087" pagePDF="https://www.thegazette.co.uk/London/index/year/1914/volume/4/page/0087" pageRDF="https://www.thegazette.co.uk/London/index/year/1914/volume/4/page/0087?view=linked-data" type="index" volume="4" year="1914">
+<Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="087" pageID="https://www.thegazette.co.uk/id/London/index/year/1914/volume/4/page/087" pagePDF="https://www.thegazette.co.uk/London/index/year/1914/volume/4/page/087" pageRDF="https://www.thegazette.co.uk/London/index/year/1914/volume/4/page/087?view=linked-data" type="index" volume="4" year="1914">
   <ItemGroup>
     <MainItem>
       <Key>Simon</Key>
@@ -36,15 +36,16 @@
     <MainItem>
       <Key>Townsend</Key>
       <Forenames>Charles Eric</Forenames>
-    </MainItem>
-    <Text>
+      <Text>(temporary Inspector of Works and Hon. Lieut.)</Text>
       <PageNumber>ibid.</PageNumber>
-      <SubItem>
-        <PageNumber>10429</PageNumber>
-      </SubItem>
-      <CategoryTitle>GRENADIER GUARDS</CategoryTitle>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Correction</Text>
+      <PageNumber>10429</PageNumber>
+    </SubItem>
+    <SubCategoryTitle>GRENADIER GUARDS</SubCategoryTitle>
+    <SubItem>
+      <Text>Temporary Lieut., and to be supernumerary</Text>
       <PageNumber>10554</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -105,14 +106,16 @@
       <Key>Duckworth-King</Key>
       <Title>Sir</Title>
       <Forenames>George H. James</Forenames>
+      <Text>, Bt. (2nd Lieut.)</Text>
+      <PageNumber>8137</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>8137</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Eaton</Key>
+      <Title>the Hon.</Title>
+      <Forenames>Francis O. Henry</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>10695</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -127,8 +130,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Forbes</Key>
-      <Title>Capt.</Title>
-      <Text>the Hon. Atholl L. C. (Master of Forbes) (Regimental Adjt.)</Text>
+      <Title>Capt. the Hon.</Title>
+      <Forenames>Atholl L. C.</Forenames>
+      <Text>(Master of Forbes) (Regimental Adjt.)</Text>
       <PageNumber>10663</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -221,7 +225,7 @@
     <MainItem>
       <Key>Rose</Key>
       <Forenames>Ivor S. C.</Forenames>
-      <Text>(Oapt.)</Text>
+      <Text>(Capt.)</Text>
       <PageNumber>9691</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -256,11 +260,11 @@
       <Key>Stanley</Key>
       <Title>2nd Lieut.</Title>
       <Forenames>Edward M. Cavendish</Forenames>
-    </MainItem>
-    <Text>
+      <Text>Lord (antedated)</Text>
       <PageNumber>10148</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Temporary Lieut., to be supernumerary</Text>
       <PageNumber>10899</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -314,15 +318,15 @@
       <Key>Wiggins</Key>
       <Title>2nd Lieut.</Title>
       <Forenames>Arthur F. Reginald</Forenames>
-    </MainItem>
-    <Text>
+      <Text>(antedated)</Text>
       <PageNumber>10148</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Temporary Lieut., to be supernumerary)</Text>
       <PageNumber>10899</PageNumber>
     </SubItem>
   </ItemGroup>
-  <CategoryTitle>COLDSTREAM GUARDS</CategoryTitle>
+  <SubCategoryTitle>COLDSTREAM GUARDS</SubCategoryTitle>
   <ItemGroup>
     <MainItem>
       <Key>Arkwright</Key>
@@ -371,14 +375,14 @@
       <Key>Britten</Key>
       <Title>2nd Lieut.</Title>
       <Forenames>F. C. R.</Forenames>
+      <Text>(temporary Lieut., and to be supernumerary) .'</Text>
+      <PageNumber>10554</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>10554</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Browne</Key>
+      <Text>, 2nd Lieut, the Hon. M. H. D. (temporary Lieut., and to be supernumerary)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -396,7 +400,7 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Lieut</Forenames>
-      <Text>, and Adjt. G. A. (temporary Oapt., to be supernumerary)</Text>
+      <Text>, and Adjt. G. A. (temporary Capt., to be supernumerary)</Text>
       <PageNumber>10899</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -440,7 +444,7 @@
       <Key>Gordon</Key>
       <Title>Lieut.</Title>
       <Forenames>C. L.</Forenames>
-      <Text>(temporary Oapt., and to be supernumerary)</Text>
+      <Text>(temporary Capt., and to be supernumerary)</Text>
       <PageNumber>10554</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -466,8 +470,8 @@
     <MainItem>
       <Key>Hardy</Key>
       <Title>2nd Lieut.</Title>
-      <Forenames>A.</Forenames>
-      <Text>E, (temporary Lieut., and to be supernumerary)</Text>
+      <Forenames>A. E</Forenames>
+      <Text>, (temporary Lieut., and to be supernumerary)</Text>
       <PageNumber>10554</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -549,14 +553,6 @@
       <Forenames>John Henry</Forenames>
       <Text>(2nd Lieut.)</Text>
       <PageNumber>8491</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Marsham</Key>
-      <Title>2nd Lieut.</Title>
-      <Text>0. Viscount (temporary Lieut., and to be supernumerary)</Text>
-      <PageNumber>10554</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -662,7 +658,7 @@
       <Key>Tollemache</Key>
       <Title>Lieut.</Title>
       <Forenames>E. D. H.</Forenames>
-      <Text>(temporary Oapt., and to be supernumerary)</Text>
+      <Text>(temporary Capt., and to be supernumerary)</Text>
       <PageNumber>10554</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -697,27 +693,27 @@
       <Key>Whitbread</Key>
       <Title>Supy. Capt.</Title>
       <Forenames>Robert</Forenames>
+      <Text>(restored to the establishment)</Text>
+      <PageNumber>8853</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>8853</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Winn</Key>
+      <Text>, 2nd Lieut, the Hon. R. G. (temporary Lieut., and to be supernumerary)</Text>
       <PageNumber>10554</PageNumber>
     </MainItem>
   </ItemGroup>
-  <CategoryTitle>SCOTS GUARDS</CategoryTitle>
+  <SubCategoryTitle>SCOTS GUARDS.</SubCategoryTitle>
   <ItemGroup>
     <MainItem>
       <Key>Abercromby</Key>
       <Forenames>Robert Alexander</Forenames>
-    </MainItem>
-    <Text>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>9141</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Temporary Lieut., and to be supernumerary</Text>
       <PageNumber>10554</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -742,7 +738,7 @@
     <MainItem>
       <Key>Campbell</Key>
       <Forenames>Colin F. F.</Forenames>
-      <Text>(Oapt.)</Text>
+      <Text>(Capt.)</Text>
       <PageNumber>9970</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -760,14 +756,14 @@
     <MainItem>
       <Key>Carnegie</Key>
       <Forenames>Charles A.</Forenames>
+      <Text>Lord (Lieut.)</Text>
+      <PageNumber>9970</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>9970</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Clive</Key>
+      <Text>,; Percy R. Viscount (Lieut.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -783,8 +779,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Oompton-Thornhill</Key>
-      <Forenames>Richard</Forenames>
-      <Text>A;</Text>
+      <Forenames>Richard A</Forenames>
+      <Text>;</Text>
       <PageNumber>9970</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -792,14 +788,14 @@
     <MainItem>
       <Key>Cottrell-Dormer</Key>
       <Forenames>Clement</Forenames>
+      <Text>(Lieut.)</Text>
+      <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>ibid.</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Finch</Key>
+      <Text>,' William H. Wynne (Lieut.)</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -816,8 +812,8 @@
     <MainItem>
       <Key>Fletcher</Key>
       <Title>Lieut.</Title>
-      <Forenames>B.</Forenames>
-      <Text>L (temporary Capt., and to be' supernumerary)</Text>
+      <Forenames>B. L</Forenames>
+      <Text>(temporary Capt., and to be' supernumerary)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -907,11 +903,11 @@
     <MainItem>
       <Key>Loyd</Key>
       <Forenames>Geoffrey A.</Forenames>
-    </MainItem>
-    <Text>
+      <Text>(Lieut.)</Text>
       <PageNumber>9970</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Temporary Lieut., and to be supernumerary</Text>
       <PageNumber>10554</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -919,12 +915,12 @@
     <MainItem>
       <Key>Menzies</Key>
       <Forenames>Alastair Graham</Forenames>
-    </MainItem>
-    <Text>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>8122</PageNumber>
       <PageNumber>10772</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Temporary Lieut., and to be supernumerary</Text>
       <PageNumber>10554</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -932,12 +928,12 @@
     <MainItem>
       <Key>Minto</Key>
       <Forenames>Victor G. L. Garnet</Forenames>
-    </MainItem>
-    <Text>
+      <Text>Earl of (2nd Lieut.)</Text>
       <PageNumber>8122</PageNumber>
       <PageNumber>10772</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Temporary Lieut., and to be supernumerary</Text>
       <PageNumber>10554</PageNumber>
     </SubItem>
   </ItemGroup>

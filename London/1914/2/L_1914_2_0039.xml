@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="0039" pageID="https://www.thegazette.co.uk/id/London/index/year/1914/volume/2/page/0039" pagePDF="https://www.thegazette.co.uk/London/index/year/1914/volume/2/page/0039" pageRDF="https://www.thegazette.co.uk/London/index/year/1914/volume/2/page/0039?view=linked-data" type="index" volume="2" year="1914">
-  <SubCategoryTitle>NAVAL PROMOTIONS.</SubCategoryTitle>
+<Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="039" pageID="https://www.thegazette.co.uk/id/London/index/year/1914/volume/2/page/039" pagePDF="https://www.thegazette.co.uk/London/index/year/1914/volume/2/page/039" pageRDF="https://www.thegazette.co.uk/London/index/year/1914/volume/2/page/039?view=linked-data" type="index" volume="2" year="1914">
+  <SubSectionTitle>Chaplains</SubSectionTitle>
   <ItemGroup>
     <MainItem>
-      <SectionTitle>
-        <Key>Chaplains</Key>
-      </SectionTitle>
-      <Text>. Bode, Rev. John Ernest Victor, B.A</Text>
+      <Key>Bode</Key>
+      <Title>Rev.</Title>
+      <Forenames>John Ernest Victor</Forenames>
+      <Text>, B.A</Text>
       <PageNumber>3387</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -27,7 +27,7 @@
       <PageNumber>4451</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SectionTitle>Retired List</SectionTitle>
+  <SubSubSectionTitle>Retired List</SubSubSectionTitle>
   <ItemGroup>
     <MainItem>
       <Key>Blower</Key>
@@ -255,20 +255,21 @@
     <MainItem>
       <Key>Borland</Key>
       <Forenames>John Mclnnes</Forenames>
+      <Text>, R.D. (Commander)</Text>
+      <PageNumber>4005</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>4005</PageNumber>
-    <ItemGroup>
-      <MainItem>
-        <Key>Brassev</Key>
-        <PageNumber>4881</PageNumber>
-      </MainItem>
-    </ItemGroup>
-  </Text>
+  <ItemGroup>
+    <MainItem>
+      <Key>Brassev</Key>
+      <Text>The Rt. Hon. ' Earl, G.C.B. (Hon. Capt.)</Text>
+      <PageNumber>4881</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Broad</Key>
+      <Text>bent, Commander Harvey William, R.D. (retired, to be Capt.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -358,16 +359,16 @@
     <MainItem>
       <Key>Crichton</Key>
       <Forenames>Charles Smith</Forenames>
+      <Text>(Hon. Commander)</Text>
+      <PageNumber>4881</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>4881</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
+      <Text>(correction)</Text>
       <PageNumber>4984</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -776,14 +777,14 @@
     <MainItem>
       <Key>Newton-Clare</Key>
       <Forenames>Sub-</Forenames>
+      <Text>Lieut. Edward Thomas (confirmedY</Text>
+      <PageNumber>3757</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>3757</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Ormonde</Key>
+      <Text>the Most Hon. the Marquis of, K.P. (Hon. Capt.)</Text>
       <PageNumber>4881</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -935,14 +936,14 @@
       <Key>Spray</Key>
       <Title>Lieut.</Title>
       <Forenames>Percy James</Forenames>
+      <Text>(retired)</Text>
+      <PageNumber>___ ___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>___ ___ ___ ___</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Swan</Key>
+      <Text>, Sub-Lieut. Leonard Herbert (retired)</Text>
       <PageNumber>4222</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1008,14 +1009,14 @@
     <MainItem>
       <Key>White</Key>
       <Forenames>John Bell</Forenames>
+      <Text>(Hon. Capt.) ...</Text>
+      <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>ibid.</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Wiles</Key>
+      <Text>Vivian Lockyer (Lieut.)</Text>
       <PageNumber>4535</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1042,16 +1043,16 @@
       <Key>Williams-Bulkeley</Key>
       <Title>Sir</Title>
       <Forenames>Richard Henry</Forenames>
+      <Text>(Baronet) (Hon. Commander)</Text>
+      <PageNumber>2879</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>2879</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
+      <Text>(Hon. Capt.)</Text>
       <PageNumber>4881</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1099,7 +1100,8 @@
   <ItemGroup>
     <MainItem>
       <Key>MacMahon</Key>
-      <Title>Lieut. Joseph .</Title>
+      <Title>Lieut.</Title>
+      <Forenames>Joseph</Forenames>
       <PageNumber>4617</PageNumber>
     </MainItem>
   </ItemGroup>

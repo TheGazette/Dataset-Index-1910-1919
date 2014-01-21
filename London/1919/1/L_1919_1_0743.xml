@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="0743" pageID="https://www.thegazette.co.uk/id/London/index/year/1919/volume/1/page/0743" pagePDF="https://www.thegazette.co.uk/London/index/year/1919/volume/1/page/0743" pageRDF="https://www.thegazette.co.uk/London/index/year/1919/volume/1/page/0743?view=linked-data" type="index" volume="1" year="1919">
+<Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="743" pageID="https://www.thegazette.co.uk/id/London/index/year/1919/volume/1/page/743" pagePDF="https://www.thegazette.co.uk/London/index/year/1919/volume/1/page/743" pageRDF="https://www.thegazette.co.uk/London/index/year/1919/volume/1/page/743?view=linked-data" type="index" volume="1" year="1919">
   <ItemGroup>
     <MainItem>
       <Key>McLean</Key>
@@ -88,16 +88,16 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>P. E.</Forenames>
+      <Text>(temp. Lt.)</Text>
+      <PageNumber>3482</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>3482</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>
         <KeyDitto>-.</KeyDitto>
       </Key>
+      <Text>laryon,IJ. D.(temp.Lt.)</Text>
       <PageNumber>715</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -373,17 +373,18 @@
     <MainItem>
       <Key>Olphert</Key>
       <Forenames>W.</Forenames>
+      <Text>(Lt., retd.) D.S.O., D.S.C</Text>
+      <PageNumber>885</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <Text>
-    <PageNumber>885</PageNumber>
     <SubItem>
+      <Text>Lt.-Cdr. for War services</Text>
       <PageNumber>885</PageNumber>
     </SubItem>
-  </Text>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>O</Key>
+      <Text>'Rourke, A. (temp. Ch.Skpr.)</Text>
       <PageNumber>117</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -462,8 +463,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Patterson</Key>
-      <Title>Eng. Sub.</Title>
-      <Text>-Lt. W. (to retain rank on retirement)</Text>
+      <Title>Eng. Sub.-Lt.</Title>
+      <Forenames>W.</Forenames>
+      <Text>(to retain rank on retirement)</Text>
       <PageNumber>3886</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1092,14 +1094,14 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>W. E.</Forenames>
+      <Text>, D.S.O. (actg. Capt.)</Text>
+      <PageNumber>116</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>116</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>SpurrelLW</Key>
+      <Text>. J. (Sub-Lt.) .. .. -</Text>
       <PageNumber>716</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1401,14 +1403,15 @@
     <MainItem>
       <Key>Tunbridge</Key>
       <Forenames>R. E. T.</Forenames>
+      <Text>(Lt.)</Text>
+      <PageNumber>716</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>716</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Turner</Key>
+      <Forenames>John</Forenames>
+      <Text>(Ch. Skpr.)</Text>
       <PageNumber>117</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1426,16 +1429,16 @@
     <MainItem>
       <Key>Tyre</Key>
       <Forenames>T. D.</Forenames>
+      <Text>(temp. Eng. Lt.)</Text>
+      <PageNumber>905</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>905</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>
         <KeyDitto>-</KeyDitto>
       </Key>
+      <Text>r.--___ A ___ ___ l.oi.c ___ T.t. .PHr \ ___ ___ ___ ___ ___ ___ 117</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1754,7 +1757,7 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>YoUand</Key>
+      <Key>Yolland</Key>
       <Forenames>J.</Forenames>
       <Text>, D.S.C. (Ch.Skpr.)</Text>
       <PageNumber>117</PageNumber>
@@ -1789,52 +1792,58 @@
     <MainItem>
       <Key>Allingham</Key>
       <Title>Lt.</Title>
-      <Forenames>Henry</Forenames>
-      <Text>C</Text>
+      <Forenames>Henry C</Forenames>
       <PageNumber>716</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Bretten</Key>
-      <Title>Lt.</Title>
-      <Text>-Cdr. Edgar T</Text>
+      <Forenames>Lt</Forenames>
+      <Text>.-Cdr. Edgar T</Text>
       <PageNumber>905</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Durkin</Key>
-      <Title>Lt.</Title>
+      <Forenames>Lt</Forenames>
+      <Text>.-Cdr. P</Text>
+      <PageNumber>2859</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>2859</PageNumber>
-    <ItemGroup>
-      <MainItem>
-        <Key>Frank</Key>
-        <PageNumber>2859</PageNumber>
-      </MainItem>
-    </ItemGroup>
-  </Text>
+  <ItemGroup>
+    <MainItem>
+      <Key>Frank</Key>
+      <Title>actg.</Title>
+      <Forenames>Lt</Forenames>
+      <Text>.-Cdr. F. A., D.S.O</Text>
+      <PageNumber>2859</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Garthwaite</Key>
+      <Title>actg.</Title>
+      <Forenames>Lt</Forenames>
+      <Text>.-Cdr. Fred</Text>
       <PageNumber>364</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Greig</Key>
-      <Title>Lt.</Title>
+      <Forenames>Lt</Forenames>
+      <Text>.-Cdr. A. C</Text>
+      <PageNumber>2859</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>2859</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Hawkins</Key>
+      <Title>actg.</Title>
+      <Forenames>Lt</Forenames>
+      <Text>.-Cdr. E. M. D.S.O</Text>
       <PageNumber>1799</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1849,16 +1858,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Hussey-Cooper</Key>
-      <Title>Lt.</Title>
-      <Text>-Cdr. E. M</Text>
+      <Forenames>Lt</Forenames>
+      <Text>.-Cdr. E. M</Text>
       <PageNumber>1799</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Kerr</Key>
-      <Title>Eng. Lt.</Title>
-      <Text>-Cdr. Andrew</Text>
+      <Title>Eng.</Title>
+      <Forenames>Lt</Forenames>
+      <Text>.-Cdr. Andrew</Text>
       <PageNumber>1532</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1866,46 +1876,48 @@
     <MainItem>
       <Key>Lane</Key>
       <Title>Cdr.</Title>
-      <Forenames>S.</Forenames>
+      <Forenames>S. R</Forenames>
+      <PageNumber>2859</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>2859</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Owen</Key>
+      <Title>actg. Capt.</Title>
+      <Forenames>W. H.</Forenames>
+      <Text>, D.S.O</Text>
       <PageNumber>1799</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Price</Key>
-      <Title>Lt.</Title>
+      <Forenames>Lt</Forenames>
+      <Text>.-Cdr. Charles V</Text>
+      <PageNumber>364</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>364</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Staunton</Key>
+      <Title>actg. Capt.</Title>
+      <Forenames>H. G</Forenames>
       <PageNumber>1799</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Stringer</Key>
-      <Title>Lt.</Title>
-      <Text>-Cdr. Reginald H</Text>
+      <Forenames>Lt</Forenames>
+      <Text>.-Cdr. Reginald H</Text>
       <PageNumber>905</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Williams</Key>
-      <Title>Lt.</Title>
-      <Text>-Cdr. William</Text>
+      <Forenames>Lt</Forenames>
+      <Text>.-Cdr. William</Text>
       <PageNumber>199</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1971,9 +1983,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bennett</Key>
-      <Title>temp.</Title>
-      <Forenames>Sub-Lt</Forenames>
-      <Text>. H. A. (rel. commn. on acc. of ill-health contracted in the Service, and retains rank)</Text>
+      <Text>, temp. Sub-Lt. H. A. (rel. commn. on acc. of ill-health contracted in the Service, and retains rank)</Text>
       <PageNumber>200</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1982,14 +1992,14 @@
       <Key>Berrie</Key>
       <Title>temp. Lt.</Title>
       <Forenames>C.</Forenames>
+      <Text>(corr. of date of seniority)</Text>
+      <PageNumber>1960</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>1960</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Berry</Key>
+      <Text>, O'N. F. (temp. Lt.)</Text>
       <PageNumber>517</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2011,7 +2021,7 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>BoUon</Key>
+      <Key>Bollon</Key>
       <Forenames>J. W. H.</Forenames>
       <Text>(temp. Lt.)</Text>
       <PageNumber>517</PageNumber>

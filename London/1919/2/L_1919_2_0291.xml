@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="0291" pageID="https://www.thegazette.co.uk/id/London/index/year/1919/volume/2/page/0291" pagePDF="https://www.thegazette.co.uk/London/index/year/1919/volume/2/page/0291" pageRDF="https://www.thegazette.co.uk/London/index/year/1919/volume/2/page/0291?view=linked-data" type="index" volume="2" year="1919">
+<Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="291" pageID="https://www.thegazette.co.uk/id/London/index/year/1919/volume/2/page/291" pagePDF="https://www.thegazette.co.uk/London/index/year/1919/volume/2/page/291" pageRDF="https://www.thegazette.co.uk/London/index/year/1919/volume/2/page/291?view=linked-data" type="index" volume="2" year="1919">
   <ItemGroup>
     <MainItem>
       <Key>Freer</Key>
@@ -22,8 +22,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Freestun</Key>
-      <Title>Maj. and Bt. Lt.</Title>
-      <Text>-Col. William Humphrey May, D.S.O., Companion, St. Michaeland St. George</Text>
+      <Title>Maj. and Bt.</Title>
+      <Forenames>Lt</Forenames>
+      <Text>.-Col. William Humphrey May, D.S.O., Companion, St. Michaeland St. George</Text>
       <PageNumber>6792</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -47,8 +48,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fremantle</Key>
-      <Title>Lt.</Title>
-      <Text>-Col. Francis Edward, Officer, Order of the British Empire French, Frank Henry, Companion, Imperial Service Order</Text>
+      <Forenames>Lt</Forenames>
+      <Text>.-Col. Francis Edward, Officer, Order of the British Empire French, Frank Henry, Companion, Imperial Service Order</Text>
       <PageNumber>7056</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -67,20 +68,19 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Title>Lt.</Title>
-      <Text>-Col. Herbert, M.D., F.R.C.P., Commander, Order of the British Empire</Text>
+      <Forenames>Lt</Forenames>
+      <Text>.-Col. Herbert, M.D., F.R.C.P., Commander, Order of the British Empire</Text>
       <PageNumber>6980</PageNumber>
     </MainItem>
   </ItemGroup>
+  <KeyDitto>——</KeyDitto>
   <ItemGroup>
     <MainItem>
       <Key>
-        <KeyDitto>——</KeyDitto>
-      </Key>
-      <Forenames>Lewis</Forenames>
-      <Text>
         <KeyDitto>___ ___</KeyDitto>
-      </Text>
+      </Key>
+      <Forenames>Order</Forenames>
+      <Text>of the British Empire</Text>
       <PageNumber>7051</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -88,7 +88,7 @@
     <MainItem>
       <Key>Frere</Key>
       <Forenames>Lt</Forenames>
-      <Text>! (T./Capt. and A./Maj.) Jasper Gray, M.C., Companion, D.S.O.</Text>
+      <Text>! (T./Capt. and A./Maj.) Jasper Gray, M.C., Companion, D.S.O</Text>
       <PageNumber>6818</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -113,16 +113,18 @@
   <ItemGroup>
     <MainItem>
       <Key>Freyburg</Key>
-      <Title>Capt. and Bt. Lt.</Title>
-      <Text>-Col. Bernard Cyril, V.C., D.S.O., Companion, St. Michael and St. George</Text>
+      <Title>Capt. and Bt.</Title>
+      <Forenames>Lt</Forenames>
+      <Text>.-Col. Bernard Cyril, V.C., D.S.O., Companion, St. Michael and St. George</Text>
       <PageNumber>6792</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Frith</Key>
-      <Title>Maj. and Bt. Lt.</Title>
-      <Text>-Col. Cyril Halsted, Commander, Order of the British Empire</Text>
+      <Title>Maj. and Bt.</Title>
+      <Forenames>Lt</Forenames>
+      <Text>.-Col. Cyril Halsted, Commander, Order of the British Empire</Text>
       <PageNumber>6980</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -169,8 +171,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Frost</Key>
-      <Title>Capt. and Bt. Maj.</Title>
-      <Text>(T./Brig.Gen.) Frank Dutton, M.C., Commander, Order of the British Empire</Text>
+      <Text>, Capt. and Bt. Maj. (T./Brig.Gen.) Frank Dutton, M.C., Commander, Order of the British Empire</Text>
       <PageNumber>6960</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -192,29 +193,34 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>Robert Henry</Forenames>
-    </MainItem>
-    <Text>
+      <Text>, Member, Order of the British Empire, transferred to Military r Division</Text>
       <PageNumber>4986</PageNumber>
-      <SubItem>
-        <PageNumber>4986</PageNumber>
-      </SubItem>
-      <SubItem>
-        <PageNumber>7029</PageNumber>
-      </SubItem>
-      <SubItem>
-        <PageNumber>7048</PageNumber>
-      </SubItem>
-    </Text>
+    </MainItem>
     <SubItem>
-      <PageNumber>7050</PageNumber>
+      <Text>___ ___ ___ ___ ___ Capt. Sidney George, Member, Order of the British Empire, transferred to Military . Division</Text>
+      <PageNumber>4986</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>Fry, Capt. Alfred Andrew, Member, Order of the British Empire</Text>
+      <PageNumber>7029</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>___ ___ ___ ___ ___ Maj. (A./Lt.-Col.) Arthur Brownfield, D.S.6., Companion, Order of the Indian Empire</Text>
+      <PageNumber>7048</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>
+        <PageNumber>7050</PageNumber>
+      </Text>
       <PageNumber>4986</PageNumber>
     </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Fry</Key>
-      <Title>Maj. and Bt. Lt.</Title>
-      <Text>-Col. (A./Lt.Col.) Peter George, D.S.O., Companion, St. Michael and St.George</Text>
+      <Title>Maj. and Bt.</Title>
+      <Forenames>Lt</Forenames>
+      <Text>.-Col. (A./Lt.Col.) Peter George, D.S.O., Companion, St. Michael and St.George</Text>
       <PageNumber>6948</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -252,8 +258,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fryer</Key>
-      <Title>Maj.</Title>
-      <Text>(T./Lt.-Col.) Cecil Robert, Officer, Order of the British Empire</Text>
+      <Text>, Maj. (T./Lt.-Col.) Cecil Robert, Officer, Order of the British Empire</Text>
       <PageNumber>6987</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -292,7 +297,7 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>George Arthur</Forenames>
-      <Text>, Officer, Order of the British Empire, transferred to MilitaTy Division</Text>
+      <Text>, Officer, Order of the British Empire, transferred to Military Division</Text>
       <PageNumber>4979</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -337,8 +342,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Title>Maj. and Bt. Col.</Title>
-      <Text>(T./Brig.Gen.) Cuthbert Graham, D.S.O., Companion, St. Michael and St. George</Text>
+      <Text>Maj. and Bt. Col. (T./Brig.Gen.) Cuthbert Graham, D.S.O., Companion, St. Michael and St. George</Text>
       <PageNumber>6791</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -359,16 +363,18 @@
         <KeyDitto>___ ___ —-— ___ ___</KeyDitto>
       </Key>
       <Forenames>Francis Charles Bernard Dud-</Forenames>
+      <Text>ley, C.M.G., Knight Commander, Order of the British Empire</Text>
+      <PageNumber>8092</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>8092</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
+      <Title>the Hon.</Title>
+      <Forenames>George Warburton</Forenames>
+      <Text>, Knight Commander, St. Michael and St. George</Text>
       <PageNumber>7047</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -398,14 +404,14 @@
     <MainItem>
       <Key>Fuller-Aeland-</Key>
       <Forenames>Hood</Forenames>
+      <Text>, Lt.-Col. Arthur, Officer, Order of the, British Empire</Text>
+      <PageNumber>6987</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>6987</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Fulton</Key>
+      <Text>, 2nd Lt. Angus Robertson, Member, Order of the British Empire</Text>
       <PageNumber>7029</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -414,8 +420,8 @@
       <Key>
         <KeyDitto>___ ___ —___ ___</KeyDitto>
       </Key>
-      <Title>Lt.</Title>
-      <Text>-Col. David, C.B.E., Companion, St. Michael and St. George</Text>
+      <Forenames>Lt</Forenames>
+      <Text>.-Col. David, C.B.E., Companion, St. Michael and St. George</Text>
       <PageNumber>6922</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -424,8 +430,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Title>Capt.</Title>
-      <Text>(T./Maj.) John Sidney, M.C., Officer, Order of the British Empire</Text>
+      <Text>Capt. (T./Maj.) John Sidney, M.C., Officer, Order of the British Empire</Text>
       <PageNumber>6799</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -459,8 +464,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Furlong</Key>
-      <Title>Lt.</Title>
-      <Text>(T./Capt.) Dennis Walter, M.C., Officer. Order of the British Empire</Text>
+      <Forenames>Lt</Forenames>
+      <Text>. (T./Capt.) Dennis Walter, M.C., Officer. Order of the British Empire</Text>
       <PageNumber>6799</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -469,8 +474,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Title>Capt.</Title>
-      <Text>(A./Maj.) Sydney Joseph, Veiner, M.B., Officer, Order of the British Empire</Text>
+      <Text>Capt. (A./Maj.) Sydney Joseph, Veiner, M.B., Officer, Order of the British Empire</Text>
       <PageNumber>6967</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -496,8 +500,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Title>Lt.</Title>
-      <Text>(A./Capt.) Robert George, Member, Order of the British Empire</Text>
+      <Forenames>Lt</Forenames>
+      <Text>. (A./Capt.) Robert George, Member, Order of the British Empire</Text>
       <PageNumber>7029</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -537,16 +541,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Gadsby</Key>
-      <Title>Capt.</Title>
-      <Text>(A./Lt.-Col.) Philip, Officer, Order of the British Empire</Text>
+      <Text>, Capt. (A./Lt.-Col.) Philip, Officer, Order of the British Empire</Text>
       <PageNumber>7027</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Gagnon</Key>
-      <Title>Lt.</Title>
-      <Text>-Col. Joseph Thomas Emile, Officer, Order of the British Empire, transferred to Military Division</Text>
+      <Forenames>Lt</Forenames>
+      <Text>.-Col. Joseph Thomas Emile, Officer, Order of the British Empire, transferred to Military Division</Text>
       <PageNumber>4979</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -572,11 +575,11 @@
     <MainItem>
       <Key>Galbraith</Key>
       <Forenames>James Francis Wallace</Forenames>
-    </MainItem>
-    <Text>
+      <Text>, King's Counsel</Text>
       <PageNumber>4413</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Sub. Not</Text>
       <PageNumber>4568</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -606,7 +609,7 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>Henry Davis</Forenames>
-      <Text>, M.C., Companion, D.S.O.</Text>
+      <Text>, M.C., Companion, D.S.O</Text>
       <PageNumber>6818</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -661,8 +664,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Title>Capt.</Title>
-      <Text>(A./Lt.-Col.) Rudolph William, M.B., Companion, D.S.O .:</Text>
+      <Text>Capt. (A./Lt.-Col.) Rudolph William, M.B., Companion, D.S.O .:</Text>
       <PageNumber>6818</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -695,8 +697,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gamble</Key>
-      <Title>Maj.</Title>
-      <Text>(A./Lt.-Col.) Henry, Officer, Order of the British Empire</Text>
+      <Text>, Maj. (A./Lt.-Col.) Henry, Officer, Order of the British Empire</Text>
       <PageNumber>6799</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -705,7 +706,7 @@
       <Key>Game</Key>
       <Title>Capt.</Title>
       <Forenames>Henry</Forenames>
-      <Text>, Officer, Order of the British Empire, transferred to Military Division .'.</Text>
+      <Text>, Officer, Order of the British Empire, transferred to Military Division</Text>
       <PageNumber>4979</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -723,15 +724,15 @@
       <Key>Gammie</Key>
       <Title>Miss</Title>
       <Forenames>Margarot Hunter</Forenames>
-      <Text>, Royal Red Cross, 2nd CI.</Text>
+      <Text>, Royal Red Cross, 2nd CI</Text>
       <PageNumber>6953</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Gammon</Key>
-      <Title>Chf.</Title>
-      <Forenames>Master-at-Arms John Thomas</Forenames>
+      <Title>Chf. Master</Title>
+      <Forenames>Arms John Thomas</Forenames>
       <Text>, Member, Order of the British Empire.. ,</Text>
       <PageNumber>8202</PageNumber>
     </MainItem>
@@ -739,8 +740,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gandy</Key>
-      <Title>Lt.</Title>
-      <Text>-Comdr. Eric Worsley, Officer, Order of the British Empire, transferred to Military Division</Text>
+      <Forenames>Lt</Forenames>
+      <Text>.-Comdr. Eric Worsley, Officer, Order of the British Empire, transferred to Military Division</Text>
       <PageNumber>4972</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -784,8 +785,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Gardiner</Key>
-      <Title>Maj. and Bt. Lt.</Title>
-      <Text>-Col. (T./Lt.-Col.) Bernard Calwoodley, Companion, Order of the Bath</Text>
+      <Title>Maj. and Bt.</Title>
+      <Forenames>Lt</Forenames>
+      <Text>.-Col. (T./Lt.-Col.) Bernard Calwoodley, Companion, Order of the Bath</Text>
       <PageNumber>4515</PageNumber>
     </MainItem>
   </ItemGroup>

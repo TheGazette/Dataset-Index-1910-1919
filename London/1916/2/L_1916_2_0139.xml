@@ -1,32 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="0139" pageID="https://www.thegazette.co.uk/id/London/index/year/1916/volume/2/page/0139" pagePDF="https://www.thegazette.co.uk/London/index/year/1916/volume/2/page/0139" pageRDF="https://www.thegazette.co.uk/London/index/year/1916/volume/2/page/0139?view=linked-data" type="index" volume="2" year="1916">
+<Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="139" pageID="https://www.thegazette.co.uk/id/London/index/year/1916/volume/2/page/139" pagePDF="https://www.thegazette.co.uk/London/index/year/1916/volume/2/page/139" pageRDF="https://www.thegazette.co.uk/London/index/year/1916/volume/2/page/139?view=linked-data" type="index" volume="2" year="1916">
+  <KeyDitto>— . -—</KeyDitto>
   <ItemGroup>
     <MainItem>
-      <Key>Horn</Key>
+      <Key>
+        <KeyDitto>——</KeyDitto>
+      </Key>
+      <Text>^— (temp.) Lt. A. F., M.B. (relinquishes his commission) ..._</Text>
+      <PageNumber>4821</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <KeyDitto>— . -—</KeyDitto>
-    <KeyDitto>——</KeyDitto>
-    <PageNumber>4821</PageNumber>
-    <ItemGroup>
-      <MainItem>
-        <Key>M</Key>
-        <PageNumber>6055</PageNumber>
-      </MainItem>
-    </ItemGroup>
-    <ItemGroup>
-      <MainItem>
-        <Key>Hornblower</Key>
-        <PageNumber>5636</PageNumber>
-      </MainItem>
-    </ItemGroup>
-    <MainItem>Hornby, (temp.) Lt. H. L. (transferred to General List for service with Trench Mortar Batteries) . ... 5300</MainItem>
-  </Text>
   <ItemGroup>
-    <Key>Hornby</Key>
-    <PageNumber>5300</PageNumber>
+    <MainItem>
+      <Key>Hornblower</Key>
+      <Text>2nd Lt. P. B. (seconded for service with Trench Mortar Batteries)</Text>
+      <PageNumber>5636</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Hornby</Key>
+      <Text>(temp.) Lt. H. L. (transferred to General List for service with Trench Mortar Batteries)</Text>
+      <PageNumber>5300</PageNumber>
+    </MainItem>
     <SubItem>
+      <Text>Maj. (temp. Brigadier-Gen ) M. L., D.S.O. (Brevet Lt.Col. for distinguished service in the Field)</Text>
       <PageNumber>5564</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -34,11 +32,11 @@
     <MainItem>
       <Key>Horncastle</Key>
       <Forenames>L. H.</Forenames>
-    </MainItem>
-    <Text>
+      <Text>(temp. 2nd Lt. on probation)</Text>
       <PageNumber>5045</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Confirmed</Text>
       <PageNumber>6322</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -46,19 +44,23 @@
     <MainItem>
       <Key>Home</Key>
       <Forenames>C. D.</Forenames>
-    </MainItem>
-    <Text>
+      <Text>(temp. Capt.)</Text>
       <PageNumber>4458</PageNumber>
-      <SubItem>
-        <PageNumber>6327</PageNumber>
-        <PageNumber>5807</PageNumber>
-      </SubItem>
-      <SubItem>
-        <PageNumber>3564</PageNumber>
-      </SubItem>
-    </Text>
+    </MainItem>
     <SubItem>
-      <PageNumber>6418</PageNumber>
+      <Text>
+        <PageNumber>6327</PageNumber>
+      </Text>
+      <PageNumber>5807</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>J. (temp. 2nd Lt.)</Text>
+      <PageNumber>3564</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>
+        <PageNumber>6418</PageNumber>
+      </Text>
       <PageNumber>4030</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -66,14 +68,15 @@
     <MainItem>
       <Key>Horner</Key>
       <Forenames>E. W.</Forenames>
-    </MainItem>
-    <Text>
+      <Text>.(temp. 2nd Lt.)</Text>
       <PageNumber>6192</PageNumber>
-      <SubItem>
-        <PageNumber>5299</PageNumber>
-      </SubItem>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>(temp.) Capt. F. M. (transferred to General List for service with Trench Mortar Batteries)</Text>
+      <PageNumber>5299</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>W. A. (2nd Lt.)</Text>
       <PageNumber>6072</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -81,17 +84,18 @@
     <MainItem>
       <Key>Hornidge</Key>
       <Forenames>D. G. P.</Forenames>
+      <Text>(temp. 2nd Lt. on probation)</Text>
+      <PageNumber>4554</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <Text>
-    <PageNumber>4554</PageNumber>
     <SubItem>
+      <Text>Confirmed</Text>
       <PageNumber>5986</PageNumber>
     </SubItem>
-  </Text>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Horniman</Key>
+      <Text>(temp.) 2nd Lt. L. I. (transferred from Reserve Battalion)</Text>
       <PageNumber>5712</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -107,16 +111,18 @@
     <MainItem>
       <Key>Hornung</Key>
       <Forenames>G.</Forenames>
+      <Text>(temp. Lt.)</Text>
+      <PageNumber>3557</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>3557</PageNumber>
-    <MainItem>Horridge, 2nd Lt. J. L., supplementary (confirmed) 5808</MainItem>
-  </Text>
   <ItemGroup>
-    <Key>Horridge</Key>
-    <PageNumber>5808</PageNumber>
+    <MainItem>
+      <Key>Horridge</Key>
+      <Text>2nd Lt. J. L., supplementary (confirmed)</Text>
+      <PageNumber>5808</PageNumber>
+    </MainItem>
     <SubItem>
+      <Text>Flying Officer</Text>
       <PageNumber>5816</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -132,28 +138,33 @@
     <MainItem>
       <Key>Horsfall</Key>
       <Forenames>T. M. M.</Forenames>
+      <Text>, M.B. (temp. Capt.)</Text>
+      <PageNumber>5738</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>5738</PageNumber>
-    <ItemGroup>
-      <MainItem>
-        <Key>Horsfield</Key>
-        <PageNumber>5720</PageNumber>
-      </MainItem>
-      <SubItem>
-        <PageNumber>4196</PageNumber>
-      </SubItem>
-    </ItemGroup>
-    <MainItem>Horsford, (temp.) 2nd Lt. A. (transferred to General List for service with Trench Mortar Batteries) 5300</MainItem>
-  </Text>
   <ItemGroup>
-    <Key>Horsford</Key>
-    <PageNumber>5300</PageNumber>
+    <MainItem>
+      <Key>Horsfield</Key>
+      <Text>(temp.) 2nd Lt. H. T. (Flying Officer, and to ibe transferred to General List)</Text>
+      <PageNumber>5720</PageNumber>
+    </MainItem>
     <SubItem>
+      <Text>R. (temp. Lt.)</Text>
+      <PageNumber>4196</PageNumber>
+    </SubItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Horsford</Key>
+      <Text>(temp.) 2nd Lt. A. (transferred to General List for service with Trench Mortar Batteries)</Text>
+      <PageNumber>5300</PageNumber>
+    </MainItem>
+    <SubItem>
+      <Text>Transferred from Reserve Battalion</Text>
       <PageNumber>5712</PageNumber>
     </SubItem>
     <SubItem>
+      <Text>Supernumerary Capt. H. T (restored to the establish ment)</Text>
       <PageNumber>5807</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -161,33 +172,33 @@
     <MainItem>
       <Key>Horsley</Key>
       <Forenames>C. H.</Forenames>
+      <Text>(2nd Lt. for service in the Field)</Text>
+      <PageNumber>4938</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <Text>
-    <PageNumber>4938</PageNumber>
     <SubItem>
+      <Text>O. (temp. Lt.)</Text>
       <PageNumber>6477</PageNumber>
     </SubItem>
     <SubItem>
+      <Text>(temp.) Capt. W. P. (transferred to General List for service with Trench Mortar Batteries)</Text>
       <PageNumber>5299</PageNumber>
     </SubItem>
-    <ItemGroup>
-      <MainItem>
-        <Key>Horsman</Key>
-        <PageNumber>4349</PageNumber>
-      </MainItem>
-      <SubItem>
-        <PageNumber>4555</PageNumber>
-      </SubItem>
-    </ItemGroup>
-    <MainItem>Horton, D'A. R. G. (temp. 2hd Lt. on probation) 3806</MainItem>
-  </Text>
+  </ItemGroup>
   <ItemGroup>
-    <Key>Horton</Key>
-    <PageNumber>3806</PageNumber>
+    <MainItem>
+      <Key>Horsman</Key>
+      <Text>2nd Lt. T. H. J. (resigned) ... ... ... .-</Text>
+      <PageNumber>4349</PageNumber>
+    </MainItem>
     <SubItem>
-      <PageNumber>3897</PageNumber>
-      <PageNumber>4265</PageNumber>
+      <Text>F. A., M.D. (temp. Capt.)</Text>
+      <PageNumber>4555</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>
+        <PageNumber>3897</PageNumber>
+        <PageNumber>4265</PageNumber>
+      </Text>
       <PageNumber>5325</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -210,15 +221,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Horwoodi</Key>
-      <Title>Capt.</Title>
+      <Text>Capt. (temp. Col.) W. T. F. (Brevet Maj. for distinguished service in the Field)</Text>
+      <PageNumber>5566</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>5566</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Hosegood</Key>
+      <Text>2hd Lt. G. (confirmed)</Text>
       <PageNumber>5185</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -242,22 +252,26 @@
     <MainItem>
       <Key>Hosking</Key>
       <Forenames>H. J. R.</Forenames>
+      <Text>(2nd Lt.)</Text>
+      <PageNumber>5185</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>5185</PageNumber>
-    <MainItem>Hoskins, 2nd Lt. A. O. (confirmed) 6228</MainItem>
-  </Text>
   <ItemGroup>
-    <Key>Hoskins</Key>
-    <PageNumber>6228</PageNumber>
+    <MainItem>
+      <Key>Hoskins</Key>
+      <Text>2nd Lt. A. O. (confirmed)</Text>
+      <PageNumber>6228</PageNumber>
+    </MainItem>
     <SubItem>
+      <Text>Brevet Col. (temp. BrigadierGen.) A. R., D.S.O. (Lt.Col.)</Text>
       <PageNumber>4442</PageNumber>
     </SubItem>
     <SubItem>
+      <Text>B. C. (teqnp. 2nd Lt.)</Text>
       <PageNumber>4825</PageNumber>
     </SubItem>
     <SubItem>
+      <Text>Confirmed</Text>
       <PageNumber>5811</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -265,20 +279,21 @@
     <MainItem>
       <Key>Hoskyns-Abrahall</Key>
       <Forenames>C. H.</Forenames>
+      <Text>(2nd Lt.)</Text>
+      <PageNumber>5184</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>5184</PageNumber>
-    <ItemGroup>
-      <MainItem>
-        <Key>Hossack</Key>
-        <PageNumber>3807</PageNumber>
-      </MainItem>
-    </ItemGroup>
-  </Text>
+  <ItemGroup>
+    <MainItem>
+      <Key>Hossack</Key>
+      <Text>2nd Lt. J. D. (relinquishes the rank of temp. Lt.)</Text>
+      <PageNumber>3807</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hoste</Key>
+      <Text>2nd Lt. R. D. (confirmed)</Text>
       <PageNumber>6196</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -286,20 +301,21 @@
     <MainItem>
       <Key>Hotblack</Key>
       <Forenames>F. E.</Forenames>
+      <Text>(temp. Capt. whilst on special duty)</Text>
+      <PageNumber>3792</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>3792</PageNumber>
-    <ItemGroup>
-      <MainItem>
-        <Key>Hotchkiss</Key>
-        <PageNumber>4125</PageNumber>
-      </MainItem>
-    </ItemGroup>
-  </Text>
+  <ItemGroup>
+    <MainItem>
+      <Key>Hotchkiss</Key>
+      <Text>(temp.) 2nd Lt. J. H. W (transferred from Reserve to Service Battalion)</Text>
+      <PageNumber>4125</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hotine</Key>
+      <Text>(temp.) 2nd Lt. J. (transferred)</Text>
       <PageNumber>6971</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -307,37 +323,43 @@
     <MainItem>
       <Key>Houdret</Key>
       <Forenames>M.</Forenames>
+      <Text>(2nd Lt.)</Text>
+      <PageNumber>5442</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>5442</PageNumber>
-    <ItemGroup>
-      <MainItem>
-        <Key>Hougham</Key>
-        <PageNumber>6228</PageNumber>
-      </MainItem>
-    </ItemGroup>
-    <ItemGroup>
-      <MainItem>
-        <Key>Houghton</Key>
-        <PageNumber>6226</PageNumber>
-      </MainItem>
-      <SubItem>
-        <PageNumber>3766</PageNumber>
-      </SubItem>
-    </ItemGroup>
-    <ItemGroup>
-      <MainItem>
-        <Key>Houlder</Key>
-        <PageNumber>5986</PageNumber>
-      </MainItem>
-    </ItemGroup>
-    <MainItem>Houldsworth, (temp.) Capt. H. W. (Lt.) 5707</MainItem>
-  </Text>
   <ItemGroup>
-    <Key>Houldsworth</Key>
-    <PageNumber>5707</PageNumber>
+    <MainItem>
+      <Key>Hougham</Key>
+      <Text>2nd Lt. B. W. (confirmed)</Text>
+      <PageNumber>6228</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Houghton</Key>
+      <Text>(temp.) Lt. F. J. (2nd Lt., and to retain his higher rank and seniority in his present unit until ordered to join a Regular unit)</Text>
+      <PageNumber>6226</PageNumber>
+    </MainItem>
     <SubItem>
+      <Text>W. (temp. Lt.)</Text>
+      <PageNumber>3766</PageNumber>
+    </SubItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Houlder</Key>
+      <Text>(temp.) 2hd Lt. Wilson A. L. (confirmed)</Text>
+      <PageNumber>5986</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Houldsworth</Key>
+      <Text>(temp.) Capt. H. W. (Lt.)</Text>
+      <PageNumber>5707</PageNumber>
+    </MainItem>
+    <SubItem>
+      <Text>Relinquishes the rank of temp. Capt</Text>
       <PageNumber>5985</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -345,16 +367,18 @@
     <MainItem>
       <Key>Houlston</Key>
       <Forenames>E. B.</Forenames>
+      <Text>(temp. Lt.)</Text>
+      <PageNumber>5298</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>5298</PageNumber>
-    <MainItem>Hoult 2nd Lt. A. J. (temp. Lt whilst with Trench Mortar B,H tery) 6220</MainItem>
-  </Text>
   <ItemGroup>
-    <Key>Hoult</Key>
-    <PageNumber>6220</PageNumber>
+    <MainItem>
+      <Key>Hoult</Key>
+      <Text>2nd Lt. A. J. (temp. Lt whilst with Trench Mortar B,H tery)</Text>
+      <PageNumber>6220</PageNumber>
+    </MainItem>
     <SubItem>
+      <Text>Lt. (temp. Capt.) J. M. (relinquishes his temp, rank on ceasing to command a Battalion)</Text>
       <PageNumber>4647</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -362,11 +386,11 @@
     <MainItem>
       <Key>Houlton</Key>
       <Forenames>J. W.</Forenames>
-    </MainItem>
-    <Text>
+      <Text>(Capt.)</Text>
       <PageNumber>6224</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>S. (temp. 2nd Lt.)</Text>
       <PageNumber>4240</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -390,25 +414,29 @@
     <MainItem>
       <Key>Houston</Key>
       <Forenames>F. N.</Forenames>
+      <Text>(Capt.)</Text>
+      <PageNumber>3558</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <Text>
-    <PageNumber>3558</PageNumber>
     <SubItem>
+      <Text>(temp.) 2nd Lt. G. D. (trans ferred from Reserve Bat talion)</Text>
       <PageNumber>5713</PageNumber>
     </SubItem>
-    <ItemGroup>
-      <MainItem>
-        <Key>Hovenden</Key>
-        <PageNumber>5724</PageNumber>
-      </MainItem>
-    </ItemGroup>
-    <MainItem>How, 2nd Lt. (temp. Lt.) E. R, (temp. 2nd Lt.) 3918</MainItem>
-  </Text>
+  </ItemGroup>
   <ItemGroup>
-    <Key>How</Key>
-    <PageNumber>3918</PageNumber>
+    <MainItem>
+      <Key>Hovenden</Key>
+      <Text>2nd Lt. A. L., supple mentary (confirmed)</Text>
+      <PageNumber>5724</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>How</Key>
+      <Text>2nd Lt. (temp. Lt.) E. R, (temp. 2nd Lt.)</Text>
+      <PageNumber>3918</PageNumber>
+    </MainItem>
     <SubItem>
+      <Text>2nd Lt. R. W. (confirmed)</Text>
       <PageNumber>5989</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -426,14 +454,15 @@
     <MainItem>
       <Key>Howard</Key>
       <Forenames>A. D.</Forenames>
-    </MainItem>
-    <Text>
+      <Text>, M.D. (temp. Capt.)</Text>
       <PageNumber>4250</PageNumber>
-      <SubItem>
-        <PageNumber>4668</PageNumber>
-      </SubItem>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>A. J. (Lt.)</Text>
+      <PageNumber>4668</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>G. B; C. (temp. Lt.)</Text>
       <PageNumber>4853</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -453,17 +482,19 @@
         <KeyDitto>—</KeyDitto>
       </Key>
       <Forenames>H. L.</Forenames>
-    </MainItem>
-    <Text>
+      <Text>(temp. Lt.)</Text>
       <PageNumber>3765</PageNumber>
-      <SubItem>
-        <PageNumber>4648</PageNumber>
-      </SubItem>
-      <SubItem>
-        <PageNumber>5724</PageNumber>
-      </SubItem>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Maj(Ordnance Officer, 3rd Class) H. M. (tamp. Ordinance Officer, 2nd Class, and temp. Lt.-Col! whilst holding a special appointment)</Text>
+      <PageNumber>4648</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>J. G. (temp. 2nd Lt.)</Text>
+      <PageNumber>5724</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>R. (temp. Maj.)</Text>
       <PageNumber>6225</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -473,27 +504,26 @@
         <KeyDitto>——</KeyDitto>
       </Key>
       <Forenames>S.</Forenames>
+      <Text>-G. (2nd Lt. on probation), supplementary '.; '....-</Text>
+      <PageNumber>4443</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>4443</PageNumber>
-    <MainItem>Howard,, (temp.) 2nd Lt. T. (transferred) ,... 5971</MainItem>
-  </Text>
   <ItemGroup>
-    <Key>Howard</Key>
-    <PageNumber>5971</PageNumber>
+    <MainItem>
+      <Key>Howard</Key>
+      <Text>, (temp.) 2nd Lt. T. (transferred) ,</Text>
+      <PageNumber>5971</PageNumber>
+    </MainItem>
     <SubItem>
+      <Text>: Maj. and Brevet Lt.-Col. T. M. S. M. (correction of date) 4006.. T. 8. (temp. Lt.)</Text>
       <PageNumber>3764</PageNumber>
     </SubItem>
   </ItemGroup>
-  <SectionTitle>
-    <KeyDitto>-—</KeyDitto>
-  </SectionTitle>
+  <KeyDitto>-—</KeyDitto>
   <ItemGroup>
     <MainItem>
       <Key>Howard-Vyse</Key>
-      <Title>Capt.</Title>
-      <Text>(temp. Lt.-Col. R. G. H., D.S.O. .(Brevet Maj. for distinguished service in the Fields</Text>
+      <Text>Capt. (temp. Lt.-Col. R. G. H., D.S.O. .(Brevet Maj. for distinguished service in the Fields</Text>
       <PageNumber>6316</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -501,17 +531,18 @@
     <MainItem>
       <Key>Howatsoh</Key>
       <Forenames>G.</Forenames>
+      <Text>(temp. 2nd Lt. on probation)</Text>
+      <PageNumber>4250</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <Text>
-    <PageNumber>4250</PageNumber>
     <SubItem>
+      <Text>, Antedated</Text>
       <PageNumber>5040</PageNumber>
     </SubItem>
-  </Text>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Howden</Key>
+      <Text>(temp.) 2nd Lt. J. P. W. (confirmed)</Text>
       <PageNumber>4976</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -520,29 +551,35 @@
       <Key>Howe</Key>
       <Title>Lt.</Title>
       <Forenames>A.</Forenames>
-    </MainItem>
-    <Text>
+      <Text>(temp. Capt.)</Text>
       <PageNumber>3770</PageNumber>
-      <SubItem>
-        <PageNumber>5328</PageNumber>
-      </SubItem>
-      <SubItem>
-        <PageNumber>5737</PageNumber>
-      </SubItem>
-      <SubItem>
-        <PageNumber>4250</PageNumber>
-      </SubItem>
-      <SubItem>
-        <PageNumber>598</PageNumber>
-      </SubItem>
-      <SubItem>
-        <PageNumber>3683</PageNumber>
-      </SubItem>
-      <SubItem>
-        <PageNumber>5184</PageNumber>
-      </SubItem>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>E. (temp. 2nd Lt.)</Text>
+      <PageNumber>5328</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>. H. S. (temp. 2nd Lt. on probation)</Text>
+      <PageNumber>5737</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>. J. P. (temp. Capt.)</Text>
+      <PageNumber>4250</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>, (temp.) 2nd Lt. T. S. (Flying Officer (Observer), and to be transferred to the General List)</Text>
+      <PageNumber>598</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>, H. R. (2nd Lt.*)</Text>
+      <PageNumber>3683</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>&amp; J. L. (2nd Lt.)</Text>
+      <PageNumber>5184</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>R. E. (temp. Capt. whilst commanding a Company)</Text>
       <PageNumber>4946</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -551,11 +588,11 @@
       <Key>Howell-Jones</Key>
       <Title>Capt.</Title>
       <Forenames>J. H.</Forenames>
-    </MainItem>
-    <Text>
+      <Text>, D:S.O. (temp. Ordnance Officer, 2nd Class, and temp. Lt.-Col. whilst holding the appointment of Asst. Director of Ordnance Services of an Army Corps)</Text>
       <PageNumber>4649</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>? Brevet Maj. for distinguished service in the Field</Text>
       <PageNumber>6316</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -573,11 +610,11 @@
         <KeyDitto>——</KeyDitto>
       </Key>
       <Forenames>E.</Forenames>
-    </MainItem>
-    <Text>
+      <Text>(temp. Lt.)</Text>
       <PageNumber>4651</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>W. H. (temp. 2nd Lt.)</Text>
       <PageNumber>4815</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -593,20 +630,21 @@
     <MainItem>
       <Key>Howieson</Key>
       <Forenames>J.</Forenames>
+      <Text>(2nd Lt. for service in the Field)</Text>
+      <PageNumber>4120</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>4120</PageNumber>
-    <ItemGroup>
-      <MainItem>
-        <Key>Ho</Key>
-        <PageNumber>5715</PageNumber>
-      </MainItem>
-    </ItemGroup>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Ho</Key>
+      <Text>will, 2nd Lt. J. E. (confirmed)</Text>
+      <PageNumber>5715</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Ho</Key>
+      <Text>wis, J. C. P. (temp. Lt.)</Text>
       <PageNumber>4435</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -614,14 +652,15 @@
     <MainItem>
       <Key>Howitt</Key>
       <Forenames>F. D.</Forenames>
-    </MainItem>
-    <Text>
+      <Text>(temp. Lt.)</Text>
       <PageNumber>5817</PageNumber>
-      <SubItem>
-        <PageNumber>6324</PageNumber>
-      </SubItem>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>J. R., M.B. (temp. Capt.)</Text>
+      <PageNumber>6324</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>Correction of date</Text>
       <PageNumber>5324</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -637,14 +676,14 @@
     <MainItem>
       <Key>Howorth</Key>
       <Forenames>J. S.</Forenames>
+      <Text>(temp. Lt.)</Text>
+      <PageNumber>5303</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>5303</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Howse</Key>
+      <Text>2nd Lt. B. T., supplementary (confirmed)</Text>
       <PageNumber>4949</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -676,8 +715,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hoyte</Key>
-      <Forenames>W.</Forenames>
-      <Text>N (temp. Lt.)</Text>
+      <Forenames>W. N</Forenames>
+      <Text>(temp. Lt.)</Text>
       <PageNumber>5709</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -685,11 +724,11 @@
     <MainItem>
       <Key>Huband</Key>
       <Forenames>T. A.</Forenames>
-    </MainItem>
-    <Text>
+      <Text>, F.R.C.V.S. (temp. Lt.) f</Text>
       <PageNumber>6308</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>T. C. (temp. Hon. Lt.j .:</Text>
       <PageNumber>4456</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -697,21 +736,24 @@
     <MainItem>
       <Key>Hubbard</Key>
       <Forenames>B. J.</Forenames>
+      <Text>(2nd Lt.)</Text>
+      <PageNumber>5443</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>5443</PageNumber>
-    <MainItem>——2nd Lt. (on probation) C, supplementary (resigned) ... 5831</MainItem>
-  </Text>
   <ItemGroup>
-    <Key>
-      <KeyDitto>——</KeyDitto>
-    </Key>
-    <PageNumber>5831</PageNumber>
+    <MainItem>
+      <Key>
+        <KeyDitto>——</KeyDitto>
+      </Key>
+      <Text>2nd Lt. (on probation) C, supplementary (resigned)</Text>
+      <PageNumber>5831</PageNumber>
+    </MainItem>
     <SubItem>
+      <Text>2nd Lt. G. J. S. (confirmed)</Text>
       <PageNumber>5307</PageNumber>
     </SubItem>
     <SubItem>
+      <Text>2nd Lt. W. D. (temp. Lt. whilst with a Territorial Force unit)</Text>
       <PageNumber>3998</PageNumber>
     </SubItem>
   </ItemGroup>

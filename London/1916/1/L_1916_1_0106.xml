@@ -1,19 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="0106" pageID="https://www.thegazette.co.uk/id/London/index/year/1916/volume/1/page/0106" pagePDF="https://www.thegazette.co.uk/London/index/year/1916/volume/1/page/0106" pageRDF="https://www.thegazette.co.uk/London/index/year/1916/volume/1/page/0106?view=linked-data" type="index" volume="1" year="1916">
+<Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="106" pageID="https://www.thegazette.co.uk/id/London/index/year/1916/volume/1/page/106" pagePDF="https://www.thegazette.co.uk/London/index/year/1916/volume/1/page/106" pageRDF="https://www.thegazette.co.uk/London/index/year/1916/volume/1/page/106?view=linked-data" type="index" volume="1" year="1916">
   <ItemGroup>
     <MainItem>
       <Key>Edwards</Key>
       <Forenames>W.W.</Forenames>
+      <Text>(temp., 2nd Lt.)</Text>
+      <PageNumber>1580</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>1580</PageNumber>
-    <MainItem>Eedle,-E..J. ,(temp.'iC4P*..)' ' ... 3415</MainItem>
-  </Text>
   <ItemGroup>
-    <Key>Eedle</Key>
-    <PageNumber>3415</PageNumber>
+    <MainItem>
+      <Key>Eedle</Key>
+      <Text>,-E..J. ,(temp.iC4P*..)' '</Text>
+      <PageNumber>3415</PageNumber>
+    </MainItem>
     <SubItem>
+      <Text>Antedated ' -,// -L. ...::</Text>
       <PageNumber>3294</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -23,11 +25,11 @@
         <KeyDitto>-</KeyDitto>
       </Key>
       <Forenames>Egan</Forenames>
-    </MainItem>
-    <Text>
+      <Text>, Rev. J. (correction of date)</Text>
       <PageNumber>3027</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Wing Adjt., and to retain temp, rank</Text>
       <PageNumber>1084</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -47,16 +49,18 @@
         <KeyDitto>-</KeyDitto>
       </Key>
       <Forenames>Eggington</Forenames>
+      <Text>, A. T. (temp. 2nd Lt.)</Text>
+      <PageNumber>3412</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>3412</PageNumber>
-    <MainItem>Egginton, (temp.) Lt. A. H. (correction) ... 1371</MainItem>
-  </Text>
   <ItemGroup>
-    <Key>Egginton</Key>
-    <PageNumber>1371</PageNumber>
+    <MainItem>
+      <Key>Egginton</Key>
+      <Text>, (temp.) Lt. A. H. (correction)</Text>
+      <PageNumber>1371</PageNumber>
+    </MainItem>
     <SubItem>
+      <Text>Temp. Lt</Text>
       <PageNumber>3390</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -66,23 +70,31 @@
         <KeyDitto>-</KeyDitto>
       </Key>
       <Forenames>Eighteen</Forenames>
-    </MainItem>
-    <Text>
+      <Text>, 2nd Lt. A. S. (confirmed)</Text>
       <PageNumber>2944</PageNumber>
-    </Text>
-    <SubItem>
-      <PageNumber>1589</PageNumber>
-    </SubItem>
+    </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>SElias</Key>
-      <Forenames>T.</Forenames>
+      <Key>Elderton</Key>
+      <Forenames>Mi B.</Forenames>
+      <Text>(2nd Lt. on proba' tion)</Text>
+      <PageNumber>279</PageNumber>
     </MainItem>
-    <Text>
-      <PageNumber>1004</PageNumber>
-    </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Eldnidge</Key>
+      <Forenames>H. M.</Forenames>
+      <Text>(temp. Lt.)</Text>
+      <PageNumber>1561</PageNumber>
+    </MainItem>
     <SubItem>
+      <Text>Asst. Equipment Officer</Text>
+      <PageNumber>1589</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>Adjt</Text>
       <PageNumber>3394</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -107,23 +119,25 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Title>Maj.</Title>
+      <Text>Maj. . W. E. W. (temp. Lt.. Col. whilst commanding a Battalion)</Text>
+      <PageNumber>3514</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>3514</PageNumber>
-    <ItemGroup>
-      <MainItem>
-        <Key>Elkins</Key>
-        <PageNumber>3275</PageNumber>
-      </MainItem>
-    </ItemGroup>
-    <MainItem>Ell, (temp.) 2nd Lt. M. S. (antedated) 1568</MainItem>
-  </Text>
   <ItemGroup>
-    <Key>Ell</Key>
-    <PageNumber>1568</PageNumber>
+    <MainItem>
+      <Key>Elkins</Key>
+      <Text>, (temp.) 2nd Lt. R. N, (transferred)</Text>
+      <PageNumber>3275</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Ell</Key>
+      <Text>, (temp.) 2nd Lt. M. S. (antedated)</Text>
+      <PageNumber>1568</PageNumber>
+    </MainItem>
     <SubItem>
+      <Text>-Retired pay</Text>
       <PageNumber>711</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -132,13 +146,54 @@
       <Key>JSUington</Key>
       <Title>Maj.</Title>
       <Forenames>E. L.</Forenames>
-    </MainItem>
-    <Text>
+      <Text>(Brevet Lt.Col. for distinguished service in the Field)</Text>
       <PageNumber>569</PageNumber>
-    </Text>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Forenames>H. G.</Forenames>
+      <Text>(2nd Lt. on probation)</Text>
+      <PageNumber>104</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Forenames>H. M.</Forenames>
+      <Text>(Lt.-Col., and remain : seconded)</Text>
+      <PageNumber>324</PageNumber>
+    </MainItem>
     <SubItem>
+      <Text>Lt.-Col., antedated</Text>
       <PageNumber>1214</PageNumber>
     </SubItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___</KeyDitto>
+      </Key>
+      <Forenames>J. W.</Forenames>
+      <Text>(temp. Capt.)</Text>
+      <PageNumber>2570</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Title>Lt.</Title>
+      <Forenames>R. B.</Forenames>
+      <Text>(relinquishes his commission)</Text>
+      <PageNumber>2200</PageNumber>
+    </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
@@ -157,24 +212,25 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>C. A. A.</Forenames>
+      <Text>(temp. Lt.)</Text>
+      <PageNumber>2454</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>2454</PageNumber>
-    <ItemGroup>
-      <MainItem>
-        <Key>
-          <KeyDitto>___ ___</KeyDitto>
-        </Key>
-        <PageNumber>1369</PageNumber>
-      </MainItem>
-    </ItemGroup>
-  </Text>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Text>CM. G. (temp. Lt.)</Text>
+      <PageNumber>1369</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
+      <Text>(temp.) 2nd .Lt. C. W. (rei . linquishes his commission)</Text>
       <PageNumber>2313</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -182,16 +238,16 @@
     <MainItem>
       <Key>Elliott</Key>
       <Forenames>E. L. H.</Forenames>
+      <Text>(temp. Lt.)</Text>
+      <PageNumber>272</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>272</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
+      <Text>E: T. (temp. 2nd Lt.) .;</Text>
       <PageNumber>125</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -202,11 +258,11 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>G. R.</Forenames>
-    </MainItem>
-    <Text>
+      <Text>(Flying Officer, and to be seconded)</Text>
       <PageNumber>1366</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Flight Commander and temp. Capt</Text>
       <PageNumber>3268</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -225,8 +281,8 @@
       <Key>
         <KeyDitto>___ ___ ___ .</KeyDitto>
       </Key>
-      <Forenames>H.</Forenames>
-      <Text>G; (temp. Lt. whilst Dental Surgeon)</Text>
+      <Forenames>H. G</Forenames>
+      <Text>; (temp. Lt. whilst Dental Surgeon)</Text>
       <PageNumber>1668</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -245,8 +301,8 @@
       <Key>
         <KeyDitto>___ ___ :</KeyDitto>
       </Key>
-      <Title>Lt.</Title>
-      <Text>J,.B. (Flying Officer, and to be seconded)</Text>
+      <Forenames>Lt</Forenames>
+      <Text>. J,.B. (Flying Officer, and to be seconded)</Text>
       <PageNumber>532</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -327,24 +383,25 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>V. B.</Forenames>
+      <Text>(2nd Lt.)</Text>
+      <PageNumber>3188</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>3188</PageNumber>
-    <ItemGroup>
-      <MainItem>
-        <Key>
-          <KeyDitto>___</KeyDitto>
-        </Key>
-        <PageNumber>3152</PageNumber>
-      </MainItem>
-    </ItemGroup>
-  </Text>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___</KeyDitto>
+      </Key>
+      <Text>2nd Lt. W. (temp. Lt. whilst with a Young Officers' Company)</Text>
+      <PageNumber>3152</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>
         <KeyDitto>___ ___ ——..</KeyDitto>
       </Key>
+      <Text>2nd Lt. W. D. (confirmed)</Text>
       <PageNumber>2775</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -353,24 +410,25 @@
       <Key>Ellis</Key>
       <Title>Asst.</Title>
       <Forenames>Commissary</Forenames>
+      <Text>of Ordnance and Hon. Lt. A. (temp. Deputy Commissary of Ordnance and temp. Hon. Capt. whilst hold ing a special appointment)</Text>
+      <PageNumber>3183</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>3183</PageNumber>
-    <ItemGroup>
-      <MainItem>
-        <Key>
-          <KeyDitto>___ ___ ___</KeyDitto>
-        </Key>
-        <PageNumber>3257</PageNumber>
-      </MainItem>
-    </ItemGroup>
-  </Text>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___</KeyDitto>
+      </Key>
+      <Text>(temp.) 2nd Lt. A. D. (trans. ferred)</Text>
+      <PageNumber>3257</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
+      <Text>(temp.) Lt. A. E. (relinquishes his commission) ..;</Text>
       <PageNumber>3044</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -414,15 +472,13 @@
       <PageNumber>1108</PageNumber>
     </MainItem>
   </ItemGroup>
+  <KeyDitto>___</KeyDitto>
   <ItemGroup>
     <MainItem>
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Forenames>G.</Forenames>
-      <Text>
-        <KeyDitto>___</KeyDitto>
-      </Text>
+      <Text>(temp.) 2nd Lt. H. ft (transferred from Reserve to Regular Battalion)</Text>
       <PageNumber>721</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -443,11 +499,11 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>J. W. L.</Forenames>
-    </MainItem>
-    <Text>
+      <Text>(seconded for service with a Garrison Battalion)</Text>
       <PageNumber>1814</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Temp. Capt</Text>
       <PageNumber>2088</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -477,24 +533,25 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>R. F.</Forenames>
+      <Text>(temp. 2nd Lt.)</Text>
+      <PageNumber>3072</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>3072</PageNumber>
-    <ItemGroup>
-      <MainItem>
-        <Key>
-          <KeyDitto>___ ___</KeyDitto>
-        </Key>
-        <PageNumber>1664</PageNumber>
-      </MainItem>
-    </ItemGroup>
-  </Text>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Text>(temp.) 2nd Lt. S. H. (Flying Officer, and to be transferred to the General List)..;</Text>
+      <PageNumber>1664</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
+      <Text>(temp.) 2nd Lt. T. H. (transferred from Reserve to Service Battalion)</Text>
       <PageNumber>1817</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -504,16 +561,16 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>W. A.</Forenames>
+      <Text>(temp. Capt.)</Text>
+      <PageNumber>636</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>636</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
+      <Text>2nd Lt. (temp. Lt.) W. B. (Flying Officer)</Text>
       <PageNumber>1489</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -533,14 +590,14 @@
         <KeyDitto>___ —— ___ ___</KeyDitto>
       </Key>
       <Forenames>Y. L.</Forenames>
+      <Text>(temp. Lt.)</Text>
+      <PageNumber>327</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>327</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Ellison</Key>
+      <Text>, (temp.) 2nd Lt. A. (Flying Officer)</Text>
       <PageNumber>1366</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -560,16 +617,16 @@
         <KeyDitto>___ ___ ——..</KeyDitto>
       </Key>
       <Forenames>F. J. G.</Forenames>
+      <Text>(temp, ,2nd Lt. probation)</Text>
+      <PageNumber>2104</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>2104</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>
         <KeyDitto>___ ___ .</KeyDitto>
       </Key>
+      <Text>(temp.) Lt. J., M.B. (relinquishes his commission)</Text>
       <PageNumber>1655</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -615,14 +672,14 @@
     <MainItem>
       <Key>Ellwood</Key>
       <Forenames>F. J.</Forenames>
+      <Text>(2nd Lt.)</Text>
+      <PageNumber>1008</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>1008</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Elms</Key>
+      <Text>. A. E. (temp. Lt.)</Text>
       <PageNumber>2104</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -672,14 +729,14 @@
     <MainItem>
       <Key>Eltringham</Key>
       <Forenames>H. C.</Forenames>
+      <Text>(2nd Lt. on pro. bation), supplementary</Text>
+      <PageNumber>3291</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>3291</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>El</Key>
+      <Text>well, E. E. (temp. 2nd Lt.)</Text>
       <PageNumber>2334</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -687,14 +744,14 @@
     <MainItem>
       <Key>Elwes</Key>
       <Forenames>R. P.</Forenames>
+      <Text>(temp. Lt.)</Text>
+      <PageNumber>96</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>96</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>El</Key>
+      <Text>worthy, F. E. L. (temp. Capt.)</Text>
       <PageNumber>3154</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -714,26 +771,28 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>W. R.</Forenames>
+      <Text>(2nd Lt. on probation)</Text>
+      <PageNumber>1090</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>1090</PageNumber>
-    <ItemGroup>
-      <MainItem>
-        <Key>Ely</Key>
-        <PageNumber>2101</PageNumber>
-      </MainItem>
-    </ItemGroup>
-    <ItemGroup>
-      <MainItem>
-        <Key>Emanuel</Key>
-        <PageNumber>1346</PageNumber>
-      </MainItem>
-    </ItemGroup>
-  </Text>
+  <ItemGroup>
+    <MainItem>
+      <Key>Ely</Key>
+      <Text>, 2nd Lt. D. M. (confirmed) ..:</Text>
+      <PageNumber>2101</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Emanuel</Key>
+      <Text>, 0. (Lt.) Embley, (temp.) 2nd Lt. W. F. C. (antedated)</Text>
+      <PageNumber>1346</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Emerson</Key>
+      <Text>, 2nd Lt. W. E., supplementary (confirmed)</Text>
       <PageNumber>1570</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -758,19 +817,22 @@
     <MainItem>
       <Key>Emett</Key>
       <Forenames>J. P.</Forenames>
+      <Text>(temp. Lt.)</Text>
+      <PageNumber>100</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <Text>
-    <PageNumber>100</PageNumber>
     <SubItem>
+      <Text>Temp. Capt</Text>
       <PageNumber>1882</PageNumber>
     </SubItem>
-    <MainItem>Eminson, 2nd Lt. R. A. F. (confirmed). .-. 2335</MainItem>
-  </Text>
+  </ItemGroup>
   <ItemGroup>
-    <Key>Eminson</Key>
-    <PageNumber>2335</PageNumber>
+    <MainItem>
+      <Key>Eminson</Key>
+      <Text>, 2nd Lt. R. A. F. (confirmed). .-</Text>
+      <PageNumber>2335</PageNumber>
+    </MainItem>
     <SubItem>
+      <Text>Seconded for duty with a Brigade Machine-gun Company &gt;</Text>
       <PageNumber>2354</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -795,16 +857,18 @@
     <MainItem>
       <Key>Empson</Key>
       <Forenames>R. C.</Forenames>
+      <Text>(temp. Capt.)</Text>
+      <PageNumber>2326</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>2326</PageNumber>
-    <MainItem>Emsell, 2nd Lt. B. S. V. (temp. Lt. whilst with a Reserve Regiment) ... ' ... 2197</MainItem>
-  </Text>
   <ItemGroup>
-    <Key>Emsell</Key>
-    <PageNumber>2197</PageNumber>
+    <MainItem>
+      <Key>Emsell</Key>
+      <Text>, 2nd Lt. B. S. V. (temp. Lt. whilst with a Reserve Regiment) ... '</Text>
+      <PageNumber>2197</PageNumber>
+    </MainItem>
     <SubItem>
+      <Text>2nd Lt., and retains his higher rank and seniority in his present unit until ' ordered to join a Regular unit ... -. ;</Text>
       <PageNumber>3397</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -838,16 +902,16 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>C. R.</Forenames>
+      <Text>(temp. LtJ</Text>
+      <PageNumber>124</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>124</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
+      <Text>2nd Lt. (temp. Lt.) C. ,R. L. (temp. 2nd Lt., and to relinquish temp, rank)</Text>
       <PageNumber>720</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -876,8 +940,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>W.</Forenames>
-      <Text>B, (temp. Capt.)</Text>
+      <Forenames>W. B</Forenames>
+      <Text>, (temp. Capt.)</Text>
       <PageNumber>741</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -911,14 +975,14 @@
     <MainItem>
       <Key>Ensor</Key>
       <Forenames>E. N.</Forenames>
+      <Text>(temp. Lt.)</Text>
+      <PageNumber>2466</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>2466</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Epbraums</Key>
+      <Text>, (temp.) 2nd Lt. H. C. (transferred from Reserve to Service Battalion)</Text>
       <PageNumber>638</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -943,24 +1007,25 @@
     <MainItem>
       <Key>Erskine</Key>
       <Forenames>J.</Forenames>
+      <Text>(temp. 2nd Lt.), supplementary</Text>
+      <PageNumber>3291</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>3291</PageNumber>
-    <ItemGroup>
-      <MainItem>
-        <Key>
-          <KeyDitto>___ ___</KeyDitto>
-        </Key>
-        <PageNumber>1327</PageNumber>
-      </MainItem>
-    </ItemGroup>
-  </Text>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Text>COl. J. F., M.V.O. (temp. Brigadier-Gen. whilst Brigade Commander)</Text>
+      <PageNumber>1327</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
+      <Text>(temp.) Lt. R. (relinquishes the temp, rank of Capt.)</Text>
       <PageNumber>3031</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1001,8 +1066,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Eskell</Key>
-      <Forenames>B.</Forenames>
-      <Text>C, M.B. (temp, Lt.)</Text>
+      <Forenames>B. C</Forenames>
+      <Text>, M.B. (temp, Lt.)</Text>
       <PageNumber>984</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1046,14 +1111,14 @@
     <MainItem>
       <Key>Espin</Key>
       <Forenames>C. E.</Forenames>
+      <Text>(2nd Lt. on probation)</Text>
+      <PageNumber>2944</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>2944</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Espir</Key>
+      <Text>, 2nd Lt. L., supplementary (confirmed)</Text>
       <PageNumber>2062</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1061,14 +1126,14 @@
     <MainItem>
       <Key>Esse</Key>
       <Forenames>F. A.</Forenames>
+      <Text>(temp. 2nd Lt.)</Text>
+      <PageNumber>2571</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>2571</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Essinger</Key>
+      <Text>, 2nd Lt. S. B. (confirmed)</Text>
       <PageNumber>428</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1101,24 +1166,25 @@
     <MainItem>
       <Key>Evans</Key>
       <Forenames>A. C.</Forenames>
+      <Text>(temp. 2nd Lt. on probation)</Text>
+      <PageNumber>1368</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>1368</PageNumber>
-    <ItemGroup>
-      <MainItem>
-        <Key>
-          <KeyDitto>___ ___</KeyDitto>
-        </Key>
-        <PageNumber>2083</PageNumber>
-      </MainItem>
-    </ItemGroup>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
+      <Text>(temp.) 2nd Lt. A. C. (confirmed)</Text>
+      <PageNumber>2083</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Text>(temp.) Lt. A. J. (Flying Officer)</Text>
       <PageNumber>1366</PageNumber>
     </MainItem>
   </ItemGroup>

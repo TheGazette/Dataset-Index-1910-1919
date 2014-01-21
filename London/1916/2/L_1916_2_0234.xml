@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="0234" pageID="https://www.thegazette.co.uk/id/London/index/year/1916/volume/2/page/0234" pagePDF="https://www.thegazette.co.uk/London/index/year/1916/volume/2/page/0234" pageRDF="https://www.thegazette.co.uk/London/index/year/1916/volume/2/page/0234?view=linked-data" type="index" volume="2" year="1916">
+<Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="234" pageID="https://www.thegazette.co.uk/id/London/index/year/1916/volume/2/page/234" pagePDF="https://www.thegazette.co.uk/London/index/year/1916/volume/2/page/234" pageRDF="https://www.thegazette.co.uk/London/index/year/1916/volume/2/page/234?view=linked-data" type="index" volume="2" year="1916">
   <ItemGroup>
     <MainItem>
       <Key>Jennell</Key>
       <Title>Maj.</Title>
       <Forenames>T. L.</Forenames>
-    </MainItem>
-    <Text>
+      <Text>, M.B. (relinquishes his commission)</Text>
       <PageNumber>4543</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
-      <PageNumber>4544</PageNumber>
+      <Text>
+        <PageNumber>4544</PageNumber>
+      </Text>
       <PageNumber>6429</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -18,82 +19,97 @@
     <MainItem>
       <Key>Fenton</Key>
       <Forenames>J.</Forenames>
+      <Text>, M.D. (Capt.)</Text>
+      <PageNumber>4200</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <Text>
-    <PageNumber>4200</PageNumber>
     <SubItem>
+      <Text>2nd Lt. W. C. (temp. Lt.)</Text>
       <PageNumber>4354</PageNumber>
     </SubItem>
-    <ItemGroup>
-      <MainItem>
-        <Key>Fenwick</Key>
-        <PageNumber>4446</PageNumber>
-      </MainItem>
-      <SubItem>
-        <PageNumber>4446</PageNumber>
-      </SubItem>
-    </ItemGroup>
-    <ItemGroup>
-      <MainItem>
-        <Key>Fenwick-Clennell</Key>
-        <PageNumber>5209</PageNumber>
-      </MainItem>
-    </ItemGroup>
-    <ItemGroup>
-      <MainItem>
-        <Key>JFenwicke-Clennell</Key>
-        <PageNumber>5072</PageNumber>
-      </MainItem>
-      <SubItem>
-        <PageNumber>6426</PageNumber>
-      </SubItem>
-    </ItemGroup>
-    <ItemGroup>
-      <MainItem>
-        <Key>Feore</Key>
-        <PageNumber>3903</PageNumber>
-      </MainItem>
-      <SubItem>
-        <PageNumber>5745</PageNumber>
-      </SubItem>
-    </ItemGroup>
-    <ItemGroup>
-      <MainItem>
-        <Key>Ferguson</Key>
-        <PageNumber>4114</PageNumber>
-      </MainItem>
-    </ItemGroup>
-    <ItemGroup>
-      <MainItem>
-        <Key>
-          <KeyDitto>——</KeyDitto>
-        </Key>
-        <PageNumber>4127</PageNumber>
-      </MainItem>
-      <SubItem>
-        <PageNumber>4460</PageNumber>
-      </SubItem>
-    </ItemGroup>
-    <ItemGroup>
-      <MainItem>
-        <Key>
-          <KeyDitto>-—</KeyDitto>
-        </Key>
-        <PageNumber>3795</PageNumber>
-      </MainItem>
-    </ItemGroup>
-    <MainItem>—-— 2nd Lt. (temp. Capt.) D: (relinquishes his temp, rank on alteration in posting) ... 3774</MainItem>
-  </Text>
+  </ItemGroup>
   <ItemGroup>
-    <Key>
-      <KeyDitto>—-—</KeyDitto>
-    </Key>
-    <PageNumber>3774</PageNumber>
+    <MainItem>
+      <Key>Fenwick</Key>
+      <Text>2nd Lt. C. A. (resigned)</Text>
+      <PageNumber>4446</PageNumber>
+    </MainItem>
     <SubItem>
+      <Text>2nd Lt. G. C. D. (resigned)</Text>
+      <PageNumber>4446</PageNumber>
+    </SubItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Fenwick-Clennell</Key>
+      <Text>2nd Lt. (temp. Lt.) T. P. E. (relinquishes his commission)</Text>
+      <PageNumber>5209</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>JFenwicke-Clennell</Key>
+      <Text>2nd Lt. E. C. (temp. Capt.)</Text>
+      <PageNumber>5072</PageNumber>
+    </MainItem>
+    <SubItem>
+      <Text>P. C. (Capt.)</Text>
+      <PageNumber>6426</PageNumber>
+    </SubItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Feore</Key>
+      <Text>2nd Lt. E. A. (restored to the establishment)</Text>
+      <PageNumber>3903</PageNumber>
+    </MainItem>
+    <SubItem>
+      <Text>J. J. T. (Lt.)</Text>
+      <PageNumber>5745</PageNumber>
+    </SubItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Ferguson</Key>
+      <Text>2nd Lt. A(temp. Lt.)</Text>
+      <PageNumber>4114</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>——</KeyDitto>
+      </Key>
+      <Text>2nd Lt. A. B. (seconded for duty with Boyal Engineers)</Text>
+      <PageNumber>4127</PageNumber>
+    </MainItem>
+    <SubItem>
+      <Text>Correction of date</Text>
+      <PageNumber>4460</PageNumber>
+    </SubItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>-—</KeyDitto>
+      </Key>
+      <Text>2nd Lt. (temp. Lt.) C. A. (seconded)</Text>
+      <PageNumber>3795</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>—-—</KeyDitto>
+      </Key>
+      <Text>2nd Lt. (temp. Capt.) D: (relinquishes his temp, rank on alteration in posting)</Text>
+      <PageNumber>3774</PageNumber>
+    </MainItem>
+    <SubItem>
+      <Text>Temp. Lt</Text>
       <PageNumber>3775</PageNumber>
     </SubItem>
     <SubItem>
+      <Text>W. P., M.D. (Capt.)</Text>
       <PageNumber>5061</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -111,34 +127,39 @@
       <Key>JFermor-Hesketh</Key>
       <Title>Capt.</Title>
       <Forenames>T.</Forenames>
+      <Text>(temp. Maj., and seconded for duty with a Provisional Yeomanry Squadron)</Text>
+      <PageNumber>4446</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>4446</PageNumber>
-    <ItemGroup>
-      <MainItem>
-        <Key>Fernighough</Key>
-        <PageNumber>5811</PageNumber>
-      </MainItem>
-    </ItemGroup>
-    <ItemGroup>
-      <MainItem>
-        <Key>Feron</Key>
-        <PageNumber>4256</PageNumber>
-      </MainItem>
-    </ItemGroup>
-    <ItemGroup>
-      <MainItem>
-        <Key>Ferrie</Key>
-        <PageNumber>5991</PageNumber>
-      </MainItem>
-    </ItemGroup>
-    <MainItem>Ferrier, E H. (Lt.) 6430</MainItem>
-  </Text>
   <ItemGroup>
-    <Key>Ferrier</Key>
-    <PageNumber>6430</PageNumber>
+    <MainItem>
+      <Key>Fernighough</Key>
+      <Text>2nd Lt. F. (temp. Lt. whilst with the Royal Flying Corps)</Text>
+      <PageNumber>5811</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Feron</Key>
+      <Text>(temp.) Capt. R. (2nd Lt.)</Text>
+      <PageNumber>4256</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Ferrie</Key>
+      <Text>2nd Lt. (temp. Lt.) A. (restored to the establishment</Text>
+      <PageNumber>5991</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Ferrier</Key>
+      <Text>E H. (Lt.)</Text>
+      <PageNumber>6430</PageNumber>
+    </MainItem>
     <SubItem>
+      <Text>2nd Lt. E. L. (seconded for duty with Machine-gun Corps)</Text>
       <PageNumber>5973</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -154,37 +175,43 @@
     <MainItem>
       <Key>Few</Key>
       <Forenames>E.</Forenames>
+      <Text>(Lt.)</Text>
+      <PageNumber>4464</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <Text>
-    <PageNumber>4464</PageNumber>
     <SubItem>
+      <Text>H. C. (Lt., temp. Maj.)</Text>
       <PageNumber>4675</PageNumber>
     </SubItem>
-    <ItemGroup>
-      <MainItem>
-        <Key>Ffrench</Key>
-        <PageNumber>5211</PageNumber>
-      </MainItem>
-    </ItemGroup>
-    <ItemGroup>
-      <MainItem>
-        <Key>Fiddes</Key>
-        <PageNumber>5072</PageNumber>
-      </MainItem>
-    </ItemGroup>
-    <ItemGroup>
-      <MainItem>
-        <Key>Fidgeon</Key>
-        <PageNumber>3811</PageNumber>
-      </MainItem>
-    </ItemGroup>
-    <MainItem>Field, 2nd Lt. C. D. (temp. Lt.) ... 4827</MainItem>
-  </Text>
+  </ItemGroup>
   <ItemGroup>
-    <Key>Field</Key>
-    <PageNumber>4827</PageNumber>
+    <MainItem>
+      <Key>Ffrench</Key>
+      <Text>2nd Lt. D. M. (temp. Lt.)</Text>
+      <PageNumber>5211</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Fiddes</Key>
+      <Text>2nd Lt. E. S. (temp. Capt.)</Text>
+      <PageNumber>5072</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Fidgeon</Key>
+      <Text>2nd Lt. F. W. (transfer cancelled) ... „</Text>
+      <PageNumber>3811</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Field</Key>
+      <Text>2nd Lt. C. D. (temp. Lt.)</Text>
+      <PageNumber>4827</PageNumber>
+    </MainItem>
     <SubItem>
+      <Text>2nd Lt. G. E. (temp. Lt.)</Text>
       <PageNumber>4672</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -209,11 +236,11 @@
     <MainItem>
       <Key>Finch</Key>
       <Forenames>E. G.</Forenames>
-    </MainItem>
-    <Text>
+      <Text>(Maj.)</Text>
       <PageNumber>5308</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Maj. (temp. Lt.-Col.) E. W. (relinquishes his temp, rank on alteration in posting)</Text>
       <PageNumber>6311</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -221,14 +248,15 @@
     <MainItem>
       <Key>Findlay</Key>
       <Forenames>G. L.</Forenames>
-    </MainItem>
-    <Text>
+      <Text>, M.B. (Lt.)</Text>
       <PageNumber>5310</PageNumber>
-      <SubItem>
-        <PageNumber>5444</PageNumber>
-      </SubItem>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Maj. J. M. (temp. Lt.-Col.)</Text>
+      <PageNumber>5444</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>2nd Lt. (temp. Lt.) W. A. (relinquishes his commission)</Text>
       <PageNumber>4463</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -244,14 +272,14 @@
     <MainItem>
       <Key>Fink</Key>
       <Forenames>S.</Forenames>
+      <Text>(2hd Lt.)</Text>
+      <PageNumber>6048</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>6048</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Finlay</Key>
+      <Text>2nd Lt. T. M. (temp. Lt.)</Text>
       <PageNumber>4114</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -259,16 +287,18 @@
     <MainItem>
       <Key>Finlayson</Key>
       <Forenames>J. H.</Forenames>
+      <Text>(Qrmr. and Hon. Maj.)</Text>
+      <PageNumber>6430</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>6430</PageNumber>
-    <MainItem>Finn, 2nd Lt. (temp. Capt.) J. F. (relinquishes the temp, rank of Capt. on alteration in posting) 6199</MainItem>
-  </Text>
   <ItemGroup>
-    <Key>Finn</Key>
-    <PageNumber>6199</PageNumber>
+    <MainItem>
+      <Key>Finn</Key>
+      <Text>2nd Lt. (temp. Capt.) J. F. (relinquishes the temp, rank of Capt. on alteration in posting)</Text>
+      <PageNumber>6199</PageNumber>
+    </MainItem>
     <SubItem>
+      <Text>2nd Lt. J. I. (seconded for duty with Machine-gun Corps)</Text>
       <PageNumber>5974</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -277,17 +307,18 @@
       <Key>Firmin</Key>
       <Title>Lt.</Title>
       <Forenames>N. H.</Forenames>
+      <Text>(temp. Maj.)</Text>
+      <PageNumber>5210</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <Text>
-    <PageNumber>5210</PageNumber>
     <SubItem>
+      <Text>Capt., temp. Maj</Text>
       <PageNumber>5210</PageNumber>
     </SubItem>
-  </Text>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Firminger</Key>
+      <Text>2nd Lt. J. E. (temp. Lt.)</Text>
       <PageNumber>5914</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -296,17 +327,18 @@
       <Key>Firth</Key>
       <Title>Lt.</Title>
       <Forenames>C. W.</Forenames>
+      <Text>(2nd Lt.)</Text>
+      <PageNumber>3687</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <Text>
-    <PageNumber>3687</PageNumber>
     <SubItem>
+      <Text>2nd Lt. E. N. M. (ceases to serve)</Text>
       <PageNumber>4951</PageNumber>
     </SubItem>
-  </Text>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Fish</Key>
+      <Text>2nd Lt. P. (relinquishes his commission) .;</Text>
       <PageNumber>5175</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -324,32 +356,35 @@
       <Key>
         <KeyDitto>——</KeyDitto>
       </Key>
-      <Title>Capt.</Title>
+      <Text>Capt. (Reserve of Officers) C. S. D. (Lt.)</Text>
+      <PageNumber>6429</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <Text>
-    <PageNumber>6429</PageNumber>
     <SubItem>
+      <Text>2nd Lt. E. A. (temp. Lt.)</Text>
       <PageNumber>4114</PageNumber>
     </SubItem>
-    <ItemGroup>
-      <MainItem>
-        <Key>
-          <KeyDitto>—</KeyDitto>
-        </Key>
-        <PageNumber>3566</PageNumber>
-      </MainItem>
-      <SubItem>
-        <PageNumber>5186</PageNumber>
-      </SubItem>
-      <SubItem>
-        <PageNumber>5174</PageNumber>
-      </SubItem>
-    </ItemGroup>
-  </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>—</KeyDitto>
+      </Key>
+      <Text>2nd Lt. G. L. H. (temp. Lt.)</Text>
+      <PageNumber>3566</PageNumber>
+    </MainItem>
+    <SubItem>
+      <Text>Seconded for duty with a Brigade Machine gun Company</Text>
+      <PageNumber>5186</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>2nd Lt. P. (temp. Lt.)</Text>
+      <PageNumber>5174</PageNumber>
+    </SubItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Fishwick</Key>
+      <Text>2nd Lt. A. (temp. Lt.)</Text>
       <PageNumber>5974</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -374,25 +409,26 @@
     <MainItem>
       <Key>Fitzgerald</Key>
       <Forenames>E.</Forenames>
+      <Text>(Maj.)</Text>
+      <PageNumber>4675</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <Text>
-    <PageNumber>4675</PageNumber>
     <SubItem>
+      <Text>2nd Lt. G. F. (temp. Lt.)</Text>
       <PageNumber>4244</PageNumber>
     </SubItem>
-  </Text>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>FitzGerald</Key>
+      <Text>2nd Lt. and Adjt. M. E. W. (temp. Capt., and remain Adjt.)</Text>
       <PageNumber>5329</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Fitzherbert-Brockholes</Key>
-      <Title>Lt.</Title>
-      <Text>(temp. Capt.) J. W. (seconded)</Text>
+      <Forenames>Lt</Forenames>
+      <Text>. (temp. Capt.) J. W. (seconded)</Text>
       <PageNumber>4560</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -401,17 +437,18 @@
       <Key>Fitzmaurice</Key>
       <Title>Lt.</Title>
       <Forenames>D.</Forenames>
+      <Text>FitzJ. (Adjt.)</Text>
+      <PageNumber>4354</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <Text>
-    <PageNumber>4354</PageNumber>
     <SubItem>
+      <Text>Maj. (temp. Lt.-Col.) J. G. O. (seconded for duty with a Provisional Battalion)</Text>
       <PageNumber>5715</PageNumber>
     </SubItem>
-  </Text>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Fixter</Key>
+      <Text>2nd Lt. T. (seconded for duty at the Machine-gun Training Centre)</Text>
       <PageNumber>4963</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -419,21 +456,24 @@
     <MainItem>
       <Key>Fleming</Key>
       <Forenames>A. G.</Forenames>
+      <Text>(2nd Lt. on probation)</Text>
+      <PageNumber>6350</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <Text>
-    <PageNumber>6350</PageNumber>
     <SubItem>
+      <Text>Capt. D. P. (restored to the establishment)</Text>
       <PageNumber>5745</PageNumber>
     </SubItem>
-    <MainItem>—r2nd Lt. W. E. (temp. Lt.) ... 5990</MainItem>
-  </Text>
+  </ItemGroup>
   <ItemGroup>
-    <Key>
-      <KeyDitto>—</KeyDitto>
-    </Key>
-    <PageNumber>5990</PageNumber>
+    <MainItem>
+      <Key>
+        <KeyDitto>—</KeyDitto>
+      </Key>
+      <Text>r2nd Lt. W. E. (temp. Lt.)</Text>
+      <PageNumber>5990</PageNumber>
+    </MainItem>
     <SubItem>
+      <Text>Hon. Col. W. G. (Lt.-Col.)</Text>
       <PageNumber>5915</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -449,11 +489,11 @@
     <MainItem>
       <Key>Fletcher</Key>
       <Forenames>B. L.</Forenames>
-    </MainItem>
-    <Text>
+      <Text>.(Capt.)</Text>
       <PageNumber>4354</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>F. H. (Capt.)</Text>
       <PageNumber>6426</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -463,38 +503,43 @@
         <KeyDitto>—</KeyDitto>
       </Key>
       <Forenames>H.</Forenames>
+      <Text>(Lt.)</Text>
+      <PageNumber>3812</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <Text>
-    <PageNumber>3812</PageNumber>
     <SubItem>
-      <PageNumber>3547</PageNumber>
+      <Text>
+        <PageNumber>3547</PageNumber>
+      </Text>
       <PageNumber>4861</PageNumber>
     </SubItem>
     <SubItem>
+      <Text>2nd Lt. F. S. (temp. Lt.)</Text>
       <PageNumber>5443</PageNumber>
     </SubItem>
-  </Text>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Flexon</Key>
+      <Text>2nd Lt. A. J. (temp. Lt.)</Text>
       <PageNumber>4828</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Flick</Key>
-      <Title>Lt.</Title>
+      <Forenames>Lt</Forenames>
+      <Text>.-Col. C. L. (temp. Lt.Col.)</Text>
+      <PageNumber>6312</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>6312</PageNumber>
-    <MainItem>Flindt,2nd Lt. R. E. H. (temp. Lt.) 5060</MainItem>
-  </Text>
   <ItemGroup>
-    <Key>Flindt</Key>
-    <PageNumber>5060</PageNumber>
+    <MainItem>
+      <Key>Flindt</Key>
+      <Text>2nd Lt. R. E. H. (temp. Lt.)</Text>
+      <PageNumber>5060</PageNumber>
+    </MainItem>
     <SubItem>
+      <Text>Correction of date</Text>
       <PageNumber>6058</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -511,14 +556,14 @@
     <MainItem>
       <Key>Florence</Key>
       <Forenames>W.</Forenames>
+      <Text>(Lt.)</Text>
+      <PageNumber>6428</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>6428</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Flowers</Key>
+      <Text>2nd Lt. C. (temp. Lt.)</Text>
       <PageNumber>6312</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -527,26 +572,30 @@
       <Key>Forbes</Key>
       <Title>Capt.</Title>
       <Forenames>A.</Forenames>
+      <Text>(Adjt.)</Text>
+      <PageNumber>5210</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <Text>
-    <PageNumber>5210</PageNumber>
     <SubItem>
+      <Text>A. G. (Lt.)</Text>
       <PageNumber>6229</PageNumber>
     </SubItem>
     <SubItem>
+      <Text>C. W. (Lt.)</Text>
       <PageNumber>6426</PageNumber>
     </SubItem>
     <SubItem>
+      <Text>2nd Lt. H. (temp. Lt.)</Text>
       <PageNumber>4951</PageNumber>
     </SubItem>
     <SubItem>
+      <Text>S. A. (Maj.)</Text>
       <PageNumber>4817</PageNumber>
     </SubItem>
-  </Text>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Forbes-Leith</Key>
+      <Text>2nd Lt. H. L. (temp. Lt.)</Text>
       <PageNumber>5812</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -554,37 +603,43 @@
     <MainItem>
       <Key>Forbes-Pollexfen</Key>
       <Forenames>J. J. H.</Forenames>
+      <Text>(Capt.)</Text>
+      <PageNumber>6424</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>6424</PageNumber>
-    <ItemGroup>
-      <MainItem>
-        <Key>Ford</Key>
-        <PageNumber>5727</PageNumber>
-      </MainItem>
-      <SubItem>
-        <PageNumber>3546</PageNumber>
-      </SubItem>
-      <SubItem>
-        <PageNumber>4460</PageNumber>
-      </SubItem>
-      <SubItem>
+  <ItemGroup>
+    <MainItem>
+      <Key>Ford</Key>
+      <Text>2nd Lt. A. H. (temp. Capt.)</Text>
+      <PageNumber>5727</PageNumber>
+    </MainItem>
+    <SubItem>
+      <Text>Capt. (temp. Maj.) B. J. T. (relinquishes his temp, rank on alteration in posting)</Text>
+      <PageNumber>3546</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>Temp. Maj</Text>
+      <PageNumber>4460</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>
         <PageNumber>5445</PageNumber>
         <PageNumber>5448</PageNumber>
-        <PageNumber>4463</PageNumber>
-      </SubItem>
-    </ItemGroup>
-    <ItemGroup>
-      <MainItem>
-        <Key>Fordham</Key>
-        <PageNumber>5974</PageNumber>
-      </MainItem>
-    </ItemGroup>
-  </Text>
+      </Text>
+      <PageNumber>4463</PageNumber>
+    </SubItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Fordham</Key>
+      <Text>2nd Lt. O. (relinquishes his commission)</Text>
+      <PageNumber>5974</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Forgan</Key>
+      <Text>2nd Lt. P. L. (temp. Lt.)</Text>
       <PageNumber>5444</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -593,14 +648,15 @@
       <Key>Forrest</Key>
       <Title>Capt.</Title>
       <Forenames>R.</Forenames>
-    </MainItem>
-    <Text>
+      <Text>(correction)</Text>
       <PageNumber>5475</PageNumber>
-      <SubItem>
-        <PageNumber>5835</PageNumber>
-      </SubItem>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Maj. R. ,W., M.B. (relinquishes his commission)</Text>
+      <PageNumber>5835</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>Capt. (temp. Maj.) W. T. (relinquishes the temp, rank of Maj. on alteration in posting)</Text>
       <PageNumber>5175</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -608,14 +664,14 @@
     <MainItem>
       <Key>Forrester</Key>
       <Forenames>R. H.</Forenames>
+      <Text>(Lt.)</Text>
+      <PageNumber>6429</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>6429</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Forsayeth</Key>
+      <Text>2nd Lt. R. M. (relinquishes his commission)</Text>
       <PageNumber>5476</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -632,14 +688,14 @@
     <MainItem>
       <Key>Forshaw</Key>
       <Forenames>J.</Forenames>
+      <Text>(2nd iLt.)</Text>
+      <PageNumber>4656</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>4656</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Forster</Key>
+      <Text>2nd Lt. A. M. (temp. Lt.)</Text>
       <PageNumber>4003</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -659,19 +715,22 @@
         <KeyDitto>-—</KeyDitto>
       </Key>
       <Forenames>J. F.</Forenames>
+      <Text>(2nd Lt. on probation)</Text>
+      <PageNumber>5833</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <Text>
-    <PageNumber>5833</PageNumber>
     <SubItem>
+      <Text>Maj. (temp. Lt.-Col.) R. C. (relinquishes his temp, rank on alteration in posting)</Text>
       <PageNumber>6482</PageNumber>
     </SubItem>
-    <MainItem>Forsyth, 2nd Lt. (temp. Lt.) G. (seconded for duty as A.iD.C.) 6351</MainItem>
-  </Text>
+  </ItemGroup>
   <ItemGroup>
-    <Key>Forsyth</Key>
-    <PageNumber>6351</PageNumber>
+    <MainItem>
+      <Key>Forsyth</Key>
+      <Text>2nd Lt. (temp. Lt.) G. (seconded for duty as A.iD.C.)</Text>
+      <PageNumber>6351</PageNumber>
+    </MainItem>
     <SubItem>
+      <Text>Capt. I. A. (temp. Maj.)</Text>
       <PageNumber>3774</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -687,7 +746,7 @@
     <MainItem>
       <Key>Forte</Key>
       <Forenames>P. L.</Forenames>
-      <Text>.(Oapt.).-</Text>
+      <Text>.(Capt.).-</Text>
       <PageNumber>6425</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -703,11 +762,11 @@
     <MainItem>
       <Key>Forth</Key>
       <Forenames>C. O.</Forenames>
-    </MainItem>
-    <Text>
+      <Text>(2nd Lt. on probation)</Text>
       <PageNumber>4012</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>2nd Lt. E. (temp. Lt.)</Text>
       <PageNumber>5047</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -715,14 +774,14 @@
     <MainItem>
       <Key>Fortt</Key>
       <Forenames>N. H.</Forenames>
+      <Text>(2nd Lt. on probation)</Text>
+      <PageNumber>3536</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>3536</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Fortune</Key>
+      <Text>2nd Lt. ,H. G. (seconded for duty with Machine-gun Corps)</Text>
       <PageNumber>5974</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -739,18 +798,21 @@
       <Key>Foster</Key>
       <Title>Maj.</Title>
       <Forenames>E. C. M.</Forenames>
-    </MainItem>
-    <Text>
+      <Text>(seconded for duty with a Field Ambulance)</Text>
       <PageNumber>5295</PageNumber>
-      <SubItem>
-        <PageNumber>3925</PageNumber>
-        <PageNumber>6210</PageNumber>
-      </SubItem>
-      <SubItem>
-        <PageNumber>6047</PageNumber>
-      </SubItem>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>
+        <PageNumber>3925</PageNumber>
+      </Text>
+      <PageNumber>6210</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>2nd Lt. (temp. Lt.) T. C. (Adjt.)</Text>
+      <PageNumber>6047</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>Seconded for duty at Reading War Hospital</Text>
       <PageNumber>4340</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -774,19 +836,22 @@
     <MainItem>
       <Key>Foulds</Key>
       <Forenames>C. E.</Forenames>
+      <Text>(Lt., temp. Capt.)</Text>
+      <PageNumber>5447</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <Text>
-    <PageNumber>5447</PageNumber>
     <SubItem>
+      <Text>2nd Lt. (temp. Lt.) G. C. (seconded for duty with Brigade Machine-gun Companies)</Text>
       <PageNumber>3901</PageNumber>
     </SubItem>
-    <MainItem>Foulkes-Roberts, 2nd Lt. A. D. (temp. Lt.j ... 4982</MainItem>
-  </Text>
+  </ItemGroup>
   <ItemGroup>
-    <Key>Foulkes-Roberts</Key>
-    <PageNumber>4982</PageNumber>
+    <MainItem>
+      <Key>Foulkes-Roberts</Key>
+      <Text>2nd Lt. A. D. (temp. Lt.j</Text>
+      <PageNumber>4982</PageNumber>
+    </MainItem>
     <SubItem>
+      <Text>P. R. (Capt.)</Text>
       <PageNumber>5973</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -794,48 +859,58 @@
     <MainItem>
       <Key>iFowler</Key>
       <Forenames>E.</Forenames>
+      <Text>(Capt.)</Text>
+      <PageNumber>4951</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <Text>
-    <PageNumber>4951</PageNumber>
     <SubItem>
-      <PageNumber>4199</PageNumber>
+      <Text>
+        <PageNumber>4199</PageNumber>
+      </Text>
       <PageNumber>5821</PageNumber>
     </SubItem>
     <SubItem>
+      <Text>H. R. (Lt.)</Text>
       <PageNumber>6427</PageNumber>
     </SubItem>
     <SubItem>
+      <Text>J. H. (Lt.)</Text>
       <PageNumber>6429</PageNumber>
     </SubItem>
     <SubItem>
+      <Text>Capt. R. H. (seconded for duty at Territorial Force Records, York)</Text>
       <PageNumber>4655</PageNumber>
     </SubItem>
     <SubItem>
+      <Text>W. H. (Lt.)</Text>
       <PageNumber>6428</PageNumber>
     </SubItem>
-    <ItemGroup>
-      <MainItem>
-        <Key>Fox</Key>
-        <PageNumber>5211</PageNumber>
-      </MainItem>
-      <SubItem>
-        <PageNumber>6430</PageNumber>
-      </SubItem>
-      <SubItem>
-        <PageNumber>4543</PageNumber>
-      </SubItem>
-    </ItemGroup>
-    <ItemGroup>
-      <MainItem>
-        <Key>Fradd</Key>
-        <PageNumber>5187</PageNumber>
-      </MainItem>
-    </ItemGroup>
-  </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Fox</Key>
+      <Text>2nd Lt. F. E. (temp. Lt.)</Text>
+      <PageNumber>5211</PageNumber>
+    </MainItem>
+    <SubItem>
+      <Text>J. R. (Lt.)</Text>
+      <PageNumber>6430</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>Relinquishes his commission</Text>
+      <PageNumber>4543</PageNumber>
+    </SubItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Fradd</Key>
+      <Text>2nd Lt. K. M. C. (seconded for duty with a Brigade Machine-gun Company)</Text>
+      <PageNumber>5187</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Frampton</Key>
+      <Text>2nd Lt. J. G. (temp. Capt.)</Text>
       <PageNumber>5476</PageNumber>
     </MainItem>
   </ItemGroup>

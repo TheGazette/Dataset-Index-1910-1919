@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="0130" pageID="https://www.thegazette.co.uk/id/London/index/year/1914/volume/4/page/0130" pagePDF="https://www.thegazette.co.uk/London/index/year/1914/volume/4/page/0130" pageRDF="https://www.thegazette.co.uk/London/index/year/1914/volume/4/page/0130?view=linked-data" type="index" volume="4" year="1914">
+<Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="130" pageID="https://www.thegazette.co.uk/id/London/index/year/1914/volume/4/page/130" pagePDF="https://www.thegazette.co.uk/London/index/year/1914/volume/4/page/130" pageRDF="https://www.thegazette.co.uk/London/index/year/1914/volume/4/page/130?view=linked-data" type="index" volume="4" year="1914">
   <ItemGroup>
     <MainItem>
       <Key>Beckett</Key>
@@ -147,14 +147,14 @@
       </Key>
       <Title>Lieut.</Title>
       <Forenames>E. F.</Forenames>
+      <Text>(temporary Capt.)</Text>
+      <PageNumber>8611</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>8611</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Bessel</Key>
+      <Text>, M, (temporary Lieut.)</Text>
       <PageNumber>8735</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -202,15 +202,17 @@
     <MainItem>
       <Key>Bingham</Key>
       <Forenames>Samuel</Forenames>
+      <Text>(temporary Capt.*</Text>
+      <PageNumber>8040</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>8040</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
-      <Key>Birch</Key>
-      <KeyDitto>___ ___ ___ ___</KeyDitto>
+      <Key>
+        <KeyDitto>___ ___ ___ ___</KeyDitto>
+      </Key>
+      <Forenames>L. H. P.</Forenames>
+      <Text>(temporary</Text>
       <PageNumber>9019</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -399,8 +401,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bourne</Key>
-      <Forenames>Arthur E.</Forenames>
-      <Text>H: S. (temporary Lieut.)</Text>
+      <Forenames>Arthur E. H</Forenames>
+      <Text>: S. (temporary Lieut.)</Text>
       <PageNumber>10279</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -544,7 +546,7 @@
         <KeyDitto>___ ___ .—.</KeyDitto>
       </Key>
       <Forenames>Leslie K. V.</Forenames>
-      <Text>(temporary Oapt.)</Text>
+      <Text>(temporary Capt.)</Text>
       <PageNumber>8238</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -554,19 +556,20 @@
         <KeyDitto>— ___ ___ ___ ___ ___ .</KeyDitto>
       </Key>
       <Forenames>Marshall Curtis</Forenames>
+      <Text>(temporary 2nd Lieut.)</Text>
+      <PageNumber>11124</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <Text>
-    <PageNumber>11124</PageNumber>
     <SubItem>
+      <Text>Correction</Text>
       <PageNumber>11204</PageNumber>
     </SubItem>
-  </Text>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
+      <Text>0. H. (temporary 2nd Lieut.)</Text>
       <PageNumber>8638</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -576,7 +579,7 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>W. Ward</Forenames>
-      <Text>(temporary Capt.</Text>
+      <Text>(temporary Capt</Text>
       <PageNumber>8134</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -624,14 +627,14 @@
         <KeyDitto>___</KeyDitto>
       </Key>
       <Forenames>E. M.</Forenames>
+      <Text>(temporary Capt.)</Text>
+      <PageNumber>8134</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>8134</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Bruce</Key>
+      <Text>, (temporary) Lieut. E. E. (correction)</Text>
       <PageNumber>8252</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -663,14 +666,14 @@
     <MainItem>
       <Key>Buckley</Key>
       <Forenames>G. A. N.</Forenames>
+      <Text>(temporary Capt.) .-</Text>
+      <PageNumber>8734</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>8734</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Burdekin</Key>
+      <Text>, (temporary) Lieut. Geoffrey Erie (relinquishes his commission)</Text>
       <PageNumber>10773</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -695,22 +698,25 @@
     <MainItem>
       <Key>Burne</Key>
       <Forenames>A. N. L.</Forenames>
+      <Text>(temporary Maj.)</Text>
+      <PageNumber>8854</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>8854</PageNumber>
-    <ItemGroup>
-      <MainItem>
-        <Key>Burr</Key>
-        <PageNumber>8991</PageNumber>
-      </MainItem>
-    </ItemGroup>
-    <MainItem>Burr is Ernest Harry (temporary 2nd Lieut.)... 8134</MainItem>
-  </Text>
   <ItemGroup>
-    <Key>Burr</Key>
-    <PageNumber>8134</PageNumber>
+    <MainItem>
+      <Key>Burr</Key>
+      <Text>,Frederick Godfrey (temporary Capt.)</Text>
+      <PageNumber>8991</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Burr</Key>
+      <Text>is Ernest Harry (temporary 2nd Lieut.)</Text>
+      <PageNumber>8134</PageNumber>
+    </MainItem>
     <SubItem>
+      <Text>Temporary Lieut</Text>
       <PageNumber>8638</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -759,11 +765,11 @@
     <MainItem>
       <Key>Caldwell</Key>
       <Forenames>A. F. S.</Forenames>
-    </MainItem>
-    <Text>
+      <Text>(temporary Capt.)</Text>
       <PageNumber>8882</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Relinquishes his commission</Text>
       <PageNumber>10413</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -771,7 +777,7 @@
     <MainItem>
       <Key>Cameron</Key>
       <Forenames>D. L.</Forenames>
-      <Text>(temporary Oapt.)</Text>
+      <Text>(temporary Capt.)</Text>
       <PageNumber>8764</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -808,23 +814,23 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Title>Lieut.</Title>
+      <Text>Lieut.) ___ ___ Kenneth Gordon (tempo-</Text>
+      <PageNumber>8855</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>8855</PageNumber>
-    <ItemGroup>
-      <MainItem>
-        <Key>
-          <KeyDitto>___ ___</KeyDitto>
-        </Key>
-        <PageNumber>9501</PageNumber>
-      </MainItem>
-    </ItemGroup>
-  </Text>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Text>rary ___ ___ ___ ___ Lieut.) ... cancelled)</Text>
+      <PageNumber>9501</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Canelly</Key>
+      <Text>. T.P. (temporary Capt.)</Text>
       <PageNumber>8734</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -857,11 +863,11 @@
     <MainItem>
       <Key>Carew</Key>
       <Forenames>Halliwell</Forenames>
-    </MainItem>
-    <Text>
+      <Text>(temporary Lieut.) ... ... ... :</Text>
       <PageNumber>11124</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Correction</Text>
       <PageNumber>11204</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -876,8 +882,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Carnegie</Key>
-      <Title>Maj.</Title>
-      <Text>(Hon. Oapt. in Army) the Hon. D. G. (temporary Oapt.)</Text>
+      <Text>, Maj. (Hon. Capt. in Army) the Hon. D. G. (temporary Capt.)</Text>
       <PageNumber>8134</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -992,14 +997,14 @@
     <MainItem>
       <Key>Cheyne</Key>
       <Forenames>Oswald B. M.</Forenames>
+      <Text>(temporary 2nd Lieut, cancelled)</Text>
+      <PageNumber>8846</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>8846</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Ohillingworth</Key>
+      <Text>, JC. (temporary Maj.)</Text>
       <PageNumber>8611</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1166,7 +1171,7 @@
     <MainItem>
       <Key>Cobb</Key>
       <Forenames>Howard Stanley</Forenames>
-      <Text>(temporary Oapt.)</Text>
+      <Text>(temporary Capt.)</Text>
       <PageNumber>9019</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1233,14 +1238,14 @@
     <MainItem>
       <Key>Collyer</Key>
       <Forenames>H. O.</Forenames>
+      <Text>(temporary Lieut.)</Text>
+      <PageNumber>8611</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>8611</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Colson</Key>
+      <Text>, (temporary) Capt. R. J. (antedated)</Text>
       <PageNumber>9003</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1299,7 +1304,7 @@
     <MainItem>
       <Key>Cope</Key>
       <Forenames>Thomas G.</Forenames>
-      <Text>(temporary Oapt.)</Text>
+      <Text>(temporary Capt.)</Text>
       <PageNumber>8134</PageNumber>
     </MainItem>
   </ItemGroup>

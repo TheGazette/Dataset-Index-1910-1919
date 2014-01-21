@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="0025" pageID="https://www.thegazette.co.uk/id/London/index/year/1911/volume/2/page/0025" pagePDF="https://www.thegazette.co.uk/London/index/year/1911/volume/2/page/0025" pageRDF="https://www.thegazette.co.uk/London/index/year/1911/volume/2/page/0025?view=linked-data" type="index" volume="2" year="1911">
+<Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="025" pageID="https://www.thegazette.co.uk/id/London/index/year/1911/volume/2/page/025" pagePDF="https://www.thegazette.co.uk/London/index/year/1911/volume/2/page/025" pageRDF="https://www.thegazette.co.uk/London/index/year/1911/volume/2/page/025?view=linked-data" type="index" volume="2" year="1911">
   <ItemGroup>
     <MainItem>
       <Key>Baynham</Key>
@@ -159,14 +159,14 @@
     <MainItem>
       <Key>MoNeile</Key>
       <Forenames>A. M.</Forenames>
+      <Text>(Capt.)</Text>
+      <PageNumber>3907</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>3907</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Methven</Key>
+      <Text>°2nd Lieut. M. D. (ceases to serve)</Text>
       <PageNumber>4514</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -370,24 +370,16 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Bell</Key>
-      <Forenames>H.</Forenames>
-      <Text>0. (Maj.) ...</Text>
-      <PageNumber>ibid.</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
       <Key>Blake</Key>
       <Forenames>G. H.</Forenames>
+      <Text>(Lieut.)</Text>
+      <PageNumber>4348</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>4348</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Briggs</Key>
+      <Text>0. W. H. (Lieut.)</Text>
       <PageNumber>3823</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -501,16 +493,16 @@
     <MainItem>
       <Key>Johns</Key>
       <Forenames>R. A. P.</Forenames>
+      <Text>(2nd Lieut.)</Text>
+      <PageNumber>3824</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>3824</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
+      <Text>(Lieut.)</Text>
       <PageNumber>4710</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -767,7 +759,7 @@
       <PageNumber>3824</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SectionTitle>Army Medical Service</SectionTitle>
+  <SubSectionTitle>Army Medical Service</SubSectionTitle>
   <ItemGroup>
     <MainItem>
       <Key>Harrisson</Key>
@@ -1050,7 +1042,7 @@
     <MainItem>
       <Key>Henchley</Key>
       <Forenames>A. R.</Forenames>
-      <Text>(Mai.)</Text>
+      <Text>(Maj.)</Text>
       <PageNumber>4513</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1061,7 +1053,7 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>A. B.</Forenames>
-      <Text>(resigned) ...'</Text>
+      <Text>(resigned) ...</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1084,7 +1076,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Howarth</Key>
-      <Title>Mai.</Title>
+      <Title>Maj.</Title>
       <Forenames>W. J.</Forenames>
       <Text>(Sanitary Officer)</Text>
       <PageNumber>3824</PageNumber>
@@ -1247,14 +1239,14 @@
     <MainItem>
       <Key>Porter</Key>
       <Forenames>H.</Forenames>
+      <Text>(Qrmr. and Hon. Lieut.)</Text>
+      <PageNumber>2707</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>2707</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Pritchard</Key>
+      <Text>°W. B. (Maj.)</Text>
       <PageNumber>3824</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1377,9 +1369,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Waterhouse</Key>
-      <Title>Lieut.-Col. and Hen.</Title>
-      <Forenames>Surgeon-</Forenames>
-      <Text>Col. W. D. (resigned)</Text>
+      <Title>Lieut.-Col. and Hen. Surgeon-Col.</Title>
+      <Forenames>W. D.</Forenames>
+      <Text>(resigned)</Text>
       <PageNumber>3824</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1416,31 +1408,13 @@
       <PageNumber>4348</PageNumber>
     </MainItem>
   </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <SectionTitle>
-        <Key>Territorial</Key>
-        <Forenames>Force Nursing Service</Forenames>
-      </SectionTitle>
-      <Text>
-        <SectionTitle>Principal Matron</SectionTitle>
-      </Text>
-      <PageNumber>2809</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Alcock</Key>
-      <Forenames>C.</Forenames>
-    </MainItem>
-  </ItemGroup>
-  <Text>
-    <SectionTitle>Matrons</SectionTitle>
-    <PageNumber>ibid.</PageNumber>
-  </Text>
+  <SectionTitle>Territorial Force Nursing Service</SectionTitle>
+  <SectionTitle>Principal Matron</SectionTitle>
+  <SectionTitle>Matrons</SectionTitle>
   <ItemGroup>
     <MainItem>
       <Key>Acton</Key>
+      <Text>M Holder, I. J. (resigned)</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1452,19 +1426,18 @@
       <PageNumber>___ ___ ___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
+  <SectionTitle>Boyal Morse Artillery</SectionTitle>
   <ItemGroup>
     <MainItem>
-      <Key>Scovell</Key>
-      <Forenames>M.</Forenames>
-      <Text>
-        <SectionTitle>Boyal Morse ArtiUery</SectionTitle>
-      </Text>
+      <Key>Fraser-Mackenzie</Key>
+      <Forenames>E. R. L.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>3821</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>GemmeU</Key>
+      <Key>Gemmell</Key>
       <Forenames>W. A. S.</Forenames>
       <Text>(Capt.)</Text>
       <PageNumber>4709</PageNumber>
@@ -1491,15 +1464,17 @@
     <MainItem>
       <Key>Murray</Key>
       <Forenames>W. A.</Forenames>
+      <Text>(Adit.)</Text>
+      <PageNumber>4345</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>4345</PageNumber>
-  </Text>
+  <SectionTitle>Honourable Artillery Company</SectionTitle>
   <ItemGroup>
     <MainItem>
-      <Key>Phillips</Key>
-      <SectionTitle>Honourable ArtiUery Company</SectionTitle>
+      <Key>Bell</Key>
+      <Title>Qrmr. and Hon. Maj</Title>
+      <Forenames>F. C.</Forenames>
+      <Text>(resigned) ... ?</Text>
       <PageNumber>642</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1591,8 +1566,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bird</Key>
-      <Forenames>W.</Forenames>
-      <Text>L W. (Lieut.)</Text>
+      <Forenames>W. L</Forenames>
+      <Text>W. (Lieut.)</Text>
       <PageNumber>4511</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1673,7 +1648,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Clazey</Key>
-      <Title>Mai.</Title>
+      <Title>Maj.</Title>
       <Forenames>J. O.</Forenames>
       <Text>(resigned)</Text>
       <PageNumber>2705</PageNumber>

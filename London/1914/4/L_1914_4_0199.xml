@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="0199" pageID="https://www.thegazette.co.uk/id/London/index/year/1914/volume/4/page/0199" pagePDF="https://www.thegazette.co.uk/London/index/year/1914/volume/4/page/0199" pageRDF="https://www.thegazette.co.uk/London/index/year/1914/volume/4/page/0199?view=linked-data" type="index" volume="4" year="1914">
+<Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="199" pageID="https://www.thegazette.co.uk/id/London/index/year/1914/volume/4/page/199" pagePDF="https://www.thegazette.co.uk/London/index/year/1914/volume/4/page/199" pageRDF="https://www.thegazette.co.uk/London/index/year/1914/volume/4/page/199?view=linked-data" type="index" volume="4" year="1914">
   <ItemGroup>
     <MainItem>
       <Key>Wallace</Key>
@@ -24,7 +24,7 @@
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SectionTitle>Divisional Train</SectionTitle>
+  <SubSectionTitle>Divisional Train</SubSectionTitle>
   <ItemGroup>
     <MainItem>
       <Key>Blakiston-Houston</Key>
@@ -65,8 +65,8 @@
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SectionTitle>The Royal Irish Rifles</SectionTitle>
-  <SectionTitle>8th Battalion</SectionTitle>
+  <SubSectionTitle>The Royal Irish Rifles</SubSectionTitle>
+  <SubSectionTitle>8th Battalion</SubSectionTitle>
   <ItemGroup>
     <MainItem>
       <Key>Abernethy</Key>
@@ -95,11 +95,11 @@
     <MainItem>
       <Key>Blackwood</Key>
       <Forenames>A. T.</Forenames>
-    </MainItem>
-    <Text>
+      <Text>(temporary 2nd Lieut.)</Text>
       <PageNumber>___ ___</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Temporary Lieut</Text>
       <PageNumber>10431</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -109,11 +109,11 @@
         <KeyDitto>___</KeyDitto>
       </Key>
       <Forenames>T. A.</Forenames>
-    </MainItem>
-    <Text>
+      <Text>(temporary 2nd Lieut.)</Text>
       <PageNumber>8641</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Temporary Lieut</Text>
       <PageNumber>10431</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -121,11 +121,11 @@
     <MainItem>
       <Key>Drean</Key>
       <Forenames>W. C.</Forenames>
-    </MainItem>
-    <Text>
+      <Text>(temporary 2nd Lieut.)</Text>
       <PageNumber>8641</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Temporary Lieut</Text>
       <PageNumber>10431</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -167,11 +167,11 @@
     <MainItem>
       <Key>Henderson</Key>
       <Forenames>J. M.</Forenames>
-    </MainItem>
-    <Text>
+      <Text>(temporary 2nd Lieut.)</Text>
       <PageNumber>8641</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Temporary Capt</Text>
       <PageNumber>10431</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -187,11 +187,11 @@
     <MainItem>
       <Key>Jackson</Key>
       <Forenames>C. A.</Forenames>
-    </MainItem>
-    <Text>
+      <Text>(temporary (2nd Lieut.)</Text>
       <PageNumber>ibid.</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Temporary Lieut</Text>
       <PageNumber>10431</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -207,11 +207,11 @@
     <MainItem>
       <Key>Kennedy</Key>
       <Forenames>E. R.</Forenames>
-    </MainItem>
-    <Text>
+      <Text>(temporary 2nd Lieut.)</Text>
       <PageNumber>8641</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Temporary Capt</Text>
       <PageNumber>10431</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -228,37 +228,47 @@
       <Key>Lyle</Key>
       <Title>Brevet Col.</Title>
       <Forenames>H. T.</Forenames>
+      <Text>, D.S.O. (temporary Lieut.-Col.)</Text>
+      <PageNumber>8640</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>8640</PageNumber>
-    <ItemGroup>
-      <MainItem>
-        <Key>M</Key>
-        <PageNumber>8641</PageNumber>
-      </MainItem>
-    </ItemGroup>
-    <ItemGroup>
-      <MainItem>
-        <Key>M</Key>
-        <PageNumber>10672</PageNumber>
-      </MainItem>
-    </ItemGroup>
-    <ItemGroup>
-      <MainItem>
-        <Key>M</Key>
-        <PageNumber>8641</PageNumber>
-      </MainItem>
-      <SubItem>
-        <PageNumber>10431</PageNumber>
-      </SubItem>
-    </ItemGroup>
-    <MainItem>M'Coll, G. E. (temporary 2nd Lieut.) 8641</MainItem>
-  </Text>
   <ItemGroup>
-    <Key>M</Key>
-    <PageNumber>8641</PageNumber>
+    <MainItem>
+      <Key>MAlery</Key>
+      <Forenames>J. M.</Forenames>
+      <Text>(temporary 2nd Lieut.)</Text>
+      <PageNumber>8641</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>MCallum</Key>
+      <Forenames>J. D. M.</Forenames>
+      <Text>(temporary Capt. and Adjt.)</Text>
+      <PageNumber>10672</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>MClughan</Key>
+      <Forenames>J. C.</Forenames>
+      <Text>(temporary 2nd Lieut.)</Text>
+      <PageNumber>8641</PageNumber>
+    </MainItem>
     <SubItem>
+      <Text>Temporary Lieut</Text>
+      <PageNumber>10431</PageNumber>
+    </SubItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>MColl</Key>
+      <Forenames>G. E.</Forenames>
+      <Text>(temporary 2nd Lieut.)</Text>
+      <PageNumber>8641</PageNumber>
+    </MainItem>
+    <SubItem>
+      <Text>Temporary Capt</Text>
       <PageNumber>10431</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -290,11 +300,11 @@
     <MainItem>
       <Key>Moore</Key>
       <Forenames>A. M.</Forenames>
-    </MainItem>
-    <Text>
+      <Text>(temporary 2nd Lieut.)</Text>
       <PageNumber>8641</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Temporary Lieut</Text>
       <PageNumber>10431</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -310,17 +320,18 @@
     <MainItem>
       <Key>Nicholl</Key>
       <Forenames>J. D.</Forenames>
+      <Text>(temporary 2nd Lieut.)</Text>
+      <PageNumber>8641</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <Text>
-    <PageNumber>8641</PageNumber>
     <SubItem>
+      <Text>Temporary Capt</Text>
       <PageNumber>10431</PageNumber>
     </SubItem>
-  </Text>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>O</Key>
+      <Text>'Neill, J. C. (temporary Lieut.)</Text>
       <PageNumber>10672</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -340,7 +351,7 @@
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SectionTitle>Qth Battalion</SectionTitle>
+  <SubSectionTitle>Qth Battalion</SubSectionTitle>
   <ItemGroup>
     <MainItem>
       <Key>Annandale</Key>
@@ -401,11 +412,11 @@
     <MainItem>
       <Key>Garnkin</Key>
       <Forenames>G. H.</Forenames>
-    </MainItem>
-    <Text>
+      <Text>(temporary 2nd Lieut.)</Text>
       <PageNumber>___ ___</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Temporary Capt</Text>
       <PageNumber>10431</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -431,11 +442,11 @@
     <MainItem>
       <Key>Jamison</Key>
       <Forenames>J. C.</Forenames>
-    </MainItem>
-    <Text>
+      <Text>(temporary 2nd Lieut.)</Text>
       <PageNumber>ibid.</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Temporary Lieut</Text>
       <PageNumber>10431</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -451,19 +462,23 @@
     <MainItem>
       <Key>Lindsay</Key>
       <Forenames>D. C.</Forenames>
+      <Text>(temporary 2nd Lieut.)</Text>
+      <PageNumber>ibid.</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <Text>
-    <PageNumber>ibid.</PageNumber>
     <SubItem>
+      <Text>Temporary Capt</Text>
       <PageNumber>10431</PageNumber>
     </SubItem>
-    <MainItem>M'Connell, J. D. (temporary 2nd Lieut.) 8641</MainItem>
-  </Text>
+  </ItemGroup>
   <ItemGroup>
-    <Key>M</Key>
-    <PageNumber>8641</PageNumber>
+    <MainItem>
+      <Key>MConnell</Key>
+      <Forenames>J. D.</Forenames>
+      <Text>(temporary 2nd Lieut.)</Text>
+      <PageNumber>8641</PageNumber>
+    </MainItem>
     <SubItem>
+      <Text>Temporary Lieut</Text>
       <PageNumber>10431</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -522,11 +537,11 @@
     <MainItem>
       <Key>Sinclair</Key>
       <Forenames>J. M.</Forenames>
-    </MainItem>
-    <Text>
+      <Text>(temporary 2nd Lieut.)</Text>
       <PageNumber>ibid.</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Temporary Lieut</Text>
       <PageNumber>10431</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -534,11 +549,11 @@
     <MainItem>
       <Key>Smiles</Key>
       <Forenames>W. A.</Forenames>
-    </MainItem>
-    <Text>
+      <Text>(temporary 2nd Lieut.)</Text>
       <PageNumber>8641</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Temporary Lieut</Text>
       <PageNumber>10431</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -568,7 +583,7 @@
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SectionTitle>10th Battalion</SectionTitle>
+  <SubSectionTitle>10th Battalion</SubSectionTitle>
   <ItemGroup>
     <MainItem>
       <Key>Addison</Key>
@@ -587,12 +602,12 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Bernard</Key>
-      <Title>Col.</Title>
-      <Forenames>H. C.</Forenames>
-      <Text>
+      <Key>
         <KeyDitto>___ ___</KeyDitto>
-      </Text>
+      </Key>
+      <Title>Brevet Lieut.-Col.</Title>
+      <Forenames>J.</Forenames>
+      <Text>(temporary Maj., second in command)</Text>
       <PageNumber>10672</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -600,14 +615,14 @@
     <MainItem>
       <Key>Colling</Key>
       <Forenames>A.</Forenames>
+      <Text>(temporary 2nd Lieut.)</Text>
+      <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>ibid.</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Forbes</Key>
+      <Text>, M, (temporary 2nd Lieut.)</Text>
       <PageNumber>8641</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -647,23 +662,27 @@
     <MainItem>
       <Key>Langtry</Key>
       <Forenames>W. R.</Forenames>
+      <Text>(temporary 2nd Lieut.)</Text>
+      <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>ibid.</PageNumber>
-    <ItemGroup>
-      <MainItem>
-        <Key>M</Key>
-        <PageNumber>8641</PageNumber>
-      </MainItem>
-      <SubItem>
-        <PageNumber>10431</PageNumber>
-      </SubItem>
-    </ItemGroup>
-  </Text>
   <ItemGroup>
     <MainItem>
-      <Key>M</Key>
+      <Key>MClinton</Key>
+      <Forenames>F. H.</Forenames>
+      <Text>(temporary 2nd Lieut.)</Text>
+      <PageNumber>8641</PageNumber>
+    </MainItem>
+    <SubItem>
+      <Text>Temporary Lieut</Text>
+      <PageNumber>10431</PageNumber>
+    </SubItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>MCready</Key>
+      <Forenames>W.</Forenames>
+      <Text>(temporary Lieut.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -671,16 +690,19 @@
     <MainItem>
       <Key>McKinney</Key>
       <Forenames>T. E.</Forenames>
+      <Text>(temporary 2nd Lieut.)</Text>
+      <PageNumber>10672</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>10672</PageNumber>
-    <MainItem>M'Laurin, R. (temporary 2nd Lieut.) 8641</MainItem>
-  </Text>
   <ItemGroup>
-    <Key>M</Key>
-    <PageNumber>8641</PageNumber>
+    <MainItem>
+      <Key>MLaurin</Key>
+      <Forenames>R.</Forenames>
+      <Text>(temporary 2nd Lieut.)</Text>
+      <PageNumber>8641</PageNumber>
+    </MainItem>
     <SubItem>
+      <Text>Temporary Lieut</Text>
       <PageNumber>10431</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -704,11 +726,11 @@
     <MainItem>
       <Key>Oswald</Key>
       <Forenames>W. H.</Forenames>
-    </MainItem>
-    <Text>
+      <Text>(temporary 2nd Lieut.)</Text>
       <PageNumber>8641</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Temporary Lieut</Text>
       <PageNumber>10431</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -717,7 +739,7 @@
       <Key>Sheil</Key>
       <Title>Adjt.</Title>
       <Forenames>J. F. A.</Forenames>
-      <Text>(temporary capt.) ... ... ... .:.</Text>
+      <Text>(temporary capt.) ... ... ... .:</Text>
       <PageNumber>8641</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -733,11 +755,11 @@
     <MainItem>
       <Key>Stewart</Key>
       <Forenames>A. L.</Forenames>
-    </MainItem>
-    <Text>
+      <Text>(temporary 2nd Lieut.)</Text>
       <PageNumber>8641</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Temporary Lieut</Text>
       <PageNumber>10431</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -785,7 +807,7 @@
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SectionTitle>11th Battalion</SectionTitle>
+  <SubSectionTitle>17th Battalion</SubSectionTitle>
   <ItemGroup>
     <MainItem>
       <Key>Brown</Key>
@@ -864,14 +886,15 @@
     <MainItem>
       <Key>Jenkins</Key>
       <Forenames>A. P.</Forenames>
+      <Text>(temporary Capt.)</Text>
+      <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>___ ___</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
-      <Key>M</Key>
+      <Key>MNeill</Key>
+      <Forenames>S. A.</Forenames>
+      <Text>(temporary 2nd Lieut.)</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -912,8 +935,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pakenham</Key>
-      <Title>Capt.</Title>
-      <Text>(Hon. Maj.) H. A. (temporary Lieut.-Col.)</Text>
+      <Text>, Capt. (Hon. Maj.) H. A. (temporary Lieut.-Col.)</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -961,16 +983,16 @@
     <MainItem>
       <Key>Webb</Key>
       <Forenames>F. R.</Forenames>
+      <Text>(temporary 2nd Lieut.)</Text>
+      <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>___ ___</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
+      <Text>0. B. (temporary Lieut.)</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -990,7 +1012,7 @@
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SectionTitle>12th Battalion</SectionTitle>
+  <SubSectionTitle>12th Battalion</SubSectionTitle>
   <ItemGroup>
     <MainItem>
       <Key>Adamson</Key>
@@ -1051,7 +1073,15 @@
     <MainItem>
       <Key>Haughton</Key>
       <Forenames>T. G.</Forenames>
-      <Text>(temporary 2nd Lieut.) ___ Jenks, J. E. (temporary Lieut.) ...</Text>
+      <Text>(temporary 2nd Lieut.)</Text>
+      <PageNumber>___</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Jenks</Key>
+      <Forenames>J. E.</Forenames>
+      <Text>(temporary Lieut.) ...</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1083,26 +1113,32 @@
     <MainItem>
       <Key>Lyle</Key>
       <Forenames>S. J.</Forenames>
+      <Text>(temporary Capt.)</Text>
+      <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>ibid.</PageNumber>
-    <ItemGroup>
-      <MainItem>
-        <Key>M</Key>
-        <PageNumber>___ ___ ___</PageNumber>
-      </MainItem>
-    </ItemGroup>
-    <ItemGroup>
-      <MainItem>
-        <Key>M</Key>
-        <PageNumber>___ ___</PageNumber>
-      </MainItem>
-    </ItemGroup>
-  </Text>
   <ItemGroup>
     <MainItem>
-      <Key>M</Key>
+      <Key>MBride</Key>
+      <Forenames>A. K.</Forenames>
+      <Text>(temporary Lieut.)</Text>
+      <PageNumber>___ ___ ___</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>MCalmont</Key>
+      <Title>Maj.</Title>
+      <Forenames>R. C. A.</Forenames>
+      <Text>(temporary Lieut.-Col.)</Text>
+      <PageNumber>___ ___</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>MCluggage</Key>
+      <Forenames>W.</Forenames>
+      <Text>(temporary 2nd Lieut.)</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1126,14 +1162,14 @@
     <MainItem>
       <Key>Murray</Key>
       <Forenames>C. S.</Forenames>
+      <Text>(temporary Capt.)</Text>
+      <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>___ ___</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>O</Key>
+      <Text>'Neill, Adjt. The Hon. R. W. H. (temporary Capt.)</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>

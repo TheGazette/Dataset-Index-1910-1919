@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="0256" pageID="https://www.thegazette.co.uk/id/London/index/year/1915/volume/2/page/0256" pagePDF="https://www.thegazette.co.uk/London/index/year/1915/volume/2/page/0256" pageRDF="https://www.thegazette.co.uk/London/index/year/1915/volume/2/page/0256?view=linked-data" type="index" volume="2" year="1915">
+<Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="256" pageID="https://www.thegazette.co.uk/id/London/index/year/1915/volume/2/page/256" pagePDF="https://www.thegazette.co.uk/London/index/year/1915/volume/2/page/256" pageRDF="https://www.thegazette.co.uk/London/index/year/1915/volume/2/page/256?view=linked-data" type="index" volume="2" year="1915">
   <ItemGroup>
     <MainItem>
       <Key>Preedy</Key>
@@ -63,8 +63,8 @@
     <MainItem>
       <Key>Templer</Key>
       <Title>2nd Lieut.</Title>
-      <Forenames>Harold</Forenames>
-      <Text>E, (temporary Lieut.)</Text>
+      <Forenames>Harold E</Forenames>
+      <Text>, (temporary Lieut.)</Text>
       <PageNumber>6261</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -72,11 +72,11 @@
     <MainItem>
       <Key>Vink</Key>
       <Forenames>Arthur Cecil</Forenames>
-    </MainItem>
-    <Text>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>5373</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Temporary Lieut.</Text>
       <PageNumber>5374</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -113,14 +113,14 @@
       <PageNumber>5766</PageNumber>
     </MainItem>
   </ItemGroup>
+  <SectionTitle>The Duke of Edinburgh's (Wiltshire Regiment)</SectionTitle>
+  <SectionTitle>4th Battalion</SectionTitle>
   <ItemGroup>
     <MainItem>
-      <Key>The</Key>
-      <Title>Duke</Title>
-      <Text>
-        <SectionTitle>shire Regiment')</SectionTitle>
-        <SubSectionTitle>4th Battalion</SubSectionTitle>
-      </Text>
+      <Key>Awdry</Key>
+      <Title>Lieut.</Title>
+      <Forenames>Neville J.</Forenames>
+      <Text>(temporary Capt.)</Text>
       <PageNumber>6032</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -136,11 +136,11 @@
     <MainItem>
       <Key>Buckby</Key>
       <Forenames>Richard C. Maynard</Forenames>
-    </MainItem>
-    <Text>
+      <Text>(2nd -Lieut.)</Text>
       <PageNumber>5624</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Correction</Text>
       <PageNumber>6250</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -172,7 +172,7 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>HaTris</Key>
+      <Key>Harris</Key>
       <Title>2nd Lieut.</Title>
       <Forenames>Reginald T.</Forenames>
       <Text>(temporary Lieut.)</Text>
@@ -193,11 +193,11 @@
       <Key>Herries-Crosbie</Key>
       <Title>Maj.</Title>
       <Forenames>Charles H.</Forenames>
-    </MainItem>
-    <Text>
+      <Text>(correction)</Text>
       <PageNumber>3559</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Date of appointment</Text>
       <PageNumber>5221</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -230,11 +230,11 @@
     <MainItem>
       <Key>Hussey</Key>
       <Forenames>Arthur Ernest</Forenames>
-    </MainItem>
-    <Text>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>4886</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Temporary Lieut.</Text>
       <PageNumber>4886</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -251,11 +251,11 @@
     <MainItem>
       <Key>Little</Key>
       <Forenames>Charles H.</Forenames>
-    </MainItem>
-    <Text>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>4044</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Temporary Capt.</Text>
       <PageNumber>5117</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -298,18 +298,20 @@
       <Key>Wyld</Key>
       <Title>2nd Lieut.</Title>
       <Forenames>Eric J. M.</Forenames>
+      <Text>(temporary Lieut.)</Text>
+      <PageNumber>3940</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>3940</PageNumber>
-    <SectionTitle>The Manchester Regiment</SectionTitle>
-    <SectionTitle>5th Battalion</SectionTitle>
-    <MainItem>Ratcliffe-Ellis,Capt. Arthur (temporary Maj.) 3424</MainItem>
-  </Text>
+  <SectionTitle>The Manchester Regiment</SectionTitle>
+  <SectionTitle>5th Battalion</SectionTitle>
   <ItemGroup>
-    <Key>Ratcliffe-Ellis</Key>
-    <PageNumber>3424</PageNumber>
+    <MainItem>
+      <Key>Ratcliffe-Ellis</Key>
+      <Text>Capt. Arthur (temporary Maj.)</Text>
+      <PageNumber>3424</PageNumber>
+    </MainItem>
     <SubItem>
+      <Text>Correction of date</Text>
       <PageNumber>4281</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -331,7 +333,7 @@
       <PageNumber>3956</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubSectionTitle>6th Battalion</SubSectionTitle>
+  <SectionTitle>6th Battalion</SectionTitle>
   <ItemGroup>
     <MainItem>
       <Key>Arkinstall</Key>
@@ -384,8 +386,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lee</Key>
-      <Title>Col.</Title>
-      <Text>, (temporary) BrigadierGen. Noel (Hon. Colonelcy of the Battalion)</Text>
+      <Text>Col., (temporary) BrigadierGen. Noel (Hon. Colonelcy of the Battalion)</Text>
       <PageNumber>3559</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -434,14 +435,14 @@
     <MainItem>
       <Key>Steele</Key>
       <Forenames>Eric</Forenames>
+      <Text>(2nd Lieut.)</Text>
+      <PageNumber>3731</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>3731</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Thorburn</Key>
+      <Text>2nd Lieut, (temporary) Lieut. Edward F. (relinquishes temporary rank of Lieut, on alteration of posting)</Text>
       <PageNumber>5858</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -453,16 +454,16 @@
       <PageNumber>3425</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubSectionTitle>1th Battalion</SubSectionTitle>
+  <SectionTitle>7th Battalion</SectionTitle>
   <ItemGroup>
     <MainItem>
       <Key>Adamson</Key>
       <Forenames>William</Forenames>
-    </MainItem>
-    <Text>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>4770</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Temporary Lieut.</Text>
       <PageNumber>4770</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -531,14 +532,14 @@
     <MainItem>
       <Key>Harris</Key>
       <Forenames>Leslie Gordon</Forenames>
+      <Text>(2nd Lieut.)</Text>
+      <PageNumber>3572</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>3572</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Heathcote</Key>
+      <Text>Hacker, Ronald N. Grappenhall (2nd Lieut.)</Text>
       <PageNumber>4886</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -571,20 +572,22 @@
     <MainItem>
       <Key>Scholfield</Key>
       <Forenames>John Arthur</Forenames>
+      <Text>(2nd Lieut.)</Text>
+      <PageNumber>3940</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>3940</PageNumber>
-    <MainItem>Williamson,Lieut. Charles H. (temporary Capi., cancelled) 3442</MainItem>
-  </Text>
   <ItemGroup>
-    <Key>Williamson</Key>
-    <PageNumber>3442</PageNumber>
+    <MainItem>
+      <Key>Williamson</Key>
+      <Text>Lieut. Charles H. (temporary Capi., cancelled)</Text>
+      <PageNumber>3442</PageNumber>
+    </MainItem>
     <SubItem>
+      <Text>Capt</Text>
       <PageNumber>3442</PageNumber>
     </SubItem>
   </ItemGroup>
-  <SubSectionTitle>8th Battalion</SubSectionTitle>
+  <SectionTitle>8th Battalion</SectionTitle>
   <ItemGroup>
     <MainItem>
       <Key>Ackroyd</Key>
@@ -762,14 +765,22 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>Leach</Key>
+      <Forenames>Fred</Forenames>
+      <Text>(2nd Lieut.)</Text>
+      <PageNumber>3705</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>McDougall</Key>
       <Title>2nd Lieut.</Title>
       <Forenames>George</Forenames>
-    </MainItem>
-    <Text>
+      <Text>(correction of date)</Text>
       <PageNumber>5766</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Temporary Lieut</Text>
       <PageNumber>5374</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -870,12 +881,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Yeld</Key>
-      <Title>2nd Lieut.</Title>
-      <Text>(temporary Lieut.) Roy B. (relinquishes temporary rank of Lieut, on alteration in posting)</Text>
+      <Text>2nd Lieut. (temporary Lieut.) Roy B. (relinquishes temporary rank of Lieut, on alteration in posting)</Text>
       <PageNumber>5322</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubSectionTitle>9th Battalion</SubSectionTitle>
+  <SectionTitle>9th Battalion</SectionTitle>
   <ItemGroup>
     <MainItem>
       <Key>Ainsworth</Key>
@@ -978,14 +988,14 @@
     <MainItem>
       <Key>Hayward</Key>
       <Forenames>George Eyes</Forenames>
+      <Text>(2nd Lieut.)</Text>
+      <PageNumber>5624</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>5624</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Haywood</Key>
+      <Text>Thomas Colin (2nd Lieut.)</Text>
       <PageNumber>3572</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1017,11 +1027,11 @@
     <MainItem>
       <Key>Smith</Key>
       <Forenames>Edmund Nail</Forenames>
-    </MainItem>
-    <Text>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>3813</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Correction</Text>
       <PageNumber>4281</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1033,7 +1043,7 @@
       <PageNumber>4155</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubSectionTitle>10th Battalion</SubSectionTitle>
+  <SectionTitle>10th Battalion</SectionTitle>
   <ItemGroup>
     <MainItem>
       <Key>Abbott</Key>
@@ -1063,11 +1073,11 @@
       <Key>Burrows</Key>
       <Title>2nd Lieut.</Title>
       <Forenames>Arthur C.</Forenames>
-    </MainItem>
-    <Text>
+      <Text>. (cancellation cancelled)</Text>
       <PageNumber>4786</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Correction of date</Text>
       <PageNumber>4786</PageNumber>
     </SubItem>
   </ItemGroup>

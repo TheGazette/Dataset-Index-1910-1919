@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="0758" pageID="https://www.thegazette.co.uk/id/London/index/year/1919/volume/1/page/0758" pagePDF="https://www.thegazette.co.uk/London/index/year/1919/volume/1/page/0758" pageRDF="https://www.thegazette.co.uk/London/index/year/1919/volume/1/page/0758?view=linked-data" type="index" volume="1" year="1919">
+<Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="758" pageID="https://www.thegazette.co.uk/id/London/index/year/1919/volume/1/page/758" pagePDF="https://www.thegazette.co.uk/London/index/year/1919/volume/1/page/758" pageRDF="https://www.thegazette.co.uk/London/index/year/1919/volume/1/page/758?view=linked-data" type="index" volume="1" year="1919">
   <ItemGroup>
     <MainItem>
       <Key>Carter</Key>
-      <Title>Lt.</Title>
-      <Text>(actg. Capt.) E. A. B. (rel. commn. on ace. of ill-health contracted on active service)</Text>
+      <Forenames>Lt</Forenames>
+      <Text>. (actg. Capt.) E. A. B. (rel. commn. on ace. of ill-health contracted on active service)</Text>
       <PageNumber>1269</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -26,31 +26,34 @@
       </Key>
       <Title>Fit. Cadet</Title>
       <Forenames>J.</Forenames>
+      <Text>(temp. 2nd Lt., A.)</Text>
+      <PageNumber>2273</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>2273</PageNumber>
-    <ItemGroup>
-      <MainItem>
-        <Key>
-          <KeyDitto>___ ___ ___</KeyDitto>
-        </Key>
-        <PageNumber>1536</PageNumber>
-      </MainItem>
-      <SubItem>
-        <PageNumber>3154</PageNumber>
-      </SubItem>
-      <KeyDitto>___ ___</KeyDitto>
-      <SubItem>
-        <PageNumber>3296</PageNumber>
-      </SubItem>
-    </ItemGroup>
-  </Text>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___</KeyDitto>
+      </Key>
+      <Text>2nd Lt, (Ad.) (actg. Lt.) L. E. (retains actg. rank while Lt., Tech.)</Text>
+      <PageNumber>1536</PageNumber>
+    </MainItem>
+    <SubItem>
+      <Text>Lt., and retains actg. rank of Capt</Text>
+      <PageNumber>3154</PageNumber>
+    </SubItem>
+    <KeyDitto>___ ___</KeyDitto>
+    <SubItem>
+      <Text>Trd. to Unempld. List</Text>
+      <PageNumber>3296</PageNumber>
+    </SubItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
+      <Text>2nd Lt. T. H. (trd. to Unempld. List)</Text>
       <PageNumber>2160</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -70,30 +73,30 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Title>Lt.</Title>
+      <Forenames>Lt</Forenames>
+      <Text>. (actg. Capt.) W. C. (trd. to Unempld. List)</Text>
+      <PageNumber>2861</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>2861</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Carter-Cherrv</Key>
+      <Text>, 2nd Lt. J. L. (trd. to Unempld. Lst)</Text>
       <PageNumber>2435</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Carthew</Key>
-      <Title>Lt.</Title>
+      <Forenames>Lt</Forenames>
+      <Text>.-Col. T. W. C, D.S.O. (trd to Unempld. List)</Text>
+      <PageNumber>1267</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>1267</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Cartman</Key>
+      <Text>, 2nd Lt.. F. G. (trd. to Unempld. List)</Text>
       <PageNumber>4039</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -102,24 +105,25 @@
       <Key>Cartwright</Key>
       <Title>Lt.</Title>
       <Forenames>H.</Forenames>
+      <Text>(trd. to Unempld. List)</Text>
+      <PageNumber>4038</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>4038</PageNumber>
-    <ItemGroup>
-      <MainItem>
-        <Key>
-          <KeyDitto>___ ___ ___ ___</KeyDitto>
-        </Key>
-        <PageNumber>2742</PageNumber>
-      </MainItem>
-    </ItemGroup>
-  </Text>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___ ___</KeyDitto>
+      </Key>
+      <Text>2nd Lt. Jack, (trd to Unempld. List)</Text>
+      <PageNumber>2742</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
+      <Text>2nd Lt. (A.) L. G. (2nd Lt., Adm.)</Text>
       <PageNumber>1802</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -150,21 +154,13 @@
       <PageNumber>4035</PageNumber>
     </MainItem>
   </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___</KeyDitto>
-      </Key>
-      <Title>Lt.</Title>
-      <Text>0. C. (trd. to Unempld. List)</Text>
-      <PageNumber>3237</PageNumber>
-    </MainItem>
-  </ItemGroup>
+  <KeyDitto>___</KeyDitto>
   <ItemGroup>
     <MainItem>
       <Key>Cassidy</Key>
-      <Title>Offr. Cand.</Title>
-      <Text>, Miss G. F. (temp. Asst. Admr., W.R.A.F.)</Text>
+      <Title>Offr.</Title>
+      <Forenames>Cand</Forenames>
+      <Text>., Miss G. F. (temp. Asst. Admr., W.R.A.F.)</Text>
       <PageNumber>2867</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -173,26 +169,28 @@
       <Key>Casson</Key>
       <Title>Lt.</Title>
       <Forenames>W.</Forenames>
+      <Text>(trd. to Unempld. List)</Text>
+      <PageNumber>3296</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>3296</PageNumber>
-    <ItemGroup>
-      <MainItem>
-        <Key>Castaldini</Key>
-        <PageNumber>1269</PageNumber>
-      </MainItem>
-    </ItemGroup>
-    <ItemGroup>
-      <MainItem>
-        <Key>Casting</Key>
-        <PageNumber>3298</PageNumber>
-      </MainItem>
-    </ItemGroup>
-  </Text>
+  <ItemGroup>
+    <MainItem>
+      <Key>Castaldini</Key>
+      <Text>, 2nd Lt, (O.) H. A. (actg. . Lt., Tech.)</Text>
+      <PageNumber>1269</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Casting</Key>
+      <Text>, 2ndLt. W. R. (actg. Lt., Admin.)</Text>
+      <PageNumber>3298</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Castle</Key>
+      <Text>, 2nd Lt. J. C. (trd. to Unempld. List)</Text>
       <PageNumber>3020</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -203,22 +201,22 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>R. P.</Forenames>
+      <Text>(trd. to Unempld. List)</Text>
+      <PageNumber>3155</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>3155</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Castle-Smith</Key>
+      <Text>, 2nd Lt. S. (rel. commn. on acc. of ill-health contracted on active service and to retain rank) .. '</Text>
       <PageNumber>366</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Caswell</Key>
-      <Title>Lt.</Title>
-      <Text>(A.) B. H. (Lt., Adm.)</Text>
+      <Forenames>Lt</Forenames>
+      <Text>. (A.) B. H. (Lt., Adm.)</Text>
       <PageNumber>2741</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -236,8 +234,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Catchpole</Key>
-      <Title>Lt.</Title>
-      <Text>(A./Capt.) B. E., M.C., D.F.O. (Capt.)</Text>
+      <Forenames>Lt</Forenames>
+      <Text>. (A./Capt.) B. E., M.C., D.F.O. (Capt.)</Text>
       <PageNumber>95</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -246,29 +244,29 @@
       <Key>Cate</Key>
       <Title>Lt.</Title>
       <Forenames>E.</Forenames>
+      <Text>(rel. commn. on ceasing to be empld.)</Text>
+      <PageNumber>1075</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>1075</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Caton</Key>
+      <Text>, 2nd Lt. E. P. (trd. to Unempld. List)</Text>
       <PageNumber>0152</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Cattanach</Key>
-      <Title>Lt.</Title>
+      <Forenames>Lt</Forenames>
+      <Text>. (A.) A. (Lt., Adm.)</Text>
+      <PageNumber>2620</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>2620</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Cattell</Key>
+      <Text>. Lt. W. S. (trd. tp Unempld. List)</Text>
       <PageNumber>3483</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -277,16 +275,16 @@
       <Key>Catterall</Key>
       <Title>Lt.</Title>
       <Forenames>F.</Forenames>
+      <Text>(trd. to Unempld. List)</Text>
+      <PageNumber>2740</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>2740</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
+      <Text>2nd Lt. (A. &amp; S.) F. L. (2nd Lt. Adm.)</Text>
       <PageNumber>3021</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -295,39 +293,43 @@
       <Key>Caukwell</Key>
       <Title>Fit. Cadet</Title>
       <Forenames>R. F. B.</Forenames>
+      <Text>(temp. 2nd Lt., A.)</Text>
+      <PageNumber>2273</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <Text>
-    <PageNumber>2273</PageNumber>
     <SubItem>
+      <Text>Trd. to Unempld. List</Text>
       <PageNumber>3889</PageNumber>
     </SubItem>
-    <ItemGroup>
-      <MainItem>
-        <Key>Caunt</Key>
-        <PageNumber>2861</PageNumber>
-      </MainItem>
-    </ItemGroup>
-    <ItemGroup>
-      <MainItem>
-        <Key>Cave</Key>
-        <PageNumber>3150</PageNumber>
-      </MainItem>
-    </ItemGroup>
-    <ItemGroup>
-      <MainItem>
-        <Key>
-          <KeyDitto>___ ___ ___</KeyDitto>
-        </Key>
-        <PageNumber>204</PageNumber>
-      </MainItem>
-    </ItemGroup>
-  </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Caunt</Key>
+      <Text>. Lt. H. V. (trd. to Unempld. List) '</Text>
+      <PageNumber>2861</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Cave</Key>
+      <Text>, 2nd Lt. J. (Lt.)</Text>
+      <PageNumber>3150</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___</KeyDitto>
+      </Key>
+      <Text>2nd Lt. L. C. H. (Lt., without pay and allces)</Text>
+      <PageNumber>204</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>
         <KeyDitto>___ — ___ ___</KeyDitto>
       </Key>
+      <Text>2nd Lt. S. B. (Lt., without pay and allces)</Text>
       <PageNumber>206</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -336,30 +338,32 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Title>Lt.</Title>
+      <Forenames>Lt</Forenames>
+      <Text>. (O.) T. W., M..C. (Lt., Gr. B.)</Text>
+      <PageNumber>3637</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <Text>
-    <PageNumber>3637</PageNumber>
     <SubItem>
+      <Text>Trd. to Unempld. List</Text>
       <PageNumber>2622</PageNumber>
     </SubItem>
-  </Text>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Cawthia</Key>
+      <Text>, 2nd Lt. (actg. Lt.) A. M. (trd. to Unempld. List)</Text>
       <PageNumber>1536</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Cayley</Key>
-      <Forenames>Oft</Forenames>
-    </MainItem>
-    <Text>
+      <Title>Oftr.</Title>
+      <Forenames>Cand</Forenames>
+      <Text>., Miss O. (temp. Asst. Admr., W.R.A.F.)</Text>
       <PageNumber>2866</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Temp. Dep. Admr</Text>
       <PageNumber>2869</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -368,38 +372,39 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Title>Lt.</Title>
+      <Forenames>Lt</Forenames>
+      <Text>. (aotg. Capt.) P. J. (trd. to Unempld. List from S.O.)</Text>
+      <PageNumber>3892</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>3892</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Cazabon</Key>
+      <Text>, 2nd Lt. A. G. A. (Lt., without pay and allces.)</Text>
       <PageNumber>205</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Cecil-Jones</Key>
-      <Title>Offr. Oand.</Title>
+      <Title>Offr.</Title>
+      <Forenames>Oand</Forenames>
+      <Text>., Mrs. A. F. (temp. Asst. Admr., W.R.A.F.)</Text>
+      <PageNumber>2868</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>2868</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Chadderton</Key>
+      <Text>, 2nd Lt. R. E. (Lt., without pay and allces.)</Text>
       <PageNumber>203</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Chadwick</Key>
-      <Title>It.</Title>
-      <Text>(A.) A. W. (Lt., Adm.)</Text>
+      <Forenames>It</Forenames>
+      <Text>. (A.) A. W. (Lt., Adm.)</Text>
       <PageNumber>1802</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -408,8 +413,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Title>Lt.</Title>
-      <Text>(aotg. Capt,) F. N. (trd. to Unempld. List)</Text>
+      <Forenames>Lt</Forenames>
+      <Text>. (aotg. Capt,) F. N. (trd. to Unempld. List)</Text>
       <PageNumber>3757</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -420,24 +425,25 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>G. K.</Forenames>
+      <Text>(trd. to Unempld. List)</Text>
+      <PageNumber>3635</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>3635</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
+      <Text>2nd Lt. (T.F.) J. E. H. (temp. 2nd Lt., Obs. Offi.)</Text>
       <PageNumber>2431</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Chaffers</Key>
-      <Title>Offr. Cand.</Title>
-      <Text>, Miss H. L. (temp. Asst. Admr., W.R.A.F)</Text>
+      <Title>Offr.</Title>
+      <Forenames>Cand</Forenames>
+      <Text>., Miss H. L. (temp. Asst. Admr., W.R.A.F)</Text>
       <PageNumber>2868</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -446,54 +452,55 @@
       <Key>Chainey</Key>
       <Title>Capt.</Title>
       <Forenames>G. B.</Forenames>
+      <Text>(actg. Maj.)</Text>
+      <PageNumber>1535</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>1535</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Chalke</Key>
+      <Text>, 2nd Lt. H. D. (trd. to Unempld. List)</Text>
       <PageNumber>1804</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Chalkley</Key>
-      <Title>Lt.</Title>
+      <Forenames>Lt</Forenames>
+      <Text>. (S.O.) (actg. Capt.) H. (trd. to Unempld. List)</Text>
+      <PageNumber>1964</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>1964</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Challen</Key>
+      <Text>. Lt. H. B. (trd. to Unempld. List)</Text>
       <PageNumber>4035</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Chalmers</Key>
-      <Title>Lt.</Title>
+      <Forenames>Lt</Forenames>
+      <Text>. (A.) A. MaeD. (Lt., Adm.)</Text>
+      <PageNumber>1802</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>1802</PageNumber>
-    <ItemGroup>
-      <MainItem>
-        <Key>
-          <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
-        </Key>
-        <PageNumber>3486</PageNumber>
-      </MainItem>
-    </ItemGroup>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
+      <Text>2nd Lt. (Hon. Lt.) E. E. (trd. to Unempld. List)</Text>
+      <PageNumber>3486</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
+      </Key>
+      <Text>2nd Lt. G. McGregor (trd. to Unempld. List)</Text>
       <PageNumber>2740</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -504,14 +511,14 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>R.</Forenames>
+      <Text>(trd. to Unempld. List)</Text>
+      <PageNumber>4037</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>4037</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Chambeilain</Key>
+      <Text>, 2nd Lt. A. W. (trd. &gt; to Unempld. List) .. _</Text>
       <PageNumber>4037</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -520,12 +527,12 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Title>Jji.</Title>
-    </MainItem>
-    <Text>
+      <Forenames>Jji</Forenames>
+      <Text>. (TV.JJ.) L. ^-L*b., xeun., Gr. B.)</Text>
       <PageNumber>368</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Trd. to Unempld. List</Text>
       <PageNumber>3638</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -547,24 +554,25 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>T. C.</Forenames>
+      <Text>(trd. to Unempld. List)</Text>
+      <PageNumber>3757</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>3757</PageNumber>
-    <ItemGroup>
-      <MainItem>
-        <Key>
-          <KeyDitto>___ ___ ___ ___</KeyDitto>
-        </Key>
-        <PageNumber>4041</PageNumber>
-      </MainItem>
-    </ItemGroup>
-  </Text>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___ ___</KeyDitto>
+      </Key>
+      <Text>2nd Lt, (actg. Capt.) W. H. D. (trd. to Unempld. List)</Text>
+      <PageNumber>4041</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
+      <Text>2nd Lt. W. R. T. (trd. to Unempld. List)</Text>
       <PageNumber>3888</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -573,14 +581,14 @@
       <Key>Chamberlayne</Key>
       <Title>Lt.</Title>
       <Forenames>P. R. T.</Forenames>
+      <Text>, A.F.C. (actg. Capt, while Capt., A.)</Text>
+      <PageNumber>2617</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>2617</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Chambers</Key>
+      <Text>, 2nd Lt. Cecil (trd. to Unempld. List)</Text>
       <PageNumber>1961</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -601,7 +609,7 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>W. D.</Forenames>
-      <Text>(rel. commn;'on ceasing to be empld;)</Text>
+      <Text>(rel. commn;on ceasing to be empld;)</Text>
       <PageNumber>1373</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -637,8 +645,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Channing</Key>
-      <Title>Lt.</Title>
-      <Text>(Ad.) C. E. (Lt., Tech., Gr. A.)</Text>
+      <Forenames>Lt</Forenames>
+      <Text>. (Ad.) C. E. (Lt., Tech., Gr. A.)</Text>
       <PageNumber>520</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -663,8 +671,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Chapman</Key>
-      <Title>Lt.</Title>
-      <Text>(A.) Allen (Lt,, Adm.)</Text>
+      <Forenames>Lt</Forenames>
+      <Text>. (A.) Allen (Lt,, Adm.)</Text>
       <PageNumber>718</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -684,17 +692,18 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Title>Ofir. Cand.</Title>
+      <Title>Ofir.</Title>
+      <Forenames>Cand</Forenames>
+      <Text>., Miss A. D. (temp. Asst. Admr., W.R.A.F.)</Text>
+      <PageNumber>2866</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>2866</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
+      <Text>2nd Lt. A. E. (rel. commn. on aoc. o( ill-health and to retain rank)</Text>
       <PageNumber>1534</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -703,8 +712,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Title>Lt.</Title>
-      <Text>(aotg. Capt.) A. W. (tid. to Unempld. List)</Text>
+      <Forenames>Lt</Forenames>
+      <Text>. (aotg. Capt.) A. W. (tid. to Unempld. List)</Text>
       <PageNumber>2436</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -713,53 +722,60 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Title>Ofir. Cand.</Title>
+      <Title>Ofir.</Title>
+      <Forenames>Cand</Forenames>
+      <Text>., Miss D. (temp. Asst. Admr., W.R.A.F.)</Text>
+      <PageNumber>2867</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>2867</PageNumber>
-    <ItemGroup>
-      <MainItem>
-        <Key>
-          <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
-        </Key>
-        <PageNumber>2742</PageNumber>
-      </MainItem>
-      <SubItem>
-        <PageNumber>3153</PageNumber>
-      </SubItem>
-    </ItemGroup>
-    <ItemGroup>
-      <MainItem>
-        <Key>
-          <KeyDitto>___ ___ ___ ___</KeyDitto>
-        </Key>
-        <PageNumber>2742</PageNumber>
-      </MainItem>
-    </ItemGroup>
-    <ItemGroup>
-      <MainItem>
-        <Key>
-          <KeyDitto>___ ___ ___ ___ .</KeyDitto>
-        </Key>
-        <PageNumber>2862</PageNumber>
-      </MainItem>
-      <SubItem>
-        <PageNumber>2159</PageNumber>
-      </SubItem>
-    </ItemGroup>
-    <ItemGroup>
-      <MainItem>
-        <Key>Chapman</Key>
-        <PageNumber>2861</PageNumber>
-      </MainItem>
-    </ItemGroup>
-  </Text>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
+      </Key>
+      <Text>2nd Lt. E. C. (trd. to Unempld. List)</Text>
+      <PageNumber>2742</PageNumber>
+    </MainItem>
+    <SubItem>
+      <Text>Lt</Text>
+      <PageNumber>3153</PageNumber>
+    </SubItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
+      <Text>2nd Lt.F. (trd. to Unempld List)</Text>
+      <PageNumber>2742</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___ ___ .</KeyDitto>
+      </Key>
+      <Text>2nd Lt. (A.) (Hon. Maj.) G. A. E., D.S.O. (2nd Lt., Adm., and Hon. Maj.)</Text>
+      <PageNumber>2862</PageNumber>
+    </MainItem>
+    <SubItem>
+      <Text>Rel. commn. on ceasing to be empld</Text>
+      <PageNumber>2159</PageNumber>
+    </SubItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Chapman</Key>
+      <Text>, 2nd Lt. H. (trd. to Unempld. List)</Text>
+      <PageNumber>2861</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___ ___</KeyDitto>
+      </Key>
+      <Text>2nd Lt. H. A. (trd. to Unempld. List)</Text>
       <PageNumber>4041</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -770,17 +786,17 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>H. E.</Forenames>
+      <Text>(tid. to Unempld List)</Text>
+      <PageNumber>1076</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>1076</PageNumber>
-    <KeyDitto>___ ___ ___ ___</KeyDitto>
-  </Text>
+  <KeyDitto>___ ___ ___ ___</KeyDitto>
   <ItemGroup>
     <MainItem>
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
+      <Text>2nd Lt. R. F. (trd to Unempld. List)</Text>
       <PageNumber>4037</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -791,16 +807,16 @@
       </Key>
       <Title>Fit. Cadet</Title>
       <Forenames>R. J.</Forenames>
+      <Text>(temp. 2nd Lt., A'ship)</Text>
+      <PageNumber>2274</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>2274</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
+      <Text>2nd Lt. S. R, (actg. Capt., Gr. A.)</Text>
       <PageNumber>3154</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -808,8 +824,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Chappell</Key>
-      <Title>Lt.</Title>
-      <Text>(actg. Capt.) M. A. (trd. to Unempld. List)</Text>
+      <Forenames>Lt</Forenames>
+      <Text>. (actg. Capt.) M. A. (trd. to Unempld. List)</Text>
       <PageNumber>4042</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -837,14 +853,14 @@
     <MainItem>
       <Key>Charge</Key>
       <Forenames>E.</Forenames>
+      <Text>(corr. of surname)</Text>
+      <PageNumber>367</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>367</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Charles</Key>
+      <Text>, 2nd Lt. B. S. (Lt., without pay and allces.)</Text>
       <PageNumber>206</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -853,8 +869,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Title>Lt.</Title>
-      <Text>(actg. Capt.) H. N. (trd. to Unempld. List)</Text>
+      <Forenames>Lt</Forenames>
+      <Text>. (actg. Capt.) H. N. (trd. to Unempld. List)</Text>
       <PageNumber>3759</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -863,25 +879,29 @@
       <Key>Charlesworth</Key>
       <Title>Lt.</Title>
       <Forenames>A. A.</Forenames>
+      <Text>(trd. to Unempld. List)</Text>
+      <PageNumber>3483</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>3483</PageNumber>
-    <ItemGroup>
-      <MainItem>
-        <Key>
-          <KeyDitto>___ ___ ___ ___</KeyDitto>
-        </Key>
-        <PageNumber>3150</PageNumber>
-      </MainItem>
-    </ItemGroup>
-    <MainItem>Charley, 2nd Lt. (Hon. Lt.) G. W. (Lt., without pay and allces.).. 203</MainItem>
-  </Text>
   <ItemGroup>
-    <Key>Charley</Key>
-    <PageNumber>203</PageNumber>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___ ___</KeyDitto>
+      </Key>
+      <Text>2nd Lt. A. K. (Lt.)</Text>
+      <PageNumber>3150</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Charley</Key>
+      <Text>, 2nd Lt. (Hon. Lt.) G. W. (Lt., without pay and allces.)</Text>
+      <PageNumber>203</PageNumber>
+    </MainItem>
     <SubItem>
-      <PageNumber>2279</PageNumber>
+      <Text>
+        <PageNumber>2279</PageNumber>
+      </Text>
       <PageNumber>2435</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -890,7 +910,7 @@
       <Key>Charlton</Key>
       <Title>Fit. Cadet</Title>
       <Forenames>R. W.</Forenames>
-      <Text>(temp. 2nd Lt., Obs. Offr.) Sub. Not.</Text>
+      <Text>(temp. 2nd Lt., Obs. Offr.) Sub. Not</Text>
       <PageNumber>519</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -899,36 +919,36 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Title>Lt.</Title>
+      <Forenames>Lt</Forenames>
+      <Text>. (Hon. Capt.) W. H. (actg. Capt.. Ad.)</Text>
+      <PageNumber>1802</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>1802</PageNumber>
-    <ItemGroup>
-      <MainItem>
-        <Key>Charnley</Key>
-        <PageNumber>3888</PageNumber>
-      </MainItem>
-    </ItemGroup>
-  </Text>
+  <ItemGroup>
+    <MainItem>
+      <Key>Charnley</Key>
+      <Text>, 2nd Lt. H. C. (trd. to Unempld. List)</Text>
+      <PageNumber>3888</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Charter</Key>
+      <Text>, 2nd Lt. J. R. (trd. to Unempld. List)</Text>
       <PageNumber>3759</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Charteris</Key>
-      <Title>Capt.</Title>
+      <Text>, Capt. (A.) R. L. (Capt., Tech., Gr. A.)</Text>
+      <PageNumber>1803</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>1803</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Chate</Key>
+      <Text>, 2nd Lt.W.G. (actg. Lt.)</Text>
       <PageNumber>2161</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -946,8 +966,8 @@
       <Key>
         <KeyDitto>___ ___ — ___ ___</KeyDitto>
       </Key>
-      <Title>Lt.</Title>
-      <Text>(K.B.)W.H.(Lt., Admin.)</Text>
+      <Forenames>Lt</Forenames>
+      <Text>.(K.B.)W.H.(Lt., Admin.)</Text>
       <PageNumber>3636</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -956,47 +976,43 @@
       <Key>Chattaway</Key>
       <Title>Lt.</Title>
       <Forenames>H. W.</Forenames>
+      <Text>(actg. Capt., A.)</Text>
+      <PageNumber>3296</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>3296</PageNumber>
-    <ItemGroup>
-      <MainItem>
-        <Key>Chatterley</Key>
-        <PageNumber>203</PageNumber>
-      </MainItem>
-    </ItemGroup>
-  </Text>
   <ItemGroup>
     <MainItem>
-      <Key>Chattoe</Key>
-      <PageNumber>2431</PageNumber>
+      <Key>Chatterley</Key>
+      <Text>, 2nd Lt. (actg. Lt.) E. W. (Lt.)</Text>
+      <PageNumber>203</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Chauncey</Key>
-      <Title>Offr. Cand.</Title>
+      <Title>Offr.</Title>
+      <Forenames>Cand</Forenames>
+      <Text>., Miss A. L. (temp. Asst. Admr., W.R.A.F.)</Text>
+      <PageNumber>2866</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <Text>
-    <PageNumber>2866</PageNumber>
     <SubItem>
-      <PageNumber>2869</PageNumber>
+      <Text>
+        <PageNumber>2869</PageNumber>
+      </Text>
       <PageNumber>2870</PageNumber>
     </SubItem>
-  </Text>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Cheal</Key>
+      <Text>, 2nd Lt. A. E. (rel. co mmn. on oeasing to be empld.)</Text>
       <PageNumber>2280</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Cheatle</Key>
-      <Title>Maj.</Title>
-      <Text>(aotg. Lt.-Col.) A. H. (rel. commn. on ceasing to be empld. and to retain rank of Lt.-Col.)</Text>
+      <Text>, Maj. (aotg. Lt.-Col.) A. H. (rel. commn. on ceasing to be empld. and to retain rank of Lt.-Col.)</Text>
       <PageNumber>1804</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1005,14 +1021,14 @@
       <Key>Cherry</Key>
       <Title>Offr. Cand. Miss</Title>
       <Forenames>M. G. A.</Forenames>
+      <Text>(temp. Asst. Admr., W.R.A.F.)</Text>
+      <PageNumber>2866</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>2866</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Cheshire</Key>
+      <Text>, 2nd Lt. F. V. (rel. commn. on acc. of ill-health and to retain rank)</Text>
       <PageNumber>1269</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1030,47 +1046,50 @@
       <Key>Chester</Key>
       <Title>Fit. Cadet</Title>
       <Forenames>C. F. L.</Forenames>
+      <Text>(temp</Text>
+      <PageNumber>2431</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <Text>
-    <PageNumber>2431</PageNumber>
     <SubItem>
+      <Text>2nd Lt., A) Temp. 2nd Lt., A., and to be Hon. Lt., Sub. Not.</Text>
       <PageNumber>3151</PageNumber>
     </SubItem>
-    <ItemGroup>
-      <MainItem>
-        <Key>
-          <KeyDitto>___ ___ ___ ___</KeyDitto>
-        </Key>
-        <PageNumber>2278</PageNumber>
-      </MainItem>
-    </ItemGroup>
-    <ItemGroup>
-      <MainItem>
-        <Key>Chester-Master</Key>
-        <PageNumber>4036</PageNumber>
-      </MainItem>
-    </ItemGroup>
-  </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___ ___</KeyDitto>
+      </Key>
+      <Text>2nd Lt. William (removed</Text>
+      <PageNumber>2278</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Chester-Master</Key>
+      <Text>, 2nd Lt. H. (trd. to</Text>
+      <PageNumber>4036</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Chesterfield</Key>
+      <Text>, 2nd Lt. (Ad.) E. (2nd</Text>
       <PageNumber>2622</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Chetwynd-Stapylton</Key>
-      <Title>Lt.</Title>
-      <Text>(Hon</Text>
+      <Forenames>Lt</Forenames>
+      <Text>. (Hon</Text>
       <PageNumber>2741</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Chibnall</Key>
-      <Title>Lt.</Title>
-      <Text>(A.) (Hon. Capt.) A. C-</Text>
+      <Forenames>Lt</Forenames>
+      <Text>. (A.) (Hon. Capt.) A. C-</Text>
       <PageNumber>367</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1079,11 +1098,11 @@
       <Key>Chick</Key>
       <Title>Lt.</Title>
       <Forenames>A. F.</Forenames>
-    </MainItem>
-    <Text>
+      <Text>(trd. to Unempld</Text>
       <PageNumber>3636</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>List)</Text>
       <PageNumber>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</PageNumber>
     </SubItem>
   </ItemGroup>

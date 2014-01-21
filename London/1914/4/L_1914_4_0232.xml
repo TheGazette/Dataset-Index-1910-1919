@@ -1,21 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="0232" pageID="https://www.thegazette.co.uk/id/London/index/year/1914/volume/4/page/0232" pagePDF="https://www.thegazette.co.uk/London/index/year/1914/volume/4/page/0232" pageRDF="https://www.thegazette.co.uk/London/index/year/1914/volume/4/page/0232?view=linked-data" type="index" volume="4" year="1914">
-  <SubCategoryTitle>MILITARY PROMOTIONS, Territorial Fofce^Infantry.</SubCategoryTitle>
+<Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="232" pageID="https://www.thegazette.co.uk/id/London/index/year/1914/volume/4/page/232" pagePDF="https://www.thegazette.co.uk/London/index/year/1914/volume/4/page/232" pageRDF="https://www.thegazette.co.uk/London/index/year/1914/volume/4/page/232?view=linked-data" type="index" volume="4" year="1914">
+  <SubSectionTitle>Slk Battalion</SubSectionTitle>
   <ItemGroup>
     <MainItem>
-      <SectionTitle>
-        <Key>Slk</Key>
-      </SectionTitle>
-      <Title>Battalion.</Title>
-      <Forenames>Atdill</Forenames>
+      <Key>Atdill</Key>
+      <Forenames>Robert W. B.</Forenames>
+      <Text>(2nd. Lieut.)</Text>
+      <PageNumber>8150</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>8150</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Brodie</Key>
+      <Text>, . 2nd Lieut. William A. .(temporary Lieut.)</Text>
       <PageNumber>10116</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -32,12 +29,13 @@
       <Key>Campbell</Key>
       <Title>2nd Lieut.</Title>
       <Forenames>Robert W.</Forenames>
-    </MainItem>
-    <Text>
+      <Text>(correction of date)</Text>
       <PageNumber>9369</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
-      <PageNumber>8404</PageNumber>
+      <Text>
+        <PageNumber>8404</PageNumber>
+      </Text>
       <PageNumber>10116</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -89,8 +87,8 @@
     <MainItem>
       <Key>Gibson</Key>
       <Title>2nd Lieut.</Title>
-      <Forenames>Newton</Forenames>
-      <Text>G; (temporary Lieut.) ... ...</Text>
+      <Forenames>Newton G</Forenames>
+      <Text>; (temporary Lieut.) ... ...</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -283,8 +281,8 @@
       <PageNumber>8525</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SectionTitle>The Cheshire Regiment</SectionTitle>
-  <SectionTitle>4th Battalion</SectionTitle>
+  <SubSectionTitle>The Cheshire Regiment</SubSectionTitle>
+  <SubSectionTitle>4th Battalion</SubSectionTitle>
   <ItemGroup>
     <MainItem>
       <Key>Anthony</Key>
@@ -323,11 +321,11 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>George Ernest</Forenames>
-    </MainItem>
-    <Text>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>8618</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Correction of date</Text>
       <PageNumber>9522</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -335,14 +333,15 @@
     <MainItem>
       <Key>Burrell</Key>
       <Forenames>John S. Gathorne</Forenames>
+      <Text>(2nd Lieut.)</Text>
+      <PageNumber>8530</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>8530</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Carter</Key>
+      <Forenames>John Leslie</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>8618</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -357,11 +356,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Clarke</Key>
-      <Forenames>Stephen T. Sale</Forenames>
-      <Text>
+      <Key>
         <KeyDitto />
-      </Text>
+      </Key>
+      <Text>Lieut.)</Text>
       <PageNumber>8225</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -369,28 +367,30 @@
     <MainItem>
       <Key>Collins</Key>
       <Forenames>Henry A.</Forenames>
+      <Text>(2nd Lieut.)</Text>
+      <PageNumber>8618</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>8618</PageNumber>
-    <ItemGroup>
-      <MainItem>
-        <Key>Corden</Key>
-        <PageNumber>8891</PageNumber>
-      </MainItem>
-    </ItemGroup>
-    <ItemGroup>
-      <MainItem>
-        <Key>Danson</Key>
-        <PageNumber>ibid.</PageNumber>
-      </MainItem>
-    </ItemGroup>
-  </Text>
+  <ItemGroup>
+    <MainItem>
+      <Key>Corden</Key>
+      <Text>; 2nd Lieut. Bernard W. (temporary Lieut.)</Text>
+      <PageNumber>8891</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Danson</Key>
+      <Text>,. 2nd Lieut. Francis R. (temporary Lieut.) ... ...</Text>
+      <PageNumber>ibid.</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>
         <KeyDitto>___ .</KeyDitto>
       </Key>
+      <Text>TT—. ___ ___ John Raymond (2nd Lieut.)</Text>
       <PageNumber>8530</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -439,11 +439,11 @@
     <MainItem>
       <Key>Green</Key>
       <Forenames>Herbert T. C. Lancelyn</Forenames>
-    </MainItem>
-    <Text>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>9235</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Correction</Text>
       <PageNumber>10313</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -469,11 +469,11 @@
     <MainItem>
       <Key>Henderson</Key>
       <Forenames>Wilmot S. D.</Forenames>
-    </MainItem>
-    <Text>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>8530</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Temporary Capt</Text>
       <PageNumber>10151</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -513,7 +513,7 @@
     <MainItem>
       <Key>Kininmonth</Key>
       <Forenames>Alec Marshall</Forenames>
-      <Text>(2nd Lieut.) .:.</Text>
+      <Text>(2nd Lieut.) .:</Text>
       <PageNumber>9144</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -528,12 +528,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Leete</Key>
-      <Title>Lieut.</Title>
-    </MainItem>
-    <Text>
+      <Text>, Lieut. » William W. (temporary Capt.)</Text>
       <PageNumber>8891</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Appointment to command the Cheshire Brigade Signal Section, and is seconded</Text>
       <PageNumber>8867</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -628,11 +627,11 @@
       <Key>Perrin</Key>
       <Title>Lieut.</Title>
       <Forenames>Eugene C.</Forenames>
-    </MainItem>
-    <Text>
+      <Text>(temporary Capt.)</Text>
       <PageNumber>8891</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Adjt '</Text>
       <PageNumber>9522</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -712,7 +711,7 @@
       <PageNumber>10939</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SectionTitle>5th Battalion</SectionTitle>
+  <SubSectionTitle>5th Battalion</SubSectionTitle>
   <ItemGroup>
     <MainItem>
       <Key>Abercrombie</Key>
@@ -743,11 +742,11 @@
       <Key>Brunner</Key>
       <Title>Lieut.</Title>
       <Forenames>Godfrey H.</Forenames>
-    </MainItem>
-    <Text>
+      <Text>(temporary Capt.)</Text>
       <PageNumber>8740</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Seconded</Text>
       <PageNumber>ibid.</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -798,7 +797,7 @@
     <MainItem>
       <Key>Davies</Key>
       <Forenames>Hugh Frederic</Forenames>
-      <Text>(2nd! Lieut.) :.</Text>
+      <Text>(2nd! Lieut.) :</Text>
       <PageNumber>8530</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -836,14 +835,14 @@
       <Key>Evans</Key>
       <Title>2nd Lieut.</Title>
       <Forenames>Lancelot</Forenames>
+      <Text>(temporary Lieut.)</Text>
+      <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>___ ___ ___</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Fennell</Key>
+      <Text>,, Henry R. Phelps (2nd Lieut.)</Text>
       <PageNumber>10116</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1075,14 +1074,14 @@
     <MainItem>
       <Key>Smith</Key>
       <Forenames>Samuel Harold</Forenames>
+      <Text>(2nd Lieut.)</Text>
+      <PageNumber>9247</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>9247</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Stonex</Key>
+      <Text>. Edwin A. Pring (2nd Lieut.)</Text>
       <PageNumber>8530</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1119,7 +1118,7 @@
       <PageNumber>10151</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SectionTitle>6th Battalion</SectionTitle>
+  <SubSectionTitle>6th Battalion</SubSectionTitle>
   <ItemGroup>
     <MainItem>
       <Key>Arnfield</Key>

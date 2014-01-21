@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="0144" pageID="https://www.thegazette.co.uk/id/London/index/year/1916/volume/1/page/0144" pagePDF="https://www.thegazette.co.uk/London/index/year/1916/volume/1/page/0144" pageRDF="https://www.thegazette.co.uk/London/index/year/1916/volume/1/page/0144?view=linked-data" type="index" volume="1" year="1916">
+<Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="144" pageID="https://www.thegazette.co.uk/id/London/index/year/1916/volume/1/page/144" pagePDF="https://www.thegazette.co.uk/London/index/year/1916/volume/1/page/144" pageRDF="https://www.thegazette.co.uk/London/index/year/1916/volume/1/page/144?view=linked-data" type="index" volume="1" year="1916">
   <ItemGroup>
     <MainItem>
       <Key>McEwen</Key>
-      <Text>2nd Lt. G. (temp. Oapt..)</Text>
+      <Text>, 2nd Lt. G. (temp. Capt..)</Text>
       <PageNumber>849</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -23,19 +23,22 @@
       <Key>MacEwen</Key>
       <Title>Col.</Title>
       <Forenames>M. L.</Forenames>
+      <Text>(Half-pay</Text>
+      <PageNumber>2916</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>2916</PageNumber>
-    <MainItem>___ N-. D; K. (Maj., super345</MainItem>
-  </Text>
   <ItemGroup>
-    <Key>
-      <KeyDitto>___</KeyDitto>
-    </Key>
-    <PageNumber>345</PageNumber>
+    <MainItem>
+      <Key>
+        <KeyDitto>___</KeyDitto>
+      </Key>
+      <Text>N-. D; K. (Maj., super-</Text>
+      <PageNumber>345</PageNumber>
+    </MainItem>
     <SubItem>
-      <PageNumber>2196</PageNumber>
+      <Text>
+        <PageNumber>2196</PageNumber>
+      </Text>
       <PageNumber>422</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -59,18 +62,18 @@
     <MainItem>
       <Key>JMcFarland</Key>
       <Forenames>W. C. D.</Forenames>
+      <Text>(Lt.) Macfarlane, 2nd Lt. D. A., supple-</Text>
+      <PageNumber>1571</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>1571</PageNumber>
-    <KeyDitto>___ ___</KeyDitto>
-    <KeyDitto>___ ___</KeyDitto>
-  </Text>
+  <KeyDitto>___ ___</KeyDitto>
+  <KeyDitto>___ ___</KeyDitto>
   <ItemGroup>
     <MainItem>
       <Key>
         <KeyDitto>-</KeyDitto>
       </Key>
+      <Text>McFarlane, 2nd Lt. F.. N. (con</Text>
       <PageNumber>1227</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -80,25 +83,27 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>J. G.</Forenames>
+      <Text>(temp. Capt.)</Text>
+      <PageNumber>328</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <Text>
-    <PageNumber>328</PageNumber>
     <SubItem>
+      <Text>iremp. Maj</Text>
       <PageNumber>2107</PageNumber>
     </SubItem>
-    <ItemGroup>
-      <MainItem>
-        <Key>
-          <KeyDitto>___ ___</KeyDitto>
-        </Key>
-        <PageNumber>1896</PageNumber>
-      </MainItem>
-    </ItemGroup>
-  </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Text>rj.\W. (temp. Lt.) '</Text>
+      <PageNumber>1896</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>McFarlane</Key>
+      <Text>, 2nd Lt. N. A. (confirmed)</Text>
       <PageNumber>3156</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -116,22 +121,23 @@
     <MainItem>
       <Key>Macfartane-Grieve</Key>
       <Forenames>A. A.</Forenames>
+      <Text>(Capt.)</Text>
+      <PageNumber>2464</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>2464</PageNumber>
-    <ItemGroup>
-      <MainItem>
-        <Key>
-          <KeyDitto>___ ___</KeyDitto>
-        </Key>
-        <PageNumber>2109</PageNumber>
-      </MainItem>
-    </ItemGroup>
-  </Text>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Text>2rid Lt. G. M. (confirmed)</Text>
+      <PageNumber>2109</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>JVIeFerran</Key>
+      <Text>, (temp.) 2nd Lt. W. R. ! (transferred from Reserve to _ Service Battalion)</Text>
       <PageNumber>2925</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -172,8 +178,8 @@
   <ItemGroup>
     <MainItem>
       <Key>McGhie</Key>
-      <Forenames>J.</Forenames>
-      <Text>W (temp. 2nd Lt. on probation) JMacGibbon, R. G. (temp, 2nd Lt. on probation)</Text>
+      <Forenames>J. W</Forenames>
+      <Text>(temp. 2nd Lt. on probation) JMacGibbon, R. G. (temp, 2nd Lt. on probation)</Text>
       <PageNumber>2451</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -181,30 +187,32 @@
     <MainItem>
       <Key>McGill</Key>
       <Forenames>H. G.</Forenames>
+      <Text>(temp. 2nd Lt.)</Text>
+      <PageNumber>710</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>710</PageNumber>
-    <ItemGroup>
-      <MainItem>
-        <Key>
-          <KeyDitto>___ ___</KeyDitto>
-        </Key>
-        <PageNumber>3416</PageNumber>
-      </MainItem>
-    </ItemGroup>
-    <ItemGroup>
-      <MainItem>
-        <Key>
-          <KeyDitto>-</KeyDitto>
-        </Key>
-        <PageNumber>3290</PageNumber>
-      </MainItem>
-    </ItemGroup>
-  </Text>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Text>(temp.) Lt. W. A. (relinquishes his commission)</Text>
+      <PageNumber>3416</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>-</KeyDitto>
+      </Key>
+      <Text>MacGiilicuddy, A. J. (temp. 2nd Lt. whilst a Recruiting Officer)</Text>
+      <PageNumber>3290</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Macgillivary</Key>
+      <Text>, (temp.) 2nd Lt. F. P. (transferred)</Text>
       <PageNumber>3275</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -212,18 +220,20 @@
     <MainItem>
       <Key>MacGillivray</Key>
       <Forenames>C.</Forenames>
+      <Text>(temp. 2nd Lt.)</Text>
+      <PageNumber>725</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>725</PageNumber>
-    <MainItem>-McGilvray, (temp.) Lt. J. R., M.B. (relinquishes his commission) ... 1492</MainItem>
-  </Text>
   <ItemGroup>
-    <Key>
-      <KeyDitto>-</KeyDitto>
-    </Key>
-    <PageNumber>1492</PageNumber>
+    <MainItem>
+      <Key>
+        <KeyDitto>-</KeyDitto>
+      </Key>
+      <Text>McGilvray, (temp.) Lt. J. R., M.B. (relinquishes his commission)</Text>
+      <PageNumber>1492</PageNumber>
+    </MainItem>
     <SubItem>
+      <Text>Notification cancelled</Text>
       <PageNumber>2083</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -233,6 +243,35 @@
       <Forenames>E.</Forenames>
       <Text>(2nd Lt. for service in the Field)</Text>
       <PageNumber>847</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>McGoun</Key>
+      <Title>Lt.</Title>
+      <Forenames>A.</Forenames>
+      <Text>(temp. Capt.)</Text>
+      <PageNumber>738</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>McGowan</Key>
+      <Title>Maj.</Title>
+      <Forenames>J. A. B.</Forenames>
+      <Text>(temp. Lt.-Col. whilst Deputy Director of Veterinary Services)</Text>
+      <PageNumber>1492</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Title>Maj.</Title>
+      <Forenames>W. H.</Forenames>
+      <Text>(seconded for service with the Indian . Mountain Artillery)</Text>
+      <PageNumber>1490</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -247,14 +286,14 @@
     <MainItem>
       <Key>MacGrath</Key>
       <Forenames>R.</Forenames>
+      <Text>, M.B. (temp. Capt.)</Text>
+      <PageNumber>1491</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>1491</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>McGrath</Key>
+      <Text>, 2nd Lt. R. R. C. (temp. Lt., supernumerary to estab . lishment)</Text>
       <PageNumber>2056</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -270,14 +309,14 @@
     <MainItem>
       <Key>Macgregor</Key>
       <Forenames>G.</Forenames>
+      <Text>(temp. 2nd Lt.)</Text>
+      <PageNumber>3153</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>3153</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>MacGregor</Key>
+      <Text>, ,G. B., M.B: (temp. Capt.)</Text>
       <PageNumber>2543</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -285,11 +324,11 @@
     <MainItem>
       <Key>McGregor</Key>
       <Forenames>J.</Forenames>
-    </MainItem>
-    <Text>
+      <Text>(temp. 2nd Lt.)</Text>
       <PageNumber>740</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Transferred from Reserve to Regular Battalion</Text>
       <PageNumber>829</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -306,16 +345,16 @@
       <Key>Macgregor</Key>
       <Title>Maj.</Title>
       <Forenames>P. A.</Forenames>
+      <Text>, D.S.O. (Brevet. .Lt.-Col. for distinguished service in the Field) ..:</Text>
+      <PageNumber>569</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>569</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
+      <Text>McGregor. 2nd Lt. R. M. (confirmed)</Text>
       <PageNumber>836</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -333,11 +372,11 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>W. W.</Forenames>
-    </MainItem>
-    <Text>
+      <Text>(temp. Lt.-Gol. while commanding a Battalion)</Text>
       <PageNumber>537</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Relinquishes the temp, rank of Lt.-Col. on ceasing to command a Battalion</Text>
       <PageNumber>3294</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -369,11 +408,11 @@
     <MainItem>
       <Key>McGuffie</Key>
       <Forenames>F.</Forenames>
-    </MainItem>
-    <Text>
+      <Text>(temp. 2nd Lt. on probation)</Text>
       <PageNumber>987</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Temp. 2nd Lt</Text>
       <PageNumber>2313</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -400,11 +439,11 @@
     <MainItem>
       <Key>MacGuire</Key>
       <Forenames>E. R. M.</Forenames>
-    </MainItem>
-    <Text>
+      <Text>(temo. 2nd Lt.) '</Text>
       <PageNumber>1347</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Temp. Lt</Text>
       <PageNumber>1895</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -420,14 +459,14 @@
     <MainItem>
       <Key>MacGuire</Key>
       <Forenames>S. M.</Forenames>
+      <Text>(temp. Capt.)</Text>
+      <PageNumber>1495</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>1495</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>McGusty</Key>
+      <Text>, 2hd Lt. B. E., supple mentary (confirmed)</Text>
       <PageNumber>3276</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -445,14 +484,14 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>M. G. J.</Forenames>
+      <Text>(temp. 2nd Lt. on probation)</Text>
+      <PageNumber>1367</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>1367</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Machari</Key>
+      <Text>, 2nd Lt. D. P. (confirmed)</Text>
       <PageNumber>835</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -460,11 +499,11 @@
     <MainItem>
       <Key>McHardy</Key>
       <Forenames>A. A.</Forenames>
-    </MainItem>
-    <Text>
+      <Text>, D.S.O. (Lt.-Col. and remain seconded)</Text>
       <PageNumber>324</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Antedated</Text>
       <PageNumber>1214</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -488,20 +527,21 @@
     <MainItem>
       <Key>Machell</Key>
       <Forenames>L.</Forenames>
+      <Text>(temp. 2nd Lt. on probation) McHenry, J. (temp. 2nd Lt. on probation)</Text>
+      <PageNumber>989</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>989</PageNumber>
-    <ItemGroup>
-      <MainItem>
-        <Key>Machin</Key>
-        <PageNumber>2056</PageNumber>
-      </MainItem>
-    </ItemGroup>
-  </Text>
+  <ItemGroup>
+    <MainItem>
+      <Key>Machin</Key>
+      <Text>, 2nd Lt. L. F. (temp. Capt., supernumerary to estab lishment)</Text>
+      <PageNumber>2056</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Machon</Key>
+      <Text>. R. E. (temp. Lt.)</Text>
       <PageNumber>712</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -529,14 +569,14 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>J. M.</Forenames>
+      <Text>(temp. Capt. whilst Asst. Provost Marshal)</Text>
+      <PageNumber>1656</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>1656</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Mclnnes</Key>
+      <Text>, (temp.) 2nd Lt. C. S. (transferred from Reserve to Service Battalion)</Text>
       <PageNumber>1817</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -625,14 +665,14 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>R. D.</Forenames>
+      <Text>(temp. Capt.)</Text>
+      <PageNumber>1087</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>1087</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Mcintosh</Key>
+      <Text>, 2nd Lt. W. N. (temp. Lt. whilst serving with Trench Mortar Batteries)</Text>
       <PageNumber>2452</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -658,30 +698,32 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>D. H.</Forenames>
+      <Text>(2nd Lt.)</Text>
+      <PageNumber>1008</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>1008</PageNumber>
-    <ItemGroup>
-      <MainItem>
-        <Key>
-          <KeyDitto>___ ___ .</KeyDitto>
-        </Key>
-        <PageNumber>3072</PageNumber>
-      </MainItem>
-    </ItemGroup>
-    <ItemGroup>
-      <MainItem>
-        <Key>Mclntyre</Key>
-        <PageNumber>272</PageNumber>
-      </MainItem>
-    </ItemGroup>
-  </Text>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ .</KeyDitto>
+      </Key>
+      <Text>(temp.) Lt. D. L. (Adjt.)</Text>
+      <PageNumber>3072</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Mclntyre</Key>
+      <Text>. E. (temp. Capt.)</Text>
+      <PageNumber>272</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
+      <Text>(temp.) 2nd Lt. F. M. (transferred to the General' List)</Text>
       <PageNumber>712</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -689,16 +731,16 @@
     <MainItem>
       <Key>Macintyre</Key>
       <Forenames>G. D.</Forenames>
+      <Text>(temp. Lt.)</Text>
+      <PageNumber>3419</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>3419</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>
         <KeyDitto>— ___ ___</KeyDitto>
       </Key>
+      <Text>H: R., M.D. (temp. Capt.)</Text>
       <PageNumber>273</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -722,11 +764,11 @@
     <MainItem>
       <Key>Mclntyre</Key>
       <Forenames>J.</Forenames>
-    </MainItem>
-    <Text>
+      <Text>, M.B. (temp. Lt.)</Text>
       <PageNumber>457</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Temp. Capt</Text>
       <PageNumber>2102</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -736,14 +778,14 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>K. S.</Forenames>
+      <Text>(2nd Lit! on probation)</Text>
+      <PageNumber>539</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>539</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Maclver</Key>
+      <Text>, 2nd Lt. D. (confirmed)</Text>
       <PageNumber>427</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -770,14 +812,14 @@
       <Key>Maclver</Key>
       <Title>Lt.</Title>
       <Forenames>R. S.</Forenames>
+      <Text>(2nd Lt., and to retain his higher rank and seniority in his present unit until ordered to join a Regular unit)</Text>
+      <PageNumber>3390</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>3390</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Molver</Key>
+      <Text>, 2nd Lt. S. L. (confirmed)</Text>
       <PageNumber>1227</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -829,16 +871,16 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>A. C.</Forenames>
+      <Text>(temp. Lt.)</Text>
+      <PageNumber>2463</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>2463</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
+      <Text>(temp.) 2nd Lt. A. C. (correction)</Text>
       <PageNumber>3259</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -873,16 +915,16 @@
     <MainItem>
       <Key>Maokay</Key>
       <Forenames>D. G.</Forenames>
+      <Text>(temp. 2nd Lt.)</Text>
+      <PageNumber>273</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>273</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
+      <Text>2nd Lt. D. W., supplementary (confirmed)</Text>
       <PageNumber>1570</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -890,23 +932,24 @@
     <MainItem>
       <Key>McKay</Key>
       <Forenames>E. A.</Forenames>
+      <Text>(2nd Lt. on probation), supplementary</Text>
+      <PageNumber>973</PageNumber>
+      <PageNumber>3271</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>973</PageNumber>
-    <PageNumber>3271</PageNumber>
-    <ItemGroup>
-      <MainItem>
-        <Key>
-          <KeyDitto>___ ___ ___</KeyDitto>
-        </Key>
-        <PageNumber>836</PageNumber>
-      </MainItem>
-    </ItemGroup>
-  </Text>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___</KeyDitto>
+      </Key>
+      <Text>2nd Lt. E. H. (confirmed)</Text>
+      <PageNumber>836</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Mackay</Key>
+      <Text>. 2nd Lt. F. K., supplementary (confirmed)</Text>
       <PageNumber>1571</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -925,16 +968,16 @@
     <MainItem>
       <Key>McKay</Key>
       <Forenames>J.</Forenames>
+      <Text>, M.B. (Capt.), supplementary</Text>
+      <PageNumber>1327</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>1327</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
+      <Text>2nd Lt. J. B. (confirmed)</Text>
       <PageNumber>1227</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -982,11 +1025,11 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>J. M.</Forenames>
-    </MainItem>
-    <Text>
+      <Text>(temp. Lt.)</Text>
       <PageNumber>2572</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Temp. Capt</Text>
       <PageNumber>2572</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1032,20 +1075,21 @@
         <KeyDitto>___</KeyDitto>
       </Key>
       <Forenames>S.</Forenames>
+      <Text>(2nd Lt. for service in the Field)</Text>
+      <PageNumber>1487</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>1487</PageNumber>
-    <ItemGroup>
-      <MainItem>
-        <Key>Mackay</Key>
-        <PageNumber>3275</PageNumber>
-      </MainItem>
-    </ItemGroup>
-  </Text>
+  <ItemGroup>
+    <MainItem>
+      <Key>Mackay</Key>
+      <Text>, (temp.) 2nd ILt. S. (transferred)</Text>
+      <PageNumber>3275</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>McKay</Key>
+      <Text>, ,W. B. (temp. 2nd L.t.)</Text>
       <PageNumber>3041</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1061,28 +1105,30 @@
     <MainItem>
       <Key>McKean</Key>
       <Forenames>J.</Forenames>
+      <Text>(Capt.), supplementary</Text>
+      <PageNumber>3153</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>3153</PageNumber>
-    <ItemGroup>
-      <MainItem>
-        <Key>
-          <KeyDitto>___ ___ ___</KeyDitto>
-        </Key>
-        <PageNumber>3028</PageNumber>
-      </MainItem>
-    </ItemGroup>
-    <ItemGroup>
-      <MainItem>
-        <Key>McKee</Key>
-        <PageNumber>2102</PageNumber>
-      </MainItem>
-    </ItemGroup>
-  </Text>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___</KeyDitto>
+      </Key>
+      <Text>2nd Lt. (on probation) J. B. B. (relinquishes bis commission)</Text>
+      <PageNumber>3028</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>McKee</Key>
+      <Text>, (temp.) Lt. T. B., M.B. (relinquishes his commission)</Text>
+      <PageNumber>2102</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>McKeever</Key>
+      <Text>, (temp.) Lt. L. L. (relinquishes his commission)</Text>
       <PageNumber>3044</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1090,26 +1136,28 @@
     <MainItem>
       <Key>McKelvey</Key>
       <Forenames>J. W.</Forenames>
+      <Text>(temp. Capt.)</Text>
+      <PageNumber>2535</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>2535</PageNumber>
-    <ItemGroup>
-      <MainItem>
-        <Key>MacKendrick</Key>
-        <PageNumber>456</PageNumber>
-      </MainItem>
-    </ItemGroup>
-    <ItemGroup>
-      <MainItem>
-        <Key>McKehdricfcV-T</Key>
-        <PageNumber>274</PageNumber>
-      </MainItem>
-    </ItemGroup>
-  </Text>
+  <ItemGroup>
+    <MainItem>
+      <Key>MacKendrick</Key>
+      <Text>. (temp.),Lt. H. F., M.D. (relinquishes his commission)</Text>
+      <PageNumber>456</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>McKehdricfcV-T</Key>
+      <Text>.. B. (.temp. Capt.)</Text>
+      <PageNumber>274</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>McKenna</Key>
+      <Text>, .(temp.) 2nd Lt. J. O. &lt;N. (transferred from Reserve to Service Battalion)</Text>
       <PageNumber>2924</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1126,16 +1174,16 @@
     <MainItem>
       <Key>McKenna</Key>
       <Forenames>M. J.</Forenames>
+      <Text>(temp. 2nd Lt. on probation)</Text>
+      <PageNumber>1086</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>1086</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
+      <Text>2nd Lt. T. M. (Flying Officer)</Text>
       <PageNumber>970</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1210,16 +1258,16 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>D. B.</Forenames>
+      <Text>(temp. 2nd Lt. on probation)</Text>
+      <PageNumber>460</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>460</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>
         <KeyDitto>—</KeyDitto>
       </Key>
+      <Text>r___ Lt. D. M. iS. (temp. iCapt.)</Text>
       <PageNumber>2441</PageNumber>
     </MainItem>
   </ItemGroup>

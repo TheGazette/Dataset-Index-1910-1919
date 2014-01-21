@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="0291" pageID="https://www.thegazette.co.uk/id/London/index/year/1915/volume/2/page/0291" pagePDF="https://www.thegazette.co.uk/London/index/year/1915/volume/2/page/0291" pageRDF="https://www.thegazette.co.uk/London/index/year/1915/volume/2/page/0291?view=linked-data" type="index" volume="2" year="1915">
+<Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="291" pageID="https://www.thegazette.co.uk/id/London/index/year/1915/volume/2/page/291" pagePDF="https://www.thegazette.co.uk/London/index/year/1915/volume/2/page/291" pageRDF="https://www.thegazette.co.uk/London/index/year/1915/volume/2/page/291?view=linked-data" type="index" volume="2" year="1915">
   <ItemGroup>
     <MainItem>
       <Key>Marchant</Key>
@@ -44,14 +44,15 @@
     <MainItem>
       <Key>Martin</Key>
       <Forenames>George William</Forenames>
-    </MainItem>
-    <Text>
+      <Text>(temporary ' *i Engineer)</Text>
       <PageNumber>6167</PageNumber>
-      <SubItem>
-        <PageNumber>4775</PageNumber>
-      </SubItem>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Lieut.-Commander</Text>
+      <PageNumber>4775</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>Cancelled</Text>
       <PageNumber>5752</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -109,8 +110,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Niall</Forenames>
-      <Text>O'Keefe (temporary Asst. Paymaster)</Text>
+      <Forenames>Niall O</Forenames>
+      <Text>'Keefe (temporary Asst. Paymaster)</Text>
       <PageNumber>5007</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -178,15 +179,7 @@
       <PageNumber>3581</PageNumber>
     </MainItem>
   </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Newton</Key>
-      <Forenames>Ernest Leonard</Forenames>
-      <Text>(temporary Asst. Paymaster) ___ ___</Text>
-      <KeyDitto>___ ___</KeyDitto>
-      <PageNumber>4264</PageNumber>
-    </MainItem>
-  </ItemGroup>
+  <KeyDitto>___ ___</KeyDitto>
   <ItemGroup>
     <MainItem>
       <Key>
@@ -196,30 +189,14 @@
       <Text>(temporary Sub-Lieut.)</Text>
       <PageNumber>4263</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Nicholls</Key>
-      <Forenames>Walter John</Forenames>
-    </MainItem>
-    <Text>
-      <KeyDitto>___ ___</KeyDitto>
-      <PageNumber>5513</PageNumber>
-    </Text>
+    <KeyDitto>___ ___</KeyDitto>
     <SubItem>
+      <Text>Sub-Lieut. William (con. firmed)</Text>
       <PageNumber>4263</PageNumber>
     </SubItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Nicholson</Key>
-      <Forenames>H. J.</Forenames>
-    </MainItem>
-    <Text>
-      <KeyDitto>___</KeyDitto>
-      <PageNumber>3829</PageNumber>
-    </Text>
+    <KeyDitto>___</KeyDitto>
     <SubItem>
+      <Text>William Leopold (temporary Sub-Lieut.)</Text>
       <PageNumber>4263</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -227,14 +204,14 @@
     <MainItem>
       <Key>Nicol</Key>
       <Forenames>John</Forenames>
+      <Text>(temporary Asst. Engineer)</Text>
+      <PageNumber>4062</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>4062</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Nicolson</Key>
+      <Text>Neil (temporary Sub Lieut.)</Text>
       <PageNumber>6267</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -278,26 +255,28 @@
         <KeyDitto>-</KeyDitto>
       </Key>
       <Forenames>Nugent</Forenames>
+      <Text>, Walter (temporary Asst. Engineer)</Text>
+      <PageNumber>4062</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>4062</PageNumber>
-    <ItemGroup>
-      <MainItem>
-        <Key>O</Key>
-        <PageNumber>3581</PageNumber>
-      </MainItem>
-    </ItemGroup>
-    <ItemGroup>
-      <MainItem>
-        <Key>O</Key>
-        <PageNumber>5006</PageNumber>
-      </MainItem>
-    </ItemGroup>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>O</Key>
+      <Text>'Byrne, Maurice V. Patrick (tem porary Asst. Paymaster)</Text>
+      <PageNumber>3581</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>O</Key>
+      <Text>'Flaherty, J. (temporary Sub Lieut.)</Text>
+      <PageNumber>5006</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>O</Key>
+      <Text>'Neill, James Bernard (temporary Sub-Lieut.)</Text>
       <PageNumber>6267</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -427,7 +406,7 @@
     <MainItem>
       <Key>Parker</Key>
       <Forenames>George</Forenames>
-      <Text>(temporary Lieut.</Text>
+      <Text>(temporary Lieut</Text>
       <PageNumber>5208</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -460,8 +439,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Parry</Key>
-      <Title>Walter .</Title>
-      <Text>(temporary Asst. Engineer)</Text>
+      <Forenames>Walter</Forenames>
+      <Text>. (temporary Asst. Engineer)</Text>
       <PageNumber>4534</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -618,14 +597,14 @@
     <MainItem>
       <Key>Philip</Key>
       <Forenames>John Forbes</Forenames>
+      <Text>(temporary Sub-Lieut.)</Text>
+      <PageNumber>5751</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>5751</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Phillips</Key>
+      <Text>Alexander (temporary SubLieut.)</Text>
       <PageNumber>5208</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -783,7 +762,7 @@
     <MainItem>
       <Key>Pratt</Key>
       <Forenames>Sydney</Forenames>
-      <Text>(temporary SubLieut.')</Text>
+      <Text>(temporary SubLieut.)</Text>
       <PageNumber>4776</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -807,20 +786,21 @@
     <MainItem>
       <Key>Primrose</Key>
       <Forenames>Hugh Rosebery</Forenames>
+      <Text>(temporary Asst. Paymaster)</Text>
+      <PageNumber>5007</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>5007</PageNumber>
-    <ItemGroup>
-      <MainItem>
-        <Key>Prior</Key>
-        <PageNumber>6268</PageNumber>
-      </MainItem>
-    </ItemGroup>
-  </Text>
+  <ItemGroup>
+    <MainItem>
+      <Key>Prior</Key>
+      <Text>Julius James (temporary Engineer)</Text>
+      <PageNumber>6268</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Pullan</Key>
+      <Text>Thomas William (temporary Sub-Lieut.)</Text>
       <PageNumber>4263</PageNumber>
     </MainItem>
   </ItemGroup>

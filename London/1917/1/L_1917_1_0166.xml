@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="0166" pageID="https://www.thegazette.co.uk/id/London/index/year/1917/volume/1/page/0166" pagePDF="https://www.thegazette.co.uk/London/index/year/1917/volume/1/page/0166" pageRDF="https://www.thegazette.co.uk/London/index/year/1917/volume/1/page/0166?view=linked-data" type="index" volume="1" year="1917">
+<Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="166" pageID="https://www.thegazette.co.uk/id/London/index/year/1917/volume/1/page/166" pagePDF="https://www.thegazette.co.uk/London/index/year/1917/volume/1/page/166" pageRDF="https://www.thegazette.co.uk/London/index/year/1917/volume/1/page/166?view=linked-data" type="index" volume="1" year="1917">
   <ItemGroup>
     <MainItem>
       <Key>Wrathall</Key>
-      <Title>Lt.</Title>
+      <Forenames>Lt</Forenames>
+      <Text>. (temp. Capt.) W. P. (G.S.O., 3rd Gr., seed., and retain teimip. rank)</Text>
+      <PageNumber>2634</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>2634</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Wright</Key>
+      <Text>, 2nd Lt. (temp. Lt.) A. J. (Staff Capt., seed., and temp. Capt.)</Text>
       <PageNumber>2752</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -30,8 +30,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Title>Lt.</Title>
-      <Text>(temp. Capt.) E. L. (Brig.Maj. and ret. temp, rank)</Text>
+      <Forenames>Lt</Forenames>
+      <Text>. (temp. Capt.) E. L. (Brig.Maj. and ret. temp, rank)</Text>
       <PageNumber>913</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -39,14 +39,14 @@
     <MainItem>
       <Key>Wylde</Key>
       <Forenames>L. G.</Forenames>
+      <Text>(spec. appt. and temp. 2nd Lt.)</Text>
+      <PageNumber>3067</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>3067</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Wynne</Key>
+      <Text>(temp.) Lt. J. B. (spec. appt., Gen. List)</Text>
       <PageNumber>1127</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -73,15 +73,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Yarde-Buller</Key>
-      <Title>Col.</Title>
+      <Text>, Col. (temp. Brig.i Gen.) the Hon. H., M.V.O., D.S.O: (temp. Mil. Attache and retain temp, rank)</Text>
+      <PageNumber>2347</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>2347</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Young</Key>
+      <Text>(temp.) Capt. D. (G.S.O., 3rd Gr., Gen. List)</Text>
       <PageNumber>2595</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -90,10 +89,8 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Title>Lt. Col.</Title>
-      <Text>
-        <CategoryTitle>CLE</CategoryTitle>
-      </Text>
+      <Forenames>Lt</Forenames>
+      <Text>. Col. (temp. Col.) H. A., CLE. (temp. Dir. of Ord. Fac. and retain temp, rank)</Text>
       <PageNumber>2739</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -102,8 +99,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Title>Col.</Title>
-      <Text>(temp. Brig.-Gen.) J. R. (rel. rank of temp. Brig.Gen.)</Text>
+      <Text>Col. (temp. Brig.-Gen.) J. R. (rel. rank of temp. Brig.Gen.)</Text>
       <PageNumber>3110</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -112,15 +108,15 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Title>Lt.</Title>
+      <Forenames>Lt</Forenames>
+      <Text>. (temp. Capt.) K. de L., M.C. (Staff Capt. and retain temp, rank)</Text>
+      <PageNumber>2635</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>2635</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Younger</Key>
+      <Text>(temp.) Lt. C. A. J. (Asst. Prov. Marshal and temp. Capt.)</Text>
       <PageNumber>441</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -129,23 +125,24 @@
       <Key>Ziegler</Key>
       <Title>Maj.</Title>
       <Forenames>C. L.</Forenames>
+      <Text>(Brig.-Maj.)</Text>
+      <PageNumber>1739</PageNumber>
+      <PageNumber>2122</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>1739</PageNumber>
-    <PageNumber>2122</PageNumber>
-    <CategoryTitle>ESTABLISHMENTS</CategoryTitle>
-    <SectionTitle>Ministry of Munitions</SectionTitle>
-    <ItemGroup>
-      <MainItem>
-        <Key>Bland</Key>
-        <PageNumber>2101</PageNumber>
-      </MainItem>
-    </ItemGroup>
-  </Text>
+  <SubCategoryTitle>ESTABLISHMENTS</SubCategoryTitle>
+  <SubSectionTitle>Ministry of Munitions</SubSectionTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Bland</Key>
+      <Text>,-Lt.-Col. (temp. Brig.-Gen.) W. St. C.,. C.B. (President Ord. Committee, and ret. temp. „ k)</Text>
+      <PageNumber>2101</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Bussell</Key>
+      <Text>, (temp.) .Capt. A. C. (temp. Staff Ca.pt., Gen. List)</Text>
       <PageNumber>562</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -153,28 +150,30 @@
     <MainItem>
       <Key>Ogilvie</Key>
       <Forenames>F. G.</Forenames>
+      <Text>C.B. (spec.. appt. and temp. Maj.)</Text>
+      <PageNumber>818</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>818</PageNumber>
-    <ItemGroup>
-      <MainItem>
-        <Key>Stern</Key>
-        <PageNumber>818</PageNumber>
-      </MainItem>
-    </ItemGroup>
-    <ItemGroup>
-      <MainItem>
-        <SectionTitle>
-          <Key>Horse</Key>
-        </SectionTitle>
-        <PageNumber>677</PageNumber>
-      </MainItem>
-    </ItemGroup>
-  </Text>
+  <ItemGroup>
+    <MainItem>
+      <Key>Stern</Key>
+      <Text>, (temp.) Maj. (temp. Lt.-Col. j A. G. (spec, appt.)</Text>
+      <PageNumber>818</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <SubSectionTitle>School of Instruction for Royal Horse and Royal Field Artillery</SubSectionTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Burton</Key>
+      <Forenames>Lt</Forenames>
+      <Text>. (temp. Capt.) L. (Capt. Instr. in Gunnery and ret. temp, rank and seed.)</Text>
+      <PageNumber>677</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Crisp</Key>
+      <Text>, 2nd Lt. (temp.Capt.) S. S. (Capt. Instr. in Gunnery and iret. temp, rank)</Text>
       <PageNumber>446</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -183,11 +182,11 @@
       <Key>Gibbon</Key>
       <Title>Maj.</Title>
       <Forenames>J. H.</Forenames>
-    </MainItem>
-    <Text>
+      <Text>, D.S.O. (Maj. Instr. in Gunnery and seed.)</Text>
       <PageNumber>2127</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Oomdt. and Ch. Instr., seicd., and tamp. Lt.-Col</Text>
       <PageNumber>3179</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -214,19 +213,19 @@
       <Key>Towells</Key>
       <Title>Lt.</Title>
       <Forenames>W. M.</Forenames>
+      <Text>(Capt. Instr. . in Gunnery and seed, and aotg. Capi). .;</Text>
+      <PageNumber>810</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>810</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Wingrove</Key>
+      <Text>, (temp.), Lt. R. W. (Capt. Inspr. in Gunnery and actg. .. Capt.)</Text>
       <PageNumber>1472</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SectionTitle>Royal Military Academy</SectionTitle>
-  <SectionTitle>Cadets</SectionTitle>
+  <SubSectionTitle>Royal Military Academy</SubSectionTitle>
+  <SubSectionTitle>Officers of Companies of Gentlemen Cadets</SubSectionTitle>
   <ItemGroup>
     <MainItem>
       <Key>Boulnois</Key>
@@ -266,13 +265,13 @@
     <MainItem>
       <Key>Middleton</Key>
       <Title>Capt.</Title>
-      <Forenames>A.</Forenames>
-      <Text>A (temp, and seed.)</Text>
+      <Forenames>A. A</Forenames>
+      <Text>(temp, and seed.)</Text>
       <PageNumber>2260</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SectionTitle>Royal Military College</SectionTitle>
-  <SectionTitle>Cadets</SectionTitle>
+  <SubSectionTitle>Royal Military College</SubSectionTitle>
+  <SubSectionTitle>Officers of Companies of Gentlemen Cadets</SubSectionTitle>
   <ItemGroup>
     <MainItem>
       <Key>Cavendish-Bentinck</Key>
@@ -285,7 +284,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dean</Key>
-      <Title>Oapt.</Title>
+      <Title>Capt.</Title>
       <Forenames>H. H.</Forenames>
       <Text>(seed.)</Text>
       <PageNumber>2127</PageNumber>
@@ -323,32 +322,35 @@
       <Key>Haworth</Key>
       <Title>Maj.</Title>
       <Forenames>R.</Forenames>
+      <Text>, D.S.O. (temp.)</Text>
+      <PageNumber>2960</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>2960</PageNumber>
-    <ItemGroup>
-      <MainItem>
-        <Key>Jameson</Key>
-        <PageNumber>1132</PageNumber>
-      </MainItem>
-    </ItemGroup>
-    <ItemGroup>
-      <MainItem>
-        <Key>Long</Key>
-        <PageNumber>1132</PageNumber>
-      </MainItem>
-    </ItemGroup>
-    <ItemGroup>
-      <MainItem>
-        <Key>Martin</Key>
-        <PageNumber>1132</PageNumber>
-      </MainItem>
-    </ItemGroup>
-  </Text>
+  <ItemGroup>
+    <MainItem>
+      <Key>Jameson</Key>
+      <Text>, (temp.) Capt. H. P. (temp. Maj.)</Text>
+      <PageNumber>1132</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Long</Key>
+      <Text>, (temp.) Lt. R. C. (temp. Maj.)</Text>
+      <PageNumber>1132</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Martin</Key>
+      <Text>, (temp.) Lt. A. C. (temp. Maj.)</Text>
+      <PageNumber>1132</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Metcalfe</Key>
+      <Text>, (temp.) Capt. B. T. (temp. Maj.)</Text>
       <PageNumber>1132</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -391,8 +393,7 @@
     <MainItem>
       <Key>Starkey</Key>
       <Title>Maj.</Title>
-      <Forenames>J.</Forenames>
-      <Text>H</Text>
+      <Forenames>J. H</Forenames>
       <PageNumber>1583</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -401,39 +402,44 @@
       <Key>Stephen</Key>
       <Title>Maj.</Title>
       <Forenames>H. C.</Forenames>
+      <Text>(G.S.O.)</Text>
+      <PageNumber>474</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <Text>
-    <PageNumber>474</PageNumber>
     <SubItem>
+      <Text>Correction of name</Text>
       <PageNumber>810</PageNumber>
     </SubItem>
-    <SectionTitle>Centre</SectionTitle>
-    <ItemGroup>
-      <MainItem>
-        <Key>Allan</Key>
-        <PageNumber>1883</PageNumber>
-      </MainItem>
-      <SubItem>
-        <PageNumber>2743</PageNumber>
-      </SubItem>
-    </ItemGroup>
-    <ItemGroup>
-      <MainItem>
-        <Key>Arnold</Key>
-        <PageNumber>2637</PageNumber>
-      </MainItem>
-    </ItemGroup>
-    <ItemGroup>
-      <MainItem>
-        <Key>Bow</Key>
-        <PageNumber>2755</PageNumber>
-      </MainItem>
-    </ItemGroup>
-  </Text>
+  </ItemGroup>
+  <SubSectionTitle>Machine-Gun Corps Training Centre</SubSectionTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Allan</Key>
+      <Text>, (temp.) .Lt. J. (Asst. Inatr.)</Text>
+      <PageNumber>1883</PageNumber>
+    </MainItem>
+    <SubItem>
+      <Text>iSoib. Not.</Text>
+      <PageNumber>2743</PageNumber>
+    </SubItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Arnold</Key>
+      <Text>, 2nd Lt. W. K. (Asst. Instr.)</Text>
+      <PageNumber>2637</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Bow</Key>
+      <Text>en, Capt. T. S. (Asst. Instr. and rem. seed.)</Text>
+      <PageNumber>2755</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Bowman</Key>
+      <Text>, (temp.) 2nd Lt. G. E. (Asst. Instr. and temp. Lt.)</Text>
       <PageNumber>285</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -451,14 +457,14 @@
       <Key>Davidson</Key>
       <Title>Capt.</Title>
       <Forenames>J. M.</Forenames>
+      <Text>(Instr.)</Text>
+      <PageNumber>2637</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>2637</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Forwood</Key>
+      <Text>, 2nd Lt. H. (Asst. Instr.)</Text>
       <PageNumber>2637</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -476,22 +482,21 @@
       <Key>Helps</Key>
       <Title>Capt.</Title>
       <Forenames>R. A.</Forenames>
+      <Text>(Instr.)</Text>
+      <PageNumber>2637</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>2637</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Herbert-Smith</Key>
+      <Text>, (temp.) Capt. G. M.. (Instr.)</Text>
       <PageNumber>2609</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Jenkins</Key>
-      <Title>Capt.</Title>
-      <Text>(temp. Lt.-Col.) N. F., C.M.G. (Dep. Comdr. and temp. Col.)</Text>
+      <Text>, Capt. (temp. Lt.-Col.) N. F., C.M.G. (Dep. Comdr. and temp. Col.)</Text>
       <PageNumber>285</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -500,14 +505,14 @@
       <Key>Laskey</Key>
       <Title>Capt.</Title>
       <Forenames>F. S.</Forenames>
+      <Text>(Asst. Instr.)</Text>
+      <PageNumber>106</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>106</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Malim</Key>
+      <Text>, (temp.) Cadt. E. J. (Asst. Instr.) .,</Text>
       <PageNumber>1883</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -516,26 +521,28 @@
       <Key>Mathew-Lannowe</Key>
       <Title>Maj.</Title>
       <Forenames>E. B.</Forenames>
+      <Text>(G.S.O., 1st Grade, and temp. . Lt.-Col.) (Sub. Not.)</Text>
+      <PageNumber>2743</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>2743</PageNumber>
-    <ItemGroup>
-      <MainItem>
-        <Key>Morrice</Key>
-        <PageNumber>285</PageNumber>
-      </MainItem>
-    </ItemGroup>
-    <ItemGroup>
-      <MainItem>
-        <Key>Payn</Key>
-        <PageNumber>2017</PageNumber>
-      </MainItem>
-    </ItemGroup>
-  </Text>
+  <ItemGroup>
+    <MainItem>
+      <Key>Morrice</Key>
+      <Text>, (temp.) Capt. K. D. R. (Asst. Instr.)</Text>
+      <PageNumber>285</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Payn</Key>
+      <Text>. Maj. W. A. (G.S.O., 2nd Grade)</Text>
+      <PageNumber>2017</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Roscoe</Key>
+      <Text>, (temp.) Lt. (temp. Capt.) W. (Asst. Instr.)</Text>
       <PageNumber>2609</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -544,27 +551,29 @@
       <Key>Shipster</Key>
       <Title>Capt.</Title>
       <Forenames>W. N.</Forenames>
+      <Text>, M.C. (Instr.)</Text>
+      <PageNumber>2609</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>2609</PageNumber>
-    <ItemGroup>
-      <MainItem>
-        <Key>Wol</Key>
-        <PageNumber>2726</PageNumber>
-      </MainItem>
-    </ItemGroup>
-    <SectionTitle>Administrative Groups</SectionTitle>
-    <ItemGroup>
-      <MainItem>
-        <Key>Baker</Key>
-        <PageNumber>2242</PageNumber>
-      </MainItem>
-    </ItemGroup>
-  </Text>
   <ItemGroup>
     <MainItem>
-      <Key>FuTbank</Key>
+      <Key>Wollaston</Key>
+      <Text>. 2nd Lt. (temp. Capt.) H. C. (Asst. Instr. and ret. temp. Tank)</Text>
+      <PageNumber>2726</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <SubSectionTitle>Machine-Gun Corps School and Administrative Groups</SubSectionTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Baker</Key>
+      <Text>, (temp.) 2nd Lt. A. H. (Asst. Instr. and temp. Lt.)</Text>
+      <PageNumber>2242</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Furbank</Key>
+      <Text>, (temp.) Lt. A. W. (Asst. Instr.)</Text>
       <PageNumber>2100</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -573,11 +582,11 @@
       <Key>Gibson</Key>
       <Title>Capt.</Title>
       <Forenames>F. M. S.</Forenames>
-    </MainItem>
-    <Text>
+      <Text>(Asst. instr.)</Text>
       <PageNumber>2100</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>IiiStir</Text>
       <PageNumber>2100</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -593,21 +602,21 @@
   <ItemGroup>
     <MainItem>
       <Key>Lyttleton</Key>
-      <Title>Capt.</Title>
+      <Text>, Capt. (Bt. Maj.) A. G. (Instr.)</Text>
+      <PageNumber>2127</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>2127</PageNumber>
-    <ItemGroup>
-      <MainItem>
-        <Key>Nairn</Key>
-        <PageNumber>2100</PageNumber>
-      </MainItem>
-    </ItemGroup>
-  </Text>
+  <ItemGroup>
+    <MainItem>
+      <Key>Nairn</Key>
+      <Text>, (temp.) Lt. D. R. (Asst. Instr.)</Text>
+      <PageNumber>2100</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Pentland</Key>
+      <Text>, (temp.) Lt. G. C. C. (Asst. Instr.)</Text>
       <PageNumber>2100</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -625,28 +634,31 @@
       <Key>Sharp</Key>
       <Title>Capt.</Title>
       <Forenames>A. T.</Forenames>
+      <Text>(Asst. Instr.)</Text>
+      <PageNumber>2100</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>2100</PageNumber>
-    <ItemGroup>
-      <MainItem>
-        <SectionTitle>
-          <Key>School</Key>
-        </SectionTitle>
-        <PageNumber>2516</PageNumber>
-      </MainItem>
-    </ItemGroup>
-    <ItemGroup>
-      <MainItem>
-        <Key>Alton</Key>
-        <PageNumber>2516</PageNumber>
-      </MainItem>
-    </ItemGroup>
-  </Text>
+  <SubSectionTitle>School of Aerial Gunnery</SubSectionTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Alford</Key>
+      <Title>Lt.</Title>
+      <Forenames>F. R.</Forenames>
+      <Text>, M.C. (Asst. Instr.)</Text>
+      <PageNumber>2516</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Alton</Key>
+      <Text>, (temp.) 2nd Lt. H. F. (Asst. Instr. and temp. Lt.)</Text>
+      <PageNumber>2516</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Anderson</Key>
+      <Text>, 2nd Lt. (temp. Capt.) A. J. G. (Instor. and ret. temp. rank)</Text>
       <PageNumber>2516</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -671,33 +683,36 @@
   <ItemGroup>
     <MainItem>
       <Key>Chaney</Key>
-      <Title>Lt.</Title>
+      <Forenames>Lt</Forenames>
+      <Text>. (temp. Maj.) H. E. (Comdt. and temp. Lt.-Col.)</Text>
+      <PageNumber>2516</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>2516</PageNumber>
-    <ItemGroup>
-      <MainItem>
-        <Key>Cockerell</Key>
-        <PageNumber>2516</PageNumber>
-      </MainItem>
-    </ItemGroup>
-    <ItemGroup>
-      <MainItem>
-        <Key>Cooper</Key>
-        <PageNumber>2516</PageNumber>
-      </MainItem>
-    </ItemGroup>
-    <ItemGroup>
-      <MainItem>
-        <Key>Gaudion</Key>
-        <PageNumber>2516</PageNumber>
-      </MainItem>
-    </ItemGroup>
-  </Text>
+  <ItemGroup>
+    <MainItem>
+      <Key>Cockerell</Key>
+      <Text>, (temp.) Lt. H. (Instr. and temp. Capt.)</Text>
+      <PageNumber>2516</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Cooper</Key>
+      <Text>, 2nd Lt. (on prob.) J. A. (Asst. Instr. and temp. Lt.)</Text>
+      <PageNumber>2516</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Gaudion</Key>
+      <Text>, (temp.) 2nd LA. J. H. (Asst. Instr. and temp. Lt., Gen. List)</Text>
+      <PageNumber>2516</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Gunyon</Key>
+      <Text>, (temp.) 2nd Lt. C. P. H. (Asst. Instr. and temp.-Lt.)</Text>
       <PageNumber>2516</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -706,105 +721,115 @@
       <Key>Mercer</Key>
       <Title>Lt.</Title>
       <Forenames>G. H. J.</Forenames>
+      <Text>(Asst. Instr. and seed.)</Text>
+      <PageNumber>2516</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>2516</PageNumber>
-    <SectionTitle>School of Military Aeronautics</SectionTitle>
-  </Text>
+  <SubSectionTitle>School of Military Aeronautics</SubSectionTitle>
   <ItemGroup>
     <MainItem>
       <Key>Anne</Key>
+      <Text>, (temp.) Capt. C. E. I. C. (Chief Instr. and temp. Maj.)</Text>
       <PageNumber>2595</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Asbby</Key>
-      <Title>Lt.</Title>
+      <Forenames>Lt</Forenames>
+      <Text>. (temp. Capt.) G. S. M. (Chief Instr. and temp. Maj.)</Text>
+      <PageNumber>2124</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>2124</PageNumber>
-    <ItemGroup>
-      <MainItem>
-        <Key>Bishop</Key>
-        <PageNumber>2595</PageNumber>
-      </MainItem>
-    </ItemGroup>
-    <ItemGroup>
-      <MainItem>
-        <Key>Day</Key>
-        <PageNumber>1362</PageNumber>
-      </MainItem>
-    </ItemGroup>
-    <ItemGroup>
-      <MainItem>
-        <Key>Earl</Key>
-        <PageNumber>1362</PageNumber>
-      </MainItem>
-    </ItemGroup>
-    <ItemGroup>
-      <MainItem>
-        <Key>Fleming-Williams</Key>
-        <PageNumber>1362</PageNumber>
-      </MainItem>
-    </ItemGroup>
-    <ItemGroup>
-      <MainItem>
-        <Key>Hawksford</Key>
-        <PageNumber>1362</PageNumber>
-      </MainItem>
-    </ItemGroup>
-    <ItemGroup>
-      <MainItem>
-        <Key>Hilliar</Key>
-        <PageNumber>2828</PageNumber>
-      </MainItem>
-    </ItemGroup>
-    <ItemGroup>
-      <MainItem>
-        <Key>Jan-man</Key>
-        <PageNumber>1362</PageNumber>
-      </MainItem>
-    </ItemGroup>
-    <ItemGroup>
-      <MainItem>
-        <Key>King</Key>
-        <PageNumber>2349</PageNumber>
-      </MainItem>
-    </ItemGroup>
-    <ItemGroup>
-      <MainItem>
-        <Key>Lattey</Key>
-        <PageNumber>1362</PageNumber>
-      </MainItem>
-    </ItemGroup>
-    <ItemGroup>
-      <MainItem>
-        <Key>MacCallum</Key>
-        <PageNumber>2124</PageNumber>
-      </MainItem>
-    </ItemGroup>
-  </Text>
+  <ItemGroup>
+    <MainItem>
+      <Key>Bishop</Key>
+      <Text>, 2nd Lt. (temp. Lt.) A. C. (Asst. Instr., appt. as can-^ celled)</Text>
+      <PageNumber>2595</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Day</Key>
+      <Text>, 2nd Lt. A. C. (Asst. Insfcr. and temp. Lt.)</Text>
+      <PageNumber>1362</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Earl</Key>
+      <Text>, 2nd Lt. (on prob.) H. E. (Asst. Instr. and temp. Lt.)</Text>
+      <PageNumber>1362</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Fleming-Williams</Key>
+      <Text>, 2nd Lt. C. R. (Asst. Instr. and temp. Lt.)</Text>
+      <PageNumber>1362</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Hawksford</Key>
+      <Text>, (temp.) 2nd Lt. F. H. (Asst. Instr. and temp. Lt.)</Text>
+      <PageNumber>1362</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Hilliar</Key>
+      <Text>, 2nd Lt. G. A. (Asst. Instr. and temp. Lt.)</Text>
+      <PageNumber>2828</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Jan-man</Key>
+      <Text>, 2nd Lt. H. E. (Asst. Instr. and temp. Lt.)</Text>
+      <PageNumber>1362</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>King</Key>
+      <Text>, 2nd Lt. W. J. (Asst. Instr. and temp. Lt.)</Text>
+      <PageNumber>2349</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Lattey</Key>
+      <Text>, 2nd Lt. R. T. (Asst. Instr. and temp. Lt.)</Text>
+      <PageNumber>1362</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>MacCallum</Key>
+      <Text>, (temp.) Maj. A. E. G. (Inspr. of Technical Training)</Text>
+      <PageNumber>2124</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>McGrae</Key>
+      <Text>, 2nd Lt. J. (Asst. Instr. and temp. Lt.)</Text>
       <PageNumber>1362</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>McNab</Key>
-      <Title>Lt.</Title>
+      <Forenames>Lt</Forenames>
+      <Text>. . (temp. Capt.) C. S. (Asst. Comdit. Staff Offr., 2nd CI.)</Text>
+      <PageNumber>2843</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>2843</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Payne</Key>
+      <Text>, (temp.) 2nd Lt. J. A. (Asst. Instr. and temp. Lt.)</Text>
       <PageNumber>1362</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -813,40 +838,43 @@
       <Key>Rees</Key>
       <Title>Capt.</Title>
       <Forenames>V. O.</Forenames>
+      <Text>(Instr.)</Text>
+      <PageNumber>1362</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>1362</PageNumber>
-    <MainItem>Turner, 2nd Lt. G. A. (Asst. Instr. Mid temp. Lt.) 1362</MainItem>
-  </Text>
   <ItemGroup>
-    <Key>Turner</Key>
-    <PageNumber>1362</PageNumber>
+    <MainItem>
+      <Key>Turner</Key>
+      <Text>, 2nd Lt. G. A. (Asst. Instr. Mid temp. Lt.)</Text>
+      <PageNumber>1362</PageNumber>
+    </MainItem>
     <SubItem>
+      <Text>Instr. .and temp. Capt</Text>
       <PageNumber>1362</PageNumber>
     </SubItem>
   </ItemGroup>
-  <SectionTitle>Royal Flying Corps</SectionTitle>
-  <SectionTitle>Central Flying School</SectionTitle>
+  <SubSectionTitle>Royal Flying Corps</SubSectionTitle>
+  <SubSectionTitle>Central Flying School</SubSectionTitle>
   <ItemGroup>
     <MainItem>
       <Key>Barber</Key>
       <Title>Capt.</Title>
       <Forenames>H. C.</Forenames>
+      <Text>(Instr. in Theory and Construction)</Text>
+      <PageNumber>2124</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>2124</PageNumber>
-    <ItemGroup>
-      <MainItem>
-        <Key>Bateman</Key>
-        <PageNumber>1362</PageNumber>
-      </MainItem>
-    </ItemGroup>
-  </Text>
+  <ItemGroup>
+    <MainItem>
+      <Key>Bateman</Key>
+      <Text>, (temp.) 2nd Lt. A. D. (Asst. Instr. and temp. Lt.)</Text>
+      <PageNumber>1362</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Bishop</Key>
+      <Text>, 2nd Lt. (temp. Lt.) A. C. (Asst. Instr. and ret. temp. rank)</Text>
       <PageNumber>1362</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -855,61 +883,63 @@
       <Key>Clarke</Key>
       <Title>Capt.</Title>
       <Forenames>A. C.</Forenames>
+      <Text>(Instr. and seed.)</Text>
+      <PageNumber>1041</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <Text>
-    <PageNumber>1041</PageNumber>
     <SubItem>
+      <Text>Instr .'</Text>
       <PageNumber>2516</PageNumber>
     </SubItem>
-  </Text>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Craven</Key>
+      <Text>. 2nd Lt. P. (Asst. Instr. and temp. Lt.)</Text>
       <PageNumber>1362</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Davidson</Key>
-      <Title>Lt.</Title>
+      <Forenames>Lt</Forenames>
+      <Text>. (temp. Capt.) D. A. L., M.C. (Instr.)</Text>
+      <PageNumber>1041</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>1041</PageNumber>
-    <ItemGroup>
-      <MainItem>
-        <Key>
-          <KeyDitto>___ ___ .</KeyDitto>
-        </Key>
-        <PageNumber>2516</PageNumber>
-      </MainItem>
-    </ItemGroup>
-    <ItemGroup>
-      <MainItem>
-        <Key>Dundas</Key>
-        <PageNumber>1041</PageNumber>
-      </MainItem>
-    </ItemGroup>
-  </Text>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ .</KeyDitto>
+      </Key>
+      <Text>2nd Lt. (temp. Capt.) T. (Instr.)</Text>
+      <PageNumber>2516</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Dundas</Key>
+      <Text>, (.temp.) Cap*., Lord G. H. L. (Instr.)</Text>
+      <PageNumber>1041</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hodgson</Key>
+      <Text>, (temp.) Capt. G. B. (Instr.)</Text>
       <PageNumber>1041</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Lawrence</Key>
-      <Title>Capt.</Title>
+      <Text>, Capt. (temp. 'Maj.) G. A. K., D.S.O. (Asst. Comdt. and temp. Lt.-Col.)</Text>
+      <PageNumber>818</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>818</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Wilkinson</Key>
+      <Text>. Lt. (temp. Capt.) A. M., D.S.O. (Instr.)</Text>
       <PageNumber>1041</PageNumber>
     </MainItem>
   </ItemGroup>

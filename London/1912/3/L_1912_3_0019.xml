@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="0019" pageID="https://www.thegazette.co.uk/id/London/index/year/1912/volume/3/page/0019" pagePDF="https://www.thegazette.co.uk/London/index/year/1912/volume/3/page/0019" pageRDF="https://www.thegazette.co.uk/London/index/year/1912/volume/3/page/0019?view=linked-data" type="index" volume="3" year="1912">
-  <SubCategoryTitle>MILITARY PROMOTIONS, Line Battalions.</SubCategoryTitle>
+<Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="019" pageID="https://www.thegazette.co.uk/id/London/index/year/1912/volume/3/page/019" pagePDF="https://www.thegazette.co.uk/London/index/year/1912/volume/3/page/019" pageRDF="https://www.thegazette.co.uk/London/index/year/1912/volume/3/page/019?view=linked-data" type="index" volume="3" year="1912">
   <ItemGroup>
     <MainItem>
       <Key>Brook</Key>
@@ -22,22 +21,23 @@
     <MainItem>
       <Key>Hudson</Key>
       <Forenames>P.</Forenames>
+      <Text>(Capt.)</Text>
+      <PageNumber>6535</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>6535</PageNumber>
-    <ItemGroup>
-      <MainItem>
-        <Key>
-          <KeyDitto>___ ___</KeyDitto>
-        </Key>
-        <PageNumber>6858</PageNumber>
-      </MainItem>
-    </ItemGroup>
-  </Text>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Text>(Adjt.)</Text>
+      <PageNumber>6858</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>O</Key>
+      <Text>'Flynn, D. R. C. D. (Capt.)</Text>
       <PageNumber>6286</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -128,14 +128,14 @@
     <MainItem>
       <Key>Peebles</Key>
       <Forenames>E. C.</Forenames>
+      <Text>(Lieut.-Col.) ...</Text>
+      <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>ibid.</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Wills</Key>
+      <Text>0. S. D. (2nd Lieut.)</Text>
       <PageNumber>6537</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -290,13 +290,13 @@
       <PageNumber>6535</PageNumber>
     </MainItem>
   </ItemGroup>
+  <SectionTitle>The Prince of Wales's Own (West Yorkshire Regiment)</SectionTitle>
   <ItemGroup>
     <MainItem>
-      <Key>The</Key>
-      <Title>Prince</Title>
-      <Text>
-        <SectionTitle>Yorkshire Regiment)</SectionTitle>
-      </Text>
+      <Key>Bird</Key>
+      <Title>Capt.</Title>
+      <Forenames>H. J. G.</Forenames>
+      <Text>(resigned)</Text>
       <PageNumber>5921</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -304,14 +304,14 @@
     <MainItem>
       <Key>Butler</Key>
       <Forenames>E. G.</Forenames>
+      <Text>(Qrmr. and Hon. Lieut.)</Text>
+      <PageNumber>5725</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>5725</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>De</Key>
+      <Text>la Pryme, W. H. (Adjt.)</Text>
       <PageNumber>5529</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -429,14 +429,14 @@
     <MainItem>
       <Key>Hatch</Key>
       <Forenames>R. B. L.</Forenames>
+      <Text>(2nd Lieut.)</Text>
+      <PageNumber>6537</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>6537</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Leyborne</Key>
+      <Text>Popham, F. H. A. (Lieut.)</Text>
       <PageNumber>6858</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -736,7 +736,7 @@
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SectionTitle>ist Cadet Battalion</SectionTitle>
+  <SubSectionTitle>ist Cadet Battalion</SubSectionTitle>
   <ItemGroup>
     <MainItem>
       <Key>Carter</Key>
@@ -814,13 +814,13 @@
       <PageNumber>5529</PageNumber>
     </MainItem>
   </ItemGroup>
+  <SectionTitle>The King's Own Scottish Borderers</SectionTitle>
   <ItemGroup>
     <MainItem>
-      <SectionTitle>
-        <Key>The</Key>
-        <Title>King</Title>
-      </SectionTitle>
-      <Text>'s Own Scottish Borderers. Campbell, Lieut. J. K. B. (seconded)</Text>
+      <Key>Campbell</Key>
+      <Title>Lieut.</Title>
+      <Forenames>J. K. B.</Forenames>
+      <Text>(seconded)</Text>
       <PageNumber>4972</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -841,13 +841,13 @@
       <PageNumber>7023</PageNumber>
     </MainItem>
   </ItemGroup>
+  <SectionTitle>The Cameronians (Scottish Rifles)</SectionTitle>
   <ItemGroup>
     <MainItem>
-      <SectionTitle>
-        <Key>The</Key>
-        <Forenames>Cameronians</Forenames>
-      </SectionTitle>
-      <Text>(Scottish Rifles). Brodie, 2nd Lieut. R. H. (resigned)</Text>
+      <Key>Brodie</Key>
+      <Title>2nd Lieut.</Title>
+      <Forenames>R. H.</Forenames>
+      <Text>(resigned)</Text>
       <PageNumber>5183</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -871,24 +871,23 @@
     <MainItem>
       <Key>Sim</Key>
       <Forenames>H. A. C.</Forenames>
+      <Text>(2nd Lieut.)</Text>
+      <PageNumber>5856</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>5856</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Wanless-O</Key>
+      <Text>'Gowan, L. (Lieut.)</Text>
       <PageNumber>5355</PageNumber>
     </MainItem>
   </ItemGroup>
+  <SectionTitle>The Royal Inniskilling Fusiliers</SectionTitle>
   <ItemGroup>
     <MainItem>
-      <SectionTitle>
-        <Key>The</Key>
-        <Forenames>Royal Inniskilling Fusiliers</Forenames>
-      </SectionTitle>
-      <Text>. Allen, H. A. (2nd Lieut.)</Text>
+      <Key>Allen</Key>
+      <Forenames>H. A.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>6537</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -904,8 +903,8 @@
     <MainItem>
       <Key>Mitchell</Key>
       <Title>Capt.</Title>
-      <Forenames>R.</Forenames>
-      <Text>'W. H. (retired)</Text>
+      <Forenames>R.W. H.</Forenames>
+      <Text>(retired)</Text>
       <PageNumber>6286</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -939,14 +938,14 @@
     <MainItem>
       <Key>Gamier</Key>
       <Forenames>D. K.</Forenames>
+      <Text>(2nd Lieut.)</Text>
+      <PageNumber>5856</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>5856</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Genge</Key>
+      <Text>Andrews, Lieut. H. (seconded) -</Text>
       <PageNumber>5725</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -954,14 +953,14 @@
     <MainItem>
       <Key>Harding</Key>
       <Forenames>A. D.</Forenames>
+      <Text>(2nd Lieut.)</Text>
+      <PageNumber>6537</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>6537</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Heaven</Key>
+      <Text>L, G. H. (Lieut.)</Text>
       <PageNumber>4750</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1004,14 +1003,14 @@
       <Key>Arden</Key>
       <Title>Capt.</Title>
       <Forenames>J. H. M.</Forenames>
+      <Text>(retired)</Text>
+      <PageNumber>6700</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>6700</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Elliott</Key>
+      <Text>±1. S. (Lieut.) ... '</Text>
       <PageNumber>7023</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1187,19 +1186,19 @@
   <ItemGroup>
     <MainItem>
       <Key>Smalley</Key>
-      <Title>Mai.</Title>
+      <Title>Maj.</Title>
       <Forenames>H. D.</Forenames>
       <Text>(temporary half-pay list)</Text>
       <PageNumber>6375</PageNumber>
     </MainItem>
   </ItemGroup>
+  <SectionTitle>The Duke, of Cornwall's Light Infantry</SectionTitle>
   <ItemGroup>
     <MainItem>
-      <Key>The</Key>
-      <Title>Duke</Title>
-      <Text>
-        <SectionTitle>Infantry</SectionTitle>
-      </Text>
+      <Key>Aves</Key>
+      <Title>Lieut.</Title>
+      <Forenames>A. C. A.</Forenames>
+      <Text>(seconded)</Text>
       <PageNumber>4750</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1277,13 +1276,12 @@
       <PageNumber>5183</PageNumber>
     </MainItem>
   </ItemGroup>
+  <SectionTitle>The Duke of Wellington's (West Riding Regiment)</SectionTitle>
   <ItemGroup>
     <MainItem>
-      <Key>The</Key>
-      <Title>Duke</Title>
-      <Text>
-        <SectionTitle>Riding Regiment)</SectionTitle>
-      </Text>
+      <Key>Bald</Key>
+      <Forenames>E. A.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>5529</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1299,14 +1297,14 @@
     <MainItem>
       <Key>Oliphant</Key>
       <Forenames>G. W.</Forenames>
+      <Text>(2nd. Lieut.) ...</Text>
+      <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>ibid.</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Rusbridger</Key>
+      <Text>Lieut. G. S. W. (seconded)</Text>
       <PageNumber>5083</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1323,14 +1321,14 @@
     <MainItem>
       <Key>Hodgson</Key>
       <Forenames>G. W. H.</Forenames>
+      <Text>(2nd Lieut.)</Text>
+      <PageNumber>5856</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>5856</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>O</Key>
+      <Text>'Brien, Maj. H. M. S. (antedated)</Text>
       <PageNumber>6102</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1392,13 +1390,12 @@
       <PageNumber>5422</PageNumber>
     </MainItem>
   </ItemGroup>
+  <SectionTitle>The South Staffordshire Regiment</SectionTitle>
   <ItemGroup>
     <MainItem>
-      <SectionTitle>
-        <Key>The</Key>
-        <Forenames>South Staffordshire Regiment</Forenames>
-      </SectionTitle>
-      <Text>. Crousaz, C. F. (Lieut.)</Text>
+      <Key>Crousaz</Key>
+      <Forenames>C. F.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>4750</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1476,14 +1473,14 @@
       <Key>Shute</Key>
       <Title>Capt.</Title>
       <Forenames>J. V.</Forenames>
+      <Text>^seconded) .:</Text>
+      <PageNumber>7023</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>7023</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Willes</Key>
+      <Text>WT F. G. (Capt.)</Text>
       <PageNumber>4972</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="0025" pageID="https://www.thegazette.co.uk/id/London/index/year/1911/volume/1/page/0025" pagePDF="https://www.thegazette.co.uk/London/index/year/1911/volume/1/page/0025" pageRDF="https://www.thegazette.co.uk/London/index/year/1911/volume/1/page/0025?view=linked-data" type="index" volume="1" year="1911">
+<Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="025" pageID="https://www.thegazette.co.uk/id/London/index/year/1911/volume/1/page/025" pagePDF="https://www.thegazette.co.uk/London/index/year/1911/volume/1/page/025" pageRDF="https://www.thegazette.co.uk/London/index/year/1911/volume/1/page/025?view=linked-data" type="index" volume="1" year="1911">
+  <SubSectionTitle>Royal Horse Artillery</SubSectionTitle>
   <ItemGroup>
     <MainItem>
-      <SectionTitle>
-        <Key>Royal</Key>
-        <Forenames>Horse Artillery</Forenames>
-      </SectionTitle>
-      <Text>. Barr, Lieut. H. C. (resigned)</Text>
+      <Key>Barr</Key>
+      <Title>Lieut.</Title>
+      <Forenames>H. C.</Forenames>
+      <Text>(resigned)</Text>
       <PageNumber>130</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -43,7 +43,7 @@
       <PageNumber>2236</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SectionTitle>Royal Field Artillery</SectionTitle>
+  <SubSectionTitle>Royal Field Artillery</SubSectionTitle>
   <ItemGroup>
     <MainItem>
       <Key>Allen</Key>
@@ -63,8 +63,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bibby</Key>
-      <Title>Surg.</Title>
-      <Text>-Capt. J. E. (resigned)</Text>
+      <Forenames>Surg</Forenames>
+      <Text>.-Capt. J. E. (resigned)</Text>
       <PageNumber>1469</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -282,14 +282,6 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Fox</Key>
-      <Forenames>E.</Forenames>
-      <Text>.1. (Lieut.)</Text>
-      <PageNumber>17</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
       <Key>Francis</Key>
       <Forenames>N. C. F.</Forenames>
       <Text>(2nd Lieut.)</Text>
@@ -490,7 +482,7 @@
     <MainItem>
       <Key>Langley-Taylor</Key>
       <Forenames>W. L.</Forenames>
-      <Text>(Lieut.).</Text>
+      <Text>(Lieut.)</Text>
       <PageNumber>699</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -522,26 +514,28 @@
     <MainItem>
       <Key>Lomax</Key>
       <Forenames>J. A. B.</Forenames>
+      <Text>(Lieut.)</Text>
+      <PageNumber>1156</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>1156</PageNumber>
-    <ItemGroup>
-      <MainItem>
-        <Key>Lucas</Key>
-        <PageNumber>504</PageNumber>
-      </MainItem>
-    </ItemGroup>
-    <ItemGroup>
-      <MainItem>
-        <Key>McOusker</Key>
-        <PageNumber>1960</PageNumber>
-      </MainItem>
-    </ItemGroup>
-  </Text>
+  <ItemGroup>
+    <MainItem>
+      <Key>Lucas</Key>
+      <Text>F. W. (Lieut.)</Text>
+      <PageNumber>504</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>McOusker</Key>
+      <Text>C. H. (Lieut.)</Text>
+      <PageNumber>1960</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Mackinlay</Key>
+      <Text>F. B. (Capt.)</Text>
       <PageNumber>1961</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -599,14 +593,14 @@
     <MainItem>
       <Key>Newton</Key>
       <Forenames>A. D.</Forenames>
+      <Text>(2nd Lieut.)</Text>
+      <PageNumber>2236</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>2236</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Oakes</Key>
+      <Text>G» (Lieut.)</Text>
       <PageNumber>1156</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -639,14 +633,14 @@
     <MainItem>
       <Key>Paulin</Key>
       <Forenames>N. G.</Forenames>
+      <Text>(2nd Lieut.)</Text>
+      <PageNumber>1961</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>1961</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Pearson</Key>
+      <Text>.G. T. (Maj.)</Text>
       <PageNumber>699</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -751,16 +745,16 @@
     <MainItem>
       <Key>Shaw</Key>
       <Forenames>G. D. A.</Forenames>
+      <Text>(Adjt.)</Text>
+      <PageNumber>1639</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>1639</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
+      <Text>(temporary Capt.</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -872,7 +866,7 @@
     <MainItem>
       <Key>Wills</Key>
       <Forenames>G. V. P.</Forenames>
-      <Text>(Lieut.</Text>
+      <Text>(Lieut</Text>
       <PageNumber>1156</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -901,7 +895,7 @@
       <PageNumber>1156</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SectionTitle>Royal Garrison Artillery</SectionTitle>
+  <SubSectionTitle>Royal Garrison Artillery</SubSectionTitle>
   <ItemGroup>
     <MainItem>
       <Key>Aikman</Key>
@@ -959,16 +953,16 @@
     <MainItem>
       <Key>Cohen</Key>
       <Forenames>A. J.</Forenames>
+      <Text>(Lieut.)</Text>
+      <PageNumber>2322</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>2322</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
+      <Text>(resigned)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1117,16 +1111,16 @@
     <MainItem>
       <Key>Mead</Key>
       <Forenames>S.</Forenames>
+      <Text>(temporary Capt.)</Text>
+      <PageNumber>1241</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>1241</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
+      <Text>(Adjt.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1238,7 +1232,7 @@
       <PageNumber>1156</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SectionTitle>Royal Engineers</SectionTitle>
+  <SubSectionTitle>Royal Engineers</SubSectionTitle>
   <ItemGroup>
     <MainItem>
       <Key>Barr</Key>
@@ -1416,16 +1410,16 @@
     <MainItem>
       <Key>Swinton</Key>
       <Forenames>A. J.</Forenames>
+      <Text>(Adjt.)</Text>
+      <PageNumber>2525</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>2525</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
+      <Text>(temporary Capt.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1454,15 +1448,14 @@
       <PageNumber>2236</PageNumber>
     </MainItem>
   </ItemGroup>
+  <SubSectionTitle>The Royal Scots (Lothian Regiment)</SubSectionTitle>
+  <SubSectionTitle>4th Battalion</SubSectionTitle>
   <ItemGroup>
     <MainItem>
-      <Key>Woodeson</Key>
-      <Forenames>W. A.</Forenames>
-      <Text>
-        <CategoryTitle>INFANTRY</CategoryTitle>
-        <SectionTitle>ment)</SectionTitle>
-        <SectionTitle>4th Battalion</SectionTitle>
-      </Text>
+      <Key>Black</Key>
+      <Title>2nd Lieut.</Title>
+      <Forenames>G. W.</Forenames>
+      <Text>(resigned)</Text>
       <PageNumber>861</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1495,8 +1488,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Martin</Key>
-      <Title>Super. Capt.</Title>
-      <Text>*. R. (resigned)</Text>
+      <Forenames>Super</Forenames>
+      <Text>. Capt. *. R. (resigned)</Text>
       <PageNumber>1241</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1513,17 +1506,17 @@
     <MainItem>
       <Key>RobertBon</Key>
       <Forenames>K. S.</Forenames>
+      <Text>(Adjt.)</Text>
+      <PageNumber>2236</PageNumber>
+      <PageNumber>2323</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>2236</PageNumber>
-    <PageNumber>2323</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
+      <Text>(temporary Capt.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1559,7 +1552,7 @@
       <PageNumber>169</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SectionTitle>5th Battalion</SectionTitle>
+  <SubSectionTitle>5th Battalion</SubSectionTitle>
   <ItemGroup>
     <MainItem>
       <Key>Crerar</Key>
@@ -1604,7 +1597,7 @@
       <PageNumber>861</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SectionTitle>9th Battalion</SectionTitle>
+  <SubSectionTitle>9th Battalion</SubSectionTitle>
   <ItemGroup>
     <MainItem>
       <Key>Clark</Key>
@@ -1622,7 +1615,7 @@
       <PageNumber>2429</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SectionTitle>\0th Battalion</SectionTitle>
+  <SubSectionTitle>\0th Battalion</SubSectionTitle>
   <ItemGroup>
     <MainItem>
       <Key>Gray</Key>
@@ -1664,14 +1657,13 @@
       <PageNumber>1338</PageNumber>
     </MainItem>
   </ItemGroup>
+  <SubSectionTitle>The Queen's (Royal West Surrey Regiment)</SubSectionTitle>
+  <SubSectionTitle>4th Battalion</SubSectionTitle>
   <ItemGroup>
     <MainItem>
-      <Key>The</Key>
-      <Title>Queen</Title>
-      <Text>
-        <SectionTitle>Regiment)</SectionTitle>
-        <SectionTitle>4th Battalion</SectionTitle>
-      </Text>
+      <Key>Helps</Key>
+      <Forenames>M. D.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>130</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1683,7 +1675,7 @@
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SectionTitle>5th Battalion</SectionTitle>
+  <SubSectionTitle>5th Battalion</SubSectionTitle>
   <ItemGroup>
     <MainItem>
       <Key>Bray</Key>
@@ -1769,19 +1761,17 @@
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
+  <SubSectionTitle>The Buffs (Fast Kent Regiment)</SubSectionTitle>
+  <SubSectionTitle>4th Battalion</SubSectionTitle>
   <ItemGroup>
     <MainItem>
-      <SectionTitle>
-        <Key>The</Key>
-        <Forenames>Buffs</Forenames>
-      </SectionTitle>
-      <Text>
-        <SectionTitle>4th Battalion</SectionTitle>
-      </Text>
+      <Key>Groves-Raines</Key>
+      <Forenames>R. G. D.</Forenames>
+      <Text>(Adjt.)</Text>
       <PageNumber>416</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SectionTitle>5th Battalion</SectionTitle>
+  <SubSectionTitle>5th Battalion</SubSectionTitle>
   <ItemGroup>
     <MainItem>
       <Key>Adam</Key>

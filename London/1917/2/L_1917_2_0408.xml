@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="0408" pageID="https://www.thegazette.co.uk/id/London/index/year/1917/volume/2/page/0408" pagePDF="https://www.thegazette.co.uk/London/index/year/1917/volume/2/page/0408" pageRDF="https://www.thegazette.co.uk/London/index/year/1917/volume/2/page/0408?view=linked-data" type="index" volume="2" year="1917">
+<Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="408" pageID="https://www.thegazette.co.uk/id/London/index/year/1917/volume/2/page/408" pagePDF="https://www.thegazette.co.uk/London/index/year/1917/volume/2/page/408" pageRDF="https://www.thegazette.co.uk/London/index/year/1917/volume/2/page/408?view=linked-data" type="index" volume="2" year="1917">
   <ItemGroup>
     <MainItem>
       <Key>McDowall</Key>
-      <Title>Lt.</Title>
-      <Text>(temp. Capt.) A. (Capt.)</Text>
+      <Forenames>Lt</Forenames>
+      <Text>. (temp. Capt.) A. (Capt.)</Text>
       <PageNumber>4069</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -22,51 +22,53 @@
   <ItemGroup>
     <MainItem>
       <Key>MaeDuff</Key>
-      <Title>Maj.</Title>
-      <Text>(temp. Lt.-Col.) P. (Maj. and Hon. Lt.-Col.) Sub. Not</Text>
+      <Text>, Maj. (temp. Lt.-Col.) P. (Maj. and Hon. Lt.-Col.) Sub. Not</Text>
       <PageNumber>5507</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Mace</Key>
-      <Title>Cadet</Title>
+      <Text>, Cadet JE. (2nd Lt.)</Text>
+      <PageNumber>3413</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>3413</PageNumber>
-    <ItemGroup>
-      <MainItem>
-        <Key>
-          <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
-        </Key>
-        <PageNumber>6394</PageNumber>
-      </MainItem>
-    </ItemGroup>
-    <MainItem>McEntee, 2nd Lt. (temp. Capt.) E. B. (Lt., temp. Capt.) 5509</MainItem>
-  </Text>
   <ItemGroup>
-    <Key>McEntee</Key>
-    <PageNumber>5509</PageNumber>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
+      </Key>
+      <Text>2nd Lt. F. W. (seed.)</Text>
+      <PageNumber>6394</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>McEntee</Key>
+      <Text>, 2nd Lt. (temp. Capt.) E. B. (Lt., temp. Capt.)</Text>
+      <PageNumber>5509</PageNumber>
+    </MainItem>
     <SubItem>
+      <Text>Rel. temp, rank</Text>
       <PageNumber>5509</PageNumber>
     </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>MeErlich</Key>
-      <Title>Lt.</Title>
+      <Forenames>Lt</Forenames>
+      <Text>. (temp.) (temp. Captl) R. (Lt., temp. Capt.)</Text>
+      <PageNumber>5048</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <Text>
-    <PageNumber>5048</PageNumber>
     <SubItem>
+      <Text>Rel. temp, rank</Text>
       <PageNumber>5048</PageNumber>
     </SubItem>
-  </Text>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>MacEwan</Key>
+      <Text>, 2nd Lt. (temp. Capt.) A. K. (Lt. and retain temp, rank)</Text>
       <PageNumber>5446</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -75,15 +77,15 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Title>Lt.</Title>
+      <Forenames>Lt</Forenames>
+      <Text>. (temp; Capt.) G. L. (rel. temp, rank)</Text>
+      <PageNumber>5839</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>5839</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>McEwan</Key>
+      <Text>, tomp. Lt. L. (actg. Maj.)</Text>
       <PageNumber>4895</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -94,14 +96,14 @@
       </Key>
       <Title>Cadet</Title>
       <Forenames>M.</Forenames>
+      <Text>(2nd Lt.)</Text>
+      <PageNumber>3610</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>3610</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>MacEwing</Key>
+      <Text>, 2nd Lt. C. M. (Lt,)</Text>
       <PageNumber>6516</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -110,23 +112,27 @@
       <Key>McFadden</Key>
       <Title>Cadet</Title>
       <Forenames>E. J.</Forenames>
+      <Text>(2nd Lt.)</Text>
+      <PageNumber>4175</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>4175</PageNumber>
-    <ItemGroup>
-      <MainItem>
-        <Key>Macfarlane</Key>
-        <PageNumber>5416</PageNumber>
-      </MainItem>
-    </ItemGroup>
-    <MainItem>McFarlane, 2nd Lt. (temp. Maj.) E. (seed.) 5697</MainItem>
-  </Text>
   <ItemGroup>
-    <Key>McFarlane</Key>
-    <PageNumber>5697</PageNumber>
+    <MainItem>
+      <Key>Macfarlane</Key>
+      <Text>, 2nd Lt, A. L. (Lt.)</Text>
+      <PageNumber>5416</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>McFarlane</Key>
+      <Text>, 2nd Lt. (temp. Maj.) E. (seed.)</Text>
+      <PageNumber>5697</PageNumber>
+    </MainItem>
     <SubItem>
-      <PageNumber>6264</PageNumber>
+      <Text>
+        <PageNumber>6264</PageNumber>
+      </Text>
       <PageNumber>6264</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -135,15 +141,15 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Title>Lt.</Title>
+      <Forenames>Lt</Forenames>
+      <Text>.-Col. (temp.) E. J. (Lt.-Col. and rem. seed.)</Text>
+      <PageNumber>6368</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>6368</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Macfarlane</Key>
+      <Text>, 2nd Lt, F. A. J. (Lt. and rem. seed.) .. ,</Text>
       <PageNumber>3219</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -152,17 +158,16 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Title>Capt.</Title>
+      <Text>Capt. (actg. Maj. R.A.) L. R. (Maj. and rem. seed.)</Text>
+      <PageNumber>5699</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>5699</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
+      <Text>2nd Lt. (temp. Lt.) W. D. (rel. temp, rank)</Text>
       <PageNumber>6518</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -171,31 +176,34 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Title>Maj.</Title>
+      <Text>Maj. (actg. Lt.-Col.) W. Mac C, D.S.O. (corr. of rank)</Text>
+      <PageNumber>3509</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>3509</PageNumber>
-    <ItemGroup>
-      <MainItem>
-        <Key>McGachen</Key>
-        <PageNumber>5587</PageNumber>
-      </MainItem>
-    </ItemGroup>
-    <ItemGroup>
-      <MainItem>
-        <Key>McGee</Key>
-        <PageNumber>5698</PageNumber>
-      </MainItem>
-    </ItemGroup>
-    <MainItem>___ ___ ___ ___ 2nd Lt. (temp. Capt.) J. H. (Lt., temp. Capt.) .. 4621</MainItem>
-  </Text>
   <ItemGroup>
-    <Key>
-      <KeyDitto>___ ___ ___ ___</KeyDitto>
-    </Key>
-    <PageNumber>4621</PageNumber>
+    <MainItem>
+      <Key>McGachen</Key>
+      <Text>, 2nd Lt. G. F. (Adjt, and actg. Lt.)</Text>
+      <PageNumber>5587</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>McGee</Key>
+      <Text>, 2nd Lt. G. B. (actg. Lt.)</Text>
+      <PageNumber>5698</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___ ___</KeyDitto>
+      </Key>
+      <Text>2nd Lt. (temp. Capt.) J. H. (Lt., temp. Capt.)</Text>
+      <PageNumber>4621</PageNumber>
+    </MainItem>
     <SubItem>
+      <Text>Rel. temp, rank</Text>
       <PageNumber>4622</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -211,8 +219,8 @@
   <ItemGroup>
     <MainItem>
       <Key>McGilchrist</Key>
-      <Title>Lt.</Title>
-      <Text>(temp. Capt.) A M. (Capt.)</Text>
+      <Forenames>Lt</Forenames>
+      <Text>. (temp. Capt.) A M. (Capt.)</Text>
       <PageNumber>5335</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -230,25 +238,26 @@
   <ItemGroup>
     <MainItem>
       <Key>McGill</Key>
-      <Title>Lt.</Title>
+      <Forenames>Lt</Forenames>
+      <Text>. (temp. Maj.) A. S (reverts to temp, rank of Capt.)</Text>
+      <PageNumber>5972</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>5972</PageNumber>
-    <ItemGroup>
-      <MainItem>
-        <Key>
-          <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
-        </Key>
-        <PageNumber>5047</PageNumber>
-      </MainItem>
-    </ItemGroup>
-  </Text>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
+      </Key>
+      <Text>2nd Lt. J. (actg. Capt.)</Text>
+      <PageNumber>5047</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
+      <Text>2nd Lt. (temp. Lt.) J. B. (actg Lt.)</Text>
       <PageNumber>3928</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -259,14 +268,14 @@
       </Key>
       <Title>Cadet</Title>
       <Forenames>W. J.</Forenames>
+      <Text>(2nd Lt.)</Text>
+      <PageNumber>3472</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>3472</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>McGlashan</Key>
+      <Text>, 2nd Lt. (temp. Lt.) J. B ' (Lt.)</Text>
       <PageNumber>4622</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -275,70 +284,77 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Title>Lt.</Title>
+      <Forenames>Lt</Forenames>
+      <Text>. (temp.) (temp. Capt.) N. S. (Lt., temp. Capt.)</Text>
+      <PageNumber>5217</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <Text>
-    <PageNumber>5217</PageNumber>
     <SubItem>
+      <Text>Rel. temp, rank</Text>
       <PageNumber>5217</PageNumber>
     </SubItem>
-    <ItemGroup>
-      <MainItem>
-        <Key>MacGlasson</Key>
-        <PageNumber>4742</PageNumber>
-      </MainItem>
-    </ItemGroup>
-    <ItemGroup>
-      <MainItem>
-        <Key>McGovern</Key>
-        <PageNumber>5731</PageNumber>
-      </MainItem>
-    </ItemGroup>
-    <MainItem>McGowan, 2nd Lt. (temp. Capt.) C. R. (rel. temp, rank) 3218</MainItem>
-  </Text>
+  </ItemGroup>
   <ItemGroup>
-    <Key>McGowan</Key>
-    <PageNumber>3218</PageNumber>
+    <MainItem>
+      <Key>MacGlasson</Key>
+      <Text>, 2nd Lt. (temp. Lt.) L. (Adjt.) .. . ,</Text>
+      <PageNumber>4742</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>McGovern</Key>
+      <Text>, 2nd Lt. F. (rel. commn. on acc. of ill-health and to be Hon. 2nd Lt.)</Text>
+      <PageNumber>5731</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>McGowan</Key>
+      <Text>, 2nd Lt. (temp. Capt.) C. R. (rel. temp, rank)</Text>
+      <PageNumber>3218</PageNumber>
+    </MainItem>
     <SubItem>
+      <Text>Lt.</Text>
       <PageNumber>5972</PageNumber>
     </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>MacGowan</Key>
-      <Title>Lt.</Title>
+      <Forenames>Lt</Forenames>
+      <Text>. (temp.) (temp. Capt.) H. E. (Lt., temp. Capt.)</Text>
+      <PageNumber>6153</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <Text>
-    <PageNumber>6153</PageNumber>
     <SubItem>
+      <Text>Capt.</Text>
       <PageNumber>6153</PageNumber>
     </SubItem>
-    <ItemGroup>
-      <MainItem>
-        <Key>McGowan</Key>
-        <PageNumber>5860</PageNumber>
-      </MainItem>
-    </ItemGroup>
-  </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>McGowan</Key>
+      <Text>, 2nd Lt. (temp. Capt.) I. A. W. (Lt. and retain temp, rank)</Text>
+      <PageNumber>5860</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
+      <Text>2nd Lt. S., M.C. (actg. Capt.)</Text>
       <PageNumber>3766</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>McGrady</Key>
-      <Title>Lt.</Title>
-    </MainItem>
-    <Text>
+      <Forenames>Lt</Forenames>
+      <Text>. (temp. Capt.) F. L. (rel. temp, rank)</Text>
       <PageNumber>5312</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Lt</Text>
       <PageNumber>5720</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -347,8 +363,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Title>Capt.</Title>
-      <Text>(temp.) H. J. (Capt,)</Text>
+      <Text>Capt. (temp.) H. J. (Capt,)</Text>
       <PageNumber>5720</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -357,63 +372,67 @@
       <Key>McGregor</Key>
       <Title>Cadet</Title>
       <Forenames>A.</Forenames>
+      <Text>(2nd Lt.)</Text>
+      <PageNumber>6039</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>6039</PageNumber>
-    <ItemGroup>
-      <MainItem>
-        <Key>MacGregor</Key>
-        <PageNumber>4639</PageNumber>
-      </MainItem>
-    </ItemGroup>
-    <ItemGroup>
-      <MainItem>
-        <Key>Maegregor</Key>
-        <PageNumber>4932</PageNumber>
-      </MainItem>
-    </ItemGroup>
-    <ItemGroup>
-      <MainItem>
-        <Key>McGregor</Key>
-        <PageNumber>5218</PageNumber>
-      </MainItem>
-    </ItemGroup>
-    <MainItem>Macgregor, 2nd Lt. J. L. (seed.) .. 6041</MainItem>
-  </Text>
   <ItemGroup>
-    <Key>Macgregor</Key>
-    <PageNumber>6041</PageNumber>
+    <MainItem>
+      <Key>MacGregor</Key>
+      <Text>, 2nd Lt. (temp. Maj.) A. D. L. (reverts to temp, rank of Capt.) announcement cancelled)</Text>
+      <PageNumber>4639</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Maegregor</Key>
+      <Text>, 2nd Lt. (temp. Lt.) A. E. (rel. temp, rank)</Text>
+      <PageNumber>4932</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>McGregor</Key>
+      <Text>, 2nd Lt. (temp. Lt.) J. A. (rel. temp. rank)</Text>
+      <PageNumber>5218</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Macgregor</Key>
+      <Text>, 2nd Lt. J. L. (seed.)</Text>
+      <PageNumber>6041</PageNumber>
+    </MainItem>
     <SubItem>
+      <Text>Lt.</Text>
       <PageNumber>4087</PageNumber>
     </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>McGregor</Key>
-      <Title>Cadet</Title>
+      <Text>, Cadet M: (2nd Lt.)</Text>
+      <PageNumber>5311</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>5311</PageNumber>
-    <ItemGroup>
-      <MainItem>
-        <Key>Macgregor</Key>
-        <PageNumber>6394</PageNumber>
-      </MainItem>
-    </ItemGroup>
-  </Text>
+  <ItemGroup>
+    <MainItem>
+      <Key>Macgregor</Key>
+      <Text>, 2nd Lt. (temp. Lt.) N. E. (Capt.)</Text>
+      <PageNumber>6394</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>McGrigor</Key>
+      <Text>, 2nd Lt. (temp. Lt.) A. M. (rel. temp, rank)</Text>
       <PageNumber>6269</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>McHaffie</Key>
-      <Title>Capt.</Title>
-      <Text>(actg. Maj.) H. M., M.C. (rel. actg. rank)</Text>
+      <Text>, Capt. (actg. Maj.) H. M., M.C. (rel. actg. rank)</Text>
       <PageNumber>3716</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -424,72 +443,82 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>H.</Forenames>
+      <Text>McC. (Maj.) ..'</Text>
+      <PageNumber>4621</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>4621</PageNumber>
-    <ItemGroup>
-      <MainItem>
-        <Key>
-          <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
-        </Key>
-        <PageNumber>3415</PageNumber>
-      </MainItem>
-      <SubItem>
-        <PageNumber>4934</PageNumber>
-      </SubItem>
-    </ItemGroup>
-    <ItemGroup>
-      <MainItem>
-        <Key>McHardy</Key>
-        <PageNumber>6152</PageNumber>
-      </MainItem>
-      <SubItem>
-        <PageNumber>5450</PageNumber>
-      </SubItem>
-    </ItemGroup>
-    <ItemGroup>
-      <MainItem>
-        <Key>Machugh</Key>
-        <PageNumber>5313</PageNumber>
-      </MainItem>
-    </ItemGroup>
-    <ItemGroup>
-      <MainItem>
-        <Key>McHutchon</Key>
-        <PageNumber>4741</PageNumber>
-      </MainItem>
-    </ItemGroup>
-    <ItemGroup>
-      <MainItem>
-        <Key>Mellroy</Key>
-        <PageNumber>5218</PageNumber>
-      </MainItem>
-    </ItemGroup>
-    <ItemGroup>
-      <MainItem>
-        <Key>Mcintosh</Key>
-        <PageNumber>5414</PageNumber>
-      </MainItem>
-    </ItemGroup>
-    <ItemGroup>
-      <MainItem>
-        <Key>Macintosh</Key>
-        <PageNumber>6375</PageNumber>
-      </MainItem>
-    </ItemGroup>
-    <ItemGroup>
-      <MainItem>
-        <Key>Mcintosh</Key>
-        <PageNumber>4622</PageNumber>
-      </MainItem>
-    </ItemGroup>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
+      <Text>2nd Lt. (temp. Lt.) W. J. (Adjt.)</Text>
+      <PageNumber>3415</PageNumber>
+    </MainItem>
+    <SubItem>
+      <Text>Lt</Text>
+      <PageNumber>4934</PageNumber>
+    </SubItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>McHardy</Key>
+      <Text>, 2nd Lt. J. (temp. Lt)</Text>
+      <PageNumber>6152</PageNumber>
+    </MainItem>
+    <SubItem>
+      <Text>Lt</Text>
+      <PageNumber>5450</PageNumber>
+    </SubItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Machugh</Key>
+      <Text>, 2nd Lt. (temp. Lt.) J. N. (rel. temp. rank)</Text>
+      <PageNumber>5313</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>McHutchon</Key>
+      <Text>, 2nd Lt. (temp. Lt.) E. G. (rel. temp, rank and seed.)</Text>
+      <PageNumber>4741</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Mellroy</Key>
+      <Text>, 2nd Lt. (temp. LtC) R. D. (rel. temp, rank)</Text>
+      <PageNumber>5218</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Mcintosh</Key>
+      <Text>, 2nd Lt. (temp. Lt.) D. B. (Lt.)</Text>
+      <PageNumber>5414</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Macintosh</Key>
+      <Text>, 2nd Lt. E. H. (Lt.)</Text>
+      <PageNumber>6375</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Mcintosh</Key>
+      <Text>, 2nd Lt. '(temp. Lt.) H. (Lt.)</Text>
+      <PageNumber>4622</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
+      </Key>
+      <Text>2nd Lt. H. P. F. (Lt.)</Text>
       <PageNumber>6516</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -498,79 +527,91 @@
       <Key>Macintosh</Key>
       <Title>Cadet</Title>
       <Forenames>K. A.</Forenames>
+      <Text>(2nd Lt.)</Text>
+      <PageNumber>3712</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>3712</PageNumber>
-    <ItemGroup>
-      <MainItem>
-        <Key>Mcintosh</Key>
-        <PageNumber>4933</PageNumber>
-      </MainItem>
-    </ItemGroup>
-    <ItemGroup>
-      <MainItem>
-        <Key>Macintosh</Key>
-        <PageNumber>5974</PageNumber>
-      </MainItem>
-      <SubItem>
-        <PageNumber>4740</PageNumber>
-      </SubItem>
-    </ItemGroup>
-    <ItemGroup>
-      <MainItem>
-        <Key>Mclntyre</Key>
-        <PageNumber>4639</PageNumber>
-      </MainItem>
-      <SubItem>
-        <PageNumber>5218</PageNumber>
-      </SubItem>
-    </ItemGroup>
-    <ItemGroup>
-      <MainItem>
-        <Key>
-          <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
-        </Key>
-        <PageNumber>3486</PageNumber>
-      </MainItem>
-    </ItemGroup>
-    <ItemGroup>
-      <MainItem>
-        <Key>Mclver</Key>
-        <PageNumber>4208</PageNumber>
-      </MainItem>
-    </ItemGroup>
-    <ItemGroup>
-      <MainItem>
-        <Key>Maclver</Key>
-        <PageNumber>5841</PageNumber>
-      </MainItem>
-    </ItemGroup>
-    <ItemGroup>
-      <MainItem>
-        <Key>Mclvor</Key>
-        <PageNumber>4071</PageNumber>
-      </MainItem>
-      <SubItem>
-        <PageNumber>4452</PageNumber>
-      </SubItem>
-    </ItemGroup>
-    <ItemGroup>
-      <MainItem>
-        <Key>McJannet</Key>
-        <PageNumber>6505</PageNumber>
-      </MainItem>
-    </ItemGroup>
-    <ItemGroup>
-      <MainItem>
-        <Key>Mack</Key>
-        <PageNumber>4934</PageNumber>
-      </MainItem>
-    </ItemGroup>
-  </Text>
+  <ItemGroup>
+    <MainItem>
+      <Key>Mcintosh</Key>
+      <Text>, 2nd Lt. (temp. Lt.) R. (actg. Capt.)</Text>
+      <PageNumber>4933</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Macintosh</Key>
+      <Text>2nd Lt, (temp. Lt.) W. V (actg. Capt,) ,</Text>
+      <PageNumber>5974</PageNumber>
+    </MainItem>
+    <SubItem>
+      <Text>Lt.</Text>
+      <PageNumber>4740</PageNumber>
+    </SubItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Mclntyre</Key>
+      <Text>, 2nd Lt, (temp. Capt.. A. C. M.C. (announcement of reversion to temp, rank of Lt. cancelled)</Text>
+      <PageNumber>4639</PageNumber>
+    </MainItem>
+    <SubItem>
+      <Text>Date of precedence</Text>
+      <PageNumber>5218</PageNumber>
+    </SubItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
+      </Key>
+      <Text>2nd Lt. J. (seed.)</Text>
+      <PageNumber>3486</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Mclver</Key>
+      <Text>, 2nd Lt. C. D. (Lt.)</Text>
+      <PageNumber>4208</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Maclver</Key>
+      <Text>, 2nd Lt, I. (temp. Lt.)</Text>
+      <PageNumber>5841</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Mclvor</Key>
+      <Text>, 2nd Lt. (actg. Capt.) N. B. . (rel. actg. rank)</Text>
+      <PageNumber>4071</PageNumber>
+    </MainItem>
+    <SubItem>
+      <Text>Lt</Text>
+      <PageNumber>4452</PageNumber>
+    </SubItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>McJannet</Key>
+      <Text>, 2nd Lt. H. W. (Lt.)</Text>
+      <PageNumber>6505</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Mack</Key>
+      <Text>, 2nd Lt. (temp. Lt.) L. D. (Lt.)</Text>
+      <PageNumber>4934</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Mackadam</Key>
+      <Text>, 2nd Lt. (temp. Lt.) E. C. R. (Lt. and rem. Adjt.)</Text>
       <PageNumber>6498</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -579,16 +620,18 @@
       <Key>Mackay</Key>
       <Title>Cadet</Title>
       <Forenames>A. G. D.</Forenames>
+      <Text>(2nd Lt.)</Text>
+      <PageNumber>4767</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>4767</PageNumber>
-    <MainItem>MacKay, 2nd Lt. (actg. Capt.) A. J., M.C. (rel. actg. rank) .. ' .. 5313</MainItem>
-  </Text>
   <ItemGroup>
-    <Key>MacKay</Key>
-    <PageNumber>5313</PageNumber>
+    <MainItem>
+      <Key>MacKay</Key>
+      <Text>, 2nd Lt. (actg. Capt.) A. J., M.C. (rel. actg. rank) .. '</Text>
+      <PageNumber>5313</PageNumber>
+    </MainItem>
     <SubItem>
+      <Text>Rel. temp, rank of Capt. Sub. * Not</Text>
       <PageNumber>5588</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -607,35 +650,40 @@
       </Key>
       <Title>Cadet</Title>
       <Forenames>C. A.</Forenames>
+      <Text>(2nd Lt.)</Text>
+      <PageNumber>3610</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>3610</PageNumber>
-    <ItemGroup>
-      <MainItem>
-        <Key>McKay</Key>
-        <PageNumber>3589</PageNumber>
-      </MainItem>
-    </ItemGroup>
-    <ItemGroup>
-      <MainItem>
-        <Key>
-          <KeyDitto>___ ___ ___ ___</KeyDitto>
-        </Key>
-        <PageNumber>5826</PageNumber>
-      </MainItem>
-    </ItemGroup>
-    <MainItem>___ —— ___ ___ 2nd Lt. (temp. Capt.) G. M., M.C. (Lt., temp. Capt.) .. 3930</MainItem>
-  </Text>
   <ItemGroup>
-    <Key>
-      <KeyDitto>___ —— ___ ___</KeyDitto>
-    </Key>
-    <PageNumber>3930</PageNumber>
+    <MainItem>
+      <Key>McKay</Key>
+      <Text>, 2nd Lt. (temp. Lt.) C. S. (rel. temp, rank)</Text>
+      <PageNumber>3589</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___ ___</KeyDitto>
+      </Key>
+      <Text>2nd Lt. F. F. (Lt.)</Text>
+      <PageNumber>5826</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ —— ___ ___</KeyDitto>
+      </Key>
+      <Text>2nd Lt. (temp. Capt.) G. M., M.C. (Lt., temp. Capt.)</Text>
+      <PageNumber>3930</PageNumber>
+    </MainItem>
     <SubItem>
+      <Text>Rel. temp, rank</Text>
       <PageNumber>3930</PageNumber>
     </SubItem>
     <SubItem>
+      <Text>Corr. of date of seedg</Text>
       <PageNumber>5627</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -655,34 +703,34 @@
       </Key>
       <Title>Cadet</Title>
       <Forenames>J.</Forenames>
+      <Text>(2nd Lt.)</Text>
+      <PageNumber>4433</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>4433</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>McKay</Key>
+      <Text>, 2nd Lt. (temp. Lt.) J. C: (Lt.)</Text>
       <PageNumber>0398</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Mackay</Key>
-      <Title>Capt.</Title>
+      <Text>, Capt. (Lt.-Col. and Hon. Col.) J. F. (Capt.)</Text>
+      <PageNumber>4193</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <Text>
-    <PageNumber>4193</PageNumber>
     <SubItem>
+      <Text>Announcement of transfr. cancelled</Text>
       <PageNumber>4644</PageNumber>
     </SubItem>
-  </Text>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
+      <Text>2nd Lt. J. M. (Lt, and rem. seed.)</Text>
       <PageNumber>5085</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -702,16 +750,20 @@
       <Key>MacKav</Key>
       <Title>Cadet</Title>
       <Forenames>M.</Forenames>
+      <Text>(2nd Lt.)</Text>
+      <PageNumber>4582</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>4582</PageNumber>
-    <MainItem>McKay', Cadet M. C. H. (2nd Lt.) 3926</MainItem>
-  </Text>
   <ItemGroup>
-    <Key>McKay</Key>
-    <PageNumber>3926</PageNumber>
+    <MainItem>
+      <Key>McKay</Key>
+      <Title>Cadet</Title>
+      <Forenames>M. C. H.</Forenames>
+      <Text>(2nd Lt.)</Text>
+      <PageNumber>3926</PageNumber>
+    </MainItem>
     <SubItem>
+      <Text>Seed.</Text>
       <PageNumber>4434</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -728,25 +780,24 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Title>Lt.</Title>
+      <Forenames>Lt</Forenames>
+      <Text>. (temp. Capt.) W. Junr. (Capt.)</Text>
+      <PageNumber>5048</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>5048</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
+      <Text>2nd Lt. W. J. (Lt. and rem. seed.)</Text>
       <PageNumber>5446</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>McKay</Key>
-      <Title>Cadet</Title>
-      <Text>ViC J. (2nd Lt.)</Text>
+      <Text>, Cadet ViC J. (2nd Lt.)</Text>
       <PageNumber>6498</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -762,8 +813,7 @@
   <ItemGroup>
     <MainItem>
       <Key>MacKean</Key>
-      <Title>Capt.</Title>
-      <Text>(temp.) N. MacG. (Capt,) ,</Text>
+      <Text>, Capt. (temp.) N. MacG. (Capt,) ,</Text>
       <PageNumber>4621</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -772,11 +822,11 @@
       <Key>McKechnie</Key>
       <Title>Lt.</Title>
       <Forenames>D.</Forenames>
-    </MainItem>
-    <Text>
+      <Text>(Capt.)</Text>
       <PageNumber>6282</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Date of precedence</Text>
       <PageNumber>5215</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -796,41 +846,47 @@
       </Key>
       <Title>Cadet</Title>
       <Forenames>W. C.</Forenames>
+      <Text>(2nd Lt.)</Text>
+      <PageNumber>6038</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>6038</PageNumber>
-    <ItemGroup>
-      <MainItem>
-        <Key>Mackenzie</Key>
-        <PageNumber>5048</PageNumber>
-      </MainItem>
-      <SubItem>
-        <PageNumber>5048</PageNumber>
-      </SubItem>
-    </ItemGroup>
-    <ItemGroup>
-      <MainItem>
-        <Key>
-          <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
-        </Key>
-        <PageNumber>4640</PageNumber>
-      </MainItem>
-    </ItemGroup>
-    <ItemGroup>
-      <MainItem>
-        <Key>
-          <KeyDitto>___ ___ ___ ___</KeyDitto>
-        </Key>
-        <PageNumber>6360</PageNumber>
-      </MainItem>
-    </ItemGroup>
-    <MainItem>Mackenzie, 2nd Lt. (temp. Capt.) A. C. (Lt., temp. Capt.) .. 6501</MainItem>
-  </Text>
   <ItemGroup>
-    <Key>Mackenzie</Key>
-    <PageNumber>6501</PageNumber>
+    <MainItem>
+      <Key>Mackenzie</Key>
+      <Text>, 2nd Lt. (temp. Capt.) A. (Lt., temp. Capt.)</Text>
+      <PageNumber>5048</PageNumber>
+    </MainItem>
     <SubItem>
+      <Text>Rel. temp, rank of Capt</Text>
+      <PageNumber>5048</PageNumber>
+    </SubItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
+      </Key>
+      <Text>2nd Lt. A. (seed.)</Text>
+      <PageNumber>4640</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___ ___</KeyDitto>
+      </Key>
+      <Text>2nd Lt, A. A. (Lt.)</Text>
+      <PageNumber>6360</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Mackenzie</Key>
+      <Text>, 2nd Lt. (temp. Capt.) A. C. (Lt., temp. Capt.)</Text>
+      <PageNumber>6501</PageNumber>
+    </MainItem>
+    <SubItem>
+      <Text>Rel. temp, rank</Text>
       <PageNumber>6502</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -839,30 +895,32 @@
       <Key>McKenzie</Key>
       <Title>Cadet</Title>
       <Forenames>A. R. D.</Forenames>
+      <Text>(2nd Lt.)</Text>
+      <PageNumber>3610</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>3610</PageNumber>
-    <ItemGroup>
-      <MainItem>
-        <Key>Mackenzie</Key>
-        <PageNumber>5720</PageNumber>
-      </MainItem>
-    </ItemGroup>
-    <ItemGroup>
-      <MainItem>
-        <Key>
-          <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
-        </Key>
-        <PageNumber>6125</PageNumber>
-      </MainItem>
-    </ItemGroup>
-  </Text>
+  <ItemGroup>
+    <MainItem>
+      <Key>Mackenzie</Key>
+      <Text>, 2nd Lt. (temp. Lt.) A. S. (rel. temp, rank)</Text>
+      <PageNumber>5720</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
+      <Text>2nd Lt. A. T. (Lt.)</Text>
+      <PageNumber>6125</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
+      </Key>
+      <Text>2nd Lt. (temp. Capt.) C. A. (rel. temp, rank)</Text>
       <PageNumber>5510</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -871,44 +929,51 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Title>Capt.</Title>
-    </MainItem>
-  </ItemGroup>
-  <Text>
-    <PageNumber>3469</PageNumber>
-    <SubItem>
+      <Text>Capt. (temp.) (temp. Lt.-Col.) C. M., D.S.O. (Capt., temp. Lt.-Col.)</Text>
       <PageNumber>3469</PageNumber>
+    </MainItem>
+    <SubItem>
+      <Text>
+        <PageNumber>3469</PageNumber>
+      </Text>
       <PageNumber>6248</PageNumber>
     </SubItem>
-    <ItemGroup>
-      <MainItem>
-        <Key>McKenzie</Key>
-        <PageNumber>4791</PageNumber>
-      </MainItem>
-    </ItemGroup>
-    <ItemGroup>
-      <MainItem>
-        <Key>MacKenzie</Key>
-        <PageNumber>5151</PageNumber>
-      </MainItem>
-    </ItemGroup>
-    <ItemGroup>
-      <MainItem>
-        <Key>Mackenzie</Key>
-        <PageNumber>3508</PageNumber>
-      </MainItem>
-      <SubItem>
-        <PageNumber>5339</PageNumber>
-      </SubItem>
-    </ItemGroup>
-    <MainItem>___ ___ ___ ___ 2nd Lt. (temp. Capt.) F. W. (Lt., temp..Capt,) .. ..4348</MainItem>
-  </Text>
+  </ItemGroup>
   <ItemGroup>
-    <Key>
-      <KeyDitto>___ ___ ___ ___</KeyDitto>
-    </Key>
-    <PageNumber>4348</PageNumber>
+    <MainItem>
+      <Key>McKenzie</Key>
+      <Text>, 2nd Lt. D. (seed.)</Text>
+      <PageNumber>4791</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>MacKenzie</Key>
+      <Text>, 2nd Lt. (temp. Lt.) D. (Lt.)</Text>
+      <PageNumber>5151</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Mackenzie</Key>
+      <Text>, 2nd Lt. (temp. Lt.) F. S. (rel. temp. rank)</Text>
+      <PageNumber>3508</PageNumber>
+    </MainItem>
     <SubItem>
+      <Text>Lt</Text>
+      <PageNumber>5339</PageNumber>
+    </SubItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___ ___</KeyDitto>
+      </Key>
+      <Text>2nd Lt. (temp. Capt.) F. W. (Lt., temp..Capt,)</Text>
+      <PageNumber>4348</PageNumber>
+    </MainItem>
+    <SubItem>
+      <Text>Rel. temp, rank</Text>
       <PageNumber>4348</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -917,8 +982,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Title>Maj.</Title>
-      <Text>(temp.) G. (Maj.)</Text>
+      <Text>Maj. (temp.) G. (Maj.)</Text>
       <PageNumber>5018</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -938,41 +1002,46 @@
       <Key>McKenzie</Key>
       <Title>Cadet</Title>
       <Forenames>H. C.</Forenames>
+      <Text>(2nd Lt.)</Text>
+      <PageNumber>6039</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>6039</PageNumber>
-    <ItemGroup>
-      <MainItem>
-        <Key>Mackenzie</Key>
-        <PageNumber>5972</PageNumber>
-      </MainItem>
-    </ItemGroup>
-    <ItemGroup>
-      <MainItem>
-        <Key>
-          <KeyDitto>___ ___ ___ ___</KeyDitto>
-        </Key>
-        <PageNumber>5313</PageNumber>
-        <PageNumber>5450</PageNumber>
-      </MainItem>
-    </ItemGroup>
-    <ItemGroup>
-      <MainItem>
-        <Key>
-          <KeyDitto>___ ___ ___ ___</KeyDitto>
-        </Key>
-        <PageNumber>5841</PageNumber>
-      </MainItem>
-    </ItemGroup>
-    <MainItem>___ ___ ___ ___ 2nd Lt. (temp. Capt.) J. (S. Staffs.-R.) (Lt., temp. Capt,) 6153</MainItem>
-  </Text>
   <ItemGroup>
-    <Key>
-      <KeyDitto>___ ___ ___ ___</KeyDitto>
-    </Key>
-    <PageNumber>6153</PageNumber>
+    <MainItem>
+      <Key>Mackenzie</Key>
+      <Text>, 2nd Lt. (temp. Lt.) H. D. (Lt,)</Text>
+      <PageNumber>5972</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___ ___</KeyDitto>
+      </Key>
+      <Text>2nd Lt. (temp. Ca.pt.) J. (Sea. Highrs.) (rel. temp. rank)</Text>
+      <PageNumber>5313</PageNumber>
+      <PageNumber>5450</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___ ___</KeyDitto>
+      </Key>
+      <Text>2nd Lt. J. (Sea, Highrs.) (temp. Capt.)</Text>
+      <PageNumber>5841</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___ ___</KeyDitto>
+      </Key>
+      <Text>2nd Lt. (temp. Capt.) J. (S. Staffs.-R.) (Lt., temp. Capt,)</Text>
+      <PageNumber>6153</PageNumber>
+    </MainItem>
     <SubItem>
+      <Text>Rel. temp, rank</Text>
       <PageNumber>6153</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1003,20 +1072,19 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Title>Capt.</Title>
-      <Text>(actg. Lt.-Col.) J. W., M.D. (rel. actg. rank)</Text>
+      <Text>Capt. (actg. Lt.-Col.) J. W., M.D. (rel. actg. rank)</Text>
       <PageNumber>5022</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>MacKenzie</Key>
-      <Title>Lt.</Title>
-    </MainItem>
-    <Text>
+      <Forenames>Lt</Forenames>
+      <Text>. (temp. Maj.) M. (Capt., temp. Maj.)</Text>
       <PageNumber>5048</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Rel. temp, rank</Text>
       <PageNumber>5048</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1025,11 +1093,11 @@
       <Key>Mackenzie</Key>
       <Title>Qrmr. and Hon. Lt.</Title>
       <Forenames>M.</Forenames>
-    </MainItem>
-    <Text>
+      <Text>„ (seed.)</Text>
       <PageNumber>4791</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Announcement cancelled</Text>
       <PageNumber>6247</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1038,8 +1106,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Title>Capt.</Title>
-      <Text>(temp. Maj.) N. B. (rel. temp, rank)</Text>
+      <Text>Capt. (temp. Maj.) N. B. (rel. temp, rank)</Text>
       <PageNumber>5048</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1061,7 +1128,7 @@
       </Key>
       <Title>Cadet</Title>
       <Forenames>R. J.</Forenames>
-      <Text>(2nd Lt,) .. . .'</Text>
+      <Text>(2nd Lt,)</Text>
       <PageNumber>4346</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1070,23 +1137,24 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Title>Lt.</Title>
+      <Forenames>Lt</Forenames>
+      <Text>. (temp. Capt,) R, S. (Capt.)</Text>
+      <PageNumber>6368</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>6368</PageNumber>
-    <ItemGroup>
-      <MainItem>
-        <Key>McKenzie</Key>
-        <PageNumber>3486</PageNumber>
-      </MainItem>
-    </ItemGroup>
-  </Text>
+  <ItemGroup>
+    <MainItem>
+      <Key>McKenzie</Key>
+      <Text>, 2nd Lt, W. H. P., M.C. (seed.)</Text>
+      <PageNumber>3486</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
+      <Text>2nd Lt. W. H. P., M.C. (actg. Lt.)</Text>
       <PageNumber>4865</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1104,16 +1172,16 @@
       <Key>McKenzie</Key>
       <Title>Cadet</Title>
       <Forenames>W. S.</Forenames>
+      <Text>(2nd Lt.)</Text>
+      <PageNumber>3414</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>3414</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
+      <Text>2nd Lt. W. T. (trd.)</Text>
       <PageNumber>5730</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1122,17 +1190,18 @@
       <Key>McKerron</Key>
       <Title>Lt.</Title>
       <Forenames>P. A. B.</Forenames>
+      <Text>(date of precedence)</Text>
+      <PageNumber>4867</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <Text>
-    <PageNumber>4867</PageNumber>
     <SubItem>
+      <Text>Capt.</Text>
       <PageNumber>5450</PageNumber>
     </SubItem>
-  </Text>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>McKersie</Key>
+      <Text>, 2nd Lt. (temp. Lt.) W. (actg. Capt.)</Text>
       <PageNumber>4933</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1148,16 +1217,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Mackeson</Key>
-      <Title>Lt.</Title>
-      <Text>-Col. (temp.) W. J. (Lt.-Col.)</Text>
+      <Forenames>Lt</Forenames>
+      <Text>.-Col. (temp.) W. J. (Lt.-Col.)</Text>
       <PageNumber>6503</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Mackesy</Key>
-      <Title>Capt.</Title>
-      <Text>(actg. Maj.) P. J., M.C. (rel. actg. rank)</Text>
+      <Text>, Capt. (actg. Maj.) P. J., M.C. (rel. actg. rank)</Text>
       <PageNumber>6394</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1174,14 +1242,14 @@
       <Key>MoKie</Key>
       <Title>Cadet</Title>
       <Forenames>J.</Forenames>
+      <Text>(2nd Lt.)</Text>
+      <PageNumber>4582</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>4582</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Mackie</Key>
+      <Text>, 2nd Lt. (temp. Lt.) J. (Lt. and rem. seed.)</Text>
       <PageNumber>5019</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1192,52 +1260,58 @@
       </Key>
       <Title>Cadet</Title>
       <Forenames>J.</Forenames>
+      <Text>(2nd Lt.)</Text>
+      <PageNumber>6038</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>6038</PageNumber>
-    <ItemGroup>
-      <MainItem>
-        <Key>
-          <KeyDitto>— ___ ___</KeyDitto>
-        </Key>
-        <PageNumber>3766</PageNumber>
-      </MainItem>
-    </ItemGroup>
-    <ItemGroup>
-      <MainItem>
-        <Key>
-          <KeyDitto>___ ___ ___ ___</KeyDitto>
-        </Key>
-        <PageNumber>5862</PageNumber>
-      </MainItem>
-    </ItemGroup>
-    <ItemGroup>
-      <MainItem>
-        <Key>
-          <KeyDitto>___ ___ ___ ___</KeyDitto>
-        </Key>
-        <PageNumber>5589</PageNumber>
-      </MainItem>
-    </ItemGroup>
-    <ItemGroup>
-      <MainItem>
-        <Key>
-          <KeyDitto>___ ___ ___</KeyDitto>
-        </Key>
-        <PageNumber>3766</PageNumber>
-      </MainItem>
-      <SubItem>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>— ___ ___</KeyDitto>
+      </Key>
+      <Text>2nd Lt. (temp. Capt.) J. B. (rel. temp, rank and rem. seed.)</Text>
+      <PageNumber>3766</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___ ___</KeyDitto>
+      </Key>
+      <Text>2nd Lt. (temp. Capt) J. H. M. (Capt.)</Text>
+      <PageNumber>5862</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___ ___</KeyDitto>
+      </Key>
+      <Text>2nd Lt. (temp. Lt.) J. L. (Lt.)</Text>
+      <PageNumber>5589</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___</KeyDitto>
+      </Key>
+      <Text>2nd Lt. (temp. Lt.) (now Lt.) J. R. (rel. actg. rank of Capt.)</Text>
+      <PageNumber>3766</PageNumber>
+    </MainItem>
+    <SubItem>
+      <Text>
         <PageNumber>3765</PageNumber>
-        <PageNumber>3765</PageNumber>
-      </SubItem>
-    </ItemGroup>
-  </Text>
+      </Text>
+      <PageNumber>3765</PageNumber>
+    </SubItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
+      <Text>2nd Lt. (temp. Lt.) P. G. (rel. temp, rank)</Text>
       <PageNumber>3613</PageNumber>
     </MainItem>
   </ItemGroup>

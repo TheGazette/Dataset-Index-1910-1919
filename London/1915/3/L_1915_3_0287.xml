@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="0287" pageID="https://www.thegazette.co.uk/id/London/index/year/1915/volume/3/page/0287" pagePDF="https://www.thegazette.co.uk/London/index/year/1915/volume/3/page/0287" pageRDF="https://www.thegazette.co.uk/London/index/year/1915/volume/3/page/0287?view=linked-data" type="index" volume="3" year="1915">
+<Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="287" pageID="https://www.thegazette.co.uk/id/London/index/year/1915/volume/3/page/287" pagePDF="https://www.thegazette.co.uk/London/index/year/1915/volume/3/page/287" pageRDF="https://www.thegazette.co.uk/London/index/year/1915/volume/3/page/287?view=linked-data" type="index" volume="3" year="1915">
   <ItemGroup>
     <MainItem>
       <Key>Trevelyan</Key>
@@ -111,8 +111,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Tweedie</Key>
-      <Title>Gilbert .</Title>
-      <Text>(2nd Lieut.)</Text>
+      <Forenames>Gilbert</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>8529</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -134,7 +134,7 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>FreeU</Key>
+      <Key>Freell</Key>
       <Forenames>William</Forenames>
       <Text>(2nd Lieut.)</Text>
       <PageNumber>7171</PageNumber>
@@ -154,19 +154,18 @@
       <Key>Venning</Key>
       <Title>Lieut.</Title>
       <Forenames>J.</Forenames>
-    </MainItem>
-    <Text>
+      <Text>(Adjt.)</Text>
       <PageNumber>8009</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Temporary Capt.</Text>
       <PageNumber>8821</PageNumber>
     </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Vince</Key>
-      <Title>Lieut.</Title>
-      <Text>. William B. (temporary Capt.)</Text>
+      <Text>, Lieut.. William B. (temporary Capt.)</Text>
       <PageNumber>6972</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -209,14 +208,14 @@
     <MainItem>
       <Key>Wallace</Key>
       <Forenames>Cranstoun</Forenames>
+      <Text>LEstrange (2nd Lieut.)</Text>
+      <PageNumber>8118</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>8118</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Wallis</Key>
+      <Text>, 2hd Lieut. Ferdinand H. (temporary Lieut.)</Text>
       <PageNumber>6713</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -306,19 +305,22 @@
     <MainItem>
       <Key>Watson</Key>
       <Forenames>Charles Parker</Forenames>
+      <Text>(2nd Lieut.)</Text>
+      <PageNumber>9568</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>9568</PageNumber>
-    <MainItem>___ ___ ___ 2nd Lieut, (temporary Capt.) Douglas (relinquishes temporary rank of Capt. on alteration in posting) 6713</MainItem>
-  </Text>
   <ItemGroup>
-    <Key>
-      <KeyDitto>___ ___ ___</KeyDitto>
-    </Key>
-    <PageNumber>6713</PageNumber>
-    <SubItem>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___</KeyDitto>
+      </Key>
+      <Text>2nd Lieut, (temporary Capt.) Douglas (relinquishes temporary rank of Capt. on alteration in posting)</Text>
       <PageNumber>6713</PageNumber>
+    </MainItem>
+    <SubItem>
+      <Text>
+        <PageNumber>6713</PageNumber>
+      </Text>
       <PageNumber>9404</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -338,14 +340,14 @@
       <Key>Watts-Fraser</Key>
       <Title>2nd Lieut.</Title>
       <Forenames>John F.</Forenames>
+      <Text>(seconded)</Text>
+      <PageNumber>9235</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>9235</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Webb</Key>
+      <Text>. Harry Vincent (2nd Lieut.)</Text>
       <PageNumber>8726</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -364,11 +366,11 @@
     <MainItem>
       <Key>Weinberg</Key>
       <Forenames>Henry Leo</Forenames>
-    </MainItem>
-    <Text>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>9212</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Temporary Lieut.</Text>
       <PageNumber>9212</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -402,20 +404,21 @@
       <Key>Wells</Key>
       <Title>Qrmr. and Hon. Lieut.</Title>
       <Forenames>Jame</Forenames>
+      <Text>^ C. (correction of date)</Text>
+      <PageNumber>7186</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>7186</PageNumber>
-    <ItemGroup>
-      <MainItem>
-        <Key>Wellsman</Key>
-        <PageNumber>8996</PageNumber>
-      </MainItem>
-    </ItemGroup>
-  </Text>
+  <ItemGroup>
+    <MainItem>
+      <Key>Wellsman</Key>
+      <Text>. Carot. Walter H. (seconded for duty with a Provisional Battalion)</Text>
+      <PageNumber>8996</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>West</Key>
+      <Text>. Lieut. Algernon C. P. R. ' (seconded for dutv with a Provisional Battalion)</Text>
       <PageNumber>9417</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -610,12 +613,13 @@
     <MainItem>
       <Key>Willett</Key>
       <Forenames>John Wickham</Forenames>
-    </MainItem>
-    <Text>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>6848</PageNumber>
-      <PageNumber>7318</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>
+        <PageNumber>7318</PageNumber>
+      </Text>
       <PageNumber>7452</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -783,11 +787,11 @@
       </Key>
       <Title>2nd Lieut.</Title>
       <Forenames>Royal D.</Forenames>
-    </MainItem>
-    <Text>
+      <Text>(correction of date)</Text>
       <PageNumber>7755</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Temporary Lieut</Text>
       <PageNumber>7755</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -798,14 +802,14 @@
       </Key>
       <Title>2nd Lieut.</Title>
       <Forenames>Thomas C.</Forenames>
+      <Text>(temporary Lieut.)</Text>
+      <PageNumber>7296</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>7296</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Wood</Key>
+      <Text>ruffe-Peacock, Dennis Max Cornelius (2nd Lieut.)</Text>
       <PageNumber>9567</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -914,7 +918,6 @@
       <PageNumber>9417</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SectionTitle>Corps</SectionTitle>
   <ItemGroup>
     <MainItem>
       <Key>Bamford</Key>
@@ -995,16 +998,17 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Home</Key>
-      <Forenames>George F. T.</Forenames>
-      <Text>(2nd Lieut.)... 830O Isaacs, 2nd Lieut. The Hon. Gerald R. (temporary Lieut.)</Text>
+      <Key>Isaacs</Key>
+      <Title>2nd Lieut. The Hon.</Title>
+      <Forenames>Gerald R.</Forenames>
+      <Text>(temporary Lieut.)</Text>
       <PageNumber>8985</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Kenyon</Key>
-      <Title>Oapt. Sir</Title>
+      <Title>Capt. Sir</Title>
       <Forenames>Frederick G.</Forenames>
       <Text>, K.C.B. (temporary Maj.)</Text>
       <PageNumber>9541</PageNumber>
@@ -1067,11 +1071,11 @@
       <Key>Warner</Key>
       <Title>Lieut.</Title>
       <Forenames>Pelham F.</Forenames>
-    </MainItem>
-    <Text>
+      <Text>(seconded)</Text>
       <PageNumber>7187</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Temporary Capt., and to remain seconded</Text>
       <PageNumber>8983</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1092,7 +1096,6 @@
       <PageNumber>8985</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SectionTitle>The Hertfordshire Regiment</SectionTitle>
   <ItemGroup>
     <MainItem>
       <Key>Allen</Key>
@@ -1142,11 +1145,11 @@
       <Key>Borwick</Key>
       <Title>Lieut.</Title>
       <Forenames>Robert G.</Forenames>
-    </MainItem>
-    <Text>
+      <Text>(Adjt.)</Text>
       <PageNumber>7755</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Temporary Capt., and remain Adjt</Text>
       <PageNumber>7913</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1154,8 +1157,8 @@
     <MainItem>
       <Key>Bourke</Key>
       <Title>Lieut.</Title>
-      <Forenames>Nigel E.</Forenames>
-      <Text>J: (temporary Capt.)</Text>
+      <Forenames>Nigel E. J</Forenames>
+      <Text>: (temporary Capt.)</Text>
       <PageNumber>7452</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1233,11 +1236,11 @@
       <Key>Gripper</Key>
       <Title>Lieut.</Title>
       <Forenames>Claud</Forenames>
-    </MainItem>
-    <Text>
+      <Text>_ B. T. (seconded whilst doing duty with 68th Provisional Battalion)</Text>
       <PageNumber>8125</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Correction of date</Text>
       <PageNumber>9236</PageNumber>
     </SubItem>
   </ItemGroup>

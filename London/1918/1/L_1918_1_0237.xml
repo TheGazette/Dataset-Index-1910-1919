@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="0237" pageID="https://www.thegazette.co.uk/id/London/index/year/1918/volume/1/page/0237" pagePDF="https://www.thegazette.co.uk/London/index/year/1918/volume/1/page/0237" pageRDF="https://www.thegazette.co.uk/London/index/year/1918/volume/1/page/0237?view=linked-data" type="index" volume="1" year="1918">
+<Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="237" pageID="https://www.thegazette.co.uk/id/London/index/year/1918/volume/1/page/237" pagePDF="https://www.thegazette.co.uk/London/index/year/1918/volume/1/page/237" pageRDF="https://www.thegazette.co.uk/London/index/year/1918/volume/1/page/237?view=linked-data" type="index" volume="1" year="1918">
   <ItemGroup>
     <MainItem>
       <Key>Wingfield-Stratford</Key>
-      <Title>Col. and Hon.</Title>
-      <Text>I Brig.-Gen. Cecil Vernon, C. M.G, Companion, Order of the Bath</Text>
+      <Text>, Col. and Hon. I Brig.-Gen. Cecil Vernon, C. M.G, Companion, Order of the Bath</Text>
       <PageNumber>2</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -36,19 +35,20 @@
     <MainItem>
       <Key>Winter</Key>
       <Forenames>T.</Forenames>
-    </MainItem>
-    <Text>
+      <Text>/Lt.-Col. Ernest Arthur, M.C, Companion, D.S.O</Text>
       <PageNumber>27</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Henry Elsbury, Member, Order of the British Empire</Text>
       <PageNumber>408</PageNumber>
     </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Winterbotham</Key>
-      <Title>Maj. and Bt. Lt.</Title>
-      <Text>Col. Harold St.. John Lloyd, D. S.O., Companion, St. Michael and St. George</Text>
+      <Title>Maj. and Bt.</Title>
+      <Forenames>Lt</Forenames>
+      <Text>.Col. Harold St.. John Lloyd, D. S.O., Companion, St. Michael and St. George</Text>
       <PageNumber>5</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -71,8 +71,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Withycombe</Key>
-      <Title>Lt.</Title>
-      <Text>-Col. (T./Brig.Gen.) William Maunder, C.M.G, Companion, D.S.O</Text>
+      <Forenames>Lt</Forenames>
+      <Text>.-Col. (T./Brig.Gen.) William Maunder, C.M.G, Companion, D.S.O</Text>
       <PageNumber>27</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -114,21 +114,25 @@
       <Key>AVood</Key>
       <Title>Miss</Title>
       <Forenames>Adelaide Anne</Forenames>
-    </MainItem>
-    <Text>
+      <Text>, Royal Royal Cross, lst Cl</Text>
       <PageNumber>64</PageNumber>
-      <SubItem>
-        <PageNumber>560</PageNumber>
-        <PageNumber>408</PageNumber>
-      </SubItem>
-      <SubItem>
-        <PageNumber>388</PageNumber>
-      </SubItem>
-      <SubItem>
-        <PageNumber>408</PageNumber>
-      </SubItem>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>
+        <PageNumber>560</PageNumber>
+      </Text>
+      <PageNumber>408</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>James, Officer, Order of the British Empire</Text>
+      <PageNumber>388</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>Lt. Thomas, Member, Order of the British Empire</Text>
+      <PageNumber>408</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>Professor Thomas Barlow, Commander, Order of the British Empire</Text>
       <PageNumber>372</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -144,12 +148,12 @@
   <ItemGroup>
     <MainItem>
       <Key>Woodcock</Key>
-      <Title>Lt.</Title>
-    </MainItem>
-    <Text>
+      <Forenames>Lt</Forenames>
+      <Text>.-Col. Arthur Raff, Companion, D.S.O</Text>
       <PageNumber>28</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Capt. (T./Lt.-Col.) Wilfred James, Companion, D.S.O.</Text>
       <PageNumber>27</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -157,18 +161,21 @@
     <MainItem>
       <Key>Woodford</Key>
       <Forenames>Charles Merllynn</Forenames>
-    </MainItem>
-    <Text>
+      <Text>^ MemL ber, Order of the British Empire</Text>
       <PageNumber>408</PageNumber>
-      <SubItem>
-        <PageNumber>1228</PageNumber>
-      </SubItem>
-      <SubItem>
-        <PageNumber>408</PageNumber>
-      </SubItem>
-    </Text>
+    </MainItem>
     <SubItem>
-      <PageNumber>28</PageNumber>
+      <Text>Sir James Thomas, Kt. created Baron (Baron Ter rington of Huddersifteld)</Text>
+      <PageNumber>1228</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>Charlie Roland, Member, Order of the British Empire</Text>
+      <PageNumber>408</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>
+        <PageNumber>28</PageNumber>
+      </Text>
       <PageNumber>372</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -245,7 +252,7 @@
       <Key>Wordsworth</Key>
       <Title>Maj.</Title>
       <Forenames>Robert James</Forenames>
-      <Text>, Companion, D.S.O.</Text>
+      <Text>, Companion, D.S.O</Text>
       <PageNumber>27</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -261,26 +268,26 @@
   <ItemGroup>
     <MainItem>
       <Key>Worrall</Key>
-      <Title>Maj.</Title>
-    </MainItem>
-    <Text>
+      <Text>, Maj. (A./Lt. -Col.) Percy Reginald, M.C., Companion,</Text>
       <PageNumber>27</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>D.S.O Maj. (A./Lt.-Cbl.) Stephen</Text>
       <PageNumber>27</PageNumber>
     </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Worthington</Key>
-      <Title>Lt.</Title>
-    </MainItem>
-    <Text>
+      <Forenames>Lt</Forenames>
+      <Text>.-Col. (A./Col.) Edward Bruen, Companion, Order of St. Michael and St</Text>
       <PageNumber>2971</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
-      <PageNumber>17</PageNumber>
-      <PageNumber>388</PageNumber>
+      <Text>
+        <PageNumber>17</PageNumber>
+        <PageNumber>388</PageNumber>
+      </Text>
       <PageNumber>372</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -298,16 +305,16 @@
       <Key>Wotiton</Key>
       <Title>Miss</Title>
       <Forenames>Violet Isobel</Forenames>
+      <Text>, Royal</Text>
+      <PageNumber>57</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>57</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>
         <KeyDitto>—-</KeyDitto>
       </Key>
+      <Text>rWalter John, Member, Order of the British Empire</Text>
       <PageNumber>408</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -315,26 +322,25 @@
     <MainItem>
       <Key>Wotzel</Key>
       <Forenames>Anthony Andrew Augus-</Forenames>
+      <Text>tine, Officer, Order of the British Empire</Text>
+      <PageNumber>388</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>388</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Wray</Key>
+      <Text>, 2nd Lt. Edward Millard Grubb, Companion, D.S.O</Text>
       <PageNumber>3744</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Wright</Key>
-      <Title>Capt.</Title>
-    </MainItem>
-    <Text>
+      <Text>, Capt. (A./Lt.-Col.) Andrew Rae, M.B, Companion, D.S.O</Text>
       <PageNumber>27</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>: Charles Francis, Officer, Order of the British Empire</Text>
       <PageNumber>388</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -344,40 +350,44 @@
         <KeyDitto>——</KeyDitto>
       </Key>
       <Forenames>Henry</Forenames>
+      <Text>, Memiber, Order of the British Empire</Text>
+      <PageNumber>408</PageNumber>
     </MainItem>
+    <SubItem>
+      <Text>
+        <PageNumber>27</PageNumber>
+      </Text>
+      <PageNumber>408</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>
+        <PageNumber>408</PageNumber>
+      </Text>
+      <PageNumber>408</PageNumber>
+    </SubItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>408</PageNumber>
-    <SubItem>
-      <PageNumber>27</PageNumber>
-      <PageNumber>408</PageNumber>
-    </SubItem>
-    <SubItem>
-      <PageNumber>408</PageNumber>
-      <PageNumber>408</PageNumber>
-    </SubItem>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>
         <KeyDitto>—</KeyDitto>
       </Key>
+      <Text>iLt.-Col. and Hon. Col. William Charles, Companion, Order of the Bath Maj. William Oswald, Companion, D.S.O</Text>
       <PageNumber>27</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Wrightson</Key>
-      <Title>Lt.</Title>
-      <Text>(A./Lt.-Cdr.) Edmund Gilchrist, Companion, D.S.O.</Text>
+      <Forenames>Lt</Forenames>
+      <Text>. (A./Lt.-Cdr.) Edmund Gilchrist, Companion, D.S.O</Text>
       <PageNumber>2301</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Wroughton</Key>
-      <Title>Lt.</Title>
-      <Text>-Col. Arthur Oliver Bird. Companion, D.S.O.</Text>
+      <Forenames>Lt</Forenames>
+      <Text>.-Col. Arthur Oliver Bird. Companion, D.S.O</Text>
       <PageNumber>27</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -394,23 +404,22 @@
       <Key>Wyld</Key>
       <Title>Miss</Title>
       <Forenames>Florence</Forenames>
-    </MainItem>
-    <Text>
+      <Text>IMaria, Member, Order of the British Empire</Text>
       <PageNumber>408</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Cant. Jasper William .George, M.C, Companion; B.&amp;0..,</Text>
       <PageNumber>87</PageNumber>
     </SubItem>
   </ItemGroup>
+  <KeyDitto>—</KeyDitto>
   <ItemGroup>
     <MainItem>
-      <Key>Wylly</Key>
-      <Title>Maj.</Title>
-      <Forenames>Guy George Egerton</Forenames>
-      <Text>
-        <KeyDitto>—</KeyDitto>
+      <Key>
         <KeyDitto>-—</KeyDitto>
-      </Text>
+      </Key>
+      <Forenames>George Udny</Forenames>
+      <Text>, ; Commander, Order of the British Empire</Text>
       <PageNumber>27</PageNumber>
     </MainItem>
   </ItemGroup>

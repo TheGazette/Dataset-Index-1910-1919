@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="0298" pageID="https://www.thegazette.co.uk/id/London/index/year/1915/volume/3/page/0298" pagePDF="https://www.thegazette.co.uk/London/index/year/1915/volume/3/page/0298" pageRDF="https://www.thegazette.co.uk/London/index/year/1915/volume/3/page/0298?view=linked-data" type="index" volume="3" year="1915">
+<Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="298" pageID="https://www.thegazette.co.uk/id/London/index/year/1915/volume/3/page/298" pagePDF="https://www.thegazette.co.uk/London/index/year/1915/volume/3/page/298" pageRDF="https://www.thegazette.co.uk/London/index/year/1915/volume/3/page/298?view=linked-data" type="index" volume="3" year="1915">
+  <SubCategoryTitle>VOLUNTEER FORCE</SubCategoryTitle>
   <ItemGroup>
     <MainItem>
       <Key>Volunteer</Key>
@@ -8,8 +9,8 @@
       <PageNumber>8987</PageNumber>
     </MainItem>
   </ItemGroup>
-  <CategoryTitle>CANADA</CategoryTitle>
-  <SectionTitle>Commands and Staff</SectionTitle>
+  <SubCategoryTitle>Oversea Contingents</SubCategoryTitle>
+  <SubCategoryTitle>CANADA</SubCategoryTitle>
   <ItemGroup>
     <MainItem>
       <Key>Hough</Key>
@@ -28,7 +29,6 @@
       <PageNumber>8171</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SectionTitle>Divisional Cyclist Company</SectionTitle>
   <ItemGroup>
     <MainItem>
       <Key>Everall</Key>
@@ -38,7 +38,6 @@
       <PageNumber>9442</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SectionTitle>Training Depot</SectionTitle>
   <ItemGroup>
     <MainItem>
       <Key>Oeghorn</Key>
@@ -47,7 +46,6 @@
       <PageNumber>7441</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SectionTitle>Infantry Base Depot</SectionTitle>
   <ItemGroup>
     <MainItem>
       <Key>Titton</Key>
@@ -56,7 +54,6 @@
       <PageNumber>9564</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SectionTitle>Army Service Coips</SectionTitle>
   <ItemGroup>
     <MainItem>
       <Key>Brock</Key>
@@ -135,7 +132,6 @@
       <PageNumber>9564</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SectionTitle>Army Pay Corps</SectionTitle>
   <ItemGroup>
     <MainItem>
       <Key>Wiggs</Key>
@@ -145,7 +141,6 @@
       <PageNumber>9564</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SectionTitle>Army Veterinary Corps</SectionTitle>
   <ItemGroup>
     <MainItem>
       <Key>TJest</Key>
@@ -173,7 +168,6 @@
       <PageNumber>9523</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SectionTitle>Memorandum</SectionTitle>
   <ItemGroup>
     <MainItem>
       <Key>Spry</Key>
@@ -183,7 +177,6 @@
       <PageNumber>9400</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SectionTitle>Cavalry</SectionTitle>
   <ItemGroup>
     <MainItem>
       <Key>Bell</Key>
@@ -238,7 +231,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Oilman</Key>
-      <Title>Oapt.</Title>
+      <Title>Capt.</Title>
       <Forenames>F.</Forenames>
       <Text>(temporary Maj.)</Text>
       <PageNumber>8262</PageNumber>
@@ -248,38 +241,39 @@
     <MainItem>
       <Key>Hooton</Key>
       <Forenames>Reginald Stanlev</Forenames>
-    </MainItem>
-    <Text>
+      <Text>(temporary Lieut.)</Text>
       <PageNumber>8720</PageNumber>
-      <SectionTitle>Cavalry Depot</SectionTitle>
-      <SectionTitle>Remount Depot</SectionTitle>
-      <SectionTitle>Artillery</SectionTitle>
-      <SubItem>
-        <PageNumber>9442</PageNumber>
-      </SubItem>
-      <SubItem>
-        <PageNumber>9442</PageNumber>
-      </SubItem>
-      <SubItem>
-        <PageNumber>9442</PageNumber>
-      </SubItem>
-      <SubItem>
-        <PageNumber>9523</PageNumber>
-      </SubItem>
-      <SubItem>
-        <PageNumber>8171</PageNumber>
-      </SubItem>
-      <SectionTitle>Engineers</SectionTitle>
-      <SubItem>
-        <PageNumber>9434</PageNumber>
-      </SubItem>
-      <SectionTitle>Infantry</SectionTitle>
-      <SubItem>
-        <SectionTitle>[Ontario Regiment)</SectionTitle>
-        <PageNumber>8541</PageNumber>
-      </SubItem>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Hendrie, Lieut. W. I. S. (temporary Capt.)</Text>
+      <PageNumber>9442</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>McEwen, Capt. A. B. (temporary Maj.)</Text>
+      <PageNumber>9442</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>Taylor, Lieut. W. H. (temporary Capt.)</Text>
+      <PageNumber>9442</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>Watt, R. M. (temporary Lieut.)</Text>
+      <PageNumber>9523</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>Relinquishes his temporary rank</Text>
+      <PageNumber>8171</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>Shergold, Qrmr. Charles (Hon. Capt.)</Text>
+      <PageNumber>9434</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>Infantry. 1st Canadian Infantry Battalion [Ontario Regiment). Churchill, A. N. H. (temporary Lieut.)</Text>
+      <PageNumber>8541</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>Temporary Maj</Text>
       <PageNumber>9400</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -287,11 +281,11 @@
     <MainItem>
       <Key>Dobson</Key>
       <Forenames>Wilfred J.</Forenames>
-    </MainItem>
-    <Text>
+      <Text>(temporary Lieut.)</Text>
       <PageNumber>6561</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Temporary Capt</Text>
       <PageNumber>9056</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -299,11 +293,11 @@
     <MainItem>
       <Key>Dimfield</Key>
       <Forenames>E. A.</Forenames>
-    </MainItem>
-    <Text>
+      <Text>(temporary 2nd Lieut.) ._</Text>
       <PageNumber>7332</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Temporary Lieut</Text>
       <PageNumber>9631</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -326,12 +320,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Hodgson</Key>
-      <Title>Lient.</Title>
-      <Forenames>C. W.</Forenames>
-      <Text>
+      <Key>
         <KeyDitto />
-      </Text>
+      </Key>
+      <Text>&gt;apt.) Mb J Irvine, E. (temporary Lieut.)</Text>
       <PageNumber>8243</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -373,11 +365,11 @@
     <MainItem>
       <Key>McKinney</Key>
       <Forenames>D. J.</Forenames>
-    </MainItem>
-    <Text>
+      <Text>(temporary Lieut.)</Text>
       <PageNumber>8004</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Temporary Capt.) *.</Text>
       <PageNumber>9056</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -402,14 +394,14 @@
     <MainItem>
       <Key>Saunders</Key>
       <Forenames>A. L. W.</Forenames>
+      <Text>(temporary 2nd Lieut.)</Text>
+      <PageNumber>7332</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>7332</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Sheffield</Key>
+      <Text>, R, H. (temporary Lieut.)</Text>
       <PageNumber>8243</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -447,26 +439,26 @@
       <PageNumber>7332</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SectionTitle>2nd Canadian Infantry Battalion</SectionTitle>
   <ItemGroup>
     <MainItem>
       <Key>Birdeall</Key>
       <Title>Lieut.</Title>
       <Forenames>F. E.</Forenames>
+      <Text>(temporary Capt.)</Text>
+      <PageNumber>8262</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>8262</PageNumber>
-    <ItemGroup>
-      <MainItem>
-        <Key>Cotgrave</Key>
-        <PageNumber>8023</PageNumber>
-      </MainItem>
-    </ItemGroup>
-  </Text>
+  <ItemGroup>
+    <MainItem>
+      <Key>Cotgrave</Key>
+      <Text>, (temporary) Lieut. M. L. F. (correction)</Text>
+      <PageNumber>8023</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Graham</Key>
+      <Text>, (temporary) Lieut. G. H. (correction)</Text>
       <PageNumber>8023</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -492,26 +484,28 @@
     <MainItem>
       <Key>Maguire</Key>
       <Forenames>F.</Forenames>
+      <Text>(temporary Lieut.)</Text>
+      <PageNumber>7332</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>7332</PageNumber>
-    <ItemGroup>
-      <MainItem>
-        <Key>Neal</Key>
-        <PageNumber>8023</PageNumber>
-      </MainItem>
-    </ItemGroup>
-    <ItemGroup>
-      <MainItem>
-        <Key>Xeilson</Key>
-        <PageNumber>8023</PageNumber>
-      </MainItem>
-    </ItemGroup>
-  </Text>
+  <ItemGroup>
+    <MainItem>
+      <Key>Neal</Key>
+      <Text>, (temporary) Lieut. C. W. (correction)</Text>
+      <PageNumber>8023</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Xeilson</Key>
+      <Text>, (temporary) Lieut. M. A. (correction)</Text>
+      <PageNumber>8023</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>O</Key>
+      <Text>'Flynn, Lieut. E. D. (temporary Capt,)</Text>
       <PageNumber>9564</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -534,15 +528,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Richardson</Key>
-      <Title>Lieut.</Title>
+      <Text>, Lieut. (temporary Capt.) G. T. (temporary Capt. antedated)</Text>
+      <PageNumber>6940</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>6940</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Swift</Key>
+      <Text>, .Maj. A. E. (temporary Lieut.-Col. and to command the Battalion)</Text>
       <PageNumber>9094</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -555,12 +548,10 @@
       <PageNumber>9442</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SectionTitle>(Toronto Regiment)</SectionTitle>
   <ItemGroup>
     <MainItem>
       <Key>Allan</Key>
-      <Title>Capt.</Title>
-      <Text>(temporary Maj.) W. D. (temporary Maj. antedated)</Text>
+      <Text>, Capt. (temporary Maj.) W. D. (temporary Maj. antedated)</Text>
       <PageNumber>6940</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -619,14 +610,14 @@
       <Key>George</Key>
       <Title>Lieut.</Title>
       <Forenames>R. K.</Forenames>
+      <Text>(temporary Capt.)</Text>
+      <PageNumber>7046</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>7046</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Gordon</Key>
+      <Text>. H. R. (temporary Lieut.)</Text>
       <PageNumber>8243</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -634,11 +625,11 @@
     <MainItem>
       <Key>Jones</Key>
       <Forenames>H. C.</Forenames>
-    </MainItem>
-    <Text>
+      <Text>(temporary 2nd Lieut.)</Text>
       <PageNumber>7332</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Temporary Lieut.</Text>
       <PageNumber>9631</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -653,8 +644,9 @@
   <ItemGroup>
     <MainItem>
       <Key>McCormack</Key>
-      <Forenames>Lieut</Forenames>
-      <Text>'. C. A. V. (temporary Capt.)</Text>
+      <Title>Lieut.</Title>
+      <Forenames>C. A. V.</Forenames>
+      <Text>(temporary Capt.)</Text>
       <PageNumber>7046</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="0218" pageID="https://www.thegazette.co.uk/id/London/index/year/1915/volume/2/page/0218" pagePDF="https://www.thegazette.co.uk/London/index/year/1915/volume/2/page/0218" pageRDF="https://www.thegazette.co.uk/London/index/year/1915/volume/2/page/0218?view=linked-data" type="index" volume="2" year="1915">
+<Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="218" pageID="https://www.thegazette.co.uk/id/London/index/year/1915/volume/2/page/218" pagePDF="https://www.thegazette.co.uk/London/index/year/1915/volume/2/page/218" pageRDF="https://www.thegazette.co.uk/London/index/year/1915/volume/2/page/218?view=linked-data" type="index" volume="2" year="1915">
   <ItemGroup>
     <MainItem>
       <Key>Forman</Key>
@@ -161,11 +161,11 @@
       <Key>McDonald</Key>
       <Title>Capt.</Title>
       <Forenames>Stuart</Forenames>
-    </MainItem>
-    <Text>
+      <Text>(resigned)</Text>
       <PageNumber>3958</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Correction of date</Text>
       <PageNumber>4762</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -181,9 +181,13 @@
     <MainItem>
       <Key>Mcintosh</Key>
       <Forenames>Kenneth</Forenames>
-      <Text>(temporary 2nd ___ Lieut.)</Text>
-      <PageNumber>5323</PageNumber>
+      <Text>(temporary 2nd</Text>
+      <PageNumber>___</PageNumber>
     </MainItem>
+    <SubItem>
+      <Text>Lieut.)</Text>
+      <PageNumber>5323</PageNumber>
+    </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
@@ -359,24 +363,27 @@
     <MainItem>
       <Key>Wolfe</Key>
       <Forenames>Benjamin Thomas</Forenames>
+      <Text>(2nd Lieut.)</Text>
+      <PageNumber>4868</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>4868</PageNumber>
-    <ItemGroup>
-      <MainItem>
-        <Key>Wylie</Key>
-        <PageNumber>5525</PageNumber>
-      </MainItem>
-    </ItemGroup>
-  </Text>
   <ItemGroup>
     <MainItem>
-      <Key>Zo</Key>
+      <Key>Wylie</Key>
+      <Text>William Evelyn (2nd Lieut.)</Text>
+      <PageNumber>5525</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Zorn</Key>
+      <Forenames>Paul Wilhelm</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>5120</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubSectionTitle>Chaplains Department. 1st Class</SubSectionTitle>
+  <SectionTitle>Chaplains Department</SectionTitle>
+  <SectionTitle>1st Class</SectionTitle>
   <ItemGroup>
     <MainItem>
       <Key>Briggs</Key>
@@ -386,7 +393,7 @@
       <PageNumber>3731</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubSectionTitle>2nd Class</SubSectionTitle>
+  <SectionTitle>2nd Class</SectionTitle>
   <ItemGroup>
     <MainItem>
       <Key>James</Key>
@@ -408,12 +415,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Pennefather</Key>
-      <Title>Rev.</Title>
-    </MainItem>
-    <Text>
+      <Text>Rev. . Prebendary Somerset E., M.A</Text>
       <PageNumber>3425</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Correction of date</Text>
       <PageNumber>4157</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -422,11 +428,11 @@
       <Key>Sutherland</Key>
       <Title>Rev.</Title>
       <Forenames>Andrew N.</Forenames>
-      <Text>, M.A.</Text>
+      <Text>, M.A</Text>
       <PageNumber>6034</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubSectionTitle>Zrd Class</SubSectionTitle>
+  <SectionTitle>3rd Class</SectionTitle>
   <ItemGroup>
     <MainItem>
       <Key>Aitken</Key>
@@ -439,8 +445,7 @@
     <MainItem>
       <Key>Birch</Key>
       <Title>Rev.</Title>
-      <Forenames>James A.</Forenames>
-      <Text>G</Text>
+      <Forenames>James A. G</Forenames>
       <PageNumber>3942</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -465,7 +470,7 @@
       <Key>Stevenson</Key>
       <Title>Rev.</Title>
       <Forenames>William B.</Forenames>
-      <Text>, iM.A.</Text>
+      <Text>, iM.A</Text>
       <PageNumber>6160</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -486,7 +491,7 @@
       <PageNumber>4045</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubSectionTitle>4lh Class</SubSectionTitle>
+  <SectionTitle>4lh Class</SectionTitle>
   <ItemGroup>
     <MainItem>
       <Key>Blakeney</Key>
@@ -530,6 +535,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>Scott-Monerieff</Key>
+      <Title>Rev.</Title>
+      <Forenames>Charles E.</Forenames>
+      <Text>(resigned)</Text>
+      <PageNumber>3732</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Tinley</Key>
       <Title>Rev.</Title>
       <Forenames>Samuel Glasier</Forenames>
@@ -539,12 +553,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Wontnetf</Key>
-      <Title>Rev.</Title>
-      <Text>. Max ;Sewel!</Text>
+      <Text>Rev.. Max ;Sewel!</Text>
       <PageNumber>3444</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubSectionTitle>Officers Training Corps</SubSectionTitle>
+  <SectionTitle>Officers Training Corps</SectionTitle>
   <ItemGroup>
     <MainItem>
       <Key>Alton</Key>
@@ -586,15 +599,8 @@
       <Key>Broadhead</Key>
       <Title>2nd Lieut.</Title>
       <Forenames>Henry D.</Forenames>
-    </MainItem>
-  </ItemGroup>
-  <Text>
-    <PageNumber>3560</PageNumber>
-  </Text>
-  <ItemGroup>
-    <MainItem>
-      <Key>Carpenter</Key>
-      <PageNumber>5648</PageNumber>
+      <Text>(ceases to serve)</Text>
+      <PageNumber>3560</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -681,26 +687,28 @@
       <Key>Gentles</Key>
       <Title>2nd Lieut.</Title>
       <Forenames>Robert</Forenames>
+      <Text>(temporary Lieut.)</Text>
+      <PageNumber>4077</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>4077</PageNumber>
-    <ItemGroup>
-      <MainItem>
-        <Key>Griffiths</Key>
-        <PageNumber>3824</PageNumber>
-      </MainItem>
-    </ItemGroup>
-    <ItemGroup>
-      <MainItem>
-        <Key>Hamilton</Key>
-        <PageNumber>5648</PageNumber>
-      </MainItem>
-    </ItemGroup>
-  </Text>
+  <ItemGroup>
+    <MainItem>
+      <Key>Griffiths</Key>
+      <Text>(temporary) 2nd Liout. David H. (ceases to serve)</Text>
+      <PageNumber>3824</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Hamilton</Key>
+      <Text>(temporary) 2nd Lieut. George (local rank of Capt.)</Text>
+      <PageNumber>5648</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Johnson</Key>
+      <Text>2nd CLieut. Arthur C. (temporary Lieut.)</Text>
       <PageNumber>5222</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -751,14 +759,16 @@
     <MainItem>
       <Key>Macfarlane-Grieve</Key>
       <Forenames>Alwyn R.</Forenames>
+      <Text>(Lieut.) .:</Text>
+      <PageNumber>4868</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>4868</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Mead</Key>
+      <Title>2nd Lieut.</Title>
+      <Forenames>Godfrey C. F.</Forenames>
+      <Text>(temporary Lieut.)</Text>
       <PageNumber>5732</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -774,14 +784,14 @@
     <MainItem>
       <Key>Mirfield</Key>
       <Forenames>Francis G.</Forenames>
+      <Text>(2nd Lieut.)</Text>
+      <PageNumber>6035</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>6035</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Perkins</Key>
+      <Text>(temporary) Lieut. William H. (local Capt.)</Text>
       <PageNumber>6035</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -808,14 +818,14 @@
       <Key>Roberts</Key>
       <Title>Lieut.</Title>
       <Forenames>H. O.</Forenames>
+      <Text>(temporary Capt.)</Text>
+      <PageNumber>4056</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>4056</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Robin</Key>
+      <Text>3on, Percy H. (2nd Lieut., to be supernumerary)</Text>
       <PageNumber>3594</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -832,14 +842,14 @@
     <MainItem>
       <Key>Simon</Key>
       <Forenames>Norman</Forenames>
+      <Text>(temporary 2nd Lieut.)</Text>
+      <PageNumber>4157</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>4157</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Smith</Key>
+      <Text>.2nd Lieut. John L. (temporary Lieut.)</Text>
       <PageNumber>5222</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -867,7 +877,7 @@
       </Key>
       <Title>Lieut.</Title>
       <Forenames>John Barber</Forenames>
-      <Text>(temporary Oapt.)</Text>
+      <Text>(temporary Capt.)</Text>
       <PageNumber>4077</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -898,7 +908,7 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>WatheTston</Key>
+      <Key>Watherston</Key>
       <Title>2nd Lieut.</Title>
       <Forenames>Robert J. H.F.</Forenames>
       <Text>(local Lieut.)</Text>
@@ -910,7 +920,7 @@
       <Key>Whitehead</Key>
       <Title>Lieut.</Title>
       <Forenames>Tatham White-</Forenames>
-      <Text>head (temporary Oapt.)</Text>
+      <Text>head (temporary Capt.)</Text>
       <PageNumber>5120</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -928,14 +938,14 @@
       <Key>Wilson</Key>
       <Title>Lieuit.</Title>
       <Forenames>William J.</Forenames>
+      <Text>(temporary Capt.)</Text>
+      <PageNumber>4384</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>4384</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Woodhead</Key>
+      <Text>. 2nd Lieut. Arthur E. (local Lieut.)</Text>
       <PageNumber>6035</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -953,11 +963,11 @@
       <Key>Ackers</Key>
       <Title>Lieut.</Title>
       <Forenames>Charles P.</Forenames>
-    </MainItem>
-    <Text>
+      <Text>(seconded)</Text>
       <PageNumber>3824</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Seconding antedated</Text>
       <PageNumber>4761</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1015,11 +1025,11 @@
     <MainItem>
       <Key>Allen</Key>
       <Forenames>James S.</Forenames>
-    </MainItem>
-    <Text>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>3384</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Temporary Capt.</Text>
       <PageNumber>6250</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1133,11 +1143,11 @@
     <MainItem>
       <Key>Athey</Key>
       <Forenames>John Henry</Forenames>
-    </MainItem>
-    <Text>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>5203</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Temporary Lieut.</Text>
       <PageNumber>5203</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1216,11 +1226,11 @@
       <Key>Barron</Key>
       <Title>Maj.</Title>
       <Forenames>Cyril A.</Forenames>
-    </MainItem>
-    <Text>
+      <Text>(seconded)</Text>
       <PageNumber>3824</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Seconding antedated</Text>
       <PageNumber>4761</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1253,8 +1263,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bell</Key>
-      <Title>Charles.</Title>
-      <Text>(2nd Lieut.)</Text>
+      <Forenames>Charles</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>4887</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1263,11 +1273,11 @@
       <Key>Bennett</Key>
       <Title>Lieut.</Title>
       <Forenames>William R.</Forenames>
-    </MainItem>
-    <Text>
+      <Text>(Adjt.)</Text>
       <PageNumber>4255</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Temporary Capt</Text>
       <PageNumber>4255</PageNumber>
     </SubItem>
   </ItemGroup>

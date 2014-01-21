@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="0791" pageID="https://www.thegazette.co.uk/id/London/index/year/1919/volume/2/page/0791" pagePDF="https://www.thegazette.co.uk/London/index/year/1919/volume/2/page/0791" pageRDF="https://www.thegazette.co.uk/London/index/year/1919/volume/2/page/0791?view=linked-data" type="index" volume="2" year="1919">
-  <SubCategoryTitle>MILITARY PROMOTIONS, Indian Army.</SubCategoryTitle>
+<Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="791" pageID="https://www.thegazette.co.uk/id/London/index/year/1919/volume/2/page/791" pagePDF="https://www.thegazette.co.uk/London/index/year/1919/volume/2/page/791" pageRDF="https://www.thegazette.co.uk/London/index/year/1919/volume/2/page/791?view=linked-data" type="index" volume="2" year="1919">
   <ItemGroup>
     <MainItem>
       <Key>Bowe</Key>
@@ -12,8 +11,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ryan</Key>
-      <Title>Lt.</Title>
-      <Text>P: (comdg. a Troop)</Text>
+      <Forenames>Lt</Forenames>
+      <Text>. P: (comdg. a Troop)</Text>
       <PageNumber>6374</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -21,19 +20,18 @@
     <MainItem>
       <Key>Salvesen</Key>
       <Forenames>F.</Forenames>
-    </MainItem>
-    <Text>
+      <Text>CM. R. (oomdg. a Co.)</Text>
       <PageNumber>5518</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Rel. actg. rank on ceasing to 'be Adjt. ..f</Text>
       <PageNumber>5517</PageNumber>
     </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Sander</Key>
-      <Forenames>H.</Forenames>
-      <Text>R</Text>
+      <Forenames>H. R</Forenames>
       <PageNumber>4429</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -49,11 +47,11 @@
     <MainItem>
       <Key>Savage</Key>
       <Forenames>E. G.</Forenames>
-    </MainItem>
-    <Text>
+      <Text>{whilst Adjt.)</Text>
       <PageNumber>6374</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Comdg. a Co</Text>
       <PageNumber>8118</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -78,14 +76,15 @@
     <MainItem>
       <Key>Secombe</Key>
       <Forenames>H. S.</Forenames>
-    </MainItem>
-    <Text>
+      <Text>(whilst Adjt. of a Depot) —</Text>
       <PageNumber>6517</PageNumber>
-      <SubItem>
-        <PageNumber>5517</PageNumber>
-      </SubItem>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Rel. actg. rank on ceasing to be Adjt</Text>
+      <PageNumber>5517</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>Whilst Adjt</Text>
       <PageNumber>7713</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -120,11 +119,11 @@
     <MainItem>
       <Key>Sheppard</Key>
       <Forenames>F. E.</Forenames>
-    </MainItem>
-    <Text>
+      <Text>{rel. actg. rank on ceasing to comd. a Co.)</Text>
       <PageNumber>5805</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Comdg. a Co</Text>
       <PageNumber>7951</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -134,11 +133,11 @@
         <KeyDitto>-</KeyDitto>
       </Key>
       <Forenames>Shiptom</Forenames>
-    </MainItem>
-    <Text>
+      <Text>, G. L. '(comdg. a Co.),</Text>
       <PageNumber>6125</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Rel. actg. rank</Text>
       <PageNumber>6125</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -146,16 +145,18 @@
     <MainItem>
       <Key>Simms</Key>
       <Forenames>F. H.</Forenames>
+      <Text>(comdg. a 'Co.)</Text>
+      <PageNumber>6124</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>6124</PageNumber>
-    <MainItem>Skead, &gt;B 6125</MainItem>
-  </Text>
   <ItemGroup>
-    <Key>Skead</Key>
-    <PageNumber>6125</PageNumber>
+    <MainItem>
+      <Key>Skead</Key>
+      <Text>, &gt;B</Text>
+      <PageNumber>6125</PageNumber>
+    </MainItem>
     <SubItem>
+      <Text>Whilst Adjt</Text>
       <PageNumber>5352</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -176,22 +177,21 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>F. M.</Forenames>
+      <Text>, M.C. (comdg. a Co.)</Text>
+      <PageNumber>6684</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <Text>
-    <PageNumber>6684</PageNumber>
     <SubItem>
+      <Text>Rel. actg. rank on ceasing to comd. a Co</Text>
       <PageNumber>6684</PageNumber>
     </SubItem>
-  </Text>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <SubCategoryTitle>
-        <PageNumber>6664</PageNumber>
-      </SubCategoryTitle>
+      <Text>21 v</Text>
+      <PageNumber>6664</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -215,20 +215,22 @@
       <Key>Steel</Key>
       <Title>Lt.</Title>
       <Forenames>E. G.</Forenames>
-    </MainItem>
-  </ItemGroup>
-  <Text>
-    <PageNumber>6685</PageNumber>
-    <SubItem>
+      <Text>(comdg. a Coy.)</Text>
       <PageNumber>6685</PageNumber>
+    </MainItem>
+    <SubItem>
+      <Text>
+        <PageNumber>6685</PageNumber>
+      </Text>
       <PageNumber>6685</PageNumber>
     </SubItem>
-  </Text>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
+      <Text>J S., M.C. (With pay and allces. of ILt. whilst Adjt)</Text>
       <PageNumber>6375</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -236,16 +238,24 @@
     <MainItem>
       <Key>iStevens</Key>
       <Forenames>C. W.</Forenames>
+      <Text>{comdg. a Coy.)</Text>
+      <PageNumber>7078</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>7078</PageNumber>
-  </Text>
+  <ItemGroup>
+    <MainItem>
+      <Key>Stevenson</Key>
+      <Forenames>A. M.</Forenames>
+      <Text>(rel. aotg. rank on ceasing to comd. Co.)</Text>
+      <PageNumber>7713</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
+      <Text>W H. (comdig. a Coy.)</Text>
       <PageNumber>7562</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -274,11 +284,11 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>J. P.</Forenames>
-    </MainItem>
-    <Text>
+      <Text>(comdg. a Coy.)</Text>
       <PageNumber>7951</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Rel. aotg. rank on ceasing to comd. a Coy</Text>
       <PageNumber>7961</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -294,11 +304,11 @@
     <MainItem>
       <Key>Tanner</Key>
       <Forenames>G. W.</Forenames>
-    </MainItem>
-    <Text>
+      <Text>, M.C. (rel. actg. rank on ceasing to be Adtj.)</Text>
       <PageNumber>8118</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Comdg. a Coy</Text>
       <PageNumber>8118</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -314,11 +324,11 @@
     <MainItem>
       <Key>Taylor</Key>
       <Forenames>C. W.</Forenames>
-    </MainItem>
-    <Text>
+      <Text>(comdg, a Coy.)</Text>
       <PageNumber>8118</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Rel. actg. rank on ceasing to comd. a Coy</Text>
       <PageNumber>8118</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -336,17 +346,13 @@
     <MainItem>
       <Key>Teape</Key>
       <Forenames>C. O. T.</Forenames>
+      <Text>(rel. aotg. rank on ceasing to foe Adjt.)</Text>
+      <PageNumber>6126</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <Text>
-    <PageNumber>6126</PageNumber>
-    <MainItem>Tennant, 2nd Lt. F. 0. (comdg. a . Coy.) 6685</MainItem>
-  </Text>
-  <ItemGroup>
-    <Key>Tennant</Key>
-    <PageNumber>6685</PageNumber>
     <SubItem>
-      <PageNumber>6685</PageNumber>
+      <Text>
+        <PageNumber>6685</PageNumber>
+      </Text>
       <PageNumber>6685</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -380,11 +386,11 @@
     <MainItem>
       <Key>Tinney</Key>
       <Forenames>G.</Forenames>
-    </MainItem>
-    <Text>
+      <Text>£. (whilst Adjt.)</Text>
       <PageNumber>6125</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Comdg. a Co</Text>
       <PageNumber>7078</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -392,7 +398,7 @@
     <MainItem>
       <Key>Tollit</Key>
       <Forenames>W.</Forenames>
-      <Text>'E.</Text>
+      <Text>'E</Text>
       <PageNumber>5517</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -407,11 +413,11 @@
     <MainItem>
       <Key>Torrance</Key>
       <Forenames>W. R. D.</Forenames>
-    </MainItem>
-    <Text>
+      <Text>(rell actg. rank on ceasing to comd. a Coy.)]</Text>
       <PageNumber>7562</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Comdg, a Coy</Text>
       <PageNumber>7950</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -428,12 +434,12 @@
     <MainItem>
       <Key>Trechmanji</Key>
       <Forenames>A. D.</Forenames>
-    </MainItem>
-    <Text>
+      <Text>{whilst Adjt.)</Text>
       <PageNumber>7837</PageNumber>
       <PageNumber>7950</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Comd, a Co</Text>
       <PageNumber>7837</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -467,8 +473,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tudor-Craig</Key>
-      <Forenames>P.</Forenames>
-      <Text>C</Text>
+      <Forenames>P. C</Forenames>
       <PageNumber>5352</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -500,12 +505,12 @@
   <ItemGroup>
     <MainItem>
       <Key>Vetch</Key>
-      <Forenames>W.</Forenames>
-    </MainItem>
-    <Text>
+      <Forenames>W. H</Forenames>
+      <Text>, (comdg. a Coy.)</Text>
       <PageNumber>6376</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Rel. actg. rank on ceasing to comd. a Coy</Text>
       <PageNumber>7079</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -513,12 +518,13 @@
     <MainItem>
       <Key>Virgin</Key>
       <Forenames>A. H.</Forenames>
-    </MainItem>
-    <Text>
+      <Text>(comdg. a Co.)</Text>
       <PageNumber>5617</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
-      <PageNumber>5517</PageNumber>
+      <Text>
+        <PageNumber>5517</PageNumber>
+      </Text>
       <PageNumber>5804</PageNumber>
       <PageNumber>7712</PageNumber>
     </SubItem>
@@ -527,11 +533,11 @@
     <MainItem>
       <Key>Waight</Key>
       <Forenames>G.</Forenames>
-    </MainItem>
-    <Text>
+      <Text>(with pay and allces. of Lt. while Adjt.)</Text>
       <PageNumber>7837</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>ReL actg. rank on ceasing to be Adjt</Text>
       <PageNumber>7950</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -555,11 +561,11 @@
     <MainItem>
       <Key>Wallace</Key>
       <Forenames>D.</Forenames>
-    </MainItem>
-    <Text>
+      <Text>(whilst Adjit.)</Text>
       <PageNumber>7713</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Rel. actg. rank on ceasing to be Adljt</Text>
       <PageNumber>7713</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -582,20 +588,21 @@
     <MainItem>
       <Key>Waters</Key>
       <Forenames>W. H.</Forenames>
+      <Text>(rel. actg. rank on ceasing to be Adjt.)</Text>
+      <PageNumber>7078</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>7078</PageNumber>
-    <ItemGroup>
-      <MainItem>
-        <Key>Watkin</Key>
-        <PageNumber>6124</PageNumber>
-      </MainItem>
-    </ItemGroup>
-  </Text>
+  <ItemGroup>
+    <MainItem>
+      <Key>Watkin</Key>
+      <Text>, ,H. G. (comdg. a Co.)</Text>
+      <PageNumber>6124</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Watts</Key>
+      <Text>. H. E. {whilst Adjt. of a Depot)</Text>
       <PageNumber>5517</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -611,11 +618,11 @@
     <MainItem>
       <Key>Webb</Key>
       <Forenames>F. B.</Forenames>
-    </MainItem>
-    <Text>
+      <Text>(corr.)</Text>
       <PageNumber>6376</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Rel. actg. rank on ceasing to comd. a Coy</Text>
       <PageNumber>7076</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -631,15 +638,15 @@
     <MainItem>
       <Key>Wenmoth</Key>
       <Forenames>H. H.</Forenames>
-      <Text>(with pay and aUces. of Lt, whilst Adjt.)</Text>
+      <Text>(with pay and allces. of Lt, whilst Adjt.)</Text>
       <PageNumber>7951</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>West</Key>
-      <Forenames>E.</Forenames>
-      <Text>M'. (rel. actg. rank on ceasing to be Adjt.)</Text>
+      <Forenames>E. M.</Forenames>
+      <Text>(rel. actg. rank on ceasing to be Adjt.)</Text>
       <PageNumber>6376</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -647,11 +654,11 @@
     <MainItem>
       <Key>Weston</Key>
       <Forenames>E. B.</Forenames>
-    </MainItem>
-    <Text>
+      <Text>{comdg. a Coy.), Smb. iNot</Text>
       <PageNumber>7961</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Rel. actg. rank on ceasing to comd. a Oov.), Sub. Not</Text>
       <PageNumber>7951</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -660,7 +667,7 @@
       <Key>White</Key>
       <Title>Lt.</Title>
       <Forenames>G. W. W.</Forenames>
-      <Text>(with pay and al'lces. for Lt, while Adjt.)</Text>
+      <Text>(with pay and allces. for Lt, while Adjt.)</Text>
       <PageNumber>7714</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -669,8 +676,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>J. H.</Forenames>
-      <Text>B</Text>
+      <Forenames>J. H. B</Forenames>
       <PageNumber>5351</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -680,16 +686,18 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>L. W. N.</Forenames>
+      <Text>(with pav and allces. of Capt. whilst Adjt.)</Text>
+      <PageNumber>6685</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>6685</PageNumber>
-    <MainItem>WMtehill, R, D. (whilst Adjt.) ... 5805</MainItem>
-  </Text>
   <ItemGroup>
-    <Key>WMtehill</Key>
-    <PageNumber>5805</PageNumber>
+    <MainItem>
+      <Key>WMtehill</Key>
+      <Text>, R, D. (whilst Adjt.)</Text>
+      <PageNumber>5805</PageNumber>
+    </MainItem>
     <SubItem>
+      <Text>Rel. aotg. rank on ceasing to be Adjt. .„</Text>
       <PageNumber>7713</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -710,17 +718,7 @@
       <PageNumber>6124</PageNumber>
     </MainItem>
   </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ .</KeyDitto>
-      </Key>
-      <Title>Lt.</Title>
-      <Forenames>J. J.</Forenames>
-      <Text>0. (with pay and allces. of Lt. whilst A'djt.)</Text>
-      <PageNumber>6685</PageNumber>
-    </MainItem>
-  </ItemGroup>
+  <KeyDitto>___ ___ .</KeyDitto>
   <ItemGroup>
     <MainItem>
       <Key>Williams</Key>
@@ -763,11 +761,11 @@
     <MainItem>
       <Key>Williamson</Key>
       <Forenames>G. A.</Forenames>
-    </MainItem>
-    <Text>
+      <Text>(whilst Adjt. of a Depot)</Text>
       <PageNumber>5517</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Rel. actg. rank on ceasing to be Adjt</Text>
       <PageNumber>5517</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -777,14 +775,15 @@
       <Forenames>W .</Forenames>
       <PageNumber>5804</PageNumber>
     </MainItem>
-    <SubItem>Rel. actg. rank on ceasing to comd. Co.) 7712</SubItem>
+    <SubItem>
+      <Text>Rel. actg. rank on ceasing to comd. Co.)</Text>
+      <PageNumber>7712</PageNumber>
+    </SubItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>7712</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Witts</Key>
+      <Text>. Lt. C. A. (comdg. a spec. Gov.)</Text>
       <PageNumber>6684</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -800,11 +799,11 @@
     <MainItem>
       <Key>Woodford</Key>
       <Forenames>A. S.</Forenames>
-    </MainItem>
-    <Text>
+      <Text>(rel. actg. rank on ceasing to comd. a Ooy.) ... ^</Text>
       <PageNumber>951</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>-Comdg. a Coy</Text>
       <PageNumber>7951</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -825,7 +824,7 @@
       <PageNumber>5352</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SectionTitle>Lieutenants</SectionTitle>
+  <SubSectionTitle>Lieutenants</SubSectionTitle>
   <ItemGroup>
     <MainItem>
       <Key>Abbott</Key>
@@ -861,8 +860,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Allberga</Key>
-      <Forenames>E.</Forenames>
-      <Text>M</Text>
+      <Forenames>E. M</Forenames>
       <PageNumber>7077</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -886,15 +884,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Allen</Key>
-      <Forenames>R. F. W.</Forenames>
+      <Forenames>R. F. W. K</Forenames>
+      <PageNumber>7711</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>7711</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Anderson</Key>
+      <Text>, 0</Text>
       <PageNumber>7711</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -925,8 +922,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Armstrong</Key>
-      <Forenames>H. F.</Forenames>
-      <Text>C</Text>
+      <Forenames>H. F. C</Forenames>
       <PageNumber>4428</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -936,14 +932,14 @@
         <KeyDitto>___ ___ .</KeyDitto>
       </Key>
       <Forenames>K.</Forenames>
+      <Text>(on prab.)</Text>
+      <PageNumber>5520</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>5520</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Arnold</Key>
+      <Text>. L. P</Text>
       <PageNumber>7077</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -952,8 +948,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>R.</Forenames>
-      <Text>T</Text>
+      <Forenames>R. T</Forenames>
       <PageNumber>7949</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -962,8 +957,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>V.</Forenames>
-      <Text>D</Text>
+      <Forenames>V. D</Forenames>
       <PageNumber>7835</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -971,7 +965,7 @@
     <MainItem>
       <Key>Ashton</Key>
       <Forenames>F. C.</Forenames>
-      <Text>(temp.)-.</Text>
+      <Text>(temp.)-</Text>
       <PageNumber>5663</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1010,8 +1004,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>O.</Forenames>
-      <Text>H</Text>
+      <Forenames>O. H</Forenames>
       <PageNumber>6123</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1029,14 +1022,14 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>V. A.</Forenames>
+      <Text>(temp.)</Text>
+      <PageNumber>5663</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>5663</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Bailantine</Key>
+      <Text>, J</Text>
       <PageNumber>7835</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1059,14 +1052,14 @@
     <MainItem>
       <Key>Barfield</Key>
       <Forenames>F. H.</Forenames>
+      <Text>{on profo.):</Text>
+      <PageNumber>4581</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>4581</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Barr</Key>
+      <Text>(temp.)</Text>
       <PageNumber>5663</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1081,8 +1074,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Barton</Key>
-      <Forenames>V. G.</Forenames>
-      <Text>J</Text>
+      <Forenames>V. G. J</Forenames>
       <PageNumber>4579</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1090,14 +1082,14 @@
     <MainItem>
       <Key>Bassett</Key>
       <Forenames>T. R.</Forenames>
+      <Text>(temp.)</Text>
+      <PageNumber>5663</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>5663</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Bastlin</Key>
+      <Text>, BT. E., M.C. (on prob.),</Text>
       <PageNumber>4430</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1154,8 +1146,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>J.</Forenames>
-      <Text>V</Text>
+      <Forenames>J. V</Forenames>
       <PageNumber>7949</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1186,8 +1177,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Billing</Key>
-      <Forenames>E.</Forenames>
-      <Text>W</Text>
+      <Forenames>E. W</Forenames>
       <PageNumber>6123</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1202,8 +1192,7 @@
   <ItemGroup>
     <MainItem>
       <Key>IBlackwood</Key>
-      <Forenames>O.</Forenames>
-      <Text>'V.R</Text>
+      <Forenames>O.V.R</Forenames>
       <PageNumber>5663</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1251,8 +1240,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Boughton</Key>
-      <Forenames>E.</Forenames>
-      <Text>J</Text>
+      <Forenames>E. J</Forenames>
       <PageNumber>7835</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1260,16 +1248,16 @@
     <MainItem>
       <Key>Bowden</Key>
       <Forenames>C.</Forenames>
+      <Text>!H. {on prob.)</Text>
+      <PageNumber>7953</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>7953</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
+      <Text>r S. A</Text>
       <PageNumber>6123</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1278,16 +1266,14 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>W.</Forenames>
-      <Text>R</Text>
+      <Forenames>W. R</Forenames>
       <PageNumber>7077</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Bowe</Key>
-      <Forenames>R.</Forenames>
-      <Text>W</Text>
+      <Forenames>R. W</Forenames>
       <PageNumber>6123</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1318,8 +1304,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bradshaw</Key>
-      <Forenames>G.</Forenames>
-      <Text>T</Text>
+      <Forenames>G. T</Forenames>
       <PageNumber>7949</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1334,16 +1319,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Bree</Key>
-      <Forenames>P.</Forenames>
-      <Text>G</Text>
+      <Forenames>P. G</Forenames>
       <PageNumber>7077</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Breton</Key>
-      <Forenames>C.</Forenames>
-      <Text>G</Text>
+      <Forenames>C. G</Forenames>
       <PageNumber>7077</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1365,16 +1348,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Brooke-Hunt</Key>
-      <Forenames>R.</Forenames>
-      <Text>C</Text>
+      <Forenames>R. C</Forenames>
       <PageNumber>5350</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Brookes</Key>
-      <Forenames>J.</Forenames>
-      <Text>R</Text>
+      <Forenames>J. R</Forenames>
       <PageNumber>6682</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1389,8 +1370,7 @@
   <ItemGroup>
     <MainItem>
       <Key>SBroughlton</Key>
-      <Forenames>C.</Forenames>
-      <Text>E</Text>
+      <Forenames>C. E</Forenames>
       <PageNumber>7077</PageNumber>
     </MainItem>
   </ItemGroup>

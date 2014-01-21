@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="0477" pageID="https://www.thegazette.co.uk/id/London/index/year/1918/volume/4/page/0477" pagePDF="https://www.thegazette.co.uk/London/index/year/1918/volume/4/page/0477" pageRDF="https://www.thegazette.co.uk/London/index/year/1918/volume/4/page/0477?view=linked-data" type="index" volume="4" year="1918">
+<Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="477" pageID="https://www.thegazette.co.uk/id/London/index/year/1918/volume/4/page/477" pagePDF="https://www.thegazette.co.uk/London/index/year/1918/volume/4/page/477" pageRDF="https://www.thegazette.co.uk/London/index/year/1918/volume/4/page/477?view=linked-data" type="index" volume="4" year="1918">
   <ItemGroup>
     <MainItem>
       <Key>Blythe</Key>
@@ -170,14 +170,14 @@
     <MainItem>
       <Key>Lai</Key>
       <Forenames>Bhagwant Singh</Forenames>
+      <Text>(Hon. and</Text>
+      <PageNumber>13014</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>13014</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Madhaveshvarendra</Key>
+      <Text>iSahi Babu of</Text>
       <PageNumber>13508</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -345,7 +345,15 @@
     <MainItem>
       <Key>Raman</Key>
       <Forenames>Kavalappara Muppil Nayar</Forenames>
-      <Text>, the Hon. K. K. (date of appt.) ... ... ... ;.. 11574', Sahibzada Ravi Partab Narain Singh (Hon. and temp.)</Text>
+      <Text>, the Hon. K. K. (date of appt.) ... ... ... ;</Text>
+      <PageNumber>11574</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Sahibzada</Key>
+      <Forenames>Ravi Partab Narain Singh</Forenames>
+      <Text>(Hon. and temp.)</Text>
       <PageNumber>13014</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -398,7 +406,6 @@
     </MainItem>
   </ItemGroup>
   <SectionTitle>Veterinary Corps</SectionTitle>
-  <SectionTitle>Major</SectionTitle>
   <ItemGroup>
     <MainItem>
       <Key>Hewlett</Key>
@@ -412,23 +419,23 @@
     <MainItem>
       <Key>Hewlett</Key>
       <Forenames>K.</Forenames>
-    </MainItem>
-    <Text>
+      <Text>(temp.)</Text>
       <PageNumber>11575</PageNumber>
       <PageNumber>13932</PageNumber>
-    </Text>
+    </MainItem>
     <SubItem>
+      <Text>Not. in Gaz., 17th Oct., cancelled</Text>
       <PageNumber>13932</PageNumber>
     </SubItem>
   </ItemGroup>
   <CategoryTitle>NAVAL PROMOTIONS</CategoryTitle>
+  <SectionTitle>Naval Aides^le-Camp to H.M. The King</SectionTitle>
   <ItemGroup>
     <MainItem>
-      <SectionTitle>
-        <Key>Naval</Key>
-        <Forenames>Aides</Forenames>
-      </SectionTitle>
-      <Text>^le-Camp to H.M. The King. Brand, Capt. the Hon. H. G., C.B., C.V.O.</Text>
+      <Key>Brand</Key>
+      <Title>Capt. the Hon.</Title>
+      <Forenames>H. G.</Forenames>
+      <Text>, C.B., C.V.O</Text>
       <PageNumber>13213</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -441,29 +448,27 @@
       <PageNumber>13213</PageNumber>
     </MainItem>
   </ItemGroup>
+  <SubSectionTitle>Bear-Admirals</SubSectionTitle>
   <ItemGroup>
     <MainItem>
-      <Key>Mawbey</Key>
-      <Title>Capt.</Title>
-      <Forenames>
-        <SectionTitle>Bear-Admirals</SectionTitle>
-      </Forenames>
-      <Text>. Gaunt, Sir G. R. A., K.'C.M.G. C.B., A.D.C</Text>
+      <Key>Gaunt</Key>
+      <Title>Sir</Title>
+      <Forenames>G. R. A.</Forenames>
+      <Text>, K.C.M.G. C.B., A.D.C</Text>
       <PageNumber>13001</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hutton</Key>
-      <Forenames>G.</Forenames>
+      <Forenames>G. B</Forenames>
+      <PageNumber>13001</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>13001</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>KeipjhJey-Peaeh</Key>
+      <Text>. C. W</Text>
       <PageNumber>11860</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -471,7 +476,7 @@
     <MainItem>
       <Key>Kiddle</Key>
       <Forenames>E. B.</Forenames>
-      <Text>, C.B., A.D.C.</Text>
+      <Text>, C.B., A.D.C</Text>
       <PageNumber>13001</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -483,12 +488,11 @@
       <PageNumber>11860</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SectionTitle>Retired List</SectionTitle>
+  <SubSubSectionTitle>Retired List</SubSubSectionTitle>
   <ItemGroup>
     <MainItem>
       <Key>Bowman</Key>
-      <Forenames>W.</Forenames>
-      <Text>S</Text>
+      <Forenames>W. S</Forenames>
       <PageNumber>11860</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -497,7 +501,7 @@
       <Key>Gaunt</Key>
       <Title>Sir</Title>
       <Forenames>G. R. A.</Forenames>
-      <Text>, K.O.'M.G. C.B</Text>
+      <Text>, K.O.M.G. C.B</Text>
       <PageNumber>13001</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -538,12 +542,12 @@
       <PageNumber>11860</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SectionTitle>Engineer Rear-Admirals</SectionTitle>
+  <SubSectionTitle>Engineer Rear-Admirals</SubSectionTitle>
   <ItemGroup>
     <MainItem>
       <Key>Emdki</Key>
       <Forenames>A. R.</Forenames>
-      <Text>, C.M.G.</Text>
+      <Text>, C.M.G</Text>
       <PageNumber>13740</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -558,26 +562,23 @@
   <ItemGroup>
     <MainItem>
       <Key>Willoughby</Key>
-      <Forenames>J.</Forenames>
+      <Forenames>J. T</Forenames>
+      <PageNumber>11716</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>11716</PageNumber>
-    <SectionTitle>Retired Lift</SectionTitle>
-  </Text>
+  <SubSubSectionTitle>Retired Lift</SubSubSectionTitle>
   <ItemGroup>
     <MainItem>
       <Key>James</Key>
+      <Text>, C J</Text>
       <PageNumber>13001</PageNumber>
     </MainItem>
   </ItemGroup>
+  <SubSectionTitle>Vice-Admirals</SubSectionTitle>
   <ItemGroup>
     <MainItem>
-      <Key>Willoughby</Key>
-      <Forenames>J. T .</Forenames>
-      <Text>
-        <SectionTitle>Vice-Admirals</SectionTitle>
-      </Text>
+      <Key>Eyre</Key>
+      <Forenames>F. G</Forenames>
       <PageNumber>11860</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -589,7 +590,7 @@
       <PageNumber>13001</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SectionTitle>Retired Lilt</SectionTitle>
+  <SubSubSectionTitle>Retired Lilt</SubSubSectionTitle>
   <ItemGroup>
     <MainItem>
       <Key>Kerr</Key>
@@ -602,23 +603,23 @@
     <MainItem>
       <Key>Tottenham</Key>
       <Forenames>H. L.</Forenames>
-      <Text>, .C.B. .:.</Text>
+      <Text>, .C.B. .:</Text>
       <PageNumber>13001</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SectionTitle>Captains</SectionTitle>
+  <SubSectionTitle>Captains</SubSectionTitle>
   <ItemGroup>
     <MainItem>
       <Key>Bowden</Key>
       <Forenames>A. St</Forenames>
+      <Text>. C. (temp.)</Text>
+      <PageNumber>14955</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>14955</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Farewell</Key>
+      <Text>, M, W. (temp.)</Text>
       <PageNumber>14955</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -633,28 +634,27 @@
   <ItemGroup>
     <MainItem>
       <Key>Marsh</Key>
-      <Forenames>B.</Forenames>
+      <Forenames>B. C</Forenames>
+      <Text>, D.S.O. (temp.)</Text>
+      <PageNumber>14955</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>14955</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Wilson</Key>
+      <Text>. N. V. J., C.M.G., C.B.E. (temp.)</Text>
       <PageNumber>15051</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SectionTitle>Engineer Captains</SectionTitle>
+  <SubSectionTitle>Engineer Captains</SubSectionTitle>
   <ItemGroup>
     <MainItem>
       <Key>Baldwin</Key>
-      <Forenames>G.</Forenames>
-      <Text>W</Text>
+      <Forenames>G. W</Forenames>
       <PageNumber>12125</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SectionTitle>Retired List</SectionTitle>
+  <SubSubSectionTitle>Retired List</SubSubSectionTitle>
   <ItemGroup>
     <MainItem>
       <Key>Vining</Key>
@@ -691,15 +691,14 @@
     <MainItem>
       <Key>Hodgkinson</Key>
       <Forenames>H.</Forenames>
-      <Text>(temp.) v.. .:.'</Text>
+      <Text>(temp.) v.. .:</Text>
       <PageNumber>14955</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Newell</Key>
-      <Forenames>G.</Forenames>
-      <Text>E</Text>
+      <Forenames>G. E</Forenames>
       <PageNumber>14706</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -727,7 +726,7 @@
       <PageNumber>14955</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SectionTitle>Retired Lilt</SectionTitle>
+  <SubSubSectionTitle>Retired Lilt</SubSubSectionTitle>
   <ItemGroup>
     <MainItem>
       <Key>Blackwood</Key>
@@ -775,8 +774,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Baker</Key>
-      <Forenames>M. E.</Forenames>
-      <Text>T</Text>
+      <Forenames>M. E. T</Forenames>
       <PageNumber>13213</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -797,8 +795,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bodell</Key>
-      <Forenames>G.</Forenames>
-      <Text>W :</Text>
+      <Forenames>G. W</Forenames>
+      <Text>:</Text>
       <PageNumber>13213</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -827,8 +825,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Budge</Key>
-      <Forenames>J.</Forenames>
-      <Text>G ;</Text>
+      <Forenames>J. G</Forenames>
+      <Text>;</Text>
       <PageNumber>11716</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -842,8 +840,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Deans</Key>
-      <Forenames>W.</Forenames>
-      <Text>J :</Text>
+      <Forenames>W. J</Forenames>
+      <Text>:</Text>
       <PageNumber>13213</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -857,23 +855,21 @@
   <ItemGroup>
     <MainItem>
       <Key>Green</Key>
-      <Forenames>E.</Forenames>
-      <Text>C</Text>
+      <Forenames>E. C</Forenames>
       <PageNumber>13213</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Heneage</Key>
-      <Forenames>H. W.</Forenames>
+      <Forenames>H. W. F</Forenames>
+      <PageNumber>13213</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>13213</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Hocken</Key>
+      <Text>, B</Text>
       <PageNumber>13213</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -886,24 +882,16 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Johns</Key>
-      <Forenames>B. J. G.</Forenames>
-      <Text>1321.</Text>
-      <PageNumber>3</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
       <Key>Johnson</Key>
       <Forenames>H. O. R.</Forenames>
+      <Text>, D.S.O</Text>
+      <PageNumber>14819</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>14819</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Knothe</Key>
+      <Text>. A . :</Text>
       <PageNumber>14819</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -911,7 +899,7 @@
     <MainItem>
       <Key>Little</Key>
       <Forenames>H. A .</Forenames>
-      <Text>.:.</Text>
+      <Text>.:</Text>
       <PageNumber>13213</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -940,15 +928,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Morton</Key>
-      <Forenames>R.</Forenames>
+      <Forenames>R. G</Forenames>
+      <Text>:</Text>
+      <PageNumber>13213</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>13213</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>O</Key>
+      <Text>'Neill, A. St. J</Text>
       <PageNumber>13213</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -992,15 +980,14 @@
     <MainItem>
       <Key>White</Key>
       <Forenames>H. J. A .</Forenames>
+      <PageNumber>13213</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>13213</PageNumber>
-    <SectionTitle>Retired List</SectionTitle>
-  </Text>
+  <SubSubSectionTitle>Retired List</SubSubSectionTitle>
   <ItemGroup>
     <MainItem>
       <Key>Aldwell</Key>
+      <Text>. G. W. S</Text>
       <PageNumber>14115</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1015,15 +1002,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Adam</Key>
-      <Forenames>L. S.</Forenames>
+      <Forenames>L. S. M</Forenames>
+      <PageNumber>11862</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>11862</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Alison</Key>
+      <Text>, A</Text>
       <PageNumber>13739</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1083,30 +1069,22 @@
     <MainItem>
       <Key>Campbell</Key>
       <Forenames>H. G.</Forenames>
-    </MainItem>
-  </ItemGroup>
-  <Text>
-    <PageNumber>11862</PageNumber>
-  </Text>
-  <ItemGroup>
-    <MainItem>
-      <Key>Oolville</Key>
+      <Text>, D.S.O</Text>
       <PageNumber>11862</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Denison</Key>
-      <Forenames>E.</Forenames>
-      <Text>0</Text>
+      <Key>Colville</Key>
+      <Title>the Hon.</Title>
+      <Forenames>C. Ai</Forenames>
       <PageNumber>11862</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Eastwood</Key>
-      <Forenames>H.</Forenames>
-      <Text>R</Text>
+      <Forenames>H. R</Forenames>
       <PageNumber>11862</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1114,7 +1092,7 @@
     <MainItem>
       <Key>Farquhar</Key>
       <Forenames>A.</Forenames>
-      <Text>IR., D.g.C.</Text>
+      <Text>IR., D.g.C</Text>
       <PageNumber>11862</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1122,14 +1100,14 @@
     <MainItem>
       <Key>Farquharson</Key>
       <Forenames>K. R.</Forenames>
+      <Text>, D.'S.C</Text>
+      <PageNumber>11862</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>11862</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>GVed</Key>
+      <Text>. F. W. S</Text>
       <PageNumber>14482</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1145,14 +1123,14 @@
     <MainItem>
       <Key>Hamilton</Key>
       <Forenames>A. H. J.</Forenames>
+      <Text>(temp.)</Text>
+      <PageNumber>12252</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>12252</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Hammersley-Heenan</Key>
+      <Text>, V</Text>
       <PageNumber>11862</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1189,20 +1167,21 @@
     <MainItem>
       <Key>Hughes-Hallett</Key>
       <Forenames>B.</Forenames>
+      <Text>(temp.)</Text>
+      <PageNumber>14115</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>14115</PageNumber>
-    <ItemGroup>
-      <MainItem>
-        <Key>KemV</Key>
-        <PageNumber>11862</PageNumber>
-      </MainItem>
-    </ItemGroup>
-  </Text>
+  <ItemGroup>
+    <MainItem>
+      <Key>KemV</Key>
+      <Text>.e, E. R. B</Text>
+      <PageNumber>11862</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Legh</Key>
+      <Text>. J. A. P., D.S.C</Text>
       <PageNumber>14956</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1210,32 +1189,35 @@
     <MainItem>
       <Key>Llewhellin</Key>
       <Forenames>F.</Forenames>
+      <Text>(Lt.-Cdr.)</Text>
+      <PageNumber>13213</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>13213</PageNumber>
-    <ItemGroup>
-      <MainItem>
-        <Key>T</Key>
-        <PageNumber>13739</PageNumber>
-      </MainItem>
-    </ItemGroup>
-    <ItemGroup>
-      <MainItem>
-        <Key>Makeig-Jones</Key>
-        <PageNumber>13739</PageNumber>
-      </MainItem>
-    </ItemGroup>
-    <ItemGroup>
-      <MainItem>
-        <Key>MRnfield</Key>
-        <PageNumber>14955</PageNumber>
-      </MainItem>
-    </ItemGroup>
-  </Text>
+  <ItemGroup>
+    <MainItem>
+      <Key>T</Key>
+      <Text>.ockhart, A. B., D.S.C</Text>
+      <PageNumber>13739</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Makeig-Jones</Key>
+      <Text>, W, T</Text>
+      <PageNumber>13739</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>MRnfield</Key>
+      <Text>. D. J. (temp.)</Text>
+      <PageNumber>14955</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Maude</Key>
+      <Text>. C. E</Text>
       <PageNumber>13739</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1249,7 +1231,7 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>MoTant</Key>
+      <Key>Morant</Key>
       <Forenames>E. L .</Forenames>
       <PageNumber>13739</PageNumber>
     </MainItem>
@@ -1258,30 +1240,20 @@
     <MainItem>
       <Key>Read</Key>
       <Forenames>A. D .</Forenames>
+      <PageNumber>13001</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>13001</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Rhodes</Key>
+      <Text>. E. G ..:</Text>
       <PageNumber>14482</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Ross</Key>
-      <Forenames>R. P.</Forenames>
-      <Text>, D.S.0</Text>
-      <PageNumber>11862</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Scott</Key>
       <Forenames>G. A .</Forenames>
-      <Text>..'</Text>
       <PageNumber>11862</PageNumber>
     </MainItem>
   </ItemGroup>

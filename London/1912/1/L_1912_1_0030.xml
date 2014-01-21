@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="0030" pageID="https://www.thegazette.co.uk/id/London/index/year/1912/volume/1/page/0030" pagePDF="https://www.thegazette.co.uk/London/index/year/1912/volume/1/page/0030" pageRDF="https://www.thegazette.co.uk/London/index/year/1912/volume/1/page/0030?view=linked-data" type="index" volume="1" year="1912">
+<Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="030" pageID="https://www.thegazette.co.uk/id/London/index/year/1912/volume/1/page/030" pagePDF="https://www.thegazette.co.uk/London/index/year/1912/volume/1/page/030" pageRDF="https://www.thegazette.co.uk/London/index/year/1912/volume/1/page/030?view=linked-data" type="index" volume="1" year="1912">
   <ItemGroup>
     <MainItem>
       <Key>Loftus</Key>
@@ -16,7 +16,7 @@
       <PageNumber>450</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SectionTitle>7th Battalion</SectionTitle>
+  <SubSectionTitle>7th Battalion</SubSectionTitle>
   <ItemGroup>
     <MainItem>
       <Key>Wright</Key>
@@ -35,13 +35,13 @@
       <PageNumber>458</PageNumber>
     </MainItem>
   </ItemGroup>
+  <SubSectionTitle>The Sherwood Foresters (Nottinghamshire and Derbyshire Regiment)</SubSectionTitle>
+  <SubSectionTitle>5th Battalion</SubSectionTitle>
   <ItemGroup>
     <MainItem>
-      <SubSectionTitle>
-        <Key>The</Key>
-        <Forenames>Sherwood Foresters</Forenames>
-      </SubSectionTitle>
-      <Text>(Nottinghamshire and Derbyshire Regiment). 5th Battalion. Baily, G. G. (Capt,)</Text>
+      <Key>Baily</Key>
+      <Forenames>G. G.</Forenames>
+      <Text>(Capt,)</Text>
       <PageNumber>1263</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -65,12 +65,12 @@
     <MainItem>
       <Key>Hingston</Key>
       <Forenames>C. V.</Forenames>
-    </MainItem>
-    <Text>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>2214</PageNumber>
-      <SectionTitle>Sih Battalion</SectionTitle>
-    </Text>
+    </MainItem>
+    <SubSectionTitle>Sih Battalion</SubSectionTitle>
     <SubItem>
+      <Text>Sih Battalion.</Text>
       <PageNumber>1263</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -114,33 +114,35 @@
       <PageNumber>1068</PageNumber>
     </MainItem>
   </ItemGroup>
+  <SubSectionTitle>The Northamptonshire Regiment Jflh Batialion</SubSectionTitle>
   <ItemGroup>
     <MainItem>
-      <Key>The</Key>
-      <Forenames>
-        <SectionTitle>Jflh Batialion</SectionTitle>
-      </Forenames>
-      <Text>. Butlin, Capt. H. (resigned)</Text>
+      <Key>Butlin</Key>
+      <Title>Capt.</Title>
+      <Forenames>H.</Forenames>
+      <Text>(resigned)</Text>
       <PageNumber>1263</PageNumber>
     </MainItem>
   </ItemGroup>
+  <SubSectionTitle>The Princess Charlotte of Wales's (Royal Berkshire Regiment)</SubSectionTitle>
+  <SubSectionTitle>5th Battalion.</SubSectionTitle>
   <ItemGroup>
     <MainItem>
-      <Key>Dorrnan</Key>
-      <Forenames>L. P.</Forenames>
+      <Key>Crutlwell</Key>
+      <Forenames>G. H. W.</Forenames>
+      <Text>(2nd Lieut.)</Text>
+      <PageNumber>458</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <SubSectionTitle>The Princess Charlotte of Wales's (Royal Berkshire Regiment). 5th Battalion.</SubSectionTitle>
-    <PageNumber>458</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>West</Key>
+      <Text>; Lieut. A. H. P (resigned) ...</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubSectionTitle>The Queen's Own (Royal West Kent Regiment). 4th Battalion</SubSectionTitle>
+  <SubSectionTitle>The Queen's Own (Royal West Kent Regiment)</SubSectionTitle>
+  <SubSectionTitle>4th Battalion</SubSectionTitle>
   <ItemGroup>
     <MainItem>
       <Key>Smithers</Key>
@@ -150,12 +152,12 @@
       <PageNumber>1833</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SectionTitle>. . 5th Battalion</SectionTitle>
+  <SubSectionTitle>. . 5th Battalion</SubSectionTitle>
   <ItemGroup>
     <MainItem>
       <Key>Bennett</Key>
-      <Forenames>C.</Forenames>
-      <Text>V (2nd'Lieut.) .'</Text>
+      <Forenames>C. V</Forenames>
+      <Text>(2ndLieut.) .'</Text>
       <PageNumber>458</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -172,14 +174,14 @@
       <Key>Clark</Key>
       <Title>Capt.</Title>
       <Forenames>A. N. W.</Forenames>
+      <Text>(resigned)</Text>
+      <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>ibid.</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Hamilton</Key>
+      <Text>' Capt. j. (resigned)</Text>
       <PageNumber>802</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -191,13 +193,12 @@
       <PageNumber>2095</PageNumber>
     </MainItem>
   </ItemGroup>
+  <SubSectionTitle>The King's Own (Yorkshire Light Infantry)</SubSectionTitle>
+  <SubSectionTitle>4th Batialion</SubSectionTitle>
   <ItemGroup>
     <MainItem>
-      <SubSectionTitle>
-        <Key>The</Key>
-        <Title>King</Title>
-      </SubSectionTitle>
-      <Text>'s Own (Yorkshire Light Infantry). 4th Batialion. Fox, '2nd Lieut. D. ' E. (resigned)</Text>
+      <Key>Fox</Key>
+      <Text>, '2nd Lieut. D. ' E. (resigned)</Text>
       <PageNumber>802</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -213,14 +214,14 @@
     <MainItem>
       <Key>Muirhead</Key>
       <Forenames>J. I.</Forenames>
+      <Text>(2nd Lieut.)</Text>
+      <PageNumber>1666</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>1666</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Williamson</Key>
+      <Text>; W. M. (2nd Lieut.]</Text>
       <PageNumber>1263</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -229,16 +230,16 @@
       <Key>Morehouse</Key>
       <Title>Qrmr. and Hon. Lieut.</Title>
       <Forenames>J. W.</Forenames>
+      <Text>(resigned) :</Text>
+      <PageNumber>1452</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>1452</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>
         <KeyDitto>___ —</KeyDitto>
       </Key>
+      <Text>K ___ ___ ___ JW. (2nd Lieut.) ...</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -255,21 +256,23 @@
     <MainItem>
       <Key>Sullivan</Key>
       <Forenames>G. K.</Forenames>
+      <Text>(Adjt.)</Text>
+      <PageNumber>222</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>222</PageNumber>
-  </Text>
+  <KeyDitto>___ ___ ___</KeyDitto>
+  <SubSectionTitle>. The King's (Shropshire Light Infantry)</SubSectionTitle>
+  <SubSectionTitle>^th Battalion</SubSectionTitle>
   <ItemGroup>
     <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___</KeyDitto>
-      </Key>
-      <SubSectionTitle>. The King's (Shropshire Light Infantry). ^th Battalion</SubSectionTitle>
+      <Key>Leake</Key>
+      <Forenames>C. F.</Forenames>
+      <Text>(2nd Lieut.)'</Text>
       <PageNumber>649</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubSectionTitle>The Duke of Cambridge's Own . . (Middlesex Regiment). 7th Battalion</SubSectionTitle>
+  <SubSectionTitle>The Duke of Cambridge's Own . . (Middlesex Regiment)</SubSectionTitle>
+  <SubSectionTitle>7th Battalion</SubSectionTitle>
   <ItemGroup>
     <MainItem>
       <Key>Moody</Key>
@@ -286,19 +289,19 @@
       <PageNumber>1666</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SectionTitle>Slh Battalion</SectionTitle>
+  <SubSectionTitle>Slh Battalion</SubSectionTitle>
   <ItemGroup>
     <MainItem>
       <Key>Anson</Key>
       <Forenames>H. P. R.</Forenames>
+      <Text>(Adjt.)</Text>
+      <PageNumber>222</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>222</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Brough</Key>
+      <Text>; J. H. (2nd Lieut.)</Text>
       <PageNumber>802</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -344,7 +347,7 @@
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SectionTitle>9th Battalion</SectionTitle>
+  <SubSectionTitle>9th Battalion</SubSectionTitle>
   <ItemGroup>
     <MainItem>
       <Key>Finlayson</Key>
@@ -370,7 +373,7 @@
       <PageNumber>135</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SectionTitle>10th Battalion</SectionTitle>
+  <SubSectionTitle>10th Battalion</SubSectionTitle>
   <ItemGroup>
     <MainItem>
       <Key>Girling</Key>
@@ -380,25 +383,26 @@
       <PageNumber>1264</PageNumber>
     </MainItem>
   </ItemGroup>
+  <SubSectionTitle>The Duke of Edinburgh's (Wiltshire Regiment)</SubSectionTitle>
+  <SubSectionTitle>4th Battalion</SubSectionTitle>
   <ItemGroup>
     <MainItem>
-      <SubSectionTitle>
-        <Key>The</Key>
-        <Title>Duke</Title>
-      </SubSectionTitle>
-      <Text>of Edinburgh's (Wiltshire Regiment). 4th Battalion. Awdry, N. J. (2nd Lieut.)</Text>
+      <Key>Awdry</Key>
+      <Forenames>N. J.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>458</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Tayler</Key>
-      <Title>Surg.</Title>
-      <Text>-Maj. and Hon. Surg. Lieut.-Col. H. P. (resigned) ...</Text>
+      <Forenames>Surg</Forenames>
+      <Text>.-Maj. and Hon. Surg. Lieut.-Col. H. P. (resigned) ...</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubSectionTitle>The Manchester Regiment. 5th Battalion.</SubSectionTitle>
+  <SubSectionTitle>The Manchester Regiment</SubSectionTitle>
+  <SubSectionTitle>5th Battalion.</SubSectionTitle>
   <ItemGroup>
     <MainItem>
       <Key>Bryham</Key>
@@ -427,11 +431,11 @@
     <MainItem>
       <Key>Walker</Key>
       <Forenames>J. S. A.</Forenames>
-      <Text>(Instr. of Musketry) ..'</Text>
+      <Text>(Instr. of Musketry)</Text>
       <PageNumber>1666</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SectionTitle>6th Battalion</SectionTitle>
+  <SubSectionTitle>6th Battalion</SubSectionTitle>
   <ItemGroup>
     <MainItem>
       <Key>Bennett</Key>
@@ -445,14 +449,14 @@
     <MainItem>
       <Key>Blatherwick</Key>
       <Forenames>F. M.</Forenames>
+      <Text>(2nd Lieut.)</Text>
+      <PageNumber>136</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>136</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Bolton</Key>
+      <Text>; D. C. (Lieut.)</Text>
       <PageNumber>2012</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -498,25 +502,26 @@
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SectionTitle>7th Battalion</SectionTitle>
+  <SubSectionTitle>7th Battalion</SubSectionTitle>
   <ItemGroup>
     <MainItem>
       <Key>Allen</Key>
       <Forenames>A. N.</Forenames>
+      <Text>(Lieut.)</Text>
+      <PageNumber>802</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>802</PageNumber>
-    <ItemGroup>
-      <MainItem>
-        <Key>Benn</Key>
-        <PageNumber>2012</PageNumber>
-      </MainItem>
-    </ItemGroup>
-  </Text>
+  <ItemGroup>
+    <MainItem>
+      <Key>Benn</Key>
+      <Text>, 0. W. (2nd Lieut.)</Text>
+      <PageNumber>2012</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Eaton</Key>
+      <Text>,. H. R. (Instr. of Musketry)</Text>
       <PageNumber>458</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -561,23 +566,24 @@
       <PageNumber>802</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SectionTitle>Bth Battalion</SectionTitle>
+  <SubSectionTitle>Bth Battalion</SubSectionTitle>
   <ItemGroup>
     <MainItem>
       <Key>Hall</Key>
       <Forenames>S.</Forenames>
+      <Text>(2nd Lieut.)</Text>
+      <PageNumber>1833</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>1833</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Hepburn</Key>
+      <Forenames>A. J.</Forenames>
+      <Text>. (Instr. of Musketry)</Text>
       <PageNumber>802</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SectionTitle>9th Battalion</SectionTitle>
+  <SubSectionTitle>9th Battalion</SubSectionTitle>
   <ItemGroup>
     <MainItem>
       <Key>Birchenall</Key>
@@ -590,16 +596,16 @@
     <MainItem>
       <Key>Dearden</Key>
       <Forenames>J. A.</Forenames>
+      <Text>(Adjt.)</Text>
+      <PageNumber>2012</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>2012</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ —</KeyDitto>
       </Key>
+      <Text>(temporary Capt.) ...</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -619,7 +625,8 @@
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubSectionTitle>the Prince of Wales's (North Staffordshire R egiment). 5th Battalion</SubSectionTitle>
+  <SubSectionTitle>the Prince of Wales's (North Staffordshire R egiment)</SubSectionTitle>
+  <SubSectionTitle>5th Battalion</SubSectionTitle>
   <ItemGroup>
     <MainItem>
       <Key>Barke</Key>
@@ -660,17 +667,19 @@
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
+  <SubSectionTitle>The York and Lancaster Regiment</SubSectionTitle>
+  <SubSectionTitle>5th Battalion</SubSectionTitle>
   <ItemGroup>
     <MainItem>
-      <SubSectionTitle>
-        <Key>The</Key>
-        <Forenames>York</Forenames>
-      </SubSectionTitle>
-      <Text>and Lancaster Regiment. 5th Battalion. Stoddart, Sir C. J. (Hon.Col.)</Text>
+      <Key>Stoddart</Key>
+      <Title>Sir</Title>
+      <Forenames>C. J.</Forenames>
+      <Text>(Hon.Col.)</Text>
       <PageNumber>458</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubSectionTitle>The Durham Light Infantry. 5th Battalion</SubSectionTitle>
+  <SubSectionTitle>The Durham Light Infantry</SubSectionTitle>
+  <SubSectionTitle>5th Battalion</SubSectionTitle>
   <ItemGroup>
     <MainItem>
       <Key>Glasspool</Key>
@@ -687,36 +696,36 @@
       <PageNumber>___ ___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SectionTitle>6th Battalion</SectionTitle>
+  <SubSectionTitle>6th Battalion</SubSectionTitle>
   <ItemGroup>
     <MainItem>
       <Key>Heslop</Key>
       <Title>Capt. and Hon. Maj.</Title>
       <Forenames>J. W. B.</Forenames>
+      <Text>(resigned)</Text>
+      <PageNumber>459</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>459</PageNumber>
-    <ItemGroup>
-      <MainItem>
-        <Key>
-          <PageNumber>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</PageNumber>
-          <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
-        </Key>
-        <SectionTitle>7th Battaliom</SectionTitle>
-        <PageNumber>1835</PageNumber>
-      </MainItem>
-    </ItemGroup>
-  </Text>
+  <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
+  <SubSectionTitle>7th Battaliom</SubSectionTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Bergne</Key>
+      <Forenames>R. B.</Forenames>
+      <Text>(Adjt.)</Text>
+      <PageNumber>1835</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
+      <Text>(temporary Capt.)</Text>
       <PageNumber>1834</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SectionTitle>Bth Battalion</SectionTitle>
+  <SubSectionTitle>Bth Battalion</SubSectionTitle>
   <ItemGroup>
     <MainItem>
       <Key>Bowden</Key>
@@ -737,14 +746,14 @@
     <MainItem>
       <Key>Mangles</Key>
       <Forenames>A.</Forenames>
+      <Text>(Capt.)</Text>
+      <PageNumber>1264</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>1264</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Ritson</Key>
+      <Text>.J. A. S. (Capt.) . .</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -756,7 +765,7 @@
       <PageNumber>2214</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SectionTitle>9th Battalion</SectionTitle>
+  <SubSectionTitle>9th Battalion</SubSectionTitle>
   <ItemGroup>
     <MainItem>
       <Key>Raynes</Key>
@@ -765,29 +774,30 @@
       <PageNumber>648</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubSectionTitle>The Highland Light Infantry. 5th Battalion</SubSectionTitle>
+  <SubSectionTitle>The Highland Light Infantry</SubSectionTitle>
+  <SubSectionTitle>5th Battalion</SubSectionTitle>
   <ItemGroup>
     <MainItem>
       <Key>Frost</Key>
       <Title>Lieut.</Title>
-      <Forenames>E. F.</Forenames>
-      <Text>M, (seconded)</Text>
+      <Forenames>E. F. M</Forenames>
+      <Text>, (seconded)</Text>
       <PageNumber>2012</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SectionTitle>6th Battalion</SectionTitle>
+  <SubSectionTitle>6th Battalion</SubSectionTitle>
   <ItemGroup>
     <MainItem>
       <Key>Boyce</Key>
       <Forenames>T.</Forenames>
+      <Text>(Qrmr. and Hon. Lieut.)</Text>
+      <PageNumber>802</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>802</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Chalmers</Key>
+      <Text>,' Lieut.-Col.. and Hon. Col. H. D. D. (retired)</Text>
       <PageNumber>459</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -816,7 +826,7 @@
       <PageNumber>2214</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SectionTitle>7th Batialion</SectionTitle>
+  <SubSectionTitle>7th Batialion</SubSectionTitle>
   <ItemGroup>
     <MainItem>
       <Key>Galloway</Key>
@@ -853,14 +863,14 @@
     <MainItem>
       <Key>Weller</Key>
       <Forenames>G. H.</Forenames>
+      <Text>(2nd Lieut.)</Text>
+      <PageNumber>1347</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <PageNumber>1347</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Youden</Key>
+      <Text>. S. E. (Lieut.)</Text>
       <PageNumber>1176</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -874,7 +884,7 @@
       <PageNumber>649</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SectionTitle>9th Battalion</SectionTitle>
+  <SubSectionTitle>9th Battalion</SubSectionTitle>
   <ItemGroup>
     <MainItem>
       <Key>Brander</Key>
@@ -924,21 +934,21 @@
       <PageNumber>1834</PageNumber>
     </MainItem>
   </ItemGroup>
+  <SubSectionTitle>The Seaforth Highlanders (Rossshire Buffs, the Duke of Albany's)</SubSectionTitle>
+  <SubSectionTitle>4th Battalion</SubSectionTitle>
   <ItemGroup>
     <MainItem>
-      <SubSectionTitle>
-        <Key>The</Key>
-        <Forenames>Seaforth Highlanders</Forenames>
-      </SubSectionTitle>
+      <Key>Duncan</Key>
+      <Title>Capt.</Title>
+      <Forenames>J. M.</Forenames>
+      <Text>(resigned)</Text>
+      <PageNumber>459</PageNumber>
     </MainItem>
   </ItemGroup>
-  <Text>
-    <SectionTitle>4th Battalion</SectionTitle>
-    <PageNumber>459</PageNumber>
-  </Text>
   <ItemGroup>
     <MainItem>
       <Key>Fraser</Key>
+      <Text>,. G. W. (2nd Lieut.)</Text>
       <PageNumber>1452</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -959,7 +969,7 @@
       <PageNumber>1452</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SectionTitle>5th Battalion</SectionTitle>
+  <SubSectionTitle>5th Battalion</SubSectionTitle>
   <ItemGroup>
     <MainItem>
       <Key>Macdonald</Key>
@@ -976,7 +986,7 @@
       <PageNumber>802</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SectionTitle>6th Battalion</SectionTitle>
+  <SubSectionTitle>6th Battalion</SubSectionTitle>
   <ItemGroup>
     <MainItem>
       <Key>Cook</Key>
@@ -1009,13 +1019,13 @@
       <PageNumber>1834</PageNumber>
     </MainItem>
   </ItemGroup>
+  <SubSectionTitle>The Gordon Highlanders</SubSectionTitle>
+  <SubSectionTitle>4th Battalion</SubSectionTitle>
   <ItemGroup>
     <MainItem>
-      <Key>Petrie</Key>
-      <Forenames>W. R.</Forenames>
-      <Text>
-        <SubSectionTitle>The Gordon Highlanders. 4th Battalion</SubSectionTitle>
-      </Text>
+      <Key>Maciver</Key>
+      <Forenames>R. M.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>805</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1027,7 +1037,7 @@
       <PageNumber>1452</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SectionTitle>5th Battalion</SectionTitle>
+  <SubSectionTitle>5th Battalion</SubSectionTitle>
   <ItemGroup>
     <MainItem>
       <Key>Milne</Key>
@@ -1037,7 +1047,7 @@
       <PageNumber>1834</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SectionTitle>6th Battalion</SectionTitle>
+  <SubSectionTitle>6th Battalion</SubSectionTitle>
   <ItemGroup>
     <MainItem>
       <Key>Duff</Key>
@@ -1064,7 +1074,7 @@
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SectionTitle>7th Battalion</SectionTitle>
+  <SubSectionTitle>7th Battalion</SubSectionTitle>
   <ItemGroup>
     <MainItem>
       <Key>Cameron</Key>
