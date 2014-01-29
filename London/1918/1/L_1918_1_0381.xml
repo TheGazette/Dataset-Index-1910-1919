@@ -110,16 +110,27 @@
   <ItemGroup>
     <MainItem>
       <Key>Jaffe</Key>
-      <Text>, temp. 2nd Lt. I. (temp. Lt.)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>I.</Forenames>
+      <Text>(temp. Lt.)</Text>
       <PageNumber>1514</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Jaffray</Key>
-      <Forenames>Chapln</Forenames>
-      <Text>., list CI., Rev. W. S., C.M.G. (Principal ChapLn,, ranking as Brig.-Gen.)</Text>
+      <Title>Chapln.</Title>
+      <Text>, list CI., Rev. W. S., C.M.G. (Principal ChapLn,, ranking as Brig.-Gen.)</Text>
       <PageNumber>2047</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Jager</Key>
+      <Title>temp. Capt. (actg. Maj.)</Title>
+      <Forenames>B. M.</Forenames>
+      <Text>(temp. Maj.)</Text>
+      <PageNumber>2404</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -143,7 +154,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Jagger</Key>
-      <Text>, 2nd Lt. B. C. B., M.C. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>B. C. B.</Forenames>
+      <Text>, M.C. (Lt.)</Text>
       <PageNumber>2273</PageNumber>
     </MainItem>
     <SubItem>
@@ -171,7 +184,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Jago</Key>
-      <Text>, 2nd Lt. (aotg. Capt.) H. H., M.C. (actg. Maj.)</Text>
+      <Title>2nd Lt. (aotg. Capt.)</Title>
+      <Forenames>H. H.</Forenames>
+      <Text>, M.C. (actg. Maj.)</Text>
       <PageNumber>1350</PageNumber>
     </MainItem>
     <SubItem>
@@ -191,14 +206,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Jakes</Key>
-      <Text>, temp. 2nd Lt., attd., P. (trd. to Ser. Bn.)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Text>, attd., P. (trd. to Ser. Bn.)</Text>
       <PageNumber>251</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Jalland</Key>
-      <Text>, 2nd Lt. A. E. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>A. E.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>1881</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -209,7 +227,7 @@
       <PageNumber>948</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Lt. (corr. of promn.). Sub. Not.</Text>
+      <Text>Lt. (corr. of promn.). Sub. Not</Text>
       <PageNumber>2857</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -227,7 +245,9 @@
       <Key>
         <KeyDitto>——</KeyDitto>
       </Key>
-      <Text>temp. 2nd Lt. on prob. A. F. (Flying Offlr., and confd.)</Text>
+      <Title>temp. 2nd Lt. on prob.</Title>
+      <Forenames>A. F.</Forenames>
+      <Text>(Flying Offlr., and confd.)</Text>
       <PageNumber>3826</PageNumber>
     </MainItem>
     <SubItem>
@@ -241,6 +261,10 @@
     <SubItem>
       <Text>temp. 2nd Lt., attd., A. W. (S. Staff R.) (trd.)</Text>
       <PageNumber>2603</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>— : Sjt. C. (Glouc. R.) (2nd Lt.)</Text>
+      <PageNumber>2958</PageNumber>
     </SubItem>
   </ItemGroup>
   <ItemGroup>
@@ -422,7 +446,9 @@
       <Key>
         <KeyDitto>——</KeyDitto>
       </Key>
-      <Text>temp. 2nd Lt. J. B. (temp. Lt.)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>J. B.</Forenames>
+      <Text>(temp. Lt.)</Text>
       <PageNumber>666</PageNumber>
     </MainItem>
     <SubItem>
@@ -441,20 +467,22 @@
   <ItemGroup>
     <MainItem>
       <Key>Jamie</Key>
-      <Text>, 2nd Lt. on prob. B. C. S. (confd.)</Text>
+      <Title>2nd Lt. on prob.</Title>
+      <Forenames>B. C. S.</Forenames>
+      <Text>(confd.)</Text>
       <PageNumber>2871</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Experimental Offr., 3rd CI.</Text>
+      <Text>Experimental Offr., 3rd CI</Text>
       <PageNumber>3376</PageNumber>
     </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Jamieson</Key>
-      <Title>temp.</Title>
-      <Forenames>Lt</Forenames>
-      <Text>. (actg. Capt.) A. R. (temp. Capt.)</Text>
+      <Title>temp. Lt. (actg. Capt.)</Title>
+      <Forenames>A. R.</Forenames>
+      <Text>(temp. Capt.)</Text>
       <PageNumber>2295</PageNumber>
     </MainItem>
     <SubItem>
@@ -518,7 +546,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Jaques</Key>
-      <Text>, temp. 2nd Lt. B..W. (Gen List)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>B.</Forenames>
+      <Text>.W. (Gen List)</Text>
       <PageNumber>97</PageNumber>
     </MainItem>
     <SubItem>
@@ -537,7 +567,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Jardine</Key>
-      <Text>, temp. 2nd Lt., attd.. A. (trd. from Res. Bn.)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Text>, attd.. A. (trd. from Res. Bn.)</Text>
       <PageNumber>1516</PageNumber>
     </MainItem>
     <SubItem>

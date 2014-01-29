@@ -52,7 +52,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Coles</Key>
-      <Text>, Lieut. . (temporary Lieut.) Stanley (correction)</Text>
+      <Title>Lieut.</Title>
+      <Text>. (temporary Lieut.) Stanley (correction)</Text>
       <PageNumber>6671</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -308,7 +309,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Crompton</Key>
-      <Text>,N. G. (temporary Lieuti.)</Text>
+      <Text>N. G. (temporary Lieuti.)</Text>
       <PageNumber>6800</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -519,7 +520,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Delph</Key>
-      <Text>, (temporary) 2nd Lieut. L. W. (antedated)</Text>
+      <Title>(temporary) 2nd Lieut.</Title>
+      <Forenames>L. W.</Forenames>
+      <Text>(antedated)</Text>
       <PageNumber>8521</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -657,7 +660,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>(temporary) 2nd Lieut. Percy G. (temporary Lieut.)</Text>
+      <Title>(temporary) 2nd Lieut.</Title>
+      <Forenames>Percy G.</Forenames>
+      <Text>(temporary Lieut.)</Text>
       <PageNumber>7301</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -787,7 +792,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Eckford</Key>
-      <Text>, (temporary) Capt. George S. (antedated)</Text>
+      <Title>(temporary) Capt.</Title>
+      <Forenames>George S.</Forenames>
+      <Text>(antedated)</Text>
       <PageNumber>8717</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1129,7 +1136,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>(temporary) Capt. H. (relinquishes his commission)</Text>
+      <Title>(temporary) Capt.</Title>
+      <Forenames>H.</Forenames>
+      <Text>(relinquishes his commission)</Text>
       <PageNumber>9396</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1152,7 +1161,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Galsworthy</Key>
-      <Text>, Capt. (temporary Capt. and Hon. Maj.) A. R. (temporary Capt., antedated)</Text>
+      <Title>Capt. (temporary Capt. and Hon. Maj.)</Title>
+      <Forenames>A. R.</Forenames>
+      <Text>(temporary Capt., antedated)</Text>
       <PageNumber>6670</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1175,7 +1186,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Garland</Key>
-      <Text>(temporary) Capt. E. T. (temporary Lieut., antedated)</Text>
+      <Title>(temporary) Capt.</Title>
+      <Forenames>E. T.</Forenames>
+      <Text>(temporary Lieut., antedated)</Text>
       <PageNumber>7076</PageNumber>
     </MainItem>
     <SubItem>
@@ -1280,6 +1293,14 @@
       <Forenames>G. G.</Forenames>
       <Text>(temporary Lieut.)</Text>
       <PageNumber>6800</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Glover</Key>
+      <Forenames>Arthur Stanley</Forenames>
+      <Text>(temporary 2nd Lieut.)</Text>
+      <PageNumber>7580</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

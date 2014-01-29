@@ -11,14 +11,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Hehir</Key>
-      <Text>, P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>4313</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Stodart</Key>
-      <Text>, T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>3258</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -46,7 +46,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Prasad</Key>
-      <Text>, K</Text>
+      <Forenames>K</Forenames>
       <PageNumber>4314</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -61,7 +61,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fowler</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>2536</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -158,7 +158,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bedell</Key>
-      <Text>,' F. F</Text>
+      <Text>' F. F</Text>
       <PageNumber>3919</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -224,14 +224,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Price</Key>
-      <Text>, E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>3520</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Reeves</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>2536</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -252,14 +252,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Foy</Key>
-      <Text>, J '</Text>
+      <Forenames>J</Forenames>
+      <Text>'</Text>
       <PageNumber>4314</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Reeve</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>2537</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -316,7 +317,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Napier</Key>
-      <Text>, C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -338,7 +339,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Atkinson</Key>
-      <Text>, -H. C</Text>
+      <Text>-H. C</Text>
       <PageNumber>2537</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -379,14 +380,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Duthie</Key>
-      <Text>, T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>2536</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hanby</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>4314</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -437,7 +438,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wright</Key>
-      <Text>, R Assistant Secretary. Chitty, Maj. A. W</Text>
+      <Forenames>R</Forenames>
+      <Text>Assistant Secretary. Chitty, Maj. A. W</Text>
       <PageNumber>3351</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -453,9 +455,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Valletort</Key>
-      <Title>Col. Rt. Hon.</Title>
-      <Forenames>Visct</Forenames>
-      <Text>., Deputy Warden</Text>
+      <Title>Col. Rt. Hon. Visct.</Title>
+      <Text>, Deputy Warden</Text>
       <PageNumber>3595</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -480,8 +481,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Seafield</Key>
-      <Forenames>Rt</Forenames>
-      <Text>. Hon. Earl of</Text>
+      <Title>Rt. Hon. Earl</Title>
+      <Text>of</Text>
       <PageNumber>4403</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -529,7 +530,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Porteous</Key>
-      <Text>, Col. J</Text>
+      <Title>Col.</Title>
+      <Forenames>J</Forenames>
       <PageNumber>2367</PageNumber>
     </MainItem>
     <SubItem>
@@ -615,7 +617,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bearcroft</Key>
-      <Text>, J; E</Text>
+      <Forenames>J</Forenames>
+      <Text>; E</Text>
       <PageNumber>3992</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -698,7 +701,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Neville</Key>
-      <Text>, Sir G</Text>
+      <Title>Sir</Title>
+      <Forenames>G</Forenames>
       <PageNumber>3914</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -719,7 +723,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Windham</Key>
-      <Text>, C Vice-Admirals. Beth-li. Hon. Sir A. E</Text>
+      <Forenames>C</Forenames>
+      <Text>Vice-Admirals. Beth-li. Hon. Sir A. E</Text>
       <PageNumber>3438</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -985,7 +990,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Archer</Key>
-      <Text>, ;N. E</Text>
+      <Text>;N. E</Text>
       <PageNumber>4307</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1066,8 +1071,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Edgar</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>3149</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Euman</Key>
+      <Forenames>C</Forenames>
+      <PageNumber>2533</PageNumber>
     </MainItem>
   </ItemGroup>
   <KeyDitto>___ ___ ___ ___ ___</KeyDitto>

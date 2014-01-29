@@ -4,14 +4,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Dunlop</Key>
-      <Text>, T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Gilchrist</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -26,7 +26,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McArly</Key>
-      <Text>, T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -177,7 +177,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Little</Key>
-      <Text>, E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>9778</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -217,7 +217,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Collingwood</Key>
-      <Text>, R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>9681</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -247,7 +247,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Truscott</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>8162</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -271,7 +271,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Basson</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>9681</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -288,9 +288,10 @@
       <Forenames>L. E</Forenames>
       <PageNumber>7531</PageNumber>
     </MainItem>
-    <SubSectionTitle>Lieutenants</SubSectionTitle>
+    <SubSectionTitle>
+      <Text>Lieutenants</Text>
+    </SubSectionTitle>
     <SubItem>
-      <Text>Lieutenants.</Text>
       <PageNumber>9263</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -398,7 +399,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Harter</Key>
-      <Text>, R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -468,7 +469,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lockhart</Key>
-      <Text>, A B</Text>
+      <Forenames>A</Forenames>
+      <Text>B</Text>
       <PageNumber>7464</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -525,7 +527,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Osmond</Key>
-      <Text>, E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>9446</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -596,7 +598,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Strickland</Key>
-      <Text>, P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>7796</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1065,6 +1067,13 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>Mark-Wardlaw</Key>
+      <Forenames>A. L. P</Forenames>
+      <PageNumber>ibid.</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Moody</Key>
       <Forenames>C .</Forenames>
       <PageNumber>7606</PageNumber>
@@ -1197,7 +1206,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Breese</Key>
-      <Text>, CD ...</Text>
+      <Text>CD ...</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1226,14 +1235,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Killick</Key>
-      <Text>, T :</Text>
+      <Forenames>T</Forenames>
+      <Text>:</Text>
       <PageNumber>7195</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Long</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>7196</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1254,7 +1264,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Morgan</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1268,7 +1278,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Robins</Key>
-      <Text>, S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1278,6 +1288,13 @@
       <Forenames>H. S.</Forenames>
       <Text>(antedated)</Text>
       <PageNumber>7531</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Wansbrough</Key>
+      <Forenames>L. B. R</Forenames>
+      <PageNumber>7953</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1298,7 +1315,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kennedy</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>9263</PageNumber>
     </MainItem>
   </ItemGroup>

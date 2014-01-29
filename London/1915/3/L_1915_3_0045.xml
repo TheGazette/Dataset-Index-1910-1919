@@ -313,15 +313,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Ludlow-Hewitt</Key>
-      <Text>, (temporary</Text>
-      <PageNumber>8259</PageNumber>
     </MainItem>
   </ItemGroup>
+  <Title>
+    <PageNumber>8259</PageNumber>
+  </Title>
   <ItemGroup>
     <MainItem>
-      <Key>Lumd</Key>
-      <Forenames>William Bullen</Forenames>
-      <Text>(temporary</Text>
+      <Key>
+        <Forenames>Lumd</Forenames>
+      </Key>
+      <Text>, William Bullen (temporary</Text>
       <PageNumber>6925</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -402,7 +404,9 @@
   <ItemGroup>
     <MainItem>
       <Key>McOullooh</Key>
-      <Text>, (temporary) Lieut. Alexander (dismissed from the Service by sentence of a General</Text>
+      <Title>(temporary) Lieut.</Title>
+      <Forenames>Alexander</Forenames>
+      <Text>(dismissed from the Service by sentence of a General</Text>
       <PageNumber>7158</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -551,7 +555,9 @@
   <ItemGroup>
     <MainItem>
       <Key>McManus</Key>
-      <Text>, (temporary) Maj. George James (antedated^</Text>
+      <Title>(temporary) Maj.</Title>
+      <Forenames>George James</Forenames>
+      <Text>(antedated^</Text>
       <PageNumber>7417</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -737,7 +743,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Marx</Key>
-      <Text>, (temporary) Lieut. Bertram A. (relinquishes his commission</Text>
+      <Title>(temporary) Lieut.</Title>
+      <Forenames>Bertram A.</Forenames>
+      <Text>(relinquishes his commission</Text>
       <PageNumber>6684</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -997,7 +1005,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Morrison</Key>
-      <Text>, (temporary) Maj. E. E. J. (relinquishes his temporary commission on reverting to his permanent unit)</Text>
+      <Title>(temporary) Maj.</Title>
+      <Forenames>E. E. J.</Forenames>
+      <Text>(relinquishes his temporary commission on reverting to his permanent unit)</Text>
       <PageNumber>8611</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1187,7 +1197,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Newham</Key>
-      <Text>, Hon. Maj. (temporary Capt.) W. H. (temporary Capt. antedated) ,</Text>
+      <Title>Hon. Maj. (temporary Capt.)</Title>
+      <Forenames>W. H.</Forenames>
+      <Text>(temporary Capt. antedated) ,</Text>
       <PageNumber>7479</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1248,7 +1260,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Nixon</Key>
-      <Text>, (temporary) Lieut. Adrian L. E. (Adjt.)</Text>
+      <Title>(temporary) Lieut.</Title>
+      <Forenames>Adrian L. E.</Forenames>
+      <Text>(Adjt.)</Text>
       <PageNumber>9327</PageNumber>
     </MainItem>
   </ItemGroup>

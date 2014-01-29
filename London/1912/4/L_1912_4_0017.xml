@@ -11,15 +11,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Hume</Key>
-      <Text>, 2nd Lieut, H. N. (resigned)</Text>
+      <Text>2nd Lieut, H. N. (resigned)</Text>
       <PageNumber>8121</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Stanton</Key>
-      <Forenames>Ca</Forenames>
-      <Text>.pt, H. A. S. (seconded)</Text>
+      <Title>Ca.</Title>
+      <Text>pt, H. A. S. (seconded)</Text>
       <PageNumber>8580</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -110,7 +110,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pinhey</Key>
-      <Text>, 2nd Lieut, R, A. (resigned)</Text>
+      <Text>2nd Lieut, R, A. (resigned)</Text>
       <PageNumber>9481</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -177,7 +177,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Herbert</Key>
-      <Text>, AV. N. (Adjt.)</Text>
+      <Text>AV. N. (Adjt.)</Text>
       <PageNumber>7194</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -309,7 +309,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Hodge</Key>
-      <Text>, Capt. R, B. de B. (resigned)</Text>
+      <Title>Capt.</Title>
+      <Forenames>R</Forenames>
+      <Text>, B. de B. (resigned)</Text>
       <PageNumber>7775</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -373,7 +375,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt,)</Text>
+      <Title>(Capt,)</Title>
       <PageNumber>7942</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -396,7 +398,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cooper</Key>
-      <Text>,Lieut. J. (resigned)</Text>
+      <Text>Lieut. J. (resigned)</Text>
       <PageNumber>8025</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -645,7 +647,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Crossman</Key>
-      <Text>, G-.--L. (Capt,)</Text>
+      <Text>G-.--L. (Capt,)</Text>
       <PageNumber>7489</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -734,7 +736,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Smallwood</Key>
-      <Text>, G, S. (2nd Lieut.)</Text>
+      <Forenames>G</Forenames>
+      <Text>, S. (2nd Lieut.)</Text>
       <PageNumber>9217</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -887,7 +890,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>8950</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -964,14 +967,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Campbell</Key>
-      <Text>, AV. L. (Capt.)</Text>
+      <Text>AV. L. (Capt.)</Text>
       <PageNumber>8581</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Farquhar</Key>
-      <Text>, Capt. AV. A. (seconded)...</Text>
+      <Title>Capt.</Title>
+      <Text>AV. A. (seconded)...</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -987,7 +991,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dugmore</Key>
-      <Text>, AV. .L. E. R. (Capt.)</Text>
+      <Text>AV. .L. E. R. (Capt.)</Text>
       <PageNumber>7489</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1032,6 +1036,14 @@
       <Forenames>G. C.</Forenames>
       <Text>(Capt.)</Text>
       <PageNumber>7775</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Chance</Key>
+      <Forenames>E. S.</Forenames>
+      <Text>(Capt.)</Text>
+      <PageNumber>8463</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1180,6 +1192,14 @@
       <Forenames>H. W.</Forenames>
       <Text>(retired)</Text>
       <PageNumber>7865</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Wilson</Key>
+      <Forenames>W. R.</Forenames>
+      <Text>(Qrmr. and Hon. Lieut.)</Text>
+      <PageNumber>8463</PageNumber>
     </MainItem>
   </ItemGroup>
   <SectionTitle>The King's Own Scottish Borderers</SectionTitle>

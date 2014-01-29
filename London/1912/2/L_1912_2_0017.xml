@@ -12,7 +12,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cockburn</Key>
-      <Text>, Lieut.-Col.-W: F. (halfpay;..list)</Text>
+      <Title>Lieut.-Col.</Title>
+      <Text>-W: F. (halfpay;..list)</Text>
       <PageNumber>4040</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -35,14 +36,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Dyer</Key>
-      <Text>,Col. C-R:(retired)</Text>
+      <Title>Col.</Title>
+      <Text>C-R:(retired)</Text>
       <PageNumber>4386</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Edwards</Key>
-      <Text>, .F.-M-.(Col..)'</Text>
+      <Text>.F.-M-.(Col..)'</Text>
       <PageNumber>3584</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -58,7 +60,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Friend</Key>
-      <Text>, Col. L: B. (half-pay list)</Text>
+      <Title>Col.</Title>
+      <Forenames>L</Forenames>
+      <Text>: B. (half-pay list)</Text>
       <PageNumber>2586</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -67,7 +71,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>L; B. (Maj.-Geii.)</Text>
+      <Forenames>L</Forenames>
+      <Text>; B. (Maj.-Geii.)</Text>
       <PageNumber>4039</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -82,7 +87,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gardner</Key>
-      <Text>, H: L. (Col.) ' '.'</Text>
+      <Forenames>H</Forenames>
+      <Text>: L. (Col.) ' '.'</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -97,7 +103,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Goring</Key>
-      <Text>, Sir F; G., Bart, (local rank of Capt.)</Text>
+      <Title>Sir</Title>
+      <Forenames>F</Forenames>
+      <Text>; G., Bart, (local rank of Capt.)</Text>
       <PageNumber>2397</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -146,7 +154,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Harrison</Key>
-      <Text>, TA. (Col.)</Text>
+      <Text>TA. (Col.)</Text>
       <PageNumber>3584</PageNumber>
       <PageNumber>3796</PageNumber>
     </MainItem>
@@ -324,7 +332,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Mainwaring</Key>
-      <Text>, Col. C V.(correction)</Text>
+      <Title>Col.</Title>
+      <Forenames>C</Forenames>
+      <Text>V.(correction)</Text>
       <PageNumber>3796</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -356,7 +366,8 @@
   <ItemGroup>
     <MainItem>
       <Key>TMillar</Key>
-      <Text>, W: H.::(Gpl.),</Text>
+      <Forenames>W</Forenames>
+      <Text>: H.::(Gpl.),</Text>
       <PageNumber>3584</PageNumber>
       <PageNumber>3796</PageNumber>
     </MainItem>
@@ -396,14 +407,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Muhammad</Key>
-      <Text>,-T:(Hon. Lieut.)</Text>
+      <Text>-T:(Hon. Lieut.)</Text>
       <PageNumber>4386</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>New-combe</Key>
-      <Text>, 'Capt. E. O. A. (retired)</Text>
+      <Text>'Capt. E. O. A. (retired)</Text>
       <PageNumber>2896</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -443,7 +454,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Perceval</Key>
-      <Text>, Col.' E. M: (half-pay list)</Text>
+      <Title>Col.</Title>
+      <Text>' E. M: (half-pay list)</Text>
       <PageNumber>3479</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -483,7 +495,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Singh</Key>
-      <Text>, H:_(Hon. Capt.)</Text>
+      <Forenames>H</Forenames>
+      <Text>:_(Hon. Capt.)</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -534,6 +547,14 @@
   <SectionTitle>6th Dragoon Guards</SectionTitle>
   <ItemGroup>
     <MainItem>
+      <Key>Anstruther</Key>
+      <Forenames>J. A.</Forenames>
+      <Text>(Lieut.)</Text>
+      <PageNumber>3369</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Rasch</Key>
       <Forenames>F. C.</Forenames>
       <Text>(Capt.) .. ... ...</Text>
@@ -553,7 +574,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lindley</Key>
-      <Text>, Maj.-Gen.Hon. J. E. (Colonel) ' :...' ... '</Text>
+      <Title>Maj.-Gen.</Title>
+      <Text>Hon. J. E. (Colonel) ' :...' ... '</Text>
       <PageNumber>2791</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -816,7 +838,16 @@
       <Key>Campbell</Key>
       <Title>Maj.</Title>
       <Forenames>W. R.</Forenames>
-      <Text>(tempy. halfpay list) .-..-3794 , 15th Dragoons (Hussars.) Charrington, Capt. S. H. (resigned)</Text>
+      <Text>(tempy. halfpay list) .-..-</Text>
+      <PageNumber>3794</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Charrington</Key>
+      <Title>Capt.</Title>
+      <Forenames>S. H.</Forenames>
+      <Text>(resigned)</Text>
       <PageNumber>2395</PageNumber>
     </MainItem>
   </ItemGroup>

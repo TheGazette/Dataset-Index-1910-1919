@@ -123,7 +123,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lemon</Key>
-      <Text>, IH. C. (temp. Fit. Sub-Lt.)</Text>
+      <Text>IH. C. (temp. Fit. Sub-Lt.)</Text>
       <PageNumber>3956</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -156,7 +156,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lindsay</Key>
-      <Text>, tL. L. (temp. Fit. Sub-Lt.)</Text>
+      <Text>tL. L. (temp. Fit. Sub-Lt.)</Text>
       <PageNumber>6411</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -189,14 +189,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Littlejotn</Key>
-      <Text>, .N. (Wrt. Offr., 1st Gr.)</Text>
+      <Text>.N. (Wrt. Offr., 1st Gr.)</Text>
       <PageNumber>6415</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Livock</Key>
-      <Text>, G-: E. (Fit. Cdr.)</Text>
+      <Text>G-: E. (Fit. Cdr.)</Text>
       <PageNumber>6413</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -267,7 +267,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McAllister</Key>
-      <Text>, j. iN. (temp. Fit. SuibLt.)</Text>
+      <Text>j. iN. (temp. Fit. SuibLt.)</Text>
       <PageNumber>5518</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -340,7 +340,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McGregor</Key>
-      <Text>, £&gt;. G. (temp. Obsr. SuibLt.) :</Text>
+      <Text>£&gt;. G. (temp. Obsr. SuibLt.) :</Text>
       <PageNumber>6289</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -411,21 +411,22 @@
   <ItemGroup>
     <MainItem>
       <Key>MoNicoll</Key>
-      <Text>, C, D.S.C. (Fit Lt.)</Text>
+      <Forenames>C</Forenames>
+      <Text>, D.S.C. (Fit Lt.)</Text>
       <PageNumber>6415</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Magor</Key>
-      <Text>, &lt;G. A. (Fit. Lt.)</Text>
+      <Text>&lt;G. A. (Fit. Lt.)</Text>
       <PageNumber>6414</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Mainland</Key>
-      <Text>, &gt;R. iF. (Fit. (Lt.)</Text>
+      <Text>&gt;R. iF. (Fit. (Lt.)</Text>
       <PageNumber>6414</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -482,7 +483,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Martin</Key>
-      <Text>, IS. P. (temp. Fit. Lt.)</Text>
+      <Text>IS. P. (temp. Fit. Lt.)</Text>
       <PageNumber>4360</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -513,7 +514,7 @@
   <ItemGroup>
     <MainItem>
       <Key>MeHersh</Key>
-      <Text>, ,F. J. W. .(temp. Fit. 'SuibLt.)</Text>
+      <Text>,F. J. W. .(temp. Fit. 'SuibLt.)</Text>
       <PageNumber>6050</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -528,7 +529,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Millar</Key>
-      <Text>,B. R. (temp. Fit. Sub-OA)</Text>
+      <Text>B. R. (temp. Fit. Sub-OA)</Text>
       <PageNumber>6290</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -943,7 +944,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Parker</Key>
-      <Text>, temp: Fit. Sub-Lt. G. W. (confd.) ,</Text>
+      <Text>temp: Fit. Sub-Lt. G. W. (confd.) ,</Text>
       <PageNumber>5363</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1112,7 +1113,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Purdy</Key>
-      <Text>,.C. C. (temp. Fit. Sub-Lt.),</Text>
+      <Text>.C. C. (temp. Fit. Sub-Lt.),</Text>
       <PageNumber>3753</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1235,9 +1236,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rischbieth</Key>
-      <Title>temp.</Title>
-      <Forenames>Fit</Forenames>
-      <Text>. Sub-Lt: C. R. (ooijifiL) ... _ ..v</Text>
+      <Title>temp. Fit. Sub-Lt</Title>
+      <Text>: C. R. (ooijifiL) ... _ ..v</Text>
       <PageNumber>6363</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1385,7 +1385,7 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>. John, R. G. (temp. Obsr. Lt.)</Text>
+      <Text>John, R. G. (temp. Obsr. Lt.)</Text>
       <PageNumber>6289</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1397,7 +1397,16 @@
       <PageNumber>6414</PageNumber>
     </MainItem>
   </ItemGroup>
-  <KeyDitto>___ — ___ ___</KeyDitto>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ — ___ ___</KeyDitto>
+      </Key>
+      <Forenames>K. F.</Forenames>
+      <Text>(temp. Fit. 'Lt.)</Text>
+      <PageNumber>4360</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>
@@ -1621,7 +1630,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Smyth-Osboume</Key>
-      <Text>, IH. P. (Wing</Text>
+      <Text>IH. P. (Wing</Text>
       <PageNumber>6413</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1694,7 +1703,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stack</Key>
-      <Text>. A. R. (temp. Fit. Sub-Lt.)</Text>
+      <Text>A. R. (temp. Fit. Sub-Lt.)</Text>
       <PageNumber>3753</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1781,7 +1790,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Struthers</Key>
-      <Text>. J. G. (Fit. Cdr.)</Text>
+      <Text>J. G. (Fit. Cdr.)</Text>
       <PageNumber>6414</PageNumber>
     </MainItem>
   </ItemGroup>

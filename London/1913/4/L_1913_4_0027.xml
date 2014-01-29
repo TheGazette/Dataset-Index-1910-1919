@@ -84,7 +84,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Talbot</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>7684</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -133,14 +133,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Wilson</Key>
-      <Text>I A</Text>
+      <Forenames>I</Forenames>
+      <Text>A</Text>
       <PageNumber>9605</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Wintour</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>7684</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -204,7 +205,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mack</Key>
-      <Text>T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -484,7 +485,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(date of Lieutenancy post-dated)</Text>
+      <Title>(date of Lieutenancy post-dated)</Title>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -633,7 +634,7 @@
   <ItemGroup>
     <MainItem>
       <Key>James</Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>7253</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -647,7 +648,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lowry-Corry</Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -677,7 +678,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(resigned)</Text>
+      <Title>(resigned)</Title>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -767,7 +768,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tilly</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>7252</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -782,7 +783,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Turner</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -812,7 +813,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Moore</Key>
-      <Text>Lieut. R, C. (antedated)</Text>
+      <Title>Lieut.</Title>
+      <Forenames>R</Forenames>
+      <Text>, C. (antedated)</Text>
       <PageNumber>7684</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -853,7 +856,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bruce</Key>
-      <Text>2nd Lieut.. R. M. (antedated)</Text>
+      <Title>2nd Lieut.</Title>
+      <Text>. R. M. (antedated)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1013,14 +1017,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Edwards</Key>
-      <Text>Col. FitzJ. M., temporary Brigdr.-Gen</Text>
+      <Title>Col.</Title>
+      <Text>FitzJ. M., temporary Brigdr.-Gen</Text>
       <PageNumber>8059</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hamilton</Key>
-      <Text>Col. (temporary Brigdr.Gen.) W. G., Brigade Commander</Text>
+      <Title>Col. (temporary Brigdr.Gen.)</Title>
+      <Forenames>W. G.</Forenames>
+      <Text>, Brigade Commander</Text>
       <PageNumber>7775</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1038,7 +1045,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(cancelled) .. '</Text>
+      <Title>(cancelled)</Title>
+      <Text>.. '</Text>
       <PageNumber>8896</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1150,7 +1158,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(date of appointment)</Text>
+      <Title>(date of appointment)</Title>
       <PageNumber>7523</PageNumber>
     </MainItem>
   </ItemGroup>

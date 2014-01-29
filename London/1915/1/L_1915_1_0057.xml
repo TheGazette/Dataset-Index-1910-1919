@@ -353,7 +353,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Rowan</Key>
-      <Text>(temporary) Qrmr. and Hon. Lieut. Richard Cody (relinquishes his commission)</Text>
+      <Title>(temporary) Qrmr. and Hon. Lieut.</Title>
+      <Forenames>Richard Cody</Forenames>
+      <Text>(relinquishes his commission)</Text>
       <PageNumber>2849</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -494,7 +496,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(temporary) Capt. Percy, M.B., F.R.C.S. .(temporary Hon. i Lieut.-Col.)</Text>
+      <Title>(temporary) Capt.</Title>
+      <Forenames>Percy</Forenames>
+      <Text>, M.B., F.R.C.S. .(temporary Hon. i Lieut.-Col.)</Text>
       <PageNumber>2822</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1253,9 +1257,16 @@
       <PageNumber>909</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>
-    <KeyDitto>___ ___ ___</KeyDitto>
-  </SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___</KeyDitto>
+      </Key>
+      <Forenames>Arthur Loudoun</Forenames>
+      <Text>, M.B. (temporary Lieut.)</Text>
+      <PageNumber>1835</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>

@@ -24,28 +24,28 @@
   <ItemGroup>
     <MainItem>
       <Key>Shakespeare</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>8024</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Simpson</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>7488</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Smale</Key>
-      <Text>, 0. G.</Text>
+      <Text>0. G.</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Taylor</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -136,7 +136,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ramsay</Key>
-      <Text>, P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>7371</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -280,7 +280,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lindsay</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>7685</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -290,14 +290,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Betenson</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>7775</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Cadogan</Key>
-      <Text>, R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>7192</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -311,7 +311,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sim</Key>
-      <Text>, G:</Text>
+      <Forenames>G</Forenames>
+      <Text>:</Text>
       <PageNumber>9397</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -357,21 +358,21 @@
   <ItemGroup>
     <MainItem>
       <Key>Forrest</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>9117</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Gilby</Key>
-      <Text>, F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>7941</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hawkes</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>9117</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -393,7 +394,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hunt</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>8949</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -414,7 +415,8 @@
   <ItemGroup>
     <MainItem>
       <Key>MacKay</Key>
-      <Text>, J illd. Mowday, J</Text>
+      <Forenames>J</Forenames>
+      <Text>illd. Mowday, J</Text>
       <PageNumber>9117</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -428,7 +430,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rivett</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>9117</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -442,14 +444,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Wallace</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>9117</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Williams</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -464,7 +466,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Archibald</Key>
-      <Text>, Rev. J</Text>
+      <Title>Rev.</Title>
+      <Forenames>J</Forenames>
       <PageNumber>7686</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -496,7 +499,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Flynn</Key>
-      <Text>, Rev. F</Text>
+      <Title>Rev.</Title>
+      <Forenames>F</Forenames>
       <PageNumber>9215</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -720,7 +724,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Cooper</Key>
-      <Text>, Lieut. R, W. (retired list)</Text>
+      <Title>Lieut.</Title>
+      <Forenames>R</Forenames>
+      <Text>, W. (retired list)</Text>
       <PageNumber>9215</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -103,7 +103,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Waistell</Key>
-      <Text>, .A*. M. (Fit. Lt.)</Text>
+      <Text>.A*. M. (Fit. Lt.)</Text>
       <PageNumber>4360</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -249,7 +249,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Whitworth</Key>
-      <Text>, LI. (Fit. Lt.)</Text>
+      <Text>LI. (Fit. Lt.)</Text>
       <PageNumber>6414</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -290,9 +290,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Title>temp.</Title>
-      <Forenames>Fit</Forenames>
-      <Text>. .Sub-Lt. P. G. (confd.) ..;</Text>
+      <Title>temp. Fit.</Title>
+      <Text>.Sub-Lt. P. G. (confd.) ..;</Text>
       <PageNumber>6963</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -331,7 +330,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wingfield</Key>
-      <Text>, iS. G. (temp. Fit. iSuibLt.)</Text>
+      <Text>iS. G. (temp. Fit. iSuibLt.)</Text>
       <PageNumber>6411</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -347,14 +346,15 @@
       <Key>
         <KeyDitto>— ___ ___ ___</KeyDitto>
       </Key>
-      <Text>R: R (Fit. Lt.)</Text>
+      <Forenames>R</Forenames>
+      <Text>: R (Fit. Lt.)</Text>
       <PageNumber>6415</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Wood</Key>
-      <Text>, i0. E. (Fit. Cdr.) ... .-</Text>
+      <Text>i0. E. (Fit. Cdr.) ... .-</Text>
       <PageNumber>6413</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -407,7 +407,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Woolley</Key>
-      <Text>, ,S. J. (Fit. Lt.)</Text>
+      <Text>,S. J. (Fit. Lt.)</Text>
       <PageNumber>6414</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -477,7 +477,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Young</Key>
-      <Text>, temp. ,Flt. Sub^Lt; A. M. ' (corifd.) ... '</Text>
+      <Title>temp. ,Flt.</Title>
+      <Forenames>Sub</Forenames>
+      <Text>^Lt; A. M. ' (corifd.) ... '</Text>
       <PageNumber>5363</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -632,7 +634,6 @@
       <PageNumber>3767</PageNumber>
     </MainItem>
   </ItemGroup>
-  <CategoryTitle>ADVERTISEMENTS</CategoryTitle>
   <ItemGroup>
     <MainItem>
       <Key>Abecnrn</Key>
@@ -653,8 +654,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Aerated</Key>
-      <Forenames>Candy Co</Forenames>
-      <Text>.; Ltd., notice under Trading with the Enemy Amendment Act</Text>
+      <Forenames>Candy</Forenames>
+      <Text>Co.; Ltd., notice under Trading with the Enemy Amendment Act</Text>
       <PageNumber>3652</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -676,8 +677,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Allen</Key>
-      <Forenames>Omnibus Co</Forenames>
-      <Text>., Ltd., notice</Text>
+      <Forenames>Omnibus</Forenames>
+      <Text>Co., Ltd., notice</Text>
       <PageNumber>6096</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -743,8 +744,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Atlas</Key>
-      <Forenames>Assurance Co</Forenames>
-      <Text>.; Ltd., notice</Text>
+      <Forenames>Assurance</Forenames>
+      <Text>Co.; Ltd., notice</Text>
       <PageNumber>3439</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -783,8 +784,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bakelite</Key>
-      <Forenames>Co</Forenames>
-      <Text>., Ltd., notice under Trading with the Enemy Amendment Act</Text>
+      <Title>Co., Ltd.</Title>
+      <Text>, notice under Trading with the Enemy Amendment Act</Text>
       <PageNumber>5276</PageNumber>
     </MainItem>
   </ItemGroup>

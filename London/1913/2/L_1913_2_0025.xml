@@ -41,7 +41,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Marsh</Key>
-      <Text>, R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -64,7 +64,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sinclair</Key>
-      <Text>, M „</Text>
+      <Forenames>M</Forenames>
+      <Text>„</Text>
       <PageNumber>3595</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -120,7 +121,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Elwis</Key>
-      <Text>,J. S. (Lieut.)</Text>
+      <Text>J. S. (Lieut.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -135,7 +136,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Meikle</Key>
-      <Text>, J: H. (Maj.)</Text>
+      <Forenames>J</Forenames>
+      <Text>: H. (Maj.)</Text>
       <PageNumber>3517</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -178,14 +180,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Eugster</Key>
-      <Text>, 0. L. (Maj.)</Text>
+      <Text>0. L. (Maj.)</Text>
       <PageNumber>4220</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Gosnell</Key>
-      <Text>,.R. P. (2nd Lieut.)</Text>
+      <Text>.R. P. (2nd Lieut.)</Text>
       <PageNumber>3440</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -200,7 +202,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Allhusen</Key>
-      <Text>, 0. (Lieut.)</Text>
+      <Text>0. (Lieut.)</Text>
       <PageNumber>3517</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -252,7 +254,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(temporary Capt.) ...</Text>
+      <Title>(temporary Capt.)</Title>
+      <Text>...</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -881,7 +884,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Scott</Key>
-      <Text>, Lieut.-Col. .and Hon. Col. C. C. (resigned)</Text>
+      <Title>Lieut.-Col.</Title>
+      <Text>.and Hon. Col. C. C. (resigned)</Text>
       <PageNumber>3517</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1116,7 +1120,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Winch</Key>
-      <Text>,-G. B. (2nd Lieut.)</Text>
+      <Text>-G. B. (2nd Lieut.)</Text>
       <PageNumber>2726</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1576,7 +1580,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(temporary Capt.)</Text>
+      <Title>(temporary Capt.)</Title>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1601,7 +1605,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wilson</Key>
-      <Text>, Capt. .H. (resigned)</Text>
+      <Title>Capt.</Title>
+      <Text>.H. (resigned)</Text>
       <PageNumber>2366</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1632,8 +1637,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Benson</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. J. M. (seconded)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. J. M. (seconded)</Text>
       <PageNumber>3256</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1682,7 +1687,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Carlyle</Key>
-      <Text>, R (Capt.)</Text>
+      <Forenames>R</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>3256</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1771,7 +1777,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gibson</Key>
-      <Text>R, (2nd Lieut.)</Text>
+      <Forenames>R</Forenames>
+      <Text>, (2nd Lieut.)</Text>
       <PageNumber>4310</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1817,7 +1824,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lang</Key>
-      <Text>, J: (Lieut.-Col.)</Text>
+      <Forenames>J</Forenames>
+      <Text>: (Lieut.-Col.)</Text>
       <PageNumber>2638</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1843,6 +1851,13 @@
       <Forenames>J.</Forenames>
       <Text>(2nd Lieut.)</Text>
       <PageNumber>ibid.</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Mackinlay</Key>
+      <Text>. R W. (2nd Lieut.)</Text>
+      <PageNumber>2638</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

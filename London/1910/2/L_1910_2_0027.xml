@@ -93,8 +93,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Anderson</Key>
-      <Forenames>Vet</Forenames>
-      <Text>.-Lieut. J. (resigned)</Text>
+      <Title>Vet.</Title>
+      <Text>-Lieut. J. (resigned)</Text>
       <PageNumber>3639</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -245,7 +245,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Elder</Key>
-      <Text>,Vety.-Maj. Q-. H. (resigned)..</Text>
+      <Text>Vety.-Maj. Q-. H. (resigned)..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -514,8 +514,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Owen</Key>
-      <Forenames>Vet</Forenames>
-      <Text>.-Lieut E. P. (resigned)</Text>
+      <Title>Vet.</Title>
+      <Text>-Lieut E. P. (resigned)</Text>
       <PageNumber>2576</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -723,8 +723,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Wright</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. and Hon. Col. J. H. (resigned)</Text>
+      <Title>Lt.-Col. and Hon. Col.</Title>
+      <Forenames>J. H.</Forenames>
+      <Text>(resigned)</Text>
       <PageNumber>3169</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -768,16 +769,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Bowen</Key>
-      <Title>Rev.</Title>
-      <Forenames>Canon D.</Forenames>
+      <Title>Rev. Canon</Title>
+      <Forenames>D.</Forenames>
       <PageNumber>3486</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Foster</Key>
-      <Title>Rev.</Title>
-      <Forenames>Canon H. C.</Forenames>
+      <Title>Rev. Canon</Title>
+      <Forenames>H. C.</Forenames>
       <PageNumber>2258</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -817,7 +818,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lewis</Key>
-      <Text>, Rt. Rev., Bishop Suffragan of 245)</Text>
+      <Title>Rt. Rev.</Title>
+      <Text>, Bishop Suffragan of 245)</Text>
       <PageNumber>5</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -890,7 +892,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Blofleld</Key>
-      <Text>, Rev. S</Text>
+      <Title>Rev.</Title>
+      <Forenames>S</Forenames>
       <PageNumber>4079</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -913,8 +916,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Clarke</Key>
-      <Title>Rev.</Title>
-      <Forenames>Canon A. P</Forenames>
+      <Title>Rev. Canon</Title>
+      <Forenames>A. P</Forenames>
       <PageNumber>2258</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -945,14 +948,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Haywood</Key>
-      <Text>, Rev. E</Text>
+      <Title>Rev.</Title>
+      <Forenames>E</Forenames>
       <PageNumber>3999</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hunter</Key>
-      <Text>, Rev. C B. R</Text>
+      <Title>Rev.</Title>
+      <Forenames>C</Forenames>
+      <Text>B. R</Text>
       <PageNumber>3552</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -966,7 +972,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Keeling</Key>
-      <Text>, Rev. CP</Text>
+      <Title>Rev.</Title>
+      <Text>CP</Text>
       <PageNumber>4000</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1021,7 +1028,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Todd</Key>
-      <Text>, Rev. W</Text>
+      <Title>Rev.</Title>
+      <Forenames>W</Forenames>
       <PageNumber>3889</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1753,7 +1761,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Leconfield</Key>
-      <Text>, Lord (Hon. Col.)</Text>
+      <Title>Lord (Hon. Col.)</Title>
       <PageNumber>3639</PageNumber>
     </MainItem>
   </ItemGroup>

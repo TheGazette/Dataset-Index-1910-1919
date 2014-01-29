@@ -11,7 +11,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Becher</Key>
-      <Text>, 'Maj. (temp. Lt.-Col.) Cecil Morgan Ley, Companion, D.S.O</Text>
+      <Text>'Maj. (temp. Lt.-Col.) Cecil Morgan Ley, Companion, D.S.O</Text>
       <PageNumber>20</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -28,7 +28,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Becke</Key>
-      <Text>, Maj. (temp. Lt.-Col.) John Harold Whitworth Companion, D.S.O</Text>
+      <Title>Maj. (temp. Lt.-Col.)</Title>
+      <Forenames>John Harold Whitworth Companion</Forenames>
+      <Text>, D.S.O</Text>
       <PageNumber>20</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -44,16 +46,18 @@
   <ItemGroup>
     <MainItem>
       <Key>Belk</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. William, Companion, St. Michael and St. George</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>William</Forenames>
+      <Text>, Companion, St. Michael and St. George</Text>
       <PageNumber>924</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Bell</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Arthur Henry, Companion, D.S.O</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Arthur Henry</Forenames>
+      <Text>, Companion, D.S.O</Text>
       <PageNumber>29</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -117,8 +121,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Richard Carmichael, Companion, D.S.O</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Richard Carmichael</Forenames>
+      <Text>, Companion, D.S.O</Text>
       <PageNumber>20</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -136,8 +141,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Bellingham</Key>
-      <Forenames>Lt</Forenames>
-      <Text>. (temp. Lt.-Col.) Edward Henry Charles Patrick, Companion, D.S.O. (correction)</Text>
+      <Title>Lt. (temp. Lt.-Col.)</Title>
+      <Forenames>Edward Henry Charles Patrick</Forenames>
+      <Text>, Companion, D.S.O. (correction)</Text>
       <PageNumber>2205</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -172,7 +178,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>Maj. (temp. Lt.-Col.) William, M.B.. Companion. D.S.O</Text>
+      <Title>Maj. (temp. Lt.-Col.)</Title>
+      <Forenames>William</Forenames>
+      <Text>, M.B.. Companion. D.S.O</Text>
       <PageNumber>20</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -181,7 +189,9 @@
       <Key>
         <KeyDitto>___ ___ — ___ ___</KeyDitto>
       </Key>
-      <Text>Maj. (temp. Lt.-Col.) Wallace, M.B., Companion, D.S.O</Text>
+      <Title>Maj. (temp. Lt.-Col.)</Title>
+      <Forenames>Wallace</Forenames>
+      <Text>, M.B., Companion, D.S.O</Text>
       <PageNumber>1144</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -190,8 +200,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. William Arthur, Companion. D.S.O</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>William Arthur</Forenames>
+      <Text>, Companion. D.S.O</Text>
       <PageNumber>20</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -205,7 +216,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Bernard</Key>
-      <Text>, Capt. and Bt. Maj. (temp. Lt.-Col.) Denis John Charles Kirwan, Companion, D.S.O</Text>
+      <Title>Capt. and Bt. Maj. (temp. Lt.-Col.)</Title>
+      <Forenames>Denis John Charles Kirwan</Forenames>
+      <Text>, Companion, D.S.O</Text>
       <PageNumber>20</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -229,21 +242,27 @@
   <ItemGroup>
     <MainItem>
       <Key>Beuttler</Key>
-      <Text>, Capt. (temp. Maj.) Valentine Oakley, Companion, D.S.O</Text>
+      <Title>Capt. (temp. Maj.)</Title>
+      <Forenames>Valen-</Forenames>
+      <Text>tine Oakley, Companion, D.S.O</Text>
       <PageNumber>20</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Beves</Key>
-      <Text>, Col. (temp. Brig.-Gen.) Percival Scott. Companion, St. Michael and St. George</Text>
+      <Title>Col. (temp. Brig.-Gen.)</Title>
+      <Forenames>Percival Scott</Forenames>
+      <Text>. Companion, St. Michael and St. George</Text>
       <PageNumber>1143</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Bewsher</Key>
-      <Text>, Maj. (temp. Lt.-Col.) William Dent, Companion, D.S.O</Text>
+      <Title>Maj. (temp. Lt.-Col.)</Title>
+      <Forenames>William Dent</Forenames>
+      <Text>, Companion, D.S.O</Text>
       <PageNumber>1596</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -273,9 +292,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Biddulph</Key>
-      <Title>Maj. and Bt.</Title>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. (temp. Lt.-Col.) Harry, Companion, D.S.O</Text>
+      <Title>Maj. and Bt. Lt.-Col. (temp. Lt.-Col.)</Title>
+      <Forenames>Harry</Forenames>
+      <Text>, Companion, D.S.O</Text>
       <PageNumber>20</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -329,8 +348,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Bland</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. and Bt. Col. (temp. Brig.-Gen.) William St. Colnm, Companion, Order of the Bath Blanev, Capt. (temp. Maj.) John Albert H., Companion, D.S.O. BlenKinsop, Col. Alfred Percy, C.B., M.R.C.S., A.M.S., Knight of Grace, St. John of Jerusalem... Bliss, Lt.-Col. (temp. Col.) Ernest William, Companion, D.S.O. ... Blount, Capt. Harold, R.M.A., Cbmpanion, D.S.O</Text>
+      <Title>Lt.-Col. and Bt. Col. (temp. Brig.-Gen.)</Title>
+      <Forenames>William St</Forenames>
+      <Text>. Colnm, Companion, Order of the Bath Blanev, Capt. (temp. Maj.) John Albert H., Companion, D.S.O. BlenKinsop, Col. Alfred Percy, C.B., M.R.C.S., A.M.S., Knight of Grace, St. John of Jerusalem... Bliss, Lt.-Col. (temp. Col.) Ernest William, Companion, D.S.O. ... Blount, Capt. Harold, R.M.A., Cbmpanion, D.S.O</Text>
       <PageNumber>46</PageNumber>
     </MainItem>
     <SubItem>

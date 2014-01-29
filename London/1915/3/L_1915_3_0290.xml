@@ -111,7 +111,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Chaplin</Key>
-      <Text>, 2nd Lieut, (temporary) Capt. James C. (relinquishes temporary rank of Capt. on alteration in posting)</Text>
+      <Text>2nd Lieut, (temporary) Capt. James C. (relinquishes temporary rank of Capt. on alteration in posting)</Text>
       <PageNumber>6417</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -241,14 +241,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Codrington</Key>
-      <Text>, Capt._ Geoffrey R. {temporary Maj.)</Text>
+      <Title>Capt.</Title>
+      <Text>_ Geoffrey R. {temporary Maj.)</Text>
       <PageNumber>8525</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Coke</Key>
-      <Text>, 2nd Lieut, the Hon. Arthur G. (absorbed into the establishment)</Text>
+      <Text>2nd Lieut, the Hon. Arthur G. (absorbed into the establishment)</Text>
       <PageNumber>8494</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -310,7 +311,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Colville</Key>
-      <Text>, Lieut.Geoffrey K. (tempo rary Capt.)</Text>
+      <Title>Lieut.</Title>
+      <Text>Geoffrey K. (tempo rary Capt.)</Text>
       <PageNumber>6551</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -364,7 +366,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Coote</Key>
-      <Text>, (temporary) Lieut. Charles G. E. (relinquishes his commission)</Text>
+      <Title>(temporary) Lieut.</Title>
+      <Forenames>Charles G. E.</Forenames>
+      <Text>(relinquishes his commission)</Text>
       <PageNumber>8964</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1017,8 +1021,19 @@
       <Text>(temporary Lieut.)</Text>
       <PageNumber>7199</PageNumber>
     </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Fasson</Key>
+      <Title>2nd Lieut.</Title>
+      <Forenames>Francis H.</Forenames>
+      <Text>(temporary Lieut.)</Text>
+      <PageNumber>8525</PageNumber>
+    </MainItem>
     <SubItem>
-      <Text>Temporary Lieut, cancelled on alteration in posting</Text>
+      <Text>
+        <PageNumber>_</PageNumber>
+      </Text>
       <PageNumber>8994</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1139,7 +1154,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fisher-Rowe</Key>
-      <Text>, 2hd Lieut. Leopold G. (temporary Lieut.)</Text>
+      <Text>2hd Lieut. Leopold G. (temporary Lieut.)</Text>
       <PageNumber>8266</PageNumber>
     </MainItem>
   </ItemGroup>

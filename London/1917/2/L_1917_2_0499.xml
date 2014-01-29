@@ -3,7 +3,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Luxton</Key>
-      <Text>.'S. G. (temp. Sub-Lt.)</Text>
+      <Text>'S. G. (temp. Sub-Lt.)</Text>
       <PageNumber>5223</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -541,7 +541,7 @@
   <ItemGroup>
     <MainItem>
       <Key>MorseG</Key>
-      <Text>. M. (temp. Lt.)</Text>
+      <Text>M. (temp. Lt.)</Text>
       <PageNumber>5363</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -734,7 +734,7 @@
       <PageNumber>3495</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Date of promn. to temp. Lt.Comdr.</Text>
+      <Text>Date of promn. to temp. Lt.Comdr</Text>
       <PageNumber>4359</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -930,7 +930,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Paton</Key>
-      <Text>, temp. Sub-Lt. J. S. (rel. appt. on acc. of wounds received in action, to retain rank)</Text>
+      <Title>temp. Sub-Lt</Title>
+      <Text>. J. S. (rel. appt. on acc. of wounds received in action, to retain rank)</Text>
       <PageNumber>6290</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1124,7 +1125,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Pratt</Key>
-      <Text>, A, (temp. Sub-Lt.)</Text>
+      <Forenames>A</Forenames>
+      <Text>, (temp. Sub-Lt.)</Text>
       <PageNumber>6411</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1353,7 +1355,16 @@
       <PageNumber>5223</PageNumber>
     </MainItem>
   </ItemGroup>
-  <KeyDitto>___ ___ ___ ___</KeyDitto>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___ ___</KeyDitto>
+      </Key>
+      <Forenames>H.</Forenames>
+      <Text>(temp. Lt.) ... -</Text>
+      <PageNumber>6049</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Roberts</Key>
@@ -1407,7 +1418,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rogers</Key>
-      <Text>,. J. T. (temp. Lt.)</Text>
+      <Text>. J. T. (temp. Lt.)</Text>
       <PageNumber>5742</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1461,6 +1472,14 @@
       <Forenames>W.</Forenames>
       <Text>(temp. Sub-Lt.)</Text>
       <PageNumber>5223</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Rowland</Key>
+      <Forenames>D. P.</Forenames>
+      <Text>(temp. Lt.)</Text>
+      <PageNumber>5099</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1652,7 +1671,15 @@
     <MainItem>
       <Key>Shepherd</Key>
       <Forenames>B. L. H.</Forenames>
-      <Text>(temp. Sub-Lt.) 4650 Sherrall, T. (temp. Asst., Payr.)</Text>
+      <Text>(temp. Sub-Lt.)</Text>
+      <PageNumber>4650</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Sherrall</Key>
+      <Forenames>T.</Forenames>
+      <Text>(temp. Asst., Payr.)</Text>
       <PageNumber>5519</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1917,7 +1944,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>M, T: (temp. Lt.)</Text>
+      <Forenames>M</Forenames>
+      <Text>, T: (temp. Lt.)</Text>
       <PageNumber>5887</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1934,7 +1962,8 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>R P. (Lt.) ... ... ..:</Text>
+      <Forenames>R</Forenames>
+      <Text>P. (Lt.) ... ... ..:</Text>
       <PageNumber>4096</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1957,7 +1986,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Spry</Key>
-      <Text>, A; E. (temp.Lt.) ... '</Text>
+      <Forenames>A</Forenames>
+      <Text>; E. (temp.Lt.) ... '</Text>
       <PageNumber>4501</PageNumber>
     </MainItem>
   </ItemGroup>

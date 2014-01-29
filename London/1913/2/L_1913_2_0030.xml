@@ -137,7 +137,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Curtis</Key>
-      <Text>, .Capt. and Hon. Maj. S. C. (resigned)</Text>
+      <Text>.Capt. and Hon. Maj. S. C. (resigned)</Text>
       <PageNumber>2982</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -327,8 +327,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dickson</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Maj. T. H. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Maj. T. H. (resigned)</Text>
       <PageNumber>3441</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -350,6 +350,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>Allen</Key>
+      <Forenames>F. J.</Forenames>
+      <Text>(2ndLieut.J</Text>
+      <PageNumber>2982</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Chandler</Key>
       <Forenames>E. A. B.</Forenames>
       <Text>(2nd Lieut.)</Text>
@@ -367,7 +375,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hatch</Key>
-      <Text>, W E. J. (Lieut.)</Text>
+      <Forenames>W</Forenames>
+      <Text>E. J. (Lieut.)</Text>
       <PageNumber>3154</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -405,7 +414,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rylett</Key>
-      <Text>, S H. (2nd Lieut.)</Text>
+      <Forenames>S</Forenames>
+      <Text>H. (2nd Lieut.)</Text>
       <PageNumber>4481</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -546,7 +556,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>4401</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -569,7 +579,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cork</Key>
-      <Text>, R P. (Capt.)</Text>
+      <Forenames>R</Forenames>
+      <Text>P. (Capt.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -818,7 +829,17 @@
       <PageNumber>4309</PageNumber>
     </MainItem>
   </ItemGroup>
-  <KeyDitto>___ ___</KeyDitto>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Title>Lieut.-Col. and Hon. Col.</Title>
+      <Forenames>C. L.</Forenames>
+      <Text>(retired)</Text>
+      <PageNumber>2366</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Beckett</Key>
@@ -847,7 +868,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bolton</Key>
-      <Text>, Lord (Hon. Col.)</Text>
+      <Title>Lord (Hon. Col.)</Title>
       <PageNumber>3917</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1074,7 +1095,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Essex</Key>
-      <Text>, Col. Earl of (retired)</Text>
+      <Title>Col. Earl</Title>
+      <Text>of (retired)</Text>
       <PageNumber>2637</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1207,7 +1229,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Harewood</Key>
-      <Text>, Col. Earl of (resigned)</Text>
+      <Title>Col. Earl</Title>
+      <Text>of (resigned)</Text>
       <PageNumber>3917</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1378,14 +1401,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Lovat</Key>
-      <Text>, Col. Lord (Hon. Col.)</Text>
+      <Title>Col. Lord (Hon. Col.)</Title>
       <PageNumber>3916</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Lowther</Key>
-      <Text>, 2nd Lieut. .C. W. (resigned)</Text>
+      <Title>2nd Lieut.</Title>
+      <Text>.C. W. (resigned)</Text>
       <PageNumber>3517</PageNumber>
     </MainItem>
   </ItemGroup>

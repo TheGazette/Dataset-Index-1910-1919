@@ -514,7 +514,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lanesborough</Key>
-      <Text>Major the Earl of, M.V.O; (temporary Lieut.-Col.)</Text>
+      <Title>Major</Title>
+      <Text>the Earl of, M.V.O; (temporary Lieut.-Col.)</Text>
       <PageNumber>371</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1073,7 +1074,15 @@
     <MainItem>
       <Key>Gladstone</Key>
       <Forenames>Robert Phillot</Forenames>
-      <Text>(temporary Lieut.) ibid. » Goddard, Frederick Bedloe (2nd Lieut.)</Text>
+      <Text>(temporary Lieut.)</Text>
+      <PageNumber>ibid.</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Goddard</Key>
+      <Forenames>Frederick Bedloe</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>1683</PageNumber>
     </MainItem>
   </ItemGroup>

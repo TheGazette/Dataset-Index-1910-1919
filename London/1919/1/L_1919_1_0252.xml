@@ -165,16 +165,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Biddell</Key>
-      <Text>, Miss, Member, Order of Mercy</Text>
+      <Title>Miss</Title>
+      <Text>, Member, Order of Mercy</Text>
       <PageNumber>197</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Biddulph</Key>
-      <Title>Maj. and Bt.</Title>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. (T./Brig.-Gen.) Harry, D.S.O., Companion, St. Michael and St. George</Text>
+      <Title>Maj. and Bt. Lt.-Col. (T./Brig.-Gen.)</Title>
+      <Forenames>Harry</Forenames>
+      <Text>, D.S.O., Companion, St. Michael and St. George</Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -183,8 +184,9 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Michael, Officer.Order of the British Empire</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Michael</Forenames>
+      <Text>, Officer.Order of the British Empire</Text>
       <PageNumber>74</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -216,14 +218,18 @@
   <ItemGroup>
     <MainItem>
       <Key>Bingay</Key>
-      <Text>, Maj. (A./Lt.-Col.) Hubert Lyle, Companion, D.S.O</Text>
+      <Title>Maj. (A./Lt.-Col.)</Title>
+      <Forenames>Hubert Lyle</Forenames>
+      <Text>, Companion, D.S.O</Text>
       <PageNumber>18</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Bingham</Key>
-      <Text>, Maj. (T./Lt. Col.) Charles Henry Marion, D.S.O., Companion, St. Michael and St. George</Text>
+      <Title>Maj. (T./Lt. Col.)</Title>
+      <Forenames>Charles Henry Marion</Forenames>
+      <Text>, D.S.O., Companion, St. Michael and St. George</Text>
       <PageNumber>64</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -295,7 +301,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Birch</Key>
-      <Text>, .T./Maj. Alfred Granville, Officer, Order of the British Empire</Text>
+      <Text>.T./Maj. Alfred Granville, Officer, Order of the British Empire</Text>
       <PageNumber>74</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -304,8 +310,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Comdr. Frank, Officer, Ordei of the British Empire</Text>
+      <Title>Lt.</Title>
+      <Text>-Comdr. Frank, Officer, Ordei of the British Empire</Text>
       <PageNumber>111</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -326,8 +332,9 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>. (A./Maj.) George Russell, Officer, Order of the British Empire</Text>
+      <Title>Lt. (A./Maj.)</Title>
+      <Forenames>George Russell</Forenames>
+      <Text>, Officer, Order of the British Empire</Text>
       <PageNumber>12</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -373,8 +380,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Birks</Key>
-      <Forenames>Lt</Forenames>
-      <Text>. (A./Capt.) Falconer Moffat, Officer, Order of the British Empire</Text>
+      <Title>Lt. (A./Capt.)</Title>
+      <Forenames>Falconer Moffat</Forenames>
+      <Text>, Officer, Order of the British Empire</Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -414,7 +422,21 @@
       <PageNumber>85</PageNumber>
     </MainItem>
   </ItemGroup>
-  <KeyDitto>___ ___ ___ ___</KeyDitto>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___ ___</KeyDitto>
+      </Key>
+      <Title>Mrs.</Title>
+      <Forenames>Pearl Hall</Forenames>
+      <Text>, Officer, Order the British Empire</Text>
+      <PageNumber>453</PageNumber>
+    </MainItem>
+    <SubItem>
+      <Text>: Date</Text>
+      <PageNumber>2855</PageNumber>
+    </SubItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Bissett</Key>
@@ -452,8 +474,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Paymr</Forenames>
-      <Text>. Sub-Lt. Alfred Stephen, Member, Order of the British Empire</Text>
+      <Title>Paymr. Sub-Lt</Title>
+      <Text>. Alfred Stephen, Member, Order of the British Empire</Text>
       <PageNumber>113</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -526,8 +548,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Blackburn</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Charles Bickerton, Officer, of the British . Empire</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Charles Bicker-</Forenames>
+      <Text>ton, Officer, of the British . Empire</Text>
       <PageNumber>54</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -584,8 +607,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Blackwood</Key>
-      <Forenames>It</Forenames>
-      <Text>. (T./Capt.) Noel Pinkstan O'Reilly, Member, Order of the British Empire</Text>
+      <Title>It. (T./Capt.)</Title>
+      <Forenames>Noel Pinkstan O</Forenames>
+      <Text>'Reilly, Member, Order of the British Empire</Text>
       <PageNumber>2995</PageNumber>
     </MainItem>
   </ItemGroup>

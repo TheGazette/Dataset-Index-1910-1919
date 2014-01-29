@@ -220,7 +220,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dawes</Key>
-      <Text>, {temporary) Lieut. Arthur J. (Adjt.)</Text>
+      <Text>{temporary) Lieut. Arthur J. (Adjt.)</Text>
       <PageNumber>8360</PageNumber>
     </MainItem>
     <SubItem>
@@ -350,7 +350,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Gower</Key>
-      <Text>, (temporary) 2nd Lieut. Lawford Charles (relinquishes his commission)</Text>
+      <Title>(temporary) 2nd Lieut.</Title>
+      <Forenames>Lawford Charles</Forenames>
+      <Text>(relinquishes his commission)</Text>
       <PageNumber>7059</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -426,7 +428,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Hamer</Key>
-      <Text>, (temporary) 2nd Lieut. Thomas P. (correction)</Text>
+      <Title>(temporary) 2nd Lieut.</Title>
+      <Forenames>Thomas P.</Forenames>
+      <Text>(correction)</Text>
       <PageNumber>6672</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -848,7 +852,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>(temporary) Capt. Thomas H. (Adjt.)</Text>
+      <Title>(temporary) Capt.</Title>
+      <Forenames>Thomas H.</Forenames>
+      <Text>(Adjt.)</Text>
       <PageNumber>8832</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -915,6 +921,19 @@
       <Text>(temporary Lieut.)</Text>
       <PageNumber>8111</PageNumber>
     </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Phillips</Key>
+      <Title>(temporary) 2nd Lieut.</Title>
+      <Forenames>Charles D.</Forenames>
+      <Text>(Adjt.)</Text>
+      <PageNumber>8627</PageNumber>
+    </MainItem>
+    <SubItem>
+      <Text>' Temporary Capt</Text>
+      <PageNumber>6549</PageNumber>
+    </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
@@ -1027,7 +1046,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Reed</Key>
-      <Text>, 'Charles Napier (temporary 2nd Lieut.)</Text>
+      <Text>'Charles Napier (temporary 2nd Lieut.)</Text>
       <PageNumber>7161</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1158,7 +1177,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(temporary) Lieut. J. N. (temporary 2nd , Lieut., antedated)</Text>
+      <Title>(temporary) Lieut.</Title>
+      <Forenames>J. N.</Forenames>
+      <Text>(temporary 2nd , Lieut., antedated)</Text>
       <PageNumber>7986</PageNumber>
     </MainItem>
     <SubItem>

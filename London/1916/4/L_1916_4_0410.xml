@@ -195,7 +195,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Macintyre</Key>
-      <Text>, D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>11984</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -246,7 +246,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hammick</Key>
-      <Text>, E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>11745</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -349,7 +349,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Barker</Key>
-      <Text>, D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>11981</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -426,7 +426,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Olemence</Key>
-      <Text>, S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>11981</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -643,7 +643,7 @@
       <Key>
         <KeyDitto>___ ——</KeyDitto>
       </Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>11980</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -679,7 +679,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Moorhead</Key>
-      <Text>. H. D</Text>
+      <Forenames>H. D</Forenames>
       <PageNumber>11981</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -693,7 +693,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mull</Key>
-      <Text>, A H</Text>
+      <Forenames>A</Forenames>
+      <Text>H</Text>
       <PageNumber>982</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -844,7 +845,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Roper</Key>
-      <Text>, R, B</Text>
+      <Forenames>R</Forenames>
+      <Text>, B</Text>
       <PageNumber>11981</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -859,14 +861,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Ruffell</Key>
-      <Text>, B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>11980</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Saunders</Key>
-      <Text>, C: W</Text>
+      <Forenames>C</Forenames>
+      <Text>: W</Text>
       <PageNumber>11981</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -930,7 +933,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Tipping</Key>
-      <Text>, R, P. M</Text>
+      <Forenames>R</Forenames>
+      <Text>, P. M</Text>
       <PageNumber>11982</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -951,7 +955,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Vaughan-Jones</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>11981</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1121,8 +1125,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Burton</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. R. W</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>R. W</Forenames>
       <PageNumber>11170</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1130,7 +1134,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Abercrombie</Key>
-      <Text>, 2nd Lt. J. R. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>J. R.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>11746</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1145,7 +1151,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Alderman</Key>
-      <Text>, 2hd Lt. R. E. (Capt.)</Text>
+      <Text>2hd Lt. R. E. (Capt.)</Text>
       <PageNumber>11980</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1188,35 +1194,43 @@
   <ItemGroup>
     <MainItem>
       <Key>Armitage</Key>
-      <Text>, 2hd Lt. K. L. F. (correction)</Text>
+      <Text>2hd Lt. K. L. F. (correction)</Text>
       <PageNumber>11746</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Arnott</Key>
-      <Text>, 2nd Lt. H. W. (ret.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>H. W.</Forenames>
+      <Text>(ret.)</Text>
       <PageNumber>12352</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Ashforth</Key>
-      <Text>, 2nd Lt. I. J. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>I. J.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>12351</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Ashley-Smith</Key>
-      <Text>, 2nd Lt. R. (2nd Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>R.</Forenames>
+      <Text>(2nd Lt.)</Text>
       <PageNumber>11983</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Ashton</Key>
-      <Text>, 2nd Lt. G. R. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>G. R.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>11746</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1335,7 +1349,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Belcher</Key>
-      <Text>, 2nd Lt. C. W. (transfd from Infantry to Cavalry)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>C. W.</Forenames>
+      <Text>(transfd from Infantry to Cavalry)</Text>
       <PageNumber>11748</PageNumber>
     </MainItem>
     <SubItem>
@@ -1461,7 +1477,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bland</Key>
-      <Text>, 2nd Lt. A. E. G</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>A. E. G.</Forenames>
       <PageNumber>11747</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1484,7 +1501,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Boileau</Key>
-      <Text>, 2nd. Lt. W. L. S. (resignation)</Text>
+      <Text>2nd. Lt. W. L. S. (resignation)</Text>
       <PageNumber>12352</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1534,7 +1551,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(temp.)-Mai. P. B</Text>
+      <Title>(temp.)</Title>
+      <Text>-Mai. P. B</Text>
       <PageNumber>11980</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1557,7 +1575,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brierley</Key>
-      <Text>, 2nd Lt. (Lt.)</Text>
+      <Title>2nd Lt. (Lt.)</Title>
       <PageNumber>11745</PageNumber>
     </MainItem>
   </ItemGroup>

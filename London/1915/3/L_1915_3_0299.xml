@@ -77,7 +77,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Jones</Key>
-      <Text>, ^£°rary) Capt. T. *\TM (antedated)</Text>
+      <Text>^£°rary) Capt. T. *\TM (antedated)</Text>
       <PageNumber>6967</PageNumber>
     </MainItem>
     <SubItem>
@@ -87,8 +87,21 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>McGregor</Key>
+      <Forenames>M</Forenames>
+      <Text>(temporary 2nd Lieut) ...... „</Text>
+      <PageNumber>9056</PageNumber>
+    </MainItem>
+    <SubItem>
+      <Text>; Temporary Lieut</Text>
+      <PageNumber>9290</PageNumber>
+    </SubItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Megaffln</Key>
-      <Text>, Lieut.' I). W. (temporary Capt.) .f</Text>
+      <Title>Lieut.</Title>
+      <Text>' I). W. (temporary Capt.) .f</Text>
       <PageNumber>8263</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -153,7 +166,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Wright</Key>
-      <Text>, (temporary) Capt. G. C. (antedated) '</Text>
+      <Title>(temporary) Capt.</Title>
+      <Forenames>G. C.</Forenames>
+      <Text>(antedated) '</Text>
       <PageNumber>6967</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -217,8 +232,17 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>Page</Key>
+      <Text>. Lieut. L. F. (temporary Capt.)</Text>
+      <PageNumber>7061</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Thornton</Key>
-      <Text>, (temporary) Capt. E. . (antedated)</Text>
+      <Title>(temporary) Capt.</Title>
+      <Forenames>E.</Forenames>
+      <Text>. (antedated)</Text>
       <PageNumber>6967</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -259,7 +283,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Cooper</Key>
-      <Text>, (temporary) Maj. R. C. (antedated)</Text>
+      <Title>(temporary) Maj.</Title>
+      <Forenames>R. C.</Forenames>
+      <Text>(antedated)</Text>
       <PageNumber>6967</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -293,8 +319,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Loughtoi</Key>
-      <Text>:. A. H. (temporary Lieut.) 8023 : *fclllree, J. It. (temporary Lieut.)</Text>
-      <PageNumber>8243</PageNumber>
+      <Text>:. A. H. (temporary Lieut.)</Text>
+      <PageNumber>8023</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -319,21 +345,22 @@
       <Key>
         <KeyDitto>_</KeyDitto>
       </Key>
-      <Text>Temporary Lieut</Text>
+      <Title>Temporary Lieut.</Title>
       <PageNumber>9632</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Odium</Key>
-      <Text>, (temporary) Lieut.-Col V. W. (antedated*)</Text>
+      <Title>(temporary) Lieut.</Title>
+      <Text>-Col V. W. (antedated*)</Text>
       <PageNumber>6967</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Owen</Key>
-      <Text>, II. H. (temporary Lieut.)</Text>
+      <Text>II. H. (temporary Lieut.)</Text>
       <PageNumber>8004</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -524,7 +551,8 @@
   <ItemGroup>
     <MainItem>
       <Key>I</Key>
-      <Text>Lieut.) 12/A Rextrre Canadian Infantry Battalion. j Good, John James (temporary Qrmr. and Hon. Lieut.)</Text>
+      <Title>Lieut.</Title>
+      <Text>) 12/A Rextrre Canadian Infantry Battalion. j Good, John James (temporary Qrmr. and Hon. Lieut.)</Text>
       <PageNumber>8815</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -535,6 +563,10 @@
       <Text>(temporary 2nd Lieut.) S</Text>
       <PageNumber>057</PageNumber>
     </MainItem>
+    <SubItem>
+      <Text>Temporarj' Lieut</Text>
+      <PageNumber>9280</PageNumber>
+    </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
@@ -628,7 +660,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Maxwell</Key>
-      <Text>, (temporary) Lieut. C. M. (correction)</Text>
+      <Title>(temporary) Lieut.</Title>
+      <Forenames>C. M.</Forenames>
+      <Text>(correction)</Text>
       <PageNumber>8023</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -653,7 +687,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Rowan</Key>
-      <Text>, (temporary) Lieut. F. J. (correction)</Text>
+      <Title>(temporary) Lieut.</Title>
+      <Forenames>F. J.</Forenames>
+      <Text>(correction)</Text>
       <PageNumber>6707</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -668,7 +704,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Simpson</Key>
-      <Text>, (temporary) Lieut. G. W. R. (correction)</Text>
+      <Title>(temporary) Lieut.</Title>
+      <Forenames>G. W. R.</Forenames>
+      <Text>(correction)</Text>
       <PageNumber>8023</PageNumber>
     </MainItem>
   </ItemGroup>

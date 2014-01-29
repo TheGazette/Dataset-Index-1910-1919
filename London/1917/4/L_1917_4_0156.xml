@@ -23,7 +23,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Higgs</Key>
-      <Text>, 'Miss Alice Marion, Royal Red Cross, 2nd CI</Text>
+      <Text>'Miss Alice Marion, Royal Red Cross, 2nd CI</Text>
       <PageNumber>10979</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -41,7 +41,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>2nd CI</Text>
+      <Title>2nd CI.</Title>
       <PageNumber>10979</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -50,7 +50,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>2nd CI</Text>
+      <Title>2nd CI</Title>
       <PageNumber>10979</PageNumber>
     </MainItem>
     <SubItem>
@@ -61,14 +61,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Hilling</Key>
-      <Text>, Miss 'Sophia, Royai Red Cross, 2nd CI</Text>
+      <Title>Miss</Title>
+      <Text>'Sophia, Royai Red Cross, 2nd CI</Text>
       <PageNumber>10979</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hilton</Key>
-      <Text>, Miss 'Isabella, Royal Red Cross, 2nd CI</Text>
+      <Title>Miss</Title>
+      <Text>'Isabella, Royal Red Cross, 2nd CI</Text>
       <PageNumber>10979</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -93,7 +95,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Hobbins</Key>
-      <Text>, Capt. (actg. Lt.-Col.) Wilfred Alston, Companion D.S.O</Text>
+      <Title>Capt. (actg. Lt.-Col.)</Title>
+      <Forenames>Wilfred Alston</Forenames>
+      <Text>, Companion D.S.O</Text>
       <PageNumber>12316</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -371,7 +375,9 @@
       <Key>
         <KeyDitto>___ ___ .</KeyDitto>
       </Key>
-      <Text>Maj. (temp. Lt.-Col.) Frederick Fraser, Companion, D.S.O</Text>
+      <Title>Maj. (temp. Lt.-Col.)</Title>
+      <Forenames>Frede-</Forenames>
+      <Text>rick Fraser, Companion, D.S.O</Text>
       <PageNumber>10679</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -380,8 +386,8 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Forenames>Fit</Forenames>
-      <Text>. Sub-Lt. John Ellis Langford, Companion, D.S.O</Text>
+      <Title>Fit. Sub-Lt</Title>
+      <Text>. John Ellis Langford, Companion, D.S.O</Text>
       <PageNumber>12548</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -472,7 +478,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Hyderabad</Key>
-      <Text>, Hon. Col., H.H. Nawab Mir Sir Usman, G.C.S.I., Knight Grand Cross, Order of the British Empire</Text>
+      <Title>Hon. Col., H.H.</Title>
+      <Forenames>Nawab Mir</Forenames>
+      <Text>Sir Usman, G.C.S.I., Knight Grand Cross, Order of the British Empire</Text>
       <PageNumber>12680</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -525,7 +533,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>2nd Lt. (act. Capt.) Dennys Brian Marriott, Companion, D.S.O</Text>
+      <Title>2nd Lt. (act. Capt.)</Title>
+      <Forenames>Dennys Brian Marriott</Forenames>
+      <Text>, Companion, D.S.O</Text>
       <PageNumber>11950</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -576,7 +586,9 @@
   <ItemGroup>
     <MainItem>
       <Key>James</Key>
-      <Text>, Maj. (temp. Lt.-Col.) Cecil Polglase, D.S.O., Bar to D.S.O</Text>
+      <Title>Maj. (temp. Lt.-Col.)</Title>
+      <Forenames>Cecil Polglase</Forenames>
+      <Text>, D.S.O., Bar to D.S.O</Text>
       <PageNumber>12315</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -603,9 +615,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Jarvis</Key>
-      <Title>temp.</Title>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Talbot McLeavy, D.S.O., Bar to D.S.O</Text>
+      <Title>temp. Lt.-Col.</Title>
+      <Forenames>Talbot McLeavy</Forenames>
+      <Text>, D.S.O., Bar to D.S.O</Text>
       <PageNumber>11949</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -667,7 +679,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Je</Key>
-      <Text>.nner, Miss Kate Royal Red Cross, 2nd CI</Text>
+      <Text>nner, Miss Kate Royal Red Cross, 2nd CI</Text>
       <PageNumber>10979</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -692,8 +704,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Johnson</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Cdr. Bernard Leitch, Companion, D.S.O</Text>
+      <Title>Lt.</Title>
+      <Text>-Cdr. Bernard Leitch, Companion, D.S.O</Text>
       <PageNumber>11317</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -702,14 +714,17 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>Mr,3. Marv, Royal Red Cross, 2nd CI</Text>
+      <Title>Mr</Title>
+      <Text>,3. Marv, Royal Red Cross, 2nd CI</Text>
       <PageNumber>10979</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Johnston</Key>
-      <Text>, temp. 2nd Lt. Howard .Richmond, Companion, D.S.O</Text>
+      <Title>temp. 2nd Lt. Howard .</Title>
+      <Forenames>Richmond</Forenames>
+      <Text>, Companion, D.S.O</Text>
       <PageNumber>12316</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -738,7 +753,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Johnstone</Key>
-      <Text>, Maj. (A. /Lt.-Col.) Bede, Companion, D.S.O</Text>
+      <Title>Maj. (A. /Lt.-Col.)</Title>
+      <Forenames>Bede</Forenames>
+      <Text>, Companion, D.S.O</Text>
       <PageNumber>13180</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -789,7 +806,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>Maj. (A./Lt.-Col.) Louis Elgin, Companion, D.S.O</Text>
+      <Title>Maj. (A./Lt.-Col.)</Title>
+      <Forenames>Louis Elgin</Forenames>
+      <Text>, Companion, D.S.O</Text>
       <PageNumber>10706</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -818,7 +837,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Jordan</Key>
-      <Text>, M&gt;s. Alice, Royal Red Cross, 2nd CI</Text>
+      <Forenames>M</Forenames>
+      <Text>&gt;s. Alice, Royal Red Cross, 2nd CI</Text>
       <PageNumber>10973</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -955,9 +975,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Title>temp.</Title>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Henry John, Companion, D.S.O</Text>
+      <Title>temp. Lt.-Col.</Title>
+      <Forenames>Henry John</Forenames>
+      <Text>, Companion, D.S.O</Text>
       <PageNumber>12316</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1094,7 +1114,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Lacon</Key>
-      <Text>, Capt. (actg. Lt.-Col.) Sir George Haworth Trssher, Bt., Companion, D.S.O</Text>
+      <Title>Capt. (actg. Lt.-Col.) Sir</Title>
+      <Forenames>George Haworth Trssher</Forenames>
+      <Text>, Bt., Companion, D.S.O</Text>
       <PageNumber>12316</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1127,7 +1149,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Laithwaite</Key>
-      <Text>, 2nd Lt. Allan, Companion, D.S.O</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>Allan</Forenames>
+      <Text>, Companion, D.S.O</Text>
       <PageNumber>13180</PageNumber>
     </MainItem>
   </ItemGroup>

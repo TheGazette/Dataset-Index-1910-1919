@@ -294,7 +294,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hale</Key>
-      <Text>, .Edward (temporary 2nd Lieut.)</Text>
+      <Text>.Edward (temporary 2nd Lieut.)</Text>
       <PageNumber>8256</PageNumber>
     </MainItem>
     <SubItem>
@@ -369,10 +369,11 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>(tempoFrederic Grainger</Text>
-      <PageNumber>9022</PageNumber>
     </MainItem>
   </ItemGroup>
+  <Title>
+    <PageNumber>9022</PageNumber>
+  </Title>
   <ItemGroup>
     <MainItem>
       <Key>
@@ -1184,7 +1185,9 @@
       <Key>
         <KeyDitto>___ ___ -</KeyDitto>
       </Key>
-      <Text>(temporary) 2nd Lieut. John Watson (relinquishes his temporary commission)</Text>
+      <Title>(temporary) 2nd Lieut.</Title>
+      <Forenames>John Watson</Forenames>
+      <Text>(relinquishes his temporary commission)</Text>
       <PageNumber>8849</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -239,7 +239,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Sinclair</Key>
-      <Text>Lieut. (Prov. Capt.) James C. (resigned)</Text>
+      <Title>Lieut. (Prov. Capt.)</Title>
+      <Forenames>James C.</Forenames>
+      <Text>(resigned)</Text>
       <PageNumber>3668</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -367,8 +369,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Parish</Key>
-      <Title>Rev.</Title>
-      <Forenames>Canon William O.</Forenames>
+      <Title>Rev. Canon</Title>
+      <Forenames>William O.</Forenames>
       <Text>, M.A</Text>
       <PageNumber>4619</PageNumber>
     </MainItem>
@@ -385,8 +387,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Spencer</Key>
-      <Title>Rev.</Title>
-      <Forenames>Canon Arthur J.</Forenames>
+      <Title>Rev. Canon</Title>
+      <Forenames>Arthur J.</Forenames>
       <Text>, M.A</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
@@ -420,8 +422,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Goldie</Key>
-      <Forenames>The</Forenames>
-      <Text>Rev. William McL</Text>
+      <Title>The Rev.</Title>
+      <Forenames>William</Forenames>
+      <Text>McL</Text>
       <PageNumber>2885</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -466,16 +469,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Armistead</Key>
-      <Forenames>The</Forenames>
-      <Text>Rev. John Hornby, M.A</Text>
+      <Title>The Rev.</Title>
+      <Forenames>John Hornby</Forenames>
+      <Text>, M.A</Text>
       <PageNumber>3006</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Battiscombe</Key>
-      <Forenames>The</Forenames>
-      <Text>Rev. George Christopher</Text>
+      <Title>The Rev.</Title>
+      <Forenames>George Christopher</Forenames>
       <PageNumber>3300</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -509,8 +513,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Clayton</Key>
-      <Forenames>The</Forenames>
-      <Text>Rev. Arthur P., M.A</Text>
+      <Title>The Rev.</Title>
+      <Forenames>Arthur P.</Forenames>
+      <Text>, M.A</Text>
       <PageNumber>3474</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -526,8 +531,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dale-Roberts</Key>
-      <Title>Rev.</Title>
-      <Forenames>Canon Edward</Forenames>
+      <Title>Rev. Canon</Title>
+      <Forenames>Edward</Forenames>
       <Text>, M.A. (resigned)</Text>
       <PageNumber>3762</PageNumber>
     </MainItem>
@@ -544,8 +549,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Fleming</Key>
-      <Forenames>The</Forenames>
-      <Text>Rev. Hugh R. (resigned)</Text>
+      <Title>The Rev.</Title>
+      <Forenames>Hugh R.</Forenames>
+      <Text>(resigned)</Text>
       <PageNumber>3300</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -569,8 +575,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Harte</Key>
-      <Forenames>The</Forenames>
-      <Text>Rev. Joseph Brooke, M.A. (resigned)</Text>
+      <Title>The Rev.</Title>
+      <Forenames>Joseph Brooke</Forenames>
+      <Text>, M.A. (resigned)</Text>
       <PageNumber>2885</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -586,16 +593,18 @@
   <ItemGroup>
     <MainItem>
       <Key>Kendall</Key>
-      <Forenames>The</Forenames>
-      <Text>Rev. John Francis, M.A</Text>
+      <Title>The Rev.</Title>
+      <Forenames>John Francis</Forenames>
+      <Text>, M.A</Text>
       <PageNumber>2885</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Kerby</Key>
-      <Forenames>The</Forenames>
-      <Text>Rev. Edwin Thomas, M.A</Text>
+      <Title>The Rev.</Title>
+      <Forenames>Edwin Thomas</Forenames>
+      <Text>, M.A</Text>
       <PageNumber>3474</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -611,8 +620,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Leathern</Key>
-      <Forenames>The</Forenames>
-      <Text>Rev. William Harvey, M.A</Text>
+      <Title>The Rev.</Title>
+      <Forenames>William Harvey</Forenames>
+      <Text>, M.A</Text>
       <PageNumber>3474</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -949,6 +959,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>Walker</Key>
+      <Forenames>Hugh S.</Forenames>
+      <Text>(Lieut.)</Text>
+      <PageNumber>4805</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Watts</Key>
       <Forenames>Henry L.</Forenames>
       <Text>(Lieut.)</Text>
@@ -1098,7 +1116,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(seconded)</Text>
+      <Title>(seconded)</Title>
       <PageNumber>4011</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1115,6 +1133,13 @@
       <Forenames>Edgar Lisle Hubert Bruce</Forenames>
       <Text>(2nd Lieut.) ,</Text>
       <PageNumber>3840</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Henderson</Key>
+      <Text>-Harry D. (Lieut.Col.)</Text>
+      <PageNumber>3005</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1172,6 +1197,14 @@
       <Forenames>John</Forenames>
       <Text>McGregor Henry (2nd Lieut.)</Text>
       <PageNumber>4454</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Maxwell</Key>
+      <Forenames>Supernumerary</Forenames>
+      <Text>2nd Lieut. William (absorbed into the establishment)</Text>
+      <PageNumber>3475</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

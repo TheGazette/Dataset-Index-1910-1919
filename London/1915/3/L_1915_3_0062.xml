@@ -149,7 +149,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Pinion</Key>
-      <Text>, (temporary) Lieut. Stanley, M.B. (antedated) '</Text>
+      <Title>(temporary) Lieut.</Title>
+      <Forenames>Stanley</Forenames>
+      <Text>, M.B. (antedated) '</Text>
       <PageNumber>8110</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -213,7 +215,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Popei</Key>
-      <Text>, ' Lieut. Frederick Samuel,</Text>
+      <Text>' Lieut. Frederick Samuel,</Text>
       <PageNumber>8165</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -222,10 +224,11 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>(temporary Herdman, M.B</Text>
-      <PageNumber>9053</PageNumber>
     </MainItem>
   </ItemGroup>
+  <Title>
+    <PageNumber>9053</PageNumber>
+  </Title>
   <ItemGroup>
     <MainItem>
       <Key>
@@ -486,7 +489,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Raeburn</Key>
-      <Text>, (temporary) Lieut. James A., M.D. (relinquishes his commission)</Text>
+      <Title>(temporary) Lieut.</Title>
+      <Forenames>James A.</Forenames>
+      <Text>, M.D. (relinquishes his commission)</Text>
       <PageNumber>9052</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -551,7 +556,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rawlinson</Key>
-      <Text>,' Frederick Juland, F.R.C.S. (temporary Lieut.)</Text>
+      <Text>' Frederick Juland, F.R.C.S. (temporary Lieut.)</Text>
       <PageNumber>6805</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -735,7 +740,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rigby</Key>
-      <Text>, (temporary) Lieut. Richard</Text>
+      <Title>(temporary) Lieut.</Title>
+      <Forenames>Richard</Forenames>
       <PageNumber>6836</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -910,7 +916,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>(temporary) Lieut. Henry, M.D. (relinquishes his commission)</Text>
+      <Title>(temporary) Lieut.</Title>
+      <Forenames>Henry</Forenames>
+      <Text>, M.D. (relinquishes his commission)</Text>
       <PageNumber>8718</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -980,8 +988,18 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>Roome</Key>
+      <Forenames>Alfred Martin</Forenames>
+      <Text>(temporary Lieut.)</Text>
+      <PageNumber>6835</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Rose</Key>
-      <Text>, (temporary) Qrmr. and Hon. Lieut. George (relinquishes his commission)</Text>
+      <Title>(temporary) Qrmr. and Hon. Lieut.</Title>
+      <Forenames>George</Forenames>
+      <Text>(relinquishes his commission)</Text>
       <PageNumber>8001</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1060,7 +1078,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Rowlands</Key>
-      <Text>, (temporary) Lieut. Moses J., M.D. (relinquishes his commission) ;</Text>
+      <Title>(temporary) Lieut.</Title>
+      <Forenames>Moses J.</Forenames>
+      <Text>, M.D. (relinquishes his commission) ;</Text>
       <PageNumber>9300</PageNumber>
     </MainItem>
   </ItemGroup>

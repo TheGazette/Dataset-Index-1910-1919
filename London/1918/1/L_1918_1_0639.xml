@@ -344,7 +344,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Shiel</Key>
-      <Text>, CP. (actg. Lt.-Cdr.)</Text>
+      <Text>CP. (actg. Lt.-Cdr.)</Text>
       <PageNumber>91</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -458,7 +458,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Spilleitit</Key>
-      <Text>, IS. IB. (temp. Sulb-ILt.)</Text>
+      <Text>IS. IB. (temp. Sulb-ILt.)</Text>
       <PageNumber>3920</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -529,7 +529,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stokes</Key>
-      <Text>, IS. N. (temp. Sub-Lit.)</Text>
+      <Text>IS. N. (temp. Sub-Lit.)</Text>
       <PageNumber>1836</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -552,7 +552,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stuart</Key>
-      <Text>,, C. E., R.D. (Cdr.)</Text>
+      <Text>, C. E., R.D. (Cdr.)</Text>
       <PageNumber>90</PageNumber>
     </MainItem>
     <SubItem>
@@ -577,7 +577,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Surttees</Key>
-      <Text>, iH. (temp. Eng. lit.)</Text>
+      <Text>iH. (temp. Eng. lit.)</Text>
       <PageNumber>278</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -625,7 +625,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Taylor</Key>
-      <Text>, ,L. H. (temp. Eng. Sub-Li.)</Text>
+      <Text>,L. H. (temp. Eng. Sub-Li.)</Text>
       <PageNumber>1230</PageNumber>
     </MainItem>
     <SubItem>
@@ -807,7 +807,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tully</Key>
-      <Text>, -H. A. (temp. ILt.) ... '</Text>
+      <Text>-H. A. (temp. ILt.) ... '</Text>
       <PageNumber>277</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1103,6 +1103,10 @@
       <PageNumber>1836</PageNumber>
     </MainItem>
     <SubItem>
+      <Text>E. B. (temp. Eng. Lt.)</Text>
+      <PageNumber>2783</PageNumber>
+    </SubItem>
+    <SubItem>
       <Text>G. F. (temp. Sub-Lt.)</Text>
       <PageNumber>2485</PageNumber>
     </SubItem>
@@ -1170,7 +1174,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Woodhead</Key>
-      <Text>, F, (temp. Lt.)</Text>
+      <Forenames>F</Forenames>
+      <Text>, (temp. Lt.)</Text>
       <PageNumber>2071</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1250,8 +1255,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brooks</Key>
-      <Title>Lt. Cdr.</Title>
-      <Forenames>Cecil</Forenames>
+      <Title>Lt. Cdr. Cecil .</Title>
       <PageNumber>3326</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1274,8 +1278,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cross</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Cdr. Frederick C</Text>
+      <Title>Lt.</Title>
+      <Text>-Cdr. Frederick C</Text>
       <PageNumber>735</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1306,17 +1310,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Harrison</Key>
-      <Title>Lt.</Title>
-      <Forenames>Cdr</Forenames>
-      <Text>. (actg. Cdr.) Reginald R</Text>
+      <Title>Lt. Cdr. (actg. Cdr.)</Title>
+      <Forenames>Regi-</Forenames>
+      <Text>nald R</Text>
       <PageNumber>3326</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Lee</Key>
-      <Forenames>Cdr</Forenames>
-      <Text>., ret., Charles A</Text>
+      <Title>Cdr.</Title>
+      <Text>, ret., Charles A</Text>
       <PageNumber>735</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1348,7 +1352,7 @@
   <ItemGroup>
     <MainItem>
       <Key>ReHph</Key>
-      <Text>, .Eng. Lit.-Gdr. William</Text>
+      <Text>.Eng. Lit.-Gdr. William</Text>
       <PageNumber>3326</PageNumber>
     </MainItem>
   </ItemGroup>

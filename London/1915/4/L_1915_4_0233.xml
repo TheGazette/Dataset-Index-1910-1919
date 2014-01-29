@@ -46,6 +46,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>Bowman</Key>
+      <Forenames>F.</Forenames>
+      <Text>, B.A., B.Sc. (temp.)</Text>
+      <PageNumber>13024</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Chappell</Key>
       <Forenames>E.</Forenames>
       <Text>, B.Sc., A.M.I.C.E. j (temp.)</Text>
@@ -242,7 +250,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Carlisle</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>11592</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -376,7 +384,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Caldwell-Smith</Key>
-      <Text>E L. (.temp.)</Text>
+      <Forenames>E</Forenames>
+      <Text>L. (.temp.)</Text>
       <PageNumber>10762</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -833,14 +842,18 @@
   <ItemGroup>
     <MainItem>
       <Key>Barnes</Key>
-      <Text>(temp.) 2nd Lt. H. C. (temp, commission terminated)</Text>
+      <Title>(temp.) 2nd Lt.</Title>
+      <Forenames>H. C.</Forenames>
+      <Text>(temp, commission terminated)</Text>
       <PageNumber>12838</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Bassett</Key>
-      <Text>2nd Lt. S. J. (temp. Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>S. J.</Forenames>
+      <Text>(temp. Lt.)</Text>
       <PageNumber>12683</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -887,7 +900,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Blunt</Key>
-      <Text>2nd Lt. C. H. W. (temp. Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>C. H. W.</Forenames>
+      <Text>(temp. Lt.)</Text>
       <PageNumber>12920</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1062,7 +1077,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dodgson</Key>
-      <Text>R, C. F. (temp. 2nd Lt.)</Text>
+      <Forenames>R</Forenames>
+      <Text>, C. F. (temp. 2nd Lt.)</Text>
       <PageNumber>11757</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1147,7 +1163,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Ooodden</Key>
-      <Text>(temp.) Lt. C. P. (relinquishes temp, rank of Capt.)</Text>
+      <Title>(temp.) Lt.</Title>
+      <Forenames>C. P.</Forenames>
+      <Text>(relinquishes temp, rank of Capt.)</Text>
       <PageNumber>10649</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1172,7 +1190,9 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ .</KeyDitto>
       </Key>
-      <Text>(temp.) 2nd Lt. R. G. R. (resigned)</Text>
+      <Title>(temp.) 2nd Lt.</Title>
+      <Forenames>R. G. R.</Forenames>
+      <Text>(resigned)</Text>
       <PageNumber>10022</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1187,7 +1207,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Henderson</Key>
-      <Text>(temp.) 2nd Lt. R. F. (temp, commission terminated to admit of his accepting a commission in the Army)</Text>
+      <Title>(temp.) 2nd Lt.</Title>
+      <Forenames>R. F.</Forenames>
+      <Text>(temp, commission terminated to admit of his accepting a commission in the Army)</Text>
       <PageNumber>12441</PageNumber>
     </MainItem>
   </ItemGroup>

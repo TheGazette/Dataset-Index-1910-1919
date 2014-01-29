@@ -168,9 +168,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ronaldson</Key>
-      <Title>Lieut.-Col. and Hon.</Title>
-      <Forenames>Surgn</Forenames>
-      <Text>.-Col. J. B. (resigned)</Text>
+      <Title>Lieut.-Col. and Hon. Surgn.</Title>
+      <Text>-Col. J. B. (resigned)</Text>
       <PageNumber>7983</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -322,7 +321,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Macnaughton</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>8692</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -365,7 +364,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Smale</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>8693</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -394,7 +393,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Watt</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -482,7 +481,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fortescue</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>9230</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -540,7 +539,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lea</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -599,7 +598,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pinsert</Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>9230</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -643,7 +642,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sellars</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -711,14 +710,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Vaughan</Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>9230</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Watson</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>9229</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -783,7 +782,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>temporary (Capt.) ..</Text>
+      <Title>temporary (Capt.)</Title>
+      <Text>..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1241,7 +1241,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(temporary Capt.) ,.</Text>
+      <Title>(temporary Capt.)</Title>
+      <Text>,.</Text>
       <PageNumber>ibid,</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1297,8 +1298,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Londonderry</Key>
-      <Forenames>Rt</Forenames>
-      <Text>. Hon. Marquis of (Hon. Col.)</Text>
+      <Title>Rt. Hon. Marquis</Title>
+      <Text>of (Hon. Col.)</Text>
       <PageNumber>9142</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1307,9 +1308,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Title>Col.</Title>
-      <Forenames>Rt</Forenames>
-      <Text>. Hon. Marquis of (resigned)</Text>
+      <Title>Col. Rt. Hon. Marquis</Title>
+      <Text>of (resigned)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1366,7 +1366,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(temporary Capt.)</Text>
+      <Title>(temporary Capt.)</Title>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1556,7 +1556,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>(temporary Capt.)</Text>
+      <Title>(temporary Capt.)</Title>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1621,7 +1621,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>Lieut.-Col. and Hon. CoL H. C. (retired)</Text>
+      <Title>Lieut.-Col. and Hon.</Title>
+      <Text>CoL H. C. (retired)</Text>
       <PageNumber>7353</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1677,7 +1678,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>(temporary Capt.) ..</Text>
+      <Title>(temporary Capt.)</Title>
+      <Text>..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1694,7 +1696,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(temporary Capt.) .. .. .. ..</Text>
+      <Title>(temporary Capt.)</Title>
+      <Text>.. .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1745,7 +1748,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Olsen</Key>
-      <Text>Capt. L B. (resigned).. ..</Text>
+      <Title>Capt.</Title>
+      <Forenames>L</Forenames>
+      <Text>B. (resigned).. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

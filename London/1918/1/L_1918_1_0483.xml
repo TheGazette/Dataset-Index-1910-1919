@@ -32,9 +32,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Sparshott</Key>
-      <Text>, 2nd Lt. R. (trd.to M.G.C.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>R.</Forenames>
+      <Text>(trd.to M.G.C.)</Text>
       <PageNumber>3215</PageNumber>
     </MainItem>
+    <SubItem>
+      <Text>temp. Lt. F., M.C. (temp. Capt.)</Text>
+      <PageNumber>2034</PageNumber>
+    </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
@@ -94,7 +100,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Speedily</Key>
-      <Text>, temp. 2nd .Lt. T. M. (Flying Offr., Gen. List)</Text>
+      <Title>temp.</Title>
+      <Text>2nd .Lt. T. M. (Flying Offr., Gen. List)</Text>
       <PageNumber>3291</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -153,14 +160,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Speller</Key>
-      <Text>, temp. 2nd Lt. A. L. (rel commn. on acc. of ill-health, and to be.Hon. 2nd Lt.)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>A. L.</Forenames>
+      <Text>(rel commn. on acc. of ill-health, and to be.Hon. 2nd Lt.)</Text>
       <PageNumber>1528</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Spelman</Key>
-      <Text>, temp. 2nd Lt., attd., F. W. (trd. to Ser. Bn,)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Text>, attd., F. W. (trd. to Ser. Bn,)</Text>
       <PageNumber>2601</PageNumber>
     </MainItem>
     <SubItem>
@@ -220,14 +230,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Spence-Thomas</Key>
-      <Text>,. Cadet H. A. (2nd</Text>
+      <Text>. Cadet H. A. (2nd</Text>
       <PageNumber>3551</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>tSpehcelayh</Key>
-      <Text>, temp. 2nd Lt. V. C. H. (trd. to Reg. Bn.)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>V. C. H.</Forenames>
+      <Text>(trd. to Reg. Bn.)</Text>
       <PageNumber>2317</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -242,8 +254,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Spencer</Key>
-      <Forenames>Lt</Forenames>
-      <Text>. A, (trd.)</Text>
+      <Title>Lt.</Title>
+      <Forenames>A</Forenames>
+      <Text>, (trd.)</Text>
       <PageNumber>1718</PageNumber>
     </MainItem>
     <SubItem>
@@ -284,7 +297,8 @@
       <Key>
         <KeyDitto>——</KeyDitto>
       </Key>
-      <Text>temp. 2nd Lt., attd., G</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Text>, attd., G</Text>
       <PageNumber>1495</PageNumber>
     </MainItem>
     <SubItem>
@@ -313,7 +327,8 @@
       <Key>
         <KeyDitto>——</KeyDitto>
       </Key>
-      <Text>temp. 2nd Lt. (temp. Lt.) J</Text>
+      <Title>temp. 2nd Lt. (temp. Lt.)</Title>
+      <Forenames>J.</Forenames>
       <PageNumber>242</PageNumber>
     </MainItem>
     <SubItem>
@@ -371,11 +386,13 @@
   <ItemGroup>
     <MainItem>
       <Key>Spender</Key>
-      <Text>, 2nd Lt. J. T. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>J. T.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>2314</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>&gt; Capt. (now Bt.. Lt.-Col.) W. B., M.C. (.Maj.), Sub. Not.</Text>
+      <Text>&gt; Capt. (now Bt.. Lt.-Col.) W. B., M.C. (.Maj.), Sub. Not</Text>
       <PageNumber>1639</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -409,14 +426,18 @@
   <ItemGroup>
     <MainItem>
       <Key>Sperling</Key>
-      <Text>, 2nd Lt. R. H. (temp Capt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>R. H.</Forenames>
+      <Text>(temp Capt.)</Text>
       <PageNumber>3899</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Spero</Key>
-      <Text>, 2nd Lt. S. (actg. Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>S.</Forenames>
+      <Text>(actg. Lt.)</Text>
       <PageNumber>969</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -431,7 +452,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Spibey</Key>
-      <Text>, temp. 2nd Lt., attd.. F. W. (trd. to Reg. Bn.)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Text>, attd.. F. W. (trd. to Reg. Bn.)</Text>
       <PageNumber>2317</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -500,11 +522,20 @@
   <ItemGroup>
     <MainItem>
       <Key>Spiller</Key>
-      <Text>, temp. 2nd Lt., attd., F. W</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Text>, attd., F. W</Text>
       <PageNumber>2601</PageNumber>
     </MainItem>
-    <KeyDitto>——.</KeyDitto>
-    <SubCategoryTitle>Cbmmy. of Ord.) G. W</SubCategoryTitle>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>——.</KeyDitto>
+      </Key>
+      <Title>Asst. Commy.</Title>
+      <Text>of Ord. and Hon. Lt. (actg. Dep. Cbmmy. of Ord.) G. W</Text>
+      <PageNumber>974</PageNumber>
+    </MainItem>
     <SubItem>
       <Text>
         <PageNumber>2601</PageNumber>
@@ -516,7 +547,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Spillett</Key>
-      <Text>, temp. 2nd Lt. C. E. H</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>C. E. H.</Forenames>
       <PageNumber>1066</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -536,7 +568,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Spinks</Key>
-      <Text>, temp. 2nd Lt., attd., E. A</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Text>, attd., E. A</Text>
       <PageNumber>2604</PageNumber>
     </MainItem>
     <SubItem>
@@ -547,7 +580,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Spinney</Key>
-      <Text>, temp. 2nd Lt. A. (attd.)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>A.</Forenames>
+      <Text>(attd.)</Text>
       <PageNumber>3107</PageNumber>
     </MainItem>
     <SubItem>
@@ -558,14 +593,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Spira</Key>
-      <Text>, temp. Capt.' S. (attd.) Spofforth, 2nd Lt. E. R. (Lt., and</Text>
+      <Title>temp. Capt.</Title>
+      <Text>' S. (attd.) Spofforth, 2nd Lt. E. R. (Lt., and</Text>
       <PageNumber>2708</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Spokes</Key>
-      <Text>, temp. 2nd Lt. J. N. (rel</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>J. N.</Forenames>
+      <Text>(rel</Text>
       <PageNumber>2600</PageNumber>
     </MainItem>
     <SubItem>
@@ -576,7 +614,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Spooner</Key>
-      <Text>, temp. 2nd Lt. B. J. (attd.) temp. 2nd Lt., attd., E.: A</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>B. J.</Forenames>
+      <Text>(attd.) temp. 2nd Lt., attd., E.: A</Text>
       <PageNumber>1793</PageNumber>
     </MainItem>
     <SubItem>
@@ -587,7 +627,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Spoors</Key>
-      <Text>, temp. 2nd. Lt., attd. W. (trd. to Ser. Bn.) ... ' .... Spottiswoode, Lt.. J., .M.C. (Capt.)</Text>
+      <Title>temp.</Title>
+      <Text>2nd. Lt., attd. W. (trd. to Ser. Bn.) ... ' .... Spottiswoode, Lt.. J., .M.C. (Capt.)</Text>
       <PageNumber>2126</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -621,7 +662,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Spreadbury</Key>
-      <Text>, 2nd Lt. G. W. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>G. W.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>412</PageNumber>
     </MainItem>
     <SubItem>
@@ -647,7 +690,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Sprey-Smith</Key>
-      <Text>, 2nd Lt. C. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>C.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>2611</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -663,7 +708,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Spring</Key>
-      <Text>, .Maj. (T./Lt.-Col.) F. G.,</Text>
+      <Text>.Maj. (T./Lt.-Col.) F. G.,</Text>
       <PageNumber>2974</PageNumber>
     </MainItem>
     <SubItem>
@@ -683,7 +728,9 @@
   <ItemGroup>
     <MainItem>
       <Key>iSpringham</Key>
-      <Text>, temp. 2nd Lt. L. G. A. (temp. Lt.) Rel. 'commn. on acc. of ill-</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>L. G. A.</Forenames>
+      <Text>(temp. Lt.) Rel. 'commn. on acc. of ill-</Text>
       <PageNumber>3447</PageNumber>
     </MainItem>
     <SubItem>

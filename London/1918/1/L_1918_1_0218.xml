@@ -34,7 +34,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mallett</Key>
-      <Text>, ' John Moore, Memlber, Order of the British Empire</Text>
+      <Text>' John Moore, Memlber, Order of the British Empire</Text>
       <PageNumber>401</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -61,9 +61,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Mance</Key>
-      <Title>Maj. and Bt.</Title>
-      <Forenames>Lt</Forenames>
-      <Text>. (T./Brig.Gen.) Harry Osborne, C.M.G., D.S.O., Companion, Order of the Bath</Text>
+      <Title>Maj. and Bt. Lt. (T./Brig.Gen.)</Title>
+      <Forenames>Harry Osborne</Forenames>
+      <Text>, C.M.G., D.S.O., Companion, Order of the Bath</Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -160,21 +160,21 @@
   <ItemGroup>
     <MainItem>
       <Key>Margesson</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. (temp. Col.) Evelyn William, Companion,' Order of St. Michael and St. George</Text>
+      <Title>Lt.-Col. (temp. Col.)</Title>
+      <Forenames>Evelyn William</Forenames>
+      <Text>, Companion,' Order of St. Michael and St. George</Text>
       <PageNumber>2972</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Marindin</Key>
-      <Title>Maj. and Bt.</Title>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. &lt;(T./Brig.-Gen.) Arthur Henry, Companion, D.S.O</Text>
+      <Title>Maj. and Bt. Lt.-Col.</Title>
+      <Text>&lt;(T./Brig.-Gen.) Arthur Henry, Companion, D.S.O</Text>
       <PageNumber>23</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Maj. and Bt. Lt.-Col. (A./Lt.Col.) Cecil Colvile, Companion, D.S.0.</Text>
+      <Text>Maj. and Bt. Lt.-Col. (A./Lt.Col.) Cecil Colvile, Companion, D.S.0</Text>
       <PageNumber>23</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -221,7 +221,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Marshall</Key>
-      <Text>, Capt. (A./Maj.) Alfred Russell, M.C., Companion, D.S.O</Text>
+      <Title>Capt. (A./Maj.)</Title>
+      <Forenames>Alfred Russell</Forenames>
+      <Text>, M.C., Companion, D.S.O</Text>
       <PageNumber>24</PageNumber>
     </MainItem>
     <SubItem>
@@ -293,7 +295,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Martyn</Key>
-      <Text>, Col. (T./Brig.-Gen.) Arundel, Companion, St. Michael and St. George</Text>
+      <Title>Col. (T./Brig.-Gen.)</Title>
+      <Forenames>Arundel</Forenames>
+      <Text>, Companion, St. Michael and St. George</Text>
       <PageNumber>4</PageNumber>
     </MainItem>
     <SubItem>
@@ -323,8 +327,9 @@
       <Key>
         <KeyDitto>——</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Charles Conway, Companion, D.S.O</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Charles Conway</Forenames>
+      <Text>, Companion, D.S.O</Text>
       <PageNumber>3593</PageNumber>
     </MainItem>
     <SubItem>
@@ -335,8 +340,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Maund</Key>
-      <Forenames>Lt</Forenames>
-      <Text>. (A./Maj.) Arthur Clinton, Companion, D.S.O. ... Maunsell, Richard Edward Lloyd, Commander, Order of the British Empire Maurice, Maj.-Gen. Frederick Barton, C.B., Knight Commander, St. Michael and St. George Maurice-Jonesi, 2nd Lt. Kenneth Wyn, Companion, D.S.O. ... Mavrogordato, Paul John, Member, Order of the British Empire ... Maxwell, Lt.-Col. Alexander Gordon, Officer, Order of the British Empire T./Capt. (A./Maj.) Allen, Companion, D.S.O Maj. (A./IA.-C0I.) Arthur, D.S.O., Bar to D.S.O</Text>
+      <Title>Lt. (A./Maj.)</Title>
+      <Forenames>Arthur Clinton</Forenames>
+      <Text>, Companion, D.S.O. ... Maunsell, Richard Edward Lloyd, Commander, Order of the British Empire Maurice, Maj.-Gen. Frederick Barton, C.B., Knight Commander, St. Michael and St. George Maurice-Jonesi, 2nd Lt. Kenneth Wyn, Companion, D.S.O. ... Mavrogordato, Paul John, Member, Order of the British Empire ... Maxwell, Lt.-Col. Alexander Gordon, Officer, Order of the British Empire T./Capt. (A./Maj.) Allen, Companion, D.S.O Maj. (A./IA.-C0I.) Arthur, D.S.O., Bar to D.S.O</Text>
       <PageNumber>409</PageNumber>
     </MainItem>
     <SubItem>

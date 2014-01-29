@@ -45,7 +45,7 @@
   <ItemGroup>
     <MainItem>
       <Key>James</Key>
-      <Text>, CM</Text>
+      <Text>CM</Text>
       <PageNumber>8612</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -270,7 +270,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Price</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>8612</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -306,7 +306,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rendall</Key>
-      <Text>. F. C. E</Text>
+      <Text>F. C. E</Text>
       <PageNumber>10243</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -580,7 +580,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Henwood</Key>
-      <Text>.F.H. '</Text>
+      <Text>F.H. '</Text>
       <PageNumber>12035</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -594,7 +594,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kirkham</Key>
-      <Text>.J.L</Text>
+      <Text>J.L</Text>
       <PageNumber>12035</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -697,7 +697,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Webber</Key>
-      <Text>, CD</Text>
+      <Text>CD</Text>
       <PageNumber>12035</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -726,7 +726,7 @@
       <PageNumber>10242</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Actg. Capt. comd. a Co. of Div. Tr.</Text>
+      <Text>Actg. Capt. comd. a Co. of Div. Tr</Text>
       <PageNumber>10242</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -761,7 +761,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>2nd Lt. and actg. Lt.-Col. R. J. (seniority)</Text>
+      <Title>2nd Lt. and actg. Lt.-Col.</Title>
+      <Forenames>R. J.</Forenames>
+      <Text>(seniority)</Text>
       <PageNumber>8612</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -776,7 +778,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Aikin</Key>
-      <Text>.R. W.D. (Lt.)</Text>
+      <Text>R. W.D. (Lt.)</Text>
       <PageNumber>10361</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -808,18 +810,18 @@
   <ItemGroup>
     <MainItem>
       <Key>Allum</Key>
-      <Text>.H. G. (Capt.)</Text>
+      <Text>H. G. (Capt.)</Text>
       <PageNumber>10360</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Ambler</Key>
-      <Text>, LI. E. (2nd Lt.)</Text>
+      <Text>LI. E. (2nd Lt.)</Text>
       <PageNumber>11476</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Lt.</Text>
+      <Text>Lt</Text>
       <PageNumber>11474</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -862,8 +864,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>G. A. Lt</Forenames>
-      <Text>. (Not. of grant of actg. rank of Capt. 23rd May 1919 cancelled)</Text>
+      <Forenames>G. A.</Forenames>
+      <Text>Lt. (Not. of grant of actg. rank of Capt. 23rd May 1919 cancelled)</Text>
       <PageNumber>9263</PageNumber>
     </MainItem>
     <SubItem>
@@ -983,7 +985,7 @@
       <PageNumber>10241</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Capt.</Text>
+      <Text>Capt</Text>
       <PageNumber>10355</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1024,7 +1026,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Atkins</Key>
-      <Text>, C R. (2nd Lt.)</Text>
+      <Forenames>C</Forenames>
+      <Text>R. (2nd Lt.)</Text>
       <PageNumber>8245</PageNumber>
     </MainItem>
     <SubItem>
@@ -1042,14 +1045,15 @@
       <PageNumber>8242</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Lt.</Text>
+      <Text>Lt</Text>
       <PageNumber>12036</PageNumber>
     </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Attride</Key>
-      <Text>,P W (temp. 2nd Lt.)</Text>
+      <Forenames>P</Forenames>
+      <Text>W (temp. 2nd Lt.)</Text>
       <PageNumber>9437</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1197,7 +1201,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Barclay-Brown</Key>
-      <Text>. R. (Lt.)</Text>
+      <Text>R. (Lt.)</Text>
       <PageNumber>1203</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1256,8 +1260,12 @@
     </MainItem>
     <KeyDitto>___ ___ ___ ___</KeyDitto>
     <SubItem>
-      <Text>Actg. Capt. comdg. a Co. Jan. 1918</Text>
+      <Text>' Retains actg. rank whilst addtl</Text>
       <PageNumber>10240</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>Actg. Maj</Text>
+      <PageNumber>10904</PageNumber>
     </SubItem>
   </ItemGroup>
   <ItemGroup>
@@ -1317,8 +1325,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Baxter</Key>
-      <Forenames>Lt</Forenames>
-      <Text>. (temp. Capt.) E. G. (rel. temp, rank)</Text>
+      <Title>Lt. (temp. Capt.)</Title>
+      <Forenames>E. G.</Forenames>
+      <Text>(rel. temp, rank)</Text>
       <PageNumber>11594</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1443,7 +1452,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Beedham</Key>
-      <Text>, 2nd Lt. (actg. Capt.) J. W. (rel. actg. rank on ceasing to be Adjt,)</Text>
+      <Title>2nd Lt. (actg. Capt.)</Title>
+      <Forenames>J. W.</Forenames>
+      <Text>(rel. actg. rank on ceasing to be Adjt,)</Text>
       <PageNumber>9264</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1477,7 +1488,7 @@
       <PageNumber>10231</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Retains actg. rank of Capt. while comdg. a Co.</Text>
+      <Text>Retains actg. rank of Capt. while comdg. a Co</Text>
       <PageNumber>10902</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1502,7 +1513,7 @@
       <PageNumber>9015</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Temp. Maj.</Text>
+      <Text>Temp. Maj</Text>
       <PageNumber>11594</PageNumber>
     </SubItem>
   </ItemGroup>

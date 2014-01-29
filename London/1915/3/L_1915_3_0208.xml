@@ -207,7 +207,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Yeatman</Key>
-      <Text>,' 2nd Lieut. Francis D. (confirmed)</Text>
+      <Text>' 2nd Lieut. Francis D. (confirmed)</Text>
       <PageNumber>7197</PageNumber>
     </MainItem>
     <SubItem>
@@ -616,7 +616,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Workman</Key>
-      <Text>, (temporary) Lieut. Robert (correction)</Text>
+      <Title>(temporary) Lieut.</Title>
+      <Forenames>Robert</Forenames>
+      <Text>(correction)</Text>
       <PageNumber>6587</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -632,7 +634,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Mulholland</Key>
-      <Text>, (temporary) 2nd Lieut. James Allan (correction)</Text>
+      <Title>(temporary) 2nd Lieut.</Title>
+      <Forenames>James Allan</Forenames>
+      <Text>(correction)</Text>
       <PageNumber>6442</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -648,7 +652,9 @@
   <ItemGroup>
     <MainItem>
       <Key>McLardy</Key>
-      <Text>, (temporary) 2nd Lieut. Angus (relinquishes his commission)</Text>
+      <Title>(temporary) 2nd Lieut.</Title>
+      <Forenames>Angus</Forenames>
+      <Text>(relinquishes his commission)</Text>
       <PageNumber>6442</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -719,6 +725,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>McCorry</Key>
+      <Forenames>Richard</Forenames>
+      <Text>(temporary 2nd Lieut.)</Text>
+      <PageNumber>6442</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Malone</Key>
       <Forenames>John Guy</Forenames>
       <Text>(temporary 2nd Lieut.)</Text>
@@ -743,8 +757,18 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>Nelson</Key>
+      <Forenames>Eric Hartfell</Forenames>
+      <Text>(temporary Capt.)</Text>
+      <PageNumber>6587</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Robinson</Key>
-      <Text>, (temporary) 2nd Lieut. Keith A. (antedated),,</Text>
+      <Title>(temporary) 2nd Lieut.</Title>
+      <Forenames>Keith A.</Forenames>
+      <Text>(antedated),,</Text>
       <PageNumber>7570</PageNumber>
       <PageNumber>7870</PageNumber>
     </MainItem>
@@ -801,7 +825,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bruce</Key>
-      <Text>, Lieut.-Col. and Hon. Col. ^ Stewart A. M. (temporary Maj., cancelled)</Text>
+      <Title>Lieut.-Col. and Hon. Col.</Title>
+      <Text>^ Stewart A. M. (temporary Maj., cancelled)</Text>
       <PageNumber>6839</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -929,7 +954,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Fannon</Key>
-      <Text>, (temporary) Capt. L. T. A. (relinquishes his commission)...-</Text>
+      <Title>(temporary) Capt.</Title>
+      <Forenames>L. T. A.</Forenames>
+      <Text>(relinquishes his commission)...-</Text>
       <PageNumber>6587</PageNumber>
     </MainItem>
   </ItemGroup>

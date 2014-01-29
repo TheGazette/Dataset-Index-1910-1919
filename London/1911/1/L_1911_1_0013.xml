@@ -28,8 +28,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Higashi</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. O., Honoraiy Commander, Royal Victorian Order</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>O.</Forenames>
+      <Text>, Honoraiy Commander, Royal Victorian Order</Text>
       <PageNumber>1461</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -53,8 +54,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Hodgson</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. H. W., Commander, Royal Victorian Order</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>H. W.</Forenames>
+      <Text>, Commander, Royal Victorian Order</Text>
       <PageNumber>124</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -157,8 +159,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Islington</Key>
-      <Forenames>Rt</Forenames>
-      <Text>. Hon. Lord, Knight Commander of St. Michael and St. George-</Text>
+      <Title>Rt. Hon. Lord</Title>
+      <Text>, Knight Commander of St. Michael and St. George-</Text>
       <PageNumber>2</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -280,9 +282,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Lee</Key>
-      <Title>Surgeon</Title>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. E., Knight of Grace, St. John of Jerusalem</Text>
+      <Title>Surgeon-Lt.-Col.</Title>
+      <Forenames>E.</Forenames>
+      <Text>, Knight of Grace, St. John of Jerusalem</Text>
       <PageNumber>2048</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -320,15 +322,7 @@
       <PageNumber>412</PageNumber>
     </MainItem>
   </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Lucas</Key>
-      <Title>Sir</Title>
-      <Forenames>C. P. Lucas</Forenames>
-      <Text>, Member of the Executive Committee of the Court of Claims</Text>
-      <PageNumber>1039</PageNumber>
-    </MainItem>
-  </ItemGroup>
+  <CategoryTitle>Court of Claims 1039</CategoryTitle>
   <ItemGroup>
     <MainItem>
       <Key>Lynch</Key>
@@ -377,6 +371,15 @@
       <Forenames>C. E.</Forenames>
       <Text>, Admiralty Commissioner</Text>
       <PageNumber>2421</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Mahon</Key>
+      <Title>Col.</Title>
+      <Forenames>R. H.</Forenames>
+      <Text>, Companion of the Star of India</Text>
+      <PageNumber>2</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -448,8 +451,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Methuen</Key>
-      <Forenames>Gen</Forenames>
-      <Text>. Lord, Knight Grand Cross, Royal Victorian Order</Text>
+      <Title>Gen. Lord</Title>
+      <Text>, Knight Grand Cross, Royal Victorian Order</Text>
       <PageNumber>124</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -736,7 +739,7 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>Davids, Lieutenant and Custos Rotulorum of Pembrokeshire</Text>
+      <Text>. Davids, Lieutenant and Custos Rotulorum of Pembrokeshire</Text>
       <PageNumber>2422</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -778,7 +781,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Semple</Key>
-      <Text>Lieut.-Col. D</Text>
+      <Title>Lieut.-Col.</Title>
+      <Forenames>D</Forenames>
       <PageNumber>1462</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1025,14 +1029,16 @@
   <ItemGroup>
     <MainItem>
       <Key>White</Key>
-      <Text>Brig.-Geti. W. L., Knight of Grace, St. John of Jerusalem</Text>
+      <Title>Brig.</Title>
+      <Text>-Geti. W. L., Knight of Grace, St. John of Jerusalem</Text>
       <PageNumber>2047</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Wihberley</Key>
-      <Text>C, Fourth Class, Royal Victorian Order</Text>
+      <Forenames>C</Forenames>
+      <Text>, Fourth Class, Royal Victorian Order</Text>
       <PageNumber>124</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1055,7 +1061,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wilson</Key>
-      <Text>Admiral of the Fleet Sir A. K., Admiralty Commissioner</Text>
+      <Title>Admiral</Title>
+      <Text>of the Fleet Sir A. K., Admiralty Commissioner</Text>
       <PageNumber>2421</PageNumber>
     </MainItem>
   </ItemGroup>

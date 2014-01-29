@@ -503,7 +503,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Graham-Hobson</Key>
-      <Text>,-Walter John (2nd Lieut.)</Text>
+      <Text>-Walter John (2nd Lieut.)</Text>
       <PageNumber>7338</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -557,7 +557,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>Lieut.)</Text>
+      <Title>Lieut.</Title>
+      <Text>)</Text>
       <PageNumber>7313</PageNumber>
     </MainItem>
     <SubItem>
@@ -992,7 +993,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Haslam</Key>
-      <Text>, Lieut. .William K. S. (seconded for service with the 'North Midland Divisional Ammunition Column)</Text>
+      <Title>Lieut.</Title>
+      <Text>.William K. S. (seconded for service with the 'North Midland Divisional Ammunition Column)</Text>
       <PageNumber>8495</PageNumber>
     </MainItem>
     <SubItem>
@@ -1103,7 +1105,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Helliar</Key>
-      <Text>, . Leonard Jeffrey (2nd Lieut.)</Text>
+      <Text>. Leonard Jeffrey (2nd Lieut.)</Text>
       <PageNumber>7338</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1168,7 +1170,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hess</Key>
-      <Text>,; Nathaniel (2nd Lieut.)</Text>
+      <Text>; Nathaniel (2nd Lieut.)</Text>
       <PageNumber>7658</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1228,7 +1230,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hinds</Key>
-      <Text>, I^ieut. Gilbert H. (temporary 'Capt.)</Text>
+      <Forenames>I</Forenames>
+      <Text>^ieut. Gilbert H. (temporary 'Capt.)</Text>
       <PageNumber>8172</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1371,8 +1374,11 @@
       <Forenames>William James</Forenames>
       <Text>(temporary Lieut.-Col.)</Text>
       <PageNumber>6564</PageNumber>
-      <PageNumber>___ ___ ___ ___ ___</PageNumber>
     </MainItem>
+    <SubItem>
+      <Text>,</Text>
+      <PageNumber>___ ___ ___ ___ ___</PageNumber>
+    </SubItem>
   </ItemGroup>
   <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
 </Index>

@@ -3,7 +3,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Nevill</Key>
-      <Text>, Capt. (t.) R. T. (granted</Text>
+      <Title>Capt. (t.)</Title>
+      <Forenames>R. T.</Forenames>
+      <Text>(granted</Text>
       <PageNumber>9867</PageNumber>
     </MainItem>
     <SubItem>
@@ -15,14 +17,22 @@
   <ItemGroup>
     <MainItem>
       <Key>Neville</Key>
-      <Forenames>Fit</Forenames>
-      <Text>.. Lt. (S.O.) H. S. (itrd</Text>
+      <Title>Fit.</Title>
+      <Text>. Lt. (S.O.) H. S. (itrd</Text>
       <PageNumber>11251</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>
-    <KeyDitto>___ ___</KeyDitto>
-  </SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Title>Lt. Wm.</Title>
+      <Forenames>E.</Forenames>
+      <Text>(trd. to unempld</Text>
+      <PageNumber>10091</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>New</Key>
@@ -34,8 +44,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Newail</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. C. L. N., C.M.G.,</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>C. L. N.</Forenames>
+      <Text>, C.M.G.,</Text>
       <PageNumber>9864</PageNumber>
     </MainItem>
     <SubItem>
@@ -49,11 +60,19 @@
   <ItemGroup>
     <MainItem>
       <Key>Newbery</Key>
-      <Text>, 2nd [Lt. P. H. (trd. to unempkL list)</Text>
+      <Text>2nd [Lt. P. H. (trd. to unempkL list)</Text>
       <PageNumber>8604</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Lt.) ... ..</SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Nawbould</Key>
+      <Title>Cadet</Title>
+      <Forenames>C.</Forenames>
+      <Text>(Hon. 2nd Lt.)</Text>
+      <PageNumber>9967</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Newbury</Key>
@@ -79,14 +98,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Newham</Key>
-      <Text>, 2nd Lt. C. A. (Not. of Mar. 21st, 1919. cancelled and that of Apr. 29th to stand)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>C. A.</Forenames>
+      <Text>(Not. of Mar. 21st, 1919. cancelled and that of Apr. 29th to stand)</Text>
       <PageNumber>9429</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Newington</Key>
-      <Text>, lCapt. C. F. (trd. to unempld. list)</Text>
+      <Text>lCapt. C. F. (trd. to unempld. list)</Text>
       <PageNumber>9430</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -103,7 +124,8 @@
       <Key>
         <KeyDitto>___ ___ .</KeyDitto>
       </Key>
-      <Text>2nd Lt.. (Hon. Lt.) H. O. (graded for pay and allces. as Capt., Admin.)</Text>
+      <Title>2nd Lt.</Title>
+      <Text>. (Hon. Lt.) H. O. (graded for pay and allces. as Capt., Admin.)</Text>
       <PageNumber>11471</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -151,14 +173,21 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>. (Hon. Capt.) Edward (trd. to unempld. list)</Text>
+      <Title>Lt. (Hon. Capt.)</Title>
+      <Forenames>Edward</Forenames>
+      <Text>(trd. to unempld. list)</Text>
       <PageNumber>9430</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>
-    <KeyDitto>—</KeyDitto>
-  </SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>—</KeyDitto>
+      </Key>
+      <Text>^___ ___ Lt. (Hon. Capt.) E. W. P. (pel. commn.)</Text>
+      <PageNumber>8604</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>
@@ -207,14 +236,18 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>2nd Lt. W. H. (trd. to unempld. list)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>W. H.</Forenames>
+      <Text>(trd. to unempld. list)</Text>
       <PageNumber>9257</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Newnham</Key>
-      <Text>, 2nd Lt. A. J. (trd. to unempld. list)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>A. J.</Forenames>
+      <Text>(trd. to unempld. list)</Text>
       <PageNumber>9430</PageNumber>
     </MainItem>
     <SubItem>
@@ -247,7 +280,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>2nd Lt. F. H. (trd. to unempld. list) ..;</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>F. H.</Forenames>
+      <Text>(trd. to unempld. list) ..;</Text>
       <PageNumber>9139</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -256,7 +291,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>2nd Lt. (Hon. Lt.) George (trd. to unempld. list)</Text>
+      <Title>2nd Lt. (Hon. Lt.)</Title>
+      <Forenames>George</Forenames>
+      <Text>(trd. to unempld. list)</Text>
       <PageNumber>8237</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -297,7 +334,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>2nd Lt. (Hon. Lt.) H. C. G. (trd. to unempld. list)</Text>
+      <Title>2nd Lt. (Hon. Lt.)</Title>
+      <Forenames>H. C. G.</Forenames>
+      <Text>(trd. to unempld. list)</Text>
       <PageNumber>9139</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -371,7 +410,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Newton-Bridle</Key>
-      <Text>, 2nd Lt. G. R. (rel. commn. on acc. on ill-health contracted on active service, and retains rank). Sub. Not</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>G. R.</Forenames>
+      <Text>(rel. commn. on acc. on ill-health contracted on active service, and retains rank). Sub. Not</Text>
       <PageNumber>9874</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -384,7 +425,7 @@
       <PageNumber>8602</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Granted perm, commn.</Text>
+      <Text>Granted perm, commn</Text>
       <PageNumber>9865</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -393,7 +434,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>Maj. (S.O.) H. J., O.B.E</Text>
+      <Title>Maj. (S.O.)</Title>
+      <Forenames>H. J.</Forenames>
+      <Text>, O.B.E</Text>
       <PageNumber>9866</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -402,7 +445,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>Capt. (Ad.) W. S. (granted</Text>
+      <Title>Capt. (Ad.)</Title>
+      <Forenames>W. S.</Forenames>
+      <Text>(granted</Text>
       <PageNumber>9868</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -420,14 +465,18 @@
   <ItemGroup>
     <MainItem>
       <Key>Newton-Wade</Key>
-      <Text>, 2nd Lt. (Hon. Lt.) C. C. (rel. commn. on ceasing to be empld.)</Text>
+      <Title>2nd Lt. (Hon. Lt.)</Title>
+      <Forenames>C. C.</Forenames>
+      <Text>(rel. commn. on ceasing to be empld.)</Text>
       <PageNumber>9258</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Ney</Key>
-      <Text>, 2nd Lt. C. H. H. (trd. to unempld. list)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>C. H. H.</Forenames>
+      <Text>(trd. to unempld. list)</Text>
       <PageNumber>9006</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -454,15 +503,18 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>. (O.) J. S. (granted</Text>
+      <Title>Lt. (O.)</Title>
+      <Forenames>J. S.</Forenames>
+      <Text>(granted</Text>
       <PageNumber>9871</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Nicholas</Key>
-      <Text>, Maj. (A.) C. H. (granted</Text>
+      <Title>Maj. (A.)</Title>
+      <Forenames>C. H.</Forenames>
+      <Text>(granted</Text>
       <PageNumber>9866</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -471,7 +523,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>2nd Lt. G. B., D.F.C. (trd</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>G. B.</Forenames>
+      <Text>, D.F.C. (trd</Text>
       <PageNumber>8393</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -481,7 +535,9 @@
       <Key>
         <KeyDitto>—</KeyDitto>
       </Key>
-      <Text>2nd Lt. T. V. J. (rel. commn. on acc. of ill-</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>T. V. J.</Forenames>
+      <Text>(rel. commn. on acc. of ill-</Text>
       <PageNumber>9592</PageNumber>
     </MainItem>
     <SubItem>
@@ -504,8 +560,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>.) ,</Text>
+      <Title>Lt.</Title>
+      <Text>) ,</Text>
       <PageNumber>11359</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -546,7 +602,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Nicholls</Key>
-      <Text>, 2nd Lt. G. A. (trd. to</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>G. A.</Forenames>
+      <Text>(trd. to</Text>
       <PageNumber>9140</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -557,7 +615,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>(trd. to unempld list)</Text>
+      <Title>(trd. to unempld list)</Title>
       <PageNumber>10354</PageNumber>
     </MainItem>
     <SubItem>
@@ -570,8 +628,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Rel</Forenames>
-      <Text>. actg. rank</Text>
+      <Title>Rel. actg.</Title>
+      <Text>rank</Text>
       <PageNumber>10894</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -589,8 +647,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Admin</Forenames>
-      <Text>.)</Text>
+      <Title>Admin.</Title>
+      <Text>)</Text>
       <PageNumber>11591</PageNumber>
     </MainItem>
     <SubItem>
@@ -603,7 +661,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>2nd Lt. R. D. (trd. to un-</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>R. D.</Forenames>
+      <Text>(trd. to un-</Text>
       <PageNumber>9963</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -646,7 +706,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>2nd Lt. T. R.. (Itad. to un-</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>T. R.</Forenames>
+      <Text>. (Itad. to un-</Text>
       <PageNumber>9008</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -655,14 +717,18 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>2nd Lt. W. R. (rel. commn. on acc. of ill-health, and re-</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>W. R.</Forenames>
+      <Text>(rel. commn. on acc. of ill-health, and re-</Text>
       <PageNumber>9258</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Nicholson</Key>
-      <Text>, 2nd Lt. A. M. R. (Lt.,</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>A. M. R.</Forenames>
+      <Text>(Lt.,</Text>
       <PageNumber>9595</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -685,7 +751,9 @@
       <Key>
         <KeyDitto>___ ___ —</KeyDitto>
       </Key>
-      <Text>2nd Lt. E. F. (trd. to un-</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>E. F.</Forenames>
+      <Text>(trd. to un-</Text>
       <PageNumber>9140</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -738,8 +806,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Und Lt</Forenames>
-      <Text>. J. K. (trd. to unempld. list)</Text>
+      <Forenames>Und</Forenames>
+      <Text>Lt. J. K. (trd. to unempld. list)</Text>
       <PageNumber>10760</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -757,7 +825,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Nickoll</Key>
-      <Text>, and Lt. K. S. F. (trd. to unempld, list)</Text>
+      <Text>and Lt. K. S. F. (trd. to unempld, list)</Text>
       <PageNumber>9005</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -789,14 +857,18 @@
       <Key>
         <KeyDitto>___ ___ ___ ——</KeyDitto>
       </Key>
-      <Text>2nd Lt. K. H. (Lt., without pay and allces.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>K. H.</Forenames>
+      <Text>(Lt., without pay and allces.)</Text>
       <PageNumber>9595</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Nicole</Key>
-      <Text>, 2nd Lt. Jack (trd. to unempld. list)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>Jack</Forenames>
+      <Text>(trd. to unempld. list)</Text>
       <PageNumber>11686</PageNumber>
     </MainItem>
     <SubItem>
@@ -845,7 +917,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Nisbet</Key>
-      <Text>, 2nd Lt. G. D. (trd. to unempld. list)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>G. D.</Forenames>
+      <Text>(trd. to unempld. list)</Text>
       <PageNumber>10092</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -862,7 +936,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Nisbett</Key>
-      <Text>, 2nd Lt. A. (trd. to unempld. list)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>A.</Forenames>
+      <Text>(trd. to unempld. list)</Text>
       <PageNumber>9429</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -878,7 +954,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Nixon</Key>
-      <Text>, 2nd Lt. (Ad.) H. (2nd Lt., Gr. B)</Text>
+      <Title>2nd Lt. (Ad.)</Title>
+      <Forenames>H.</Forenames>
+      <Text>(2nd Lt., Gr. B)</Text>
       <PageNumber>8395</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -908,8 +986,9 @@
       <Key>
         <KeyDitto>___ — ___ ___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>. (Ad.) J. W. (granted perm, commn.)</Text>
+      <Title>Lt. (Ad.)</Title>
+      <Forenames>J. W.</Forenames>
+      <Text>(granted perm, commn.)</Text>
       <PageNumber>9870</PageNumber>
     </MainItem>
     <SubItem>
@@ -922,7 +1001,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>Capt. (S.O.) S. (granted perm, comtmin,) ..:</Text>
+      <Title>Capt. (S.O.)</Title>
+      <Forenames>S.</Forenames>
+      <Text>(granted perm, comtmin,) ..:</Text>
       <PageNumber>9868</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -972,7 +1053,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Noakes</Key>
-      <Text>, Capt. (A.) J. (granted perm, oommn,.)</Text>
+      <Title>Capt. (A.)</Title>
+      <Forenames>J.</Forenames>
+      <Text>(granted perm, oommn,.)</Text>
       <PageNumber>10655</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -990,15 +1073,18 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>. (Hon. Capt.) G. M. (graded for pay and allces. as Lt. whilst empld. as Lt., Grade B)</Text>
+      <Title>Lt. (Hon. Capt.)</Title>
+      <Forenames>G. M.</Forenames>
+      <Text>(graded for pay and allces. as Lt. whilst empld. as Lt., Grade B)</Text>
       <PageNumber>11803</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Noble</Key>
-      <Text>, 2nd Lt. E. G. (trd. to unempld. list)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>E. G.</Forenames>
+      <Text>(trd. to unempld. list)</Text>
       <PageNumber>9006</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1018,7 +1104,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>2nd Lt. E. S. (rel. commn. on acc. of illi-healthi, and to be Hon. 2nd Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>E. S.</Forenames>
+      <Text>(rel. commn. on acc. of illi-healthi, and to be Hon. 2nd Lt.)</Text>
       <PageNumber>11802</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1037,15 +1125,18 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>2nd Lt. J. R. (trd. to unempld. list)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>J. R.</Forenames>
+      <Text>(trd. to unempld. list)</Text>
       <PageNumber>10224</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Noble-Campbell</Key>
-      <Forenames>Lt</Forenames>
-      <Text>. (A.) C. H., A.F.C. (granted perm. commn.)</Text>
+      <Title>Lt. (A.)</Title>
+      <Forenames>C. H.</Forenames>
+      <Text>, A.F.C. (granted perm. commn.)</Text>
       <PageNumber>9869</PageNumber>
     </MainItem>
   </ItemGroup>

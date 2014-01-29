@@ -3,9 +3,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Morrow</Key>
-      <Text>, temp. 2nd Lt. F. (temp. Lt.)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>F.</Forenames>
+      <Text>(temp. Lt.)</Text>
       <PageNumber>3557</PageNumber>
     </MainItem>
+    <SubItem>
+      <Text>— temp. 2nd Lt. H. G. (temp</Text>
+      <PageNumber>1817</PageNumber>
+    </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
@@ -47,7 +53,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Mort</Key>
-      <Text>, Maj. (actg. Lt.-Col.) G. M. (Lt.-Col.)</Text>
+      <Title>Maj. (actg. Lt.-Col.)</Title>
+      <Forenames>G. M.</Forenames>
+      <Text>(Lt.-Col.)</Text>
       <PageNumber>1494</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -92,7 +100,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Morltimore</Key>
-      <Text>, 2nd Lt. F. R, (temp. Lt.) .;</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>F. R</Forenames>
+      <Text>, (temp. Lt.) .;</Text>
       <PageNumber>3575</PageNumber>
     </MainItem>
     <SubItem>
@@ -103,7 +113,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Mortis</Key>
-      <Text>, temp. 2nd Lt. E. J. (trd.)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>E. J.</Forenames>
+      <Text>(trd.)</Text>
       <PageNumber>420</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -134,7 +146,9 @@
       <PageNumber>2705</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>Cadet P. V. (temp. 2nd Lt.)... 3584 . temp. 2nd Lt. R. (attd.)</Text>
+      <Text>
+        <PageNumber>3584</PageNumber>
+      </Text>
       <PageNumber>712</PageNumber>
     </SubItem>
     <SubItem>
@@ -211,7 +225,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Moseley</Key>
-      <Text>,-Capt. A. J. (actg. Maj.)</Text>
+      <Text>-Capt. A. J. (actg. Maj.)</Text>
       <PageNumber>684</PageNumber>
     </MainItem>
     <SubItem>
@@ -222,7 +236,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Moseley</Key>
-      <Text>, temp. 2nd Lt. on prob. K. B. (Flving Offir., and confd.)</Text>
+      <Title>temp. 2nd Lt. on prob.</Title>
+      <Forenames>K. B.</Forenames>
+      <Text>(Flving Offir., and confd.)</Text>
       <PageNumber>3442</PageNumber>
     </MainItem>
     <SubItem>
@@ -241,9 +257,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Moser</Key>
-      <Title>temp.</Title>
-      <Forenames>Lt</Forenames>
-      <Text>., attd., H. B. (aotg. Oapt.)</Text>
+      <Title>temp. Lt.</Title>
+      <Text>, attd., H. B. (aotg. Oapt.)</Text>
       <PageNumber>3405</PageNumber>
     </MainItem>
     <SubItem>
@@ -267,7 +282,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mosley</Key>
-      <Text>, temp. 2nd Lt., attd., C. (trd. to Ser. Bn.)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Text>, attd., C. (trd. to Ser. Bn.)</Text>
       <PageNumber>1516</PageNumber>
     </MainItem>
     <SubItem>
@@ -311,7 +327,8 @@
       <Key>
         <KeyDitto>——</KeyDitto>
       </Key>
-      <Text>temp. 2nd Lt., aittd., F. L. (trd.)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Text>, aittd., F. L. (trd.)</Text>
       <PageNumber>2022</PageNumber>
     </MainItem>
     <SubItem>
@@ -367,7 +384,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Mossman</Key>
-      <Text>, 2nd Lt. H. A., M.C. (aotg. Capt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>H. A.</Forenames>
+      <Text>, M.C. (aotg. Capt.)</Text>
       <PageNumber>3736</PageNumber>
     </MainItem>
     <SubItem>
@@ -386,7 +405,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Mostyn</Key>
-      <Text>, 2nd Lt. J. P. D. (Lt., and rem. seed.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>J. P. D.</Forenames>
+      <Text>(Lt., and rem. seed.)</Text>
       <PageNumber>2707</PageNumber>
     </MainItem>
     <SubItem>
@@ -405,22 +426,26 @@
   <ItemGroup>
     <MainItem>
       <Key>Motlhersdiale</Key>
-      <Text>, temp. 2nd Lt., attd., R. G. (trd. to Ser. Bn.)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Text>, attd., R. G. (trd. to Ser. Bn.)</Text>
       <PageNumber>252</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Motherwell</Key>
-      <Text>, temp. 2nd Lt. on prob. A. McK. (FlyingOffr., and conifd.)</Text>
+      <Title>temp. 2nd Lt. on prob.</Title>
+      <Forenames>A.</Forenames>
+      <Text>McK. (FlyingOffr., and conifd.)</Text>
       <PageNumber>226</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Motion</Key>
-      <Forenames>Lt</Forenames>
-      <Text>. (actg. Capt.) M. D, (actg. Maj.)</Text>
+      <Title>Lt. (actg. Capt.)</Title>
+      <Forenames>M. D</Forenames>
+      <Text>, (actg. Maj.)</Text>
       <PageNumber>1171</PageNumber>
     </MainItem>
     <SubItem>
@@ -442,7 +467,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Mott</Key>
-      <Text>, temp. 2nd Lt. C. E. (temp Lt.f</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>C. E.</Forenames>
+      <Text>(temp Lt.f</Text>
       <PageNumber>3377</PageNumber>
     </MainItem>
     <SubItem>
@@ -465,14 +492,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Mouatt-Bigigs</Key>
-      <Text>, 2nd. Lt. J. A. (Lt.)</Text>
+      <Text>2nd. Lt. J. A. (Lt.)</Text>
       <PageNumber>2705</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Mowbray</Key>
-      <Text>, 2nd Lt. J. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>J.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>227</PageNumber>
     </MainItem>
     <SubItem>
@@ -500,8 +529,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Mouillin</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. C. W. M., M.D., F.R.C.S. (Brevet Col.)</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>C. W. M.</Forenames>
+      <Text>, M.D., F.R.C.S. (Brevet Col.)</Text>
       <PageNumber>14</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -521,7 +551,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Moulkm-Barrett</Key>
-      <Text>, Maj. (T./Lt.-Col.) E. M., D.S.O. (Brevet Lt.-Col.)</Text>
+      <Title>Maj. (T./Lt.-Col.)</Title>
+      <Forenames>E. M.</Forenames>
+      <Text>, D.S.O. (Brevet Lt.-Col.)</Text>
       <PageNumber>11</PageNumber>
     </MainItem>
     <SubItem>
@@ -541,7 +573,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Mounsey</Key>
-      <Text>, 2nd Lt. J. G. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>J. G.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>1882</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -623,7 +657,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mowfortlh</Key>
-      <Text>, actg. Qrmr.-Sjt. H. P</Text>
+      <Title>actg. Qrmr.</Title>
+      <Text>-Sjt. H. P</Text>
       <PageNumber>670</PageNumber>
     </MainItem>
     <SubItem>
@@ -675,9 +710,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Moynihan</Key>
-      <Title>temp.</Title>
-      <Forenames>Surg</Forenames>
-      <Text>.-Gen. Sir B., Kt., C.B., M.B., F.R.C.S. (temp. Maj.-Gen.)</Text>
+      <Title>temp. Surg.</Title>
+      <Text>-Gen. Sir B., Kt., C.B., M.B., F.R.C.S. (temp. Maj.-Gen.)</Text>
       <PageNumber>2577</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -699,7 +733,7 @@
       <PageNumber>965</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Lt.-Col.) 2nd Lt. R. I. (Lt., and rem.</Text>
+      <Text>Lt.-Col.) 2nd Lt. R. I. (Lt., and rem</Text>
       <PageNumber>347</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -724,7 +758,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Muddiman</Key>
-      <Text>, temp. 2nd Lt. A. B</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>A. B.</Forenames>
       <PageNumber>1592</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -740,9 +775,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Mudge</Key>
-      <Title>Maj. and Bt.</Title>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. (T./ Brig.-Gen.) A. (Brevet Col.)</Text>
+      <Title>Maj. and Bt. Lt.-Col. (T./ Brig.-Gen.)</Title>
+      <Forenames>A.</Forenames>
+      <Text>(Brevet Col.)</Text>
       <PageNumber>9</PageNumber>
     </MainItem>
     <SubItem>

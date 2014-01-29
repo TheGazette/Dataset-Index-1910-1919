@@ -52,14 +52,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Tufton</Key>
-      <Text>, Mrs., League of Mercy</Text>
+      <Title>Mrs.</Title>
+      <Text>, League of Mercy</Text>
       <PageNumber>146</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Tuohy</Key>
-      <Text>, Mrs., Lady Vice-President, League of Mercy</Text>
+      <Title>Mrs., Lady</Title>
+      <Forenames>Vice-President</Forenames>
+      <Text>, League of Mercy</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -172,7 +175,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Willford</Key>
-      <Text>, C, Imperial Service Orde/r</Text>
+      <Forenames>C</Forenames>
+      <Text>, Imperial Service Orde/r</Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -206,7 +210,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Willis</Key>
-      <Text>, Mrs., Lady Vice-President League of Mercy ... ... ... J</Text>
+      <Title>Mrs., Lady</Title>
+      <Forenames>Vice-President League</Forenames>
+      <Text>of Mercy ... ... ... J</Text>
       <PageNumber>46</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -230,7 +236,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Woodall</Key>
-      <Text>, C, Knighted</Text>
+      <Forenames>C</Forenames>
+      <Text>, Knighted</Text>
       <PageNumber>1147</PageNumber>
       <PageNumber>1230</PageNumber>
     </MainItem>
@@ -476,7 +483,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>Prince, C. E. (2nd Lieut.)... Tindall, J. W. B. (2nd Lieut.) ...</Text>
+      <Title>Prince</Title>
+      <Text>, C. E. (2nd Lieut.)... Tindall, J. W. B. (2nd Lieut.) ...</Text>
       <PageNumber>___ ___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -652,7 +660,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Fergusson</Key>
-      <Text>, Maj.-Gen. Sir C, Bart., to command a division</Text>
+      <Title>Maj.-Gen. Sir</Title>
+      <Forenames>C</Forenames>
+      <Text>, Bart., to command a division</Text>
       <PageNumber>1057</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -695,7 +705,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Godby</Key>
-      <Text>, Col. C, Chief Engineer ...</Text>
+      <Title>Col.</Title>
+      <Forenames>C</Forenames>
+      <Text>, Chief Engineer ...</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -908,7 +920,7 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>. John, Lieut. Hon. R. T., Captain-General and Governor-inChief of Jamaica</Text>
+      <Text>John, Lieut. Hon. R. T., Captain-General and Governor-inChief of Jamaica</Text>
       <PageNumber>1757</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1098,7 +1110,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Croshaw</Key>
-      <Text>, 0. M. (Capt.)</Text>
+      <Text>0. M. (Capt.)</Text>
       <PageNumber>1352</PageNumber>
     </MainItem>
   </ItemGroup>

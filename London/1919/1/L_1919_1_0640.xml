@@ -12,8 +12,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lyons</Key>
-      <Forenames>Cad</Forenames>
-      <Text>.t A. (2nd Lt.)</Text>
+      <Title>Cad.</Title>
+      <Text>t A. (2nd Lt.)</Text>
       <PageNumber>2261</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -40,21 +40,24 @@
   <ItemGroup>
     <MainItem>
       <Key>Lyward</Key>
-      <Text>, temp. 2nd Lt, G. A(2nd! U.)</Text>
+      <Title>temp.</Title>
+      <Text>2nd Lt, G. A(2nd! U.)</Text>
       <PageNumber>2992</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Maben</Key>
-      <Text>,, 2nd Lt. J. (Lt.)</Text>
+      <Text>, 2nd Lt. J. (Lt.)</Text>
       <PageNumber>2715</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>McAllister</Key>
-      <Text>, 2nd Lt. A. J. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>A. J.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>2080</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -72,28 +75,36 @@
       <Key>
         <KeyDitto>___ ——.</KeyDitto>
       </Key>
-      <Text>2nd Lt. J. C. (Lt., and rem. seed.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>J. C.</Forenames>
+      <Text>(Lt., and rem. seed.)</Text>
       <PageNumber>696</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>McAlmont</Key>
-      <Text>, 2nd Lt. J. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>J.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>4113</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>McAndrew</Key>
-      <Text>, 2nd Lt. W. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>W.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>1500</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>McAnsh</Key>
-      <Text>, 2nd Lt. E. J. (Lt.) ... '</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>E. J.</Forenames>
+      <Text>(Lt.) ... '</Text>
       <PageNumber>3971</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -145,8 +156,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Macaulay</Key>
-      <Forenames>Lt</Forenames>
-      <Text>. (acfcg. Capt.) A., M.C. (rel. actg. rank of Capt. on ceasing to comd. a Co.)</Text>
+      <Title>Lt. (acfcg. Capt.)</Title>
+      <Forenames>A.</Forenames>
+      <Text>, M.C. (rel. actg. rank of Capt. on ceasing to comd. a Co.)</Text>
       <PageNumber>329</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -162,8 +174,9 @@
   <ItemGroup>
     <MainItem>
       <Key>MoBain</Key>
-      <Forenames>Lt</Forenames>
-      <Text>. (actg. Capt.) N. S. (rel. actg. rank of Capt. on ceasing to be 2nd in comd. of a Baity., E.F.A., T.F.)</Text>
+      <Title>Lt. (actg. Capt.)</Title>
+      <Forenames>N. S.</Forenames>
+      <Text>(rel. actg. rank of Capt. on ceasing to be 2nd in comd. of a Baity., E.F.A., T.F.)</Text>
       <PageNumber>1757</PageNumber>
     </MainItem>
     <SubItem>
@@ -174,7 +187,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Maobeath</Key>
-      <Text>, temp. 2nd Lt. J. (Adjt. and actg. Capt., with pay and allces. of a Lt.)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>J.</Forenames>
+      <Text>(Adjt. and actg. Capt., with pay and allces. of a Lt.)</Text>
       <PageNumber>3104</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -201,15 +216,16 @@
   <ItemGroup>
     <MainItem>
       <Key>McBryde</Key>
-      <Forenames>Lt</Forenames>
-      <Text>. (aotg. Capt., addtl.) A., M.C. (retains actg. rank of Capt. whilst aotg.' Adjt.)</Text>
+      <Title>Lt. (aotg. Capt., addtl.)</Title>
+      <Forenames>A.</Forenames>
+      <Text>, M.C. (retains actg. rank of Capt. whilst aotg.' Adjt.)</Text>
       <PageNumber>162</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>McCall</Key>
-      <Text>, 2nd' Lt. H. S. (Lt.)</Text>
+      <Text>2nd' Lt. H. S. (Lt.)</Text>
       <PageNumber>2080</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -238,7 +254,9 @@
       <Key>
         <KeyDitto>___ ___ .</KeyDitto>
       </Key>
-      <Text>2nd Lt. L. F. (Lit.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>L. F.</Forenames>
+      <Text>(Lit.)</Text>
       <PageNumber>1787</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -247,7 +265,9 @@
       <Key>
         <KeyDitto>___ ___ ___ .</KeyDitto>
       </Key>
-      <Text>2nd Lt. T. (Adjt. and actg. Oaipt., iwitih pay and .allces. . of a Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>T.</Forenames>
+      <Text>(Adjt. and actg. Oaipt., iwitih pay and .allces. . of a Lt.)</Text>
       <PageNumber>2947</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -263,7 +283,9 @@
   <ItemGroup>
     <MainItem>
       <Key>MoOausland</Key>
-      <Text>, Capt. (actg. Maj.) S., M.C. (Capt.)</Text>
+      <Title>Capt. (actg. Maj.)</Title>
+      <Forenames>S.</Forenames>
+      <Text>, M.C. (Capt.)</Text>
       <PageNumber>708</PageNumber>
     </MainItem>
     <SubItem>
@@ -274,14 +296,18 @@
   <ItemGroup>
     <MainItem>
       <Key>MdOlure</Key>
-      <Text>, Capt. (actg. Lt.^Ooil.) W. (Maj., aotg. Lt.^Col.)</Text>
+      <Title>Capt. (actg. Lt.^Ooil.)</Title>
+      <Forenames>W.</Forenames>
+      <Text>(Maj., aotg. Lt.^Col.)</Text>
       <PageNumber>302</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>McConnaidhie</Key>
-      <Text>, Capt. (aotg. Maj.) J. S., M.C., M.B. (rel. actg. rank on ceasing to be spec, emnld.^</Text>
+      <Title>Capt. (aotg. Maj.)</Title>
+      <Forenames>J. S.</Forenames>
+      <Text>, M.C., M.B. (rel. actg. rank on ceasing to be spec, emnld.^</Text>
       <PageNumber>1502</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -308,14 +334,17 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>2nd Lt. H. (jit.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>H.</Forenames>
+      <Text>(jit.)</Text>
       <PageNumber>3713</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>MoOoull</Key>
-      <Text>, Capt.' S., M.B. (trd. to R.A.M.C.) '</Text>
+      <Title>Capt.</Title>
+      <Text>' S., M.B. (trd. to R.A.M.C.) '</Text>
       <PageNumber>494</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -333,21 +362,26 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>Qrmr. and Ca.pt. J. (resigns comma. on transfer to R.A.F.) ... ... -</Text>
+      <Title>Qrmr. and Ca.</Title>
+      <Text>pt. J. (resigns comma. on transfer to R.A.F.) ... ... -</Text>
       <PageNumber>1756</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>MoCtracken</Key>
-      <Text>, 2nd Lt. L. (lit.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>L.</Forenames>
+      <Text>(lit.)</Text>
       <PageNumber>2354</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>MoOredie</Key>
-      <Text>, 2nd Lt. A. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>A.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>3221</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -363,8 +397,9 @@
   <ItemGroup>
     <MainItem>
       <Key>McOrone</Key>
-      <Forenames>Lt</Forenames>
-      <Text>. (actg. Capt.) R. W.,</Text>
+      <Title>Lt. (actg. Capt.)</Title>
+      <Forenames>R. W.</Forenames>
+      <Text>,</Text>
       <PageNumber>3612</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -380,7 +415,8 @@
   <ItemGroup>
     <MainItem>
       <Key>McCullagh</Key>
-      <Text>, Capt. (actg. Lt.-Col.) A</Text>
+      <Title>Capt. (actg. Lt.-Col.)</Title>
+      <Forenames>A.</Forenames>
       <PageNumber>506</PageNumber>
     </MainItem>
     <SubItem>
@@ -443,8 +479,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Maodonald</Key>
-      <Forenames>Lt</Forenames>
-      <Text>. (aotg. Ca.pt.) A. G., M.C. (adtg. Maj. while 2nd in</Text>
+      <Title>Lt. (aotg. Ca.pt.)</Title>
+      <Forenames>A. G.</Forenames>
+      <Text>, M.C. (adtg. Maj. while 2nd in</Text>
       <PageNumber>2949</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -462,14 +499,18 @@
       <Key>
         <KeyDitto>___ ___ ___ .</KeyDitto>
       </Key>
-      <Text>2nd Lt. C. (aotg. Adjt. and actg. Capt., wdltti .pay and allces. of lit.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>C.</Forenames>
+      <Text>(aotg. Adjt. and actg. Capt., wdltti .pay and allces. of lit.)</Text>
       <PageNumber>3984</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>McDonald</Key>
-      <Text>, 2nd Lt. D. W. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>D. W.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>2946</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -489,7 +530,9 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>2nd Lt. J. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>J.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>3277</PageNumber>
     </MainItem>
     <KeyDitto>___ ___ .</KeyDitto>
@@ -512,8 +555,9 @@
   <ItemGroup>
     <MainItem>
       <Key>McDonald</Key>
-      <Forenames>Lt</Forenames>
-      <Text>. (actg. Capt.) M. J. M.C. (aotg. Maj. whilst 2nd in comd.)</Text>
+      <Title>Lt. (actg. Capt.)</Title>
+      <Forenames>M. J.</Forenames>
+      <Text>M.C. (aotg. Maj. whilst 2nd in comd.)</Text>
       <PageNumber>493</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -581,14 +625,16 @@
   <ItemGroup>
     <MainItem>
       <Key>MoDouall</Key>
-      <Text>, 2nd Lt. J. H. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>J. H.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>491</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>MaciDougiall</Key>
-      <Text>, lit. (aotg. Oaipt., addtl.) A. (retains actg. .rank of lCapt. while comdg. a Oo.)</Text>
+      <Text>lit. (aotg. Oaipt., addtl.) A. (retains actg. .rank of lCapt. while comdg. a Oo.)</Text>
       <PageNumber>2234</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -604,7 +650,9 @@
   <ItemGroup>
     <MainItem>
       <Key>McDougall</Key>
-      <Text>, 2nd Lt. G. F. (lit.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>G. F.</Forenames>
+      <Text>(lit.)</Text>
       <PageNumber>1329</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -638,30 +686,33 @@
   <ItemGroup>
     <MainItem>
       <Key>MoDowall</Key>
-      <Text>, 2nd Lt. A. C. (lit.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>A. C.</Forenames>
+      <Text>(lit.)</Text>
       <PageNumber>1341</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>MaoDowell</Key>
-      <Forenames>Lt</Forenames>
-      <Text>. (actg. Capt.) J. D. (rel. commn. on acc. of illhealth .contracted on active service, and retains rank of Capt.)</Text>
+      <Title>Lt. (actg. Capt.)</Title>
+      <Forenames>J. D.</Forenames>
+      <Text>(rel. commn. on acc. of illhealth .contracted on active service, and retains rank of Capt.)</Text>
       <PageNumber>3880</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Macduff</Key>
-      <Forenames>Lit</Forenames>
-      <Text>.-Col. P. (retired, having attained tihe age limit, and retains rank)</Text>
+      <Title>Lit.</Title>
+      <Text>-Col. P. (retired, having attained tihe age limit, and retains rank)</Text>
       <PageNumber>3222</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Mace</Key>
-      <Text>, 2nd lit. A. J. (Lt.)</Text>
+      <Text>2nd lit. A. J. (Lt.)</Text>
       <PageNumber>3220</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -679,15 +730,16 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>. (aotg. Copt., addtl.) R. (re' tains aotg. rank of Capt. while comdg. a Go.)</Text>
+      <Title>Lt. (aotg. Copt., addtl.)</Title>
+      <Forenames>R.</Forenames>
+      <Text>(re' tains aotg. rank of Capt. while comdg. a Go.)</Text>
       <PageNumber>2685</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>MacEwen</Key>
-      <Text>,' Lt. {aotg.Capt.) G. M. (rel. commn. on ' acc. of illhealth contracted on active ser. vice, and retains rank of Capt.)</Text>
+      <Text>' Lt. {aotg.Capt.) G. M. (rel. commn. on ' acc. of illhealth contracted on active ser. vice, and retains rank of Capt.)</Text>
       <PageNumber>3106</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -703,15 +755,16 @@
   <ItemGroup>
     <MainItem>
       <Key>MacFarlane</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. (Bt. Col.) D. . J. Mason, C.M.G. (Col.)</Text>
+      <Title>Lt.-Col. (Bt. Col.)</Title>
+      <Forenames>D.</Forenames>
+      <Text>. J. Mason, C.M.G. (Col.)</Text>
       <PageNumber>4149</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Maofarlane</Key>
-      <Text>,' lit. I. {restd. to estabt.)</Text>
+      <Text>' lit. I. {restd. to estabt.)</Text>
       <PageNumber>1146</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -764,7 +817,9 @@
   <ItemGroup>
     <MainItem>
       <Key>McGeoch</Key>
-      <Text>, 2nd Lt. M. (lit.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>M.</Forenames>
+      <Text>(lit.)</Text>
       <PageNumber>2946</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -791,7 +846,9 @@
   <ItemGroup>
     <MainItem>
       <Key>McGilchrist</Key>
-      <Text>, 2nd Lt. J. M. C. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>J. M. C.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>1939</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -820,7 +877,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>2nd Lt. J. U. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>J. U.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>2848</PageNumber>
     </MainItem>
     <SubItem>
@@ -833,22 +892,27 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>2nd Lt. T. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>T.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>684</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>MacGillivray</Key>
-      <Forenames>Lt</Forenames>
-      <Text>. (actg. Capt.) A. R. (rel. ooramn. on aoc. of illhealth, and retains rank of Capt.)</Text>
+      <Title>Lt. (actg. Capt.)</Title>
+      <Forenames>A. R.</Forenames>
+      <Text>(rel. ooramn. on aoc. of illhealth, and retains rank of Capt.)</Text>
       <PageNumber>2516</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>McGilreray</Key>
-      <Text>, 2nd Lt. A. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>A.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>2080</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -864,7 +928,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McGowan</Key>
-      <Text>, lit. A. J. (rel. commn. on acc. of ill-health, and retains rank of Lt.)</Text>
+      <Text>lit. A. J. (rel. commn. on acc. of ill-health, and retains rank of Lt.)</Text>
       <PageNumber>492</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -873,14 +937,18 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>2nd Lt. J. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>J.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>685</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>MoGowandj</Key>
-      <Text>2nd Lt. W. (seed, for serv. with R.A.F.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>W.</Forenames>
+      <Text>(seed, for serv. with R.A.F.)</Text>
       <PageNumber>1145</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -896,15 +964,18 @@
   <ItemGroup>
     <MainItem>
       <Key>McGregor</Key>
-      <Text>, 2nd Lt. D. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>D.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>2262</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Macgregor</Key>
-      <Forenames>Lt</Forenames>
-      <Text>. (aotg. Capt.) D. E. F., M.C. (aictg. Adjt., and retains actg. rank of Capt.)</Text>
+      <Title>Lt. (aotg. Capt.)</Title>
+      <Forenames>D. E. F.</Forenames>
+      <Text>, M.C. (aictg. Adjt., and retains actg. rank of Capt.)</Text>
       <PageNumber>444</PageNumber>
     </MainItem>
     <SubItem>
@@ -917,8 +988,9 @@
   <ItemGroup>
     <MainItem>
       <Key>McGregor</Key>
-      <Forenames>Lt</Forenames>
-      <Text>. (temp. Oaipt.) D. H., M.C. (restd. to estabt.)</Text>
+      <Title>Lt. (temp. Oaipt.)</Title>
+      <Forenames>D. H.</Forenames>
+      <Text>, M.C. (restd. to estabt.)</Text>
       <PageNumber>2991</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -983,15 +1055,18 @@
   <ItemGroup>
     <MainItem>
       <Key>McHattie</Key>
-      <Text>, Capt. (actg. Maj.) T. J. T., M.D. (rel. actg. rank)</Text>
+      <Title>Capt. (actg. Maj.)</Title>
+      <Forenames>T. J. T.</Forenames>
+      <Text>, M.D. (rel. actg. rank)</Text>
       <PageNumber>3615</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Mochin</Key>
-      <Forenames>Lt</Forenames>
-      <Text>. (actg. Capt.) A. E. (Tel. actg. rank of Capt. on ceasing .to be adtg. Adjt.)</Text>
+      <Title>Lt. (actg. Capt.)</Title>
+      <Forenames>A. E.</Forenames>
+      <Text>(Tel. actg. rank of Capt. on ceasing .to be adtg. Adjt.)</Text>
       <PageNumber>3580</PageNumber>
     </MainItem>
   </ItemGroup>

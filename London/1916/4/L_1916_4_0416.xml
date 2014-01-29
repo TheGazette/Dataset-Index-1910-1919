@@ -298,14 +298,15 @@
   <ItemGroup>
     <MainItem>
       <Key>McDonald</Key>
-      <Text>, C, M.B. (temp.)</Text>
+      <Forenames>C</Forenames>
+      <Text>, M.B. (temp.)</Text>
       <PageNumber>10284</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>MacKenzie</Key>
-      <Text>,.K. A. I., M.B. (temp.)</Text>
+      <Text>.K. A. I., M.B. (temp.)</Text>
       <PageNumber>12478</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -504,7 +505,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Angold</Key>
-      <Text>, (temp.) (Lt. H. F. (seod. lor serv. witih the Army)</Text>
+      <Title>(temp.)</Title>
+      <Text>(Lt. H. F. (seod. lor serv. witih the Army)</Text>
       <PageNumber>10856</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -655,11 +657,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Byrne</Key>
-      <Text>, 2nd. Lt. F. M. (term, of temp, commn, amd appt.)</Text>
+      <Text>2nd. Lt. F. M. (term, of temp, commn, amd appt.)</Text>
       <PageNumber>11409</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Date of termn. of temp. commn</Text>
+      <Text>Date of termn. of temp. commn.</Text>
       <PageNumber>12229</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -674,16 +676,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Carryer</Key>
-      <Text>, 2nd Lt. N. R. (term, of temp, commn)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>N. R.</Forenames>
+      <Text>(term, of temp, commn)</Text>
       <PageNumber>10081</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Carter</Key>
-      <Title>actg.</Title>
-      <Forenames>Serit</Forenames>
-      <Text>.-Maj. A. (temp.)</Text>
+      <Title>actg. Serit.</Title>
+      <Text>-Maj. A. (temp.)</Text>
       <PageNumber>11597</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -778,14 +781,18 @@
   <ItemGroup>
     <MainItem>
       <Key>Dick</Key>
-      <Text>, (temp.) Capt. T. S. (seed, for serv. with the Army)</Text>
+      <Title>(temp.) Capt.</Title>
+      <Forenames>T. S.</Forenames>
+      <Text>(seed, for serv. with the Army)</Text>
       <PageNumber>12229</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Dingli</Key>
-      <Text>, (temp.) Capt. A. (seodi. for serv. under Min. of Munitions)</Text>
+      <Title>(temp.) Capt.</Title>
+      <Forenames>A.</Forenames>
+      <Text>(seodi. for serv. under Min. of Munitions)</Text>
       <PageNumber>11403</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -960,7 +967,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hore</Key>
-      <Text>. F. J. (temp. Qr.-Mr. and Hon. Lt.)</Text>
+      <Forenames>F. J.</Forenames>
+      <Text>(temp. Qr.-Mr. and Hon. Lt.)</Text>
       <PageNumber>12124</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1013,7 +1021,7 @@
       <PageNumber>10080</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Date of promn</Text>
+      <Text>Date of promn.</Text>
       <PageNumber>10635</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1060,7 +1068,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lee</Key>
-      <Text>, J C. (temp. 2nd Lt.)</Text>
+      <Forenames>J</Forenames>
+      <Text>C. (temp. 2nd Lt.)</Text>
       <PageNumber>12125</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1159,14 +1168,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Moir</Key>
-      <Text>. G. H. (temp. 2nd Lt.)</Text>
+      <Forenames>G. H.</Forenames>
+      <Text>(temp. 2nd Lt.)</Text>
       <PageNumber>10967</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Newling</Key>
-      <Text>. G. A. (temp. 2nd Lt.)</Text>
+      <Forenames>G. A.</Forenames>
+      <Text>(temp. 2nd Lt.)</Text>
       <PageNumber>10967</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1182,7 +1193,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Nourse</Key>
-      <Text>. L. F. (temp. Capt.)</Text>
+      <Forenames>L. F.</Forenames>
+      <Text>(temp. Capt.)</Text>
       <PageNumber>11250</PageNumber>
     </MainItem>
     <SubItem>
@@ -1327,7 +1339,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Roberts</Key>
-      <Text>, 0. A. L. (temp. 2nd Lt.)</Text>
+      <Text>0. A. L. (temp. 2nd Lt.)</Text>
       <PageNumber>12125</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1423,7 +1435,7 @@
       <PageNumber>9660</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>fit. and temp. Cap*</Text>
+      <Text>fit. and temp. Cap*.</Text>
       <PageNumber>11842</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1456,7 +1468,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sulivan</Key>
-      <Text>.G. H. (temp. Capt.)</Text>
+      <Forenames>G. H.</Forenames>
+      <Text>(temp. Capt.)</Text>
       <PageNumber>11250</PageNumber>
     </MainItem>
     <SubItem>
@@ -1587,7 +1600,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Wilks</Key>
-      <Text>, (temp.) Capt. G. L. (seed. for serv. with the Army)</Text>
+      <Title>(temp.) Capt.</Title>
+      <Forenames>G. L.</Forenames>
+      <Text>(seed. for serv. with the Army)</Text>
       <PageNumber>11842</PageNumber>
     </MainItem>
     <SubItem>
@@ -1598,7 +1613,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Wiillcox</Key>
-      <Text>, (temp.) Lt. H. V. S. (correction of name)</Text>
+      <Title>(temp.) Lt.</Title>
+      <Forenames>H. V. S.</Forenames>
+      <Text>(correction of name)</Text>
       <PageNumber>11842</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1697,7 +1714,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Waterman</Key>
-      <Text>, (temp.) Capt. T. (supern.)</Text>
+      <Title>(temp.) Capt.</Title>
+      <Forenames>T.</Forenames>
+      <Text>(supern.)</Text>
       <PageNumber>12583</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1714,8 +1733,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Bangor</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Viscount B. M. (term, of temp, commd. and appt. on appt. to Army)</Text>
+      <Title>Lt.-Col. Viscount</Title>
+      <Forenames>B. M.</Forenames>
+      <Text>(term, of temp, commd. and appt. on appt. to Army)</Text>
       <PageNumber>11156</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1731,7 +1751,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Burrin</Key>
-      <Text>, 'Hon. Lt. and Qrmr. E. D. (termination of temp, commn. and appt. on appt. a3 temp. Asst. Paymaster, B.N.V.R</Text>
+      <Text>'Hon. Lt. and Qrmr. E. D. (termination of temp, commn. and appt. on appt. a3 temp. Asst. Paymaster, B.N.V.R</Text>
       <PageNumber>9556</PageNumber>
     </MainItem>
   </ItemGroup>

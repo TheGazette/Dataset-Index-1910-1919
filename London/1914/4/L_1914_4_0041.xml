@@ -3,7 +3,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Chappie</Key>
-      <Text>, .William Allan, M.D. {temporary Maj.)</Text>
+      <Text>.William Allan, M.D. {temporary Maj.)</Text>
       <PageNumber>9665</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -62,7 +62,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>Lieut.)</Text>
+      <Title>Lieut.</Title>
+      <Text>)</Text>
       <PageNumber>8135</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -104,7 +105,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Coates</Key>
-      <Text>, ___ Thomas S., M.B. (Maj.)</Text>
+      <Text>___ Thomas S., M.B. (Maj.)</Text>
       <PageNumber>8765</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -213,14 +214,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Couper</Key>
-      <Text>,, Alexander, Johnston, M.B. (temporary Lieut.) Courts,. Arnold C Summerson, M.D. (temporary Lieut.)</Text>
+      <Text>, Alexander, Johnston, M.B. (temporary Lieut.) Courts,. Arnold C Summerson, M.D. (temporary Lieut.)</Text>
       <PageNumber>11025</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Cowan</Key>
-      <Text>, PArcy R. Warren, M.B. (temporary Lieut.)</Text>
+      <Text>PArcy R. Warren, M.B. (temporary Lieut.)</Text>
       <PageNumber>10192</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -310,7 +311,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Culpin</Key>
-      <Text>,. Millais, M.B., F.R.C.S. (temporary Lieut.)</Text>
+      <Text>. Millais, M.B., F.R.C.S. (temporary Lieut.)</Text>
       <PageNumber>9665</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -484,7 +485,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dobbie</Key>
-      <Text>,John Nairn; M;B. (temporary Lieut.)</Text>
+      <Text>John Nairn; M;B. (temporary Lieut.)</Text>
       <PageNumber>11024</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -758,7 +759,15 @@
     <MainItem>
       <Key>Emerson</Key>
       <Forenames>Herbert</Forenames>
-      <Text>, M.B. (temporary Lieut.) ibid. ' Eminson, Ralph Franklin, M.B. (temporary Lieut.)-</Text>
+      <Text>, M.B. (temporary Lieut.)</Text>
+      <PageNumber>ibid.</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Eminson</Key>
+      <Forenames>Ralph</Forenames>
+      <Text>Franklin, M.B. (temporary Lieut.)-</Text>
       <PageNumber>8614</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -783,7 +792,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Esler</Key>
-      <Text>, M; S. (temporary, Lieut.)</Text>
+      <Forenames>M</Forenames>
+      <Text>; S. (temporary, Lieut.)</Text>
       <PageNumber>9018</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -877,7 +887,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ferguson</Key>
-      <Text>, J; G., M.D. (temporary Lieut.)</Text>
+      <Forenames>J</Forenames>
+      <Text>; G., M.D. (temporary Lieut.)</Text>
       <PageNumber>9018</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -886,8 +897,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>James-</Forenames>
-      <Text>. McKee (temporary Lieut.)</Text>
+      <Title>James-.</Title>
+      <Text>McKee (temporary Lieut.)</Text>
       <PageNumber>11203</PageNumber>
     </MainItem>
   </ItemGroup>

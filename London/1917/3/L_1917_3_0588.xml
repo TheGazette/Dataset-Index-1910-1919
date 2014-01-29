@@ -411,7 +411,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Skinner</Key>
-      <Text>, &lt;W. \H. (Oh. ,Skr.)</Text>
+      <Text>&lt;W. \H. (Oh. ,Skr.)</Text>
       <PageNumber>6549</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -484,9 +484,8 @@
       <Key>
         <KeyDitto>___ ___ ___ .</KeyDitto>
       </Key>
-      <Title>temp.</Title>
-      <Forenames>Eng</Forenames>
-      <Text>.-Sub-Lt. J., D.S.C. (temp. Eng.-Lt.)</Text>
+      <Title>temp. Eng.</Title>
+      <Text>-Sub-Lt. J., D.S.C. (temp. Eng.-Lt.)</Text>
       <PageNumber>8895</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -595,7 +594,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stagg</Key>
-      <Text>,.R. W. (Lt.-Cdr.)</Text>
+      <Text>.R. W. (Lt.-Cdr.)</Text>
       <PageNumber>6548</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -642,7 +641,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stenhouse</Key>
-      <Text>, Sub-Lt. on prob. J. R. (confd.)</Text>
+      <Title>Sub-Lt</Title>
+      <Text>. on prob. J. R. (confd.)</Text>
       <PageNumber>7129</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -701,7 +701,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stoveld</Key>
-      <Text>.,. W. C. T. (temp. Lt)</Text>
+      <Text>,. W. C. T. (temp. Lt)</Text>
       <PageNumber>7915</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -732,7 +732,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Strange</Key>
-      <Text>,J. D. E. (temp. Eng.Sub-Lt.)</Text>
+      <Text>J. D. E. (temp. Eng.Sub-Lt.)</Text>
       <PageNumber>7668</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -763,7 +763,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sudell</Key>
-      <Text>,' F. (Lt.-Cdr.)</Text>
+      <Text>' F. (Lt.-Cdr.)</Text>
       <PageNumber>9877</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1493,7 +1493,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Whitehouse</Key>
-      <Text>, R {temp. Eng.-lLt.)</Text>
+      <Forenames>R</Forenames>
+      <Text>{temp. Eng.-lLt.)</Text>
       <PageNumber>8703</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1610,7 +1611,8 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>J; A. J. flLt.)</Text>
+      <Forenames>J</Forenames>
+      <Text>; A. J. flLt.)</Text>
       <PageNumber>7915</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1619,7 +1621,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>J: H. (temp. Lt.)</Text>
+      <Forenames>J</Forenames>
+      <Text>: H. (temp. Lt.)</Text>
       <PageNumber>9757</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1628,7 +1631,8 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>J: R. (temp. Lt.)</Text>
+      <Forenames>J</Forenames>
+      <Text>: R. (temp. Lt.)</Text>
       <PageNumber>8702</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1637,7 +1641,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>J: R. (Lt.-Cdr.)</Text>
+      <Forenames>J</Forenames>
+      <Text>: R. (Lt.-Cdr.)</Text>
       <PageNumber>9270</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1888,7 +1893,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Youel</Key>
-      <Text>, -M. S. (Sub-Lt.)</Text>
+      <Text>-M. S. (Sub-Lt.)</Text>
       <PageNumber>6548</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1948,8 +1953,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Borton</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Cdr. W</Text>
+      <Title>Lt.</Title>
+      <Text>-Cdr. W</Text>
       <PageNumber>9270</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2004,8 +2009,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Moorhouse</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Cdr. Reginald</Text>
+      <Title>Lt.</Title>
+      <Text>-Cdr. Reginald</Text>
       <PageNumber>7916</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2020,8 +2025,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Scott</Key>
-      <Forenames>Engr</Forenames>
-      <Text>.-Lt.-Cdr. W</Text>
+      <Title>Engr.</Title>
+      <Text>-Lt.-Cdr. W</Text>
       <PageNumber>7129</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2036,8 +2041,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Tomkins</Key>
-      <Forenames>Eng</Forenames>
-      <Text>.-Lt. William H</Text>
+      <Title>Eng.</Title>
+      <Text>-Lt. William H</Text>
       <PageNumber>7916</PageNumber>
     </MainItem>
   </ItemGroup>

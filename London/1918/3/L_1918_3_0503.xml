@@ -11,7 +11,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brown</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>8338</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -25,7 +25,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fitzgerald</Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>9113</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -439,6 +439,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>Smithies</Key>
+      <Forenames>W. A.</Forenames>
+      <Text>(confd.)</Text>
+      <PageNumber>8503</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Stone</Key>
       <Forenames>F.</Forenames>
       <Text>(confd.)</Text>
@@ -587,7 +595,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Smale</Key>
-      <Text>W. G</Text>
+      <Text>. W. G</Text>
       <PageNumber>9701</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -650,7 +658,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gulliver</Key>
-      <Text>A H</Text>
+      <Forenames>A</Forenames>
+      <Text>H</Text>
       <PageNumber>11443</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -686,14 +695,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Carter</Key>
-      <Text>B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>7767</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Finnis</Key>
-      <Text>S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>8900</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -767,7 +776,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hogan</Key>
-      <Text>W. D</Text>
+      <Text>. W. D</Text>
       <PageNumber>8200</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -861,7 +870,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Buchanan</Key>
-      <Text>G., MB. (temp.)</Text>
+      <Text>. G., MB. (temp.)</Text>
       <PageNumber>9114</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -908,7 +917,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Heath</Key>
-      <Text>W E. (temp.)</Text>
+      <Forenames>W</Forenames>
+      <Text>E. (temp.)</Text>
       <PageNumber>8900</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1152,7 +1162,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Birch</Key>
-      <Text>temp. Sub-Lt. H. C. (temp. Lt.)</Text>
+      <Title>temp. Sub-Lt</Title>
+      <Text>. H. C. (temp. Lt.)</Text>
       <PageNumber>10393</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1250,8 +1261,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bunyan</Key>
-      <Forenames>Lt</Forenames>
-      <Text>. DA. A. (actg. Maj.)</Text>
+      <Title>Lt.</Title>
+      <Text>DA. A. (actg. Maj.)</Text>
       <PageNumber>11193</PageNumber>
     </MainItem>
   </ItemGroup>

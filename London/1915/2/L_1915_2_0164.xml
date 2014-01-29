@@ -55,7 +55,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Nevill</Key>
-      <Text>(temporary) 2nd Lieut. Richard W. Douglas (correction of date) .-</Text>
+      <Title>(temporary) 2nd Lieut.</Title>
+      <Forenames>Richard W. Douglas</Forenames>
+      <Text>(correction of date) .-</Text>
       <PageNumber>3589</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -64,7 +66,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>Lieut.)</Text>
+      <Title>Lieut.</Title>
+      <Text>)</Text>
       <PageNumber>4419</PageNumber>
     </MainItem>
     <SubItem>
@@ -94,6 +97,14 @@
       <Forenames>Edgar Isaac</Forenames>
       <Text>(temporary 2nd Lieut.)</Text>
       <PageNumber>5879</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Newill</Key>
+      <Forenames>Harry Strick</Forenames>
+      <Text>(temporary 2nd Lieut., cancelled)</Text>
+      <PageNumber>4421</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -293,7 +304,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Nicolls</Key>
-      <Text>(temporary) 2nd Lieut. Geoffrey (relinquishes his commission)</Text>
+      <Title>(temporary) 2nd Lieut.</Title>
+      <Forenames>Geoffrey</Forenames>
+      <Text>(relinquishes his commission)</Text>
       <PageNumber>5609</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -412,7 +425,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Nunn</Key>
-      <Text>Edward (temporary 2nd Lieut.)</Text>
+      <Text>. Edward (temporary 2nd Lieut.)</Text>
       <PageNumber>4900</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -839,7 +852,16 @@
       <PageNumber>3252</PageNumber>
     </MainItem>
   </ItemGroup>
-  <KeyDitto>—— ___ ___</KeyDitto>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>—— ___ ___</KeyDitto>
+      </Key>
+      <Forenames>John Fraser</Forenames>
+      <Text>(temporary 2nd Lieut.)</Text>
+      <PageNumber>4274</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Outwin</Key>

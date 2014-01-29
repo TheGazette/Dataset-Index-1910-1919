@@ -11,6 +11,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>Kerans</Key>
+      <Forenames>W. L.</Forenames>
+      <Text>(Capt.)</Text>
+      <PageNumber>415</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>King</Key>
       <Title>Brevet Col.</Title>
       <Forenames>C. W.</Forenames>
@@ -291,14 +299,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Luker</Key>
-      <Text>Capt. R</Text>
+      <Title>Capt.</Title>
+      <Forenames>R</Forenames>
       <PageNumber>695</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Maclear</Key>
-      <Text>Lieut. B</Text>
+      <Title>Lieut.</Title>
+      <Forenames>B</Forenames>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -406,6 +416,31 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>Army</Key>
+      <Forenames>Ordnance Department</Forenames>
+      <Text>. j Bainbridge, Maj. N. B. (retained)</Text>
+      <PageNumber>1468</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Baker</Key>
+      <Forenames>J.</Forenames>
+      <Text>(Capt.)</Text>
+      <PageNumber>859</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Boyd</Key>
+      <Title>Capt.</Title>
+      <Forenames>A. C.</Forenames>
+      <Text>(Ordnance Officer, 3rd Class)</Text>
+      <PageNumber>2056</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Bush</Key>
       <Title>Capt.</Title>
       <Forenames>H. S.</Forenames>
@@ -496,6 +531,15 @@
       <Forenames>T. W. S.</Forenames>
       <Text>(Maj.)</Text>
       <PageNumber>ibid.</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Knaggs</Key>
+      <Title>Maj.</Title>
+      <Forenames>M. H.</Forenames>
+      <Text>(retained)</Text>
+      <PageNumber>1239</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -643,8 +687,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Benson</Key>
-      <Forenames>Qimr</Forenames>
-      <Text>. and Hon. Capt. -g G. S. (retiied) Biggar, B. (Lieut.)</Text>
+      <Title>Qimr. and Hon. Capt.</Title>
+      <Text>-g G. S. (retiied) Biggar, B. (Lieut.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -751,7 +795,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Convngham</Key>
-      <Text>C. A. T. (Capt.)</Text>
+      <Text>. C. A. T. (Capt.)</Text>
       <PageNumber>1336</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -798,7 +842,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bowling</Key>
-      <Text>F. T. (Capt.)</Text>
+      <Text>. F. T. (Capt.)</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -878,7 +922,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Graham</Key>
-      <Text>W. T. (Lieut.)</Text>
+      <Text>. W. T. (Lieut.)</Text>
       <PageNumber>1239</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1241,7 +1285,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Townsend</Key>
-      <Text>Lieut.-Col. S ',. (retired)</Text>
+      <Title>Lieut.-Col.</Title>
+      <Forenames>S</Forenames>
+      <Text>',. (retired)</Text>
       <PageNumber>955</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1292,7 +1338,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>(seconded)</Text>
+      <Title>(seconded)</Title>
       <PageNumber>1239</PageNumber>
       <PageNumber>2149</PageNumber>
     </MainItem>
@@ -1335,8 +1381,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gallwev</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Gen. Sir T. J. (retired)</Text>
+      <Title>Surg.</Title>
+      <Text>-Gen. Sir T. J. (retired)</Text>
       <PageNumber>2149</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1384,7 +1430,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wardrop</Key>
-      <Text>Col.»D. (retired pay)</Text>
+      <Title>Col.</Title>
+      <Text>»D. (retired pay)</Text>
       <PageNumber>1043</PageNumber>
     </MainItem>
   </ItemGroup>

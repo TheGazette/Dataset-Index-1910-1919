@@ -363,8 +363,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Blacker</Key>
-      <Forenames>George</Forenames>
-      <Text>. M.D., F.R.C.S., (temporary Capt.)</Text>
+      <Title>George.</Title>
+      <Text>M.D., F.R.C.S., (temporary Capt.)</Text>
       <PageNumber>5481</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -482,7 +482,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Body</Key>
-      <Text>(temporary) Capt. Thomas M. (relinquishes his commis</Text>
+      <Title>(temporary) Capt.</Title>
+      <Forenames>Thomas M.</Forenames>
+      <Text>(relinquishes his commis</Text>
       <PageNumber>4765</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -718,7 +720,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brook</Key>
-      <Text>Lieut. Alexander Barnett,</Text>
+      <Text>. Lieut. Alexander Barnett,</Text>
       <PageNumber>5756</PageNumber>
     </MainItem>
     <SubItem>
@@ -917,8 +919,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>John</Forenames>
-      <Text>. M.D. (temporary Lieut.)</Text>
+      <Title>John.</Title>
+      <Text>M.D. (temporary Lieut.)</Text>
       <PageNumber>4779</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1048,7 +1050,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Burton</Key>
-      <Text>(temporary) Hon. Lieut. Hugh, M.B. (temporary Lieut.)</Text>
+      <Title>(temporary) Hon. Lieut.</Title>
+      <Forenames>Hugh</Forenames>
+      <Text>, M.B. (temporary Lieut.)</Text>
       <PageNumber>6143</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1113,14 +1117,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Callender</Key>
-      <Text>Duncan MacNab, M.B., F.R.C.S.Edin. (temporary Lieut.)</Text>
+      <Text>. Duncan MacNab, M.B., F.R.C.S.Edin. (temporary Lieut.)</Text>
       <PageNumber>4249</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Calwell</Key>
-      <Text>(temporary) Lieut. William K., M.B. (correction)</Text>
+      <Title>(temporary) Lieut.</Title>
+      <Forenames>William K.</Forenames>
+      <Text>, M.B. (correction)</Text>
       <PageNumber>5516</PageNumber>
     </MainItem>
   </ItemGroup>

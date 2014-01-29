@@ -253,7 +253,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Watson</Key>
-      <Text>, .Charles E. Stephens i(2nd Lieut.)</Text>
+      <Text>.Charles E. Stephens i(2nd Lieut.)</Text>
       <PageNumber>7904</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -532,7 +532,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Butler</Key>
-      <Text>, (temporary) 2nd Lieut. Percy Charles (relinquishes his commission)</Text>
+      <Title>(temporary) 2nd Lieut.</Title>
+      <Forenames>Percy Charles</Forenames>
+      <Text>(relinquishes his commission)</Text>
       <PageNumber>7179</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -606,7 +608,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Clare</Key>
-      <Text>, (temporary) 'Capt. Oliver C. '(Adjt.j</Text>
+      <Title>(temporary)</Title>
+      <Text>'Capt. Oliver C. '(Adjt.j</Text>
       <PageNumber>7745</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -775,6 +778,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>Findlay</Key>
+      <Forenames>James L.</Forenames>
+      <Text>(temporary Lieut.)</Text>
+      <PageNumber>8612</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>FitzGerald</Key>
       <Forenames>A. E.</Forenames>
       <Text>(Maj.)</Text>
@@ -938,7 +949,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Hewitt</Key>
-      <Text>, Capt. The Hon. A: R. ' (temporary Maj.)</Text>
+      <Title>Capt. The Hon.</Title>
+      <Forenames>A</Forenames>
+      <Text>: R. ' (temporary Maj.)</Text>
       <PageNumber>8624</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -971,7 +984,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Ingram</Key>
-      <Text>, (temporary) 2nd Lieut. Leslie E. (removed from the Army, the King having no further use for 'his services)</Text>
+      <Title>(temporary) 2nd Lieut.</Title>
+      <Forenames>Leslie E.</Forenames>
+      <Text>(removed from the Army, the King having no further use for 'his services)</Text>
       <PageNumber>8833</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1042,7 +1057,9 @@
   <ItemGroup>
     <MainItem>
       <Key>King</Key>
-      <Text>, (temporary) Lieut. John T. Haloin (relinquishes his commission)</Text>
+      <Title>(temporary) Lieut.</Title>
+      <Forenames>John T. Haloin</Forenames>
+      <Text>(relinquishes his commission)</Text>
       <PageNumber>6940</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1059,7 +1076,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Lake</Key>
-      <Text>, (temporary) 2nd Lieut. George H. W. (relinquishes his commission)</Text>
+      <Title>(temporary) 2nd Lieut.</Title>
+      <Forenames>George H. W.</Forenames>
+      <Text>(relinquishes his commission)</Text>
       <PageNumber>9229</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1074,8 +1093,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Lawrence</Key>
-      <Forenames>Clifford</Forenames>
-      <Text>. A\ Thomas (temporary 2nd Lieut.)</Text>
+      <Title>Clifford .</Title>
+      <Forenames>A</Forenames>
+      <Text>\ Thomas (temporary 2nd Lieut.)</Text>
       <PageNumber>9304</PageNumber>
     </MainItem>
   </ItemGroup>

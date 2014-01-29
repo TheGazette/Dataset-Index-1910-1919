@@ -66,11 +66,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Scarborough</Key>
-      <Text>Col. Earl of (retired)</Text>
+      <Title>Col. Earl</Title>
+      <Text>of (retired)</Text>
       <PageNumber>6703</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Officers of the Indian Army</SubCategoryTitle>
   <SectionTitle>Promotions</SectionTitle>
   <SectionTitle>Major.-Generals</SectionTitle>
   <SubSubSectionTitle>Retired List</SubSubSectionTitle>
@@ -397,7 +397,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Finnie</Key>
-      <Text>A. M</Text>
+      <Text>. A. M</Text>
       <PageNumber>6705</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -434,7 +434,15 @@
     <MainItem>
       <Key>Lindesay</Key>
       <Forenames>F. S.</Forenames>
-      <Text>(correction) ... ibid. \ Luck, T. (correction)</Text>
+      <Text>(correction) ...</Text>
+      <PageNumber>ibid.</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Luck</Key>
+      <Forenames>T.</Forenames>
+      <Text>(correction)</Text>
       <PageNumber>6705</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -564,7 +572,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wilson</Key>
-      <Text>J. H. G. (correction)</Text>
+      <Text>. J. H. G. (correction)</Text>
       <PageNumber>6705</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -586,7 +594,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cordeaux</Key>
-      <Text>H. E. S. (correction)</Text>
+      <Text>. H. E. S. (correction)</Text>
       <PageNumber>6706</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -687,14 +695,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Tweedy</Key>
-      <Text>R, J</Text>
+      <Forenames>R</Forenames>
+      <Text>, J</Text>
       <PageNumber>6705</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Williamson</Key>
-      <Text>A. A</Text>
+      <Text>. A. A</Text>
       <PageNumber>4880</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -907,7 +916,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pollard</Key>
-      <Text>G. L. G</Text>
+      <Text>. G. L. G</Text>
       <PageNumber>4880</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -921,7 +930,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Reeves</Key>
-      <Text>P</Text>
+      <Text>. P</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -935,7 +944,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ricketts</Key>
-      <Text>E. L</Text>
+      <Text>. E. L</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -956,14 +965,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Shewen</Key>
-      <Text>D. G. P. M</Text>
+      <Text>. D. G. P. M</Text>
       <PageNumber>4880</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Steward</Key>
-      <Text>C. W. dA</Text>
+      <Text>. C. W. dA</Text>
       <PageNumber>4881</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1083,7 +1092,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ba</Key>
-      <Text>tenyui-Champain, Maj. H. F., Military Secretary</Text>
+      <Text>.tenyui-Champain, Maj. H. F., Military Secretary</Text>
       <PageNumber>6003</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1257,7 +1266,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Conway-Gordon</Key>
-      <Text>Capt, E. C. W., Instructor</Text>
+      <Text>. Capt, E. C. W., Instructor</Text>
       <PageNumber>6377</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1299,7 +1308,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Good</Key>
-      <Text>J -</Text>
+      <Forenames>J</Forenames>
+      <Text>-</Text>
       <PageNumber>6292</PageNumber>
     </MainItem>
   </ItemGroup>

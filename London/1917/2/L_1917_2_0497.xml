@@ -19,14 +19,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Armsden</Key>
-      <Text>, E&gt; J. V. (temp. Sub-Lt.)</Text>
+      <Forenames>E</Forenames>
+      <Text>&gt; J. V. (temp. Sub-Lt.)</Text>
       <PageNumber>3834</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Arnold</Key>
-      <Text>, iH. J. (temp. Sub-Lt.) :</Text>
+      <Text>iH. J. (temp. Sub-Lt.) :</Text>
       <PageNumber>5223</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -149,7 +150,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Banks</Key>
-      <Text>, iW. JT. (temp. Lt.)</Text>
+      <Text>iW. JT. (temp. Lt.)</Text>
       <PageNumber>6290</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -285,7 +286,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Baylis</Key>
-      <Text>, .H. P. ,(Sulb-Lt.)</Text>
+      <Text>.H. P. ,(Sulb-Lt.)</Text>
       <PageNumber>4096</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -334,7 +335,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Belier</Key>
-      <Text>.V. (temp. Asst Payr.)</Text>
+      <Text>V. (temp. Asst Payr.)</Text>
       <PageNumber>5519</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -445,7 +446,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Biggs</Key>
-      <Text>, iH. B. (temp. Subdjt.)</Text>
+      <Text>iH. B. (temp. Subdjt.)</Text>
       <PageNumber>4216</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -528,7 +529,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Blockley</Key>
-      <Text>, 8. J. ID. .(Oh. Gtonr.)</Text>
+      <Text>8. J. ID. .(Oh. Gtonr.)</Text>
       <PageNumber>5742</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -619,7 +620,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Boughey</Key>
-      <Text>, T; A. (temp. Lt.)</Text>
+      <Forenames>T</Forenames>
+      <Text>; A. (temp. Lt.)</Text>
       <PageNumber>4501</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -699,7 +701,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bray</Key>
-      <Text>, X (Lt.) ... ... '</Text>
+      <Forenames>X</Forenames>
+      <Text>(Lt.) ... ... '</Text>
       <PageNumber>4096</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1060,7 +1063,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Carroll</Key>
-      <Text>,R. W. (temp. Asst. Payr.)</Text>
+      <Text>R. W. (temp. Asst. Payr.)</Text>
       <PageNumber>5519</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1147,7 +1150,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Charlton</Key>
-      <Text>, 0. (temp. Sub-Lt.)</Text>
+      <Text>0. (temp. Sub-Lt.)</Text>
       <PageNumber>6183</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1322,7 +1325,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cochrane</Key>
-      <Text>, 0. V. (temp. Lt.)</Text>
+      <Text>0. V. (temp. Lt.)</Text>
       <PageNumber>3599</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1345,7 +1348,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Connell</Key>
-      <Text>, Sub-Lt. -R. P., (rel. appt. on acc. of ill-health contracted in the Service,, to retain his rank)</Text>
+      <Title>Sub-Lt</Title>
+      <Text>. -R. P., (rel. appt. on acc. of ill-health contracted in the Service,, to retain his rank)</Text>
       <PageNumber>6183</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1565,7 +1569,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Orowither</Key>
-      <Text>, fl. W. (temp: Sub-Lt.)</Text>
+      <Text>fl. W. (temp: Sub-Lt.)</Text>
       <PageNumber>5887</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1669,7 +1673,16 @@
       <PageNumber>3496</PageNumber>
     </MainItem>
   </ItemGroup>
-  <KeyDitto>___ ___</KeyDitto>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Forenames>W. I.</Forenames>
+      <Text>(temp. Submit.)</Text>
+      <PageNumber>3956</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Davds</Key>
@@ -1693,7 +1706,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>(teanp. Li,) .„ ... . ...-</Text>
+      <Title>(teanp. Li,)</Title>
+      <Text>.„ ... . ...-</Text>
       <PageNumber>3600</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1720,7 +1734,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dawes</Key>
-      <Text>,. T. (ifion. 'Lt., Ret. list)</Text>
+      <Text>. T. (ifion. 'Lt., Ret. list)</Text>
       <PageNumber>4216</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1816,7 +1830,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dobson</Key>
-      <Text>, T, Y. (Lt,) ... ,.. ,,</Text>
+      <Forenames>T</Forenames>
+      <Text>, Y. (Lt,) ... ,.. ,,</Text>
       <PageNumber>4096</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1847,7 +1862,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Douglas</Key>
-      <Text>, Hon. ,R. J. g, W, (p.)</Text>
+      <Title>Hon.</Title>
+      <Text>,R. J. g, W, (p.)</Text>
       <PageNumber>4096</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1954,7 +1970,8 @@
   <ItemGroup>
     <MainItem>
       <Key>English</Key>
-      <Text>, C, V. (temp. Sub-Lt.)</Text>
+      <Forenames>C</Forenames>
+      <Text>, V. (temp. Sub-Lt.)</Text>
       <PageNumber>6183</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1969,7 +1986,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Erlebach</Key>
-      <Text>, Sub-Lt. D.E. (corr.. of r surname) ;</Text>
+      <Title>Sub-Lt</Title>
+      <Text>. D.E. (corr.. of r surname) ;</Text>
       <PageNumber>5100</PageNumber>
     </MainItem>
   </ItemGroup>

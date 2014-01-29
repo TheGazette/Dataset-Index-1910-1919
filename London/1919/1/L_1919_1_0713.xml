@@ -102,7 +102,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>O R. (temp.)</Text>
+      <Forenames>O</Forenames>
+      <Text>R. (temp.)</Text>
       <PageNumber>916</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -165,7 +166,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Noel</Key>
-      <Text>, 0. C. (on prob.)</Text>
+      <Text>0. C. (on prob.)</Text>
       <PageNumber>2282</PageNumber>
     </MainItem>
     <SubItem>
@@ -404,14 +405,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Partridge</Key>
-      <Text>, H V. (on prob.]</Text>
+      <Forenames>H</Forenames>
+      <Text>V. (on prob.]</Text>
       <PageNumber>2283</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Paterson</Key>
-      <Text>, 6. F. (on prob.)</Text>
+      <Text>6. F. (on prob.)</Text>
       <PageNumber>3491</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -706,7 +708,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Potts</Key>
-      <Text>, VV. (on prob.)</Text>
+      <Text>VV. (on prob.)</Text>
       <PageNumber>3896</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -750,7 +752,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Prebble</Key>
-      <Text>, 0. E. (on prob.)</Text>
+      <Text>0. E. (on prob.)</Text>
       <PageNumber>915</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -968,7 +970,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rivers</Key>
-      <Text>, VV. E. (on prob.)</Text>
+      <Text>VV. E. (on prob.)</Text>
       <PageNumber>2282</PageNumber>
     </MainItem>
     <SubItem>
@@ -1052,7 +1054,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>J G</Text>
+      <Forenames>J</Forenames>
+      <Text>G</Text>
       <PageNumber>3027</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1256,8 +1259,65 @@
       <PageNumber>2167</PageNumber>
     </MainItem>
   </ItemGroup>
-  <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
-  <SubCategoryTitle>Scott, J. G. .. 3027 Seager, J. E.B. (on prob.) 915Seal, B. C. (on prob.) .. 1542: Searl, A. E. G. (temp.).. 216T Seed, B. B. (on prob.) .. 2167 Seller, C. (on prob.) 2283= Corr. 3307 Shackell, A: (temp.) 4047 Shannon, E. C. B. (on prob.) 1542Shaw, A. A. St. J. (on prob.) 3491 Sheldon, H. G. (on prob.) 2282:</SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <PageNumber>___ ___ ___ ___ ___</PageNumber>
+        <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
+      </Key>
+      <Forenames>Scott</Forenames>
+      <Text>, J. G</Text>
+      <PageNumber>3027</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Seager</Key>
+      <Forenames>J. E.B.</Forenames>
+      <Text>(on prob.)</Text>
+      <PageNumber>915</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Seal</Key>
+      <Forenames>B. C.</Forenames>
+      <Text>(on prob.)</Text>
+      <PageNumber>1542</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Seed</Key>
+      <Forenames>B. B.</Forenames>
+      <Text>(on prob.)</Text>
+      <PageNumber>2167</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Shackell</Key>
+      <Forenames>A</Forenames>
+      <Text>: (temp.)</Text>
+      <PageNumber>4047</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Shannon</Key>
+      <Forenames>E. C. B.</Forenames>
+      <Text>(on prob.)</Text>
+      <PageNumber>1542</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Shaw</Key>
+      <Forenames>A. A. St</Forenames>
+      <Text>. J. (on prob.)</Text>
+      <PageNumber>3491</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Sherman</Key>
@@ -1332,6 +1392,43 @@
       <Forenames>V. E. W.</Forenames>
       <Text>, M.C. (corr. of date)</Text>
       <PageNumber>262</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Sinclair</Key>
+      <Forenames>M. C</Forenames>
+      <PageNumber>3641</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Skone</Key>
+      <Forenames>H.A</Forenames>
+      <PageNumber>3027</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Sloper</Key>
+      <Forenames>H. C.</Forenames>
+      <Text>(on prob.)</Text>
+      <PageNumber>1542</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Smallwood</Key>
+      <Forenames>B</Forenames>
+      <PageNumber>3158</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Smelt</Key>
+      <Forenames>M. V.</Forenames>
+      <Text>(on prob.)</Text>
+      <PageNumber>2281</PageNumber>
     </MainItem>
     <SubCategoryTitle>
       <SubItem>
@@ -1433,7 +1530,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Spence</Key>
-      <Text>, W-. McG</Text>
+      <Text>W-. McG</Text>
       <PageNumber>3641</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1542,7 +1639,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Steveni</Key>
-      <Text>, 0. K</Text>
+      <Text>0. K</Text>
       <PageNumber>1542</PageNumber>
     </MainItem>
   </ItemGroup>

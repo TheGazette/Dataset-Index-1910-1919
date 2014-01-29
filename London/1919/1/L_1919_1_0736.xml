@@ -146,7 +146,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ramsay</Key>
-      <Text>, C W</Text>
+      <Forenames>C</Forenames>
+      <Text>W</Text>
       <PageNumber>3765</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -176,7 +177,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bonny</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>3766</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -206,7 +207,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Olford</Key>
-      <Text>, F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>3766</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -252,9 +253,11 @@
       <PageNumber>3766</PageNumber>
     </SubItem>
     <SubSectionTitle>Engineer Lieutenant^ommanders</SubSectionTitle>
-    <SubSectionTitle>Lieutenants</SubSectionTitle>
     <SubItem>
-      <Text>Lieutenants. Fallon, W. P.</Text>
+      <Text>
+        <PageNumber>3765</PageNumber>
+        <SubSectionTitle>Lieutenants</SubSectionTitle>
+      </Text>
       <PageNumber>3765</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -270,6 +273,14 @@
     </SubItem>
   </ItemGroup>
   <SubSectionTitle>Engineer-Lieutenants. Radcliffe, A. J</SubSectionTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Greenlees</Key>
+      <Forenames>F .</Forenames>
+      <Text>. '3766 Sudbury, H. H</Text>
+      <PageNumber>3765</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Lifton</Key>

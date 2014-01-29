@@ -3,14 +3,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Wrightson</Key>
-      <Text>temp. 2nd Lt.. on prob. T. O. (oonfd. as temp. 2nd Lt., Obs. Offr.)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Text>. on prob. T. O. (oonfd. as temp. 2nd Lt., Obs. Offr.)</Text>
       <PageNumber>7210</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Wroot</Key>
-      <Text>2nd Lt. (Admin.) A. (2nd Lt., A. and S.)</Text>
+      <Title>2nd Lt. (Admin.)</Title>
+      <Forenames>A.</Forenames>
+      <Text>(2nd Lt., A. and S.)</Text>
       <PageNumber>6111</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -25,7 +28,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Garwood</Key>
-      <Text>2nd Lt. .(T.F.) W. (temp. 2nd Lt., Admin.)</Text>
+      <Title>2nd Lt.</Title>
+      <Text>.(T.F.) W. (temp. 2nd Lt., Admin.)</Text>
       <PageNumber>6593</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -39,15 +43,18 @@
   <ItemGroup>
     <MainItem>
       <Key>Yeoman</Key>
-      <Text>2nd Lt. (T.F.) B. F. L. (temp. 2nd Lt., A. and S.)</Text>
+      <Title>2nd Lt. (T.F.)</Title>
+      <Forenames>B. F. L.</Forenames>
+      <Text>(temp. 2nd Lt., A. and S.)</Text>
       <PageNumber>6228</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Yeomans</Key>
-      <Forenames>Lt</Forenames>
-      <Text>. (T.F.) J. H. M. (temp. 2nd Lt., Obs. Offr., and Hon. Lt.)</Text>
+      <Title>Lt. (T.F.)</Title>
+      <Forenames>J. H. M.</Forenames>
+      <Text>(temp. 2nd Lt., Obs. Offr., and Hon. Lt.)</Text>
       <PageNumber>6803</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -80,9 +87,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Yorke</Key>
-      <Title>temp.</Title>
-      <Forenames>Lt</Forenames>
-      <Text>., Obs. Offr., F. .(temp. Lt., A. and S.)</Text>
+      <Title>temp. Lt., Obs. Offr.</Title>
+      <Text>, F. .(temp. Lt., A. and S.)</Text>
       <PageNumber>6590</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -97,7 +103,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Young</Key>
-      <Text>2nd Lt. ,(Admin.) F. J. (2nd Lt., A. and S.)</Text>
+      <Title>2nd Lt. ,(Admin.)</Title>
+      <Forenames>F. J.</Forenames>
+      <Text>(2nd Lt., A. and S.)</Text>
       <PageNumber>6111</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -106,7 +114,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>2nd Lt. (in Army) H. A. (temp. ' 2nd Lt., A. and S.)</Text>
+      <Title>2nd Lt. (in Army)</Title>
+      <Forenames>H. A.</Forenames>
+      <Text>(temp. ' 2nd Lt., A. and S.)</Text>
       <PageNumber>6227</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -125,9 +135,8 @@
       <Key>
         <KeyDitto>-—___ ___</KeyDitto>
       </Key>
-      <Title>Admin.</Title>
-      <Forenames>Oa</Forenames>
-      <Text>.pt. J. (temp. Capt.)</Text>
+      <Title>Admin. Oa.</Title>
+      <Text>pt. J. (temp. Capt.)</Text>
       <PageNumber>5998</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -136,7 +145,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>temp. 2nd Lt. on prob. J. P (confd. as temp. 2nd Lt.)</Text>
+      <Title>temp. 2nd Lt. on prob.</Title>
+      <Forenames>J. P</Forenames>
+      <Text>(confd. as temp. 2nd Lt.)</Text>
       <PageNumber>7213</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -180,7 +191,7 @@
       <PageNumber>4139</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Stanley, The Hon. Sir Arthur, G.B.E., C.B.,M.V.O., M.P</Text>
+      <Text>Stanley, The Hon. Sir Arthur, G.B.E., C.B.,M.V.O., M.P.</Text>
       <PageNumber>4139</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -277,8 +288,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Auction</Key>
-      <Forenames>Sale</Forenames>
-      <Text>. of. Estates by, under Orders of the Court of Chancery: Brimfield, Hereford, . and Sheet, Ludlow, freehold estates at (Stafford v. Gravenor)</Text>
+      <Title>Sale.</Title>
+      <Text>of. Estates by, under Orders of the Court of Chancery: Brimfield, Hereford, . and Sheet, Ludlow, freehold estates at (Stafford v. Gravenor)</Text>
       <PageNumber>4177</PageNumber>
     </MainItem>
     <SubItem>
@@ -351,7 +362,6 @@
       <PageNumber>6799</PageNumber>
     </SubItem>
   </ItemGroup>
-  <CategoryTitle>ADVERTISEMENTS</CategoryTitle>
   <ItemGroup>
     <MainItem>
       <Key>Abendschien</Key>

@@ -117,7 +117,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Wood</Key>
-      <Text>Hon. Capt. (in the Army) Cecil E. (Lieut.-Col.)</Text>
+      <Title>Hon. Capt. (in the Army)</Title>
+      <Forenames>Cecil E.</Forenames>
+      <Text>(Lieut.-Col.)</Text>
       <PageNumber>3472</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -440,7 +442,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Inst, of Musketry)</Text>
+      <Title>(Inst, of Musketry)</Title>
       <PageNumber>4539</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -609,7 +611,16 @@
       <Key>Hamilton</Key>
       <Title>Lieut.</Title>
       <Forenames>James</Forenames>
-      <Text>(resigned) 4539 , Howatson, Lieut. Alexander C. (re: signed)</Text>
+      <Text>(resigned)</Text>
+      <PageNumber>4539</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Howatson</Key>
+      <Title>Lieut.</Title>
+      <Forenames>Alexander C.</Forenames>
+      <Text>(re: signed)</Text>
       <PageNumber>3929</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -884,7 +895,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Longueville</Key>
-      <Text>Lieut. Col. (Major retired pay, Reserve of Officers) Reginald (retired)</Text>
+      <Title>Lieut. Col. (Major retired pay, Reserve of Officers)</Title>
+      <Forenames>Reginald</Forenames>
+      <Text>(retired)</Text>
       <PageNumber>4226</PageNumber>
     </MainItem>
   </ItemGroup>

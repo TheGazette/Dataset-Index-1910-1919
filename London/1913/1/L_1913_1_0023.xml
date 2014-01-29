@@ -287,7 +287,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fitzpatrick</Key>
-      <Text>, T&gt;. T. F. (2nd Lieut.)</Text>
+      <Forenames>T</Forenames>
+      <Text>&gt;. T. F. (2nd Lieut.)</Text>
       <PageNumber>2238</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -408,7 +409,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Goff</Key>
-      <Text>, R, A. J. (2nd Lieut.)</Text>
+      <Forenames>R</Forenames>
+      <Text>, A. J. (2nd Lieut.)</Text>
       <PageNumber>1353</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -459,7 +461,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Greg</Key>
-      <Text>, R, A. (Maj.)</Text>
+      <Forenames>R</Forenames>
+      <Text>, A. (Maj.)</Text>
       <PageNumber>1759</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -561,7 +564,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hihbert</Key>
-      <Text>, W C. T. (Capt.)</Text>
+      <Forenames>W</Forenames>
+      <Text>C. T. (Capt.)</Text>
       <PageNumber>2238</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -600,7 +604,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Holloway</Key>
-      <Text>. F. A. B. (Lieut.) ...</Text>
+      <Text>F. A. B. (Lieut.) ...</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -843,7 +847,8 @@
       <Key>
         <KeyDitto>___ ___ .</KeyDitto>
       </Key>
-      <Text>R, M. (Maj.)</Text>
+      <Forenames>R</Forenames>
+      <Text>, M. (Maj.)</Text>
       <PageNumber>1759</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -866,7 +871,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Malor</Key>
-      <Text>.e, H. A. P. (2nd Lieut.)</Text>
+      <Text>e, H. A. P. (2nd Lieut.)</Text>
       <PageNumber>2238</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -930,14 +935,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Metge</Key>
-      <Text>, R, H. (Maj.)</Text>
+      <Forenames>R</Forenames>
+      <Text>, H. (Maj.)</Text>
       <PageNumber>44</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Methven</Key>
-      <Text>. E. B. (2nd Lieut.)</Text>
+      <Text>E. B. (2nd Lieut.)</Text>
       <PageNumber>500</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1029,7 +1035,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Neal</Key>
-      <Text>, Capt. :H. V. J. (resigned)</Text>
+      <Title>Capt.</Title>
+      <Text>:H. V. J. (resigned)</Text>
       <PageNumber>1962</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1052,7 +1059,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Nicol</Key>
-      <Text>, R, J. (Capt.)</Text>
+      <Forenames>R</Forenames>
+      <Text>, J. (Capt.)</Text>
       <PageNumber>591</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1125,7 +1133,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Peel</Key>
-      <Text>, E, F. (Lieut.-Col.)</Text>
+      <Forenames>E</Forenames>
+      <Text>, F. (Lieut.-Col.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1148,14 +1157,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Pilkington</Key>
-      <Text>.L. G. (Lieut.)</Text>
+      <Text>L. G. (Lieut.)</Text>
       <PageNumber>43</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Portal</Key>
-      <Text>. R, St. L. (2nd Lieut.)</Text>
+      <Text>R, St. L. (2nd Lieut.)</Text>
       <PageNumber>591</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1194,7 +1203,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Eawles</Key>
-      <Text>. Lieut. H. O. L. (resigned)</Text>
+      <Text>Lieut. H. O. L. (resigned)</Text>
       <PageNumber>591</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1217,14 +1226,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Ehodes</Key>
-      <Text>. Lieut-Col. J. E. (resigned)</Text>
+      <Text>Lieut-Col. J. E. (resigned)</Text>
       <PageNumber>1637</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Roberts</Key>
-      <Text>, 2nd Lieut. DA. G. St. C. (resigned)</Text>
+      <Title>2nd Lieut.</Title>
+      <Text>DA. G. St. C. (resigned)</Text>
       <PageNumber>1150</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1413,6 +1423,14 @@
       <Forenames>W. L.</Forenames>
       <Text>(2nd Lieut.)</Text>
       <PageNumber>1637</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Storey</Key>
+      <Forenames>F. B.</Forenames>
+      <Text>(Capt.)</Text>
+      <PageNumber>246</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1825,7 +1843,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Shaftebury</Key>
-      <Text>, Earl of, Col</Text>
+      <Title>Earl</Title>
+      <Text>of, Col</Text>
       <PageNumber>591</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -99,7 +99,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hookaday</Key>
-      <Text>P H</Text>
+      <Forenames>P</Forenames>
+      <Text>H</Text>
       <PageNumber>15874</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -121,7 +122,8 @@
   <ItemGroup>
     <MainItem>
       <Key>HuglvJones</Key>
-      <Text>N ,</Text>
+      <Forenames>N</Forenames>
+      <Text>,</Text>
       <PageNumber>15488</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -843,7 +845,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rodgers</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>14048</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -984,7 +986,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Southgate</Key>
-      <Text>C, M.C</Text>
+      <Forenames>C</Forenames>
+      <Text>, M.C</Text>
       <PageNumber>14928</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1147,7 +1150,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tomlinson</Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>15487</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1182,7 +1185,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wallis</Key>
-      <Text>C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>15066</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1264,7 +1267,7 @@
       <Key>
         <KeyDitto>___ — ___ ___</KeyDitto>
       </Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>14707</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1624,12 +1627,22 @@
   <ItemGroup>
     <MainItem>
       <Key>Barton</Key>
-      <Forenames>Lt</Forenames>
-      <Text>. F V. G. (rel. actg. rank on ceasing to be addtl:)</Text>
+      <Title>Lt.</Title>
+      <Forenames>F</Forenames>
+      <Text>V. G. (rel. actg. rank on ceasing to be addtl:)</Text>
       <PageNumber>13675</PageNumber>
     </MainItem>
   </ItemGroup>
-  <KeyDitto>___ ___ .</KeyDitto>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ .</KeyDitto>
+      </Key>
+      <Forenames>J. E. B.</Forenames>
+      <Text>(addtl.)</Text>
+      <PageNumber>13677</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Bastin</Key>
@@ -1692,7 +1705,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bibby</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>15752</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -337,7 +337,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Adamson</Key>
-      <Text>, Rev. T</Text>
+      <Title>Rev.</Title>
+      <Forenames>T</Forenames>
       <PageNumber>7013</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -352,7 +353,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Atherton</Key>
-      <Text>, Rev.. E. C</Text>
+      <Title>Rev.</Title>
+      <Text>. E. C</Text>
       <PageNumber>6068</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -425,7 +427,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bridge</Key>
-      <Text>, Rev. D</Text>
+      <Title>Rev.</Title>
+      <Forenames>D</Forenames>
       <PageNumber>6068</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -449,8 +452,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Childe</Key>
-      <Title>Rev.</Title>
-      <Forenames>Canon C. V.</Forenames>
+      <Title>Rev. Canon</Title>
+      <Forenames>C. V.</Forenames>
       <Text>(re signed)</Text>
       <PageNumber>5064</PageNumber>
     </MainItem>
@@ -498,15 +501,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Sandford</Key>
-      <Title>Rev.</Title>
-      <Forenames>Canon F. G.</Forenames>
+      <Title>Rev. Canon</Title>
+      <Forenames>F. G.</Forenames>
       <PageNumber>7013</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Stirton</Key>
-      <Text>, Rev. J</Text>
+      <Title>Rev.</Title>
+      <Forenames>J</Forenames>
       <PageNumber>6631</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -565,15 +569,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Duckworth</Key>
-      <Title>Rev.</Title>
-      <Forenames>Canon R.</Forenames>
+      <Title>Rev. Canon</Title>
+      <Forenames>R.</Forenames>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Kingston</Key>
-      <Text>, Rev. J</Text>
+      <Title>Rev.</Title>
+      <Forenames>J</Forenames>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -588,8 +593,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lister</Key>
-      <Title>Rev.</Title>
-      <Forenames>Canon T. L.</Forenames>
+      <Title>Rev. Canon</Title>
+      <Forenames>T. L.</Forenames>
       <Text>...</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
@@ -702,7 +707,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Evans</Key>
-      <Text>,C. L. (Capt.)</Text>
+      <Text>C. L. (Capt.)</Text>
       <PageNumber>5654</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -767,7 +772,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Matheson</Key>
-      <Text>, Capt. fl. F. (ceases to serve)</Text>
+      <Title>Capt.</Title>
+      <Text>fl. F. (ceases to serve)</Text>
       <PageNumber>6733</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -856,7 +862,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Pugh</Key>
-      <Text>, Lieut. -H. S. (ceases to serve)</Text>
+      <Title>Lieut.</Title>
+      <Text>-H. S. (ceases to serve)</Text>
       <PageNumber>4939</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1188,7 +1195,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ramsey</Key>
-      <Text>. W. J. (2nd Lieut.)</Text>
+      <Text>W. J. (2nd Lieut.)</Text>
       <PageNumber>6556</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1297,7 +1304,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Vaughan</Key>
-      <Text>,' C. H. (2nd Lieut.)</Text>
+      <Text>' C. H. (2nd Lieut.)</Text>
       <PageNumber>5435</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1493,7 +1500,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Falwasser</Key>
-      <Text>, .A. T. (Capt.)</Text>
+      <Text>.A. T. (Capt.)</Text>
       <PageNumber>5435</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1648,7 +1655,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Moxey</Key>
-      <Text>,. P. (Lieut.)</Text>
+      <Text>. P. (Lieut.)</Text>
       <PageNumber>6151</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1695,7 +1702,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Swertz</Key>
-      <Text>, .H. C. (Lieut.)</Text>
+      <Text>.H. C. (Lieut.)</Text>
       <PageNumber>6556</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1757,9 +1764,10 @@
       <Text>(2nd Lieut.)</Text>
       <PageNumber>7012</PageNumber>
     </MainItem>
-    <SectionTitle>Royal Horse Artillery</SectionTitle>
+    <SectionTitle>
+      <Text>Royal Horse Artillery</Text>
+    </SectionTitle>
     <SubItem>
-      <Text>Royal Horse Artillery.</Text>
       <PageNumber>6375</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1775,7 +1783,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Clonmell</Key>
-      <Text>, Earl of (Lieut.) ... ... Greaves, Capt. O. E. W. (resigned)</Text>
+      <Title>Earl</Title>
+      <Text>of (Lieut.) ... ... Greaves, Capt. O. E. W. (resigned)</Text>
       <PageNumber>5434</PageNumber>
     </MainItem>
   </ItemGroup>

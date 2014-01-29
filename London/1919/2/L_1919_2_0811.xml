@@ -10,6 +10,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>Previte</Key>
+      <Forenames>K. E.</Forenames>
+      <Text>(Lt.)</Text>
+      <PageNumber>5916</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Priddy</Key>
       <Title>temp. Lt.</Title>
       <Forenames>W.</Forenames>
@@ -40,6 +48,15 @@
       <Forenames>H. R.</Forenames>
       <Text>(commn. terminated)</Text>
       <PageNumber>6117</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Holland</Key>
+      <Title>Hon. temp. Capt.</Title>
+      <Forenames>T. C.</Forenames>
+      <Text>(commn. terminated)</Text>
+      <PageNumber>7707</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -229,9 +246,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Spraggett</Key>
-      <Title>temp.</Title>
-      <Forenames>Lt</Forenames>
-      <Text>. '(actg. Capt.) R. W. '(rel. actg. rank of Capt.)</Text>
+      <Title>temp. Lt.</Title>
+      <Text>'(actg. Capt.) R. W. '(rel. actg. rank of Capt.)</Text>
       <PageNumber>7943</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -272,7 +288,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tasker</Key>
-      <Text>, (Hon. temp. Capt. H. V. (hon. temp, commit terminated)</Text>
+      <Text>(Hon. temp. Capt. H. V. (hon. temp, commit terminated)</Text>
       <PageNumber>7431</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -315,16 +331,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Tulk</Key>
-      <Text>, temp. ILt. A. (placed on ret. list)</Text>
+      <Title>temp.</Title>
+      <Text>ILt. A. (placed on ret. list)</Text>
       <PageNumber>6365</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>TuHy</Key>
-      <Title>temp.</Title>
-      <Forenames>Lt</Forenames>
-      <Text>. (H. (actg. Capt. with pay of rank)</Text>
+      <Title>temp. Lt.</Title>
+      <Text>(H. (actg. Capt. with pay of rank)</Text>
       <PageNumber>4884</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -352,14 +368,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Walker</Key>
-      <Text>, temp. 'Lt. C. S. (placed on ret. list)</Text>
+      <Title>temp.</Title>
+      <Text>'Lt. C. S. (placed on ret. list)</Text>
       <PageNumber>6248</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Wallace</Key>
-      <Text>, temp. Hon. 2nd Lt. G. A. (commn. terminated)</Text>
+      <Title>temp. Hon. 2nd Lt.</Title>
+      <Forenames>G. A.</Forenames>
+      <Text>(commn. terminated)</Text>
       <PageNumber>6117</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -397,7 +416,8 @@
   <ItemGroup>
     <MainItem>
       <Key>West</Key>
-      <Text>, temp. Capt. (actg. Maj.)| R. IH. P., M.C. '(rel. actg. rank)</Text>
+      <Title>temp. Capt. (actg. Maj.)</Title>
+      <Text>| R. IH. P., M.C. '(rel. actg. rank)</Text>
       <PageNumber>7043</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -456,7 +476,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wilson</Key>
-      <Text>, tenrp. Qrmr. and Hon. Lt. J. (Capt.)</Text>
+      <Text>tenrp. Qrmr. and Hon. Lt. J. (Capt.)</Text>
       <PageNumber>5653</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -508,7 +528,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Wright</Key>
-      <Text>, temp. J&gt;t. Horace (placed on ret. list)</Text>
+      <Title>temp.</Title>
+      <Forenames>J</Forenames>
+      <Text>&gt;t. Horace (placed on ret. list)</Text>
       <PageNumber>7707</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -536,8 +558,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Brooke</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. C. L., C.B. (returns to Corps duty, and absorbed in estabt</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>C. L.</Forenames>
+      <Text>, C.B. (returns to Corps duty, and absorbed in estabt</Text>
       <PageNumber>7707</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -553,29 +576,33 @@
   <ItemGroup>
     <MainItem>
       <Key>Joliye</Key>
-      <Text>, Maj. (supy.) G. fH. (absoribed 'in estaibt.),</Text>
+      <Title>Maj. (supy.)</Title>
+      <Forenames>G.</Forenames>
+      <Text>fH. (absoribed 'in estaibt.),</Text>
       <PageNumber>4753</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Kendle</Key>
-      <Text>, .Maj. F. C. (placed on ret. list on acc. of medical unfitness)</Text>
+      <Text>.Maj. F. C. (placed on ret. list on acc. of medical unfitness)</Text>
       <PageNumber>4753</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Littleton</Key>
-      <Text>, Qrmr. and Ca.pt. G. H. (seed, for duty under C.E. in C, and temp. Maj.)</Text>
+      <Title>Qrmr. and Ca.</Title>
+      <Text>pt. G. H. (seed, for duty under C.E. in C, and temp. Maj.)</Text>
       <PageNumber>4571</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Osmaston</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. C. A. FitzH., C.B. (returns to Corps duty .from seed, list, and borne supy. to estabt.)</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>C. A.</Forenames>
+      <Text>FitzH., C.B. (returns to Corps duty .from seed, list, and borne supy. to estabt.)</Text>
       <PageNumber>7829</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -709,11 +736,18 @@
   <ItemGroup>
     <MainItem>
       <Key>Hugjheg</Key>
-      <Text>, .Maj. G. (temp, commn. terminated)</Text>
+      <Text>.Maj. G. (temp, commn. terminated)</Text>
       <PageNumber>4885</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>J Osterstock, temp. Lt. R. J. W</SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>J</Key>
+      <Forenames>Osterstock</Forenames>
+      <Text>, temp. Lt. R. J. W. (temp, commn. terminated on acct. of med. unfitness) .:</Text>
+      <PageNumber>5652</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Parker</Key>

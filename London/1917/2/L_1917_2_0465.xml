@@ -88,7 +88,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cave</Key>
-      <Text>,. Pte. J. (temp. Lt.)</Text>
+      <Text>. Pte. J. (temp. Lt.)</Text>
       <PageNumber>4786</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -217,15 +217,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Charsley</Key>
-      <Forenames>Regtl</Forenames>
-      <Text>. Qrmr.-Sjt. W. J. (temp. Qrmr. and Hon. Lt.)</Text>
+      <Title>Regtl. Qrmr.</Title>
+      <Text>-Sjt. W. J. (temp. Qrmr. and Hon. Lt.)</Text>
       <PageNumber>4323</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Chase</Key>
-      <Text>, temp. 2nd Lt. A. C. (temp. Lt.)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>A. C.</Forenames>
+      <Text>(temp. Lt.)</Text>
       <PageNumber>5854</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -273,9 +275,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Chisholm</Key>
-      <Title>temp.</Title>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. G. T. (to comd. Bn.)</Text>
+      <Title>temp. Lt.-Col.</Title>
+      <Forenames>G. T.</Forenames>
+      <Text>(to comd. Bn.)</Text>
       <PageNumber>3763</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -284,9 +286,9 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Title>temp.</Title>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. H. A., D.S.O. (temp. Coll</Text>
+      <Title>temp. Lt.-Col.</Title>
+      <Forenames>H. A.</Forenames>
+      <Text>, D.S.O. (temp. Coll</Text>
       <PageNumber>4614</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -543,7 +545,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Cochrane</Key>
-      <Text>, temp. 2nd Lt. J. E. B. D. (temp. Lt.)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>J. E. B. D.</Forenames>
+      <Text>(temp. Lt.)</Text>
       <PageNumber>4617</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -635,7 +639,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Coleman</Key>
-      <Text>, temp. Capt. (actg. Maj.) T. R. (temp. Maj.)</Text>
+      <Title>temp. Capt. (actg. Maj.)</Title>
+      <Forenames>T. R.</Forenames>
+      <Text>(temp. Maj.)</Text>
       <PageNumber>4205</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -661,7 +667,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Collins</Key>
-      <Text>, temp. 2nd Lt. F., M.C. (actg. Capt.)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>F.</Forenames>
+      <Text>, M.C. (actg. Capt.)</Text>
       <PageNumber>4431</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -688,7 +696,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Colquhoun</Key>
-      <Text>., temp. Lt.-Col. M. A., D.S.O. (to comd. Bn.)</Text>
+      <Text>, temp. Lt.-Col. M. A., D.S.O. (to comd. Bn.)</Text>
       <PageNumber>3763</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -751,8 +759,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Connolly</Key>
-      <Forenames>Lce</Forenames>
-      <Text>.-Sjt. R. E. (temp. Lt.)</Text>
+      <Title>Lce.</Title>
+      <Text>-Sjt. R. E. (temp. Lt.)</Text>
       <PageNumber>3560</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -808,7 +816,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>Sjt.-B. H. (temp. 2nd Lt.)</Text>
+      <Title>Sjt.</Title>
+      <Text>-B. H. (temp. 2nd Lt.)</Text>
       <PageNumber>4323</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1022,8 +1031,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cork</Key>
-      <Forenames>Co</Forenames>
-      <Text>. Qrmr.-Sjt. J. C. (temp. 2nd Lt. on prob.)</Text>
+      <Title>Co. Qrmr.</Title>
+      <Text>-Sjt. J. C. (temp. 2nd Lt. on prob.)</Text>
       <PageNumber>6280</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1084,8 +1093,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Courtenay</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. J. D. (temp. Col.)</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>J. D.</Forenames>
+      <Text>(temp. Col.)</Text>
       <PageNumber>4066</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1135,8 +1145,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Coxford</Key>
-      <Forenames>Lee</Forenames>
-      <Text>.-Cpl. J. C. (temp. Lt.)</Text>
+      <Title>Lee.</Title>
+      <Text>-Cpl. J. C. (temp. Lt.)</Text>
       <PageNumber>6389</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1152,7 +1162,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Craft</Key>
-      <Text>, temp?, Qrmr. and Hon. Lt. C. L. (temp. Hon. Capt.)</Text>
+      <Text>temp?, Qrmr. and Hon. Lt. C. L. (temp. Hon. Capt.)</Text>
       <PageNumber>3582</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1193,8 +1203,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Corr</Forenames>
-      <Text>. of date, Sub. Not</Text>
+      <Title>Corr.</Title>
+      <Text>of date, Sub. Not</Text>
       <PageNumber>6145</PageNumber>
     </MainItem>
     <SubItem>
@@ -1207,7 +1217,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>Capt.)</Text>
+      <Title>Capt.</Title>
+      <Text>)</Text>
       <PageNumber>4066</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1238,15 +1249,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Cree</Key>
-      <Forenames>Lee</Forenames>
-      <Text>.-Cpl. (actg. Opl.) A. M. E. (temp. 2nd Lt. on prob.)</Text>
+      <Title>Lee.</Title>
+      <Text>-Cpl. (actg. Opl.) A. M. E. (temp. 2nd Lt. on prob.)</Text>
       <PageNumber>5855</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Idreteggan</Key>
-      <Text>, temp. ILt. G. D. (resigns temp, commh.)</Text>
+      <Title>temp.</Title>
+      <Text>ILt. G. D. (resigns temp, commh.)</Text>
       <PageNumber>5504</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1294,7 +1306,7 @@
       <PageNumber>4786</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Trd.</Text>
+      <Text>Trd</Text>
       <PageNumber>5852</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1312,8 +1324,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>.)</Text>
+      <Title>Lt.</Title>
+      <Text>)</Text>
       <PageNumber>3484</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1340,7 +1352,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Crooks</Key>
-      <Text>, Qrmr.-Sjt. A. S. (temp. Qrmr. and Hon. LtJ</Text>
+      <Title>Qrmr.</Title>
+      <Text>-Sjt. A. S. (temp. Qrmr. and Hon. LtJ</Text>
       <PageNumber>3584</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1372,7 +1385,8 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>Maj.)</Text>
+      <Title>Maj.</Title>
+      <Text>)</Text>
       <PageNumber>5443</PageNumber>
     </MainItem>
     <SubItem>
@@ -1412,8 +1426,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>.) ... ,</Text>
+      <Title>Lt.</Title>
+      <Text>) ... ,</Text>
       <PageNumber>3583</PageNumber>
     </MainItem>
     <SubItem>
@@ -1435,7 +1449,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>actg. rank of Maj.)</Text>
+      <Title>actg.</Title>
+      <Text>rank of Maj.)</Text>
       <PageNumber>4204</PageNumber>
     </MainItem>
     <SubItem>

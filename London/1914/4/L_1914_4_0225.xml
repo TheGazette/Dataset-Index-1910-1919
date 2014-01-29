@@ -640,7 +640,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Roberts</Key>
-      <Text>, ^.Enos H. Glynne (2nd Lieut.)</Text>
+      <Text>^.Enos H. Glynne (2nd Lieut.)</Text>
       <PageNumber>9143</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1016,7 +1016,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Andrews</Key>
-      <Text>, Capt. (Lieut., Reserve of Officers) William H. M. (seconded)</Text>
+      <Title>Capt. (Lieut., Reserve of Officers)</Title>
+      <Forenames>William H. M.</Forenames>
+      <Text>(seconded)</Text>
       <PageNumber>9005</PageNumber>
     </MainItem>
     <SubItem>
@@ -1181,14 +1183,18 @@
   <ItemGroup>
     <MainItem>
       <Key>Hines</Key>
-      <Text>, Capt. the Rev. Charles P. (temporary Maj.)</Text>
+      <Title>Capt. the Rev.</Title>
+      <Forenames>Charles P.</Forenames>
+      <Text>(temporary Maj.)</Text>
       <PageNumber>10575</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hughes</Key>
-      <Text>, 2nd Lieut. (Hon. Lieut, in Army) Burroughes M. (temporary Capt.)</Text>
+      <Title>2nd Lieut. (Hon. Lieut, in Army)</Title>
+      <Forenames>Burroughes M.</Forenames>
+      <Text>(temporary Capt.)</Text>
       <PageNumber>9700</PageNumber>
     </MainItem>
   </ItemGroup>

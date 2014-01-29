@@ -374,7 +374,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Matthews</Key>
-      <Text>C H.. (temporary 2nd Lieut.) ... ..... ... ,</Text>
+      <Forenames>C</Forenames>
+      <Text>H.. (temporary 2nd Lieut.) ... ..... ... ,</Text>
       <PageNumber>7378</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -855,7 +856,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Pease</Key>
-      <Text>Lieut.-Col. and Hon. CoL Harold Robinson (temporary Maj.)</Text>
+      <Title>Lieut.-Col. and Hon.</Title>
+      <Text>CoL Harold Robinson (temporary Maj.)</Text>
       <PageNumber>7387</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -958,6 +960,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>Pitcairn</Key>
+      <Forenames>Robert Henry</Forenames>
+      <Text>(temporary Capt.)</Text>
+      <PageNumber>7470</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Place</Key>
       <Forenames>Alfred Dumayne</Forenames>
       <Text>(temporary Lieut.) '</Text>
@@ -1033,7 +1043,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Pretor-Pinney</Key>
-      <Text>Maj. (Hon. Maj. in the Army) Charles F. (temporary Capt.)</Text>
+      <Title>Maj. (Hon. Maj. in the Army)</Title>
+      <Forenames>Charles F.</Forenames>
+      <Text>(temporary Capt.)</Text>
       <PageNumber>7219</PageNumber>
     </MainItem>
     <SubItem>
@@ -1189,7 +1201,16 @@
       <PageNumber>7574</PageNumber>
     </SubItem>
   </ItemGroup>
-  <KeyDitto>___ ___</KeyDitto>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Forenames>James</Forenames>
+      <Text>(temporary Lieut.)</Text>
+      <PageNumber>7378</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>

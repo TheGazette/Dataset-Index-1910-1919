@@ -152,7 +152,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hanrick</Key>
-      <Text>John. Howard (2nd Lieut, on probation)</Text>
+      <Text>. John. Howard (2nd Lieut, on probation)</Text>
       <PageNumber>4164</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -277,7 +277,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hunt</Key>
-      <Text>Edwin Vincent (2nd: Lient: on probation)</Text>
+      <Text>. Edwin Vincent (2nd: Lient: on probation)</Text>
       <PageNumber>3688</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -326,7 +326,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Jamieson</Key>
-      <Text>Harold (2nd Lieut: on probation)</Text>
+      <Text>. Harold (2nd Lieut: on probation)</Text>
       <PageNumber>3432</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -822,12 +822,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Mitchell</Key>
-      <Title>William.</Title>
-      <Forenames>Charles</Forenames>
-      <Text>. (2hd</Text>
-      <PageNumber>6619</PageNumber>
     </MainItem>
   </ItemGroup>
+  <Title>
+    <PageNumber>6619</PageNumber>
+  </Title>
   <ItemGroup>
     <MainItem>
       <Key>MoncfcMason</Key>
@@ -954,7 +953,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>on probation) John Oliver (2nd Lieut; on</Text>
+      <Title>on probation</Title>
+      <Text>) John Oliver (2nd Lieut; on</Text>
       <PageNumber>5518</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -45,7 +45,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Caffin</Key>
-      <Text>2nd Lt. H. C. (confirmed) Lt</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>H. C.</Forenames>
+      <Text>(confirmed) Lt</Text>
       <PageNumber>12026</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -147,7 +149,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(temp.) Lt. L., M.D. (relinquishes his commission)</Text>
+      <Title>(temp.) Lt.</Title>
+      <Forenames>L.</Forenames>
+      <Text>, M.D. (relinquishes his commission)</Text>
       <PageNumber>12160</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -156,8 +160,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. W. D., Earl, C.M.G. (temp. Col. whilst Group Commander)</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>W. D.</Forenames>
+      <Text>, Earl, C.M.G. (temp. Col. whilst Group Commander)</Text>
       <PageNumber>10767</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -167,6 +172,15 @@
       <Forenames>E. L.</Forenames>
       <Text>(Maj.)</Text>
       <PageNumber>13006</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Calder</Key>
+      <Title>2nd Lt.</Title>
+      <Forenames>A. F.</Forenames>
+      <Text>(confirmed)</Text>
+      <PageNumber>12453</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -191,7 +205,9 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>2nd Lt. J. A. (confirmed)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>J. A.</Forenames>
+      <Text>(confirmed)</Text>
       <PageNumber>12307</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -208,7 +224,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Caldwell</Key>
-      <Text>(temp.) Maj. A. F. S. (antedated)</Text>
+      <Title>(temp.) Maj.</Title>
+      <Forenames>A. F. S.</Forenames>
+      <Text>(antedated)</Text>
       <PageNumber>12304</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -222,7 +240,16 @@
       <PageNumber>12570</PageNumber>
     </MainItem>
   </ItemGroup>
-  <KeyDitto>___ ___</KeyDitto>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Forenames>J. A.</Forenames>
+      <Text>(temp. Lt.)</Text>
+      <PageNumber>12427</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>
@@ -244,7 +271,17 @@
       <PageNumber>9989</PageNumber>
     </MainItem>
   </ItemGroup>
-  <KeyDitto>___ ___ ___</KeyDitto>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___</KeyDitto>
+      </Key>
+      <Title>2nd Lt.</Title>
+      <Forenames>S.</Forenames>
+      <Text>(confirmed)</Text>
+      <PageNumber>9655</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>
@@ -258,7 +295,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Cale</Key>
-      <Text>2nd Lt. R. H. (confirmed)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>R. H.</Forenames>
+      <Text>(confirmed)</Text>
       <PageNumber>12308</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -328,7 +367,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(temp.) 2nd Lt. R. H. (transferred from Reserve to a Regular Battalion)</Text>
+      <Title>(temp.) 2nd Lt.</Title>
+      <Forenames>R. H.</Forenames>
+      <Text>(transferred from Reserve to a Regular Battalion)</Text>
       <PageNumber>10159</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -352,7 +393,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Callison</Key>
-      <Text>(temp.) 2nd Lt. R. W. (transferred from Reserve to Regular Battalion)</Text>
+      <Title>(temp.) 2nd Lt.</Title>
+      <Forenames>R. W.</Forenames>
+      <Text>(transferred from Reserve to Regular Battalion)</Text>
       <PageNumber>11481</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -379,7 +422,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Calvert</Key>
-      <Text>2nd Lt. A. C. H. (temp. 2nd Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>A. C. H.</Forenames>
+      <Text>(temp. 2nd Lt.)</Text>
       <PageNumber>10619</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -426,7 +471,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Cameron</Key>
-      <Text>2nd Lt. D. K., supplementary (confirmed)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>D. K.</Forenames>
+      <Text>, supplementary (confirmed)</Text>
       <PageNumber>12454</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -435,11 +482,13 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>(temp.) 2nd Lt. D. MaoD. j (transferred from Reserve to Service Battalion)</Text>
+      <Title>(temp.) 2nd Lt.</Title>
+      <Forenames>D.</Forenames>
+      <Text>MaoD. j (transferred from Reserve to Service Battalion)</Text>
       <PageNumber>11292</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Temp. Capt.</Text>
+      <Text>Temp. Capt</Text>
       <PageNumber>11579</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -475,7 +524,17 @@
     </MainItem>
   </ItemGroup>
   <KeyDitto>___ ___ .</KeyDitto>
-  <KeyDitto>___ ___</KeyDitto>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Title>Rev.</Title>
+      <Forenames>H. C. M.</Forenames>
+      <Text>(temp. Chaplain, 4th Class)</Text>
+      <PageNumber>10246</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>
@@ -528,7 +587,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>(temp.) Lt.-Col. J. C. (relinquishes his temp, rank on vacating command of a Battalion)</Text>
+      <Title>(temp.) Lt.-Col.</Title>
+      <Forenames>J. C.</Forenames>
+      <Text>(relinquishes his temp, rank on vacating command of a Battalion)</Text>
       <PageNumber>9872</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -616,7 +677,8 @@
       <Key>
         <KeyDitto />
       </Key>
-      <Text>L S. (temn. Lt.)</Text>
+      <Forenames>L</Forenames>
+      <Text>S. (temn. Lt.)</Text>
       <PageNumber>19841</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -654,7 +716,8 @@
       <Key>
         <KeyDitto>___ ___ .</KeyDitto>
       </Key>
-      <Text>R, W. (temp. Maj.)</Text>
+      <Forenames>R</Forenames>
+      <Text>, W. (temp. Maj.)</Text>
       <PageNumber>11578</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -693,7 +756,9 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(temp.) 2nd Lt. W. B. (transferred, from Reserve to Regular Battalionj</Text>
+      <Title>(temp.) 2nd Lt.</Title>
+      <Forenames>W. B.</Forenames>
+      <Text>(transferred, from Reserve to Regular Battalionj</Text>
       <PageNumber>10634</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -758,7 +823,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Campion</Key>
-      <Text>2nd Lt. A. B. L. (confirmed)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>A. B. L.</Forenames>
+      <Text>(confirmed)</Text>
       <PageNumber>10772</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -781,7 +848,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>2nd Lt. C. A. G. (temp. Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>C. A. G.</Forenames>
+      <Text>(temp. Lt.)</Text>
       <PageNumber>9995</PageNumber>
     </MainItem>
     <SubItem>
@@ -857,7 +926,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Capel</Key>
-      <Text>2nd Lt. A. J. (Flying Officer, and to be seconded) ... Capell, J. (temp. Capt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>A. J.</Forenames>
+      <Text>(Flying Officer, and to be seconded) ... Capell, J. (temp. Capt.)</Text>
       <PageNumber>10915</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -881,7 +952,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Carbonell</Key>
-      <Text>2nd Lt. W. C. (confirmed)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>W. C.</Forenames>
+      <Text>(confirmed)</Text>
       <PageNumber>12673</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -900,7 +973,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(temp.) Capt. S. W. (Adjt.)</Text>
+      <Title>(temp.) Capt.</Title>
+      <Forenames>S. W.</Forenames>
+      <Text>(Adjt.)</Text>
       <PageNumber>11739</PageNumber>
     </MainItem>
   </ItemGroup>

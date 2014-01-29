@@ -3,7 +3,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Maodonald</Key>
-      <Text>. P. S. (Lt.)</Text>
+      <Text>P. S. (Lt.)</Text>
       <PageNumber>8861</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -138,11 +138,13 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>2nd Lt. K. S. (actg. Lt. whilst Adjt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>K. S.</Forenames>
+      <Text>(actg. Lt. whilst Adjt.)</Text>
       <PageNumber>9263</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Rel. actg. rank on ceasing to be Adjt.</Text>
+      <Text>Rel. actg. rank on ceasing to be Adjt</Text>
       <PageNumber>10358</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -189,7 +191,7 @@
   <ItemGroup>
     <MainItem>
       <Key>MacMunn</Key>
-      <Text>.J.M. (2ndLt.)</Text>
+      <Text>J.M. (2ndLt.)</Text>
       <PageNumber>9434</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -217,7 +219,7 @@
       <PageNumber>11477</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Lt.</Text>
+      <Text>Lt</Text>
       <PageNumber>12033</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -273,7 +275,7 @@
       <PageNumber>10240</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>Rel. aetg. rank on ceasing to be Adjt.</Text>
+      <Text>Rel. aetg. rank on ceasing to be Adjt</Text>
       <PageNumber>11479</PageNumber>
     </SubItem>
     <SubItem>
@@ -448,7 +450,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Matthews</Key>
-      <Text>, Capt. (temp. Maj,) B, F. (retains temp, rank while spec. empld.)</Text>
+      <Title>Capt. (temp. Maj,)</Title>
+      <Forenames>B</Forenames>
+      <Text>, F. (retains temp, rank while spec. empld.)</Text>
       <PageNumber>11477</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -559,7 +563,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mercer</Key>
-      <Text>, 2nd Lt. and actg. Lt.-Col.) A. W. (seniority)</Text>
+      <Title>2nd Lt. and actg. Lt.-Col.</Title>
+      <Text>) A. W. (seniority)</Text>
       <PageNumber>8612</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -782,8 +787,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>. (actg. Capt.). W. L. (Not. of 6th Mar 1919 relg. actg. rank cancelled)</Text>
+      <Title>Lt. (actg. Capt.)</Title>
+      <Text>. W. L. (Not. of 6th Mar 1919 relg. actg. rank cancelled)</Text>
       <PageNumber>9266</PageNumber>
     </MainItem>
     <SubItem>
@@ -822,7 +827,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Morris</Key>
-      <Text>, CM. (actg. Capt. addtl.)</Text>
+      <Text>CM. (actg. Capt. addtl.)</Text>
       <PageNumber>10229</PageNumber>
     </MainItem>
     <SubItem>
@@ -920,7 +925,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Moylan</Key>
-      <Text>, temp. 2nd Lt. E. C. (rel. commn.)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>E. C.</Forenames>
+      <Text>(rel. commn.)</Text>
       <PageNumber>11476</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1001,11 +1008,21 @@
   <ItemGroup>
     <MainItem>
       <Key>Murray</Key>
-      <Text>, C R. B. (Capt.)</Text>
+      <Forenames>C</Forenames>
+      <Text>R. B. (Capt.)</Text>
       <PageNumber>12033</PageNumber>
     </MainItem>
   </ItemGroup>
-  <KeyDitto>___ ___ ___</KeyDitto>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___</KeyDitto>
+      </Key>
+      <Forenames>G.</Forenames>
+      <Text>-E. (temp. Capt.)</Text>
+      <PageNumber>8609</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>
@@ -1021,8 +1038,9 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>. (actg. Capt.) M. J. (rel. actg. rank on ceasing to be Adjt.)</Text>
+      <Title>Lt. (actg. Capt.)</Title>
+      <Forenames>M. J.</Forenames>
+      <Text>(rel. actg. rank on ceasing to be Adjt.)</Text>
       <PageNumber>11596</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1075,7 +1093,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Nicholl</Key>
-      <Text>, (actg. Capt.) E. McK. (rei. actg. rank on ceasing to be Adjt.)</Text>
+      <Title>(actg. Capt.)</Title>
+      <Forenames>E.</Forenames>
+      <Text>McK. (rei. actg. rank on ceasing to be Adjt.)</Text>
       <PageNumber>11595</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1145,7 +1165,7 @@
       <PageNumber>8612</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Lt.</Text>
+      <Text>Lt</Text>
       <PageNumber>8610</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1166,7 +1186,7 @@
       <PageNumber>10225</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Capt.</Text>
+      <Text>Capt</Text>
       <PageNumber>10225</PageNumber>
     </SubItem>
   </ItemGroup>

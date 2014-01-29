@@ -18,7 +18,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rollo</Key>
-      <Text>, Lieut.-Col. and Hon. Col. Master of (resigned)</Text>
+      <Title>Lieut.-Col. and Hon. Col. Master</Title>
+      <Text>of (resigned)</Text>
       <PageNumber>1175</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -53,7 +54,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Lieut.)</Text>
+      <Title>(Lieut.)</Title>
       <PageNumber>1067</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -137,7 +138,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Simpson</Key>
-      <Text>,. J. G. (2nd Lieut.)</Text>
+      <Text>. J. G. (2nd Lieut.)</Text>
       <PageNumber>647</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -731,7 +732,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Burrow</Key>
-      <Text>. 2nd Lieut. S. G. (resigned)</Text>
+      <Text>2nd Lieut. S. G. (resigned)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1137,7 +1138,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Shepheard-Walwyn</Key>
-      <Text>,. R. A. (2nd Lieut.)</Text>
+      <Text>. R. A. (2nd Lieut.)</Text>
       <PageNumber>1835</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1270,7 +1271,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Henderson</Key>
-      <Text>, Rev. A</Text>
+      <Title>Rev.</Title>
+      <Forenames>A</Forenames>
       <PageNumber>461</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1286,7 +1288,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Adamson</Key>
-      <Text>, Rev. R</Text>
+      <Title>Rev.</Title>
+      <Forenames>R</Forenames>
       <PageNumber>979</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1301,7 +1304,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ellershaw</Key>
-      <Text>, Rev. H</Text>
+      <Title>Rev.</Title>
+      <Forenames>H</Forenames>
       <PageNumber>803</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1388,7 +1392,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>1835</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1531,10 +1535,11 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(ceases to</Text>
-      <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
+  <Title>
+    <PageNumber>ibid.</PageNumber>
+  </Title>
   <ItemGroup>
     <MainItem>
       <Key>Durnford</Key>
@@ -1549,7 +1554,7 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>1265</PageNumber>
     </MainItem>
   </ItemGroup>

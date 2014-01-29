@@ -20,9 +20,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wancke</Key>
-      <Title>temp.</Title>
-      <Forenames>Lt</Forenames>
-      <Text>., attd., H. C. (temp. Lt. and actg. Capt., — addtl.)</Text>
+      <Title>temp. Lt.</Title>
+      <Text>, attd., H. C. (temp. Lt. and actg. Capt., — addtl.)</Text>
       <PageNumber>1529</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -38,7 +37,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Wanklyn</Key>
-      <Text>, 2nd Lt. K. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>K.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>2125</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -54,7 +55,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Wansbrough</Key>
-      <Text>, temp. 2nd Lt. R. F. (actg. Capt.)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>R. F.</Forenames>
+      <Text>(actg. Capt.)</Text>
       <PageNumber>1632</PageNumber>
     </MainItem>
     <SubItem>
@@ -74,7 +77,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Warburton</Key>
-      <Text>, temp. 2nd Lt. O. H. E., M.C. (Adjt. and actg. Capt.)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>O. H. E.</Forenames>
+      <Text>, M.C. (Adjt. and actg. Capt.)</Text>
       <PageNumber>1064</PageNumber>
     </MainItem>
     <SubItem>
@@ -109,7 +114,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Ward</Key>
-      <Text>, 2nd Lt. A. (Equipmt. Offr., — 3rd Cl.) .-</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>A.</Forenames>
+      <Text>(Equipmt. Offr., — 3rd Cl.) .-</Text>
       <PageNumber>809</PageNumber>
     </MainItem>
     <SubItem>
@@ -144,6 +151,10 @@
       <Text>Cadet C. (R.F.C.) (temp. 2nd Lt. on prob.)</Text>
       <PageNumber>2044</PageNumber>
     </SubItem>
+    <SubItem>
+      <Text>— Lt. C. W.. D.S.O. (Wilts R.) (actg. Capt.)</Text>
+      <PageNumber>814</PageNumber>
+    </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
@@ -169,7 +180,9 @@
       <Key>
         <KeyDitto>—</KeyDitto>
       </Key>
-      <Text>temp. 2nd Lt. E. L., M.C. (temp. Lt.. corr. of date), Sub. Not</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>E. L.</Forenames>
+      <Text>, M.C. (temp. Lt.. corr. of date), Sub. Not</Text>
       <PageNumber>2401</PageNumber>
     </MainItem>
     <SubItem>
@@ -177,8 +190,8 @@
       <PageNumber>3443</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>Cadet F. TT. (2nd Lt.) ?8M) Cadet F. V. (?nd Lt.) ... ?</Text>
-      <PageNumber>452</PageNumber>
+      <Text>— temp. 2nd Lt. F. E. (temp. Lt )</Text>
+      <PageNumber>2287</PageNumber>
     </SubItem>
   </ItemGroup>
   <ItemGroup>
@@ -218,6 +231,15 @@
       <Text>Corr. of date</Text>
       <PageNumber>1643</PageNumber>
     </SubItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Ward</Key>
+      <Title>Cadet</Title>
+      <Forenames>H. P.</Forenames>
+      <Text>(2nd Lt.)</Text>
+      <PageNumber>1910</PageNumber>
+    </MainItem>
     <SubItem>
       <Text>Lt. Ji. R. (Wilts R.) (apptd. to a Serv. Bn.)</Text>
       <PageNumber>3549</PageNumber>
@@ -322,7 +344,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Warden</Key>
-      <Text>, temp. 2nd Lt., attd., C. A. (trd.)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Text>, attd., C. A. (trd.)</Text>
       <PageNumber>2055</PageNumber>
     </MainItem>
     <SubItem>
@@ -337,7 +360,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Wardlaw</Key>
-      <Text>2nd Lt. E. Tt.V. (Lt.) ... temp. 2nd Lt. N. (attd.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>E. Tt</Forenames>
+      <Text>.V. (Lt.) ... temp. 2nd Lt. N. (attd.)</Text>
       <PageNumber>1908</PageNumber>
     </MainItem>
     <KeyDitto>—— ——</KeyDitto>
@@ -363,14 +388,18 @@
   <ItemGroup>
     <MainItem>
       <Key>Wardrop</Key>
-      <Text>, temp. Capt. (temp. Payr.) D. R. (temp. Staff Payr. and temp. Maj.)</Text>
+      <Title>temp. Capt. (temp. Payr.)</Title>
+      <Forenames>D. R.</Forenames>
+      <Text>(temp. Staff Payr. and temp. Maj.)</Text>
       <PageNumber>1511</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Wardrope</Key>
-      <Text>, temp. 2nd Lt. J. K., M.C. (temp. Lt.)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>J. K.</Forenames>
+      <Text>, M.C. (temp. Lt.)</Text>
       <PageNumber>3085</PageNumber>
     </MainItem>
     <SubItem>
@@ -381,7 +410,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Ware</Key>
-      <Text>, 2nd Lt. B. O. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>B. O.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>1903</PageNumber>
     </MainItem>
     <SubItem>
@@ -394,7 +425,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Wareing</Key>
-      <Text>, temp. 2nd Lt. on prob. G. W. (Flying Offr., and confd.)</Text>
+      <Title>temp. 2nd Lt. on prob.</Title>
+      <Forenames>G. W.</Forenames>
+      <Text>(Flying Offr., and confd.)</Text>
       <PageNumber>3572</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -433,8 +466,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Wark</Key>
-      <Forenames>Lt</Forenames>
-      <Text>. (temp. Capt.) A. J. (Adjt.)</Text>
+      <Title>Lt. (temp. Capt.)</Title>
+      <Forenames>A. J.</Forenames>
+      <Text>(Adjt.)</Text>
       <PageNumber>3714</PageNumber>
     </MainItem>
     <SubItem>
@@ -445,7 +479,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Warland</Key>
-      <Text>, temp. 2nd Lt. L. G. (temp. Lt.)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>L. G.</Forenames>
+      <Text>(temp. Lt.)</Text>
       <PageNumber>2713</PageNumber>
     </MainItem>
     <SubItem>
@@ -456,14 +492,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Warman</Key>
-      <Text>, temp. 2nd Lt., attd., L. (trd. to Ser. Bn.)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Text>, attd., L. (trd. to Ser. Bn.)</Text>
       <PageNumber>1792</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Warmington</Key>
-      <Text>, temp. 2nd Lt. E. S. (actg. Capt.)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>E. S.</Forenames>
+      <Text>(actg. Capt.)</Text>
       <PageNumber>2713</PageNumber>
     </MainItem>
     <SubItem>
@@ -483,7 +522,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Warne</Key>
-      <Text>, 2nd Lt. F. A. W. (empld. with a Prisoners of War Co.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>F. A. W.</Forenames>
+      <Text>(empld. with a Prisoners of War Co.)</Text>
       <PageNumber>2577</PageNumber>
     </MainItem>
     <SubItem>
@@ -502,22 +543,27 @@
   <ItemGroup>
     <MainItem>
       <Key>Warneford</Key>
-      <Text>, 2nd Lt. H. C. V. (actg. Capt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>H. C. V.</Forenames>
+      <Text>(actg. Capt.)</Text>
       <PageNumber>970</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Warneken</Key>
-      <Text>, 2nd Lt. G. H. (Equipmt. Offr.. 2nd Cl.. and temp. Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>G. H.</Forenames>
+      <Text>(Equipmt. Offr.. 2nd Cl.. and temp. Lt.)</Text>
       <PageNumber>708</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Warner</Key>
-      <Forenames>Lt</Forenames>
-      <Text>. (temp. Capt.) C. F. A. (attd.) (temp. Capt.)</Text>
+      <Title>Lt. (temp. Capt.)</Title>
+      <Forenames>C. F. A.</Forenames>
+      <Text>(attd.) (temp. Capt.)</Text>
       <PageNumber>245</PageNumber>
     </MainItem>
     <SubItem>
@@ -543,7 +589,9 @@
       <Key>
         <KeyDitto>——'</KeyDitto>
       </Key>
-      <Text>temp. 2nd Lt. H. A. (temp. Lt.)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>H. A.</Forenames>
+      <Text>(temp. Lt.)</Text>
       <PageNumber>2858</PageNumber>
     </MainItem>
     <SubItem>

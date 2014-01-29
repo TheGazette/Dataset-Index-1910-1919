@@ -66,7 +66,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Field</Key>
-      <Text>, 8. (Capt,)</Text>
+      <Text>8. (Capt,)</Text>
       <PageNumber>___ ___ ___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -89,7 +89,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fyffe</Key>
-      <Text>, iS. L. (Lieut.)</Text>
+      <Text>iS. L. (Lieut.)</Text>
       <PageNumber>6040</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -568,7 +568,8 @@
   <ItemGroup>
     <MainItem>
       <Key>McCartney</Key>
-      <Text>, W St. J. F. (Lieut.)</Text>
+      <Forenames>W</Forenames>
+      <Text>St. J. F. (Lieut.)</Text>
       <PageNumber>6333</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1108,7 +1109,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Hood</Key>
-      <Text>, Capt. Hon. N A. (retired pay)</Text>
+      <Title>Capt. Hon.</Title>
+      <Forenames>N</Forenames>
+      <Text>A. (retired pay)</Text>
       <PageNumber>6765</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1368,7 +1371,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Robertson</Key>
-      <Text>, TJ. B. (local rank of Capt. in West Africa)</Text>
+      <Text>TJ. B. (local rank of Capt. in West Africa)</Text>
       <PageNumber>6408</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1408,7 +1411,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Smith-Dorrien</Key>
-      <Text>, Lieut..Gen. Sir H. L (Aide-de-Camp Gen. to the King)</Text>
+      <Title>Lieut.</Title>
+      <Text>.Gen. Sir H. L (Aide-de-Camp Gen. to the King)</Text>
       <PageNumber>4664</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1535,9 +1539,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wright</Key>
-      <Title>Col.</Title>
-      <Forenames>Gr</Forenames>
-      <Text>. (retired)</Text>
+      <Title>Col. Gr. (retired)</Title>
       <PageNumber>5671</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1592,7 +1594,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gillibrand</Key>
-      <Text>, Maj. and Hon. Lieut.-Col. N</Text>
+      <Title>Maj. and Hon. Lieut.-Col.</Title>
+      <Forenames>N</Forenames>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1650,8 +1653,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Porritt</Key>
-      <Forenames>Vet</Forenames>
-      <Text>.-Maj. A</Text>
+      <Title>Vet.</Title>
+      <Text>-Maj. A</Text>
       <PageNumber>6337</PageNumber>
     </MainItem>
   </ItemGroup>

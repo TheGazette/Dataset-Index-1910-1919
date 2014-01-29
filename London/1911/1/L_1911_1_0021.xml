@@ -38,7 +38,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Henty</Key>
-      <Text>Lieut.-Col. and Hon. Col. (correction)</Text>
+      <Title>Lieut.-Col. and Hon. Col. (correction)</Title>
       <PageNumber>1340</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -136,6 +136,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>Howland</Key>
+      <Forenames>V.</Forenames>
+      <Text>(Lieut.)</Text>
+      <PageNumber>217</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Laird</Key>
       <Title>Lieut.</Title>
       <Forenames>A. H. R. M.</Forenames>
@@ -191,8 +199,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Curtis</Key>
-      <Forenames>Surgn</Forenames>
-      <Text>.-Capt. W. (struck off the strength)</Text>
+      <Title>Surgn.</Title>
+      <Text>-Capt. W. (struck off the strength)</Text>
       <PageNumber>1340</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -548,7 +556,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Knight</Key>
-      <Text>G. C. (Lieut.-Col.)</Text>
+      <Text>. G. C. (Lieut.-Col.)</Text>
       <PageNumber>1239</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -845,7 +853,7 @@
       <Key>
         <KeyDitto>— ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>2321</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -879,7 +887,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(seconded)</Text>
+      <Title>(seconded)</Title>
       <PageNumber>2149</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -894,7 +902,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stonor</Key>
-      <Text>Capt. WG. (seconded)</Text>
+      <Title>Capt.</Title>
+      <Text>WG. (seconded)</Text>
       <PageNumber>15</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -917,7 +926,8 @@
   <ItemGroup>
     <MainItem>
       <Key>The</Key>
-      <Text>King's Royal Rifle Corps, Battenberg, H.H. Prince Maurice of (2nd Lieut.)</Text>
+      <Title>King</Title>
+      <Text>'s Royal Rifle Corps, Battenberg, H.H. Prince Maurice of (2nd Lieut.)</Text>
       <PageNumber>1637</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1460,7 +1470,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McCulloch</Key>
-      <Text>A. J. (Lieut.)</Text>
+      <Text>. A. J. (Lieut.)</Text>
       <PageNumber>966</PageNumber>
     </MainItem>
   </ItemGroup>

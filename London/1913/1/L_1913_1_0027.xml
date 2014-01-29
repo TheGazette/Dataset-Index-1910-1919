@@ -55,7 +55,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Woolloom</Key>
-      <Text>.be, J. N. (Adjt.)</Text>
+      <Text>be, J. N. (Adjt.)</Text>
       <PageNumber>247</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -266,8 +266,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mitchell</Key>
-      <Forenames>Quartr</Forenames>
-      <Text>. and Hon. Maj.) W. (resigned)</Text>
+      <Title>Quartr. and Hon. Maj.</Title>
+      <Text>) W. (resigned)</Text>
       <PageNumber>ibid</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -275,9 +275,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mends</Key>
-      <Title>Hon.</Title>
-      <Forenames>Brigr</Forenames>
-      <Text>.-Gen. H. R. (Hon. Col.)</Text>
+      <Title>Hon. Brigr.</Title>
+      <Text>-Gen. H. R. (Hon. Col.)</Text>
       <PageNumber>412</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -442,7 +441,7 @@
       <Key>
         <KeyDitto>___ —' ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(temporary Capt,)</Text>
+      <Title>(temporary Capt,)</Title>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -507,14 +506,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Wood</Key>
-      <Text>. Lieut. C. B. (resigned)</Text>
+      <Text>Lieut. C. B. (resigned)</Text>
       <PageNumber>2067</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Woodcock</Key>
-      <Text>. F. (2nd Lieut.)</Text>
+      <Text>F. (2nd Lieut.)</Text>
       <PageNumber>1059</PageNumber>
       <PageNumber>2290</PageNumber>
     </MainItem>
@@ -750,6 +749,14 @@
       <PageNumber>328</PageNumber>
     </MainItem>
   </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Williams</Key>
+      <Title>Surgn.</Title>
+      <Text>-Capt. W. R. (lesigned)</Text>
+      <PageNumber>2067</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <SectionTitle>The South Wales Borderers</SectionTitle>
   <SubSectionTitle>Brecknockshire Battalion</SubSectionTitle>
   <ItemGroup>
@@ -781,7 +788,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lumgair</Key>
-      <Text>, R, R. M. (2nd Lieut.)</Text>
+      <Forenames>R</Forenames>
+      <Text>, R. M. (2nd Lieut.)</Text>
       <PageNumber>328</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -863,11 +871,19 @@
       <PageNumber>1242</PageNumber>
     </MainItem>
   </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Graham</Key>
+      <Forenames>A. G.</Forenames>
+      <Text>(Instructor of Musketry)</Text>
+      <PageNumber>1862</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <SubSectionTitle>7th Battalion</SubSectionTitle>
   <ItemGroup>
     <MainItem>
       <Key>Brown</Key>
-      <Text>. W. W. (Lieut.J</Text>
+      <Text>W. W. (Lieut.J</Text>
       <PageNumber>501</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -898,14 +914,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Mather</Key>
-      <Text>. W. (Lieut.)</Text>
+      <Text>W. (Lieut.)</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Nicol</Key>
-      <Text>. A. S. (Lieut.)</Text>
+      <Text>A. S. (Lieut.)</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -936,8 +952,17 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>Hannan</Key>
+      <Forenames>H. M.</Forenames>
+      <Text>'(Lieut.-Col.)</Text>
+      <PageNumber>1059</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Macindoe</Key>
-      <Text>, R, C. B. (Lieut.)</Text>
+      <Forenames>R</Forenames>
+      <Text>, C. B. (Lieut.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

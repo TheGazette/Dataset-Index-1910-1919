@@ -813,7 +813,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lovett</Key>
-      <Text>, 0. (temporary Lieut.)</Text>
+      <Text>0. (temporary Lieut.)</Text>
       <PageNumber>11205</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -997,6 +997,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>Spilsbury</Key>
+      <Forenames>Francis</Forenames>
+      <Text>(2nd Lieut, for service in the Field)</Text>
+      <PageNumber>8516</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Stanley</Key>
       <Title>Maj.</Title>
       <Forenames>Edmond T.</Forenames>
@@ -1164,7 +1172,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Brown</Key>
-      <Text>(temporary) 2nd Lieut. Geoffrey M. (Adjt.)</Text>
+      <Title>(temporary) 2nd Lieut.</Title>
+      <Forenames>Geoffrey M.</Forenames>
+      <Text>(Adjt.)</Text>
       <PageNumber>9961</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1174,7 +1184,15 @@
         <KeyDitto>— ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>O. H.</Forenames>
-      <Text>(temporary Capt.) ... ,10146 . Biiii, P. C. (temporary Lieut.)</Text>
+      <Text>(temporary Capt.) ... ,</Text>
+      <PageNumber>10146</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Biiii</Key>
+      <Forenames>P. C.</Forenames>
+      <Text>(temporary Lieut.)</Text>
       <PageNumber>10280</PageNumber>
     </MainItem>
   </ItemGroup>

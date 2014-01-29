@@ -100,8 +100,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Barter</Key>
-      <Forenames>Battery Serjt</Forenames>
-      <Text>.-Maj. Her. bert (temporary Capt.)</Text>
+      <Forenames>Battery</Forenames>
+      <Text>Serjt.-Maj. Her. bert (temporary Capt.)</Text>
       <PageNumber>598</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -373,8 +373,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Steinberg</Key>
-      <Forenames>Serjt</Forenames>
-      <Text>. Maj. Percy Nicholas (temporary Capt.)</Text>
+      <Title>Serjt.</Title>
+      <Text>Maj. Percy Nicholas (temporary Capt.)</Text>
       <PageNumber>598</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -435,7 +435,15 @@
       <PageNumber>2858</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Wilson, Capt. Leslie O., D.S.O</SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Wilson</Key>
+      <Title>Capt.</Title>
+      <Forenames>Leslie O.</Forenames>
+      <Text>, D.S.O. (seconded)</Text>
+      <PageNumber>998</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Yeates</Key>
@@ -1070,6 +1078,13 @@
       <Forenames>Vivian H.</Forenames>
       <Text>(temporary Lieut.)</Text>
       <PageNumber>1291</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Baillie</Key>
+      <Text>* Murray Gladwin (2nd Lieut.)</Text>
+      <PageNumber>810</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

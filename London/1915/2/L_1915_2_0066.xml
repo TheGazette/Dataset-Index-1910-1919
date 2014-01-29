@@ -366,7 +366,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hodson</Key>
-      <Text>Thomas George Smith, M.D. (temporary Lieut.)</Text>
+      <Text>. Thomas George Smith, M.D. (temporary Lieut.)</Text>
       <PageNumber>6143</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -900,6 +900,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>Jamieson</Key>
+      <Forenames>James Ian Monro</Forenames>
+      <Text>/M.B (temporary Lieut.)</Text>
+      <PageNumber>4268</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Janes</Key>
       <Forenames>Ernest</Forenames>
       <Text>(Qrmr. and Hon. Lieut.) ... '</Text>
@@ -988,7 +996,16 @@
       <PageNumber>5756</PageNumber>
     </MainItem>
   </ItemGroup>
-  <KeyDitto>___ ___</KeyDitto>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Forenames>James</Forenames>
+      <Text>MacGregor, M.D. (tem porary Lieut.)</Text>
+      <PageNumber>5755</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>
@@ -1080,7 +1097,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(temporary) Lieut. Raymond J. (relinquishes his commission)</Text>
+      <Title>(temporary) Lieut.</Title>
+      <Forenames>Raymond J.</Forenames>
+      <Text>(relinquishes his commission)</Text>
       <PageNumber>4239</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1121,7 +1140,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kay</Key>
-      <Text>Thomas, M.B. (temporary Maj.) .,</Text>
+      <Text>. Thomas, M.B. (temporary Maj.) .,</Text>
       <PageNumber>6142</PageNumber>
     </MainItem>
   </ItemGroup>

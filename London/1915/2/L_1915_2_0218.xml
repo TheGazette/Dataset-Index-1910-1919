@@ -370,7 +370,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wylie</Key>
-      <Text>William Evelyn (2nd Lieut.)</Text>
+      <Text>. William Evelyn (2nd Lieut.)</Text>
       <PageNumber>5525</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -387,8 +387,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Briggs</Key>
-      <Title>Rev.</Title>
-      <Forenames>Canon Rawdon</Forenames>
+      <Title>Rev. Canon</Title>
+      <Forenames>Rawdon</Forenames>
       <Text>, M.A. . (resigned)</Text>
       <PageNumber>3731</PageNumber>
     </MainItem>
@@ -415,7 +415,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Pennefather</Key>
-      <Text>Rev. . Prebendary Somerset E., M.A</Text>
+      <Title>Rev.</Title>
+      <Text>. Prebendary Somerset E., M.A</Text>
       <PageNumber>3425</PageNumber>
     </MainItem>
     <SubItem>
@@ -553,7 +554,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wontnetf</Key>
-      <Text>Rev.. Max ;Sewel!</Text>
+      <Title>Rev.</Title>
+      <Text>. Max ;Sewel!</Text>
       <PageNumber>3444</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -694,14 +696,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Griffiths</Key>
-      <Text>(temporary) 2nd Liout. David H. (ceases to serve)</Text>
+      <Title>(temporary)</Title>
+      <Text>2nd Liout. David H. (ceases to serve)</Text>
       <PageNumber>3824</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hamilton</Key>
-      <Text>(temporary) 2nd Lieut. George (local rank of Capt.)</Text>
+      <Title>(temporary) 2nd Lieut.</Title>
+      <Forenames>George</Forenames>
+      <Text>(local rank of Capt.)</Text>
       <PageNumber>5648</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -791,7 +796,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Perkins</Key>
-      <Text>(temporary) Lieut. William H. (local Capt.)</Text>
+      <Title>(temporary) Lieut.</Title>
+      <Forenames>William H.</Forenames>
+      <Text>(local Capt.)</Text>
       <PageNumber>6035</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1263,8 +1270,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bell</Key>
-      <Forenames>Charles</Forenames>
-      <Text>. (2nd Lieut.)</Text>
+      <Title>Charles. (2nd Lieut.)</Title>
       <PageNumber>4887</PageNumber>
     </MainItem>
   </ItemGroup>

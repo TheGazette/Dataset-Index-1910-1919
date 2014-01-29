@@ -465,7 +465,7 @@
   <ItemGroup>
     <MainItem>
       <Key>MontagllrSmith</Key>
-      <Text>,* E. (date)</Text>
+      <Text>* E. (date)</Text>
       <PageNumber>2280</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -857,7 +857,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bafoineton</Key>
-      <Text>, TP. Z. D. (rel. actg. rank oru ceasing to comd. Co.)</Text>
+      <Text>TP. Z. D. (rel. actg. rank oru ceasing to comd. Co.)</Text>
       <PageNumber>1967</PageNumber>
     </MainItem>
     <SubItem>
@@ -884,7 +884,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bain</Key>
-      <Text>,G. A. (with pay and allces. of Lt. while Adjt.)</Text>
+      <Text>G. A. (with pay and allces. of Lt. while Adjt.)</Text>
       <PageNumber>1639</PageNumber>
     </MainItem>
     <SubItem>
@@ -1007,7 +1007,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Barrow</Key>
-      <Text>, R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>722</PageNumber>
     </MainItem>
     <SubItem>
@@ -1082,7 +1082,15 @@
       <PageNumber>2745</PageNumber>
     </MainItem>
   </ItemGroup>
-  <KeyDitto>___ ___ .</KeyDitto>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ .</KeyDitto>
+      </Key>
+      <Forenames>N. K</Forenames>
+      <PageNumber>3895</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Bellamy</Key>
@@ -1170,7 +1178,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Blomeley</Key>
-      <Text>, C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>3761</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1196,6 +1204,10 @@
       <Text>(whilst Adjt.)</Text>
       <PageNumber>3761</PageNumber>
     </MainItem>
+    <SubItem>
+      <Text>Rel. adtg. rank on ceasing to be Adjt;</Text>
+      <PageNumber>3641</PageNumber>
+    </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>

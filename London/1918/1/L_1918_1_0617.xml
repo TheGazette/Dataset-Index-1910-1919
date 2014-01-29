@@ -64,15 +64,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Wilesmith</Key>
-      <Forenames>Loe</Forenames>
-      <Text>.-Cpl. J. W. (temp. Lt.)</Text>
+      <Title>Loe.</Title>
+      <Text>-Cpl. J. W. (temp. Lt.)</Text>
       <PageNumber>1926</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Wfley</Key>
-      <Text>, temp. 2nd Lt. F. H. (trd.)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>F. H.</Forenames>
+      <Text>(trd.)</Text>
       <PageNumber>1179</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -97,8 +99,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Willard</Key>
-      <Forenames>Loe</Forenames>
-      <Text>.-CpL W. F. (temp. 2nd Lt.)</Text>
+      <Title>Loe.</Title>
+      <Text>-CpL W. F. (temp. 2nd Lt.)</Text>
       <PageNumber>972</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -114,7 +116,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Williams</Key>
-      <Text>, temp. 2nd Lt. D. A. (trd.)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>D. A.</Forenames>
+      <Text>(trd.)</Text>
       <PageNumber>1180</PageNumber>
     </MainItem>
     <SubItem>
@@ -129,7 +133,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Williamson</Key>
-      <Text>, temp. 2nd Lt. J. M. (trd.)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>J. M.</Forenames>
+      <Text>(trd.)</Text>
       <PageNumber>972</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -158,8 +164,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Willmot</Key>
-      <Forenames>Regtl</Forenames>
-      <Text>. Qrmr.-Sjt. P. C. (temp. Lt.)</Text>
+      <Title>Regtl. Qrmr.</Title>
+      <Text>-Sjt. P. C. (temp. Lt.)</Text>
       <PageNumber>1925</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -184,7 +190,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Wilmot</Key>
-      <Text>, temp. Capt. (actg. Maj.) L. A., M.C. (temp. Maj.)</Text>
+      <Title>temp. Capt. (actg. Maj.)</Title>
+      <Forenames>L. A.</Forenames>
+      <Text>, M.C. (temp. Maj.)</Text>
       <PageNumber>859</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -245,14 +253,18 @@
   <ItemGroup>
     <MainItem>
       <Key>Winnett</Key>
-      <Text>, temp. Capt. (actg. Maj.) A. W. (temp. Maj.)</Text>
+      <Title>temp. Capt. (actg. Maj.)</Title>
+      <Forenames>A. W.</Forenames>
+      <Text>(temp. Maj.)</Text>
       <PageNumber>3582</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Wise</Key>
-      <Text>, temp. Capt. (actg. Maj.) J. W., M.C. (temp. Maj.)</Text>
+      <Title>temp. Capt. (actg. Maj.)</Title>
+      <Forenames>J. W.</Forenames>
+      <Text>, M.C. (temp. Maj.)</Text>
       <PageNumber>3408</PageNumber>
     </MainItem>
     <SubItem>
@@ -271,9 +283,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Wolff</Key>
-      <Title>temp.</Title>
-      <Forenames>Lt</Forenames>
-      <Text>. (actg. Capt.) M. A. (actg. Maj.)</Text>
+      <Title>temp. Lt. (actg. Capt.)</Title>
+      <Forenames>M. A.</Forenames>
+      <Text>(actg. Maj.)</Text>
       <PageNumber>2054</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -327,7 +339,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Woods</Key>
-      <Text>, temp. 2nd Lt. G. A. (temp. Lt.)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>G. A.</Forenames>
+      <Text>(temp. Lt.)</Text>
       <PageNumber>2876</PageNumber>
     </MainItem>
     <SubItem>
@@ -365,7 +379,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Worsnop</Key>
-      <Text>, temp. Maj. (actg. Lt.-CoL) C. B., D.S.O. (rel. aotg. rank)</Text>
+      <Title>temp. Maj. (actg. Lt.-CoL)</Title>
+      <Forenames>C. B.</Forenames>
+      <Text>, D.S.O. (rel. aotg. rank)</Text>
       <PageNumber>1926</PageNumber>
     </MainItem>
     <SubItem>
@@ -385,8 +401,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wright</Key>
-      <Forenames>Lce</Forenames>
-      <Text>.-Sjt. C. W. (temp. Lt.)</Text>
+      <Title>Lce.</Title>
+      <Text>-Sjt. C. W. (temp. Lt.)</Text>
       <PageNumber>1926</PageNumber>
     </MainItem>
     <SubItem>
@@ -423,7 +439,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Yearwood</Key>
-      <Text>, 2nd Lt. L. T. (temp. 2nd Lt.) '</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>L. T.</Forenames>
+      <Text>(temp. 2nd Lt.) '</Text>
       <PageNumber>3834</PageNumber>
     </MainItem>
     <SubItem>
@@ -486,7 +504,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Zwicker</Key>
-      <Text>, tern-). Lt. D. W. N. (temp. Capt.) '</Text>
+      <Text>tern-). Lt. D. W. N. (temp. Capt.) '</Text>
       <PageNumber>973</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -495,8 +513,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Andrew</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. (temp. Brig.-Gen.) A. W. (Brig. Cdr.)</Text>
+      <Title>Lt.-Col. (temp. Brig.-Gen.)</Title>
+      <Forenames>A. W.</Forenames>
+      <Text>(Brig. Cdr.)</Text>
       <PageNumber>2340</PageNumber>
     </MainItem>
     <SubItem>
@@ -507,8 +526,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Batemain-Champain</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. (temp. Brig.-Gen.) H. F. (Brig. Cdr.)</Text>
+      <Title>Lt.-Col. (temp. Brig.-Gen.)</Title>
+      <Forenames>H. F.</Forenames>
+      <Text>(Brig. Cdr.)</Text>
       <PageNumber>1443</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -524,8 +544,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cami</Key>
-      <Forenames>Jbell</Forenames>
-      <Text>. ^t.Col (temp. Brig.Gen.) L W. Y. (appfc. as Bri gade Cdr., antedated)</Text>
+      <Title>Jbell.</Title>
+      <Text>^t.Col (temp. Brig.Gen.) L W. Y. (appfc. as Bri gade Cdr., antedated)</Text>
       <PageNumber>1443</PageNumber>
     </MainItem>
     <SubItem>
@@ -536,7 +556,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Cassels</Key>
-      <Text>, Bt. Col. (temp. Brig.-Gen.) R. A. (Brig.-Gen., Gen. Staff)</Text>
+      <Title>Bt. Col. (temp. Brig.-Gen.)</Title>
+      <Forenames>R. A.</Forenames>
+      <Text>(Brig.-Gen., Gen. Staff)</Text>
       <PageNumber>1443</PageNumber>
       <PageNumber>2340</PageNumber>
     </MainItem>
@@ -544,8 +566,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Chapman</Key>
-      <Forenames>It</Forenames>
-      <Text>. (temp. Capt.) C. W. (Asst. Embarkation Staff Offr.)</Text>
+      <Title>It. (temp. Capt.)</Title>
+      <Forenames>C. W.</Forenames>
+      <Text>(Asst. Embarkation Staff Offr.)</Text>
       <PageNumber>2340</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -561,8 +584,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Dickson</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. W. E. R., CLE. (temp. Inspr. of R.E. and (Pioneers)</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>W. E. R.</Forenames>
+      <Text>, CLE. (temp. Inspr. of R.E. and (Pioneers)</Text>
       <PageNumber>936</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -578,8 +602,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Griffith</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. (temp. Col.) G. H. (Dep. Eir. of Works)</Text>
+      <Title>Lt.-Col. (temp. Col.)</Title>
+      <Forenames>G. H.</Forenames>
+      <Text>(Dep. Eir. of Works)</Text>
       <PageNumber>2340</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -604,14 +629,18 @@
   <ItemGroup>
     <MainItem>
       <Key>Heape</Key>
-      <Text>, 2nd Lt. C H. (A.-de-C.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>C</Forenames>
+      <Text>H. (A.-de-C.)</Text>
       <PageNumber>2340</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hoare</Key>
-      <Text>, 2nd Lt. (temp. Capt.) G. G. (R.T.O. and Staff Capt.)</Text>
+      <Title>2nd Lt. (temp. Capt.)</Title>
+      <Forenames>G. G.</Forenames>
+      <Text>(R.T.O. and Staff Capt.)</Text>
       <PageNumber>1443</PageNumber>
     </MainItem>
     <SubItem>
@@ -622,22 +651,27 @@
   <ItemGroup>
     <MainItem>
       <Key>Hocken</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. C. A. F. (A.A. and Q.M.G.)</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>C. A. F.</Forenames>
+      <Text>(A.A. and Q.M.G.)</Text>
       <PageNumber>1443</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Luard</Key>
-      <Text>, Col. (temp. Btig.-Gen.) C. iC. (Brig. Cdr.)</Text>
+      <Title>Col. (temp. Btig.-Gen.)</Title>
+      <Forenames>C.</Forenames>
+      <Text>iC. (Brig. Cdr.)</Text>
       <PageNumber>1443</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Mainwaring</Key>
-      <Text>, 2nd Lt. A. J. (A.-de C)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>A. J.</Forenames>
+      <Text>(A.-de C)</Text>
       <PageNumber>2340</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -666,8 +700,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Norman</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. W. H. (G.S.O., lst Gr.)</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>W. H.</Forenames>
+      <Text>(G.S.O., lst Gr.)</Text>
       <PageNumber>1443</PageNumber>
       <PageNumber>2340</PageNumber>
     </MainItem>
@@ -675,23 +710,27 @@
   <ItemGroup>
     <MainItem>
       <Key>Peck</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. (temp. Brig.-Gen.) H. R., C.M.G. (Commanding R.A.)</Text>
+      <Title>Lt.-Col. (temp. Brig.-Gen.)</Title>
+      <Forenames>H. R.</Forenames>
+      <Text>, C.M.G. (Commanding R.A.)</Text>
       <PageNumber>1443</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Rimington</Key>
-      <Text>, Col. (temp. Maj.) J. C. (date of appt. as Maj.-Gen. 'R E )</Text>
+      <Title>Col. (temp. Maj.)</Title>
+      <Forenames>J. C.</Forenames>
+      <Text>(date of appt. as Maj.-Gen. 'R E )</Text>
       <PageNumber>1443</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Senior</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. H. W. R. (A.Q.M.G.)</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>H. W. R.</Forenames>
+      <Text>(A.Q.M.G.)</Text>
       <PageNumber>1443</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -714,15 +753,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Stevens</Key>
-      <Text>, 2nd Lt. A. E. (Asst. Prov. Marshal)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>A. E.</Forenames>
+      <Text>(Asst. Prov. Marshal)</Text>
       <PageNumber>2340</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Stockley</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-lCol. H. R., CLE. (A.A.G.)</Text>
+      <Title>Lt.</Title>
+      <Text>-lCol. H. R., CLE. (A.A.G.)</Text>
       <PageNumber>1443</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -737,6 +778,19 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>Stokes-Roberts</Key>
+      <Title>Col. (temp. Brig.Gen.)</Title>
+      <Forenames>E. R. B.</Forenames>
+      <Text>(Brig.-Gen. R.E.)</Text>
+      <PageNumber>1443</PageNumber>
+    </MainItem>
+    <SubItem>
+      <Text>. Date of appt. as Director of Works</Text>
+      <PageNumber>1443</PageNumber>
+    </SubItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Stoney</Key>
       <Title>Maj.</Title>
       <Forenames>P. S.</Forenames>
@@ -747,7 +801,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Swiney</Key>
-      <Text>, Col. (temp. Brig.-Gen.) A: J. H. (date of appt. as Chief Engineer)</Text>
+      <Title>Col. (temp. Brig.-Gen.)</Title>
+      <Forenames>A</Forenames>
+      <Text>: J. H. (date of appt. as Chief Engineer)</Text>
       <PageNumber>1443</PageNumber>
     </MainItem>
     <SubItem>
@@ -767,15 +823,18 @@
   <ItemGroup>
     <MainItem>
       <Key>Williams</Key>
-      <Text>, 2nd Lt. (temp. Capt.) J. K. (Asst. Director of Works)</Text>
+      <Title>2nd Lt. (temp. Capt.)</Title>
+      <Forenames>J. K.</Forenames>
+      <Text>(Asst. Director of Works)</Text>
       <PageNumber>1443</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Wood</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. (temp. Brig.-Gen.) E. J. M. (Brig. Cdr.)</Text>
+      <Title>Lt.-Col. (temp. Brig.-Gen.)</Title>
+      <Forenames>E. J. M.</Forenames>
+      <Text>(Brig. Cdr.)</Text>
       <PageNumber>2340</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -783,7 +842,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Brown</Key>
-      <Text>, 2nd Lt. (temp. Lt.) W. A</Text>
+      <Title>2nd Lt. (temp. Lt.)</Title>
+      <Forenames>W. A.</Forenames>
       <PageNumber>996</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -809,26 +869,27 @@
   <ItemGroup>
     <MainItem>
       <Key>Gray</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. (T./Brig.-Gen.) F. W. B., C.M.G., D.S.O. (Bt.)</Text>
+      <Title>Lt.-Col. (T./Brig.-Gen.)</Title>
+      <Forenames>F. W. B.</Forenames>
+      <Text>, C.M.G., D.S.O. (Bt.)</Text>
       <PageNumber>9</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Macmullen</Key>
-      <Title>Maj. and Bt.</Title>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. C. N., D.S.O. (Bt.)</Text>
+      <Title>Maj. and Bt. Lt.-Col.</Title>
+      <Forenames>C. N.</Forenames>
+      <Text>, D.S.O. (Bt.)</Text>
       <PageNumber>9</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Wigram</Key>
-      <Title>Maj. and Bt.</Title>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. (T./Brig.-Gen.) K., D.S.O. (Bt.)</Text>
+      <Title>Maj. and Bt. Lt.-Col. (T./Brig.-Gen.)</Title>
+      <Forenames>K.</Forenames>
+      <Text>, D.S.O. (Bt.)</Text>
       <PageNumber>10</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -920,7 +981,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bredin</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>8072</PageNumber>
     </MainItem>
   </ItemGroup>

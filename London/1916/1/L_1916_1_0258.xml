@@ -120,7 +120,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Strong</Key>
-      <Text>, ,J. H. (tamp. Asst. Paymaster)</Text>
+      <Text>,J. H. (tamp. Asst. Paymaster)</Text>
       <PageNumber>1000</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -231,7 +231,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Taphouse</Key>
-      <Text>, (F. G. (temp. Eng.-Lt.)</Text>
+      <Text>(F. G. (temp. Eng.-Lt.)</Text>
       <PageNumber>1688</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -486,7 +486,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Trinick</Key>
-      <Text>. G. W. (Lt )</Text>
+      <Forenames>G. W.</Forenames>
+      <Text>(Lt )</Text>
       <PageNumber>451</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -622,21 +623,24 @@
   <ItemGroup>
     <MainItem>
       <Key>Veal</Key>
-      <Text>. R. J. (temn. Asst. Pavmaster)</Text>
+      <Forenames>R. J.</Forenames>
+      <Text>(temn. Asst. Pavmaster)</Text>
       <PageNumber>1000</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Vickerman</Key>
-      <Text>. C. P. (temp. Eng.-Lt.)</Text>
+      <Forenames>C. P.</Forenames>
+      <Text>(temp. Eng.-Lt.)</Text>
       <PageNumber>1807</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Vickers</Key>
-      <Text>. W. (temp. Lt.)</Text>
+      <Forenames>W.</Forenames>
+      <Text>(temp. Lt.)</Text>
       <PageNumber>1806</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -683,7 +687,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wallace</Key>
-      <Text>. A. P. (temp. Sub-Lt.)</Text>
+      <Forenames>A. P.</Forenames>
+      <Text>(temp. Sub-Lt.)</Text>
       <PageNumber>2097</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1155,7 +1160,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Womersley</Key>
-      <Text>. F. M. (temp. Sub-Lt.)</Text>
+      <Forenames>F. M.</Forenames>
+      <Text>(temp. Sub-Lt.)</Text>
       <PageNumber>2787</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1170,8 +1176,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Woodhead</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Commander E. (retired)</Text>
+      <Title>Lt.</Title>
+      <Text>-Commander E. (retired)</Text>
       <PageNumber>999</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1212,7 +1218,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Wootton</Key>
-      <Text>. Asst. Paymaster A. F. (confirmed)</Text>
+      <Title>Asst.</Title>
+      <Forenames>Paymaster A. F.</Forenames>
+      <Text>(confirmed)</Text>
       <PageNumber>1486</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1312,7 +1320,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>R, A. (temp. Sub-Lt.)</Text>
+      <Forenames>R</Forenames>
+      <Text>, A. (temp. Sub-Lt.)</Text>
       <PageNumber>1241</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1359,8 +1368,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Coleman</Key>
-      <Forenames>Eng</Forenames>
-      <Text>.-Lt. C. P</Text>
+      <Title>Eng.</Title>
+      <Text>-Lt. C. P</Text>
       <PageNumber>2097</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1383,7 +1392,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Holland</Key>
-      <Text>. Lt.-Commander J. A</Text>
+      <Title>Lt.</Title>
+      <Text>-Commander J. A</Text>
       <PageNumber>1130</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1398,24 +1408,24 @@
   <ItemGroup>
     <MainItem>
       <Key>Jones</Key>
-      <Forenames>Eng</Forenames>
-      <Text>.-Lt. F. M</Text>
+      <Title>Eng.</Title>
+      <Text>-Lt. F. M</Text>
       <PageNumber>340</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Kelt</Key>
-      <Forenames>Eng</Forenames>
-      <Text>.-Lt.-Commander P. McL</Text>
+      <Title>Eng.</Title>
+      <Text>-Lt.-Commander P. McL</Text>
       <PageNumber>340</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Magrath</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Commander S. C</Text>
+      <Title>Lt.</Title>
+      <Text>-Commander S. C</Text>
       <PageNumber>998</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1439,15 +1449,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Roden</Key>
-      <Text>. Lt.-Commander E. C</Text>
+      <Title>Lt.</Title>
+      <Text>-Commander E. C</Text>
       <PageNumber>2785</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Trelawny</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Commander C. E. D</Text>
+      <Title>Lt.</Title>
+      <Text>-Commander C. E. D</Text>
       <PageNumber>2097</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1462,15 +1473,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Warner</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Commander G. E</Text>
+      <Title>Lt.</Title>
+      <Text>-Commander G. E</Text>
       <PageNumber>2097</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>White</Key>
-      <Text>. Eng.-Lt. M</Text>
+      <Title>Eng.</Title>
+      <Text>-Lt. M</Text>
       <PageNumber>625</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1485,8 +1497,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Williams</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Commander J. C</Text>
+      <Title>Lt.</Title>
+      <Text>-Commander J. C</Text>
       <PageNumber>2097</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1593,7 +1605,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Applin</Key>
-      <Text>. A. G. T. (temp. Lt.)</Text>
+      <Forenames>A. G. T.</Forenames>
+      <Text>(temp. Lt.)</Text>
       <PageNumber>340</PageNumber>
     </MainItem>
     <SubItem>
@@ -1612,7 +1625,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Arnott</Key>
-      <Text>. E. H. (temp. Lt.)</Text>
+      <Forenames>E. H.</Forenames>
+      <Text>(temp. Lt.)</Text>
       <PageNumber>3068</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1654,7 +1668,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Baker</Key>
-      <Text>. C. G. (temp. Sub-Lt.)</Text>
+      <Forenames>C. G.</Forenames>
+      <Text>(temp. Sub-Lt.)</Text>
       <PageNumber>1365</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1698,6 +1713,14 @@
       <Forenames>H.</Forenames>
       <Text>(temp. Sub-Lt.)</Text>
       <PageNumber>451</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Batteon</Key>
+      <Forenames>R. A.</Forenames>
+      <Text>(temp. Sulb-Lt.)</Text>
+      <PageNumber>340</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1787,7 +1810,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bellamy</Key>
-      <Text>. H. F. (temp. Lt.) ...,</Text>
+      <Forenames>H. F.</Forenames>
+      <Text>(temp. Lt.) ...,</Text>
       <PageNumber>3068</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1827,7 +1851,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bidwell</Key>
-      <Text>. G. S. (temp. Sub-Lt.)</Text>
+      <Forenames>G. S.</Forenames>
+      <Text>(temp. Sub-Lt.)</Text>
       <PageNumber>1805</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1858,7 +1883,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bithell</Key>
-      <Text>, 1&gt;. (temp. Snb-Lt.)</Text>
+      <Text>1&gt;. (temp. Snb-Lt.)</Text>
       <PageNumber>1130</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1889,7 +1914,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bloor</Key>
-      <Text>, Temp. Sub-Lt. E. G. (temp. Lt.)</Text>
+      <Title>Temp. Sub-Lt</Title>
+      <Text>. E. G. (temp. Lt.)</Text>
       <PageNumber>846</PageNumber>
     </MainItem>
     <SubItem>
@@ -1940,7 +1966,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Boughton</Key>
-      <Text>. R. T. (temp. Sub-Lt.)</Text>
+      <Forenames>R. T.</Forenames>
+      <Text>(temp. Sub-Lt.)</Text>
       <PageNumber>847</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -203,7 +203,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Mullane</Key>
-      <Text>(temporary) Qrmr. and Hon. Lieut. John (relinquishes his commission)</Text>
+      <Title>(temporary) Qrmr. and Hon. Lieut.</Title>
+      <Forenames>John</Forenames>
+      <Text>(relinquishes his commission)</Text>
       <PageNumber>2629</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -387,7 +389,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Stableford</Key>
-      <Text>(temporary) Lieut. J. P. (dismissed from His Majesty's Service by sentence of a Field General Court Martial)</Text>
+      <Title>(temporary) Lieut.</Title>
+      <Forenames>J. P.</Forenames>
+      <Text>(dismissed from His Majesty's Service by sentence of a Field General Court Martial)</Text>
       <PageNumber>584</PageNumber>
     </MainItem>
     <SubItem>
@@ -587,7 +591,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Young</Key>
-      <Text>(temporary) Lieut. Andrew (correction of date)</Text>
+      <Title>(temporary) Lieut.</Title>
+      <Forenames>Andrew</Forenames>
+      <Text>(correction of date)</Text>
       <PageNumber>2629</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -821,7 +827,16 @@
     <MainItem>
       <Key>Couturier</Key>
       <Forenames>Rev Felix</Forenames>
-      <Text>(temporary) 2227 Cowl, Rev. Herbert B. (temporary)</Text>
+      <Text>(temporary)</Text>
+      <PageNumber>2227</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Cowl</Key>
+      <Title>Rev.</Title>
+      <Forenames>Herbert B.</Forenames>
+      <Text>(temporary)</Text>
       <PageNumber>1524</PageNumber>
     </MainItem>
   </ItemGroup>

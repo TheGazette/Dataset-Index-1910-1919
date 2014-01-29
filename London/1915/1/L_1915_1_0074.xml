@@ -81,7 +81,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Matthews</Key>
-      <Text>(temporary) 2nd Lieut. James Irvine (relinquishes his commission)</Text>
+      <Title>(temporary) 2nd Lieut.</Title>
+      <Forenames>James Irvine</Forenames>
+      <Text>(relinquishes his commission)</Text>
       <PageNumber>1217</PageNumber>
     </MainItem>
     <SubItem>
@@ -205,7 +207,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Mills</Key>
-      <Text>(temporary) Maj. Charles E. (relinquishes his commission)</Text>
+      <Title>(temporary) Maj.</Title>
+      <Forenames>Charles E.</Forenames>
+      <Text>(relinquishes his commission)</Text>
       <PageNumber>913</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -439,7 +443,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Mott</Key>
-      <Text>(temporary) 2nd Lieut. Arthur Vemon (relinquishes his commission)</Text>
+      <Title>(temporary) 2nd Lieut.</Title>
+      <Forenames>Arthur Vemon</Forenames>
+      <Text>(relinquishes his commission)</Text>
       <PageNumber>160</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -786,7 +792,15 @@
       <PageNumber>706</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Orford, Capt. (D.O.) F. R. N. (tem-</SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Orford</Key>
+      <Title>Capt. (D.O.)</Title>
+      <Forenames>F. R. N.</Forenames>
+      <Text>(tem. porary Maj.)</Text>
+      <PageNumber>2337</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Ormerod</Key>
@@ -1169,7 +1183,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Pinto-Leite</Key>
-      <Text>(temporary) Lieut. A. J. (relinquishes his commission)</Text>
+      <Title>(temporary) Lieut.</Title>
+      <Forenames>A. J.</Forenames>
+      <Text>(relinquishes his commission)</Text>
       <PageNumber>2337</PageNumber>
     </MainItem>
   </ItemGroup>

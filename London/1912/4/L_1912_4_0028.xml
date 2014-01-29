@@ -46,7 +46,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Spencer</Key>
-      <Text>, R, (2nd Lieut.)</Text>
+      <Forenames>R</Forenames>
+      <Text>, (2nd Lieut.)</Text>
       <PageNumber>8206</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -134,7 +135,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Williams</Key>
-      <Text>,0. H. S. (Lieut.-Col.)</Text>
+      <Text>0. H. S. (Lieut.-Col.)</Text>
       <PageNumber>8378</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -206,7 +207,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Davies</Key>
-      <Text>, J: A. (Lieut.)</Text>
+      <Forenames>J</Forenames>
+      <Text>: A. (Lieut.)</Text>
       <PageNumber>7492</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -351,7 +353,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Watkin</Key>
-      <Text>, CP. (Capt. and Hon. Maj.)</Text>
+      <Text>CP. (Capt. and Hon. Maj.)</Text>
       <PageNumber>7690</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -367,14 +369,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Armes</Key>
-      <Text>, Lieut.-Coh W. M</Text>
+      <Title>Lieut.</Title>
+      <Text>-Coh W. M</Text>
       <PageNumber>9576</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Backhouse</Key>
-      <Text>, Maj. H</Text>
+      <Title>Maj.</Title>
+      <Forenames>H</Forenames>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -397,7 +401,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cooper</Key>
-      <Text>, Lieut.-Col</Text>
+      <Title>Lieut.</Title>
+      <Text>-Col</Text>
       <PageNumber>9577</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -436,7 +441,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Halstead</Key>
-      <Text>, Maj. D</Text>
+      <Title>Maj.</Title>
+      <Forenames>D</Forenames>
       <PageNumber>9577</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -552,8 +558,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Nolloth</Key>
-      <Title>Rev.</Title>
-      <Forenames>Canon H. E.</Forenames>
+      <Title>Rev. Canon</Title>
+      <Forenames>H. E.</Forenames>
       <Text>...</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
@@ -673,7 +679,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wright</Key>
-      <Text>, Maj. C</Text>
+      <Title>Maj.</Title>
+      <Forenames>C</Forenames>
       <PageNumber>9576</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -802,7 +809,6 @@
       <PageNumber>ibid.</PageNumber>
     </SubItem>
   </ItemGroup>
-  <SubCategoryTitle>Officers of the Indian Army</SubCategoryTitle>
   <SectionTitle>Promotions</SectionTitle>
   <SectionTitle>Lieutenant-Generals</SectionTitle>
   <SubSubSectionTitle>Retired List</SubSubSectionTitle>
@@ -911,7 +917,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Prior</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>9401</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1087,14 +1093,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Hastings</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>8466</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Herbert</Key>
-      <Text>, C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>7690</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1229,6 +1235,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>Luxmoore</Key>
+      <Forenames>C.</Forenames>
+      <Text>de J</Text>
+      <PageNumber>8464</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Macaulay</Key>
       <Forenames>D. I. M</Forenames>
       <PageNumber>ibid.</PageNumber>
@@ -1303,7 +1317,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Saulez</Key>
-      <Text>, E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1341,7 +1355,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Beadon</Key>
-      <Text>, V</Text>
+      <Forenames>V</Forenames>
       <PageNumber>8465</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1447,14 +1461,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Flagg</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Gwatkin</Key>
-      <Text>, F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1475,7 +1489,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Helmsley</Key>
-      <Text>, C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>7374</PageNumber>
     </MainItem>
   </ItemGroup>

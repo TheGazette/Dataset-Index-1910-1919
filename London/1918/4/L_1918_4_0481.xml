@@ -95,7 +95,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Moxon-Browne</Key>
-      <Text>, E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>13213</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -489,7 +489,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Barry</Key>
-      <Text>, Rev. A</Text>
+      <Title>Rev.</Title>
+      <Forenames>A</Forenames>
       <PageNumber>12600</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -504,7 +505,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bradley</Key>
-      <Text>, Rev. T</Text>
+      <Title>Rev.</Title>
+      <Forenames>T</Forenames>
       <PageNumber>10600</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -527,14 +529,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Caldeilbaink</Key>
-      <Text>, Rev. A</Text>
+      <Title>Rev.</Title>
+      <Forenames>A</Forenames>
       <PageNumber>12600</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Canr</Key>
-      <Text>, Rev. R</Text>
+      <Title>Rev.</Title>
+      <Forenames>R</Forenames>
       <PageNumber>12600</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -566,7 +570,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Condon</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>13314</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -598,7 +602,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gates</Key>
-      <Text>, Rev. S</Text>
+      <Title>Rev.</Title>
+      <Forenames>S</Forenames>
       <PageNumber>12600</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -649,7 +654,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kelly</Key>
-      <Text>, Rev. A</Text>
+      <Title>Rev.</Title>
+      <Forenames>A</Forenames>
       <PageNumber>12600</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -680,15 +686,16 @@
   <ItemGroup>
     <MainItem>
       <Key>McClement</Key>
-      <Text>, Rev.. F</Text>
+      <Title>Rev.</Title>
+      <Text>. F</Text>
       <PageNumber>12600</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>McDonald</Key>
-      <Forenames>Re</Forenames>
-      <Text>.v. H</Text>
+      <Title>Re.</Title>
+      <Text>v. H</Text>
       <PageNumber>12600</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -712,7 +719,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Meagher</Key>
-      <Text>, Rev. T</Text>
+      <Title>Rev.</Title>
+      <Forenames>T</Forenames>
       <PageNumber>12600</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -721,7 +729,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>Rev. W</Text>
+      <Title>Rev.</Title>
+      <Forenames>W</Forenames>
       <PageNumber>12600</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -783,7 +792,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Williams</Key>
-      <Text>, Rev. W</Text>
+      <Title>Rev.</Title>
+      <Forenames>W</Forenames>
       <PageNumber>12600</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -855,7 +865,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Barnand</Key>
-      <Text>, proby. 2nd Lt. H. S. (commn. terminated on appt. as iNaval Cadet, spec, entry)</Text>
+      <Text>proby. 2nd Lt. H. S. (commn. terminated on appt. as iNaval Cadet, spec, entry)</Text>
       <PageNumber>12899</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -886,7 +896,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bedd</Key>
-      <Text>, 2nd 1A. R. M. (temp, commn. .terminated)</Text>
+      <Text>2nd 1A. R. M. (temp, commn. .terminated)</Text>
       <PageNumber>13739</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1112,7 +1122,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Foster</Key>
-      <Text>, temp. Hon. 2nd Lt. C. H. (temp.-Hon. Lt.)</Text>
+      <Title>temp. Hon. 2nd Lt.</Title>
+      <Forenames>C. H.</Forenames>
+      <Text>(temp.-Hon. Lt.)</Text>
       <PageNumber>11860</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1173,7 +1185,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hale</Key>
-      <Text>, R, D. (2nd Lt.)</Text>
+      <Forenames>R</Forenames>
+      <Text>, D. (2nd Lt.)</Text>
       <PageNumber>11715</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1217,9 +1230,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Harrington</Key>
-      <Title>temp. Qrmr. and Hon.</Title>
-      <Forenames>Lt</Forenames>
-      <Text>. (actg. Capt.) G. (Hon. Capt.)</Text>
+      <Title>temp. Qrmr. and Hon. Lt. (actg. Capt.)</Title>
+      <Forenames>G.</Forenames>
+      <Text>(Hon. Capt.)</Text>
       <PageNumber>12492</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1259,8 +1272,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Hollingswoath</Key>
-      <Forenames>Lt</Forenames>
-      <Text>. (aotg. Capt.) J. H., D.S.C. (temp, commn. terminated)</Text>
+      <Title>Lt. (aotg. Capt.)</Title>
+      <Forenames>J. H.</Forenames>
+      <Text>, D.S.C. (temp, commn. terminated)</Text>
       <PageNumber>14956</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1283,8 +1297,8 @@
   <ItemGroup>
     <MainItem>
       <Key>James</Key>
-      <Forenames>Oa</Forenames>
-      <Text>.pt. D. W. (temp, commn. terminated)</Text>
+      <Title>Oa.</Title>
+      <Text>pt. D. W. (temp, commn. terminated)</Text>
       <PageNumber>12252</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1325,7 +1339,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kirn</Key>
-      <Text>.an, A. J. (temp. 2nd Lt.)</Text>
+      <Text>an, A. J. (temp. 2nd Lt.)</Text>
       <PageNumber>13608</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1421,7 +1435,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mascall</Key>
-      <Text>. .Capt. G. P. Y. (placed on retd. list on acc, of medical unfitness)</Text>
+      <Text>.Capt. G. P. Y. (placed on retd. list on acc, of medical unfitness)</Text>
       <PageNumber>14482</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1440,8 +1454,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Miller</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. L. W. (rel. appt. as D.A.A.G.)</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>L. W.</Forenames>
+      <Text>(rel. appt. as D.A.A.G.)</Text>
       <PageNumber>13739</PageNumber>
     </MainItem>
   </ItemGroup>

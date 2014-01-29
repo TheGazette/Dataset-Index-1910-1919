@@ -335,7 +335,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Wardlaw</Key>
-      <Text>(temporary) 2nd Lieut. Arthur Hood (relinquishes his commission)</Text>
+      <Title>(temporary) 2nd Lieut.</Title>
+      <Forenames>Arthur Hood</Forenames>
+      <Text>(relinquishes his commission)</Text>
       <PageNumber>3832</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -895,7 +897,16 @@
       <PageNumber>5114</PageNumber>
     </MainItem>
   </ItemGroup>
-  <KeyDitto>___ ___</KeyDitto>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Forenames>Victor Campbell</Forenames>
+      <Text>(temporary 2nd Lieut.!</Text>
+      <PageNumber>4275</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Weeks</Key>
@@ -955,7 +966,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Wellesley</Key>
-      <Text>(temporary) 2nd Lieut. Gerald Valentine (relinquishes his commission)</Text>
+      <Title>(temporary) 2nd Lieut.</Title>
+      <Forenames>Gerald Valentine</Forenames>
+      <Text>(relinquishes his commission)</Text>
       <PageNumber>5609</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1103,7 +1116,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Wheeler</Key>
-      <Text>(temporary) 2nd Lieut. Gerald Alexander (relinquishes his commission)</Text>
+      <Title>(temporary) 2nd Lieut.</Title>
+      <Forenames>Gerald Alexander</Forenames>
+      <Text>(relinquishes his commission)</Text>
       <PageNumber>6027</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1113,6 +1128,14 @@
       <Forenames>Daniel</Forenames>
       <Text>(temporary 2nd Lieut.)</Text>
       <PageNumber>4541</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>White</Key>
+      <Forenames>Arthur</Forenames>
+      <Text>(temporary 2nd Lieut.)</Text>
+      <PageNumber>4419</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1170,7 +1193,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>(temporary) 2nd Lieut. William Gains (relinquishes his commission)</Text>
+      <Title>(temporary) 2nd Lieut.</Title>
+      <Forenames>Wil-</Forenames>
+      <Text>liam Gains (relinquishes his commission)</Text>
       <PageNumber>5762</PageNumber>
     </MainItem>
   </ItemGroup>

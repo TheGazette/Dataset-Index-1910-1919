@@ -79,7 +79,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Davies</Key>
-      <Text>J, S. (temp. Lt.)</Text>
+      <Forenames>J</Forenames>
+      <Text>, S. (temp. Lt.)</Text>
       <PageNumber>12554</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -249,7 +250,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Flower</Key>
-      <Text>Sub-Lt. G. C. (placed on retd. list)</Text>
+      <Title>Sub-Lt</Title>
+      <Text>. G. C. (placed on retd. list)</Text>
       <PageNumber>14924</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -330,8 +332,8 @@
     <MainItem>
       <Key>Garrett</Key>
       <Title>Payr.</Title>
-      <Forenames>Sttb-Lt</Forenames>
-      <Text>. C. E. (placed on retd. list)</Text>
+      <Forenames>Sttb-</Forenames>
+      <Text>Lt. C. E. (placed on retd. list)</Text>
       <PageNumber>12788</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -519,7 +521,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hayiwiard</Key>
-      <Text>C, R.D. (Cdr., retd.j</Text>
+      <Forenames>C</Forenames>
+      <Text>, R.D. (Cdr., retd.j</Text>
       <PageNumber>13257</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -641,7 +644,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>temp. .aotg. Payr. Lt. A. C. (invaliding post-dated)</Text>
+      <Title>temp.</Title>
+      <Text>.aotg. Payr. Lt. A. C. (invaliding post-dated)</Text>
       <PageNumber>14924</PageNumber>
     </MainItem>
     <SubItem>
@@ -654,8 +658,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Cdr. (aotg. Cdr.) J. A. R., R.D. (placed on retd. list, with rank of Cdr.)</Text>
+      <Title>Lt.</Title>
+      <Text>-Cdr. (aotg. Cdr.) J. A. R., R.D. (placed on retd. list, with rank of Cdr.)</Text>
       <PageNumber>12892</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -905,7 +909,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Miliward</Key>
-      <Text>temp. payr. Lt. H. S. (seniority antedated)</Text>
+      <Title>temp.</Title>
+      <Text>payr. Lt. H. S. (seniority antedated)</Text>
       <PageNumber>12788</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -928,9 +933,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Moore</Key>
-      <Title>temp.</Title>
-      <Forenames>En</Forenames>
-      <Text>.gr. Lt. F. P. (seniority antedated)</Text>
+      <Title>temp. En.</Title>
+      <Text>gr. Lt. F. P. (seniority antedated)</Text>
       <PageNumber>12788</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1013,8 +1017,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ohlson</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Cdr. B. j., R.D. (placed on retd. .list .with rank of Cdr.)</Text>
+      <Title>Lt.</Title>
+      <Text>-Cdr. B. j., R.D. (placed on retd. .list .with rank of Cdr.)</Text>
       <PageNumber>15869</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1096,7 +1100,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Popham</Key>
-      <Text>A (temp. Payr. Lt.)</Text>
+      <Forenames>A</Forenames>
+      <Text>(temp. Payr. Lt.)</Text>
       <PageNumber>13138</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1297,11 +1302,13 @@
       </Key>
       <Title>Ch. Wrt. Engr.</Title>
       <Forenames>G.</Forenames>
-      <Text>(retired) 12553 ,</Text>
-      <PageNumber>___ ___</PageNumber>
+      <Text>(retired)</Text>
+      <PageNumber>12553</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Not. of retirement can~ celled</Text>
+      <Text>
+        <PageNumber>___ ___</PageNumber>
+      </Text>
       <PageNumber>13257</PageNumber>
     </SubItem>
   </ItemGroup>

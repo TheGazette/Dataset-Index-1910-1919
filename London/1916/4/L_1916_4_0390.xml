@@ -3,22 +3,25 @@
   <ItemGroup>
     <MainItem>
       <Key>Jarvie</Key>
-      <Text>, Capt. A</Text>
+      <Title>Capt.</Title>
+      <Forenames>A</Forenames>
       <PageNumber>12125</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Josselyn</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. J</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>J</Forenames>
       <PageNumber>12125</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Lindsay</Key>
-      <Text>, the Rev. J., M.A</Text>
+      <Title>the Rev.</Title>
+      <Forenames>J.</Forenames>
+      <Text>, M.A</Text>
       <PageNumber>12126</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -50,8 +53,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mellis</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. W</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>W.</Forenames>
       <PageNumber>12125</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -67,7 +70,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Morrow</Key>
-      <Text>, Maj. J</Text>
+      <Title>Maj.</Title>
+      <Forenames>J</Forenames>
       <PageNumber>12126</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -82,14 +86,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Nicholson</Key>
-      <Text>, Maj. R</Text>
+      <Title>Maj.</Title>
+      <Forenames>R</Forenames>
       <PageNumber>12125</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Price</Key>
-      <Text>, the Rev. C. L., M.A</Text>
+      <Title>the Rev.</Title>
+      <Forenames>C. L.</Forenames>
+      <Text>, M.A</Text>
       <PageNumber>12126</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -112,14 +119,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Rudyard</Key>
-      <Text>, Maj. (temp. Lt.-Col.) H. A</Text>
+      <Title>Maj. (temp. Lt.-Col.)</Title>
+      <Forenames>H. A.</Forenames>
       <PageNumber>12126</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Scott</Key>
-      <Text>, the Rev. A. B., M.A., B.D</Text>
+      <Title>the Rev.</Title>
+      <Forenames>A. B.</Forenames>
+      <Text>, M.A., B.D</Text>
       <PageNumber>12126</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -339,7 +349,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Allan</Key>
-      <Text>. G. C..(temp. Lt.)</Text>
+      <Forenames>G. C.</Forenames>
+      <Text>.(temp. Lt.)</Text>
       <PageNumber>10979</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -356,7 +367,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Allen</Key>
-      <Text>. B. P. (temp. Capt.)</Text>
+      <Forenames>B. P.</Forenames>
+      <Text>(temp. Capt.)</Text>
       <PageNumber>12240</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -383,7 +395,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Allfrey</Key>
-      <Text>, late Capt. M. (temp. Maj.) Sub. Not</Text>
+      <Title>late Capt.</Title>
+      <Forenames>M.</Forenames>
+      <Text>(temp. Maj.) Sub. Not</Text>
       <PageNumber>10755</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -571,8 +585,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Archibald</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. R. (temp. Capt.)</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>R.</Forenames>
+      <Text>(temp. Capt.)</Text>
       <PageNumber>12240</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -596,7 +611,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Armstrong</Key>
-      <Text>. R. F (temp. 2nd Lt.)</Text>
+      <Forenames>R. F</Forenames>
+      <Text>(temp. 2nd Lt.)</Text>
       <PageNumber>10409</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -608,7 +624,7 @@
       <PageNumber>9545</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>.Temp. Lt</Text>
+      <Text>.Temp. Lt.</Text>
       <PageNumber>12100</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1008,7 +1024,7 @@
       <PageNumber>9930</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Resigns commn</Text>
+      <Text>Resigns commn.</Text>
       <PageNumber>12072</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1303,7 +1319,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Beaumont</Key>
-      <Text>. F. F. (temp. 2nd Lt.)</Text>
+      <Forenames>F. F.</Forenames>
+      <Text>(temp. 2nd Lt.)</Text>
       <PageNumber>12241</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1352,7 +1369,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Beeby</Key>
-      <Text>. A. J. (temp. Lt.)</Text>
+      <Forenames>A. J.</Forenames>
+      <Text>(temp. Lt.)</Text>
       <PageNumber>9671</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1385,7 +1403,9 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>late Capt. H J. (temp. Capt.)</Text>
+      <Title>late Capt.</Title>
+      <Forenames>H</Forenames>
+      <Text>J. (temp. Capt.)</Text>
       <PageNumber>10949</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1634,7 +1654,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bidgood</Key>
-      <Text>, H: W. (temp. Capt.)</Text>
+      <Forenames>H</Forenames>
+      <Text>: W. (temp. Capt.)</Text>
       <PageNumber>9545</PageNumber>
     </MainItem>
   </ItemGroup>

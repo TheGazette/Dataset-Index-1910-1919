@@ -45,7 +45,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pemberton</Key>
-      <Text>, &gt;B. C. (temp. Lt.)</Text>
+      <Text>&gt;B. C. (temp. Lt.)</Text>
       <PageNumber>379</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -208,7 +208,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Readon</Key>
-      <Text>, R, R. (temp. Sub-Lt.)</Text>
+      <Forenames>R</Forenames>
+      <Text>, R. (temp. Sub-Lt.)</Text>
       <PageNumber>3106</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1204,7 +1205,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Tunbridge</Key>
-      <Text>, R, E. T. (Sub-Lt.)</Text>
+      <Forenames>R</Forenames>
+      <Text>, E. T. (Sub-Lt.)</Text>
       <PageNumber>1879</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1649,7 +1651,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wood</Key>
-      <Text>, 0. (temp. Lt.)</Text>
+      <Text>0. (temp. Lt.)</Text>
       <PageNumber>751</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1738,8 +1740,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cook</Key>
-      <Forenames>Lt</Forenames>
-      <Text>. H</Text>
+      <Title>Lt.</Title>
+      <Forenames>H</Forenames>
       <PageNumber>1773</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1754,8 +1756,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hankinson</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Cdr. T. W</Text>
+      <Title>Lt.</Title>
+      <Text>-Cdr. T. W</Text>
       <PageNumber>956</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1770,8 +1772,8 @@
   <ItemGroup>
     <MainItem>
       <Key>MoWhannell</Key>
-      <Forenames>Eng</Forenames>
-      <Text>.-Lt. R</Text>
+      <Title>Eng.</Title>
+      <Text>-Lt. R</Text>
       <PageNumber>2999</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1786,8 +1788,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Smith</Key>
-      <Forenames>Eng</Forenames>
-      <Text>.-Lt. J. M</Text>
+      <Title>Eng.</Title>
+      <Text>-Lt. J. M</Text>
       <PageNumber>956</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1802,8 +1804,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Thimm</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Cdr. F. K</Text>
+      <Title>Lt.</Title>
+      <Text>-Cdr. F. K</Text>
       <PageNumber>956</PageNumber>
     </MainItem>
   </ItemGroup>

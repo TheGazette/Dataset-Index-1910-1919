@@ -3,7 +3,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Miller</Key>
-      <Text>, 3. A</Text>
+      <Text>3. A</Text>
       <PageNumber>716</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -38,7 +38,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Staples</Key>
-      <Text>, CP</Text>
+      <Text>CP</Text>
       <PageNumber>716</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -97,7 +97,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Banbury</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>2616</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -112,7 +112,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Parsons</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>1960</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -171,7 +171,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Booth</Key>
-      <Text>,' J</Text>
+      <Text>' J</Text>
       <PageNumber>716</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -256,7 +256,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dale</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>3018</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -270,7 +270,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Flvans</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>3017</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -285,7 +285,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sutherland</Key>
-      <Text>, R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>1370</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -459,7 +459,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Jackson</Key>
-      <Text>, the Rev. W. E. G</Text>
+      <Title>the Rev.</Title>
+      <Forenames>W. E. G.</Forenames>
       <PageNumber>2158</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -560,9 +561,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Barkley</Key>
-      <Title>temp.</Title>
-      <Forenames>Lt</Forenames>
-      <Text>. (actg. Capt.) R. E. (temp. Capt.)</Text>
+      <Title>temp. Lt. (actg. Capt.)</Title>
+      <Forenames>R. E.</Forenames>
+      <Text>(temp. Capt.)</Text>
       <PageNumber>199</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -603,16 +604,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Bryan</Key>
-      <Text>,.T.L..G. (proby. 2nd Lt.)</Text>
+      <Text>.T.L..G. (proby. 2nd Lt.)</Text>
       <PageNumber>515</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Buckley</Key>
-      <Title>temp.</Title>
-      <Forenames>Lt</Forenames>
-      <Text>. (actg. Capt.) T., M.C. (actg. Maj.)</Text>
+      <Title>temp. Lt. (actg. Capt.)</Title>
+      <Forenames>T.</Forenames>
+      <Text>, M.C. (actg. Maj.)</Text>
       <PageNumber>1960</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -652,8 +653,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Connew</Key>
-      <Forenames>Lt</Forenames>
-      <Text>. (actg. Capt.) T. F. (rel. actg. rank)</Text>
+      <Title>Lt. (actg. Capt.)</Title>
+      <Forenames>T. F.</Forenames>
+      <Text>(rel. actg. rank)</Text>
       <PageNumber>4010</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -735,24 +737,24 @@
   <ItemGroup>
     <MainItem>
       <Key>Ede</Key>
-      <Title>temp.</Title>
-      <Forenames>Lt</Forenames>
-      <Text>. (actg. Capt.) F. (rel. actg.rankonalterationin posting)</Text>
+      <Title>temp. Lt. (actg. Capt.)</Title>
+      <Forenames>F.</Forenames>
+      <Text>(rel. actg.rankonalterationin posting)</Text>
       <PageNumber>2615</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Eliot</Key>
-      <Text>,-€. E. C. (temp. Hon. Lt.Col., unattd.)</Text>
+      <Text>-€. E. C. (temp. Hon. Lt.Col., unattd.)</Text>
       <PageNumber>1960</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Elliott</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.' A.E. (rel. actg. rank of Capt.)</Text>
+      <Title>Lt.</Title>
+      <Text>' A.E. (rel. actg. rank of Capt.)</Text>
       <PageNumber>1959</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -783,7 +785,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Garrett</Key>
-      <Text>,Hon. Lt. C. (temp. Hon. commn. terminated)</Text>
+      <Text>Hon. Lt. C. (temp. Hon. commn. terminated)</Text>
       <PageNumber>1960</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -941,6 +943,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>Knowles</Key>
+      <Forenames>B. W.</Forenames>
+      <Text>(proby. 2nd Lt.)</Text>
+      <PageNumber>516</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Lane</Key>
       <Title>temp.</Title>
       <Forenames>Lt</Forenames>
@@ -951,7 +961,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lansdale</Key>
-      <Text>, R* S. (proby. 2nd Lt.)</Text>
+      <Forenames>R</Forenames>
+      <Text>* S. (proby. 2nd Lt.)</Text>
       <PageNumber>516</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -984,9 +995,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Matheson</Key>
-      <Title>temp.</Title>
-      <Forenames>Lt</Forenames>
-      <Text>. (actg. Capt,) S. T. (rel. actg. rank)</Text>
+      <Title>temp. Lt. (actg. Capt,)</Title>
+      <Forenames>S. T.</Forenames>
+      <Text>(rel. actg. rank)</Text>
       <PageNumber>1370</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1099,7 +1110,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rees</Key>
-      <Text>, J L. LI. (temp: Lt.)</Text>
+      <Forenames>J</Forenames>
+      <Text>L. LI. (temp: Lt.)</Text>
       <PageNumber>2615</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1136,9 +1148,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Russell</Key>
-      <Title>temp.</Title>
-      <Forenames>Lt</Forenames>
-      <Text>. (actg. Capt.) W., M.O., D.C.M. (rel. actg. rank)</Text>
+      <Title>temp. Lt. (actg. Capt.)</Title>
+      <Forenames>W.</Forenames>
+      <Text>, M.O., D.C.M. (rel. actg. rank)</Text>
       <PageNumber>1797</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1160,7 +1172,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sanger</Key>
-      <Text>, temp.. Lt. P. M. (temp, commn. terminated on acct. of medical unfitness)</Text>
+      <Title>temp.</Title>
+      <Text>. Lt. P. M. (temp, commn. terminated on acct. of medical unfitness)</Text>
       <PageNumber>1370</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1189,14 +1202,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Shearer</Key>
-      <Text>,. Lt. J, M. (temp, commn. terminated on. reversion to former unit)</Text>
+      <Text>. Lt. J, M. (temp, commn. terminated on. reversion to former unit)</Text>
       <PageNumber>4011</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Sheringham</Key>
-      <Text>, .Lt. E.. G. J., (temp. . commn. terminated on acc. of med. unfitness)</Text>
+      <Text>.Lt. E.. G. J., (temp. . commn. terminated on acc. of med. unfitness)</Text>
       <PageNumber>3633</PageNumber>
     </MainItem>
   </ItemGroup>

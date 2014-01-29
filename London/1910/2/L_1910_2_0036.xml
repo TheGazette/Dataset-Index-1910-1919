@@ -106,7 +106,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Smith</Key>
-      <Text>, L</Text>
+      <Forenames>L</Forenames>
       <PageNumber>3074</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -240,7 +240,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Williams</Key>
-      <Text>, Lieut.-Col. A, B.C</Text>
+      <Title>Lieut.-Col.</Title>
+      <Forenames>A</Forenames>
+      <Text>, B.C</Text>
       <PageNumber>2969</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -305,7 +307,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Grainger</Key>
-      <Text>, T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>3073</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -590,7 +592,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Malleson</Key>
-      <Text>, Col. W</Text>
+      <Title>Col.</Title>
+      <Forenames>W</Forenames>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -655,7 +658,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Barge</Key>
-      <Text>, Lieut. K</Text>
+      <Title>Lieut.</Title>
+      <Forenames>K</Forenames>
       <PageNumber>2969</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -674,7 +678,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rose</Key>
-      <Text>, Col. H</Text>
+      <Title>Col.</Title>
+      <Forenames>H</Forenames>
       <PageNumber>4266</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -836,7 +841,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bown</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>3075</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -908,7 +913,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sykes</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>3075</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -952,7 +957,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Condon</Key>
-      <Text>, de V... .. .. ..</Text>
+      <Text>de V... .. .. ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -980,14 +985,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Hunter</Key>
-      <Text>,!</Text>
+      <Text>!</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hutcheson</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>

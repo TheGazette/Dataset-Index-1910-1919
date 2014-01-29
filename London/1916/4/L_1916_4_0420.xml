@@ -102,24 +102,24 @@
   <ItemGroup>
     <MainItem>
       <Key>Cay</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Comdr. C. D</Text>
+      <Title>Lt.</Title>
+      <Text>-Comdr. C. D</Text>
       <PageNumber>9556</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Gardiner</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Comdr. W. R. D</Text>
+      <Title>Lt.</Title>
+      <Text>-Comdr. W. R. D</Text>
       <PageNumber>10747</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Griffiths</Key>
-      <Forenames>Eng</Forenames>
-      <Text>.-Lt. E. O</Text>
+      <Title>Eng.</Title>
+      <Text>-Lt. E. O</Text>
       <PageNumber>9661</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -134,8 +134,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Heanley</Key>
-      <Forenames>Lt</Forenames>
-      <Text>., T. W</Text>
+      <Title>Lt.</Title>
+      <Text>, T. W</Text>
       <PageNumber>11730</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -150,16 +150,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Hoisack</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Comdr. W. H</Text>
+      <Title>Lt.</Title>
+      <Text>-Comdr. W. H</Text>
       <PageNumber>12583</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>McLeod</Key>
-      <Forenames>Eng</Forenames>
-      <Text>.-Lt. T</Text>
+      <Title>Eng.</Title>
+      <Text>-Lt. T</Text>
       <PageNumber>9661</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -181,8 +181,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Pooley</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Comdr. L. W</Text>
+      <Title>Lt.</Title>
+      <Text>-Comdr. L. W</Text>
       <PageNumber>12583</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -480,7 +480,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bloomer</Key>
-      <Text>. C. G. (temp. Sub-Lt.)</Text>
+      <Forenames>C. G.</Forenames>
+      <Text>(temp. Sub-Lt.)</Text>
       <PageNumber>9661</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -503,7 +504,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bond</Key>
-      <Text>, R L. F. (temp. Lt.)</Text>
+      <Forenames>R</Forenames>
+      <Text>L. F. (temp. Lt.)</Text>
       <PageNumber>10536</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -568,8 +570,8 @@
       <Key>
         <KeyDitto />
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>.)</Text>
+      <Title>Lt.</Title>
+      <Text>)</Text>
       <PageNumber>12125</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -584,14 +586,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Browne</Key>
-      <Text>. O. P. {temp. Lt.)</Text>
+      <Forenames>O. P.</Forenames>
+      <Text>{temp. Lt.)</Text>
       <PageNumber>10746</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Brvce</Key>
-      <Text>. H. H. (temp. Sub-Lt.)</Text>
+      <Forenames>H. H.</Forenames>
+      <Text>(temp. Sub-Lt.)</Text>
       <PageNumber>10968</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -606,7 +610,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bucke</Key>
-      <Text>,. H. S. (itemp. Cdr.)</Text>
+      <Text>. H. S. (itemp. Cdr.)</Text>
       <PageNumber>11951</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1161,7 +1165,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dodds</Key>
-      <Text>, W»(temp. Sub-Lt.)</Text>
+      <Forenames>W</Forenames>
+      <Text>»(temp. Sub-Lt.)</Text>
       <PageNumber>12125</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1529,7 +1534,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gayford</Key>
-      <Text>, 0. R. (temp. Sub-Lt.)</Text>
+      <Text>0. R. (temp. Sub-Lt.)</Text>
       <PageNumber>10080</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1576,7 +1581,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Goad</Key>
-      <Text>, J-. L. (temp. Lt.)</Text>
+      <Text>J-. L. (temp. Lt.)</Text>
       <PageNumber>12478</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1610,6 +1615,14 @@
       <Forenames>A.</Forenames>
       <Text>(temp. Sub-Lt.)</Text>
       <PageNumber>12341</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Grace</Key>
+      <Forenames>A. E.</Forenames>
+      <Text>(temp. Sub-Lt.)</Text>
+      <PageNumber>10857</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1807,7 +1820,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hempson</Key>
-      <Text>, temp. Sub-Lt. R. G. (corr. of name)</Text>
+      <Title>temp. Sub-Lt</Title>
+      <Text>. R. G. (corr. of name)</Text>
       <PageNumber>9557</PageNumber>
     </MainItem>
   </ItemGroup>

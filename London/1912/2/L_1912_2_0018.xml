@@ -177,7 +177,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Barber-Starkey</Key>
-      <Text>,. W. H. J. (Capt.)</Text>
+      <Text>. W. H. J. (Capt.)</Text>
       <PageNumber>3795</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -277,14 +277,14 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>3178</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Cooper</Key>
-      <Text>,' C. G. A. (Capt.)</Text>
+      <Text>' C. G. A. (Capt.)</Text>
       <PageNumber>2395</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -456,7 +456,15 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>K.</Forenames>
-      <Text>(seconded) 3794 ! Lamb, B. (Capt,) '</Text>
+      <Text>(seconded)</Text>
+      <PageNumber>3794</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Lamb</Key>
+      <Forenames>B.</Forenames>
+      <Text>(Capt,) '</Text>
       <PageNumber>2395</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -639,7 +647,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>(Adjt.)</Text>
+      <Title>(Adjt.)</Title>
       <PageNumber>4384</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -662,7 +670,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ricketts</Key>
-      <Text>, Qrmr. and Hon. Capt. u. T. (retired pay)</Text>
+      <Title>Qrmr. and Hon. Capt.</Title>
+      <Text>u. T. (retired pay)</Text>
       <PageNumber>2987</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1265,7 +1274,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Price</Key>
-      <Text>, 0. L. (Adjt.)</Text>
+      <Text>0. L. (Adjt.)</Text>
       <PageNumber>2894</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1383,7 +1392,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Davidson</Key>
-      <Text>, Lieut.-Cbl.S. (half-pay list)</Text>
+      <Title>Lieut.</Title>
+      <Text>-Cbl.S. (half-pay list)</Text>
       <PageNumber>2395</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1470,7 +1480,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gordon-Lennox</Key>
-      <Text>, Lord' . B. C. (Capt.)</Text>
+      <Title>Lord</Title>
+      <Text>' . B. C. (Capt.)</Text>
       <PageNumber>2987</PageNumber>
     </MainItem>
   </ItemGroup>

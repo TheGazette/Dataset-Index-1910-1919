@@ -212,8 +212,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Elliman</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. A. C. (resigned)</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. A. C. (resigned)</Text>
       <PageNumber>2993</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -407,7 +407,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gouldsbury</Key>
-      <Text>, C A. (Lieut;)</Text>
+      <Forenames>C</Forenames>
+      <Text>A. (Lieut;)</Text>
       <PageNumber>2396</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -529,7 +530,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stevens</Key>
-      <Text>,.Capt. G. A. (seconded)</Text>
+      <Text>.Capt. G. A. (seconded)</Text>
       <PageNumber>3583</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -713,7 +714,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Toogood</Key>
-      <Text>, C (Maj.)</Text>
+      <Forenames>C</Forenames>
+      <Text>(Maj.)</Text>
       <PageNumber>4133</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -830,7 +832,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Younghusband</Key>
-      <Text>, 2nd Lieut. C (resigned)</Text>
+      <Title>2nd Lieut.</Title>
+      <Forenames>C</Forenames>
+      <Text>(resigned)</Text>
       <PageNumber>3795</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -846,7 +850,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Davenport</Key>
-      <Text>, j. S. (Lieut.)</Text>
+      <Text>j. S. (Lieut.)</Text>
       <PageNumber>2396</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -949,7 +953,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>(Capt.)</Text>
+      <Title>(Capt.)</Title>
       <PageNumber>4312</PageNumber>
     </MainItem>
   </ItemGroup>

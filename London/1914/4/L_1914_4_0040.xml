@@ -85,7 +85,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Acland</Key>
-      <Text>,. John H. Dyke (temporary Lieut.)</Text>
+      <Text>. John H. Dyke (temporary Lieut.)</Text>
       <PageNumber>8766</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -100,7 +100,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Adcock</Key>
-      <Text>,. Ernest William, M.B. (temporary Lieut.)</Text>
+      <Text>. Ernest William, M.B. (temporary Lieut.)</Text>
       <PageNumber>9001</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -334,7 +334,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Attlee</Key>
-      <Text>, (temporary) Lieut. Cecil Knight (correction)</Text>
+      <Title>(temporary) Lieut.</Title>
+      <Forenames>Cecil Knight</Forenames>
+      <Text>(correction)</Text>
       <PageNumber>10794</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -608,7 +610,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Blood</Key>
-      <Text>, (temporary) Lieut. Bagot N. (relinquishes his temporary commission)</Text>
+      <Title>(temporary) Lieut.</Title>
+      <Forenames>Bagot N.</Forenames>
+      <Text>(relinquishes his temporary commission)</Text>
       <PageNumber>8614</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -702,7 +706,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Branson</Key>
-      <Text>, W! P. Sutcliffe, M.D.,</Text>
+      <Forenames>W</Forenames>
+      <Text>! P. Sutcliffe, M.D.,</Text>
       <PageNumber>8122</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -825,7 +830,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>(temporary Lieut.)</Text>
+      <Title>(temporary Lieut.)</Title>
       <PageNumber>11203</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -883,7 +888,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bullock</Key>
-      <Text>,' William Ewart, M.D. (temporary Lieut.)</Text>
+      <Text>' William Ewart, M.D. (temporary Lieut.)</Text>
       <PageNumber>10773</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -900,7 +905,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Burman</Key>
-      <Text>, 'Charles Ernest Lewis, M.B. (temporary Lieut.)</Text>
+      <Text>'Charles Ernest Lewis, M.B. (temporary Lieut.)</Text>
       <PageNumber>8021</PageNumber>
     </MainItem>
     <SubItem>
@@ -1026,9 +1031,16 @@
       <PageNumber>8765</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>
-    <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
-  </SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
+      </Key>
+      <Forenames>James C. G.</Forenames>
+      <Text>, M.B. (Maj.) ,</Text>
+      <PageNumber>ibid.</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Carson</Key>

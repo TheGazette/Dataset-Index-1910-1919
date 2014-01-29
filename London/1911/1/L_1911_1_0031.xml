@@ -46,7 +46,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Macdonald</Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>2610</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -74,7 +74,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Marshall</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>1963</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -125,7 +125,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Miller</Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>2240</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -242,7 +242,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Riddell</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -258,7 +258,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>K</Text>
+      <Forenames>K</Forenames>
       <PageNumber>2610</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -399,7 +399,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Weaver</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>956</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -519,7 +519,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bainbridge</Key>
-      <Text>I)</Text>
+      <Forenames>I</Forenames>
+      <Text>)</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -605,7 +606,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dening</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>2610</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -713,7 +714,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hobart</Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>508</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -734,7 +735,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Johnston-Saint</Key>
-      <Text>P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>509</PageNumber>
       <PageNumber>957</PageNumber>
     </MainItem>
@@ -792,14 +793,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Masters</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>509</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Mather</Key>
-      <Text>O</Text>
+      <Forenames>O</Forenames>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -870,6 +871,13 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>Nicolls</Key>
+      <Forenames>J. O</Forenames>
+      <PageNumber>509</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Oliver</Key>
       <Forenames>A. H</Forenames>
       <Text>ibij^ , Pearson, G. H. A</Text>
@@ -880,7 +888,13 @@
     <MainItem>
       <Key>Pulvermann</Key>
       <Forenames>A. W</Forenames>
-      <Text>ibid. ! Reilly, R. A</Text>
+      <PageNumber>ibid.</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Reilly</Key>
+      <Forenames>R. A</Forenames>
       <PageNumber>509</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -972,7 +986,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Baillie</Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>957</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1007,7 +1021,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Finnis</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1094,7 +1108,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Beckham</Key>
-      <Text>Lieut.-Col..L. G. ...</Text>
+      <Title>Lieut.-Col.</Title>
+      <Text>.L. G. ...</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1109,7 +1124,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lawson</Key>
-      <Text>Lieut.-Col. H</Text>
+      <Title>Lieut.-Col.</Title>
+      <Forenames>H</Forenames>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
