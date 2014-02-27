@@ -38,8 +38,8 @@
         <KeyDitto>—</KeyDitto>
       </Key>
       <Title>Serjt.</Title>
-      <Forenames>H.</Forenames>
-      <Text>de H. (temp. Lt.)</Text>
+      <Forenames>H. de H</Forenames>
+      <Text>. (temp. Lt.)</Text>
       <PageNumber>7981</PageNumber>
     </MainItem>
     <SubItem>
@@ -461,7 +461,9 @@
     <MainItem>
       <Key>Young</Key>
       <Title>(temp.)</Title>
-      <Text>2nd Li. A., V.C. (temp. Lt.)</Text>
+      <Text>
+        <Honour>V.C.</Honour>
+      </Text>
       <PageNumber>6837</PageNumber>
     </MainItem>
     <SubItem>
@@ -502,7 +504,10 @@
       <Key>Cox</Key>
       <Title>Maj.-Gen. Sir</Title>
       <Forenames>H. V.</Forenames>
-      <Text>, K.C.M.G., C.B., C.S.I</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>6613</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -519,7 +524,10 @@
     <MainItem>
       <Key>Bainibridge</Key>
       <Forenames>W. F.</Forenames>
-      <Text>, C.M.G., D.S.O</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>7495</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -641,7 +649,9 @@
     <MainItem>
       <Key>Fumey</Key>
       <Forenames>J. L.</Forenames>
-      <Text>(Bt.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>8224</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -715,8 +725,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Reilly, C. M</Text>
+      <Key>O'Reilly</Key>
+      <Forenames>C. M</Forenames>
       <PageNumber>6613</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -746,7 +756,10 @@
     <MainItem>
       <Key>Queripel</Key>
       <Forenames>L. H.</Forenames>
-      <Text>, D.S.O. (Bt.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>8224</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -777,7 +790,9 @@
     <MainItem>
       <Key>Stewart</Key>
       <Forenames>J.</Forenames>
-      <Text>II. K., D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>8712</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -997,8 +1012,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Carey</Key>
-      <Forenames>T.</Forenames>
-      <Text>de B. (temp.)</Text>
+      <Forenames>T. de B</Forenames>
+      <Text>. (temp.)</Text>
       <PageNumber>6613</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1137,7 +1152,9 @@
     <MainItem>
       <Key>Grant</Key>
       <Forenames>J. D.</Forenames>
-      <Text>, V.C</Text>
+      <Text>
+        <Honour>V.C</Honour>
+      </Text>
       <PageNumber>6613</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1166,8 +1183,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hardinge</Key>
-      <Forenames>H. R.</Forenames>
-      <Text>von Donop</Text>
+      <Forenames>H. R. von Donop</Forenames>
       <PageNumber>6614</PageNumber>
     </MainItem>
   </ItemGroup>

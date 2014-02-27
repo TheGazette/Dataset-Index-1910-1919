@@ -133,8 +133,8 @@
     <MainItem>
       <Key>Prevost</Key>
       <Title>Cadet</Title>
-      <Forenames>R. A. De T.</Forenames>
-      <Text>(temp. 2nd Lt. on prob.)</Text>
+      <Forenames>R. A. De T</Forenames>
+      <Text>. (temp. 2nd Lt. on prob.)</Text>
       <PageNumber>7319</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -281,8 +281,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>The</Forenames>
-      <Text>Rt. Rev. Bishop H. McC. E. (temp Chapln. to the Forces, 1st Class, rel. commn.)</Text>
+      <Title>The Rt. Rev.</Title>
+      <Forenames>Bishop H.</Forenames>
+      <Text>McC. E. (temp Chapln. to the Forces, 1st Class, rel. commn.)</Text>
       <PageNumber>8890</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -437,7 +438,10 @@
       <Key>Pridhard</Key>
       <Title>Col.</Title>
       <Forenames>C. S.</Forenames>
-      <Text>. C.B., D.S.O. (placed on h.p. Li=t)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>9191</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -709,7 +713,10 @@
       </Key>
       <Title>(temp.) Lt.</Title>
       <Forenames>H.</Forenames>
-      <Text>, M.D., F.R.C.S., I. (temp. Gapt.) '</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>5484</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -746,7 +753,9 @@
       </Key>
       <Title>Maj. (temp. Col.)</Title>
       <Forenames>J. W.</Forenames>
-      <Text>(Bt. Lt.-Col., Reserve of Officers)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>8224</PageNumber>
     </MainItem>
   </ItemGroup>

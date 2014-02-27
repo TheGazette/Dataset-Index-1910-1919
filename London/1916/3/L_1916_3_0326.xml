@@ -185,8 +185,8 @@
     <MainItem>
       <Key>Tronson</Key>
       <Title>Lt.</Title>
-      <Forenames>N. G. P.</Forenames>
-      <Text>de C. (temp. Capt.)</Text>
+      <Forenames>N. G. P. de C</Forenames>
+      <Text>. (temp. Capt.)</Text>
       <PageNumber>7645</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -407,7 +407,9 @@
       <Key>Turing</Key>
       <Title>Lt. Sir</Title>
       <Forenames>J. W.</Forenames>
-      <Text>, Bt. (appt. cancelled)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>8996</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -614,7 +616,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>G. G.</Forenames>
-      <Text>, M.B., F.R.C.S. (sec. for duty with a Geh. Hospital)</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>9183</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -887,7 +891,9 @@
     <MainItem>
       <Key>Tyer</Key>
       <Title>Lt. (temp; Capt.)</Title>
-      <Text>. A. A., M.V.O. (correc.)</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>7322</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -923,7 +929,9 @@
       <Key>Tyson</Key>
       <Title>Capt.</Title>
       <Forenames>W.</Forenames>
-      <Text>, M.D. (reatd. to</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>7108</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -961,7 +969,9 @@
       <Key>Umfreville</Key>
       <Title>(temp.) Lt.-Col.</Title>
       <Forenames>H. K.</Forenames>
-      <Text>, D.S.O. (trnsfd.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7344</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1113,7 +1123,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Usher</Key>
-      <Text>^ Maj. C. H., M.B., F.R.C.S. (Edin.) (seed, for duty with Gen. Hosp.)</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>9022</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1210,8 +1222,8 @@
     <MainItem>
       <Key>Valiancy</Key>
       <Title>Lt.</Title>
-      <Forenames>H. H.</Forenames>
-      <Text>de E. (temp. Capt.)</Text>
+      <Forenames>H. H. de E</Forenames>
+      <Text>. (temp. Capt.)</Text>
       <PageNumber>8490</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1219,15 +1231,18 @@
     <MainItem>
       <Key>Vallow</Key>
       <Forenames>H.</Forenames>
-      <Text>, M.D. (Lt.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>7684</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Baerle</Forenames>
-      <Text>, Cadet P. E. H. (2nd Lt. on prob.)</Text>
+      <Key>Van Baerle</Key>
+      <Title>Cadet</Title>
+      <Forenames>P. E. H.</Forenames>
+      <Text>(2nd Lt. on prob.)</Text>
       <PageNumber>7226</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1241,9 +1256,19 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Neck</Forenames>
-      <Text>, 2nd Lt. C. (relinquishes commn. on account of illhealth)</Text>
+      <Key>van Gruisen</Key>
+      <Title>Lt. (temp. Capt.)</Title>
+      <Forenames>H.</Forenames>
+      <Text>(relinquishes temp, rank on alteration in posting)</Text>
+      <PageNumber>9100</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Van Neck</Key>
+      <Title>2nd Lt.</Title>
+      <Forenames>C.</Forenames>
+      <Text>(relinquishes commn. on account of illhealth)</Text>
       <PageNumber>9313</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1260,9 +1285,12 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Notton-Pole</Forenames>
-      <Text>, Maj. Sir C. P., Bt. (trnsfd.)</Text>
+      <Key>Van Notton-Pole</Key>
+      <Title>Maj. Sir</Title>
+      <Forenames>C. P.</Forenames>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>6736</PageNumber>
     </MainItem>
     <SubItem>
@@ -1272,9 +1300,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Vestrant</Forenames>
-      <Text>, 2nd Lt. A. (Seed, for duty with Trench Mortar Battery)</Text>
+      <Key>Van Vestrant</Key>
+      <Title>2nd Lt.</Title>
+      <Forenames>A.</Forenames>
+      <Text>(Seed, for duty with Trench Mortar Battery)</Text>
       <PageNumber>7645</PageNumber>
     </MainItem>
   </ItemGroup>

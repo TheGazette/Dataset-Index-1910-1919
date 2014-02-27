@@ -367,7 +367,9 @@
     <MainItem>
       <Key>Nevin</Key>
       <Forenames>R. W.</Forenames>
-      <Text>, M.D. (Lt.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>7228</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -542,7 +544,9 @@
       </Key>
       <Title>Lt.-Col.</Title>
       <Forenames>W.</Forenames>
-      <Text>(Lt.-Col. and Bt. Col., ret., T.F.) (Lt.-Col., trnsfd.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>8793</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -710,7 +714,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>J.</Forenames>
-      <Text>, M.D. (temp. Lt.-Col. whilst comdg. a Field Ambulance) Nimmo, Lt. O. P. (seed, for duty with Regular R.G.A.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>8106</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1166,8 +1172,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Carroll, Cadet G. C. W. (2nd Lt. on prob.) Ocks [Ochs], 2nd Lt. C. G. (seconded as Railway Trnsp. Officer)</Text>
+      <Key>O'Carroll</Key>
+      <Title>Cadet</Title>
+      <Forenames>G. C. W.</Forenames>
+      <Text>(2nd Lt. on prob.) Ocks [Ochs], 2nd Lt. C. G. (seconded as Railway Trnsp. Officer)</Text>
       <PageNumber>6584</PageNumber>
     </MainItem>
     <SubItem>
@@ -1177,8 +1185,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Daly, 2nd Lt: D. R. D. (restored to the establishment)</Text>
+      <Key>O'Daly</Key>
+      <Text>2nd Lt: D. R. D. (restored to the establishment)</Text>
       <PageNumber>8375</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1202,8 +1210,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Ferrall, 2nd Lt. (temp. Lt.) C. L. (temp. CaptJ</Text>
+      <Key>O'Ferrall</Key>
+      <Title>2nd Lt. (temp. Lt.)</Title>
+      <Forenames>C. L.</Forenames>
+      <Text>(temp. CaptJ</Text>
       <PageNumber>7321</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1276,8 +1286,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hagan, Lt, (temp. Capt.) C. S. (res. commn.)</Text>
+      <Key>O'Hagan</Key>
+      <Forenames>Lt</Forenames>
+      <Text>, (temp. Capt.) C. S. (res. commn.)</Text>
       <PageNumber>8168</PageNumber>
     </MainItem>
     <SubItem>
@@ -1287,15 +1298,19 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hara, 2nd Lt. L. B. (relinquishes commn. on account of ill-health)</Text>
+      <Key>O'Hara</Key>
+      <Title>2nd Lt.</Title>
+      <Forenames>L. B.</Forenames>
+      <Text>(relinquishes commn. on account of ill-health)</Text>
       <PageNumber>9486</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Kill, Cadet E. G. T. (2nd Lt.)</Text>
+      <Key>O'Kill</Key>
+      <Title>Cadet</Title>
+      <Forenames>E. G. T.</Forenames>
+      <Text>(2nd Lt.)</Text>
       <PageNumber>6992</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -93,7 +93,9 @@
     <MainItem>
       <Key>Tylor</Key>
       <Forenames>O.</Forenames>
-      <Text>, M.D. (temp. Lt.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>8812</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -110,8 +112,8 @@
     <MainItem>
       <Key>Tyrer</Key>
       <Title>Pte.</Title>
-      <Forenames>C. St</Forenames>
-      <Text>. J. (temp. 2nd Lt. on prob.)</Text>
+      <Forenames>C. St. J</Forenames>
+      <Text>. (temp. 2nd Lt. on prob.)</Text>
       <PageNumber>8164</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -131,7 +133,9 @@
       </Key>
       <Title>Supern. Maj. (Bt. Lt.-Col.)</Title>
       <Forenames>G. E.</Forenames>
-      <Text>, D.S.O. (restd. to the estab.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7758</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -552,7 +556,9 @@
       <Key>Upcott-Gill</Key>
       <Title>(temp.) Lt.</Title>
       <Forenames>G. A.</Forenames>
-      <Text>, F.R.C.S. (Edin.) (temp. Capt.)</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>8268</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -638,7 +644,9 @@
     <MainItem>
       <Key>Urmston</Key>
       <Title>(temp.) Lt.</Title>
-      <Text>-Col A. G. B. (Bt. Lt.-Col., ret. R. Mar.) (relinq. temp, rank on vacating comd. of a Bn.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>7557</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -954,17 +962,28 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Alstyne</Forenames>
-      <Text>, Corpl. J. W. (temp. 2nd Lt.)</Text>
+      <Key>Van Alstyne</Key>
+      <Title>Corpl.</Title>
+      <Forenames>J. W.</Forenames>
+      <Text>(temp. 2nd Lt.)</Text>
       <PageNumber>8708</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Bergen</Forenames>
-      <Text>, (temp.) 2nd Lt. C. (trnsfd. from Res. Bn.)</Text>
+      <Key>van Baerle</Key>
+      <Title>(temp.) 2nd Lt.</Title>
+      <Forenames>L. E. B.</Forenames>
+      <Text>(rel. oommn.)</Text>
+      <PageNumber>7555</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Van Bergen</Key>
+      <Title>(temp.) 2nd Lt.</Title>
+      <Forenames>C.</Forenames>
+      <Text>(trnsfd. from Res. Bn.)</Text>
       <PageNumber>9108</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -985,17 +1004,19 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Derplant</Forenames>
-      <Text>, (temp.) 2nd Lt. H. E. (trnsfd. to Service Bn.)</Text>
+      <Key>Van Derplant</Key>
+      <Title>(temp.) 2nd Lt.</Title>
+      <Forenames>H. E.</Forenames>
+      <Text>(trnsfd. to Service Bn.)</Text>
       <PageNumber>6576</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Druten</Forenames>
-      <Text>, (temp.) 2nd Lt. H. J. (trnsfd. from Res. Bn.)</Text>
+      <Key>Van Druten</Key>
+      <Title>(temp.) 2nd Lt.</Title>
+      <Forenames>H. J.</Forenames>
+      <Text>(trnsfd. from Res. Bn.)</Text>
       <PageNumber>7490</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1009,9 +1030,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Langenberg</Forenames>
-      <Text>, V., M.B. (temp. Capt.)</Text>
+      <Key>Van Langenberg</Key>
+      <Forenames>V.</Forenames>
+      <Text>, M.B. (temp. Capt.)</Text>
       <PageNumber>7173</PageNumber>
     </MainItem>
     <SubItem>
@@ -1021,17 +1042,18 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Leenof</Forenames>
-      <Text>, C. B. (2nd Lt. on prob.)</Text>
+      <Key>Van Leenof</Key>
+      <Forenames>C. B.</Forenames>
+      <Text>(2nd Lt. on prob.)</Text>
       <PageNumber>8879</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Someren</Forenames>
-      <Text>, Cadet C. D. (temp. 2nd Lt. on prob.)</Text>
+      <Key>Van Someren</Key>
+      <Title>Cadet</Title>
+      <Forenames>C. D.</Forenames>
+      <Text>(temp. 2nd Lt. on prob.)</Text>
       <PageNumber>9178</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1048,9 +1070,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Straubenzee</Forenames>
-      <Text>, Capt. A. W. (date of prom, to Maj.)</Text>
+      <Key>Van Straubenzee</Key>
+      <Title>Capt.</Title>
+      <Forenames>A. W.</Forenames>
+      <Text>(date of prom, to Maj.)</Text>
       <PageNumber>8876</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1089,7 +1112,9 @@
       <Key>Vane</Key>
       <Title>Sir</Title>
       <Forenames>F. P.</Forenames>
-      <Text>-F., Bt. (late Capt.) (temp. Capt. whilst empld. as Recruiting Offr.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>6572</PageNumber>
     </MainItem>
     <SubItem>

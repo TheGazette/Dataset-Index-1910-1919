@@ -457,9 +457,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Von</Key>
-      <Forenames>Berg</Forenames>
-      <Text>, Cadet W. C. (2nd Lt. on prob.j ... ... ,</Text>
+      <Key>Von Berg</Key>
+      <Title>Cadet</Title>
+      <Forenames>W. C.</Forenames>
+      <Text>(2nd Lt. on prob.j ... ... ,</Text>
       <PageNumber>8376</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -573,7 +574,9 @@
       <Key>Waechter</Key>
       <Title>Hon. Col. Sir</Title>
       <Forenames>H.</Forenames>
-      <Text>, Bt. (2nd Lt. on prob.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>7575</PageNumber>
     </MainItem>
   </ItemGroup>

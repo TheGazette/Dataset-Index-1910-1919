@@ -69,7 +69,9 @@
     <MainItem>
       <Key>Shore</Key>
       <Title>Col.</Title>
-      <Text>(temp. (Brig.-Gen.) O. B. S. F., ClB., CLE., D.S.O. (Brig.-Gen., Gen. Staff)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8608</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -114,7 +116,9 @@
       <Key>Tidswell</Key>
       <Title>Col. (temp. Brig.-Gen.)</Title>
       <Forenames>E. C</Forenames>
-      <Text>, D.S.O. (Brig^. Commdr.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8608</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -176,7 +180,11 @@
     <MainItem>
       <Key>Edwiards</Key>
       <Forenames>W. R.</Forenames>
-      <Text>, C.B., C.M.G., M.D</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>M.D</Honour>
+      </Text>
       <PageNumber>6615</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -248,7 +256,9 @@
     <MainItem>
       <Key>LetWbridge</Key>
       <Forenames>W.</Forenames>
-      <Text>, M.D. (date)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>6615</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -256,7 +266,9 @@
     <MainItem>
       <Key>Rutherford</Key>
       <Forenames>T. C</Forenames>
-      <Text>, M.D. (date)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>6615</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -288,7 +300,9 @@
     <MainItem>
       <Key>Cormack</Key>
       <Forenames>H. S.</Forenames>
-      <Text>, M.B., F.R.C.S. (date of prom.)</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>8713</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -425,6 +439,14 @@
       <Key>David</Key>
       <Forenames>J. S.</Forenames>
       <Text>(temp.) ...'</Text>
+      <PageNumber>7501</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Mello</Key>
+      <Forenames>P.</Forenames>
+      <Text>(temp.)</Text>
       <PageNumber>7501</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -582,7 +604,9 @@
     <MainItem>
       <Key>Pestonji</Key>
       <Forenames>A. B.</Forenames>
-      <Text>, F.R.C.S. (rel. of temp, rank)</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>7592</PageNumber>
     </MainItem>
     <SubItem>
@@ -648,7 +672,10 @@
     <MainItem>
       <Key>Lukis</Key>
       <Title>Sgn.</Title>
-      <Text>-Gen. Sir C. P., K.C.S.I., M.D., F.R.C.S. (Dir.Gen.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>9191</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -945,7 +972,11 @@
       <Key>Guinness</Key>
       <Title>The Hon.</Title>
       <Forenames>R. E. C</Forenames>
-      <Text>, C.B., C.M.G., M.P., R.N.V.R</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>7213</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -953,7 +984,9 @@
     <MainItem>
       <Key>Haddock</Key>
       <Forenames>H. J.</Forenames>
-      <Text>, C.B-., R.D., R.N.R</Text>
+      <Text>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>7213</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1114,7 +1147,9 @@
     <MainItem>
       <Key>Nasmith</Key>
       <Forenames>M. E.</Forenames>
-      <Text>, V.C</Text>
+      <Text>
+        <Honour>V.C</Honour>
+      </Text>
       <PageNumber>7480</PageNumber>
     </MainItem>
   </ItemGroup>

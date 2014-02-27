@@ -158,7 +158,9 @@
     <MainItem>
       <Key>Viokera</Key>
       <Forenames>A. Villiers-Stuart</Forenames>
-      <Text>, Capt. J. P., D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>6995</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -238,7 +240,9 @@
     <MainItem>
       <Key>Willis</Key>
       <Forenames>E. S. C</Forenames>
-      <Text>, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>6995</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -294,7 +298,9 @@
     <MainItem>
       <Key>Wylly</Key>
       <Forenames>G. G. E.</Forenames>
-      <Text>, V.C</Text>
+      <Text>
+        <Honour>V.C</Honour>
+      </Text>
       <PageNumber>7498</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -535,8 +541,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Goldman-Monk</Key>
-      <Forenames>M. E.</Forenames>
-      <Text>de Baillon</Text>
+      <Forenames>M. E. de Baillon</Forenames>
       <PageNumber>6614</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -551,8 +556,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hammick</Key>
-      <Title>St.</Title>
-      <Forenames>V. F</Forenames>
+      <Title>St. V.</Title>
+      <Forenames>F</Forenames>
       <PageNumber>6614</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1210,9 +1215,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Butts</Forenames>
-      <Text>, F. C</Text>
+      <Key>De Butts</Key>
+      <Forenames>F. C .</Forenames>
       <PageNumber>7498</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1413,7 +1417,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fraser</Key>
-      <Forenames>D. De M. S .</Forenames>
+      <Forenames>D. De M</Forenames>
+      <Text>. S</Text>
       <PageNumber>6996</PageNumber>
     </MainItem>
     <SubItem>
@@ -1550,8 +1555,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hare</Key>
-      <Forenames>I. L. O</Forenames>
-      <Text>'H</Text>
+      <Forenames>I. L. O'H</Forenames>
       <PageNumber>7499</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1788,7 +1792,9 @@
       <PageNumber>7498</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Sir N. R. A. D,, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>69</PageNumber>
     </SubItem>
   </ItemGroup>

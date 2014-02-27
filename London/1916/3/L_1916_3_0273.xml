@@ -53,8 +53,8 @@
     <MainItem>
       <Key>Blacker</Key>
       <Title>Maj.</Title>
-      <Forenames>F. St</Forenames>
-      <Text>. J. (temp. Lt.Col!)</Text>
+      <Forenames>F. St. J</Forenames>
+      <Text>. (temp. Lt.Col!)</Text>
       <PageNumber>6992</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -963,7 +963,10 @@
       <Key>Bosanquet</Key>
       <Title>Capt.</Title>
       <Forenames>W. C</Forenames>
-      <Text>, M.D. (seed, whilst holding commn. in R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9124</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1149,7 +1152,9 @@
       <Key>Bousfield</Key>
       <Title>Maj.</Title>
       <Forenames>H. D.</Forenames>
-      <Text>, D.S.O. (temp. Lt.-Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>9357</PageNumber>
     </MainItem>
   </ItemGroup>

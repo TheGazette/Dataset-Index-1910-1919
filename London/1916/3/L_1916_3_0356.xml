@@ -132,8 +132,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Byrne, (temp.) Lt. C. E. (corr. of date)</Text>
+      <Key>O'Byrne</Key>
+      <Title>(temp.) Lt.</Title>
+      <Forenames>C. E.</Forenames>
+      <Text>(corr. of date)</Text>
       <PageNumber>7336</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1517,7 +1519,9 @@
     <MainItem>
       <Key>Bacon</Key>
       <Title>Lt.</Title>
-      <Text>-Cdr. S. K.. D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>7336</PageNumber>
     </MainItem>
   </ItemGroup>

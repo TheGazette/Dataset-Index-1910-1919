@@ -56,7 +56,9 @@
       <Key>Abbott</Key>
       <Title>Brig.-Gen.</Title>
       <Forenames>H. A.</Forenames>
-      <Text>, C.B. (Ind. Army) (temp. Lt.-Col.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>9457</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -492,7 +494,9 @@
       <Key>Bower</Key>
       <Title>Gen. Sir</Title>
       <Forenames>H.</Forenames>
-      <Text>, K.C.B. (Lt.Col. and County Commdt.)</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+      </Text>
       <PageNumber>8506</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -575,7 +579,9 @@
       <Key>Brown</Key>
       <Title>Maj. Sir</Title>
       <Forenames>R</Forenames>
-      <Text>, H., K.C.M.G. (temp. Maj.)</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+      </Text>
       <PageNumber>8608</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -593,7 +599,10 @@
       <Key>Browne</Key>
       <Title>Maj.-Gen.</Title>
       <Forenames>G. F.</Forenames>
-      <Text>, C.B., D.S.O. (temp. Maj.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8897</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -682,8 +691,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cadogan</Key>
-      <Forenames>The</Forenames>
-      <Text>Earl (temp. Lt.-Col. and County Commdt.)</Text>
+      <Title>The Earl (temp. Lt.-Col. and County Commdt.)</Title>
       <PageNumber>8607</PageNumber>
     </MainItem>
     <SubItem>
@@ -696,7 +704,9 @@
       <Key>Calley</Key>
       <Title>Col.</Title>
       <Forenames>T.</Forenames>
-      <Text>, O.B., M.V.O. (temp. Lt.-Col. and County , Commdt.)</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>8608</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -714,7 +724,9 @@
         <KeyDitto>___ ___ .</KeyDitto>
       </Key>
       <Forenames>F.</Forenames>
-      <Text>, C.B. (late Lt.-Col., Hon. Col) (temp. Maj.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>8897</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -768,7 +780,10 @@
       <Key>Oarington</Key>
       <Title>Col. the Hon.</Title>
       <Forenames>R. C. G.</Forenames>
-      <Text>, C.V.O., D.S.O. (temp. Lt.-Col.)</Text>
+      <Text>
+        <Honour>C.V.O.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>9457</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -838,7 +853,9 @@
       <Key>Cecil</Key>
       <Title>Lord</Title>
       <Forenames>W.</Forenames>
-      <Text>, C.V.O. (late Capt. . and Hon. Col.) (temp Maj.)</Text>
+      <Text>
+        <Honour>C.V.O.</Honour>
+      </Text>
       <PageNumber>8897</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -953,7 +970,9 @@
       <Key>Cholmondeley</Key>
       <Title>Col.</Title>
       <Forenames>H. C</Forenames>
-      <Text>, C.B. (temp. Lt.-Col. and County Coonondt.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>8607</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -987,7 +1006,9 @@
       <Key>Colvin</Key>
       <Title>Col.</Title>
       <Forenames>R. B.</Forenames>
-      <Text>, C.B. (temp. Lt.Col. and County Commdt.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>8606</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1079,7 +1100,9 @@
       <Key>Crichton</Key>
       <Title>Col. The Hon. Sir</Title>
       <Forenames>H.</Forenames>
-      <Text>, K.C.B. (temp. Lt.-Col. and County Obmmdt.)</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+      </Text>
       <PageNumber>8607</PageNumber>
     </MainItem>
     <SubItem>
@@ -1187,6 +1210,17 @@
       <Forenames>P.</Forenames>
       <Text>(temp. Maj.)</Text>
       <PageNumber>9457</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Hoghton</Key>
+      <Title>Lt.-Col. Sir</Title>
+      <Forenames>J.</Forenames>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
+      <PageNumber>8606</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1373,7 +1407,10 @@
     <MainItem>
       <Key>Errol</Key>
       <Title>Col.</Title>
-      <Text>the Earl of, K.T., C.B. (temp . Lt.-Col. and County Commdt.)</Text>
+      <Text>
+        <Honour>K.T.</Honour>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>8605</PageNumber>
     </MainItem>
   </ItemGroup>

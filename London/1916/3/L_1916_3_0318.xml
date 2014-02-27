@@ -112,25 +112,27 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>Aubyn</Forenames>
-      <Text>, Cadet J. K. (2nd Lt. on prob.)</Text>
+      <Key>St. Aubyn</Key>
+      <Title>Cadet</Title>
+      <Forenames>J. K.</Forenames>
+      <Text>(2nd Lt. on prob.)</Text>
       <PageNumber>6991</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>Maur</Forenames>
-      <Text>, 2nd Lt. F. P. (temp. Lt.)</Text>
+      <Key>St. Maur</Key>
+      <Title>2nd Lt.</Title>
+      <Forenames>F. P.</Forenames>
+      <Text>(temp. Lt.)</Text>
       <PageNumber>8261</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>Quintin</Forenames>
-      <Text>, Lce-Corpl. C. J. (2nd Lt. on prob.)</Text>
+      <Key>St. Quintin</Key>
+      <Forenames>Lce-Corpl</Forenames>
+      <Text>. C. J. (2nd Lt. on prob.)</Text>
       <PageNumber>8030</PageNumber>
     </MainItem>
     <SubItem>
@@ -397,7 +399,9 @@
       <Key>Sandilands</Key>
       <Title>Lt. (temp. Capt.)</Title>
       <Forenames>J. E.</Forenames>
-      <Text>, M.D. (Capt.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>7330</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1094,7 +1098,9 @@
       </Key>
       <Title>Capt. (temp. Maj.)</Title>
       <Forenames>J. M.</Forenames>
-      <Text>, D.S.O. (rel. temp, rank)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7667</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1368,8 +1374,8 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Title>2nd Lt.</Title>
-      <Forenames>C. S. St</Forenames>
-      <Text>. B. (temp. LU :</Text>
+      <Forenames>C. S. St. B</Forenames>
+      <Text>. (temp. LU :</Text>
       <PageNumber>8259</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -86,8 +86,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, Cadet J. E. (2nd Lt,</Text>
+      <Key>O'Neill</Key>
+      <Title>Cadet</Title>
+      <Forenames>J. E.</Forenames>
+      <Text>(2nd Lt,</Text>
       <PageNumber>8981</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -95,8 +97,8 @@
     <MainItem>
       <Key>Openshaw</Key>
       <Title>Cadet</Title>
-      <Forenames>D. J.</Forenames>
-      <Text>de R. (2nd</Text>
+      <Forenames>D. J. de R</Forenames>
+      <Text>. (2nd</Text>
       <PageNumber>7331</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -159,8 +161,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Riordan, 2nd Lt. G. F. (seod. for</Text>
+      <Key>O'Riordan</Key>
+      <Title>2nd Lt.</Title>
+      <Forenames>G. F.</Forenames>
+      <Text>(seod. for</Text>
       <PageNumber>7105</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -220,7 +224,9 @@
       <Key>Orton</Key>
       <Title>Capt.</Title>
       <Forenames>J.</Forenames>
-      <Text>, M.D. (Maj.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>7768</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -496,7 +502,9 @@
       <PageNumber>8013</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>D.S.O., rel. temp, rank (suihst. not.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8588</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -997,7 +1005,9 @@
       <Key>Pannett</Key>
       <Title>Capt.</Title>
       <Forenames>C. A.</Forenames>
-      <Text>, M.B. (seed, while holding a temp, commn. in R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7560</PageNumber>
     </MainItem>
   </ItemGroup>

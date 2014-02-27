@@ -981,15 +981,34 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Boisson</Forenames>
-      <Text>, 2nd Lt. R. H. (temp. Lt.)</Text>
+      <Key>Du Boisson</Key>
+      <Title>2nd Lt.</Title>
+      <Forenames>R. H.</Forenames>
+      <Text>(temp. Lt.)</Text>
       <PageNumber>7666</PageNumber>
     </MainItem>
     <SubItem>
       <Text>Adjt</Text>
       <PageNumber>9357</PageNumber>
     </SubItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>du Preez</Key>
+      <Title>2nd Lt.</Title>
+      <Forenames>J.</Forenames>
+      <Text>. L(relin. *. commn. to resume medical studies)</Text>
+      <PageNumber>7644</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>du Val</Key>
+      <Title>2nd Lt.</Title>
+      <Forenames>M. K.</Forenames>
+      <Text>(temp. Lt.)</Text>
+      <PageNumber>6612</PageNumber>
+    </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
@@ -1002,7 +1021,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Dubose-Taylor</Key>
-      <Text>[or Dubose-Taylor], 2nd Lt. (temp. Lt.) F. J. (seed. for duty as A.D.C.)</Text>
+      <Text>
+        <Honour>A.D.C.</Honour>
+      </Text>
       <PageNumber>7466</PageNumber>
     </MainItem>
     <SubItem>
@@ -1121,7 +1142,11 @@
       </Key>
       <Title>Lt.-Col. Rt. Hon.</Title>
       <Forenames>W. H.</Forenames>
-      <Text>, Earl of, G.C.B., G.C.M.G., G.C.V.O. (tmsfd.)</Text>
+      <Text>
+        <Honour>G.C.B.</Honour>
+        <Honour>G.C.M.G.</Honour>
+        <Honour>G.C.V.O.</Honour>
+      </Text>
       <PageNumber>7321</PageNumber>
     </MainItem>
   </ItemGroup>

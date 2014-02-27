@@ -227,8 +227,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Showers</Key>
-      <Title>2nd Lt. St.</Title>
-      <Forenames>G. S.</Forenames>
+      <Title>2nd Lt. St. G.</Title>
+      <Forenames>S.</Forenames>
       <Text>(Lt.) ... Shrimpton, Qr.-Mr.-Serjt. (M.S.C)</Text>
       <PageNumber>7220</PageNumber>
     </MainItem>
@@ -368,7 +368,9 @@
     <MainItem>
       <Key>Silblbald</Key>
       <Forenames>S. R.</Forenames>
-      <Text>, M.D. (temp. Lt.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>9190</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -866,7 +868,9 @@
       </Key>
       <Title>(temp.) Lt.</Title>
       <Forenames>G. A.</Forenames>
-      <Text>, M.D. (temp. Capt.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>7760</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1067,7 +1071,9 @@
       </Key>
       <Title>(temp.) Lt.</Title>
       <Forenames>A. M.</Forenames>
-      <Text>, M.D</Text>
+      <Text>
+        <Honour>M.D</Honour>
+      </Text>
       <PageNumber>7759</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1219,7 +1225,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>H.</Forenames>
-      <Text>€., D.S.O. (temp. Lt.Col.) ..:</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6587</PageNumber>
     </MainItem>
   </ItemGroup>
