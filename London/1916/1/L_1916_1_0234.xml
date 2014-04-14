@@ -588,8 +588,8 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Title>Capt.</Title>
-      <Forenames>H. G. St</Forenames>
-      <Text>. C. (seconding cancelled)</Text>
+      <Forenames>H. G. St. C</Forenames>
+      <Text>. (seconding cancelled)</Text>
       <PageNumber>645</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1011,7 +1011,10 @@
       <Key>Royston</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>J. R</Forenames>
-      <Text>,, C.M.G., D. S.O. (temp. Lt.-Col.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D. S.O.</Honour>
+      </Text>
       <PageNumber>1140</PageNumber>
     </MainItem>
     <SubItem>
@@ -1512,9 +1515,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>George</Forenames>
-      <Text>, H. E. (2nd Lt.)</Text>
+      <Key>St. George</Key>
+      <Forenames>H. E.</Forenames>
+      <Text>(2nd Lt.)</Text>
       <PageNumber>2337</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1531,9 +1534,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>Quintin</Forenames>
-      <Text>, 2nd Lt. C. T. (2nd Lt. on probation)</Text>
+      <Key>St. Quintin</Key>
+      <Title>2nd Lt.</Title>
+      <Forenames>C. T.</Forenames>
+      <Text>(2nd Lt. on probation)</Text>
       <PageNumber>2319</PageNumber>
       <PageNumber>3189</PageNumber>
     </MainItem>

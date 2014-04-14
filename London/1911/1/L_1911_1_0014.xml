@@ -585,7 +585,9 @@
       <Key>Grogan</Key>
       <Title>Maj. Sir</Title>
       <Forenames>E. I. B.</Forenames>
-      <Text>, Bart., Military Attache and temporary Lieut.-Col</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>19</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -752,8 +754,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donnell, Col. H Col. the Staff in India and temporary Brig.-Gen</Text>
+      <Key>O'Donnell</Key>
+      <Title>Col.</Title>
+      <Forenames>H</Forenames>
+      <Text>Col. the Staff in India and temporary Brig.-Gen</Text>
       <PageNumber>1334</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -850,7 +854,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Tulloch</Key>
-      <Text>. Maj. J. B. G., General Staff Officer, 2nd grade</Text>
+      <Title>Maj.</Title>
+      <Forenames>J. B. G.</Forenames>
+      <Text>, General Staff Officer, 2nd grade</Text>
       <PageNumber>1238</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -866,8 +872,19 @@
   <ItemGroup>
     <MainItem>
       <Key>Vaux</Key>
-      <Text>., Lieut. H. G., Aide-deCamp to Sir T. D. Gibson-Carmichael, Bart</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>2523</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>von Donop</Key>
+      <Title>Col.</Title>
+      <Forenames>S. B.</Forenames>
+      <Text>, Director at the War Office and temporary Brig.-Gen :</Text>
+      <PageNumber>953</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1055,8 +1072,8 @@
     <MainItem>
       <Key>Wake</Key>
       <Title>Capt.</Title>
-      <Forenames>C. St</Forenames>
-      <Text>. A. (removed on age-limit)</Text>
+      <Forenames>C. St. A</Forenames>
+      <Text>. (removed on age-limit)</Text>
       <PageNumber>1337</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1320,7 +1337,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Humphreys</Key>
-      <Text>. Capt. A. E. (temporary Half-pay List)</Text>
+      <Title>Capt.</Title>
+      <Forenames>A. E.</Forenames>
+      <Text>(temporary Half-pay List)</Text>
       <PageNumber>15</PageNumber>
     </MainItem>
   </ItemGroup>

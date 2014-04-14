@@ -13,15 +13,22 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. Clair-Ford, temp. Capt. L. (rel. temp,.appt. as Staff Lt..)</Text>
+      <Key>St. Clair-Ford</Key>
+      <Title>temp. Capt.</Title>
+      <Forenames>L.</Forenames>
+      <Text>(rel. temp,.appt. as Staff Lt..)</Text>
       <PageNumber>0228</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. John, Lt.-Col. E. F., C.M.G., D.S.O. (temp. G.S.O., 1st Gr.)</Text>
+      <Key>St. John</Key>
+      <Title>Lt.-Col.</Title>
+      <Forenames>E. F.</Forenames>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8200</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -102,7 +109,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>P.</Forenames>
-      <Text>(rel. temp. appt. as A.D.C.)</Text>
+      <Text>
+        <Honour>A.D.C.</Honour>
+      </Text>
       <PageNumber>4836</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -179,7 +188,9 @@
       <Key>Sanderson</Key>
       <Title>Bt. Maj.</Title>
       <Forenames>A. E.</Forenames>
-      <Text>, D.S.O. (Brig.-Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8212</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -201,7 +212,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>B.</Forenames>
-      <Text>, M.C. (rel. appt. as G.S.O., 2nd Gr., and temp. rank of Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8045</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -260,7 +273,7 @@
       <PageNumber>4497</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Rel. spec, appt., Cl. HH</Text>
+      <Text>Rel. spec, appt., Cl. HH.</Text>
       <PageNumber>4859</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -278,7 +291,9 @@
       <Key>Sandon</Key>
       <Title>temp. Capt.</Title>
       <Forenames>J. F.</Forenames>
-      <Text>(D.S.O., 3rd Gr.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8211</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -410,7 +425,9 @@
     <MainItem>
       <Key>Scafe</Key>
       <Title>Maj. and Bt. Lt.-Col.</Title>
-      <Text>XV. E., D.S.O. (rel. appt. as A.A.G. and temp, rank of Lt.-Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6589</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -430,7 +447,9 @@
       </Key>
       <Title>temp. Capt.</Title>
       <Forenames>W. S.</Forenames>
-      <Text>, M.C. (rel. appt. as G.S.O., 3rd Gr.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5463</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -452,7 +471,9 @@
       <Key>Sceales</Key>
       <Title>Bt. Lt.-Col.</Title>
       <Forenames>G. A.</Forenames>
-      <Text>McL., D.S.O. (rel. appt. as Brig.Comdr., and temp, rank of .Brig-Gen.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7535</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -492,7 +513,10 @@
       <Key>Scoones</Key>
       <Title>Lt.</Title>
       <Forenames>T. C</Forenames>
-      <Text>, M.C. (A.D.C., Personal Staff, seed, and to rel. actg. rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>A.D.C.</Honour>
+      </Text>
       <PageNumber>8211</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -501,7 +525,10 @@
       <Key>Scott</Key>
       <Title>Capt.</Title>
       <Forenames>A.</Forenames>
-      <Text>, D.S.O., M.C. (D.A.A.G. and temp. Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4860</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -567,7 +594,9 @@
       </Key>
       <Title>temp. Capt.</Title>
       <Forenames>J. E.</Forenames>
-      <Text>, M.C. (rel. spec, appt., Cl. FF., as Co. Comdr. Offr., Cadet Bn.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4349</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -589,7 +618,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>K. R.</Forenames>
-      <Text>, M.C. (rel. appt. asG.S.O., 3rd Gr.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6321</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -611,7 +642,9 @@
       </Key>
       <Title>temp. Capt.</Title>
       <Forenames>W. C</Forenames>
-      <Text>, M.V.O. (spec, appt., Cl. GG.)</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>7536</PageNumber>
     </MainItem>
     <SubItem>
@@ -680,7 +713,9 @@
       </Key>
       <Title>Bt. Lt.-Col. (temp. Brig.Gen.)</Title>
       <Forenames>W. W.</Forenames>
-      <Text>(rel. appt. as Brig. Comdr. and temp, rank.of Brig.-Gen.) .. Seymour-Mead, temp. Capt. and Bt. Maj. G. A. (rel. appt. as Asst. Prov. Marshal, Cl. BB., and temp, rank of Maj.) .. Seys, temp. Capt. G. XV. (rel. appt. .as G.S.O., 3rd Gr.) .. .. Shand, Lt. H. E. (rel. emplt. under Directorate of Agric, Cl. FF., and temp, rank of Capt.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>52</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -161,7 +161,7 @@
       <PageNumber>9999</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>Temp. Lt</Text>
+      <Text>Temp. Lt.</Text>
       <PageNumber>13011</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -310,7 +310,9 @@
         <KeyDitto>___</KeyDitto>
       </Key>
       <Forenames>C. H.</Forenames>
-      <Text>, M.D. (temp. Lt.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>12804</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -404,7 +406,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>J.</Forenames>
-      <Text>, F.R.C.S. (temp. Maj.) '</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>10114</PageNumber>
       <PageNumber>10746</PageNumber>
     </MainItem>
@@ -721,7 +725,11 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>T. R.</Forenames>
-      <Text>, M.D. (temp. Lt.) 12548 Phipps-Hornby, Col. E. J., V.C., C.B. (Half-pay List)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+        <Honour>V.C.</Honour>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>13009</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -944,7 +952,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>H.</Forenames>
-      <Text>, M.D. (temp. Capt.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>10026</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1033,7 +1043,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Pigeon</Key>
-      <Text>,H. W., M.D. (temp. Lt.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>10111</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1139,8 +1151,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>J. P. St</Forenames>
-      <Text>. J. (Lt.)</Text>
+      <Forenames>J. P. St. J</Forenames>
+      <Text>. (Lt.)</Text>
       <PageNumber>12654</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1171,7 +1183,9 @@
       </Key>
       <Title>Col.</Title>
       <Forenames>W. W.</Forenames>
-      <Text>, D.S.O.,. F.R.C.S.I. (retained on Active List, and to 'be supernumerary to establishment)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>11285</PageNumber>
     </MainItem>
     <SubItem>

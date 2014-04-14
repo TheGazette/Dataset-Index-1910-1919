@@ -397,7 +397,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mallen</Key>
-      <Text>Cadet vV. J. (temp. 2nd Lt.)</Text>
+      <Title>Cadet</Title>
+      <Text>vV. J. (temp. 2nd Lt.)</Text>
       <PageNumber>4764</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -449,7 +450,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mallin</Key>
-      <Text>temp. 2nd J. E. (temp.-Lt.)</Text>
+      <Title>temp.</Title>
+      <Text>2nd J. E. (temp.-Lt.)</Text>
       <PageNumber>5012</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -458,11 +460,13 @@
       <Key>Mallins</Key>
       <Title>Lt.</Title>
       <Forenames>J. W.D.</Forenames>
-      <Text>, M.C. (Adjt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6032</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Capt</Text>
+      <Text>Capt.</Text>
       <PageNumber>6272</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -562,7 +566,9 @@
       </Key>
       <Title>temp. Lt.</Title>
       <Forenames>W. B.</Forenames>
-      <Text>, M.C. (actg. Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5621</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -643,7 +649,7 @@
       <PageNumber>3585</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Actg. Capt</Text>
+      <Text>Actg. Capt.</Text>
       <PageNumber>3705</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -800,7 +806,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Manifold</Key>
-      <Text>Capt. (temp. Maj.) J. A.. M.B. (actg. Lt.-Col.)</Text>
+      <Title>Capt. (temp. Maj.)</Title>
+      <Forenames>J. A.</Forenames>
+      <Text>. M.B. (actg. Lt.-Col.)</Text>
       <PageNumber>4731</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -927,7 +935,9 @@
       </Key>
       <Title>temp. Lt.</Title>
       <Forenames>D.</Forenames>
-      <Text>, M.C. (temp. Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4468</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -971,7 +981,9 @@
       </Key>
       <Title>temp. Lt.</Title>
       <Forenames>F. R.</Forenames>
-      <Text>, M.C. (Gen. List)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6142</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1037,7 +1049,9 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>J. C</Forenames>
-      <Text>, M.D. (temp. Lt.) ,</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>5835</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1216,7 +1230,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>V. L. C</Forenames>
-      <Text>, M.C. (actg. Miaj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3739</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1235,11 +1251,13 @@
     <MainItem>
       <Key>Mansel</Key>
       <Title>2nd Lt.</Title>
-      <Text>on proib. Sir C. C, Bt. (lEquiipmt. Offr., 3rd CI.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>3182</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>. Conifd</Text>
+      <Text>. Conifd.</Text>
       <PageNumber>3578</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1259,7 +1277,11 @@
       <Key>Moneel-Jones</Key>
       <Title>Oaipt. and Bt. Maj. (temp. .Lt. -.Col.)</Title>
       <Forenames>C</Forenames>
-      <Text>, V.C., D.S.O. (-Bt.Lt.-C6l.)</Text>
+      <Text>
+        <Honour>V.C.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>5465</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1279,7 +1301,9 @@
       </Key>
       <Title>2nd Lt.</Title>
       <Forenames>W. S.</Forenames>
-      <Text>(Flying Offr.) 6rS&amp; Mansergh, Lt. G. E., M.C. (Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6272</PageNumber>
     </MainItem>
   </ItemGroup>

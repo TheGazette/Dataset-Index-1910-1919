@@ -60,7 +60,9 @@
       <Key>Fitzgerald</Key>
       <Title>Capt. (temp. Maj.)</Title>
       <Forenames>C. R. L.</Forenames>
-      <Text>, D.S.O. (Staff Offr.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>10764</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -86,7 +88,9 @@
     <MainItem>
       <Key>Grant</Key>
       <Title>Maj.</Title>
-      <Text>.G. P., D.S.O. (G.S.O., 2nd Gr.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>10764</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -143,14 +147,19 @@
       <Key>Hunter</Key>
       <Title>Maj.</Title>
       <Forenames>F. F.</Forenames>
-      <Text>(Staff Offr.) ... Kemball, Maj.-Gen. Sir G. V., K.C.M.G., C.B.; D.S.O. (temp</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>11047</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>King</Key>
-      <Text>Mason, Capt. (temp: Maj.)</Text>
+      <Forenames>Mason</Forenames>
+      <Text>, Capt. (temp: Maj.)</Text>
       <PageNumber>10765</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -246,7 +255,9 @@
       <Key>Wauchope</Key>
       <Title>Bt. Col. (temp. Brig.Gen.)</Title>
       <Forenames>A. G.</Forenames>
-      <Text>, D.S.O. (Brigade</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>10764</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -264,7 +275,9 @@
     <MainItem>
       <Key>Barrett</Key>
       <Title>Gen.</Title>
-      <Text>.. Sir Arthur Arnold; K:C.B, K.C.S.I., K.C.V.O</Text>
+      <Text>
+        <Honour>K.C.V.O</Honour>
+      </Text>
       <PageNumber>11361</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -272,7 +285,9 @@
     <MainItem>
       <Key>Birdwood</Key>
       <Title>Lt.</Title>
-      <Text>-Gen. Sir William iRiddell, K.C.B., K.CS.I.; K.CM.G., CLE, b.S.O</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+      </Text>
       <PageNumber>11361</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -281,7 +296,9 @@
     <MainItem>
       <Key>Buchanan</Key>
       <Forenames>K. J.</Forenames>
-      <Text>, C.B</Text>
+      <Text>
+        <Honour>C.B</Honour>
+      </Text>
       <PageNumber>11936</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -289,7 +306,9 @@
     <MainItem>
       <Key>Colomb</Key>
       <Forenames>G. H. C</Forenames>
-      <Text>, C.M.G</Text>
+      <Text>
+        <Honour>C.M.G</Honour>
+      </Text>
       <PageNumber>11936</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -319,7 +338,10 @@
     <MainItem>
       <Key>Somerset</Key>
       <Forenames>C.W.</Forenames>
-      <Text>, C.M.G., M.V.O. H</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>936</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -328,7 +350,9 @@
     <MainItem>
       <Key>Turner</Key>
       <Forenames>J. G.</Forenames>
-      <Text>/C.B. ... ;</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>11361</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -337,7 +361,10 @@
     <MainItem>
       <Key>Alexander</Key>
       <Forenames>E. C</Forenames>
-      <Text>, D.S.O. (Bt.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>10679</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -430,7 +457,9 @@
     <MainItem>
       <Key>Gwyer</Key>
       <Forenames>V. E.</Forenames>
-      <Text>(Bt.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>10679</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -465,8 +494,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hunt</Key>
-      <Forenames>V.</Forenames>
-      <Text>de V</Text>
+      <Forenames>V. de V</Forenames>
       <PageNumber>11361</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -525,8 +553,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, A. J., CLE</Text>
+      <Key>O'Brien</Key>
+      <Forenames>A. J.</Forenames>
+      <Text>, CLE</Text>
       <PageNumber>11361</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -568,19 +597,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Stewart</Key>
-      <Forenames>J. St</Forenames>
-      <Text>. C. D. (actg.)</Text>
+      <Forenames>J. St. C</Forenames>
+      <Text>. D. (actg.)</Text>
       <PageNumber>11853</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>R. J. T.</Forenames>
+    <SubItem>
+      <Text>R. J. T</Text>
       <PageNumber>10179</PageNumber>
-    </MainItem>
+    </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
@@ -615,7 +639,9 @@
     <MainItem>
       <Key>Anderson</Key>
       <Forenames>J. F. H.</Forenames>
-      <Text>, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>11852</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -629,7 +655,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bailie</Key>
-      <Text>S. M. H</Text>
+      <Forenames>S. M. H</Forenames>
       <PageNumber>10765</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -712,9 +738,18 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Gruchy</Forenames>
-      <Text>, F. A. L</Text>
+      <Key>de Burgh</Key>
+      <Forenames>E.</Forenames>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
+      <PageNumber>10179</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Gruchy</Key>
+      <Forenames>F. A. L</Forenames>
       <PageNumber>10765</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -758,7 +793,9 @@
     <MainItem>
       <Key>Harvey-Kelly</Key>
       <Forenames>C. H.G. H.</Forenames>
-      <Text>(Bt.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>10679</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -815,11 +852,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
-      </Key>
-      <Forenames>Meade</Forenames>
-      <Text>, W. L</Text>
+      <Key>Meade</Key>
+      <Forenames>W. L.</Forenames>
       <PageNumber>11852</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -827,7 +861,9 @@
     <MainItem>
       <Key>Moody</Key>
       <Forenames>F. H.</Forenames>
-      <Text>, M.C. :</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>11852</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -892,7 +928,9 @@
     <MainItem>
       <Key>Ralston</Key>
       <Forenames>W. H.</Forenames>
-      <Text>, M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>11852</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -936,7 +974,9 @@
     <MainItem>
       <Key>Shepherd</Key>
       <Forenames>C. I.</Forenames>
-      <Text>, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>10179</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -944,7 +984,9 @@
     <MainItem>
       <Key>Sheringham</Key>
       <Forenames>A. T.</Forenames>
-      <Text>, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>11354</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -952,8 +994,10 @@
     <MainItem>
       <Key>Smith</Key>
       <Forenames>A. D.</Forenames>
-      <Text>, M.C. (actg.)</Text>
-      <PageNumber>___</PageNumber>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
+      <PageNumber>11362</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -967,7 +1011,9 @@
     <MainItem>
       <Key>Thackwell</Key>
       <Forenames>A. C. A.</Forenames>
-      <Text>, M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>10179</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1102,7 +1148,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Marshall</Key>
-      <Text>H. H</Text>
+      <Forenames>H. H.</Forenames>
       <PageNumber>10765</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1173,16 +1219,6 @@
       <Key>Williams</Key>
       <Forenames>J. H</Forenames>
       <PageNumber>1017</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___</KeyDitto>
-      </Key>
-      <Forenames>S. C .</Forenames>
-      <Text>.. .-</Text>
-      <PageNumber>10766</PageNumber>
     </MainItem>
     <SubItem>
       <Text>Date of rank as Lt. ..:</Text>
@@ -1385,29 +1421,16 @@
       <Text>.; :</Text>
       <PageNumber>10179</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
-      </Key>
-      <Forenames>G. H.</Forenames>
-      <Text>:</Text>
+    <SubItem>
+      <Text>G. H. :</Text>
       <PageNumber>10765</PageNumber>
-    </MainItem>
+    </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>CorioMy</Key>
       <Forenames>J. J. P.</Forenames>
       <PageNumber>11853</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Cuihiriing</Key>
-      <Forenames>W. J</Forenames>
-      <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
 </Index>

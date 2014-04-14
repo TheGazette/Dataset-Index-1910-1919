@@ -5,7 +5,9 @@
       <Key>Hartley</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Harold</Forenames>
-      <Text>, M.C., Officer, Order of the British Empire, transferred to Military Division</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4980</PageNumber>
     </MainItem>
     <SubItem>
@@ -87,7 +89,10 @@
       </Key>
       <Title>Lt.-Col.</Title>
       <Forenames>David</Forenames>
-      <Text>, C.M.G., M.D., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>6980</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -228,7 +233,9 @@
     <MainItem>
       <Key>Hastie</Key>
       <Forenames>T.</Forenames>
-      <Text>/Lt. (A./Maj.) Stuart Henderson, M.C., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6800</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -248,7 +255,9 @@
       </Key>
       <Title>Lt.-Col.</Title>
       <Forenames>John Henry</Forenames>
-      <Text>, D.S.O., ' Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6800</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -290,7 +299,9 @@
       <Key>Hatton</Key>
       <Title>Miss</Title>
       <Forenames>Sophia Louisa</Forenames>
-      <Text>, A.R.R.C., Royal Red Cross. 1st CI. .. ,</Text>
+      <Text>
+        <Honour>A.R.R.C.</Honour>
+      </Text>
       <PageNumber>6964</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -299,7 +310,9 @@
       <Key>Haughton</Key>
       <Title>Maj.</Title>
       <Forenames>Henry Wilfred</Forenames>
-      <Text>, D.S.O.. Officer. Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6988</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -308,14 +321,17 @@
       <Key>Haultain</Key>
       <Title>Capt.</Title>
       <Forenames>William Francis Theodore</Forenames>
-      <Text>, M.C., M.B., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6924</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Haviland</Key>
-      <Text>.T. /Capt. Reginald Henry, Member, Order of the British Empire</Text>
+      <Forenames>T.</Forenames>
+      <Text>/Capt. Reginald Henry, Member, Order of the British Empire</Text>
       <PageNumber>6998</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -335,7 +351,11 @@
       <Key>Hawes</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Charles Howard</Forenames>
-      <Text>, D.S.O., M.V.O., Bar to D.S.O</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.V.O.</Honour>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>8060</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -354,7 +374,9 @@
     <MainItem>
       <Key>Hawkes</Key>
       <Forenames>T.</Forenames>
-      <Text>/Lt. Comley, M.C., Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6808</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -364,7 +386,10 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>T.</Forenames>
-      <Text>/Lt.-Col. George White, M.C.. Companion, D.S.O</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>6818</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -449,7 +474,9 @@
     <MainItem>
       <Key>Haycraft</Key>
       <Forenames>Thomas Wagstaff</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>4414</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -458,7 +485,9 @@
       <Key>Hayden</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Frederick Arthur</Forenames>
-      <Text>, D.S.O., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6988</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -535,7 +564,9 @@
       </Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Kenneth Edward</Forenames>
-      <Text>, C.M.G., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>6980</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -552,7 +583,9 @@
       <Key>Hayward</Key>
       <Title>Capt. (A./Lt.-Col.)</Title>
       <Forenames>Cecil Richard</Forenames>
-      <Text>, Companion, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>6818</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -583,14 +616,20 @@
       <Key>Haywood</Key>
       <Title>Qrmr. and Maj.</Title>
       <Forenames>Alfred Noble</Forenames>
-      <Text>, Companion, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>6818</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hnywood</Key>
-      <Text>: Maj. and Bt.-Lt.-Col. (A./Lt.-Col.). Austin Hubert Wightwick, D.S.O., Companion, St. Michael and St. George</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, St. Michael and St. George</Honour>
+      </Text>
       <PageNumber>6792</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -608,7 +647,9 @@
     <MainItem>
       <Key>Hazel</Key>
       <Forenames>Local</Forenames>
-      <Text>Lt.-Col. Albert William, O.B.E., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>6923</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -626,7 +667,9 @@
       <Key>Headlam</Key>
       <Title>Capt. (T./Lt.-Col.)</Title>
       <Forenames>Cuth-</Forenames>
-      <Text>bert Morley, D.S.O., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6800</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -694,7 +737,9 @@
       </Key>
       <Title>Qrmr. and Capt.</Title>
       <Forenames>George Henry Seymour</Forenames>
-      <Text>. D.C.M., Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>6998</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -745,7 +790,9 @@
       <Key>Heaslop</Key>
       <Title>Maj</Title>
       <Forenames>Adair Colpoys</Forenames>
-      <Text>, M.C., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6961</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -793,7 +840,11 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Title>Maj. and Bt.</Title>
-      <Text>-Lt.-Col. (T./Brig.Gen. Charles Edensor, C.M.G., D.S.O., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>6790</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -804,7 +855,9 @@
       </Key>
       <Title>Capt. (T./Maj.)</Title>
       <Forenames>Gilbert Stanley</Forenames>
-      <Text>, M.V.O., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>6800</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -840,7 +893,11 @@
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
       <Title>Capt.</Title>
-      <Text>) Comdre. 2nd CI.) Edward Henry Fitzhardinge,' C.B., M.V.O., A.D.C., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>M.V.O.</Honour>
+        <Honour>A.D.C.</Honour>
+      </Text>
       <PageNumber>7050</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -860,7 +917,10 @@
       <Key>Hebbert</Key>
       <Title>Capt. (A./Maj.)</Title>
       <Forenames>Henry Eric</Forenames>
-      <Text>, M.C., Companion, D.S.O</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>6818</PageNumber>
     </MainItem>
   </ItemGroup>

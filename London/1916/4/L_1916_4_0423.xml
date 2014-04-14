@@ -58,8 +58,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, G. M. F. (temp. Flight Sub-Lt.&gt;</Text>
+      <Key>O'Brien</Key>
+      <Forenames>G. M. F.</Forenames>
+      <Text>(temp. Flight Sub-Lt.&gt;</Text>
       <PageNumber>9953</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -122,8 +123,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Paynter</Key>
-      <Forenames>J.</Forenames>
-      <Text>de C. (temp. Flight Sub-Lt.)</Text>
+      <Forenames>J. de C</Forenames>
+      <Text>. (temp. Flight Sub-Lt.)</Text>
       <PageNumber>11969</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -182,22 +183,16 @@
       <Text>(temp. Flight SubLt.)</Text>
       <PageNumber>9953</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___</KeyDitto>
-      </Key>
-      <Forenames>L. A. T.</Forenames>
-      <Text>(temp. Flight Lt.)</Text>
+    <SubItem>
+      <Text>L. A. T. (temp. Flight Lt.)</Text>
       <PageNumber>9558</PageNumber>
-    </MainItem>
+    </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Quiney</Key>
-      <Forenames>B. S.</Forenames>
-      <Text>de Q. (temp. Flight Lt)</Text>
+      <Forenames>B. S. de Q</Forenames>
+      <Text>. (temp. Flight Lt)</Text>
       <PageNumber>9558</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -271,16 +266,10 @@
       <Text>(temp. Flight Sub-Lt.)</Text>
       <PageNumber>11969</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___</KeyDitto>
-      </Key>
-      <Forenames>S. D.</Forenames>
-      <Text>(temp. Flight Sub-Lt.)</Text>
+    <SubItem>
+      <Text>S. D. (temp. Flight Sub-Lt.)</Text>
       <PageNumber>9953</PageNumber>
-    </MainItem>
+    </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
@@ -551,7 +540,9 @@
     </MainItem>
     <SectionTitle>Deputy-Lieutenants</SectionTitle>
     <SubItem>
-      <Text>Wethered, Lt. Col. Francis Owen, C.M.G., V.D</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>11615</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -565,7 +556,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Cumberland</Key>
-      <Text>: Ainsworth, Col. John Stirling, M.P</Text>
+      <Text>
+        <Honour>M.P</Honour>
+      </Text>
       <PageNumber>10296</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -593,31 +586,39 @@
   <ItemGroup>
     <MainItem>
       <Key>Oxford</Key>
-      <Text>: Hermon-Hodge, Col. Sir Robert Trotter, Bart</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>11263</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Eutland</Key>
-      <Text>: Edward, Lt.-Gen. Sir Alfred, K.C.V.O., OB</Text>
+      <Text>
+        <Honour>K.C.V.O.</Honour>
+      </Text>
       <PageNumber>11166</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Salop</Key>
-      <Text>: Bowen-Jones, Sir John Bowen, Bart</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>9756</PageNumber>
     </MainItem>
     <SubItem>
       <Text>
+        <Honour>C.B.</Honour>
         <PageNumber>9756</PageNumber>
       </Text>
       <PageNumber>9756</PageNumber>
     </SubItem>
     <SubItem>
       <Text>
+        <Honour>D.S.O.</Honour>
         <PageNumber>9756</PageNumber>
       </Text>
       <PageNumber>9756</PageNumber>
@@ -626,21 +627,12 @@
   <ItemGroup>
     <MainItem>
       <Key>Warwick</Key>
-      <Text>: Lakin, Sir Michael Henry, Bart</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>10536</PageNumber>
     </MainItem>
   </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <PageNumber>___ ___ ___ ___ ___ ___ ___ ___ ___ ___</PageNumber>
-        <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
-      </Key>
-      <Forenames>A. A.</Forenames>
-      <PageNumber>___ ___</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <KeyDitto>___ ___</KeyDitto>
   <ItemGroup>
     <MainItem>
       <Key>Yorkshire</Key>
@@ -653,15 +645,27 @@
     <MainItem>
       <Key>Yorkshire</Key>
       <Forenames>North Riding</Forenames>
-      <Text>: Worsley, Sir W. H. A., Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>10867</PageNumber>
     </MainItem>
-    <SubItem>
-      <Text>
-        <PageNumber>10789</PageNumber>
-      </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>A</Key>
+      <Forenames>E. G. Electric Company</Forenames>
+      <Text>, Ltd. (creditors) '</Text>
       <PageNumber>10789</PageNumber>
-    </SubItem>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>A</Key>
+      <Forenames>E. G. Electrical Company</Forenames>
+      <Text>of South Africa, Ltd. (notice under Trading with the Enemy Amendment Act)</Text>
+      <PageNumber>10789</PageNumber>
+    </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
@@ -840,6 +844,5 @@
       <PageNumber>10002</PageNumber>
     </SubItem>
   </ItemGroup>
-  <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
 </Index>
 

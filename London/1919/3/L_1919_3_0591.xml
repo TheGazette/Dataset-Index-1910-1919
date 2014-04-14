@@ -30,14 +30,17 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>George, temp. Capt. (actg. Maj.) F. T. (temp. Maj.)</Text>
+      <Forenames>George</Forenames>
+      <Text>, temp. Capt. (actg. Maj.) F. T. (temp. Maj.)</Text>
       <PageNumber>8376</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>Julien, temp. Lt. J. A. A. (actg. Capt. whilst Wing Record Offr., B. Wing, Bramshott)</Text>
+      <Key>St. Julien</Key>
+      <Title>temp. Lt.</Title>
+      <Forenames>J. A. A.</Forenames>
+      <Text>(actg. Capt. whilst Wing Record Offr., B. Wing, Bramshott)</Text>
       <PageNumber>10841</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -55,7 +58,9 @@
       <Key>Salmon</Key>
       <Title>temp. Capt. (actg. Maj.)</Title>
       <Forenames>H. L. N.</Forenames>
-      <Text>, M.C. (temp. Maj,)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9531</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -100,7 +105,9 @@
       </Key>
       <Title>temp. Maj.</Title>
       <Forenames>O. G.</Forenames>
-      <Text>, D.S.O. (retires in the British Isles)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>9818</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -286,7 +293,9 @@
       </Key>
       <Title>temp. Lt. (actg. Capt.)</Title>
       <Forenames>H.</Forenames>
-      <Text>McM., M.C. (temp. Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>11451</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -330,7 +339,9 @@
       </Key>
       <Title>temp. Lt.</Title>
       <Forenames>W. G.</Forenames>
-      <Text>, M.C. (retires in the British Isles)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>11344</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -339,7 +350,9 @@
       <Key>Scruton</Key>
       <Title>temp. Capt.</Title>
       <Forenames>F. D.</Forenames>
-      <Text>, M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>10211</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -369,7 +382,9 @@
       <Key>Semmens</Key>
       <Title>temp. Maj. (actg. Lt.Col.)</Title>
       <Forenames>J. N.</Forenames>
-      <Text>, D.S.O. (temp</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8805</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -385,7 +400,9 @@
     <MainItem>
       <Key>Sharman</Key>
       <Title>temp.</Title>
-      <Text>(Lt.-Col. (temp. Col.) C. H. It., C.B.E</Text>
+      <Text>
+        <Honour>C.B.E</Honour>
+      </Text>
       <PageNumber>9419</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -424,7 +441,9 @@
       </Key>
       <Title>temp. Capt. (actg. Maj.)</Title>
       <Forenames>J. G.</Forenames>
-      <Text>, M.C. (rel. actg. rank of Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>11345</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -435,7 +454,9 @@
       </Key>
       <Title>actg. Matron</Title>
       <Forenames>K.</Forenames>
-      <Text>, R.R.C. (Matron)</Text>
+      <Text>
+        <Honour>R.R.C.</Honour>
+      </Text>
       <PageNumber>11452</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -455,7 +476,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>tamp. Lt. W. N., M.M. (retires in the British Isles)</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>10455</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -488,7 +511,7 @@
       <PageNumber>9817</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Retires in the British IsleB</Text>
+      <Text>Retires in the British IsleB.</Text>
       <PageNumber>10043</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -518,7 +541,9 @@
       <Key>Sherrem</Key>
       <Title>temp. Lt. (actg. Maj.)</Title>
       <Forenames>P. O.</Forenames>
-      <Text>, M.C. (ceases to be seed. for duty with R..A.F.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9123</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -571,7 +596,9 @@
       <Key>Silverton</Key>
       <Title>temp. Lt.</Title>
       <Forenames>E. J.</Forenames>
-      <Text>, M.M. {retires in the British Isles)</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>9089</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -641,7 +668,9 @@
       <Key>Skey</Key>
       <Title>temp. Lt. (aotg Capt.)</Title>
       <Forenames>W. R.</Forenames>
-      <Text>, M.C. (reL actg. rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9419</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -660,7 +689,9 @@
         <KeyDitto>___ ___ ___ !</KeyDitto>
       </Key>
       <Title>temp. Capt. (actg Maj.)</Title>
-      <Text>.D. C, O.B.E. (temp. Maj.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>11450</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -719,7 +750,9 @@
       <Key>Smith</Key>
       <Title>temp. Capt. (actg. Maj.)</Title>
       <Forenames>C. B.</Forenames>
-      <Text>, M.C. (rel. aetg. rank of</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10842</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -781,7 +814,9 @@
       </Key>
       <Title>temp. Capt.</Title>
       <Forenames>D.</Forenames>
-      <Text>(Can. A.M.C.) (retires in the British Isles)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10212</PageNumber>
     </MainItem>
     <SubItem>
@@ -796,7 +831,9 @@
       </Key>
       <Title>temp. Lt.</Title>
       <Forenames>D.</Forenames>
-      <Text>, D.C.M. (S.A. Infy.) (rel. commn. on acc. of ill-health, and retains</Text>
+      <Text>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>11791</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -820,7 +857,9 @@
         <KeyDitto>___ ___ .</KeyDitto>
       </Key>
       <Title>temp.</Title>
-      <Text>'Lt. F., M.C. (retires in</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10341</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -853,7 +892,10 @@
       </Key>
       <Title>temp. Lt. (actg. Capt.)</Title>
       <Forenames>H.</Forenames>
-      <Text>, M.C., M.M. (Not. in Gaz., 24 Jan., 1919, cancelled)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>11345</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -920,7 +962,9 @@
       </Key>
       <Title>temp. Lt. (actg. Capt.)</Title>
       <Forenames>W. F.</Forenames>
-      <Text>, M.C. (rel. actg. rank of</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>11345</PageNumber>
     </MainItem>
   </ItemGroup>

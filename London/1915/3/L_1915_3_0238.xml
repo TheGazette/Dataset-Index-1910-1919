@@ -313,7 +313,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bell</Key>
-      <Text>. Sidney James (2nd Lieut.)</Text>
+      <Forenames>Sidney James</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>8406</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -328,7 +329,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Berry</Key>
-      <Text>. Arthur (2nd Lieut.)</Text>
+      <Forenames>Arthur</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>8406</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -858,7 +860,9 @@
       </Key>
       <Title>Col. Sir</Title>
       <Forenames>Robert</Forenames>
-      <Text>, Bt. (temporary Lieut.-Col. cancelled)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>6447</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1001,7 +1005,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>William A. L.</Forenames>
-      <Text>, D.S.O. temporary Lieut.-Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7731</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1089,7 +1095,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Guthrie</Key>
-      <Text>. 2nd Lieut. Robert IF. (temporary Capt.)</Text>
+      <Title>2nd Lieut.</Title>
+      <Forenames>Robert</Forenames>
+      <Text>IF. (temporary Capt.)</Text>
       <PageNumber>9538</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1116,7 +1124,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Hawkes</Key>
-      <Text>. Capt. Percival W. (seconded whilst doing duty with 43rd Provisional Battalion)</Text>
+      <Title>Capt.</Title>
+      <Forenames>Percival W.</Forenames>
+      <Text>(seconded whilst doing duty with 43rd Provisional Battalion)</Text>
       <PageNumber>8119</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1182,7 +1192,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hollins</Key>
-      <Text>. Edwin Hardy (2nd Lieut.)</Text>
+      <Forenames>Edwin Hardy</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>6447</PageNumber>
     </MainItem>
   </ItemGroup>

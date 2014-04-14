@@ -445,7 +445,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Hilddbrand</Key>
-      <Text>2nd Lt. A. R. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>A. R.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>9627</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -462,7 +464,9 @@
     <MainItem>
       <Key>Hilditch</Key>
       <Title>temp. Lt. (actg. Capt.)</Title>
-      <Text>' V..C, M.C. (actg. Maj)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9216</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -515,7 +519,9 @@
       <Key>Hall</Key>
       <Title>2nd Lt.</Title>
       <Forenames>A. C.</Forenames>
-      <Text>(Workshop Offr., M.G.C.)</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>7438</PageNumber>
     </MainItem>
     <SubItem>
@@ -579,7 +585,9 @@
       </Key>
       <Title>Lt. (actg. Capt.)</Title>
       <Forenames>B. P.</Forenames>
-      <Text>, M.C. (actg. Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8540</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -721,8 +729,8 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Title>temp. 2nd Lt.</Title>
-      <Forenames>D. St</Forenames>
-      <Text>. C. (trd.)</Text>
+      <Forenames>D. St. C</Forenames>
+      <Text>. (trd.)</Text>
       <PageNumber>8780</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -744,12 +752,15 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>E. F. J.</Forenames>
-      <Text>, M.C. (aotg. . Lt.-Col.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7075</PageNumber>
     </MainItem>
     <SubItem>
       <Text>
         <PageNumber>9417</PageNumber>
+        <Honour>Bt</Honour>
       </Text>
       <PageNumber>8853</PageNumber>
     </SubItem>
@@ -783,7 +794,9 @@
       </Key>
       <Title>temp. Capt.</Title>
       <Forenames>F. L.</Forenames>
-      <Text>, M.D. (rel, commn.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>7881</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -878,7 +891,9 @@
       </Key>
       <Title>temp. Lt.</Title>
       <Forenames>H. E.</Forenames>
-      <Text>, M.C. (actg. Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9321</PageNumber>
     </MainItem>
     <SubItem>
@@ -946,7 +961,9 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>temp: 2nd Lt. J. H., M.C. (temp. Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8954</PageNumber>
     </MainItem>
     <SubItem>
@@ -1039,7 +1056,9 @@
       </Key>
       <Title>temp. Capt.</Title>
       <Forenames>L. Ci</Forenames>
-      <Text>, M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>9738</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1115,7 +1134,9 @@
       </Key>
       <Title>Cadet</Title>
       <Forenames>P. J.</Forenames>
-      <Text>(Yorks. L.T.) (temp. 2nd Lt., attd.)</Text>
+      <Text>
+        <Honour>L.T.</Honour>
+      </Text>
       <PageNumber>7200</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1205,7 +1226,9 @@
       </Key>
       <Title>temp. 2nd Lt. (temp. Capt.) (Fit. Comdr.)</Title>
       <Forenames>R. M.</Forenames>
-      <Text>, M.C. (spec. appt. and temp. Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6677</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1412,7 +1435,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>W. J.</Forenames>
-      <Text>tM., D.S.O. (temp. Maj., attd.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>9829</PageNumber>
     </MainItem>
     <SubItem>
@@ -1437,8 +1462,8 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Title>temp. Capt.</Title>
-      <Forenames>W.</Forenames>
-      <Text>de M (temp, Maj.) ... '</Text>
+      <Forenames>W. de M</Forenames>
+      <Text>(temp, Maj.) ... '</Text>
       <PageNumber>7411</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1471,7 +1496,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Hill-Tout</Key>
-      <Text>Cadet W. S. (temp. 2nd UJt. on prob.)</Text>
+      <Title>Cadet</Title>
+      <Forenames>W. S.</Forenames>
+      <Text>(temp. 2nd UJt. on prob.)</Text>
       <PageNumber>6786</PageNumber>
     </MainItem>
     <SubItem>

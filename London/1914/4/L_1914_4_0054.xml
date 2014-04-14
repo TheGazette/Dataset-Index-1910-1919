@@ -27,15 +27,17 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donnell, Charles (temporary Lieut.)</Text>
+      <Key>O'Donnell</Key>
+      <Forenames>Charles</Forenames>
+      <Text>(temporary Lieut.)</Text>
       <PageNumber>7921</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Farrell, Harward P. C. (temporary Capt.)</Text>
+      <Key>O'Farrell</Key>
+      <Forenames>Harward P. C.</Forenames>
+      <Text>(temporary Capt.)</Text>
       <PageNumber>8022</PageNumber>
     </MainItem>
     <SubItem>
@@ -45,15 +47,18 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Keefe, Qrmr. John M. (Hon. Capt.)</Text>
+      <Key>O'Keefe</Key>
+      <Title>Qrmr.</Title>
+      <Forenames>John M.</Forenames>
+      <Text>(Hon. Capt.)</Text>
       <PageNumber>10926</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Meagher, Fergal T. (temporary Capt.)</Text>
+      <Key>O'Meagher</Key>
+      <Forenames>Fergal T.</Forenames>
+      <Text>(temporary Capt.)</Text>
       <PageNumber>9669</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -108,7 +113,9 @@
       <Key>Pain</Key>
       <Title>Col.</Title>
       <Forenames>George W. H.</Forenames>
-      <Text>, C.B. (temporary Brigadier-Gen.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>8365</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -117,7 +124,9 @@
       <Key>Palmer</Key>
       <Title>Maj.</Title>
       <Forenames>Cyri E.</Forenames>
-      <Text>, D.S.O. (local rank of Lieut.-Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>11127</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -154,7 +163,9 @@
       <Key>Parry-Pryse</Key>
       <Title>Sir</Title>
       <Forenames>Edward John Webley</Forenames>
-      <Text>, Bt. (temporary Capt.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>9694</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -163,7 +174,9 @@
       <Key>Parsons</Key>
       <Title>Col.</Title>
       <Forenames>H. D. E.</Forenames>
-      <Text>, C.M.G. (temporary Brigadier-Gen. whilst . Director of Ordnance Services)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>8483</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -293,7 +306,9 @@
     <MainItem>
       <Key>Peterson</Key>
       <Forenames>Frederick Hopewell</Forenames>
-      <Text>, D.S.O. (Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>9003</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -317,7 +332,11 @@
     <MainItem>
       <Key>Peyton</Key>
       <Forenames>William E.</Forenames>
-      <Text>, C.V.O., C.B., D.S.O. (Maj.-Gen.)</Text>
+      <Text>
+        <Honour>C.V.O.</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8884</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -397,7 +416,10 @@
       <Key>Pink</Key>
       <Title>Col. (temporary BrigadierGen.)</Title>
       <Forenames>Francis J.</Forenames>
-      <Text>, C.B., C.B.G., D.S.O. (retained on active list, supernumerary to establishment)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>9504</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -703,7 +725,11 @@
       <Key>Rawlinson</Key>
       <Title>Maj.-Gen. Sir</Title>
       <Forenames>H. S.</Forenames>
-      <Text>, Bt., C.V.O., C.B. (temporary Lieut.-Gen.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>C.V.O.</Honour>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>8135</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -864,7 +890,9 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Hereward Llewelyn</Forenames>
-      <Text>, M.V.O. (Col.)</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>9003</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -881,8 +909,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Robertson</Key>
-      <Forenames>James A. St</Forenames>
-      <Text>. George (temporary Capt.)</Text>
+      <Forenames>James A. St. George</Forenames>
+      <Text>(temporary Capt.)</Text>
       <PageNumber>10147</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1037,8 +1065,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. Quinton, Ernest Snowdon (temporary Capt.)</Text>
+      <Key>St. Quinton</Key>
+      <Forenames>Ernest Snowdon</Forenames>
+      <Text>(temporary Capt.)</Text>
       <PageNumber>10552</PageNumber>
     </MainItem>
   </ItemGroup>

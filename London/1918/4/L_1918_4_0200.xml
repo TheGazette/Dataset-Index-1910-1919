@@ -61,7 +61,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Bygott</Key>
-      <Text>Lt. (temp. Capt.) John Ford (2nd Lt.)</Text>
+      <Title>Lt. (temp. Capt.)</Title>
+      <Forenames>John Ford</Forenames>
+      <Text>(2nd Lt.)</Text>
       <PageNumber>14029</PageNumber>
     </MainItem>
     <SubItem>
@@ -85,7 +87,9 @@
       <Key>Bygrave</Key>
       <Title>Cadet</Title>
       <Forenames>H. A.</Forenames>
-      <Text>, D.C.M. (temp. 2nd Lt.)</Text>
+      <Text>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>13386</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -134,7 +138,9 @@
       </Key>
       <Title>temp. 2nd Lt.</Title>
       <Forenames>J.</Forenames>
-      <Text>(trd. to M.G.C. Infy.)</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>12794</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -148,7 +154,7 @@
       <PageNumber>12557</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Temp.Lt</Text>
+      <Text>Temp.Lt.</Text>
       <PageNumber>12690</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -159,7 +165,9 @@
       </Key>
       <Title>Lt. (actg. Capt.)</Title>
       <Forenames>L. O</Forenames>
-      <Text>, M.C. (actg. Maj. whilst serving as Maj. on Hd. Qrs. of Bn.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>12308</PageNumber>
     </MainItem>
     <SubItem>
@@ -252,7 +260,10 @@
       <Key>Caddick</Key>
       <Title>Maj.</Title>
       <Forenames>C. E.</Forenames>
-      <Text>, M.D., F.R.C.S., Edin. (date of seniority)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>14912</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -410,7 +421,9 @@
       <Key>Caillard</Key>
       <Title>Lt.</Title>
       <Forenames>F. C. V. D.</Forenames>
-      <Text>, M.C. (temp. Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>13407</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -541,7 +554,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>D. B.</Forenames>
-      <Text>(rel. temp, rank of Lt.-Col. on ceasing to be empld. with M.G.C. Infy.)</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>12225</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -645,7 +660,9 @@
       </Key>
       <Title>temp. 2nd Lt.</Title>
       <Forenames>J.</Forenames>
-      <Text>(M.G.C. Infy.) (temp. Lt.)</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>14196</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -656,7 +673,9 @@
       </Key>
       <Title>temp. Capt.</Title>
       <Forenames>R. N.</Forenames>
-      <Text>, M.C. (temp. Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>12794</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -667,7 +686,9 @@
       </Key>
       <Title>temp. 2nd Lt.</Title>
       <Forenames>W.</Forenames>
-      <Text>(trd. to M.G.C. Infy.)</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>13899</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -689,7 +710,10 @@
       </Key>
       <Title>temp. 2nd Lt.</Title>
       <Forenames>W. T.</Forenames>
-      <Text>, M.C. (trd. to M.G.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>12313</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -754,7 +778,9 @@
       <Key>Callan</Key>
       <Title>2nd Lt.</Title>
       <Forenames>J.</Forenames>
-      <Text>, M.C. (Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>11938</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -830,7 +856,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Calverley</Key>
-      <Text>-J. E. G., C.M.G., M.D. (temp. Lt.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>12309</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -901,7 +930,9 @@
       <Key>Calvert-Jones</Key>
       <Title>Lt.</Title>
       <Forenames>P. G.</Forenames>
-      <Text>, M.C. (Adjt. and actg. Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>14758</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1019,7 +1050,9 @@
       </Key>
       <Title>Maj. (actg. Lt.-Col.)</Title>
       <Forenames>O. S.</Forenames>
-      <Text>, D.S.O. (Maj. and retain actg. rank) H</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>786</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1071,7 +1104,7 @@
     </MainItem>
     <KeyDitto>___ ___ —— ___ ___</KeyDitto>
     <SubItem>
-      <Text>Actg. Capt. 'comdg. a Co</Text>
+      <Text>Actg. Capt. 'comdg. a Co.</Text>
       <PageNumber>12241</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1147,7 +1180,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>C</Forenames>
-      <Text>, M.C. (K.O.S:B.)(temp</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>12688</PageNumber>
     </MainItem>
     <KeyDitto>___ ___ ___</KeyDitto>
@@ -1202,7 +1237,9 @@
       </Key>
       <Title>2nd Lt.</Title>
       <Forenames>D.</Forenames>
-      <Text>; M.C. (Highrs.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>11654</PageNumber>
     </MainItem>
     <SubItem>

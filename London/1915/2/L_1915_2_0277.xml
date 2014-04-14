@@ -46,15 +46,18 @@
     <MainItem>
       <Key>Young</Key>
       <Forenames>William</Forenames>
-      <Text>McGregor, M.D. (Lieut.-Col.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>5120</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Territorial</Key>
-      <Forenames>Decoration</Forenames>
-      <Text>conferred upon: Black, Capt. Alexander</Text>
+      <Text>
+        <Honour>Decoration</Honour>
+      </Text>
       <PageNumber>5108</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -268,7 +271,9 @@
       <Key>Sheen</Key>
       <Title>Lieut.-Col.</Title>
       <Forenames>Alfred W.</Forenames>
-      <Text>, M.D</Text>
+      <Text>
+        <Honour>M.D</Honour>
+      </Text>
       <PageNumber>5109</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -277,7 +282,9 @@
       <Key>Simpson</Key>
       <Title>Maj.</Title>
       <Forenames>James B.</Forenames>
-      <Text>, M.D</Text>
+      <Text>
+        <Honour>M.D</Honour>
+      </Text>
       <PageNumber>5109</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -351,7 +358,9 @@
       <Key>Young</Key>
       <Title>Lieut.-Col.</Title>
       <Forenames>James</Forenames>
-      <Text>, M.D</Text>
+      <Text>
+        <Honour>M.D</Honour>
+      </Text>
       <PageNumber>5109</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -721,7 +730,9 @@
     <MainItem>
       <Key>Zetland</Key>
       <Forenames>Hon</Forenames>
-      <Text>! Col. the Rt. Hon. Lawrence, the Marquie of, K.T. (granted permission to retain his rank and wear the prescribed uniform)</Text>
+      <Text>
+        <Honour>K.T.</Honour>
+      </Text>
       <PageNumber>5626</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1183,7 +1194,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kerr</Key>
-      <Text>. H. G. (temporary Lieut.)</Text>
+      <Forenames>H. G.</Forenames>
+      <Text>(temporary Lieut.)</Text>
       <PageNumber>5484</PageNumber>
     </MainItem>
   </ItemGroup>

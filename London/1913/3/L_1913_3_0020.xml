@@ -27,7 +27,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Aplin</Key>
-      <Text>K. S. (2nd Lieut.)</Text>
+      <Forenames>K. S.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>5937</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -287,7 +288,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Byron</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>! F. N. (resigned)</Text>
       <PageNumber>5060</PageNumber>
     </MainItem>
@@ -508,7 +509,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Davidson</Key>
-      <Text>W. C. (Lieut.)</Text>
+      <Forenames>W. C.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>5937</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -531,10 +533,27 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Merindol</Key>
+      <Forenames>R. F. J.</Forenames>
+      <Text>(Lieut.)</Text>
+      <PageNumber>6502</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Denning</Key>
       <Forenames>R. E. V.</Forenames>
       <Text>(2nd Lieut.)</Text>
       <PageNumber>4644</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Robeck</Key>
+      <Title>Capt.</Title>
+      <Forenames>C. R.</Forenames>
+      <Text>(resigned)</Text>
+      <PageNumber>5236</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -630,7 +649,8 @@
   <ItemGroup>
     <MainItem>
       <Key>French</Key>
-      <Text>R. M. J. (Lieut.)</Text>
+      <Forenames>R. M. J.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>5490</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -660,7 +680,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Glyn</Key>
-      <Text>R, GC. (Lieut.)</Text>
+      <Forenames>R</Forenames>
+      <Text>, GC. (Lieut.)</Text>
       <PageNumber>5060</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -743,7 +764,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Gretton</Key>
-      <Text>Lieut. R. H. (resigned)</Text>
+      <Title>Lieut.</Title>
+      <Forenames>R. H.</Forenames>
+      <Text>(resigned)</Text>
       <PageNumber>4738</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -893,7 +916,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Horlington</Key>
-      <Text>J. (2nd Lieut.)</Text>
+      <Forenames>J.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>4644</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -934,8 +958,8 @@
     <MainItem>
       <Key>Irvine</Key>
       <Title>Lieut.</Title>
-      <Forenames>E. St</Forenames>
-      <Text>. G. L. (resigned)</Text>
+      <Forenames>E. St. G</Forenames>
+      <Text>. L. (resigned)</Text>
       <PageNumber>5060</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1063,8 +1087,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Leathes</Key>
-      <Forenames>C. De M.</Forenames>
-      <Text>(Maj.)</Text>
+      <Forenames>C. De M</Forenames>
+      <Text>. (Maj.)</Text>
       <PageNumber>5758</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1218,7 +1242,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mitton</Key>
-      <Text>G. H. N. J. (2nd: Lieut.)</Text>
+      <Forenames>G. H. N. J.</Forenames>
+      <Text>(2nd: Lieut.)</Text>
       <PageNumber>6238</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1335,8 +1360,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, J. J. (2nd Lieut.)</Text>
+      <Key>O'Brien</Key>
+      <Forenames>J. J.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>5491</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1350,8 +1376,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Morchoe, K. (2nd Lieut.)</Text>
+      <Key>O'Morchoe</Key>
+      <Forenames>K.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>5325</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1806,7 +1833,9 @@
     <MainItem>
       <Key>Stewart</Key>
       <Title>Lieut.-Col. and Hon. Col.</Title>
-      <Text>SirH. H. S., Bart, (resigned)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>6502</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1935,7 +1964,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Trewman</Key>
-      <Text>A. B. (Lieut.)</Text>
+      <Forenames>A. B.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>5574</PageNumber>
     </MainItem>
   </ItemGroup>

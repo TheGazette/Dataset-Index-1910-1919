@@ -19,27 +19,21 @@
   <ItemGroup>
     <MainItem>
       <Key>
-        <KeyDitto>___ —___</KeyDitto>
+        <KeyDitto>—</KeyDitto>
       </Key>
       <Forenames>L.</Forenames>
       <Text>.(2nd Lt.)</Text>
       <PageNumber>7953</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>L. W.</Forenames>
-      <Text>(Lt;).. ,</Text>
+    <SubItem>
+      <Text>L. W. (Lt;).. ,</Text>
       <PageNumber>10557</PageNumber>
-    </MainItem>
+    </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>W</Key>
-      <Text>.almsiey, D. C. (Lt.)</Text>
+      <Text>almsiey, D. C. (Lt.)</Text>
       <PageNumber>10557</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -88,10 +82,7 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>T</Forenames>
+      <Key>T</Key>
       <Text>77— S. P. (2nd Lt.)</Text>
       <PageNumber>8635</PageNumber>
     </MainItem>
@@ -123,7 +114,7 @@
   <ItemGroup>
     <MainItem>
       <Key>
-        <KeyDitto>___ ___ —— ___ ___</KeyDitto>
+        <KeyDitto>——</KeyDitto>
       </Key>
       <Forenames>B. B.</Forenames>
       <Text>(tomp. Lt.-Col.)</Text>
@@ -202,7 +193,9 @@
       <Key>Barnardo</Key>
       <Title>Jtfaj. and Bt. Lt.-Col.</Title>
       <Forenames>F.</Forenames>
-      <Text>... ...A. F. (temp.) .. '.. .. illOO Hugo, Lt.-C.ih fi. P., C.M.G. (temp.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>11100</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -211,7 +204,9 @@
       <Key>MelyiHe</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>H.G.</Forenames>
-      <Text>(tepip.) , .. UlOO Robertson, J. d C.M.G. CLE. (temp.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>10556</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -237,7 +232,9 @@
     <MainItem>
       <Key>Bvttye</Key>
       <Forenames>W. R.</Forenames>
-      <Text>, D.S.O.. M:B:</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>10556</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -267,7 +264,9 @@
     <MainItem>
       <Key>Hunter</Key>
       <Forenames>T.</Forenames>
-      <Text>, M.D</Text>
+      <Text>
+        <Honour>M.D</Honour>
+      </Text>
       <PageNumber>10556</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -290,7 +289,10 @@
     <MainItem>
       <Key>Listbn</Key>
       <Forenames>W. G</Forenames>
-      <Text>, M.D., CLE. . :. Needham, Maj. R. A.; D.S.O. (temp.) .. .. -</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>11100</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -320,7 +322,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Thompson</Key>
-      <Text>. F. S. C, M.B</Text>
+      <Forenames>F. S. C</Forenames>
+      <Text>, M.B</Text>
       <PageNumber>10556</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -359,7 +362,10 @@
     <MainItem>
       <Key>Dick</Key>
       <Forenames>A.</Forenames>
-      <Text>MacD., M.B., F.R.C.S. '.(Bt.-)</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>9965</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -367,7 +373,10 @@
     <MainItem>
       <Key>Evans</Key>
       <Forenames>T. J. C.</Forenames>
-      <Text>.M.C; F.R.C.S. (Bt.)</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>9965</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -487,7 +496,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Anand</Key>
-      <Text>. Hira Singh</Text>
+      <Forenames>Hira Singh</Forenames>
       <PageNumber>8635</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -570,6 +579,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Sibra</Key>
+      <Forenames>G. P.</Forenames>
+      <Text>(temp.)</Text>
+      <PageNumber>8635</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Desouza</Key>
       <Forenames>P.</Forenames>
       <Text>(temp.)</Text>
@@ -619,7 +636,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gurdas</Key>
-      <Text>. Ran Charnalia (temp.) (corr. of name)</Text>
+      <Forenames>Ran Charnalia</Forenames>
+      <Text>(temp.) (corr. of name)</Text>
       <PageNumber>9840</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -650,7 +668,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Jotindra</Key>
-      <Text>.Chandre Sinha (temp.)</Text>
+      <Forenames>Chandre Sinha</Forenames>
+      <Text>(temp.)</Text>
       <PageNumber>7953</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -844,14 +863,17 @@
     <MainItem>
       <Key>Sondhi</Key>
       <Forenames>Snndar Daas</Forenames>
-      <Text>. M.C., M.B</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8635</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Taylor</Key>
-      <Text>.E. T. N. (temp.)</Text>
+      <Forenames>E. T. N.</Forenames>
+      <Text>(temp.)</Text>
       <PageNumber>8635</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -964,7 +986,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Delanty</Key>
-      <Text>. H. W</Text>
+      <Forenames>H. W.</Forenames>
       <PageNumber>7951</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1143,7 +1165,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Robertson</Key>
-      <Text>. J</Text>
+      <Forenames>J.</Forenames>
       <PageNumber>7951</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1238,7 +1260,9 @@
     <MainItem>
       <Key>Pullevn</Key>
       <Forenames>G. H.</Forenames>
-      <Text>, M.C. (Not. in Gaz. Miy 28th, 1913, cancelled)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7951</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1268,7 +1292,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sayers</Key>
-      <Text>.C</Text>
+      <Forenames>C.</Forenames>
       <PageNumber>7951</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1303,7 +1327,6 @@
       <PageNumber>9835</PageNumber>
     </MainItem>
   </ItemGroup>
-  <KeyDitto>___</KeyDitto>
   <SubSectionTitle>Deputy Commissaries, vith rank of Honorary Captain</SubSectionTitle>
   <ItemGroup>
     <MainItem>
@@ -1351,8 +1374,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, P</Text>
+      <Key>O'Connor</Key>
+      <Forenames>P.</Forenames>
       <PageNumber>10557</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1393,7 +1416,9 @@
     <MainItem>
       <Key>Evans</Key>
       <Forenames>G. E.</Forenames>
-      <Text>, C.I.E., A.D.C. , (temp.)</Text>
+      <Text>
+        <Honour>A.D.C.</Honour>
+      </Text>
       <PageNumber>10562</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1451,7 +1476,9 @@
       <Key>Reed</Key>
       <Title>Sir</Title>
       <Forenames>H</Forenames>
-      <Text>: S., Kt., A.D.C. , (temp., and to Command Corps)</Text>
+      <Text>
+        <Honour>A.D.C.</Honour>
+      </Text>
       <PageNumber>7953</PageNumber>
     </MainItem>
   </ItemGroup>

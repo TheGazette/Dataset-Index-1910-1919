@@ -440,7 +440,9 @@
   <ItemGroup>
     <MainItem>
       <Key>HowellsHLt</Key>
-      <Text>. (T.F.) J. C. (temp. 2nd&gt;Lt., Obs. Offr., and Hon. Lt.)fi</Text>
+      <Title>(T.F.)</Title>
+      <Forenames>J. C.</Forenames>
+      <Text>(temp. 2nd&gt;Lt., Obs. Offr., and Hon. Lt.)fi</Text>
       <PageNumber>6802</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -748,7 +750,10 @@
     <MainItem>
       <Key>Hutchison</Key>
       <Forenames>Vice-</Forenames>
-      <Text>Admiral John de M., C.V.O., C.M.G. (temp. , Col., and Hon. Lt.-Gen.)</Text>
+      <Text>
+        <Honour>C.V.O.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>4140</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1064,7 +1069,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>S.</Forenames>
-      <Text>, M.C. (T.F.) (temp. 2nd Lt., Obs. Offr., and Hon. Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7211</PageNumber>
     </MainItem>
   </ItemGroup>

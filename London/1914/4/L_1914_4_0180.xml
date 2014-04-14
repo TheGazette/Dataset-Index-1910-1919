@@ -52,7 +52,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Ha</Key>
-      <Text>worth, James K. Johnston, M.D. (Lieut, on probation), supplementary</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>7902</PageNumber>
     </MainItem>
     <SubItem>
@@ -382,7 +384,9 @@
     <MainItem>
       <Key>Litt</Key>
       <Forenames>John Percy</Forenames>
-      <Text>, M.D. (Lieut, on probation), supplementary</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>7811</PageNumber>
     </MainItem>
     <SubItem>
@@ -821,7 +825,9 @@
     <MainItem>
       <Key>Milne</Key>
       <Forenames>Herbert Stewart</Forenames>
-      <Text>, M.D. (Lieut, on probation), supplementary</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>8885</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -894,7 +900,9 @@
     <MainItem>
       <Key>Mullally</Key>
       <Forenames>Gerald Thomas</Forenames>
-      <Text>, M.B., F.R.C.S. (Lieut, on probation), supplementary</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>7902</PageNumber>
     </MainItem>
     <SubItem>
@@ -964,36 +972,46 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, Lieut. James, supplementary (confirmed)</Text>
+      <Key>O'Brien</Key>
+      <Title>Lieut.</Title>
+      <Forenames>James</Forenames>
+      <Text>, supplementary (confirmed)</Text>
       <PageNumber>8253</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Callaehan, Lieut. Maurice A., ' sunnlementary (confirmed)</Text>
+      <Key>O'Callaehan</Key>
+      <Title>Lieut.</Title>
+      <Forenames>Maurice A.</Forenames>
+      <Text>, ' sunnlementary (confirmed)</Text>
       <PageNumber>8996</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Driseoll, Lieut. John Alexander, supplementary (confirmed)</Text>
+      <Key>O'Driseoll</Key>
+      <Title>Lieut.</Title>
+      <Forenames>John Alexander</Forenames>
+      <Text>, supplementary (confirmed)</Text>
       <PageNumber>10282</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Honlon. Lieut. Oriel .T. O'B., supplementary (confirmed)</Text>
+      <Key>O'Honlon</Key>
+      <Title>Lieut. Oriel .</Title>
+      <Forenames>T. O'B</Forenames>
+      <Text>., supplementary (confirmed)</Text>
       <PageNumber>10927</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Kelly, Lieut. Richard, supplementary (confirmed) ..:</Text>
+      <Key>O'Kelly</Key>
+      <Title>Lieut.</Title>
+      <Forenames>Richard</Forenames>
+      <Text>, supplementary (confirmed) ..:</Text>
       <PageNumber>10282</PageNumber>
     </MainItem>
   </ItemGroup>

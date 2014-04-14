@@ -11,7 +11,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ricketts</Key>
-      <Text>R. J. (temp. Lt.)</Text>
+      <Forenames>R. J.</Forenames>
+      <Text>(temp. Lt.)</Text>
       <PageNumber>5096</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -75,7 +76,9 @@
     <MainItem>
       <Key>Roberts</Key>
       <Forenames>C. A. G.</Forenames>
-      <Text>, R.D. (Cdr.)</Text>
+      <Text>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>6415</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -123,7 +126,7 @@
       <PageNumber>6415</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Aofcg. Lt.-Cdr</Text>
+      <Text>Aofcg. Lt.-Cdr.</Text>
       <PageNumber>3206</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -139,7 +142,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rogers</Key>
-      <Text>C. F. (temp. Asst. Playr.)</Text>
+      <Forenames>C. F.</Forenames>
+      <Text>(temp. Asst. Playr.)</Text>
       <PageNumber>6641</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -424,7 +428,9 @@
     <MainItem>
       <Key>Slhilston</Key>
       <Forenames>P. G.</Forenames>
-      <Text>, R.D. (actg. Cdr.)</Text>
+      <Text>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>6415</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -436,7 +442,7 @@
       <PageNumber>4797</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Lt</Text>
+      <Text>Lt.</Text>
       <PageNumber>5098</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -574,7 +580,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Squire</Key>
-      <Text>A. V..(Payr.)</Text>
+      <Forenames>A. V.</Forenames>
+      <Text>.(Payr.)</Text>
       <PageNumber>5888</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -612,7 +619,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stead</Key>
-      <Text>H. (Lt.)</Text>
+      <Forenames>H.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>5888</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -700,7 +708,9 @@
         <KeyDitto>-</KeyDitto>
       </Key>
       <Forenames>Stockwell</Forenames>
-      <Text>, H., R.D. (Cdr.)</Text>
+      <Text>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>6415</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -756,7 +766,9 @@
     <MainItem>
       <Key>Sugden</Key>
       <Forenames>W. H. A.</Forenames>
-      <Text>, R.D. (aotg. Cdr.)</Text>
+      <Text>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>6416</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1158,7 +1170,9 @@
     <MainItem>
       <Key>Vaughan</Key>
       <Forenames>P. R.</Forenames>
-      <Text>, D.S.C. (actg. Lt.Cdr.)</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>6415</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1166,7 +1180,9 @@
     <MainItem>
       <Key>Venn</Key>
       <Forenames>G. W. C</Forenames>
-      <Text>, D.S.O. (Cdr.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6415</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1174,7 +1190,10 @@
     <MainItem>
       <Key>Vibert</Key>
       <Forenames>F. W.</Forenames>
-      <Text>, C.B., R.D. (Capt., retd.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>6415</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1297,7 +1316,9 @@
     <MainItem>
       <Key>Warden</Key>
       <Forenames>R. C</Forenames>
-      <Text>, R.D. (actg. Lt.Cdr.)</Text>
+      <Text>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>6415</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1932,7 +1953,9 @@
     <MainItem>
       <Key>Scudamore</Key>
       <Title>Lt.</Title>
-      <Text>-Cdr. J. B. H., D.S.C</Text>
+      <Text>
+        <Honour>D.S.C</Honour>
+      </Text>
       <PageNumber>6183</PageNumber>
     </MainItem>
   </ItemGroup>

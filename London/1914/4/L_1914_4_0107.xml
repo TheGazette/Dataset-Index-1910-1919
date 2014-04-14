@@ -165,8 +165,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Slight</Key>
-      <Forenames>Harry St</Forenames>
-      <Text>. George (temporary 2nd Lieut.)</Text>
+      <Forenames>Harry St. George</Forenames>
+      <Text>(temporary 2nd Lieut.)</Text>
       <PageNumber>10819</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -240,7 +240,9 @@
     <MainItem>
       <Key>Terrell</Key>
       <Forenames>Henry</Forenames>
-      <Text>, M.P. (temporary Maj.)</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>9502</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -306,7 +308,9 @@
       <Key>Walker</Key>
       <Title>Hon. Lieut.-Col.</Title>
       <Forenames>R. S. F.</Forenames>
-      <Text>, C.M.G. (temporary Maj.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>9668</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -475,7 +479,9 @@
       <Key>Boyd-Moss</Key>
       <Title>Capt.</Title>
       <Forenames>Ernest W.</Forenames>
-      <Text>, D.S.O. (temporary Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>10414</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -551,8 +557,10 @@
         <KeyDitto>___</KeyDitto>
       </Key>
       <Title>Lieut.-Col. Sir</Title>
-      <Forenames>Edward H. St</Forenames>
-      <Text>. L., Bt. (to command 12th Bat.)</Text>
+      <Forenames>Edward H. St. L</Forenames>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>10112</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -585,7 +593,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Curtler</Key>
-      <Text>. Lieut. Frederick G. Oldham (2nd Lieut.)</Text>
+      <Title>Lieut.</Title>
+      <Forenames>Frederick G. Old-</Forenames>
+      <Text>ham (2nd Lieut.)</Text>
       <PageNumber>9409</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -601,8 +611,8 @@
     <MainItem>
       <Key>Davies</Key>
       <Title>Capt.</Title>
-      <Forenames>Gerald L. St</Forenames>
-      <Text>. A. (antedated, and to remain seconded)</Text>
+      <Forenames>Gerald L. St. A</Forenames>
+      <Text>. (antedated, and to remain seconded)</Text>
       <PageNumber>8637</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -627,7 +637,9 @@
     <MainItem>
       <Key>Duly</Key>
       <Forenames>Charles</Forenames>
-      <Text>, D.S.O. (temporary Capt.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>9136</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -726,8 +738,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Grogan</Key>
-      <Forenames>George W. St</Forenames>
-      <Text>. G. (Maj.)</Text>
+      <Forenames>George W. St. G</Forenames>
+      <Text>. (Maj.)</Text>
       <PageNumber>8238</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -797,7 +809,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Hovell</Key>
-      <Text>. Lieut.-Col. Hugh de B., D.S.O. (to command 13th Bat.)</Text>
+      <Title>Lieut.-Col.</Title>
+      <Forenames>Hugh de B</Forenames>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>10112</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -992,7 +1008,9 @@
       <Key>Rainey-Robinson</Key>
       <Title>Col.</Title>
       <Forenames>Robert M.</Forenames>
-      <Text>, C.B. (to command 17th Bat.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>7903</PageNumber>
     </MainItem>
     <SubItem>

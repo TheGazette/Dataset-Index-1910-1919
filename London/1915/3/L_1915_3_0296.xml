@@ -169,14 +169,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Curtis</Key>
-      <Text>.Sir William Michael, Bart. (Capt.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>6422</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Cusack</Key>
-      <Text>. James (Lieut.)</Text>
+      <Forenames>James</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>8738</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -262,8 +265,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Deykin</Key>
-      <Forenames>Ralph</Forenames>
-      <Text>de Courcy (Lieut.)</Text>
+      <Forenames>Ralph de Courcy</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>7343</PageNumber>
     </MainItem>
     <SubItem>
@@ -524,7 +527,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>Frederick Loch</Forenames>
-      <Text>, Kt.. CLE., M.V.O. (Maj.)</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>7453</PageNumber>
     </MainItem>
     <SubItem>
@@ -1101,9 +1106,11 @@
   <ItemGroup>
     <MainItem>
       <Key>McDonnell</Key>
-      <Title>Hon.</Title>
-      <Forenames>Lieut</Forenames>
-      <Text>, in the Army, The Hon. Sir Schomberg Kerr, G.C.V.O., K.C.B. (Maj.)</Text>
+      <Title>Hon. Lieut</Title>
+      <Text>
+        <Honour>G.C.V.O.</Honour>
+        <Honour>K.C.B.</Honour>
+      </Text>
       <PageNumber>6944</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1461,7 +1468,9 @@
       <Key>Ogilvie</Key>
       <Title>The Hon.</Title>
       <Forenames>Lyulph G. S.</Forenames>
-      <Text>, D.S.O. (Lieut.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7995</PageNumber>
     </MainItem>
   </ItemGroup>

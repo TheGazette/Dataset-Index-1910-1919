@@ -3,7 +3,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Kirkcaldy</Key>
-      <Text>' 'Lt.-Col.. James, Companion, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>29</PageNumber>
     </MainItem>
     <SubItem>
@@ -18,7 +20,9 @@
       </Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Kenneth St</Forenames>
-      <Text>. George, Companion, D.S.O.'</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>24</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -33,7 +37,9 @@
     <MainItem>
       <Key>Kirkpatriek</Key>
       <Title>Maj.-Gen.</Title>
-      <Text>'(temp. Lt.Gen.) George Macaulay, C.B., Knight Commander, Star of India . ___ ___ ___ ___ Miss J. C, Royal Red Cross, 2nd Class</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>1952</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -50,7 +56,9 @@
       <Key>Knaggs</Key>
       <Title>Col.</Title>
       <Forenames>Henry Thomas</Forenames>
-      <Text>, M.B., Companion, St. Michael and St. George Knight, Miss G., Royal Red Oross, 2ndi Class</Text>
+      <Text>
+        <Honour>Companion, St. Michael and St. George</Honour>
+      </Text>
       <PageNumber>1952</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -60,7 +68,9 @@
       <Key>Knolles</Key>
       <Title>Maj.</Title>
       <Forenames>Roderick</Forenames>
-      <Text>'Mackenzie, Companion, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>24</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -69,14 +79,18 @@
       <Key>KncAhe</Key>
       <Title>Lt. (temp. Maj.)</Title>
       <Forenames>Hugh</Forenames>
-      <Text>, M.C., Compamon, D.S.O</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>24</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Knowles</Key>
-      <Text>. Charles Henry, Nominated Member of the Legislative Council of the Colony of Fiji</Text>
+      <Forenames>Charles Henry</Forenames>
+      <Text>, Nominated Member of the Legislative Council of the Colony of Fiji</Text>
       <PageNumber>2118</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -95,7 +109,10 @@
     <MainItem>
       <Key>Knox</Key>
       <Title>Maj</Title>
-      <Text>, and Bt. Lt.-Col. Harry Hugh Sidney, Oompanion, D.S.O</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>24</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -106,7 +123,9 @@
       </Key>
       <Title>Maj. (temp. Lt.-Col.)</Title>
       <Forenames>James Meldrnm</Forenames>
-      <Text>, Companion, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>24</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -117,7 +136,9 @@
       </Key>
       <Title>temp. Mlaj.</Title>
       <Forenames>Robert Sinclair</Forenames>
-      <Text>, Companion, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>24</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -126,7 +147,9 @@
       <Key>Koen</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Johannes Jacobus</Forenames>
-      <Text>, Companion, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>1144</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -144,7 +167,9 @@
       <Key>Lake</Key>
       <Title>Maj.</Title>
       <Forenames>Bruce Laumcelot</Forenames>
-      <Text>, Companion, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>24</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -154,7 +179,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Title>Col. and Hon.</Title>
-      <Text>(Brig.-Gen. Noel Montagu, Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>923</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -162,7 +189,9 @@
     <MainItem>
       <Key>Lala</Key>
       <Forenames>Bisheshar Nath</Forenames>
-      <Text>, (Diwtan Bahadur, Companion, Order of the Indian Empire Lamb, Maj. Roger Montague Radcliffe, Companion, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>24</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -171,7 +200,9 @@
       <Key>Lambert</Key>
       <Title>Maj. (temp. Lt.-Col.)</Title>
       <Forenames>Walter John</Forenames>
-      <Text>, Companion, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>24</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -180,7 +211,10 @@
       <Key>Lamont</Key>
       <Title>Lt.-Col. (temp. Brig.-Gen.)</Title>
       <Forenames>John William Fraser</Forenames>
-      <Text>, D.&amp;C, Companion, St. Michael and St. George ... Lampan, Maj. Francis Henry, Companion, D.S.O</Text>
+      <Text>
+        <Honour>Companion, St. Michael and St. George</Honour>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>29</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -202,7 +236,11 @@
       </Key>
       <Title>temp. Lt.-Col. Sir</Title>
       <Forenames>William Arbuthnot</Forenames>
-      <Text>. Bt., M,.B., F.R.C.S., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>F.R.C.S.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>924</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -229,7 +267,9 @@
       <Key>Lahgstaff</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>James William</Forenames>
-      <Text>, Companion. D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>24</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -247,7 +287,9 @@
       <Key>Lascelles</Key>
       <Title>Maj.</Title>
       <Forenames>Ronald Hastings</Forenames>
-      <Text>, Companion, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>24</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -256,7 +298,10 @@
       <Key>Laesetter</Key>
       <Title>Col.</Title>
       <Forenames>Harry Beauchamp</Forenames>
-      <Text>, C.B.; Companion, St. Michael and St. George</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>Companion, St. Michael and St. George</Honour>
+      </Text>
       <PageNumber>925</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -274,7 +319,10 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>William Hesketh</Forenames>
-      <Text>, Bt., Sheriff of the County Palatine of Lancaster Leveson-Gower, Lt.-Col. (temp. Brigl-Gen.) Philip, Companion, D.S.O</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>559</PageNumber>
     </MainItem>
     <SubItem>
@@ -299,7 +347,12 @@
       </Key>
       <Title>Maj. Stuart.</Title>
       <Forenames>Companion</Forenames>
-      <Text>, D.S.O. Lowis, Maj. (temp. Lt.-Col.) Penton Shakespear, Companion, D.S.O. Lowther, Capt. (temp. Maj.) Sir Charles Bingham, Bt., Companion, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>Bt</Honour>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>1952</PageNumber>
     </MainItem>
   </ItemGroup>

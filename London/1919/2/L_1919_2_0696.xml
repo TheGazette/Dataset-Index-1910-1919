@@ -19,7 +19,7 @@
       <PageNumber>4672</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Rel. actg. rank 0/ Capt. on ceasing to be Adjt</Text>
+      <Text>Rel. actg. rank 0/ Capt. on ceasing to be Adjt.</Text>
       <PageNumber>7293</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -93,7 +93,9 @@
       <Key>Crellin</Key>
       <Title>Lt. (actg. Capt.)</Title>
       <Forenames>J. F.</Forenames>
-      <Text>, M.C. (rel. actg. rank of Capt, on ceasing to comd. a Co.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5034</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -109,7 +111,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Cresswell</Key>
-      <Text>. 2nd Lt. C. J. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>C. J.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>4832</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -127,14 +131,17 @@
       <Key>Crews</Key>
       <Title>Lt. (actg. Capt.)</Title>
       <Forenames>F. H.</Forenames>
-      <Text>, M.C. (rel. actg. rank of Uapt. on ceasing to conid. a Co.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5009</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Criddle</Key>
-      <Text>. Li R. H. i restd. estabt.)</Text>
+      <Forenames>Li R. H.</Forenames>
+      <Text>i restd. estabt.)</Text>
       <PageNumber>4967</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -161,7 +168,9 @@
       <Key>Cripps</Key>
       <Title>Capt.</Title>
       <Forenames>E. T.</Forenames>
-      <Text>, M.C. (restd. to estabt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5286</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -186,7 +195,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Criswell</Key>
-      <Text>. Capt, H. (Maj.)</Text>
+      <Forenames>Capt</Forenames>
+      <Text>, H. (Maj.)</Text>
       <PageNumber>5879</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -214,7 +224,9 @@
       </Key>
       <Title>Capt. (Bt. Maj.)</Title>
       <Forenames>L. C</Forenames>
-      <Text>, M.C. ^(restd. to estabt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4868</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -250,7 +262,7 @@
       <PageNumber>5442</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Trd. to T.F.R,. Tnfy</Text>
+      <Text>Trd. to T.F.R,. Tnfy.</Text>
       <PageNumber>4969</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -323,7 +335,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Croom-Johnson</Key>
-      <Text>. Lt. V. (restd. to estabt. of R.G.A., T.F.)</Text>
+      <Title>Lt.</Title>
+      <Forenames>V.</Forenames>
+      <Text>(restd. to estabt. of R.G.A., T.F.)</Text>
       <PageNumber>6786</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -397,7 +411,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>S.</Forenames>
-      <Text>II., M.C. (restd. to estabt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5174</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -424,7 +440,7 @@
   <ItemGroup>
     <MainItem>
       <Key>GiW</Key>
-      <Text>.ey, 2nd Lit. A. (Lt.)</Text>
+      <Text>ey, 2nd Lit. A. (Lt.)</Text>
       <PageNumber>5894</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -479,7 +495,10 @@
       <Key>Crow</Key>
       <Title>Maj.</Title>
       <Forenames>P.</Forenames>
-      <Text>, D.S.O., M.C. (reapptd. for serv. with and to comd. Epsom Coll. Contingent. .Tnr. Div., O.T.C.. with seni ority in rank of Capt.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6462</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -490,7 +509,9 @@
       </Key>
       <Title>temp. 2nd Lt. (actg. Capt.)</Title>
       <Forenames>W.</Forenames>
-      <Text>, M.C. (rel. actg. rank of Capt. on ceasing to comd. a Co.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6103</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -515,7 +536,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Crowe</Key>
-      <Text>. 2nd Lt. A. A.&gt; (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>A. A.</Forenames>
+      <Text>&gt; (Lt.)</Text>
       <PageNumber>5877</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -533,42 +556,56 @@
   <ItemGroup>
     <MainItem>
       <Key>Crowhurst</Key>
-      <Text>. Lt. (temp. Capt.) Cecil (Capt.) _</Text>
+      <Title>Lt. (temp. Capt.)</Title>
+      <Forenames>Cecil</Forenames>
+      <Text>(Capt.) _</Text>
       <PageNumber>4312</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Crowlev</Key>
-      <Text>. Qrmr. and Maj. J. (Lt.Col.)</Text>
+      <Title>Qrmr. and Maj.</Title>
+      <Forenames>J.</Forenames>
+      <Text>(Lt.Col.)</Text>
       <PageNumber>6816</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Crowter</Key>
-      <Text>. 2nd Lt. C. M.C. (Lt.) (Sub. Not:)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>C.</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5159</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Crowther</Key>
-      <Text>. temp. Capt. W. C. (Capt.)</Text>
+      <Title>temp. Capt.</Title>
+      <Forenames>W. C.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>5616</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Croxton</Key>
-      <Text>. temp. 2nd Lt. A. S. H. (Adjt. and acts-. Capt., with pay and allces. of Lt.)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>A. S. H.</Forenames>
+      <Text>(Adjt. and acts-. Capt., with pay and allces. of Lt.)</Text>
       <PageNumber>5770</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Crudeii</Key>
-      <Text>. 2nd Lt. A. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>A.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>4832</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -597,7 +634,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Cruickshank</Key>
-      <Text>. Lt. G. (restd. to estabt. of R.H. and R.F.A T.F.)</Text>
+      <Title>Lt.</Title>
+      <Forenames>G.</Forenames>
+      <Text>(restd. to estabt. of R.H. and R.F.A T.F.)</Text>
       <PageNumber>6751</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -678,7 +717,9 @@
       </Key>
       <Title>Capt. (actg. Maj.)</Title>
       <Forenames>V. S.</Forenames>
-      <Text>, M.C. (rel. actg. rank of Maj. on ceasing to be 2nd in comd.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7935</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -755,7 +796,9 @@
       <Key>Cumberland</Key>
       <Title>temp. Lt.</Title>
       <Forenames>E.</Forenames>
-      <Text>. M.C. (actg. Capt., addtl.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5644</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -784,7 +827,9 @@
       </Key>
       <Title>Lt. (actg. Capt,)</Title>
       <Forenames>D.</Forenames>
-      <Text>, M.C. (rel. actg. rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7157</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -815,7 +860,9 @@
       </Key>
       <Title>2nd Lt.</Title>
       <Forenames>P. B.</Forenames>
-      <Text>, .D.C.M. .(Lt.)</Text>
+      <Text>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>4869</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -919,7 +966,9 @@
       </Key>
       <Title>Lit.</Title>
       <Forenames>J. J. I.</Forenames>
-      <Text>, M.C. (rel. commn. on aoc. of ill-(health caused bv wounds and retains rank of lit.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6618</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -939,11 +988,13 @@
       </Key>
       <Title>Capt. (actg. Maj.)</Title>
       <Forenames>R</Forenames>
-      <Text>, D., M.C. (rel. actg. rank of Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5172</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>iMaj</Text>
+      <Text>iMaj.</Text>
       <PageNumber>5439</PageNumber>
     </SubItem>
   </ItemGroup>

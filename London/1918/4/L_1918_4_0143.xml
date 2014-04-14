@@ -3,7 +3,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Green</Key>
-      <Text>Arthur James, Member, Order of the British Empire</Text>
+      <Forenames>Arthur James</Forenames>
+      <Text>, Member, Order of the British Empire</Text>
       <PageNumber>11774</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -14,7 +15,9 @@
       </Key>
       <Title>Lt. Cdr.</Title>
       <Forenames>Sebald Walter Bluett</Forenames>
-      <Text>, Companion, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>14683</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -22,7 +25,10 @@
     <MainItem>
       <Key>Greene</Key>
       <Forenames>T.</Forenames>
-      <Text>/Capt. (A./Maj.) John, M.C., Companion, D.S.O</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>12054</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -48,11 +54,16 @@
         <KeyDitto>___</KeyDitto>
       </Key>
       <Forenames>T.</Forenames>
-      <Text>/Maj. .(A./Lt.-Col.) Horry, D.S.O., M.C., Bar to D.S.O</Text>
-      <PageNumber>14207</PageNumber>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
     </MainItem>
-    <SubItem>
+    <Honour>
+      <PageNumber>14207</PageNumber>
       <Text>Victoria Cross</Text>
+    </Honour>
+    <SubItem>
       <PageNumber>15117</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -72,7 +83,9 @@
         <KeyDitto>—___ ___</KeyDitto>
       </Key>
       <Forenames>T.</Forenames>
-      <Text>/Capt. William Foster, M.C, Companion, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>14210</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -90,7 +103,9 @@
     <MainItem>
       <Key>Grieve</Key>
       <Forenames>Walter Baine</Forenames>
-      <Text>, O.B.E., Comdr., Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>11775</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -108,7 +123,9 @@
       <Key>Griffiths</Key>
       <Title>Capt. (T./Lt.-Col.)</Title>
       <Forenames>Alex-</Forenames>
-      <Text>ander Harcourt, D.S.O., Bar to D.S.O</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>12052</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -119,7 +136,9 @@
       </Key>
       <Title>Surg.</Title>
       <Forenames>L.</Forenames>
-      <Text>-Cdr. Cyril Verity, Companion, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>14646</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -128,7 +147,9 @@
       <Key>Grigg</Key>
       <Title>Maj.</Title>
       <Forenames>Stanley Thomas</Forenames>
-      <Text>, M.C., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>13579</PageNumber>
     </MainItem>
     <SubItem>
@@ -150,7 +171,10 @@
       <Key>Groom</Key>
       <Title>Lt. (A./Capt.)</Title>
       <Forenames>Harold Lester Robert Joseph</Forenames>
-      <Text>, M.C., Companion, D.S.O</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>14211</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -159,7 +183,11 @@
       <Key>Grosvenor</Key>
       <Title>Maj. the Hon.</Title>
       <Forenames>Francis Egerton</Forenames>
-      <Text>, D.S.O., M.C., Bar to D.S.O</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>14208</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -176,7 +204,10 @@
       <Key>Groves</Key>
       <Title>Lt. (A./Capt.)</Title>
       <Forenames>Edward Julian</Forenames>
-      <Text>, M.C.. Companion D.S.O</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>14211</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -192,7 +223,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Guy</Key>
-      <Text>T./Capt. (A./Maj.) Oswald Vernon, M.C., Companion, D.S.O</Text>
+      <Forenames>T.</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>14211</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -201,7 +235,9 @@
       <Key>Hall</Key>
       <Title>Cpl.</Title>
       <Forenames>Arthur Charles</Forenames>
-      <Text>, Victoria Cross</Text>
+      <Text>
+        <Honour>Victoria Cross</Honour>
+      </Text>
       <PageNumber>14778</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -244,7 +280,9 @@
     <MainItem>
       <Key>Hampson</Key>
       <Forenames>T.</Forenames>
-      <Text>/Capt. (A./Maj.) Geoffrey, Companion. D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>13134</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -261,7 +299,9 @@
     <MainItem>
       <Key>Hanson</Key>
       <Forenames>Charles Augustin</Forenames>
-      <Text>, created Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>12250</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -270,7 +310,10 @@
       <Key>Harbottle</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Coin Clark</Forenames>
-      <Text>, D.S.O., Bar to D.S.O</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>13133</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -294,7 +337,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Hardyman</Key>
-      <Text>T./Lt.-Col. Hay Maitl land, M.C., Companion, D.S.O</Text>
+      <Forenames>T.</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>12054</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -302,14 +349,20 @@
     <MainItem>
       <Key>Hardest</Key>
       <Title>Maj.</Title>
-      <Text>.Tnmes, M.C., Companion, D.S.O. ... -.-</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>13136</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Harmsworth</Key>
-      <Text>Robert Leicester, I created Baronet</Text>
+      <Forenames>Robert Leicester</Forenames>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>12250</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -365,7 +418,10 @@
       </Key>
       <Title>Sjt.</Title>
       <Forenames>Thomas James</Forenames>
-      <Text>, M.M., Victoria Cross</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+        <Honour>Victoria Cross</Honour>
+      </Text>
       <PageNumber>12487</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -374,7 +430,9 @@
       <Key>Hart</Key>
       <Title>Maj. (A./Lt.-Col.)</Title>
       <Forenames>Leonard Herbert Pocock</Forenames>
-      <Text>, D.S.O., Baato D.S.O ,</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>13131</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -383,7 +441,9 @@
       <Key>Hartford</Key>
       <Title>Cdr.</Title>
       <Forenames>George Bibby</Forenames>
-      <Text>, Companion, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>11780</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -432,7 +492,9 @@
       </Key>
       <Title>Pte.</Title>
       <Forenames>Jack</Forenames>
-      <Text>, Victoria Cross</Text>
+      <Text>
+        <Honour>Victoria Cross</Honour>
+      </Text>
       <PageNumber>13473</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -458,7 +520,10 @@
     <MainItem>
       <Key>Hayfield</Key>
       <Forenames>T.</Forenames>
-      <Text>/Capt. Cyril Dudeney, M.C., Companion, D.S.O</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>13134</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -500,7 +565,9 @@
     <MainItem>
       <Key>Helme</Key>
       <Forenames>Ma</Forenames>
-      <Text>]. Ernest, Companion, D.S.O. ,</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>14211</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -515,7 +582,11 @@
     <MainItem>
       <Key>Henderson</Key>
       <Forenames>Lt-Gen</Forenames>
-      <Text>. Sir David. K.C.B., D.S.O., Knight Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>14815</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -524,7 +595,11 @@
       <Key>Henry</Key>
       <Title>Sir</Title>
       <Forenames>Edward Richard</Forenames>
-      <Text>, G. C.V.O., K.C.B., C.S.I., created Baronet</Text>
+      <Text>
+        <Honour>C.V.O.</Honour>
+        <Honour>K.C.B.</Honour>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>13916</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -589,7 +664,9 @@
     <MainItem>
       <Key>Hobbs</Key>
       <Forenames>T.</Forenames>
-      <Text>/Maj. Howard Frederick, M.C, Companion, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>14211</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -613,21 +690,30 @@
     <MainItem>
       <Key>Hoge</Key>
       <Forenames>T.</Forenames>
-      <Text>/Lt. (A./Capt.) Samuel Rolleston, M.C., Companion, D.S.O</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>14211</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hohler</Key>
-      <Text>Thomas Beaumont, C.B., C.M.G., Envoy Extraordinary and Minister Plenipotentiary in H.M. Diplomatic Service</Text>
+      <Forenames>Thomas Beaumont</Forenames>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>13492</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Holds</Key>
-      <Text>worth, Lt.-Col. and Bt. Col. .(T./Bri.r.-Gen.) George Lewis, C.B.. {!ompanion, St. Michael and St. George</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>12693</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -654,7 +740,9 @@
       <Key>Holmes</Key>
       <Title>Pte.</Title>
       <Forenames>William Edgar</Forenames>
-      <Text>, Victoria Cross</Text>
+      <Text>
+        <Honour>Victoria Cross</Honour>
+      </Text>
       <PageNumber>15118</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -680,7 +768,9 @@
       <Key>Hope</Key>
       <Title>Maj.</Title>
       <Forenames>John Andrew</Forenames>
-      <Text>, M.C.-, Companion, DJS.-0</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>14213</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -739,7 +829,9 @@
       <Key>Horwood</Key>
       <Title>Brig.-Gen.</Title>
       <Forenames>William Thomas Francis</Forenames>
-      <Text>, D.S.O., Assistant Commissioner of Police of the Metropolis</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>12898</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -755,7 +847,9 @@
     <MainItem>
       <Key>Howard</Key>
       <Forenames>Robert</Forenames>
-      <Text>, M.D., Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>11777</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -763,7 +857,11 @@
     <MainItem>
       <Key>Howell</Key>
       <Title>Lt.</Title>
-      <Text>i(T./Capt.) Cedric Ernest M.C., D.F.C., Companion, D.S.O</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>D.F.C.</Honour>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>12969</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -772,7 +870,9 @@
       <Key>Huffam</Key>
       <Title>2nd Lt.</Title>
       <Forenames>James Palmer</Forenames>
-      <Text>, Victoria Cross</Text>
+      <Text>
+        <Honour>Victoria Cross</Honour>
+      </Text>
       <PageNumber>15118</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -792,7 +892,9 @@
       </Key>
       <Title>Col.</Title>
       <Forenames>Alfred Mahony</Forenames>
-      <Text>, D.S.O., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>14905</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -802,7 +904,9 @@
         <KeyDitto>— ___</KeyDitto>
       </Key>
       <Title>Maj.</Title>
-      <Text>i(T./Lt.-Col.) Edmond Locock, D.S.O., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>13576</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -829,7 +933,11 @@
     <MainItem>
       <Key>Humphries</Key>
       <Forenames>T.</Forenames>
-      <Text>/Capt. .(IA./Lt.-Col.) Cecil Frederick George, M.C., D.C.M., Companion. D.S.O</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>D.C.M.</Honour>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>14211</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -858,7 +966,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>T.</Forenames>
-      <Text>/Capt. James William, Companion, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>12054</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -895,14 +1005,20 @@
   <ItemGroup>
     <MainItem>
       <Key>Hutoheson</Key>
-      <Text>Capt. Bellenden Seymour, Victoria Cross</Text>
+      <Title>Capt.</Title>
+      <Forenames>Bellenden Sey-</Forenames>
+      <Text>
+        <Honour>Victoria Cross</Honour>
+      </Text>
       <PageNumber>14774</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hutchinson</Key>
-      <Text>Mrs. Bertha Charlotte, Member, Order of the British Empire U</Text>
+      <Title>Mrs.</Title>
+      <Forenames>Bertha Char-</Forenames>
+      <Text>lotte, Member, Order of the British Empire U</Text>
       <PageNumber>774</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -910,7 +1026,9 @@
     <MainItem>
       <Key>Hutson</Key>
       <Title>Eyre.</Title>
-      <Text>C.M.G., Governor and Commander in Chief, British Honduras</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>14952</PageNumber>
     </MainItem>
   </ItemGroup>

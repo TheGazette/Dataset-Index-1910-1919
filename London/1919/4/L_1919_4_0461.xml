@@ -19,7 +19,9 @@
     <MainItem>
       <Key>Creaser</Key>
       <Forenames>T.</Forenames>
-      <Text>, M.D., B.A</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>14923</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -33,7 +35,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Davidson</Key>
-      <Text>A. R. '</Text>
+      <Forenames>A. R.</Forenames>
+      <Text>'</Text>
       <PageNumber>14323</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -70,7 +73,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Goble</Key>
-      <Text>F. G</Text>
+      <Forenames>F. G</Forenames>
       <PageNumber>14923</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -86,7 +89,9 @@
     <MainItem>
       <Key>Greig</Key>
       <Forenames>L. L.</Forenames>
-      <Text>, M.V.O., M.B</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>14923</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -94,14 +99,17 @@
     <MainItem>
       <Key>Griffiths</Key>
       <Forenames>C. V</Forenames>
-      <Text>„ D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>14923</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hamilton</Key>
-      <Text>G. E., M.B</Text>
+      <Forenames>G. E.</Forenames>
+      <Text>, M.B</Text>
       <PageNumber>14923</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -148,7 +156,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Moss</Key>
-      <Text>L., M.D</Text>
+      <Forenames>L.</Forenames>
+      <Text>, M.D</Text>
       <PageNumber>14923</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -162,8 +171,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Flynu, J. A., M.B</Text>
+      <Key>O'Flynu</Key>
+      <Forenames>J. A.</Forenames>
+      <Text>, M.B</Text>
       <PageNumber>14923</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -302,7 +312,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wickham</Key>
-      <Text>F. St. B ,</Text>
+      <Forenames>F. St. B</Forenames>
+      <Text>,</Text>
       <PageNumber>14923</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -408,7 +419,9 @@
     <MainItem>
       <Key>Stanley</Key>
       <Forenames>G. L. Warburibon</Forenames>
-      <Text>, LI. R.. O.B.E. (trd. to</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>15195</PageNumber>
     </MainItem>
     <SubItem>
@@ -423,7 +436,10 @@
       <Key>Alton</Key>
       <Title>Sir</Title>
       <Forenames>F. C</Forenames>
-      <Text>, K.B.E., C.B., C.M.G</Text>
+      <Text>
+        <Honour>K.B.E.</Honour>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>13546</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -439,7 +455,9 @@
     <MainItem>
       <Key>Finlay</Key>
       <Forenames>G.</Forenames>
-      <Text>, CB.E</Text>
+      <Text>
+        <Honour>CB</Honour>
+      </Text>
       <PageNumber>13546</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -447,7 +465,9 @@
     <MainItem>
       <Key>Pullen</Key>
       <Forenames>W. Le G.</Forenames>
-      <Text>, C.B</Text>
+      <Text>
+        <Honour>C.B</Honour>
+      </Text>
       <PageNumber>13546</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -513,7 +533,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Orchard</Key>
-      <Text>H. S</Text>
+      <Forenames>H. S</Forenames>
       <PageNumber>14686</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -619,7 +639,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Buliivant</Key>
-      <Text>J. B. (seniority antedated)</Text>
+      <Forenames>J. B.</Forenames>
+      <Text>(seniority antedated)</Text>
       <PageNumber>13027</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -663,7 +684,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Davis</Key>
-      <Text>A. J. E. (seniority antedated)</Text>
+      <Forenames>A. J. E.</Forenames>
+      <Text>(seniority antedated)</Text>
       <PageNumber>13027</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -761,7 +783,9 @@
     <MainItem>
       <Key>John</Key>
       <Forenames>H. B.</Forenames>
-      <Text>, M.B.E</Text>
+      <Text>
+        <Honour>M.B.E</Honour>
+      </Text>
       <PageNumber>14315</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -775,14 +799,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Laborde</Key>
-      <Text>C. F</Text>
+      <Forenames>C. F.</Forenames>
       <PageNumber>15482</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Learmouth</Key>
-      <Text>It, L. (temp.)</Text>
+      <Forenames>It</Forenames>
+      <Text>, L. (temp.)</Text>
       <PageNumber>13422</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -803,14 +828,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Miller</Key>
-      <Text>J A</Text>
+      <Forenames>J</Forenames>
+      <Text>A</Text>
       <PageNumber>14315</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Patarson</Key>
-      <Text>H. C. B seniority antedated)</Text>
+      <Forenames>H. C. B</Forenames>
+      <Text>seniority antedated)</Text>
       <PageNumber>13027</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -824,7 +851,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Penn</Key>
-      <Text>H. S. (seniority antedated)</Text>
+      <Forenames>H. S.</Forenames>
+      <Text>(seniority antedated)</Text>
       <PageNumber>13027</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -838,7 +866,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rook</Key>
-      <Text>T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>15483</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -866,14 +894,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Trnderdown</Key>
-      <Text>J. B</Text>
+      <Forenames>J. B</Forenames>
       <PageNumber>14315</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Wedgewood</Key>
-      <Text>F. W</Text>
+      <Forenames>F. W</Forenames>
       <PageNumber>15482</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -888,7 +916,9 @@
     <MainItem>
       <Key>Willis</Key>
       <Forenames>A. S. W.</Forenames>
-      <Text>, M.C. ..&gt;</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>14315</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -981,7 +1011,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hobbs</Key>
-      <Text>J.-B</Text>
+      <Forenames>J.</Forenames>
+      <Text>-B</Text>
       <PageNumber>15482</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1062,7 +1093,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Evans</Key>
-      <Text>Rev. J. W., B A</Text>
+      <Title>Rev.</Title>
+      <Forenames>J. W.</Forenames>
+      <Text>, B A</Text>
       <PageNumber>13668</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -100,7 +100,9 @@
     <MainItem>
       <Key>Croom</Key>
       <Forenames>D. H.</Forenames>
-      <Text>, M.D. (temp. Capt.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>13392</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -400,6 +402,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Vesian</Key>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>J. S. E.</Forenames>
+      <Text>(temp. Lt.)</Text>
+      <PageNumber>13430</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Dennis</Key>
       <Forenames>E. H.</Forenames>
       <Text>(temp. 2nd Lt)</Text>
@@ -411,14 +422,18 @@
       <Key>Denny</Key>
       <Title>Lt.-Col. Sir</Title>
       <Forenames>A.</Forenames>
-      <Text>, Bt. (Hon. Lt.-Col. on appt. as Hon Comdt.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>14408</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Desborough</Key>
-      <Text>the Rt. Hon. Lord, K.C.V.O. (Hon. Lt.-Col. on appt. as Hon. Comdt.)</Text>
+      <Text>
+        <Honour>K.C.V.O.</Honour>
+      </Text>
       <PageNumber>15181</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -614,7 +629,9 @@
       <Key>Downing</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>H. J.</Forenames>
-      <Text>, D.S.O. (to comd. the Bn.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>15175</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1407,7 +1424,7 @@
       <PageNumber>11797</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Temp. Capt., Sub. Not</Text>
+      <Text>Temp. Capt., Sub. Not.</Text>
       <PageNumber>12680</PageNumber>
     </SubItem>
   </ItemGroup>

@@ -38,8 +38,8 @@
         <KeyDitto>___ —— ___ ___</KeyDitto>
       </Key>
       <Title>2nd Lt. (temp. Lt.)</Title>
-      <Forenames>J.</Forenames>
-      <Text>de V. (Lt.)</Text>
+      <Forenames>J. de V</Forenames>
+      <Text>. (Lt.)</Text>
       <PageNumber>5605</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -136,8 +136,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Title>Capt. St.</Title>
-      <Forenames>J. D. T.</Forenames>
+      <Title>Capt. St. J.</Title>
+      <Forenames>D. T.</Forenames>
       <Text>(temp. Lt.Col.) Sub. Not</Text>
       <PageNumber>5339</PageNumber>
     </MainItem>
@@ -217,14 +217,16 @@
       <PageNumber>6041</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Capt</Text>
+      <Text>Capt.</Text>
       <PageNumber>3414</PageNumber>
     </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Loggie</Key>
-      <Text>.2nd Lt. (temp. Lt.) O. M., M.C. (Lt,, and rem. seod.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4190</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -470,7 +472,9 @@
       <Key>Looker</Key>
       <Title>2nd Lt. (temp. Lt.)</Title>
       <Forenames>A. W.</Forenames>
-      <Text>,.. D.S.O. (actg. Capt.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5339</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -714,7 +718,9 @@
       <Key>Lovegrove</Key>
       <Title>Lt. (temp. Capt.)</Title>
       <Forenames>J.</Forenames>
-      <Text>, M.C. (Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4069</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -824,7 +830,9 @@
       <Key>Low</Key>
       <Title>Capt. (temp. Maj.)</Title>
       <Forenames>C. J.</Forenames>
-      <Text>, D.S.O. (Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3218</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -996,7 +1004,10 @@
       <Key>Lowther</Key>
       <Title>Capt. (temp. Maj.) Sir</Title>
       <Forenames>C. B.</Forenames>
-      <Text>, Bt., D.S.O. (actg. Lt.Col.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5336</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1029,7 +1040,9 @@
       </Key>
       <Title>2nd Lt. (temp. Lt.)</Title>
       <Forenames>H.</Forenames>
-      <Text>, M.C. (Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4325</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1161,7 +1174,9 @@
       </Key>
       <Title>2nd Lt. (temp. Lt.)</Title>
       <Forenames>V. C</Forenames>
-      <Text>, M.C. (Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6360</PageNumber>
     </MainItem>
   </ItemGroup>

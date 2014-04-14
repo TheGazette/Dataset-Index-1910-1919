@@ -1,9 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="101" pageID="https://www.thegazette.co.uk/id/London/index/year/1916/volume/1/page/101" pagePDF="https://www.thegazette.co.uk/London/index/year/1916/volume/1/page/101" pageRDF="https://www.thegazette.co.uk/London/index/year/1916/volume/1/page/101?view=linked-data" type="index" volume="1" year="1916">
-  <SubItem>
-    <Text>Temp. Maj</Text>
-    <PageNumber>850</PageNumber>
-  </SubItem>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Vesci</Key>
+      <Title>Capt.</Title>
+      <Forenames>I. R.</Forenames>
+      <Text>, Viscount (Regimental Adjt.)</Text>
+      <PageNumber>436</PageNumber>
+    </MainItem>
+    <SubItem>
+      <Text>Temp. Maj</Text>
+      <PageNumber>850</PageNumber>
+    </SubItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Villiers</Key>
+      <Forenames>I. P.</Forenames>
+      <Text>(2nd Lt. on probation)</Text>
+      <PageNumber>1670</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>
@@ -17,9 +34,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Vine</Forenames>
-      <Text>, (temp.) Lt. G. M., M.B. (relmquishes his commission)</Text>
+      <Key>De Vine</Key>
+      <Title>(temp.) Lt.</Title>
+      <Forenames>G. M.</Forenames>
+      <Text>, M.B. (relmquishes his commission)</Text>
       <PageNumber>1492</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -39,12 +57,38 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Wiart</Key>
+      <Title>2nd Lt.</Title>
+      <Forenames>M. C</Forenames>
+      <Text>, supplementary (confirmed)</Text>
+      <PageNumber>3399</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Winton</Key>
+      <Title>Col.</Title>
+      <Forenames>C.</Forenames>
+      <Text>(Half-pay List)</Text>
+      <PageNumber>3259</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>R. F.</Forenames>
       <Text>(temp. Lt.)</Text>
       <PageNumber>1882</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Wolf</Key>
+      <Forenames>G. L.</Forenames>
+      <Text>' (temp. Lt.)</Text>
+      <PageNumber>2465</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -230,7 +274,9 @@
       </Key>
       <Title>(temp.) Lt.</Title>
       <Forenames>W. E.</Forenames>
-      <Text>, M.D. (relinquishes his commission)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>2198</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -647,8 +693,8 @@
     <MainItem>
       <Key>Denning</Key>
       <Title>2nd Lt. (on probation)</Title>
-      <Forenames>J. E.</Forenames>
-      <Text>de W. (relinquishes his commission)</Text>
+      <Forenames>J. E. de W</Forenames>
+      <Text>. (relinquishes his commission)</Text>
       <PageNumber>1564</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -687,7 +733,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>M. F. B.</Forenames>
-      <Text>, D.S.O. (temp. Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>2200</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -889,7 +937,9 @@
       <Key>Derry</Key>
       <Title>Maj.</Title>
       <Forenames>A.</Forenames>
-      <Text>, D.S.O. (temp. Lt.Col. whilst employed as Asst. Adjt. and Qrmr.-General)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>552</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1194,7 +1244,9 @@
       </Key>
       <Title>Maj. (temp. Lt.-Col.)</Title>
       <Forenames>D. H. A.</Forenames>
-      <Text>, D.S.O. (correction)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>971</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1357,7 +1409,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>W. S.</Forenames>
-      <Text>, F.R.C.S. (temp. Capt.)</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>274</PageNumber>
     </MainItem>
     <SubItem>

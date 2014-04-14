@@ -77,8 +77,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hosack</Key>
-      <Forenames>Patrick Manus O</Forenames>
-      <Text>'Farel (2nd Lieut, on probation), supplementary</Text>
+      <Forenames>Patrick Manus O'Farel</Forenames>
+      <Text>(2nd Lieut, on probation), supplementary</Text>
       <PageNumber>6075</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -495,7 +495,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Shove</Key>
-      <Text>. Ralph Samuel (2nd Lieut, on probation)</Text>
+      <Forenames>Ralph Samuel</Forenames>
+      <Text>(2nd Lieut, on probation)</Text>
       <PageNumber>7100</PageNumber>
     </MainItem>
     <SubItem>
@@ -538,8 +539,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Storrs</Key>
-      <Forenames>Bernard St</Forenames>
-      <Text>. John (2nd Lieut. on probation)</Text>
+      <Forenames>Bernard St. John</Forenames>
+      <Text>(2nd Lieut. on probation)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -734,8 +735,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dickenson</Key>
-      <Forenames>Charles O</Forenames>
-      <Text>'Brien (2nd Lieut, on probation)</Text>
+      <Forenames>Charles O'Brien</Forenames>
+      <Text>(2nd Lieut, on probation)</Text>
       <PageNumber>7004</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1001,7 +1002,9 @@
       <Key>Wiseman</Key>
       <Title>Sir</Title>
       <Forenames>William G. Eden</Forenames>
-      <Text>, Bt. (Lieut.), supplementary</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>7299</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1059,7 +1062,9 @@
     <MainItem>
       <Key>Bathurst</Key>
       <Forenames>Charles</Forenames>
-      <Text>, M.P. (Capt.), supplementary</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>7002</PageNumber>
     </MainItem>
     <SubItem>

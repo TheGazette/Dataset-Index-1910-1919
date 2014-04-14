@@ -111,8 +111,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Leary, J</Text>
+      <Key>O'Leary</Key>
+      <Forenames>J</Forenames>
       <PageNumber>11559</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -325,7 +325,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Russell</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>11559</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -417,7 +417,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Smyth</Key>
-      <Text>D. W</Text>
+      <Forenames>D. W</Forenames>
       <PageNumber>11559</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -481,7 +481,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sweetingham</Key>
-      <Text>F. W</Text>
+      <Forenames>F. W.</Forenames>
       <PageNumber>11559</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -603,7 +603,9 @@
     <MainItem>
       <Key>Whiting</Key>
       <Forenames>E. J.</Forenames>
-      <Text>, M.B.E</Text>
+      <Text>
+        <Honour>M.B.E</Honour>
+      </Text>
       <PageNumber>11559</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1492,7 +1494,10 @@
     <MainItem>
       <Key>Lomas</Key>
       <Forenames>E.G.</Forenames>
-      <Text>, C.B., D.S.O., M.B</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>11716</PageNumber>
     </MainItem>
   </ItemGroup>

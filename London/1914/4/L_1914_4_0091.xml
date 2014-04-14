@@ -70,8 +70,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, Albert Stanley (Adjt., and temporary Capt.)</Text>
+      <Key>O'Brien</Key>
+      <Forenames>Albert Stanley</Forenames>
+      <Text>(Adjt., and temporary Capt.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -81,7 +82,9 @@
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Stephen</Forenames>
-      <Text>(temporary Qrmr. and Hon. Lieut.) . Oliver, Sir Thomas, M.D., D.Sc, &amp;c, &amp;c. (Hon. Col.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>10299</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -115,7 +118,10 @@
       <Key>Parsons</Key>
       <Title>The Hon. Sir</Title>
       <Forenames>Charles Algernon</Forenames>
-      <Text>, K.C.B., D.S.O., F.R.S., M.I.C.E. (Hon. Col.)</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>10299</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -170,7 +176,9 @@
     <MainItem>
       <Key>Piatt</Key>
       <Forenames>William</Forenames>
-      <Text>, D.S.O. (Capt.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>9971</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -450,7 +458,9 @@
       <Key>Stewart</Key>
       <Title>Col.</Title>
       <Forenames>Dudley S.</Forenames>
-      <Text>, C.B. (to command 10th Battalion)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>7903</PageNumber>
     </MainItem>
     <SubItem>
@@ -638,7 +648,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Walton</Key>
-      <Text>. J. (2nd Lieut.)</Text>
+      <Forenames>J.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>10896</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -693,7 +704,9 @@
       <Key>Williams</Key>
       <Title>Capt.</Title>
       <Forenames>Edward E.</Forenames>
-      <Text>, D.S.O. (temporary Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>9659</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -800,7 +813,9 @@
       <Key>Amery</Key>
       <Title>Temporary Capt.</Title>
       <Forenames>Leopold C. M. S.</Forenames>
-      <Text>, M.P. (appointed to the Battalion supernumerary to . the establishment)</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>10280</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -818,7 +833,9 @@
       <Key>Armstrong</Key>
       <Title>Brevet Col.</Title>
       <Forenames>Gerald D.</Forenames>
-      <Text>, D. S.O. (to command 12th Battalion)</Text>
+      <Text>
+        <Honour>D. S.O.</Honour>
+      </Text>
       <PageNumber>10112</PageNumber>
     </MainItem>
   </ItemGroup>

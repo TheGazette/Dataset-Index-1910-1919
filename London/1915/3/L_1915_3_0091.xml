@@ -176,9 +176,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Straubenzee</Forenames>
-      <Text>, Lieut. A. B. (temporary Capt.)</Text>
+      <Key>Van Straubenzee</Key>
+      <Title>Lieut.</Title>
+      <Forenames>A. B.</Forenames>
+      <Text>(temporary Capt.)</Text>
       <PageNumber>9515</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -228,7 +229,9 @@
     <MainItem>
       <Key>Vickery</Key>
       <Forenames>Supernumerary</Forenames>
-      <Text>Maj. E C., D.S.O. (restored to the establishment)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6701</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -612,8 +615,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Welchman</Key>
-      <Forenames>G.</Forenames>
-      <Text>de V. (Lieut.)</Text>
+      <Forenames>G. de V</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>6799</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -774,7 +777,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Whitehead</Key>
-      <Text>. D. (temporary Capt.)</Text>
+      <Forenames>D.</Forenames>
+      <Text>(temporary Capt.)</Text>
       <PageNumber>8959</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -18,7 +18,7 @@
       <PageNumber>12165</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Lt.) Temp. Lt</Text>
+      <Text>Lt.) Temp. Lt.</Text>
       <PageNumber>12165</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -252,7 +252,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>F. R</Forenames>
-      <Text>, H., M.D. (Lt.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>10490</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -267,7 +269,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Law</Key>
-      <Text>Maj. F W. B. (temp. Lt.Col.)</Text>
+      <Title>Maj.</Title>
+      <Forenames>F</Forenames>
+      <Text>W. B. (temp. Lt.Col.)</Text>
       <PageNumber>11490</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -530,7 +534,7 @@
       <PageNumber>11311</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Temp. Lt</Text>
+      <Text>Temp. Lt.</Text>
       <PageNumber>12072</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -763,7 +767,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Lederer</Key>
-      <Text>Capt. P. G. A. (Adjt.)</Text>
+      <Title>Capt.</Title>
+      <Forenames>P. G. A.</Forenames>
+      <Text>(Adjt.)</Text>
       <PageNumber>10032</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1720,7 +1726,9 @@
     <MainItem>
       <Key>Levick</Key>
       <Forenames>H. D.</Forenames>
-      <Text>, M.B., F.R.C.S. (Capt.)</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>10370</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1778,7 +1786,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lewcock</Key>
-      <Text>F. J. (2nd Lt.)</Text>
+      <Forenames>F. J.</Forenames>
+      <Text>(2nd Lt.)</Text>
       <PageNumber>10519</PageNumber>
     </MainItem>
   </ItemGroup>

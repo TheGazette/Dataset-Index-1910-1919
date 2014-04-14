@@ -23,8 +23,12 @@
   <ItemGroup>
     <MainItem>
       <Key>Denman</Key>
-      <Forenames>The Et</Forenames>
-      <Text>. Hon. Thomas the Lord, G.C.M.G., K.C.V.O. (Hon. Capt. in the Army) (temporary Lieut.-Col.)</Text>
+      <Title>The Et. Hon.</Title>
+      <Forenames>Thomas</Forenames>
+      <Text>
+        <Honour>G.C.M.G.</Honour>
+        <Honour>K.C.V.O.</Honour>
+      </Text>
       <PageNumber>7600</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -33,7 +37,9 @@
       <Key>Bering</Key>
       <Title>Sir</Title>
       <Forenames>Henry Edward</Forenames>
-      <Text>, Bart. (Major)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>7780</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -205,8 +211,8 @@
   <ItemGroup>
     <MainItem>
       <Key>lEgerton</Key>
-      <Title>Capt.</Title>
-      <Forenames>The Hon</Forenames>
+      <Title>Capt. The</Title>
+      <Forenames>Hon</Forenames>
       <Text>; Maurice (seconded)</Text>
       <PageNumber>6505</PageNumber>
     </MainItem>
@@ -463,7 +469,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>Keith A.</Forenames>
-      <Text>Bart. (Major)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>7780</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -665,8 +673,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gore</Key>
-      <Forenames>Ralph St</Forenames>
-      <Text>. George C. (Capt.)</Text>
+      <Forenames>Ralph St. George C.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>6811</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -822,7 +830,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Grey</Key>
-      <Text>. Sir Henry ioley, Bart (Lieut Col.)</Text>
+      <Title>Sir</Title>
+      <Forenames>Henry</Forenames>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>7403</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1175,7 +1187,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Higg</Key>
-      <Text>.n, John A. (Major)</Text>
+      <Text>n, John A. (Major)</Text>
       <PageNumber>6702</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -466,15 +466,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Bradley</Key>
-      <Forenames>E.</Forenames>
-      <Text>de W. H. (Lieut.)</Text>
+      <Forenames>E. de W</Forenames>
+      <Text>. H. (Lieut.)</Text>
       <PageNumber>2979</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Palmer</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, G. H. C. (seconded)</Text>
       <PageNumber>2888</PageNumber>
     </MainItem>
@@ -631,8 +631,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Blake-Campbell</Key>
-      <Title>St.</Title>
-      <Forenames>J. F.</Forenames>
+      <Title>St. J.</Title>
+      <Forenames>F.</Forenames>
       <Text>(Surgn. Lieut.-Col.)</Text>
       <PageNumber>2367</PageNumber>
     </MainItem>
@@ -840,7 +840,9 @@
       <Key>Craig</Key>
       <Title>Lieut. Sir</Title>
       <Forenames>A. C. G.</Forenames>
-      <Text>, Bart. (seconded)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>2462</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -915,7 +917,9 @@
       <Key>Bradford</Key>
       <Title>Sir</Title>
       <Forenames>E. R.</Forenames>
-      <Text>, Bart. (Lieut,Col.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>4104</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1109,8 +1113,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hara, O. (Capt.) ... '</Text>
+      <Key>O'Hara</Key>
+      <Forenames>O.</Forenames>
+      <Text>(Capt.) ... '</Text>
       <PageNumber>3439</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1183,7 +1188,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Massy</Key>
-      <Text>. Lieut. G. J. ,B. E. (seconded)</Text>
+      <Title>Lieut.</Title>
+      <Forenames>G. J.</Forenames>
+      <Text>,B. E. (seconded)</Text>
       <PageNumber>3439</PageNumber>
     </MainItem>
   </ItemGroup>

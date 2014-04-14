@@ -7,16 +7,10 @@
       <Text>/(Array) A. T. A. (temp. S.O., 2nd CI., oommn. as temp. Lt., and temp. Maj.)</Text>
       <PageNumber>10663</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___ ___</KeyDitto>
-      </Key>
-      <Forenames>G.</Forenames>
-      <Text>.W. (temp. S.O., 2nd CI. (P.), and temp. Maj.)</Text>
+    <SubItem>
+      <Text>G..W. (temp. S.O., 2nd CI. (P.), and temp. Maj.)</Text>
       <PageNumber>7770</PageNumber>
-    </MainItem>
+    </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
@@ -32,7 +26,9 @@
       <Key>Donaldson-Hudson</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>R. C</Forenames>
-      <Text>, D.S.O. (temp. S.O., 1st CI.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>9269</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -41,7 +37,9 @@
       <Key>Donne</Key>
       <Title>Capt.</Title>
       <Forenames>P. D.</Forenames>
-      <Text>, Lord, M.C. (temp. S.O., 3rd CI., S.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7771</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -72,12 +70,13 @@
       <PageNumber>11197</PageNumber>
     </MainItem>
   </ItemGroup>
-  <KeyDitto>-—</KeyDitto>
   <ItemGroup>
     <MainItem>
       <Key>
-        <KeyDitto>___ ___ ___</KeyDitto>
+        <KeyDitto>-—</KeyDitto>
       </Key>
+      <Title>Maj. (temp. Lt.-Col.)</Title>
+      <Forenames>I. A. E.</Forenames>
       <Text>(temp. SO., 1st CI., Air Min., and retain temp, rank)</Text>
       <PageNumber>9829</PageNumber>
     </MainItem>
@@ -100,7 +99,9 @@
       <Key>Ellerton</Key>
       <Title>Capt.</Title>
       <Forenames>A. S.</Forenames>
-      <Text>(temp. S.O., 2nd CI. (P.), and temp. Maj.).. Ellington, Maj. Gen. E. L., C.M.G. ,</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>7770</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -187,8 +188,11 @@
       <Text>(temp. S.O., 3rd CI. (P.), and temp. Capt.) . :</Text>
       <PageNumber>7770</PageNumber>
     </MainItem>
+    <SubItem>
+      <Text>Capt. G. B (temp. 8:0., 2nd CI., and temp. Maj.)</Text>
+      <PageNumber>9466</PageNumber>
+    </SubItem>
   </ItemGroup>
-  <KeyDitto>___ ___ ___</KeyDitto>
   <ItemGroup>
     <MainItem>
       <Key>Frost</Key>
@@ -201,23 +205,13 @@
   <ItemGroup>
     <MainItem>
       <Key>Fulton</Key>
-      <Text>. Lt. (temp. Capt.) OS. (temp. S.O:, 3rd CI., and retain temp, rank) .. :</Text>
+      <Title>Lt. (temp. Capt.)</Title>
+      <Text>OS. (temp. S.O:, 3rd CI., and retain temp, rank) .. :</Text>
       <PageNumber>11347</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Title>Capt.</Title>
-      <Forenames>E. C.</Forenames>
-      <Text>(temp. S.O., 2nd CI. (S.), and temp. Msj.j</Text>
-      <PageNumber>7770</PageNumber>
-    </MainItem>
     <SubItem>
-      <Text>, Corr. of date ,. , i</Text>
-      <PageNumber>9269</PageNumber>
+      <Text>Capt. E. C. (temp. S.O., 2nd CI. (S.), and temp. Msj.j</Text>
+      <PageNumber>7770</PageNumber>
     </SubItem>
   </ItemGroup>
   <ItemGroup>
@@ -231,7 +225,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Game</Key>
-      <Text>. Col. (temp. Bris.-Gen. in Army) P. VV., D.S.O. (temp. Brig.-Gen., Air, and retain temp, rank)</Text>
+      <Title>Col. (temp. Bris.-Gen. in Army)</Title>
+      <Forenames>P.</Forenames>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7770</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -239,14 +237,19 @@
     <MainItem>
       <Key>Gammeli</Key>
       <Forenames>Capt</Forenames>
-      <Text>: (Armv.) J. A. H., D.S.O., M.C. (temp: S.O., lst CI., Air Min.iandtemp. Lt.^Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>11346</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Gardner</Key>
-      <Text>. Capt. (temp. Maj.) C. E. (temp. S.O., 2nd Lt., S.)</Text>
+      <Title>Capt. (temp. Maj.)</Title>
+      <Forenames>C. E.</Forenames>
+      <Text>(temp. S.O., 2nd Lt., S.)</Text>
       <PageNumber>7770</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -254,8 +257,8 @@
     <MainItem>
       <Key>Garfit</Key>
       <Title>Capt.</Title>
-      <Forenames>H.</Forenames>
-      <Text>de B.C. (temp. S O., 3rd CI.) .. .:</Text>
+      <Forenames>H. de B</Forenames>
+      <Text>.C. (temp. S O., 3rd CI.) .. .:</Text>
       <PageNumber>8068</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -325,52 +328,39 @@
   <ItemGroup>
     <MainItem>
       <Key>Goldincr</Key>
-      <Text>. Capt, M. J. (temp. S.O., 4th CI., 1st Gr.)</Text>
+      <Forenames>Capt</Forenames>
+      <Text>, M. J. (temp. S.O., 4th CI., 1st Gr.)</Text>
       <PageNumber>11093</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Goldsmith</Key>
-      <Text>. Lt.-Col. H. D., D.S.O. (temp. S.O., lnt CI., Air)</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>H. D.</Forenames>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7770</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Gordon</Key>
-      <Text>. Capt. C. F., M.C. (temp. SO.,' 2nd CI. (S.), and temp. Maj.)</Text>
+      <Title>Capt.</Title>
+      <Forenames>C. F.</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7770</PageNumber>
     </MainItem>
     <SubItem>
       <Text>Corr. of date</Text>
       <PageNumber>9269</PageNumber>
     </SubItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___</KeyDitto>
-      </Key>
-      <Title>Lt.-Col.</Title>
-      <Forenames>E. B.</Forenames>
-      <Text>, D.S.O. (temp. S.O.. 1st CI.)</Text>
-      <PageNumber>9269</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___ ___</KeyDitto>
-      </Key>
-      <Title>Capt. (temp. Maj.)</Title>
-      <Forenames>H. F. A.</Forenames>
-      <Text>(temp. S.O., 2nd CI., and temp. Maj.)</Text>
-      <PageNumber>8504</PageNumber>
-    </MainItem>
     <SubItem>
-      <Text>Temp. S.O., 2nd CI., and</Text>
-      <PageNumber>9011</PageNumber>
+      <Text>Capt. (temp. Maj.) H. F. A. (temp. S.O., 2nd CI., and temp. Maj.)</Text>
+      <PageNumber>8504</PageNumber>
     </SubItem>
   </ItemGroup>
   <ItemGroup>
@@ -403,7 +393,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Greenwood</Key>
-      <Text>. Capt. J. D. (temp. S.O.,</Text>
+      <Title>Capt.</Title>
+      <Forenames>J. D.</Forenames>
+      <Text>(temp. S.O.,</Text>
       <PageNumber>11197</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -412,20 +404,17 @@
       <Key>Grenfell</Key>
       <Title>Capt.</Title>
       <Forenames>E. O.</Forenames>
-      <Text>, M.C. (S.O., 2nd CI., and temp. Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9117</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___ ___</KeyDitto>
-      </Key>
-      <Title>Maj. (temp. Lt. Col.)</Title>
-      <Forenames>G. P.</Forenames>
-      <Text>, D.S.O., (temp. S.O., lit CI., Air Min., and retain temp, rank)</Text>
+    <SubItem>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>10395</PageNumber>
-    </MainItem>
+    </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
@@ -443,7 +432,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Guest</Key>
-      <Text>. Capt. (temp. Maj.) Hon. L. G. W. (temp. S:0., 2nd CI., Air Min.)</Text>
+      <Title>Capt. (temp. Maj.) Hon.</Title>
+      <Forenames>L. G. W.</Forenames>
+      <Text>(temp. S:0., 2nd CI., Air Min.)</Text>
       <PageNumber>10395</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -476,7 +467,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Hards</Key>
-      <Text>. Lt. (temp. Maj.) F. G. D., DSC. (temp. S.O., 1st CI., and temp. Lt.-Col.)</Text>
+      <Title>Lt. (temp. Maj.)</Title>
+      <Forenames>F. G. D.</Forenames>
+      <Text>
+        <Honour>DSC</Honour>
+      </Text>
       <PageNumber>8504</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -496,17 +491,6 @@
       <Forenames>D.</Forenames>
       <Text>(temp. S.O., 1st CI., and temp. Lt.-Col.)</Text>
       <PageNumber>9703</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___ ___ —</KeyDitto>
-      </Key>
-      <Title>2nd Lt.</Title>
-      <Forenames>H. H.</Forenames>
-      <Text>(temp. S.O., 3rd CI, and temp. Capt.)</Text>
-      <PageNumber>8901</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -603,7 +587,9 @@
       <Key>Higgns</Key>
       <Title>Col. (temp. Brig.-Gen., now Maj.-Gen.)</Title>
       <Forenames>J. F. A.</Forenames>
-      <Text>, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>7770</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -658,10 +644,11 @@
       <Key>Howell</Key>
       <Title>Capt.</Title>
       <Forenames>J. G</Forenames>
-      <Text>, M.C. (temp. S.O'., 3rd 01. (S.))</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7770</PageNumber>
     </MainItem>
-    <KeyDitto>___ ___ ___ ___</KeyDitto>
     <SubItem>
       <Text>Capt. (Hon. Maj.) R. (temp. S.O., 2nd Oil, temp. Maj.)</Text>
       <PageNumber>7770</PageNumber>
@@ -684,7 +671,9 @@
       <Key>Hudson</Key>
       <Title>Maj. (temp. Lt.-Col.)</Title>
       <Forenames>H. C. H.</Forenames>
-      <Text>, M.V.O. (temp. S.O.,</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>9383</PageNumber>
     </MainItem>
     <SubItem>
@@ -713,7 +702,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hunt</Key>
-      <Text>. Lt.-Col. ,T. W. L. (temp. S.O., 2ndCI., P.) Hunter, Lt. (Army) W. A. (temp</Text>
+      <Title>Lt.-Col.</Title>
+      <Text>,T. W. L. (temp. S.O., 2ndCI., P.) Hunter, Lt. (Army) W. A. (temp</Text>
       <PageNumber>9578</PageNumber>
     </MainItem>
     <SubItem>
@@ -726,7 +716,9 @@
       <Key>Hurst</Key>
       <Title>Capt.</Title>
       <Forenames>A. J.</Forenames>
-      <Text>(temp. S.O., 2ad 01.,.and temp. Maj.) .. Huskinson, Capt. P., M.C. (temp</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9581</PageNumber>
     </MainItem>
     <SubItem>
@@ -750,7 +742,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Ingram</Key>
-      <Text>. Maj. H. (temp.S.O., 2nd CI.)</Text>
+      <Title>Maj.</Title>
+      <Forenames>H.</Forenames>
+      <Text>(temp.S.O., 2nd CI.)</Text>
       <PageNumber>8203</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -793,11 +787,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>Johnson</Forenames>
-      <Text>, Lt. R. E. (temp. S.O., 3rd CI., Air Min.)</Text>
+      <Key>Johnson</Key>
+      <Title>Lt.</Title>
+      <Forenames>R. E.</Forenames>
+      <Text>(temp. S.O., 3rd CI., Air Min.)</Text>
       <PageNumber>10395</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -822,7 +815,10 @@
       <Key>Killmayer</Key>
       <Title>Capt.</Title>
       <Forenames>L. J.</Forenames>
-      <Text>(temp. S.O., 2nd CI. (S.), and temp. Maj.).. Kirby, Lt.-Col. F. H., V.C., D.C.M. (temp. Group Comdr. and temp. , Col.) „</Text>
+      <Text>
+        <Honour>V.C.</Honour>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>10786</PageNumber>
     </MainItem>
   </ItemGroup>

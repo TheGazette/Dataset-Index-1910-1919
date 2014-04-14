@@ -202,7 +202,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Brand</Key>
-      <Text>Capt. D. E. (Maj.)</Text>
+      <Title>Capt.</Title>
+      <Forenames>D. E.</Forenames>
+      <Text>(Maj.)</Text>
       <PageNumber>7886</PageNumber>
     </MainItem>
     <SubItem>
@@ -263,7 +265,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>W.</Forenames>
-      <Text>, M.D. (Capt.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>8685</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -440,7 +444,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Bray</Key>
-      <Text>Capt. (actg. Maj.) F. E. (rel. arte, rank of Maj )</Text>
+      <Title>Capt. (actg. Maj.)</Title>
+      <Forenames>F. E.</Forenames>
+      <Text>(rel. arte, rank of Maj )</Text>
       <PageNumber>9225</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1040,7 +1046,9 @@
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Brierley</Forenames>
-      <Text>, 2nd Lt. (temp. Lt.) J., M.C. (Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7306</PageNumber>
     </MainItem>
     <SubItem>
@@ -1402,8 +1410,8 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Title>Capt. (temp. Maj.)</Title>
-      <Forenames>C. St</Forenames>
-      <Text>. J. (Maj.)</Text>
+      <Forenames>C. St. J</Forenames>
+      <Text>. (Maj.)</Text>
       <PageNumber>8084</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1475,7 +1483,9 @@
       <Key>Brock</Key>
       <Title>Maj.</Title>
       <Forenames>A. W. S.</Forenames>
-      <Text>, D.S.O. (actg. Lt.-Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7885</PageNumber>
     </MainItem>
     <SubItem>
@@ -1501,7 +1511,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>E. G.</Forenames>
-      <Text>, M.C. (actg. Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6931</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1542,7 +1554,9 @@
       <Key>Brocklebank</Key>
       <Title>Maj. (temp.)</Title>
       <Forenames>J. J.</Forenames>
-      <Text>, D. S.O. (Maj.)</Text>
+      <Text>
+        <Honour>D. S.O.</Honour>
+      </Text>
       <PageNumber>8304</PageNumber>
     </MainItem>
   </ItemGroup>

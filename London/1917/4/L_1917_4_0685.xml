@@ -142,16 +142,6 @@
       <Text>Temp. Lt</Text>
       <PageNumber>12356</PageNumber>
     </SubItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Title>Not.</Title>
-      <Text>cancelled</Text>
-      <PageNumber>12366</PageNumber>
-    </MainItem>
     <SubItem>
       <Text>E. A. N. (Lt.)</Text>
       <PageNumber>11154</PageNumber>
@@ -204,11 +194,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>Qudll</Forenames>
-      <Text>, M. D. (Capt.)</Text>
+      <Key>Qudll</Key>
+      <Forenames>M. D.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>11474</PageNumber>
     </MainItem>
     <SubItem>
@@ -437,16 +425,6 @@
       <Text>{Capt.)</Text>
       <PageNumber>11472</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___</KeyDitto>
-      </Key>
-      <Forenames>R. J.</Forenames>
-      <Text>(Lt.)</Text>
-      <PageNumber>11164</PageNumber>
-    </MainItem>
     <SubItem>
       <Text>Temp. Lt</Text>
       <PageNumber>12356</PageNumber>
@@ -521,7 +499,9 @@
   <ItemGroup>
     <MainItem>
       <Key>French</Key>
-      <Text>(Maj. and Bt. Lt.;Col. F. J. F. (retained on actdve list, and to rem. seed.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>11702</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -529,7 +509,9 @@
     <MainItem>
       <Key>Green</Key>
       <Title>Dir.</Title>
-      <Text>of Music and Hon. Lt. B. S. (M.V.O. (placed on iSupy. List) -</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>12811</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -559,7 +541,9 @@
     <MainItem>
       <Key>Iiumsden</Key>
       <Title>Maj. (temp. Brig.Gen.)</Title>
-      <Text>IF. W., V.C., O.S.O. (seed.) (Lt.-Col.)</Text>
+      <Text>
+        <Honour>V.C.</Honour>
+      </Text>
       <PageNumber>11472</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -758,7 +742,9 @@
       <Key>Blumberg</Key>
       <Title>Lt.-Col. and Bt. Col.</Title>
       <Forenames>H. E.</Forenames>
-      <Text>, C.B. (Col. 2nd Comdt., and to remain A.A.G.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>10762</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -767,7 +753,9 @@
       <Key>Chown</Key>
       <Title>Col. Comdt.</Title>
       <Forenames>E. E.</Forenames>
-      <Text>, C.B. (placed on retd. list., and to be Hon. .Maj.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>10606</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -789,7 +777,9 @@
       <Key>Gillespie</Key>
       <Title>Capt.</Title>
       <Forenames>E.</Forenames>
-      <Text>, D.S.O. (actg. Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>11850</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -798,7 +788,9 @@
       <Key>Godfrey</Key>
       <Title>Maj. and Bt. Lt.-Col.</Title>
       <Forenames>W. W.</Forenames>
-      <Text>, C.M.G. (temp. Lt.-Col.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>11595</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -815,7 +807,9 @@
       <Key>Hawkins</Key>
       <Title>Maj. (.temp. Lt.-Col.)</Title>
       <Forenames>T. H.</Forenames>
-      <Text>, C.M.G. {Lt.-Col., and rem. seed.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>11472</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -903,7 +897,9 @@
       <PageNumber>11472</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Lt.-Col. by Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>12811</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -930,7 +926,9 @@
     <MainItem>
       <Key>Parsons</Key>
       <Title>Col.</Title>
-      <Text>, 2nd Comdt. (temp. Brig.-Gen.) C. McN., C.B. (Col. Comdt. j (temp. Brig.Gen.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>10606</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -952,7 +950,9 @@
       <Key>Story</Key>
       <Title>Maj.</Title>
       <Forenames>E. K.</Forenames>
-      <Text>(Lt.-Col. by Bt.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>11473</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1123,7 +1123,9 @@
     <MainItem>
       <Key>Adams</Key>
       <Forenames>C. E.</Forenames>
-      <Text>, R.D. (Lt. Cdr.)</Text>
+      <Text>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>11850</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1149,26 +1151,10 @@
       <Text>(Lt. Cdr., ret.)</Text>
       <PageNumber>11851</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>J.</Forenames>
-      <Text>McG. (temp. Lt.)</Text>
+    <SubItem>
+      <Text>J. McG. (temp. Lt.)</Text>
       <PageNumber>11851</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>S. R</Forenames>
-      <Text>; (temp. Asst. Payr.)</Text>
-      <PageNumber>11155</PageNumber>
-    </MainItem>
+    </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
@@ -1193,46 +1179,14 @@
       <Text>(temp. Lt.)</Text>
       <PageNumber>11595</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>H. W.</Forenames>
-      <Text>(temp. Asst. Payr.)</Text>
+    <SubItem>
+      <Text>H. W. (temp. Asst. Payr.)</Text>
       <PageNumber>13498</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Text>JV A. (temp. Lt.)</Text>
-      <PageNumber>10178</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>J. V.</Forenames>
-      <Text>(temp. Asst. Payr.)</Text>
+    </SubItem>
+    <SubItem>
+      <Text>J. V. (temp. Asst. Payr.)</Text>
       <PageNumber>11702</PageNumber>
-    </MainItem>
+    </SubItem>
   </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___</KeyDitto>
-      </Key>
-      <Forenames>R. H.</Forenames>
-      <Text>(temp. Asst. Payr.)</Text>
-      <PageNumber>11702</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
 </Index>
 

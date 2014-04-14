@@ -113,7 +113,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Welby</Key>
-      <Text>.-Everard, Lt. E. E. E. (temp. Lt.)</Text>
+      <Text>-Everard, Lt. E. E. E. (temp. Lt.)</Text>
       <PageNumber>2854</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -967,7 +967,10 @@
       <Key>Wodehouse</Key>
       <Title>Gen. Sir</Title>
       <Forenames>J. H.</Forenames>
-      <Text>, G.C.B., C.M.G. (rel. appt.)</Text>
+      <Text>
+        <Honour>G.C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>508</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1635,7 +1638,9 @@
       <Key>Alexander</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>M.</Forenames>
-      <Text>, C.M.G. (rel. appt. of Asst. Judge Advocate-Gen.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>2101</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1716,7 +1721,9 @@
       <Key>Almond</Key>
       <Title>Hon. Lt.-Col. the Rev. Canon</Title>
       <Forenames>J.</Forenames>
-      <Text>McF., C.M.G. (Dir. of Chapln's Servs., temp. Hon. Col.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>2000</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1974,7 +1981,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Ashdown</Key>
-      <Text>. Gnr. A. V. (temp. Lt.)</Text>
+      <Title>Gnr.</Title>
+      <Forenames>A. V.</Forenames>
+      <Text>(temp. Lt.)</Text>
       <PageNumber>2355</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -188,7 +188,9 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>F. S.</Forenames>
-      <Text>, M.D. (Capt.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>10019</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -198,7 +200,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>G. C</Forenames>
-      <Text>, M.D. (Lt.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>12184</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -526,7 +530,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Wall</Key>
-      <Text>Lt. R. D. F. (temp. Capt.)</Text>
+      <Title>Lt.</Title>
+      <Forenames>R. D. F.</Forenames>
+      <Text>(temp. Capt.)</Text>
       <PageNumber>12458</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1026,7 +1032,7 @@
       <PageNumber>11147</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Temp Capt</Text>
+      <Text>Temp Capt.</Text>
       <PageNumber>12073</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1118,7 +1124,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Warburton</Key>
-      <Text>H. H. (2nd Lt.)</Text>
+      <Forenames>H. H.</Forenames>
+      <Text>(2nd Lt.)</Text>
       <PageNumber>12676</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1717,8 +1724,8 @@
     <MainItem>
       <Key>Warrens</Key>
       <Title>Lt.</Title>
-      <Forenames>B. C. St</Forenames>
-      <Text>. G. (temp. Capt.)</Text>
+      <Forenames>B. C. St. G</Forenames>
+      <Text>. (temp. Capt.)</Text>
       <PageNumber>11883</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1749,7 +1756,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Warwick</Key>
-      <Text>A. J. (2nd Lt.)</Text>
+      <Forenames>A. J.</Forenames>
+      <Text>(2nd Lt.)</Text>
       <PageNumber>10502</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1758,8 +1766,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>W. R. St</Forenames>
-      <Text>. C. (2nd Lt.)</Text>
+      <Forenames>W. R. St. C</Forenames>
+      <Text>. (2nd Lt.)</Text>
       <PageNumber>11214</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1791,7 +1799,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Waterfield</Key>
-      <Text>A. C. (2nd Lt.)</Text>
+      <Forenames>A. C.</Forenames>
+      <Text>(2nd Lt.)</Text>
       <PageNumber>12206</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1903,14 +1912,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Watkin</Key>
-      <Text>Capt. and Hon. Maj. C. P. (temp. Maj.)</Text>
+      <Title>Capt. and Hon. Maj.</Title>
+      <Forenames>C. P.</Forenames>
+      <Text>(temp. Maj.)</Text>
       <PageNumber>11216</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Watkins</Key>
-      <Text>A. W. (2nd Lt.)</Text>
+      <Forenames>A. W.</Forenames>
+      <Text>(2nd Lt.)</Text>
       <PageNumber>12457</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1973,7 +1985,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Watkinson</Key>
-      <Text>2nd Lt. A. S. (seconded for duty with the East Lanes Divisional Engineers)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>A. S.</Forenames>
+      <Text>(seconded for duty with the East Lanes Divisional Engineers)</Text>
       <PageNumber>11883</PageNumber>
     </MainItem>
   </ItemGroup>

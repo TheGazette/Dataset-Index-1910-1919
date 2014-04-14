@@ -110,7 +110,10 @@
       <Key>Murray</Key>
       <Title>Hon. Major-Gen.</Title>
       <Forenames>Robert Hunter</Forenames>
-      <Text>, C.B.,. C.M.G. (Colonel)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>4006</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -127,7 +130,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Oxley</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>: Robert D. (seconded for Adjt. Terr. Force and to be Capt.)</Text>
       <PageNumber>3295</PageNumber>
     </MainItem>
@@ -410,7 +413,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Styles</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>: Frederick E. (retired pay temp.) .i</Text>
       <PageNumber>3296</PageNumber>
     </MainItem>
@@ -446,7 +449,9 @@
       <Key>Pitt-Taylor</Key>
       <Title>Supy. Capt.</Title>
       <Forenames>Walter W.</Forenames>
-      <Text>, D.S.O. (restored to the establishment)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4894</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -696,7 +701,9 @@
       <Key>Hutchinson</Key>
       <Title>Supy. Capt.</Title>
       <Forenames>Hugh M.</Forenames>
-      <Text>, D.S.O. (restored to the establishment)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3665</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -712,7 +719,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Steuart</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, Norman K. (seconded)</Text>
       <PageNumber>2881</PageNumber>
     </MainItem>
@@ -746,8 +753,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kennedy</Key>
-      <Forenames>Arthur St</Forenames>
-      <Text>. Clair (2nd Lieut.)</Text>
+      <Forenames>Arthur St. Clair</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>4538</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -778,8 +785,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hara, Henry D. (Lieut.)</Text>
+      <Key>O'Hara</Key>
+      <Forenames>Henry D.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>4382</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -924,8 +932,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Jenkins</Key>
-      <Forenames>Second Lieut</Forenames>
-      <Text>, (on probation) John W. D. (resigned), supplementary</Text>
+      <Forenames>Second</Forenames>
+      <Text>Lieut, (on probation) John W. D. (resigned), supplementary</Text>
       <PageNumber>3296</PageNumber>
     </MainItem>
   </ItemGroup>

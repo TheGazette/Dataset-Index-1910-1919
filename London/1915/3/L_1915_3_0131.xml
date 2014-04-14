@@ -94,8 +94,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, Henry Edward (temporary 2nd Lieut.)</Text>
+      <Key>O'Brien</Key>
+      <Forenames>Henry Edward</Forenames>
+      <Text>(temporary 2nd Lieut.)</Text>
       <PageNumber>7330</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -234,15 +235,17 @@
       </Key>
       <Title>Lieut.</Title>
       <Forenames>F. C</Forenames>
-      <Text>, D.S.O. (temporary Capt.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>9558</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Rose</Key>
-      <Forenames>R. A.</Forenames>
-      <Text>de B. (Maj.)</Text>
+      <Forenames>R. A. de B</Forenames>
+      <Text>. (Maj.)</Text>
       <PageNumber>8807</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -706,7 +709,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cole</Key>
-      <Text>. Ronald St. George (2nd Lieut.)</Text>
+      <Forenames>Ronald St</Forenames>
+      <Text>. George (2nd Lieut.)</Text>
       <PageNumber>7904</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -754,21 +758,26 @@
   <ItemGroup>
     <MainItem>
       <Key>Daw</Key>
-      <Text>. Lieut. J. H. (temporary Capt.)</Text>
+      <Title>Lieut.</Title>
+      <Forenames>J. H.</Forenames>
+      <Text>(temporary Capt.)</Text>
       <PageNumber>6810</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Dawson</Key>
-      <Text>. John (Lieut.)</Text>
+      <Forenames>John</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>6965</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Ellen</Key>
-      <Text>. Pte. E. A. (temporary 2nd . Lieut.)</Text>
+      <Title>Pte.</Title>
+      <Forenames>E. A.</Forenames>
+      <Text>(temporary 2nd . Lieut.)</Text>
       <PageNumber>7334</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -796,8 +805,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Goldie</Key>
-      <Forenames>A. St</Forenames>
-      <Text>. L. (Maj.)</Text>
+      <Forenames>A. St. L</Forenames>
+      <Text>. (Maj.)</Text>
       <PageNumber>8807</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -805,7 +814,9 @@
     <MainItem>
       <Key>Goodwyn</Key>
       <Forenames>P. C. W.</Forenames>
-      <Text>, D.S.O. (Maj</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8807</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1027,7 +1038,9 @@
       <Key>Maclear</Key>
       <Title>Maj.</Title>
       <Forenames>H.</Forenames>
-      <Text>, 'D.S.O. (temporary Lieut.-Gol.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6810</PageNumber>
     </MainItem>
   </ItemGroup>

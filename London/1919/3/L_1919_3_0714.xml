@@ -34,7 +34,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Parliament</Key>
-      <Text>Overseas Cadet G. H. (temp. 2nd Lt.)</Text>
+      <Forenames>Overseas</Forenames>
+      <Text>Cadet G. H. (temp. 2nd Lt.)</Text>
       <PageNumber>9144</PageNumber>
     </MainItem>
     <SubItem>
@@ -283,7 +284,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Partridge</Key>
-      <Text>Sqdn. Leader Arthur (trd. to unempld. list)</Text>
+      <Title>Sqdn.</Title>
+      <Forenames>Leader Arthur</Forenames>
+      <Text>(trd. to unempld. list)</Text>
       <PageNumber>11248</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -596,7 +599,10 @@
       </Key>
       <Title>Maj. (A.)</Title>
       <Forenames>L. A.</Forenames>
-      <Text>, M.C., D.F.C. (granted permanent</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>9865</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -839,7 +845,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>J. D.</Forenames>
-      <Text>, M.C. (resigns commn.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>11590</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -861,7 +869,9 @@
       </Key>
       <Title>Capt. (A.)</Title>
       <Forenames>L. G. S</Forenames>
-      <Text>, M.C, A.F.C. (granted permanent oommn.)</Text>
+      <Text>
+        <Honour>A.F.C.</Honour>
+      </Text>
       <PageNumber>9867</PageNumber>
     </MainItem>
     <SubItem>
@@ -1051,7 +1061,10 @@
       <Key>Peal</Key>
       <Title>Maj.</Title>
       <Forenames>E. R.</Forenames>
-      <Text>, O.B.E., D.S.C. (trd. to unempld. list)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>8858</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1215,7 +1228,9 @@
       <Key>Pearse</Key>
       <Title>Capt. (S.)</Title>
       <Forenames>A. H.</Forenames>
-      <Text>, D.F.C. (granted permanent commn.)</Text>
+      <Text>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>9868</PageNumber>
     </MainItem>
   </ItemGroup>

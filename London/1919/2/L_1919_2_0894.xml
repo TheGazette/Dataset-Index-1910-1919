@@ -427,14 +427,17 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>. Amory, Lt. (actg. Capt.) J. M. R. ;E. (trd. to unempld. list)</Text>
+      <Forenames>Amory</Forenames>
+      <Text>, Lt. (actg. Capt.) J. M. R. ;E. (trd. to unempld. list)</Text>
       <PageNumber>6371</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. Clair, 2nd Lt. H. (trd. to unempld. list),</Text>
+      <Key>St. Clair</Key>
+      <Title>2nd Lt.</Title>
+      <Forenames>H.</Forenames>
+      <Text>(trd. to unempld. list),</Text>
       <PageNumber>6120</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -449,8 +452,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. George, 2nd Lt. L. W. (trd. to unempld. list)</Text>
+      <Key>St. George</Key>
+      <Title>2nd Lt.</Title>
+      <Forenames>L. W.</Forenames>
+      <Text>(trd. to unempld. list)</Text>
       <PageNumber>6122</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -474,22 +479,25 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. Jeans, Overseas Cadet A. (temp. 2nd Lt.)</Text>
+      <Key>St. Jeans</Key>
+      <Forenames>Overseas</Forenames>
+      <Text>Cadet A. (temp. 2nd Lt.)</Text>
       <PageNumber>6522</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. Martin, Overseas Cadet J. H. (temp. 2nd Lt.)</Text>
+      <Key>St. Martin</Key>
+      <Forenames>Overseas</Forenames>
+      <Text>Cadet J. H. (temp. 2nd Lt.)</Text>
       <PageNumber>7560</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. Noble, Lt. (K.iB.)i (Hon. Capt.) G. S. (Lt., Admin.)</Text>
+      <Key>St. Noble</Key>
+      <Title>Lt. (K.iB.)</Title>
+      <Text>i (Hon. Capt.) G. S. (Lt., Admin.)</Text>
       <PageNumber>5206</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -649,7 +657,10 @@
       <Key>Samson</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>C. R.</Forenames>
-      <Text>, D.S.O., A.F.C. (actg. Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>A.F.C.</Honour>
+      </Text>
       <PageNumber>5800</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -660,7 +671,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>W. L.</Forenames>
-      <Text>, D.F.C. (trd. to unempld. list))</Text>
+      <Text>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>6251</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -707,7 +720,10 @@
       <Key>Sanday</Key>
       <Title>Maj.</Title>
       <Forenames>W. D. S.</Forenames>
-      <Text>, D.S.O., M.C. '(actg. Lt.^Col. whilst an Air Attache)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5800</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -846,7 +862,9 @@
       <Key>Sandford</Key>
       <Title>Maj.</Title>
       <Forenames>F. E.</Forenames>
-      <Text>, A.F.C. (temp. tod. to unempld. list),</Text>
+      <Text>
+        <Honour>A.F.C.</Honour>
+      </Text>
       <PageNumber>7946</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -928,7 +946,9 @@
       <Key>Sargant</Key>
       <Title>Lt. (actg. Capt.)</Title>
       <Forenames>F. T. St</Forenames>
-      <Text>. C, D.F.C. (L«., A., and rel. rank of Capt. on reduction of estabt.) .:</Text>
+      <Text>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>5046</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1043,7 +1063,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>F. G.</Forenames>
-      <Text>, M.C. (tod: to unempld. list)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6515</PageNumber>
     </MainItem>
   </ItemGroup>

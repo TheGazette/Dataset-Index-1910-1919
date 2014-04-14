@@ -43,8 +43,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Greenwood</Key>
-      <Forenames>B. H.</Forenames>
-      <Text>de L. (Lieut.) ..,</Text>
+      <Forenames>B. H. de L</Forenames>
+      <Text>. (Lieut.) ..,</Text>
       <PageNumber>6241</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -360,7 +360,9 @@
       <Key>Johnston</Key>
       <Title>Capt.</Title>
       <Forenames>W. H.</Forenames>
-      <Text>, V.C. (Brevet Maj.)</Text>
+      <Text>
+        <Honour>V.C.</Honour>
+      </Text>
       <PageNumber>6120</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -952,7 +954,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Marshall</Key>
-      <Text>. William Nicholson (2nd Lieut., supplementary)</Text>
+      <Forenames>William Nicholson</Forenames>
+      <Text>(2nd Lieut., supplementary)</Text>
       <PageNumber>3806</PageNumber>
     </MainItem>
   </ItemGroup>

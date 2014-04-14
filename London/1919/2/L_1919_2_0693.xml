@@ -57,7 +57,7 @@
       <PageNumber>5172</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Rel. commc. on acc. of illhealth caused by wounds, and retains rank of Lt., Sub. Not</Text>
+      <Text>Rel. commc. on acc. of illhealth caused by wounds, and retains rank of Lt., Sub. Not.</Text>
       <PageNumber>5172</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -89,7 +89,10 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Lt</Forenames>
-      <Text>, (A./Maj.) G. W., M.C. (Bt. Maj. on promn. to</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>7008</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -111,7 +114,9 @@
       </Key>
       <Title>2nd Lt. (actg. Capt.)</Title>
       <Forenames>L.</Forenames>
-      <Text>, M.C. (rel. actg. rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6785</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -122,7 +127,10 @@
       </Key>
       <Title>Lt. (actg. Capt., addl.)</Title>
       <Forenames>N.</Forenames>
-      <Text>, M.C., M.M. (retains actg. rank of Capt. while comdg. a Co.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>5033</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -143,7 +151,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>2nd Et. T., D.C.M. (rel. commn. on acc. of ill-health contracted on active service, and retains rank of 2nd Lt.)</Text>
+      <Text>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>6240</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -247,11 +257,13 @@
       </Key>
       <Title>Maj. (actg. Lt.-Col.)</Title>
       <Forenames>M. C</Forenames>
-      <Text>, D.S.O. (temp. Lt.-Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4312</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Rel. temp, rank of Lt.-Col. on ceasing to comd. Bn</Text>
+      <Text>Rel. temp, rank of Lt.-Col. on ceasing to comd. Bn.</Text>
       <PageNumber>8198</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -273,7 +285,9 @@
       </Key>
       <Title>Capt. (temp. Maj.)</Title>
       <Forenames>W. B.</Forenames>
-      <Text>, D.S.O. (rel. actg. rank of Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6462</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -304,7 +318,7 @@
       <PageNumber>5036</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Restd. to estabt</Text>
+      <Text>Restd. to estabt.</Text>
       <PageNumber>5773</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -348,7 +362,10 @@
       <Key>Clifford</Key>
       <Title>Capt.</Title>
       <Forenames>E. O</Forenames>
-      <Text>, D.S.O., M.C. (Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5754</PageNumber>
     </MainItem>
     <SubItem>
@@ -399,7 +416,9 @@
       <Key>Clough</Key>
       <Title>Capt.</Title>
       <Forenames>S. H.</Forenames>
-      <Text>, M.C. {rel. commn. on acc. of ill-health caused by wounds and retains &gt;ank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4310</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -408,7 +427,9 @@
       <Key>Clowes</Key>
       <Title>Capt. (actg. Maj.)</Title>
       <Forenames>M.</Forenames>
-      <Text>, M.C. (rel. actg. rank of Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6785</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -455,14 +476,20 @@
       <Key>Coats</Key>
       <Title>Capt.</Title>
       <Forenames>W. J. J.</Forenames>
-      <Text>, M.C. (restd. to estabt,)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7784</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Cobb</Key>
-      <Text>. Lt. (actg. Capt.) R. S., M.C. (rel. actg. rank of Capt. on ceasing to comd. a Co.)</Text>
+      <Title>Lt. (actg. Capt.)</Title>
+      <Forenames>R. S.</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5493</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -478,7 +505,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Cobbold</Key>
-      <Text>. Lt. J. V. (restd. to estabt.)</Text>
+      <Title>Lt.</Title>
+      <Forenames>J. V.</Forenames>
+      <Text>(restd. to estabt.)</Text>
       <PageNumber>5157</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -516,21 +545,30 @@
   <ItemGroup>
     <MainItem>
       <Key>Cock</Key>
-      <Text>. 2nd Lt. F. A. (restd. to estaibt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>F. A.</Forenames>
+      <Text>(restd. to estaibt.)</Text>
       <PageNumber>5909</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Oockain</Key>
-      <Text>. 2nd Lt. W. M. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>W. M.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>8215</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Cockburn</Key>
-      <Text>. Cant. (arte. Maj.) G. E. G.. D.S.O.. M.C. (rel. actg. rank of Cant, on ceasing to be 2nd in comd.)</Text>
+      <Title>Cant. (arte. Maj.)</Title>
+      <Forenames>G. E. G.</Forenames>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5771</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -552,14 +590,17 @@
       </Key>
       <Title>Lt. (temn. Capt.)</Title>
       <Forenames>W.</Forenames>
-      <Text>, D.S.O., M.C (rel. commn. on acc. of ill-health contracted on active service, and granted rank of Capt.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7824</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Cockcroft</Key>
-      <Text>. Capt, (actg. Maj.) W. L (rel. actg. rank)</Text>
+      <Forenames>Capt</Forenames>
+      <Text>, (actg. Maj.) W. L (rel. actg. rank)</Text>
       <PageNumber>8043</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -749,7 +790,9 @@
       </Key>
       <Title>Lt. (actg. Capt.)</Title>
       <Forenames>G. H.</Forenames>
-      <Text>, D.C.M. (rel. actg. rank of Capt. on ceasing to comd</Text>
+      <Text>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>7525</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -849,7 +892,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Coles</Key>
-      <Text>. Lt. E. I,., M.C. (restd. to estabt.)</Text>
+      <Title>Lt.</Title>
+      <Forenames>E. I</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4543</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -867,21 +914,31 @@
   <ItemGroup>
     <MainItem>
       <Key>Colledcre</Key>
-      <Text>. Capt. F. W., M.B.E. (,Bt. Maj.)</Text>
+      <Title>Capt.</Title>
+      <Forenames>F. W.</Forenames>
+      <Text>
+        <Honour>M.B.E.</Honour>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>7008</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Collen</Key>
-      <Text>. Capt, G. ID.. M.D. (rel. cornmn. on ' acc. of i^-health contracted on actVe service, and retains rank of Cant.)</Text>
+      <Forenames>Capt</Forenames>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>6526</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Collett</Key>
-      <Text>. terno Maj. (actg. Lt.-Col.) E. J., D.S.O. (rel. actg. rank of Lt.-Col. on ceasing to comd. Bn.) '</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4565</PageNumber>
     </MainItem>
   </ItemGroup>

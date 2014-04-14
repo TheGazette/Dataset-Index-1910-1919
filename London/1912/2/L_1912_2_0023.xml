@@ -414,15 +414,17 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Morchoe, K. G. (2nd Lieut.)</Text>
+      <Key>O'Morchoe</Key>
+      <Forenames>K. G.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>3797</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neal, G. (2nd Lieut.)</Text>
+      <Key>O'Neal</Key>
+      <Forenames>G.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>3881</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -882,8 +884,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Teeling</Key>
-      <Forenames>A. M. A. I.</Forenames>
-      <Text>de L. (2nd Lieut.)</Text>
+      <Forenames>A. M. A. I. de L</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>4465</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1178,7 +1180,9 @@
       <Key>Chetwode</Key>
       <Title>Col. Sir</Title>
       <Forenames>P. W.</Forenames>
-      <Text>, Bart., Brigade Commander</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>3181</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1320,8 +1324,8 @@
     <MainItem>
       <Key>McKerrell</Key>
       <Title>Col.</Title>
-      <Forenames>A.</Forenames>
-      <Text>de S., Brigade Commander</Text>
+      <Forenames>A. de S</Forenames>
+      <Text>., Brigade Commander</Text>
       <PageNumber>2588</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1454,8 +1458,8 @@
     <MainItem>
       <Key>Travers</Key>
       <Title>Col.</Title>
-      <Forenames>J. H.</Forenames>
-      <Text>du B., Brigade Commander</Text>
+      <Forenames>J. H. du B</Forenames>
+      <Text>., Brigade Commander</Text>
       <PageNumber>3181</PageNumber>
     </MainItem>
   </ItemGroup>

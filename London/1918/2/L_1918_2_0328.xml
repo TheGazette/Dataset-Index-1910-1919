@@ -23,7 +23,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Erp</Key>
-      <Text>.kine, temp. 2nd Lt., attd., D. L</Text>
+      <Text>kine, temp. 2nd Lt., attd., D. L</Text>
       <PageNumber>7443</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -192,7 +192,9 @@
       </Key>
       <Title>2nd Lt.</Title>
       <Forenames>G. P.</Forenames>
-      <Text>(trd. to M.G.C. Infy.)</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>5278</PageNumber>
     </MainItem>
     <SubItem>
@@ -240,7 +242,9 @@
       </Key>
       <Title>temp. 2nd Lt.</Title>
       <Forenames>L. F.</Forenames>
-      <Text>, M.C. (rel. commn. on acc. of illhealth caused by wounds and to be Hon. 2nd Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5935</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -276,7 +280,9 @@
       <Key>Euler</Key>
       <Title>Lt. (now Capt.)</Title>
       <Forenames>W. E.</Forenames>
-      <Text>, M.C. (temp. Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5680</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -313,7 +319,9 @@
     <MainItem>
       <Key>Evans</Key>
       <Forenames>Lt</Forenames>
-      <Text>, (actg. Maj.) A., M.C. (actg. Lt.-Col.) .. .. '</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7184</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -335,7 +343,9 @@
       </Key>
       <Title>temp. Capt.</Title>
       <Forenames>A. J.</Forenames>
-      <Text>, M.C. (Sqdn. Comdr. and temp. Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4366</PageNumber>
     </MainItem>
     <SubItem>
@@ -450,7 +460,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>C. H.</Forenames>
-      <Text>, M.D. (temp. Hon. Lt.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>7109</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -578,7 +590,12 @@
       </Key>
       <Title>Lt.-Col. (T./Brig.-Gen.)</Title>
       <Forenames>E.</Forenames>
-      <Text>, C.M.G., D.S.O. (A.D.C. to the King and Bt. Col.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>A.D.C.</Honour>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>6488</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -682,7 +699,9 @@
       </Key>
       <Title>temp. Qrmr. and Hon. Lt.</Title>
       <Forenames>Frederick</Forenames>
-      <Text>(R.A.M.C.) (temp. Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5577</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -691,7 +710,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>tomp. Qrmr. and Hon. Lt. F. (R.A.M.C.) (Hon. Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5689</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -833,7 +854,9 @@
       <PageNumber>4073</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Trd. to M.G.C. Infy</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>7453</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -843,8 +866,8 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Title>temp. Capt. (actg. Maj.)</Title>
-      <Forenames>H. C.</Forenames>
-      <Text>de C. (rel. actg, rank)</Text>
+      <Forenames>H. C. de C</Forenames>
+      <Text>. (rel. actg, rank)</Text>
       <PageNumber>4369</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -875,7 +898,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>H. K. D.</Forenames>
-      <Text>, M.C. (rel. actg. rank of Maj.) (actg. Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5963</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -995,7 +1020,9 @@
       </Key>
       <Title>temp. 2nd Lt.</Title>
       <Forenames>J. C.</Forenames>
-      <Text>(trd. to M.G.C. Infy., corr of rank) Sub. Not</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>4980</PageNumber>
     </MainItem>
     <SubItem>
@@ -1085,7 +1112,9 @@
       </Key>
       <Title>Maj. (Bt, Lt.-Col.)</Title>
       <Forenames>L</Forenames>
-      <Text>„ D.S.O. (rel. astg. rank of Lt.-Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7435</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1303,7 +1332,9 @@
       </Key>
       <Title>2nd Lt.</Title>
       <Forenames>R. P.</Forenames>
-      <Text>(trd. to M.G.C. Infy.)</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>6678</PageNumber>
     </MainItem>
   </ItemGroup>

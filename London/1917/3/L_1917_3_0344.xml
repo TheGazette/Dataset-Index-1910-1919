@@ -3,7 +3,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Nunneley</Key>
-      <Text>F. P., M.D. (temp. Lt.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>7192</PageNumber>
     </MainItem>
     <SubItem>
@@ -20,7 +22,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>G. P.</Forenames>
-      <Text>, M.C. (actg. Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8953</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -84,7 +88,9 @@
       <Key>Nnthall</Key>
       <Title>temp. Lt.</Title>
       <Forenames>E. E. T.</Forenames>
-      <Text>, M.D</Text>
+      <Text>
+        <Honour>M.D</Honour>
+      </Text>
       <PageNumber>10004</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -230,7 +236,9 @@
       </Key>
       <Title>2nd Lt.</Title>
       <Forenames>G. T.</Forenames>
-      <Text>(M.C.) (temp. . Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9449</PageNumber>
     </MainItem>
     <SubItem>
@@ -299,7 +307,9 @@
       <Key>Oake</Key>
       <Title>temp. 2nd Lt.</Title>
       <Forenames>D.</Forenames>
-      <Text>, M.C. (actg. Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8542</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -371,7 +381,9 @@
       <Key>Oakeshott</Key>
       <Title>temp. 2nd Lt.</Title>
       <Forenames>H. A.</Forenames>
-      <Text>(Asst. Instr. M.G.C.)</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>7436</PageNumber>
     </MainItem>
     <SubItem>
@@ -500,7 +512,9 @@
       </Key>
       <Title>2nd Lt.</Title>
       <Forenames>E. N. R.</Forenames>
-      <Text>, M.C. (actg. Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6524</PageNumber>
     </MainItem>
     <SubItem>
@@ -571,8 +585,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Beirne, temp. Capt. attd. A. L. S. (temp. Capt.) .. ..'</Text>
+      <Key>O'Beirne</Key>
+      <Title>temp. Capt.</Title>
+      <Text>attd. A. L. S. (temp. Capt.) .. ..'</Text>
       <PageNumber>8780</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -587,8 +602,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, temp. 2nd Lt. on prob. B. (confd.)</Text>
+      <Key>O'Brien</Key>
+      <Title>temp. 2nd Lt. on prob.</Title>
+      <Forenames>B.</Forenames>
+      <Text>(confd.)</Text>
       <PageNumber>6525</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -778,8 +795,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Callaghan, 2nd Lt. C. H. D. (temp. . Lt.) ... ,</Text>
+      <Key>O'Callaghan</Key>
+      <Title>2nd Lt.</Title>
+      <Forenames>C. H. D.</Forenames>
+      <Text>(temp. . Lt.) ... ,</Text>
       <PageNumber>7778</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -844,15 +863,19 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Callaghan-Irwin, temp. Lt. H. A. T. (temp. Capt.).,</Text>
+      <Key>O'Callaghan-Irwin</Key>
+      <Title>temp. Lt.</Title>
+      <Forenames>H. A. T.</Forenames>
+      <Text>(temp. Capt.).,</Text>
       <PageNumber>9628</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Carroll, Capt. A. D. (Maj.)</Text>
+      <Key>O'Carroll</Key>
+      <Title>Capt.</Title>
+      <Forenames>A. D.</Forenames>
+      <Text>(Maj.)</Text>
       <PageNumber>7777</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -862,8 +885,8 @@
         <KeyDitto>—— ___ ___ ___</KeyDitto>
       </Key>
       <Title>Cadet</Title>
-      <Forenames>C. St</Forenames>
-      <Text>. J. (temp. 2nd Lt.)</Text>
+      <Forenames>C. St. J</Forenames>
+      <Text>. (temp. 2nd Lt.)</Text>
       <PageNumber>8978</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -873,7 +896,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>J. F.</Forenames>
-      <Text>, M.D., F.R.C.P., I. (temp. Hon. Lt.-Col.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>8297</PageNumber>
     </MainItem>
     <SubItem>
@@ -928,8 +953,13 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connell, Lt.-Col. D. V., M.D. (Bt. Col.)</Text>
+      <Key>O'Connell</Key>
+      <Title>Lt.-Col.</Title>
+      <Forenames>D. V.</Forenames>
+      <Text>
+        <Honour>M.D.</Honour>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>8105</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -979,15 +1009,22 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connell-Jones, 2nd Lt. H. (nom. for comm. in Reg. Army as 2nd Lt.)</Text>
+      <Key>O'Connell-Jones</Key>
+      <Title>2nd Lt.</Title>
+      <Forenames>H.</Forenames>
+      <Text>(nom. for comm. in Reg. Army as 2nd Lt.)</Text>
       <PageNumber>6802</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, temp. Lt. C. B., D.S.O., M.C. (rel. actg. rank of Capt.)</Text>
+      <Key>O'Connor</Key>
+      <Title>temp. Lt.</Title>
+      <Forenames>C. B.</Forenames>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8175</PageNumber>
     </MainItem>
     <SubItem>
@@ -1008,8 +1045,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, temp. Chapln. Rev. D. (rel. commn.)</Text>
+      <Key>O'Connor</Key>
+      <Title>temp. Chapln. Rev.</Title>
+      <Forenames>D.</Forenames>
+      <Text>(rel. commn.)</Text>
       <PageNumber>7319</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1078,8 +1117,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Conor, 2nd Lt. E. J. (Lt.) Odd, Cadet W. J. (temp. 2nd Lt„ attd.)</Text>
+      <Key>O'Conor</Key>
+      <Title>2nd Lt.</Title>
+      <Forenames>E. J.</Forenames>
+      <Text>(Lt.) Odd, Cadet W. J. (temp. 2nd Lt„ attd.)</Text>
       <PageNumber>7567</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1113,8 +1154,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Dell, Actg. Lce.-Cpl. C. S. (temp. 2nd Lt.)</Text>
+      <Key>O'Dell</Key>
+      <Title>Actg. Lce.</Title>
+      <Text>-Cpl. C. S. (temp. 2nd Lt.)</Text>
       <PageNumber>8436</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1139,8 +1181,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Dell, temp. Lt.-Col. T. S. (corr. of date of seniority)</Text>
+      <Key>O'Dell</Key>
+      <Title>temp. Lt.-Col.</Title>
+      <Forenames>T. S.</Forenames>
+      <Text>(corr. of date of seniority)</Text>
       <PageNumber>7754</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1172,8 +1216,12 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donnell, Lt. B. B. J. A., M.C. (Asst. Instr. in Gunnery)</Text>
+      <Key>O'Donnell</Key>
+      <Title>Lt.</Title>
+      <Forenames>B. B. J. A.</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8775</PageNumber>
       <PageNumber>9826</PageNumber>
     </MainItem>
@@ -1270,8 +1318,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donoghue, Staff Nurse K. M. (resigns appt.)</Text>
+      <Key>O'Donoghue</Key>
+      <Title>Staff Nurse</Title>
+      <Forenames>K. M.</Forenames>
+      <Text>(resigns appt.)</Text>
       <PageNumber>10005</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1288,15 +1338,21 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donohoe, temp. Lt. J. F. C, M.B. (temp. Capt.)</Text>
+      <Key>O'Donohoe</Key>
+      <Title>temp. Lt.</Title>
+      <Forenames>J. F. C</Forenames>
+      <Text>, M.B. (temp. Capt.)</Text>
       <PageNumber>7296</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donovan, 2nd Lt. G. P., M.C. (actg. Capt.)</Text>
+      <Key>O'Donovan</Key>
+      <Title>2nd Lt.</Title>
+      <Forenames>G. P.</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9631</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1324,8 +1380,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Dowd, F. B. (temp. Lt.)</Text>
+      <Key>O'Dowd</Key>
+      <Forenames>F. B.</Forenames>
+      <Text>(temp. Lt.)</Text>
       <PageNumber>7733</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1358,8 +1415,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Farrcll, P. T. J. (temp. Lt.)</Text>
+      <Key>O'Farrcll</Key>
+      <Forenames>P. T. J.</Forenames>
+      <Text>(temp. Lt.)</Text>
       <PageNumber>8298</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1374,8 +1432,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Fflahertie, 2nd Lt. (temp. Lt.) G. J. A. S. (Lt. and rem. seed.)</Text>
+      <Key>O'Fflahertie</Key>
+      <Title>2nd Lt. (temp. Lt.)</Title>
+      <Forenames>G. J. A. S.</Forenames>
+      <Text>(Lt. and rem. seed.)</Text>
       <PageNumber>6685</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1390,8 +1450,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Galligan, Cadet T. N. (temp. 2nd Lt. onprob.)</Text>
+      <Key>O'Galligan</Key>
+      <Title>Cadet</Title>
+      <Forenames>T. N.</Forenames>
+      <Text>(temp. 2nd Lt. onprob.)</Text>
       <PageNumber>6787</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -30,7 +30,11 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Title>Lt.-Col. (T./Brig.-Gen.)</Title>
-      <Text>,T. F. I. H., C.M.G., D.S.O. . (Bt. Col.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>13</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -228,7 +232,9 @@
       <Key>Drake-Brockman</Key>
       <Title>Lt.-Col. (temp. Brig.-Gen.)</Title>
       <Forenames>D. H.</Forenames>
-      <Text>, C.M.G. (retains temp, rank of Brig.Gen. while comdg. a Brig, in Ind.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>3963</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -239,7 +245,9 @@
       </Key>
       <Title>Supern. Capt.</Title>
       <Forenames>W. H. G.</Forenames>
-      <Text>, M.C. (restd. to estabt.) .. .. -</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>142</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -296,7 +304,9 @@
       </Key>
       <Title>Cadet</Title>
       <Forenames>H.</Forenames>
-      <Text>, D.C.M. (temp. 2nd Lt.)</Text>
+      <Text>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>4115</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -395,7 +405,10 @@
       </Key>
       <Title>Maj. and Bt. Lt.-Col.</Title>
       <Forenames>T.</Forenames>
-      <Text>/Col.) T. J., D.S.O. (Bt. Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>3838</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -453,7 +466,9 @@
       </Key>
       <Title>temp. 2nd Lt.</Title>
       <Forenames>R.</Forenames>
-      <Text>, M.M. (temp. Lt.)</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>2024</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -475,7 +490,9 @@
       </Key>
       <Title>2nd Lt.</Title>
       <Forenames>T. A.</Forenames>
-      <Text>, M.C. (aetg. Capt. while 2nd in comd. of a Batt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1321</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -495,7 +512,9 @@
       <Key>Driver</Key>
       <Title>temp. Maj.</Title>
       <Forenames>A.</Forenames>
-      <Text>, M.C. (rel. actg. rank of Lt.-Col. on ceasing to comd. a Ser. Bn.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1063</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -556,7 +575,9 @@
     <MainItem>
       <Key>Drouin</Key>
       <Title>temp. Capt.</Title>
-      <Text>A-, M.D. (rel. commn., and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>2721</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -577,7 +598,9 @@
     <MainItem>
       <Key>Drucqtier</Key>
       <Forenames>T</Forenames>
-      <Text>/.Capt. M. N. (Bt. Maj.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>89</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -702,7 +725,9 @@
       </Key>
       <Title>Qrmr. and Lt.</Title>
       <Forenames>W.</Forenames>
-      <Text>, M.C. (Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2513</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -784,9 +809,12 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Boulay</Forenames>
-      <Text>, Col. N. W. H., C.M.G., having attained the age limit placed on ret. pay, and to be Hon. Brig.-Gen.)</Text>
+      <Key>Du Boulay</Key>
+      <Title>Col.</Title>
+      <Forenames>N. W. H.</Forenames>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>1780</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -797,37 +825,50 @@
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Du Cane</Forenames>
-      <Text>, Maj.-Gen. (T./Lt.-Gen.) Sir J. P., K.C.B. (Lt.-Gen.)'</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+      </Text>
       <PageNumber>13</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Port</Forenames>
-      <Text>, Lt. L. (h.p. list, retires on ret. pay on acc. of ill-health contracted on active service)</Text>
+      <Key>Du Port</Key>
+      <Title>Lt.</Title>
+      <Forenames>L.</Forenames>
+      <Text>(h.p. list, retires on ret. pay on acc. of ill-health contracted on active service)</Text>
       <PageNumber>324</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Preez</Forenames>
-      <Text>, W. B. (temp. Lt. for service with K. Afr. Rif.)</Text>
+      <Key>Du Preez</Key>
+      <Forenames>W. B.</Forenames>
+      <Text>(temp. Lt. for service with K. Afr. Rif.)</Text>
       <PageNumber>1929</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Santoy</Forenames>
-      <Text>, Maj. E. F. (trd. to Tank Corps (Engr. Branch)</Text>
+      <Key>Du Santoy</Key>
+      <Title>Maj.</Title>
+      <Forenames>E. F.</Forenames>
+      <Text>(trd. to Tank Corps (Engr. Branch)</Text>
       <PageNumber>2061</PageNumber>
     </MainItem>
     <SubItem>
       <Text>Trd. to Tank Corps (Executive)</Text>
       <PageNumber>2061</PageNumber>
     </SubItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>du Vallon</Key>
+      <Title>temp. Capt.</Title>
+      <Forenames>H. C. de J</Forenames>
+      <Text>. (rel. commn. on acc. of illhealth contracted on active service, and retains rank of Capt.)</Text>
+      <PageNumber>2388</PageNumber>
+    </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
@@ -901,7 +942,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>F. R. G.</Forenames>
-      <Text>, M.B.E. (rel. temp, rank of Capt.)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>792</PageNumber>
     </MainItem>
     <SubItem>
@@ -964,7 +1007,9 @@
       </Key>
       <Title>temp. Col.</Title>
       <Forenames>L. S.</Forenames>
-      <Text>, C.M.G., F.R.C.P. (rel. commn., and retains rank of Col.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>3211</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1048,7 +1093,9 @@
       <Key>Duff</Key>
       <Title>Lt.</Title>
       <Forenames>A. C</Forenames>
-      <Text>, M.C. (R.E.) (Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3126</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1070,7 +1117,9 @@
       </Key>
       <Title>temp. Capt.</Title>
       <Forenames>D.</Forenames>
-      <Text>, F.R.C.S. (rel. commn., and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>2254</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1114,7 +1163,9 @@
       </Key>
       <Title>temp. Lt.</Title>
       <Forenames>R. D.</Forenames>
-      <Text>, M.C. (rel. actg. rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3002</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1163,7 +1214,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Duffes</Key>
-      <Text>. Lt. A. P. (temp. Capt. whilst Courts-Martial Offr.)</Text>
+      <Title>Lt.</Title>
+      <Forenames>A. P.</Forenames>
+      <Text>(temp. Capt. whilst Courts-Martial Offr.)</Text>
       <PageNumber>3875</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -179,7 +179,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ellis</Key>
-      <Text>. .Lieut. W. H. (retired list)</Text>
+      <Text>.Lieut. W. H. (retired list)</Text>
       <PageNumber>5295</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -218,7 +218,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Goodchild</Key>
-      <Text>. H. W. (Lieut.)</Text>
+      <Forenames>H. W.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>6464</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -372,7 +373,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Morris</Key>
-      <Text>. A. L. (Senior Engineer)</Text>
+      <Forenames>A. L.</Forenames>
+      <Text>(Senior Engineer)</Text>
       <PageNumber>6284</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -569,7 +571,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Webb</Key>
-      <Text>. Sub-Lieut. C. H. (retired list) ... ...</Text>
+      <Forenames>Sub-</Forenames>
+      <Text>Lieut. C. H. (retired list) ... ...</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -593,7 +596,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Williams</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, W. A. (retired list)</Text>
       <PageNumber>6284</PageNumber>
     </MainItem>
@@ -649,14 +652,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Olay</Key>
-      <Text>. Senior Engineer ,T. K</Text>
+      <Forenames>Senior Engineer</Forenames>
+      <Text>,T. K</Text>
       <PageNumber>7110</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Dibb</Key>
-      <Text>. Engineer W. J</Text>
+      <Forenames>Engineer W. J</Forenames>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -742,7 +746,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Horan</Key>
-      <Text>. Rev. F. S. (Hon. Chaplain)</Text>
+      <Title>Rev.</Title>
+      <Forenames>F. S.</Forenames>
+      <Text>(Hon. Chaplain)</Text>
       <PageNumber>5919</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -757,7 +763,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Pitel</Key>
-      <Text>. F. S. (Sub-Lieut.)</Text>
+      <Forenames>F. S.</Forenames>
+      <Text>(Sub-Lieut.)</Text>
       <PageNumber>4748</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -811,7 +818,9 @@
       <Key>Domville</Key>
       <Title>Lieut. Sir</Title>
       <Forenames>J. H.</Forenames>
-      <Text>, Bart</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>5082</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -957,7 +966,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Westminster</Key>
-      <Forenames>Earl-street</Forenames>
+      <Title>Earl-street</Title>
       <Text>, leasehold premises . (Crowle-Smith v. Spencer, Santo and Co.)</Text>
       <PageNumber>6973</PageNumber>
     </MainItem>

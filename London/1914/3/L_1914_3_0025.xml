@@ -155,7 +155,9 @@
       <Key>Clerk</Key>
       <Title>Sir</Title>
       <Forenames>George J. Robert</Forenames>
-      <Text>, Bt. (Capt.) ... .:.'</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>6883</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -269,7 +271,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Crocker</Key>
-      <Text>. Reginald William (Lieut.)</Text>
+      <Forenames>Reginald William</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -309,7 +312,9 @@
     <MainItem>
       <Key>Darley</Key>
       <Forenames>Henry Read</Forenames>
-      <Text>, D.S.O. (Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6798</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -340,8 +345,18 @@
   <ItemGroup>
     <MainItem>
       <Key>De</Key>
-      <Text>la Bere, Hon. Maj. Richard N., D.S.O. (Capt.) :</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7001</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Winton</Key>
+      <Forenames>Walter</Forenames>
+      <Text>(Capt.)</Text>
+      <PageNumber>6900</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -444,8 +459,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dwyer</Key>
-      <Forenames>Hugh Michael O</Forenames>
-      <Text>'Connor (Capt.)</Text>
+      <Forenames>Hugh Michael O'Connor</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>5365</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -575,7 +590,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>William Lionel</Forenames>
-      <Text>, D.S.O. (Capt.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6882</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -917,8 +934,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Louis W. O</Forenames>
-      <Text>'Hara (Capt.)</Text>
+      <Forenames>Louis W. O'Hara</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>6901</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -941,8 +958,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hobson</Key>
-      <Forenames>Joseph A. O</Forenames>
-      <Text>'Brien (Capt.)</Text>
+      <Forenames>Joseph A. O'Brien</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -985,7 +1002,9 @@
       <Key>Houstoun-Boswall</Key>
       <Title>Sir</Title>
       <Forenames>George Reginald</Forenames>
-      <Text>, Bart. (Lieut.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>7196</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1096,7 +1115,9 @@
     <MainItem>
       <Key>Keppel</Key>
       <Title>Capt.</Title>
-      <Text>the Hon, George, M.V.O. (removal' cancelled)</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>6502</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1246,7 +1267,9 @@
       <Key>Levinge</Key>
       <Title>Sir</Title>
       <Forenames>Richard W.</Forenames>
-      <Text>, Bt. (Lieut.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>6500</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1361,7 +1384,9 @@
     <MainItem>
       <Key>Macandrew</Key>
       <Forenames>Harold</Forenames>
-      <Text>, D.S.O. (Capt.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6882</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1389,7 +1414,9 @@
     <MainItem>
       <Key>McCormick</Key>
       <Forenames>Harold Barry</Forenames>
-      <Text>, D.S.O. (Capt.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6799</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -11,8 +11,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donoghue, temp. Lt. and Adjt</Text>
+      <Key>O'Donoghue</Key>
+      <Title>temp. Lt. and Adjt.</Title>
       <PageNumber>8536</PageNumber>
     </MainItem>
     <SubItem>
@@ -22,8 +22,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Ferrall, L. R. M. (temp. Capt</Text>
+      <Key>O'Ferrall</Key>
+      <Forenames>L. R. M.</Forenames>
+      <Text>(temp. Capt</Text>
       <PageNumber>8981</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -531,7 +532,9 @@
       </Key>
       <Title>temp. 2nd Lt. Sir</Title>
       <Forenames>H.</Forenames>
-      <Text>, Bt. (temp. Lt.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>8881</PageNumber>
     </MainItem>
   </ItemGroup>

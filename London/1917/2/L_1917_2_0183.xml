@@ -46,7 +46,9 @@
       <Key>Coleridge</Key>
       <Title>temp. Capt.</Title>
       <Forenames>G. C. R.</Forenames>
-      <Text>, M.C. '(attd;) .-</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5599</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -205,7 +207,9 @@
       <Key>Colin-York</Key>
       <Title>temp. Capt.</Title>
       <Forenames>W. D.</Forenames>
-      <Text>(Workshop Offr., M.G.C.)</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>5823</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -270,7 +274,10 @@
       <Key>Collen</Key>
       <Title>Capt. and Bt. Maj. (temp. Lt.-Col.)</Title>
       <Forenames>E. H. E.</Forenames>
-      <Text>, D.S.O. (Bt. Lt.-Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>5464</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -278,8 +285,8 @@
     <MainItem>
       <Key>Collenette</Key>
       <Title>temp. 2nd Lt.</Title>
-      <Forenames>F.</Forenames>
-      <Text>de B. (temp. Lt.)</Text>
+      <Forenames>F. de B</Forenames>
+      <Text>. (temp. Lt.)</Text>
       <PageNumber>5618</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -429,7 +436,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Collier</Key>
-      <Text>, Lt. A. E., M.C. (actg. Capt.) ... ,</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4778</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -495,7 +504,7 @@
       <PageNumber>5817</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Confd</Text>
+      <Text>Confd.</Text>
       <PageNumber>5850</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -607,7 +616,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Collingridge</Key>
-      <Text>W. B. (temp. 2nd Lt.)</Text>
+      <Forenames>W. B.</Forenames>
+      <Text>(temp. 2nd Lt.)</Text>
       <PageNumber>4341</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -634,7 +644,9 @@
   <ItemGroup>
     <MainItem>
       <Key>CJoIlingwood</Key>
-      <Text>2nd Lt. A. L. (seed.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>A. L.</Forenames>
+      <Text>(seed.)</Text>
       <PageNumber>6492</PageNumber>
     </MainItem>
     <KeyDitto>___ ___ ___</KeyDitto>
@@ -649,11 +661,13 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Title>Supern. Maj. (Bt. Lt.-Col.)</Title>
-      <Text>i.actg. ^t.-.Col.) C. W., D.S.O. (restd. to estab. and retain actg. rank)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4035</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Lt.-Col</Text>
+      <Text>Lt.-Col.</Text>
       <PageNumber>6508</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -757,7 +771,9 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>JLt. (temp. Capt,) A. F. St. C, M.C. (Adjt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5711</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -779,7 +795,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>D.</Forenames>
-      <Text>iS., D.S.O. (actg. Lt.jCol.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5597</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -870,7 +888,7 @@
       <PageNumber>5695</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Actg. Capt</Text>
+      <Text>Actg. Capt.</Text>
       <PageNumber>6365</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -924,7 +942,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>H. G.</Forenames>
-      <Text>, M.C. (Maj. and seed.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6116</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -986,7 +1006,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>J. C.</Forenames>
-      <Text>(R.A.M.C.) (Lt.)„</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4426</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1334,7 +1356,11 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Title>Maj. (.temp. lit.-Col.) the Hon.</Title>
-      <Text>IE. M., M.V.O., D.S.O., (Bt. Lt.-Col.)</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>5464</PageNumber>
     </MainItem>
   </ItemGroup>

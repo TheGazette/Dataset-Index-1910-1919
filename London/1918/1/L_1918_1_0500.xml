@@ -4,8 +4,10 @@
     <MainItem>
       <Key>Travels</Key>
       <Title>Col.</Title>
-      <Forenames>J. H.</Forenames>
-      <Text>du B., C.B.,</Text>
+      <Forenames>J. H. du B</Forenames>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>710</PageNumber>
     </MainItem>
     <SubItem>
@@ -22,6 +24,7 @@
     </MainItem>
     <SubItem>
       <Text>
+        <Honour>M.C.</Honour>
         <PageNumber>106</PageNumber>
       </Text>
       <PageNumber>3101</PageNumber>
@@ -41,7 +44,9 @@
       <Key>Treadgold</Key>
       <Title>temp. Capt.</Title>
       <Forenames>C. H.</Forenames>
-      <Text>, M.D</Text>
+      <Text>
+        <Honour>M.D</Honour>
+      </Text>
       <PageNumber>2127</PageNumber>
     </MainItem>
     <SubItem>
@@ -105,8 +110,8 @@
     <MainItem>
       <Key>Tredinnick</Key>
       <Title>Lt.</Title>
-      <Forenames>J. A. St</Forenames>
-      <Text>. L. (actg. Capt.)</Text>
+      <Forenames>J. A. St. L</Forenames>
+      <Text>. (actg. Capt.)</Text>
       <PageNumber>813</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -171,7 +176,10 @@
     <MainItem>
       <Key>Treherne</Key>
       <Title>Surg.</Title>
-      <Text>-Gen. (ranking as Maj. Gen.) Sir F. H., K.C.M.G., F.R.C.S., Edin. (Maj.-Gen.)</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>2577</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -258,7 +266,9 @@
       <Key>Trenan</Key>
       <Title>2nd Lt.</Title>
       <Forenames>R.</Forenames>
-      <Text>, M.C. (Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1786</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -273,6 +283,7 @@
     <SubItem>
       <Text>
         <PageNumber>2595</PageNumber>
+        <Honour>M.C.</Honour>
       </Text>
       <PageNumber>1081</PageNumber>
     </SubItem>
@@ -312,7 +323,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Trendell</Key>
-      <Text>. temp. 2nd Lt. on prob. E. R. (Flvine Offr., and confd.)</Text>
+      <Title>temp. 2nd Lt. on prob.</Title>
+      <Forenames>E. R.</Forenames>
+      <Text>(Flvine Offr., and confd.)</Text>
       <PageNumber>3572</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -407,7 +420,12 @@
       <Key>Treves</Key>
       <Title>Hon. Col. Sir</Title>
       <Forenames>F.</Forenames>
-      <Text>, Bt., G.C.V.O., C.B., F.R.C.S. (temp. Col.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>G.C.V.O.</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>1496</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -450,7 +468,9 @@
       <Key>Trevor-Jones</Key>
       <Title>temp. Capt.</Title>
       <Forenames>J. E.</Forenames>
-      <Text>, M.C. (Adjt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2857</PageNumber>
     </MainItem>
     <SubItem>
@@ -499,7 +519,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Trewdn</Key>
-      <Text>. Lee.-Sjt. J.-H. (temp. 2nd Lt.) a</Text>
+      <Title>Lee.</Title>
+      <Text>-Sjt. J.-H. (temp. 2nd Lt.) a</Text>
       <PageNumber>511</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -534,14 +555,18 @@
       <Key>Trickett</Key>
       <Title>2nd Lt.</Title>
       <Forenames>J.</Forenames>
-      <Text>, M.C. (Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1881</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Trriefus</Key>
-      <Text>. temp. Lt. P. (actg. Capt.)</Text>
+      <Title>temp. Lt.</Title>
+      <Forenames>P.</Forenames>
+      <Text>(actg. Capt.)</Text>
       <PageNumber>414</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -604,7 +629,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Trimble</Key>
-      <Text>. Cadet A. V. (temp. 2nd Lt. on prob.)</Text>
+      <Title>Cadet</Title>
+      <Forenames>A. V.</Forenames>
+      <Text>(temp. 2nd Lt. on prob.)</Text>
       <PageNumber>97</PageNumber>
     </MainItem>
     <SubItem>
@@ -612,7 +639,10 @@
       <PageNumber>713</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>. Maj. (actg. Lt.-Cbl.) J. B. O., D.S.O., M.C. (retain actg. rank)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2131</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -665,7 +695,7 @@
       <PageNumber>1880</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>Actg. Capt</Text>
+      <Text>Actg. Capt.</Text>
       <PageNumber>2576</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -715,7 +745,9 @@
       <Key>Trist</Key>
       <Title>Capt. (temp. Maj.)</Title>
       <Forenames>L. H.</Forenames>
-      <Text>, M.C. (aotg. Lt.-Col.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3562</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -732,7 +764,7 @@
       <PageNumber>3702</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>Actg. Maj</Text>
+      <Text>Actg. Maj.</Text>
       <PageNumber>2956</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -792,6 +824,7 @@
     <SubItem>
       <Text>
         <PageNumber>692</PageNumber>
+        <Honour>M.C.</Honour>
         <PageNumber>2580</PageNumber>
       </Text>
       <PageNumber>2015</PageNumber>
@@ -800,7 +833,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Trotter</Key>
-      <Text>. Miss E. M. (Controller, W.A.A.C.)</Text>
+      <Title>Miss</Title>
+      <Forenames>E. M.</Forenames>
+      <Text>(Controller, W.A.A.C.)</Text>
       <PageNumber>2195</PageNumber>
     </MainItem>
     <SubItem>
@@ -865,7 +900,9 @@
       <PageNumber>1351</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Capt. (temp. Maj.) R. C, D.S.O. (IMaj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>785</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -894,7 +931,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Trow</Key>
-      <Text>. 2nd Lt. V. H. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>V. H.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>1159</PageNumber>
     </MainItem>
     <SubItem>
@@ -902,7 +941,7 @@
       <PageNumber>1175</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>Capt</Text>
+      <Text>Capt.</Text>
       <PageNumber>2398</PageNumber>
     </SubItem>
   </ItemGroup>

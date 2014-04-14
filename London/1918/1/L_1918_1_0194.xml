@@ -105,7 +105,9 @@
     <MainItem>
       <Key>Bushell</Key>
       <Title>Capt.</Title>
-      <Text>i(A.,/Maj.) Christopher, Companion, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>18</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -120,7 +122,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Buston</Key>
-      <Text>; Col. and Hon. Brig.-Gen. Philip Thomas, C.B., D.S.O., Companion, St. Michael and St. George</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, St. Michael and St. George</Honour>
+      </Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -129,7 +135,10 @@
       <Key>Butcher</Key>
       <Title>Col. (T./Hon.. Maj.-Gen.)</Title>
       <Forenames>George James</Forenames>
-      <Text>, C.B., C.M.G., Knight Commander, St. Michael and St. George</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -148,7 +157,9 @@
       </Key>
       <Title>Maj. and Bt. Lt.-Col. (T./Lt.Col.)</Title>
       <Forenames>Bernard Arnold Bar-</Forenames>
-      <Text>rington, Companion, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>18</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -159,7 +170,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>Bertram</Forenames>
-      <Text>, M.C., Companion, D.S.O</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1600</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -170,7 +183,10 @@
       </Key>
       <Title>Col. (T./Brig.-Gen.)</Title>
       <Forenames>Ernest Reuben Charles</Forenames>
-      <Text>, C.M.G., F.R.C.V.S., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>2</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -191,7 +207,9 @@
         <KeyDitto>___</KeyDitto>
       </Key>
       <Forenames>T.</Forenames>
-      <Text>/Maj. the Hon. Robert Thomas Royley Probyn, M.:C, Companion, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>18</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -212,7 +230,9 @@
       </Key>
       <Title>Col. (T../Brig.-Gen.)</Title>
       <Forenames>William John Chesshyre</Forenames>
-      <Text>, Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>2</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -245,7 +265,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Buzzard</Key>
-      <Text>.Lt.-Col. Charles Norman, Companion, D.S.O</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Charles Norman</Forenames>
+      <Text>, Companion, D.S.O</Text>
       <PageNumber>18</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -253,7 +275,9 @@
     <MainItem>
       <Key>Byatt</Key>
       <Forenames>Horace Archer</Forenames>
-      <Text>, C.M.G., Knight Commander, St. Michael and St. George</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>82</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -261,21 +285,28 @@
     <MainItem>
       <Key>Bye</Key>
       <Forenames>T</Forenames>
-      <Text>/Capt. Walter Roderick Grith, M.C., Companion, D.S.O</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>18</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Byng</Key>
-      <Text>. T./Lt.-Col. the Hon. Antony Sohomberg, Companion, D.S.O</Text>
+      <Forenames>T.</Forenames>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>18</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Byrne</Key>
-      <Text>. Miss Marv Christina, Royal Red Cross. 2nd Cl. (corr.)</Text>
+      <Title>Miss</Title>
+      <Forenames>Marv Christina</Forenames>
+      <Text>, Royal Red Cross. 2nd Cl. (corr.)</Text>
       <PageNumber>2175</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -290,7 +321,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Cadburv</Key>
-      <Text>. Mrs. Elizabeth Mary, Officer. Order of the British Empire</Text>
+      <Title>Mrs.</Title>
+      <Forenames>Elizabeth Mary</Forenames>
+      <Text>, Officer. Order of the British Empire</Text>
       <PageNumber>375</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -349,7 +382,10 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>William</Forenames>
-      <Text>, Member.. Order of the British Empire ... Carnwath, Capt. Thomas, M.B., Companion. D.S.O Carr. Miss Marv Roslyn, Royal Red Cross. 2nd Cl Carr-Harris. T /Capt. Ferguson Fitton, M.D., Companion, D.S.O</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>391</PageNumber>
     </MainItem>
   </ItemGroup>

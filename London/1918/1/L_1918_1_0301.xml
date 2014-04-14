@@ -43,7 +43,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Clease</Key>
-      <Text>.temp. 2nd Lt.W. E. G.(temp. Lt.)</Text>
+      <Title>temp.</Title>
+      <Text>2nd Lt.W. E. G.(temp. Lt.)</Text>
       <PageNumber>2872</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -61,11 +62,15 @@
       <Key>Cleaver</Key>
       <Title>Lt.</Title>
       <Forenames>A. E. T.</Forenames>
-      <Text>, M.C. (seed.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2614</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>temp. 2nd Lt. (now temp. Capt.) C. T., M.C. (temp. Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>413</PageNumber>
     </SubItem>
     <SubItem>
@@ -152,7 +157,9 @@
       <PageNumber>1918</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>2nd Lt. J., M.C. (seed.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3105</PageNumber>
     </SubItem>
     <SubItem>
@@ -180,7 +187,9 @@
       <Key>Clement</Key>
       <Title>temp. Capt.</Title>
       <Forenames>J.</Forenames>
-      <Text>, M.C. (temp. Lt., Gen. List)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>714</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -243,7 +252,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Clementz</Key>
-      <Text>. temp. 2nd Lt. on prob. D. M. (Flying Offr. and confd.)</Text>
+      <Title>temp. 2nd Lt. on prob.</Title>
+      <Forenames>D. M.</Forenames>
+      <Text>(Flying Offr. and confd.)</Text>
       <PageNumber>1918</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -261,7 +272,9 @@
       <Key>Cleminson</Key>
       <Title>temp. Capt. (actg. Maj.)</Title>
       <Forenames>C. R. D.</Forenames>
-      <Text>, D.S.O. (temp. Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>2034</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -307,7 +320,10 @@
       <Key>Clemson</Key>
       <Title>Lt.-Col. (T./Brig. Gen.)</Title>
       <Forenames>W. F.</Forenames>
-      <Text>, C.M.G., D.S.O. (Brevet Col.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>9</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -557,7 +573,9 @@
       <PageNumber>3715</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>temp. Lt. R. E., M.C. (actg. Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2765</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -646,7 +664,9 @@
       <Key>Clist</Key>
       <Title>temp. 2nd Lt.</Title>
       <Forenames>L. F.</Forenames>
-      <Text>, M.C. (temp. Lt.) .=</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3579</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -673,7 +693,9 @@
       <Key>Cloake</Key>
       <Title>temp. Capt.</Title>
       <Forenames>C. S.</Forenames>
-      <Text>, M.C. (rel. appt. of Adjt.) „</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1641</PageNumber>
     </MainItem>
     <SubItem>
@@ -767,8 +789,8 @@
     <MainItem>
       <Key>Clowes</Key>
       <Title>temp. Lt.</Title>
-      <Forenames>D. St</Forenames>
-      <Text>. J. (temp. Capt.)</Text>
+      <Forenames>D. St. J</Forenames>
+      <Text>. (temp. Capt.)</Text>
       <PageNumber>3830</PageNumber>
     </MainItem>
     <SubItem>

@@ -343,8 +343,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bolton</Key>
-      <Forenames>E. St</Forenames>
-      <Text>. Clair (temporary Lieut.) . :.. ; . -</Text>
+      <Forenames>E. St. Clair</Forenames>
+      <Text>(temporary Lieut.) . :.. ; . -</Text>
       <PageNumber>8735</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -695,7 +695,9 @@
       <Key>Burnaby</Key>
       <Title>Hon. Capt.</Title>
       <Forenames>Hugo Beau-</Forenames>
-      <Text>mont, D.S.O. (temporary Capt.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8638</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -836,7 +838,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Canelly</Key>
-      <Text>. T.P. (temporary Capt.)</Text>
+      <Forenames>T.P.</Forenames>
+      <Text>(temporary Capt.)</Text>
       <PageNumber>8734</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -853,7 +856,9 @@
     <MainItem>
       <Key>Carden</Key>
       <Forenames>John</Forenames>
-      <Text>, C.M.G. (temporary Maj.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -880,8 +885,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Carey</Key>
-      <Forenames>L. A.</Forenames>
-      <Text>de Vic (temporary Capt.)</Text>
+      <Forenames>L. A. de Vic</Forenames>
+      <Text>(temporary Capt.)</Text>
       <PageNumber>8991</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1079,7 +1084,9 @@
       <Key>Clarke</Key>
       <Title>Capt.</Title>
       <Forenames>Charles H. G. M.</Forenames>
-      <Text>, M.V.O. (temporary Maj.)</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>8882</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1206,7 +1213,9 @@
       <Key>Cockburn</Key>
       <Title>Sir</Title>
       <Forenames>Robert</Forenames>
-      <Text>, Bart, (temporary Maj.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>8637</PageNumber>
     </MainItem>
   </ItemGroup>

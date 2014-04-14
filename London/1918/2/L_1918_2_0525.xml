@@ -34,7 +34,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Be</Key>
-      <Text>.ikin, 2nd Lt. D. W. (Lt.)</Text>
+      <Text>ikin, 2nd Lt. D. W. (Lt.)</Text>
       <PageNumber>5721</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -113,7 +113,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>W. H.</Forenames>
-      <Text>, M.C. (actg. Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6764</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -241,7 +243,9 @@
       <Key>Dench</Key>
       <Title>Lt.</Title>
       <Forenames>R. A</Forenames>
-      <Text>, M.C. (actg. Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6874</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -267,7 +271,9 @@
       <Key>Denman</Key>
       <Title>2nd Lt.</Title>
       <Forenames>H. D.</Forenames>
-      <Text>, M.C. (Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6053</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -420,7 +426,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Denmer</Key>
-      <Text>. Lt. (acbg. Capt.) (actg. Maj. R.E.) L. H. (rel. actg. rank of Capt., retaining actg. rank of Maj.)</Text>
+      <Title>Lt. (acbg. Capt.) (actg. Maj. R.E.)</Title>
+      <Forenames>L. H.</Forenames>
+      <Text>(rel. actg. rank of Capt., retaining actg. rank of Maj.)</Text>
       <PageNumber>7455</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -616,7 +624,9 @@
       <Key>Dick</Key>
       <Title>Cadet</Title>
       <Forenames>G. S.</Forenames>
-      <Text>, M.M. (2nd Lt.)</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>4711</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -714,7 +724,9 @@
       <Key>Dickins</Key>
       <Title>Lt. (acts. Capt.)</Title>
       <Forenames>A. L. M.</Forenames>
-      <Text>, M.C. (actg. Capt addtl.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4517</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -777,8 +789,8 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Title>Capt. (actg. Maj.)</Title>
-      <Forenames>W. H.</Forenames>
-      <Text>de B. Maj., and restd. to estabt. of Gen. List), Sub. Not</Text>
+      <Forenames>W. H. de B</Forenames>
+      <Text>. Maj., and restd. to estabt. of Gen. List), Sub. Not</Text>
       <PageNumber>6191</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1096,7 +1108,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>H. B.</Forenames>
-      <Text>iF., M.C., M.B, '(aotg. Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4641</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1145,14 +1159,18 @@
   <ItemGroup>
     <MainItem>
       <Key>Dobbie</Key>
-      <Text>. Lt. A. G. { actg. Capt., addtl.)</Text>
+      <Title>Lt.</Title>
+      <Forenames>A. G.</Forenames>
+      <Text>{ actg. Capt., addtl.)</Text>
       <PageNumber>4639</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Dobie</Key>
-      <Text>. 2nd Lt. P. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>P.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>7614</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1170,7 +1188,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Dobner</Key>
-      <Text>. 2nd Lt. C. L. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>C. L.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>4851</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1527,7 +1547,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>F.</Forenames>
-      <Text>,G. (seed, for serv. with M.G.C.)</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>7582</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1705,7 +1727,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>W.</Forenames>
-      <Text>, M.C. (restd. to estabt. of RJE.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7553</PageNumber>
     </MainItem>
   </ItemGroup>

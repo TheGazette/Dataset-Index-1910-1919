@@ -465,8 +465,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hefferman</Key>
-      <Forenames>W. St</Forenames>
-      <Text>. M</Text>
+      <Forenames>W. St. M</Forenames>
       <PageNumber>4880</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -481,7 +480,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Prescott</Key>
-      <Forenames>H. W. De B.</Forenames>
+      <Forenames>H. W. De B</Forenames>
+      <Text>.</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -575,8 +575,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donald, E</Text>
+      <Key>O'Donald</Key>
+      <Forenames>E .</Forenames>
       <PageNumber>6705</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -704,8 +704,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Peel</Key>
-      <Forenames>Lieut-</Forenames>
-      <Text>Col. Hon. W. R, W</Text>
+      <Title>Lieut-Col. Hon.</Title>
+      <Forenames>W. R</Forenames>
+      <Text>, W</Text>
       <PageNumber>6288</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -737,7 +738,7 @@
     <MainItem>
       <Key>Tufnell</Key>
       <Title>Capt.</Title>
-      <Forenames>N. A. C. De H.</Forenames>
+      <Forenames>N. A. C. De H</Forenames>
       <PageNumber>6636</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -812,7 +813,9 @@
       <Key>Dewar</Key>
       <Title>Sir</Title>
       <Forenames>J. A.</Forenames>
-      <Text>, Bart .</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>___ ___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -821,7 +824,9 @@
       <Key>MacGregor</Key>
       <Title>Capt. Sir</Title>
       <Forenames>M.</Forenames>
-      <Text>, Bart. ...</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -924,8 +929,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Callaghan, M. P</Text>
+      <Key>O'Callaghan</Key>
+      <Forenames>M. P</Forenames>
       <PageNumber>5182</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1079,7 +1084,9 @@
       <Key>Blare</Key>
       <Title>Sir</Title>
       <Forenames>C. R.</Forenames>
-      <Text>, Bart.</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>

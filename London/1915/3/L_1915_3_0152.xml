@@ -147,7 +147,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Battenberg</Key>
-      <Text>.His Highness Prince ' Leopold A. L. of, K.C.V.O. (Lieut.)</Text>
+      <Text>
+        <Honour>K.C.V.O.</Honour>
+      </Text>
       <PageNumber>7867</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -428,7 +430,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Da</Key>
-      <Text>vies, L. A. E. Price, V.C., D.S.O. (Maj.)</Text>
+      <Text>
+        <Honour>V.C.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8809</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -439,6 +444,14 @@
       <Forenames>Gronow J.</Forenames>
       <Text>(to command 9th Battalion, and to be tempo-</Text>
       <PageNumber>8401</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Lisle</Key>
+      <Forenames>Launcelot</Forenames>
+      <Text>(temporary 2nd Lieut.)</Text>
+      <PageNumber>6820</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -818,7 +831,9 @@
       <Key>JeLf</Key>
       <Title>Maj.</Title>
       <Forenames>R. G.</Forenames>
-      <Text>, D.S.O. (temporary Lieut.-Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6811</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -996,7 +1011,9 @@
     <MainItem>
       <Key>Maclachlan</Key>
       <Forenames>A. F. C</Forenames>
-      <Text>, D.S.O. (Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8809</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1070,8 +1087,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Monk</Key>
-      <Forenames>Harold H.</Forenames>
-      <Text>de D. (temporary , Lieut.] ' v.. '</Text>
+      <Forenames>Harold H. de D</Forenames>
+      <Text>. (temporary , Lieut.] ' v.. '</Text>
       <PageNumber>7578</PageNumber>
     </MainItem>
   </ItemGroup>

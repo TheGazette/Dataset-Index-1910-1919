@@ -3,7 +3,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lt</Key>
-      <Text>.)</Text>
+      <Text>)</Text>
       <PageNumber>145</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -33,8 +33,8 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Title>Col. (Chief Paymr.)</Title>
-      <Forenames>P.</Forenames>
-      <Text>de S., C. M.G. (placed on ret. pay on acc. of ill-health)</Text>
+      <Forenames>P. de S</Forenames>
+      <Text>., C. M.G. (placed on ret. pay on acc. of ill-health)</Text>
       <PageNumber>3095</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -183,7 +183,9 @@
       <Key>Bate</Key>
       <Title>Col.</Title>
       <Forenames>A. L. F.</Forenames>
-      <Text>, C.M.G. (retained on active list for pay and to be supern.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>3871</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -267,7 +269,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bateman</Key>
-      <Text>. temp. lit. A. (rel. commn., and retains rank of lit.)</Text>
+      <Title>temp.</Title>
+      <Text>lit. A. (rel. commn., and retains rank of lit.)</Text>
       <PageNumber>145</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -289,7 +292,10 @@
       </Key>
       <Title>Cadet</Title>
       <Forenames>E. C.</Forenames>
-      <Text>D.C.M., M.M. (temp. 2nd lit.) ... '</Text>
+      <Text>
+        <Honour>D.C.M.</Honour>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>2683</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -309,7 +315,9 @@
       <Key>
         <KeyDitto>— ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>temr&gt;. 2nd lit. H. (M.G.C., Infy.) (temp. lit.)</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>1784</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -330,7 +338,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>H. H.</Forenames>
-      <Text>. D.S.O. (rel. act, rank of Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3256</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -340,7 +350,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Title>Ms-i.</Title>
-      <Text>fn,ct&lt;?. TA-Col.) H. R., D. S.O. (Lt.-Col.)</Text>
+      <Text>
+        <Honour>D. S.O.</Honour>
+      </Text>
       <PageNumber>1460</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -368,7 +380,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bates</Key>
-      <Text>. temr&gt;. Lt. A. R. (acts. Capt. wMM 2n,d in Comd. of a Siege BitO</Text>
+      <Text>temr&gt;. Lt. A. R. (acts. Capt. wMM 2n,d in Comd. of a Siege BitO</Text>
       <PageNumber>1321</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -406,11 +418,13 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>O</Forenames>
-      <Text>'-At H., M.M. (temp. 2nd Lt.)</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>2259</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Rel. actg. rank of Maj.</Text>
+      <Text>Rel. actg. rank of Maj</Text>
       <PageNumber>1776</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -471,7 +485,9 @@
       <Key>Bateson</Key>
       <Title>Cadet</Title>
       <Forenames>C</Forenames>
-      <Text>, M.M. (temp. 2nd Lt.)</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>2406</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -680,7 +696,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>P. W.</Forenames>
-      <Text>, M.C. (actg. Capt., comdg. a Sectn.,Tank Corps)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>149</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -952,7 +970,9 @@
       <Key>Bax</Key>
       <Title>temp. 2nd Lt.</Title>
       <Forenames>E. H.</Forenames>
-      <Text>, M.M. (temp. Lt.)</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>489</PageNumber>
     </MainItem>
     <SubItem>
@@ -1157,7 +1177,9 @@
       <Key>Bayley</Key>
       <Title>2nd Lt.</Title>
       <Forenames>A. E. S.</Forenames>
-      <Text>, M.C. (Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3270</PageNumber>
     </MainItem>
   </ItemGroup>

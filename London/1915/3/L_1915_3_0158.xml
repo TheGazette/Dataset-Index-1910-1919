@@ -195,7 +195,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hatch</Key>
-      <Text>. Laurence C. (temporary Lieut.)</Text>
+      <Forenames>Laurence C.</Forenames>
+      <Text>(temporary Lieut.)</Text>
       <PageNumber>7046</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -453,7 +454,9 @@
       <Key>Logan</Key>
       <Title>Lieut. Col.</Title>
       <Forenames>E. T.</Forenames>
-      <Text>, D.S.O. (to command a Battalion)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8832</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -609,8 +612,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connell, Maj., Reserve of Officers, James R. (to command 13th Battalion and to bo temporary Lieut.-Col.)</Text>
+      <Key>O'Connell</Key>
+      <Title>Maj.</Title>
+      <Text>, Reserve of Officers, James R. (to command 13th Battalion and to bo temporary Lieut.-Col.)</Text>
       <PageNumber>7061</PageNumber>
     </MainItem>
     <SubItem>
@@ -676,7 +680,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Paris</Key>
-      <Text>. 2nd Lieut. John R. (antedated)</Text>
+      <Title>2nd Lieut.</Title>
+      <Forenames>John R.</Forenames>
+      <Text>(antedated)</Text>
       <PageNumber>9056</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -837,8 +843,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. John, Capt. the Hon. Rowland T. (temporary Maj.)</Text>
+      <Key>St. John</Key>
+      <Title>Capt. the Hon.</Title>
+      <Forenames>Rowland T.</Forenames>
+      <Text>(temporary Maj.)</Text>
       <PageNumber>9520</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -901,7 +909,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Soltau</Key>
-      <Text>Symons, L. C, D.S.O. (Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8809</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1126,8 +1136,8 @@
     <MainItem>
       <Key>West</Key>
       <Title>Adjt.</Title>
-      <Forenames>Herbert St</Forenames>
-      <Text>. J. C. (temporary Capt:)</Text>
+      <Forenames>Herbert St. J</Forenames>
+      <Text>. C. (temporary Capt:)</Text>
       <PageNumber>8490</PageNumber>
     </MainItem>
   </ItemGroup>

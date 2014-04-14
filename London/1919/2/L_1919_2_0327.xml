@@ -3,7 +3,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Monro</Key>
-      <Text>. Maj. John Duncan, Officer, Order of the British Empire</Text>
+      <Title>Maj.</Title>
+      <Forenames>John Duncan</Forenames>
+      <Text>, Officer, Order of the British Empire</Text>
       <PageNumber>6990</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -32,7 +34,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>Frederick James Osbal-</Forenames>
-      <Text>deston, M.C., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6802</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -70,7 +74,10 @@
       </Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Percival John</Forenames>
-      <Text>,D.S.O., M.C., Companion, St. Michael and St. George</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6793</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -109,7 +116,9 @@
       <Key>Monteith</Key>
       <Title>Capt. (A./Lt.-Col.)</Title>
       <Forenames>Hugh Glencairn</Forenames>
-      <Text>, D.S.O., Officer, . Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6802</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -141,7 +150,10 @@
     <MainItem>
       <Key>Montgomery</Key>
       <Title>Maj. and Bt. Lt.-Col.</Title>
-      <Text>.(T./Lt.-CoL) Hugh Ferguson, D.S.O., Companion, St. Michael and St. George</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, St. Michael and St. George</Honour>
+      </Text>
       <PageNumber>7047</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -195,7 +207,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>Ralph Noel Vernon</Forenames>
-      <Text>, Companion, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>6819</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -224,7 +238,10 @@
       <Key>Montgomery-Smith</Key>
       <Title>Lt.-Col. (A./ Col.)</Title>
       <Forenames>Edwin Charles</Forenames>
-      <Text>, D.S.O., Companion, St. Michael and St. George</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, St. Michael and St. George</Honour>
+      </Text>
       <PageNumber>6791</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -233,7 +250,9 @@
       <Key>Mood</Key>
       <Title>Capt. (T./Maj.)</Title>
       <Forenames>John Mus-</Forenames>
-      <Text>pratt, M.C., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6803</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -339,7 +358,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Moore</Key>
-      <Text>. Maj. (T./Lt.-Col.) Francis, D.S.O., Officer, Order of the British Empire</Text>
+      <Title>Maj. (T./Lt.-Col.)</Title>
+      <Forenames>Francis</Forenames>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6974</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -360,7 +383,9 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>T.</Forenames>
-      <Text>/Capt. '(A./Maj.) Frederick William, M.C., Companion, D.S.O '</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6819</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -392,7 +417,9 @@
       </Key>
       <Title>Capt. (T./Maj.)</Title>
       <Forenames>Harold Ed-</Forenames>
-      <Text>ward, M.C., Companion, D.S.O</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6819</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -402,7 +429,9 @@
         <KeyDitto>___ —— ___ ___</KeyDitto>
       </Key>
       <Forenames>T.</Forenames>
-      <Text>/Maj. Harold Mead, M.C., Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7000</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -424,7 +453,9 @@
       </Key>
       <Title>Qrmr. and Capt.</Title>
       <Forenames>James</Forenames>
-      <Text>, M.C., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6803</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -466,7 +497,10 @@
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
       <Title>Col. and Hon. Maj.-Gen. (T./Brig.-Gen.) John.</Title>
-      <Text>C.B., C.M.G., F.R.C.V.S., Knight Commander, St. Michael and St. George</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>7420</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -497,7 +531,10 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Norman</Forenames>
-      <Text>, M.D., F.R.C.P., created Baronet</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>5420</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -528,7 +565,9 @@
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
       <Title>Lt.-Col. and Bt.</Title>
-      <Text>-Col. Robert Reginald Heber, M.D., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>6982</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -548,7 +587,10 @@
       <Key>Moore-Gwyn</Key>
       <Title>Capt.</Title>
       <Forenames>Howel Gwyn</Forenames>
-      <Text>, M.C., Companion, D.S.O</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>6819</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -641,7 +683,11 @@
   <ItemGroup>
     <MainItem>
       <Key>More</Key>
-      <Text>. Lt.-Col. (A./Brig.-Gen.)Robert Henry, C.M.G., Commander, Order of the British Empire</Text>
+      <Title>Lt.-Col. (A./Brig.-Gen.)</Title>
+      <Forenames>Robert Henry</Forenames>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>7026</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -711,7 +757,10 @@
       </Key>
       <Title>Col.</Title>
       <Forenames>Claude Kyd</Forenames>
-      <Text>, C.M.G., M.B., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>6977</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -733,7 +782,9 @@
       </Key>
       <Title>Col.</Title>
       <Forenames>Frederick Jame</Forenames>
-      <Text>3, C.M.G., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>6794</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -754,7 +805,10 @@
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
       <Title>Lt.-Col. and Bt.</Title>
-      <Text>-Col. (T./Brig.Gen.) Hill Godfrey, C.B., C. M.G., D.S.O., Knight Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7426</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -851,7 +905,9 @@
       </Key>
       <Title>Capt. (A./Maj.)</Title>
       <Forenames>William Duthie</Forenames>
-      <Text>, M.C., Companion, D. S.O</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6819</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -888,7 +944,9 @@
       </Key>
       <Title>2nd Lt. (Hon. Lt.-Col.) Sir Theodor-.</Title>
       <Forenames>K.C.S.I.</Forenames>
-      <Text>, K.C.I.E., Commander, Order of the British Empire, transferred to Military Division</Text>
+      <Text>
+        <Honour>K.C.I.E.</Honour>
+      </Text>
       <PageNumber>4976</PageNumber>
     </MainItem>
   </ItemGroup>

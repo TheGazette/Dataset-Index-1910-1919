@@ -165,7 +165,8 @@
   <ItemGroup>
     <MainItem>
       <Key>LesterCapt</Key>
-      <Text>. A. M. (seed.)</Text>
+      <Forenames>A. M.</Forenames>
+      <Text>(seed.)</Text>
       <PageNumber>235</PageNumber>
     </MainItem>
     <SubItem>
@@ -220,7 +221,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Levick</Key>
-      <Text>iCapt. H. D., M.B., F.R.C.S. (trd.)</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>1646</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -402,7 +405,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Lewisham</Key>
-      <Text>.Maj. W., Visct. .,</Text>
+      <Title>Maj.</Title>
+      <Forenames>W.</Forenames>
+      <Text>, Visct. .,</Text>
       <PageNumber>3074</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -457,7 +462,9 @@
       <Key>Liddell</Key>
       <Title>Capt.</Title>
       <Forenames>H.</Forenames>
-      <Text>, M.C. (actg. Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2966</PageNumber>
     </MainItem>
     <SubItem>
@@ -514,8 +521,8 @@
     <MainItem>
       <Key>Lidiard</Key>
       <Title>Cadet</Title>
-      <Forenames>H. D. St</Forenames>
-      <Text>. J, (2nd Lt</Text>
+      <Forenames>H. D. St. J</Forenames>
+      <Text>, (2nd Lt</Text>
       <PageNumber>3073</PageNumber>
     </MainItem>
     <SubItem>
@@ -593,7 +600,9 @@
       <Key>Lincoln</Key>
       <Title>temp. Capt. (actg. Maj.)</Title>
       <Forenames>J. W.</Forenames>
-      <Text>, M.C., A.M.I.E.E. (rel. temp, rank, and rem. seed., retaining.actg rank of Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3568</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -674,18 +683,27 @@
   <ItemGroup>
     <MainItem>
       <Key>Linfoot</Key>
-      <Text>. Lt. G.. M.C. (actg. Capt.)</Text>
+      <Title>Lt.</Title>
+      <Forenames>G.</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2695</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Lt. (actg. Capt.) H. A., D.S.O., M.C. (actg. Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3552</PageNumber>
     </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Ling</Key>
-      <Text>. 2nd Lt. G. A. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>G. A.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>109</PageNumber>
     </MainItem>
     <SubItem>
@@ -745,14 +763,18 @@
       <Key>Linzell</Key>
       <Title>temp. Lt.</Title>
       <Forenames>E. L.</Forenames>
-      <Text>, M.C. (actg. Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1070</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Lipsoombe</Key>
-      <Text>. 2nd Lt. A. L. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>A. L.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>3269</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -775,25 +797,29 @@
   <ItemGroup>
     <MainItem>
       <Key>Lissack</Key>
-      <Text>. 2nd Lt. (M. S. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Text>(M. S. (Lt.)</Text>
       <PageNumber>2282</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>List</Key>
-      <Text>. iSljt. J. J. (2nd Lt.)</Text>
+      <Text>iSljt. J. J. (2nd Lt.)</Text>
       <PageNumber>3585</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Lister</Key>
-      <Text>. Capt. A. ' E. (tod.)</Text>
+      <Title>Capt.</Title>
+      <Forenames>A.</Forenames>
+      <Text>' E. (tod.)</Text>
       <PageNumber>2477</PageNumber>
     </MainItem>
     <SubItem>
       <Text>
+        <Honour>M.C.</Honour>
         <PageNumber>2298</PageNumber>
       </Text>
       <PageNumber>1911</PageNumber>
@@ -802,7 +828,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Litchfield</Key>
-      <Text>. Capt. H. F. (trd. and Adit.)</Text>
+      <Title>Capt.</Title>
+      <Forenames>H. F.</Forenames>
+      <Text>(trd. and Adit.)</Text>
       <PageNumber>1166</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -822,11 +850,13 @@
       </Key>
       <Title>2nd Lt.</Title>
       <Forenames>D.G</Forenames>
-      <Text>:, M.C. (Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3705</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>: Cadet F; G. (2nd Lt.) .;</Text>
+      <Text>: Cadet F; G. (2nd Lt.) .;.</Text>
       <PageNumber>2453</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -908,7 +938,9 @@
       <Key>Llewellyn</Key>
       <Title>Capt. (temp.)</Title>
       <Forenames>H.</Forenames>
-      <Text>, D.S.O. (Capt.), Sub. Not</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>2464</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1000,11 +1032,13 @@
   <ItemGroup>
     <MainItem>
       <Key>Lockwood</Key>
-      <Text>. Lt. C. W. (Capt.)</Text>
+      <Title>Lt.</Title>
+      <Forenames>C. W.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>675</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>.Sub. Not</Text>
+      <Text>.Sub. Not.</Text>
       <PageNumber>2455</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1142,7 +1176,9 @@
       <Key>Longbottom</Key>
       <Title>Maj.</Title>
       <Forenames>T.</Forenames>
-      <Text>, D.S.O. (actg</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>2864</PageNumber>
     </MainItem>
   </ItemGroup>

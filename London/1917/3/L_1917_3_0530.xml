@@ -49,7 +49,9 @@
       <Key>Veale</Key>
       <Title>Maj.</Title>
       <Forenames>R. A.</Forenames>
-      <Text>, M.D. (seed.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>8536</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -447,7 +449,9 @@
       </Key>
       <Title>Capt. (actg. Lt.-Col.)</Title>
       <Forenames>W. B.</Forenames>
-      <Text>, M.C. (reverts to actg. rank of Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9815</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -597,9 +601,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Von</Key>
-      <Forenames>Treuenfels</Forenames>
-      <Text>, Lt. (temp. Capt.) C. O. (rel. actg. rank of Maj.)</Text>
+      <Key>Von Treuenfels</Key>
+      <Title>Lt. (temp. Capt.)</Title>
+      <Forenames>C. O.</Forenames>
+      <Text>(rel. actg. rank of Maj.)</Text>
       <PageNumber>7901</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -709,7 +714,9 @@
       <Key>Waddingham</Key>
       <Title>2nd Lt.</Title>
       <Forenames>J. H.</Forenames>
-      <Text>, M.C. (Lt. and restd. to estab.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8008</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -978,7 +985,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Wainwright</Key>
-      <Text>2nd Lt. (temp. Lt.) S. T. (Lt. and rem. seed.)</Text>
+      <Title>2nd Lt. (temp. Lt.)</Title>
+      <Forenames>S. T.</Forenames>
+      <Text>(Lt. and rem. seed.)</Text>
       <PageNumber>8884</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1112,7 +1121,10 @@
       <Key>Wales</Key>
       <Title>Capt. H.R.H.</Title>
       <Forenames>Edward A. C. G. A. P. D.</Forenames>
-      <Text>Prince of, K.G., M.C. (apptd. to Hon. Colonelcy of a Bn.)</Text>
+      <Text>
+        <Honour>K.G.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6790</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -310,8 +310,8 @@
     <MainItem>
       <Key>Hughes</Key>
       <Title>Capt.</Title>
-      <Forenames>Ernest St</Forenames>
-      <Text>. G. A. (to be seconded)</Text>
+      <Forenames>Ernest St. G</Forenames>
+      <Text>. A. (to be seconded)</Text>
       <PageNumber>10933</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -399,7 +399,9 @@
     <MainItem>
       <Key>Huntingdon</Key>
       <Title>Hon. Capt.</Title>
-      <Text>in the Army Arthur William, D.S.O. (temporary Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8615</PageNumber>
     </MainItem>
     <SubItem>
@@ -828,7 +830,9 @@
       <Key>Kennard</Key>
       <Title>Maj.</Title>
       <Forenames>A. M.</Forenames>
-      <Text>, D.S.O. (correction of date)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8647</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -868,7 +872,10 @@
       <Key>Kenyon</Key>
       <Title>Col.</Title>
       <Forenames>Lloyd</Forenames>
-      <Text>, Lord, K.C.V.O., A.D.C. (temporary Lieut.-Col.)</Text>
+      <Text>
+        <Honour>K.C.V.O.</Honour>
+        <Honour>A.D.C.</Honour>
+      </Text>
       <PageNumber>10901</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1020,8 +1027,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lawson-Johnston</Key>
-      <Title>Supy.</Title>
-      <Forenames>Lieut</Forenames>
+      <Title>Supy. Lieut</Title>
       <Text>; Arthur McW. (absorbed into the establishment)</Text>
       <PageNumber>8863</PageNumber>
     </MainItem>
@@ -1138,7 +1144,9 @@
       <Key>Leighton</Key>
       <Title>Sir</Title>
       <Forenames>Bryan B.</Forenames>
-      <Text>, Bart. (Lieut.-Col.) ... '... ,</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>8768</PageNumber>
     </MainItem>
   </ItemGroup>

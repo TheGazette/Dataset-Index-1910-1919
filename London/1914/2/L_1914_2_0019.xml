@@ -38,8 +38,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Coventry</Key>
-      <Forenames>William St</Forenames>
-      <Text>. J. (Lieut.)</Text>
+      <Forenames>William St. J</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>2880</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -89,7 +89,9 @@
     <MainItem>
       <Key>Pilcher</Key>
       <Forenames>Thomas David</Forenames>
-      <Text>, C.B. (Colonel)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>3294</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -197,7 +199,9 @@
       <PageNumber>4537</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>Graham, Edward Ritchie Coryton, C.B. (Colonel)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>3664</PageNumber>
     </SubItem>
     <SubItem>
@@ -265,8 +269,13 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, Hon. Major-Gen. Sir Luke, V.C., K.C.B. (Colonel)</Text>
+      <Key>O'Connor</Key>
+      <Title>Hon. Major-Gen. Sir</Title>
+      <Forenames>Luke</Forenames>
+      <Text>
+        <Honour>V.C.</Honour>
+        <Honour>K.C.B.</Honour>
+      </Text>
       <PageNumber>4618</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -343,7 +352,9 @@
     <MainItem>
       <Key>Leigh</Key>
       <Forenames>Chandos</Forenames>
-      <Text>, D.S.O. (Major)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4702</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -436,8 +447,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ingram</Key>
-      <Forenames>John O</Forenames>
-      <Text>'D. (Major) ...</Text>
+      <Forenames>John O'D</Forenames>
+      <Text>. (Major) ...</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -679,8 +690,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Carey</Key>
-      <Forenames>Rupert O</Forenames>
-      <Text>'D. (Lieut.)</Text>
+      <Forenames>Rupert O'D</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>4985</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -691,6 +702,14 @@
       <Forenames>Robert S.</Forenames>
       <Text>(seconded for service under atha Colonial Office) ... :</Text>
       <PageNumber>3555</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Wend</Key>
+      <Forenames>Douglas F.</Forenames>
+      <Text>(Lieut.)</Text>
+      <PageNumber>2880</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -785,8 +804,8 @@
     <MainItem>
       <Key>Julius</Key>
       <Title>Capt.</Title>
-      <Forenames>Stanley</Forenames>
-      <Text>de V. A. (seconded)</Text>
+      <Forenames>Stanley de V</Forenames>
+      <Text>. A. (seconded)</Text>
       <PageNumber>3838</PageNumber>
     </MainItem>
   </ItemGroup>

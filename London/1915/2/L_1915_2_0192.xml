@@ -177,6 +177,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>du Boulay</Key>
+      <Forenames>Hubert L. Houssemayne</Forenames>
+      <Text>(2nd Lieut, on probation)</Text>
+      <PageNumber>5115</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Dubois</Key>
       <Forenames>Alexander J.</Forenames>
       <Text>(Capt.), supplementary</Text>
@@ -427,7 +435,7 @@
   <ItemGroup>
     <MainItem>
       <Key>D</Key>
-      <Text>.umt, Leslie Ambrose (2nd Lieut. on probation)</Text>
+      <Text>umt, Leslie Ambrose (2nd Lieut. on probation)</Text>
       <PageNumber>5644</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -486,7 +494,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Stewart B. B.</Forenames>
-      <Text>, D.S.O. (Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3950</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1036,7 +1046,8 @@
   <ItemGroup>
     <MainItem>
       <Key>English</Key>
-      <Text>. Bertram Mansfield (2nd; Lieut, on probation)</Text>
+      <Forenames>Bertram Mansfield</Forenames>
+      <Text>(2nd; Lieut, on probation)</Text>
       <PageNumber>3569</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1245,8 +1256,8 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Title>2nd Lieut.</Title>
-      <Forenames>R. Du B.</Forenames>
-      <Text>(correction)</Text>
+      <Forenames>R. Du B</Forenames>
+      <Text>. (correction)</Text>
       <PageNumber>5082</PageNumber>
     </MainItem>
   </ItemGroup>

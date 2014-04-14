@@ -211,6 +211,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Witt</Key>
+      <Forenames>Carel Archibald</Forenames>
+      <Text>(temporary 2nd Lieut.)</Text>
+      <PageNumber>4766</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Dickes</Key>
       <Title>(temporary) Lieut.</Title>
       <Forenames>Alfred</Forenames>
@@ -257,7 +265,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Evans</Key>
-      <Text>. Reginald Charles (temporary 2nd Lieut.)</Text>
+      <Forenames>Reginald Charles</Forenames>
+      <Text>(temporary 2nd Lieut.)</Text>
       <PageNumber>3817</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -288,7 +297,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Freeman</Key>
-      <Text>. Lieut. Henry (2nd Lieut.)</Text>
+      <Title>Lieut.</Title>
+      <Forenames>Henry</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>6140</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -303,7 +314,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fricker</Key>
-      <Text>. Eric (temporary Lieut.)</Text>
+      <Forenames>Eric</Forenames>
+      <Text>(temporary Lieut.)</Text>
       <PageNumber>4069</PageNumber>
     </MainItem>
     <SubItem>
@@ -322,7 +334,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gray</Key>
-      <Text>. Francis Martello (temporary 2nd Lieut.)</Text>
+      <Forenames>Francis Martello</Forenames>
+      <Text>(temporary 2nd Lieut.)</Text>
       <PageNumber>5517</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1039,7 +1052,9 @@
       <Key>Umfreville</Key>
       <Title>Capt.</Title>
       <Forenames>Harry K.</Forenames>
-      <Text>, D.S.O. (to command the 10th Battalion and be temporary Lieut.-Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3584</PageNumber>
     </MainItem>
   </ItemGroup>

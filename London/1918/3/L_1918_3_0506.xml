@@ -10,7 +10,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Dettmar</Key>
-      <Text>.C. L., D.S.C. (actg 'Lt.Cdr.) ... .. ~</Text>
+      <Forenames>C. L.</Forenames>
+      <Text>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>7769</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -20,16 +23,10 @@
       <Text>; W. (Ch. Wt. Eng.)</Text>
       <PageNumber>9268</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
-      </Key>
-      <Forenames>N.</Forenames>
-      <Text>(temp. Lt.)</Text>
+    <SubItem>
+      <Text>N. (temp. Lt.)</Text>
       <PageNumber>7943</PageNumber>
-    </MainItem>
+    </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
@@ -81,19 +78,16 @@
     <MainItem>
       <Key>Edwards</Key>
       <Forenames>C</Forenames>
-      <Text>, D.S.O., R.D. (aotg. Cdr.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>7769</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___</KeyDitto>
-      </Key>
-      <Forenames>F. F.</Forenames>
-      <Text>(temp. Lt.)</Text>
+    <SubItem>
+      <Text>F. F. (temp. Lt.)</Text>
       <PageNumber>7943</PageNumber>
-    </MainItem>
+    </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
@@ -116,16 +110,10 @@
       <Text>AO. L. (Lt. retd.)</Text>
       <PageNumber>8612</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___</KeyDitto>
-      </Key>
-      <Forenames>M. V.</Forenames>
-      <Text>(temp. Lt.)</Text>
+    <SubItem>
+      <Text>M. V. (temp. Lt.)</Text>
       <PageNumber>8200</PageNumber>
-    </MainItem>
+    </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
@@ -176,16 +164,10 @@
       <Text>(temp. Eng. Sub-Lt.)</Text>
       <PageNumber>11091</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
-      </Key>
-      <Forenames>H. W.</Forenames>
-      <Text>(temp. Sub-Lt.)</Text>
+    <SubItem>
+      <Text>H. W. (temp. Sub-Lt.)</Text>
       <PageNumber>11344</PageNumber>
-    </MainItem>
+    </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
@@ -230,7 +212,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Frost</Key>
-      <Text>. G. (Sub.-Lt)</Text>
+      <Forenames>G.</Forenames>
+      <Text>(Sub.-Lt)</Text>
       <PageNumber>9268</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -238,7 +221,9 @@
     <MainItem>
       <Key>Gardner</Key>
       <Forenames>R. M.</Forenames>
-      <Text>, R.D. (Lt.-Cdr.)</Text>
+      <Text>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>9701</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -412,15 +397,12 @@
       <Text>(temp. Sub-Lt.) .. '</Text>
       <PageNumber>8612</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___ ___ ___ .</KeyDitto>
-      </Key>
-      <Text>FW., D.S.O. (temp, actg. Lt.-Cdr.)</Text>
+    <SubItem>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7769</PageNumber>
-    </MainItem>
+    </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
@@ -469,7 +451,7 @@
   <ItemGroup>
     <MainItem>
       <Key>
-        <KeyDitto>___ ___ —</KeyDitto>
+        <KeyDitto>—</KeyDitto>
       </Key>
       <Forenames>H. R.</Forenames>
       <Text>(temp. Eng. Lt.)</Text>
@@ -579,7 +561,9 @@
     <MainItem>
       <Key>Hawkins</Key>
       <Forenames>E. M.</Forenames>
-      <Text>, D.S.O. (actg. Cdr.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7769</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -603,7 +587,9 @@
     <MainItem>
       <Key>Hayward</Key>
       <Forenames>C</Forenames>
-      <Text>, R.D. (aotg. Cdr., retd.)</Text>
+      <Text>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>7769</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -631,17 +617,10 @@
       <Text>-Cdr. E. (placed on retd. list with rank of Cdr.)</Text>
       <PageNumber>10176</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___ ___</KeyDitto>
-      </Key>
-      <Title>Lt.</Title>
-      <Forenames>R.</Forenames>
-      <Text>(to retain rank on relg. appt.)</Text>
+    <SubItem>
+      <Text>Lt. R. (to retain rank on relg. appt.)</Text>
       <PageNumber>9464</PageNumber>
-    </MainItem>
+    </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
@@ -671,7 +650,9 @@
     <MainItem>
       <Key>Hewson</Key>
       <Forenames>J.</Forenames>
-      <Text>, R.D. (Cdr.)</Text>
+      <Text>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>7769</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -813,7 +794,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Hutchinson</Key>
-      <Text>.H., R.D. (aotg. Capt.)</Text>
+      <Text>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>7769</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -829,14 +812,16 @@
     <MainItem>
       <Key>Irving</Key>
       <Forenames>E. K.</Forenames>
-      <Text>, D.S.C. (actg. LVCdr.)</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>7769</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>
-        <KeyDitto>— ___ ___</KeyDitto>
+        <KeyDitto>—</KeyDitto>
       </Key>
       <Forenames>R. H.</Forenames>
       <Text>(temp. Lt.)</Text>
@@ -871,7 +856,9 @@
     <MainItem>
       <Key>Jickell</Key>
       <Forenames>J</Forenames>
-      <Text>„ D.S.C. (temp. Lt.)</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>9701</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -890,26 +877,12 @@
       <Text>(temp. Lt.-Cdr.)</Text>
       <PageNumber>10784</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>R. H</Forenames>
-      <Text>; (temp. Eng. Sub-Lt.)</Text>
-      <PageNumber>8201</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ .</KeyDitto>
-      </Key>
-      <Forenames>T.</Forenames>
-      <Text>(temp. Lt.) .-</Text>
+    <SubItem>
+      <Text>
+        <PageNumber>8201</PageNumber>
+      </Text>
       <PageNumber>9381</PageNumber>
-    </MainItem>
+    </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
@@ -923,7 +896,9 @@
     <MainItem>
       <Key>Keigwin</Key>
       <Forenames>C. T.</Forenames>
-      <Text>, R.D. (actg. Cdrr)</Text>
+      <Text>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>7769</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -938,7 +913,7 @@
   <ItemGroup>
     <MainItem>
       <Key>
-        <KeyDitto>___ —— ___ ___</KeyDitto>
+        <KeyDitto>——</KeyDitto>
       </Key>
       <Forenames>D. R.</Forenames>
       <Text>(temp. Sub-Lt.)</Text>
@@ -956,7 +931,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kirkealdie</Key>
-      <Text>. W. K. (temp. Eng. Sub-Lt.)</Text>
+      <Forenames>W. K.</Forenames>
+      <Text>(temp. Eng. Sub-Lt.)</Text>
       <PageNumber>10394</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1003,7 +979,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lahg</Key>
-      <Text>.G. H. D. (temp. Eng. Lt.-Cdr.)</Text>
+      <Forenames>G. H. D.</Forenames>
+      <Text>(temp. Eng. Lt.-Cdr.)</Text>
       <PageNumber>11194</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1034,7 +1011,7 @@
   <ItemGroup>
     <MainItem>
       <Key>
-        <KeyDitto>___ — ___</KeyDitto>
+        <KeyDitto>—</KeyDitto>
       </Key>
       <Forenames>O. J. P.</Forenames>
       <Text>(aotg. Lt.-Cdr.)</Text>
@@ -1048,16 +1025,10 @@
       <Text>; J. (temp. Lt.)</Text>
       <PageNumber>8503</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>J. W.</Forenames>
-      <Text>(Lt.)</Text>
+    <SubItem>
+      <Text>J. W. (Lt.)</Text>
       <PageNumber>9827</PageNumber>
-    </MainItem>
+    </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
@@ -1071,7 +1042,9 @@
     <MainItem>
       <Key>Lightoller</Key>
       <Forenames>C. H.</Forenames>
-      <Text>, D.S.C. (actg. Lt.-Cdr.)</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>7769</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1114,7 +1087,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Loveday</Key>
-      <Text>C.H. (temp. Payr.)</Text>
+      <Text>
+        <Honour>C.H.</Honour>
+      </Text>
       <PageNumber>9827</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1122,7 +1097,9 @@
     <MainItem>
       <Key>Lovegrove</Key>
       <Forenames>A. V. R.</Forenames>
-      <Text>, R.D. (Cdr.)</Text>
+      <Text>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>7769</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1149,16 +1126,10 @@
       <Text>(temp. Eng. Sub-Lt.)</Text>
       <PageNumber>7768</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___</KeyDitto>
-      </Key>
-      <Forenames>N.</Forenames>
-      <Text>(temp. Lt.)</Text>
+    <SubItem>
+      <Text>N. (temp. Lt.)</Text>
       <PageNumber>10549</PageNumber>
-    </MainItem>
+    </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
@@ -1296,7 +1267,9 @@
     <MainItem>
       <Key>Malpas</Key>
       <Forenames>J. H.</Forenames>
-      <Text>, R.D. (Lt.-Cdr.) .. -</Text>
+      <Text>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>9701</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1315,26 +1288,10 @@
       <Text>(temp. Eng. Lt.)</Text>
       <PageNumber>9382</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>R. T.</Forenames>
-      <Text>(aotg. Lt.-Cdr.)</Text>
+    <SubItem>
+      <Text>R. T. (aotg. Lt.-Cdr.)</Text>
       <PageNumber>7769</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>W. W.</Forenames>
-      <Text>(Lt.) .. '</Text>
-      <PageNumber>9827</PageNumber>
-    </MainItem>
+    </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
@@ -1353,7 +1310,9 @@
     <MainItem>
       <Key>Mason</Key>
       <Forenames>R. G. W.</Forenames>
-      <Text>, R.D. (aotg. Cdr.)</Text>
+      <Text>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>7769</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1361,14 +1320,16 @@
     <MainItem>
       <Key>Matheson</Key>
       <Forenames>C. G</Forenames>
-      <Text>, D.S.O. (actg. Cdr.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7769</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>
-        <KeyDitto>—— ___ ___</KeyDitto>
+        <KeyDitto>——</KeyDitto>
       </Key>
       <Forenames>T</Forenames>
       <Text>: A. (Lt.-Cdr.)</Text>
@@ -1434,7 +1395,7 @@
   <ItemGroup>
     <MainItem>
       <Key>
-        <KeyDitto>—___ ___</KeyDitto>
+        <KeyDitto>—</KeyDitto>
       </Key>
       <Text>LI G. (temp. Eng. Sub-Lt.)</Text>
       <PageNumber>9114</PageNumber>
@@ -1503,16 +1464,10 @@
       <Text>(temp. Asst. Payr.)</Text>
       <PageNumber>9382</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>P. A.</Forenames>
-      <Text>(Lt.)</Text>
+    <SubItem>
+      <Text>P. A. (Lt.)</Text>
       <PageNumber>10394</PageNumber>
-    </MainItem>
+    </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
@@ -1620,8 +1575,11 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, W. J., R.D. (actg. Cdr.)</Text>
+      <Key>O'Neill</Key>
+      <Forenames>W. J.</Forenames>
+      <Text>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>7769</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1758,7 +1716,9 @@
     <MainItem>
       <Key>Pickford</Key>
       <Forenames>G. T.</Forenames>
-      <Text>, R.D. (Cdr.)</Text>
+      <Text>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>7769</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1809,16 +1769,10 @@
       <Text>(temp. Eng. Lt.)</Text>
       <PageNumber>9701</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___ -</KeyDitto>
-      </Key>
-      <Forenames>A. M.</Forenames>
-      <Text>(temp. Sub-Lt.)</Text>
+    <SubItem>
+      <Text>-A. M. (temp. Sub-Lt.)</Text>
       <PageNumber>9701</PageNumber>
-    </MainItem>
+    </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
@@ -1851,16 +1805,10 @@
       <Text>(temp. Sub-Lt.)</Text>
       <PageNumber>11194</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___ ___</KeyDitto>
-      </Key>
-      <Forenames>J.</Forenames>
-      <Text>(temp. Eng. Sub-Lt.)</Text>
+    <SubItem>
+      <Text>J. (temp. Eng. Sub-Lt.)</Text>
       <PageNumber>7768</PageNumber>
-    </MainItem>
+    </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
@@ -1916,16 +1864,10 @@
       <Text>(temp. Lt.)</Text>
       <PageNumber>9009</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
-      </Key>
-      <Forenames>T. A.</Forenames>
-      <Text>(temp. Eng. Sub-Lt.) '</Text>
+    <SubItem>
+      <Text>T. A. (temp. Eng. Sub-Lt.) '</Text>
       <PageNumber>9114</PageNumber>
-    </MainItem>
+    </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
@@ -1959,6 +1901,5 @@
       <PageNumber>9827</PageNumber>
     </MainItem>
   </ItemGroup>
-  <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
 </Index>
 

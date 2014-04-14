@@ -653,7 +653,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Wiinwriqht</Key>
-      <Text>Lieut.-Col. Charles Richard (Hon. Col.)</Text>
+      <Title>Lieut.-Col.</Title>
+      <Forenames>Charles Richard</Forenames>
+      <Text>(Hon. Col.)</Text>
       <PageNumber>3473</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -792,7 +794,10 @@
     <MainItem>
       <Key>Addison</Key>
       <Forenames>Christopher</Forenames>
-      <Text>, M.D., F.R.C.S. (Surgeon-Capt.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>3234</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -808,7 +813,9 @@
     <MainItem>
       <Key>Newton</Key>
       <Forenames>Duncan G.</Forenames>
-      <Text>, M.B., F.R.C.S. (Edin.), (SurgeonMajor)</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>3234</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -848,8 +855,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Mitchell</Key>
-      <Forenames>Lieut-</Forenames>
-      <Text>Col. Thomas W. H. (retired)</Text>
+      <Title>Lieut-Col.</Title>
+      <Forenames>Thomas W. H.</Forenames>
+      <Text>(retired)</Text>
       <PageNumber>2884</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -945,7 +953,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Coulson</Key>
-      <Text>William H. (Capt.)</Text>
+      <Forenames>William H.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>4897</PageNumber>
     </MainItem>
   </ItemGroup>

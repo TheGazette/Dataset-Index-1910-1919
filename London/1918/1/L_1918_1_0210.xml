@@ -138,7 +138,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Hornell</Key>
-      <Text>. Capt. Robert ArEhur, Companion, D.S.O</Text>
+      <Title>Capt.</Title>
+      <Forenames>Robert</Forenames>
+      <Text>ArEhur, Companion, D.S.O</Text>
       <PageNumber>2977</PageNumber>
     </MainItem>
     <SubItem>
@@ -181,6 +183,7 @@
     </MainItem>
     <SubItem>
       <Text>
+        <Honour>D.S.O.</Honour>
         <PageNumber>22</PageNumber>
       </Text>
       <PageNumber>22</PageNumber>
@@ -189,7 +192,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Houghton-Gastrell</Key>
-      <Text>. T./Lt.-Col. Sir William Henry, M.P, Companion, St. Michael and St. George</Text>
+      <Forenames>T.</Forenames>
+      <Text>
+        <Honour>Companion, St. Michael and St. George</Honour>
+      </Text>
       <PageNumber>8</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -280,7 +286,9 @@
       <Key>Howorth</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Henry Godfrey</Forenames>
-      <Text>, Companion, St. Michael and St. George</Text>
+      <Text>
+        <Honour>Companion, St. Michael and St. George</Honour>
+      </Text>
       <PageNumber>8</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -313,7 +321,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Hudson</Key>
-      <Text>. Lt.-Col. Charles Tilson, Companion, St. Michael and St. George</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Charles Tilson</Forenames>
+      <Text>
+        <Honour>Companion, St. Michael and St. George</Honour>
+      </Text>
       <PageNumber>4</PageNumber>
     </MainItem>
     <SubItem>
@@ -360,6 +372,7 @@
     </MainItem>
     <SubItem>
       <Text>
+        <Honour>D.S.O.</Honour>
         <PageNumber>22</PageNumber>
       </Text>
       <PageNumber>398</PageNumber>
@@ -372,11 +385,15 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>Edward William</Forenames>
-      <Text>, M.C, Companion, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>22</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Maj. {A./Lt.-Col.) William, M.C, Companion, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>22</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -418,7 +435,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Hulton</Key>
-      <Text>. Maj. Henry Home, Companion, D.S.O</Text>
+      <Title>Maj.</Title>
+      <Forenames>Henry Home</Forenames>
+      <Text>, Companion, D.S.O</Text>
       <PageNumber>22</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -427,7 +446,9 @@
       <Key>Hume</Key>
       <Title>Maj.</Title>
       <Forenames>Walter Vernon</Forenames>
-      <Text>, Companion, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>22</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -435,7 +456,9 @@
     <MainItem>
       <Key>Humphrey</Key>
       <Title>Asst. Prin. Chapln.</Title>
-      <Text>and T./Chapln, 3rd CI, Rev. .Frederick James Harry, Companion, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>1801</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -461,7 +484,11 @@
       <Key>Hussey</Key>
       <Title>Col. (T./Brig.-Gen.)</Title>
       <Forenames>Arthur Herbert</Forenames>
-      <Text>, C.B, Companion, St. Michael and St. George Hutcheson, Capt. John, M:C, Companion, D.S.O Hutchings, Alan, Officer, Order of the British Empire Miss Ethel, Royal Red Cross, 2nd CI. Hutchinson, Arthur, Officer, Order of the British Empire Miss Eleanor R, Royal Red Cross, 2nd CI. (corr.) Wilfred Leavold, Member, Order of the British Empire Hutchison, Capt. (A./Maj.) Colin Ross Marshall, M.C, Companion, D.S.O Maj. and Bt. Col. (T./Maj.Gen.) Robert, D.S.O, Companion, Order of the Bath ... . Robert Oliphant, Member, Order of the British Empire Hutt, Lt. Alfred, Member, Order of the British Empire , John, Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>Companion, St. Michael and St. George</Honour>
+        <Honour>Bt</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>398</PageNumber>
     </MainItem>
   </ItemGroup>

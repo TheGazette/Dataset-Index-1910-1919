@@ -105,7 +105,8 @@
       <Key>
         <KeyDitto>___ ___ ___ —</KeyDitto>
       </Key>
-      <Forenames>Lieut John C.</Forenames>
+      <Title>Lieut</Title>
+      <Forenames>John C.</Forenames>
       <Text>(retired list)</Text>
       <PageNumber>5159</PageNumber>
     </MainItem>
@@ -584,7 +585,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bromfield</Key>
-      <Text>. James Larden (temporary Lieut.)</Text>
+      <Forenames>James Larden</Forenames>
+      <Text>(temporary Lieut.)</Text>
       <PageNumber>6794</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -668,7 +670,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>John Hume</Forenames>
-      <Text>, Bt. (temporary Sub-Lieut.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>7396</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -685,9 +689,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Carnwath</Key>
-      <Title>The Rt. Hon.</Title>
-      <Forenames>The</Forenames>
-      <Text>Earl of (temporary Lieut.)</Text>
+      <Title>The Rt. Hon. The Earl</Title>
+      <Text>of (temporary Lieut.)</Text>
       <PageNumber>6794</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -721,8 +724,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Cavrois-O</Key>
-      <Text>'Caffrey, Rev. P. M. (temporary Lieut.)</Text>
+      <Key>Cavrois-O'Caffrey</Key>
+      <Title>Rev.</Title>
+      <Forenames>P. M.</Forenames>
+      <Text>(temporary Lieut.)</Text>
       <PageNumber>7295</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -885,8 +890,16 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>La Warr</Forenames>
+      <Key>de Forest</Key>
+      <Forenames>Baron</Forenames>
+      <Text>(temporary Lieut.Commander)</Text>
+      <PageNumber>7396</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De La</Key>
+      <Forenames>Warr</Forenames>
       <Text>, The Rt. Hon. Earl (temporary Lieut.)</Text>
       <PageNumber>6794</PageNumber>
     </MainItem>
@@ -896,7 +909,9 @@
       <Key>Dilke</Key>
       <Title>Sir</Title>
       <Forenames>C. Wentworth</Forenames>
-      <Text>, Bt. (temporary Lieut.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>7396</PageNumber>
     </MainItem>
     <SubItem>
@@ -1024,8 +1039,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Falle</Key>
-      <Forenames>H.</Forenames>
-      <Text>de C. (temporary Lieut.)</Text>
+      <Forenames>H. de C</Forenames>
+      <Text>. (temporary Lieut.)</Text>
       <PageNumber>7682</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1097,7 +1112,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Freyberg</Key>
-      <Text>.B. C. (temporary Lieut.)</Text>
+      <Forenames>B. C.</Forenames>
+      <Text>(temporary Lieut.)</Text>
       <PageNumber>7092</PageNumber>
     </MainItem>
   </ItemGroup>

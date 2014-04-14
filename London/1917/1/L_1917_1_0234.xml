@@ -56,7 +56,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Grim-wode</Key>
-      <Text>. Cadet A. M. (temp. 2nd Lt.)</Text>
+      <Title>Cadet</Title>
+      <Forenames>A. M.</Forenames>
+      <Text>(temp. 2nd Lt.)</Text>
       <PageNumber>2458</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -100,7 +102,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Grinley</Key>
-      <Text>. temp. Lt. G. C. (acbg. Capt.)</Text>
+      <Title>temp. Lt.</Title>
+      <Forenames>G. C.</Forenames>
+      <Text>(acbg. Capt.)</Text>
       <PageNumber>2829</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -171,7 +175,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>L. J.</Forenames>
-      <Text>. M.C. (temp. Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>934</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -274,7 +280,9 @@
       <Key>Grove</Key>
       <Title>temp. 2nd Lt.</Title>
       <Forenames>A. D.</Forenames>
-      <Text>(date of appt. to M.G.C.)</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>2003</PageNumber>
     </MainItem>
     <SubItem>
@@ -370,7 +378,10 @@
       </Key>
       <Title>Caplt.</Title>
       <Forenames>E. W. H.</Forenames>
-      <Text>, M.D., F.R.C.S. (temp. Maj.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>2846</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -419,7 +430,9 @@
     <MainItem>
       <Key>Groves-Raines</Key>
       <Title>Capt. (now Maj.)</Title>
-      <Text>,R. G. D., D.S.O. (adtg. Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3082</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -428,7 +441,9 @@
       <Key>Grubb</Key>
       <Title>Maj. ,Bt. Lt.-Col. (temp. Lt.-Col.)</Title>
       <Forenames>H.</Forenames>
-      <Text>,W. (Bt. Lt.-Col. for diet, serv.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>17</PageNumber>
     </MainItem>
     <SubItem>
@@ -446,7 +461,7 @@
       <PageNumber>1131</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Co,n,fd.</Text>
+      <Text>Co,n,fd</Text>
       <PageNumber>2520</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -524,7 +539,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Guhbins</Key>
-      <Text>. 2nd Lt. on prob. C. B. .(conifd.)</Text>
+      <Title>2nd Lt. on prob.</Title>
+      <Forenames>C. B.</Forenames>
+      <Text>.(conifd.)</Text>
       <PageNumber>269</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -535,7 +552,9 @@
       </Key>
       <Title>Oaplt.</Title>
       <Forenames>M. N. T.</Forenames>
-      <Text>, .M.C. (adtg. Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2957</PageNumber>
     </MainItem>
     <SubItem>
@@ -615,7 +634,9 @@
       <Key>Guggisberg</Key>
       <Title>Maj.</Title>
       <Forenames>F. G.</Forenames>
-      <Text>, C.M.G. (Lt.-Col.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>1129</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -916,7 +937,7 @@
       <PageNumber>1163</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>.Confd.</Text>
+      <Text>.Confd</Text>
       <PageNumber>1273</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -965,7 +986,7 @@
       <PageNumber>1848</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Confd.</Text>
+      <Text>Confd</Text>
       <PageNumber>2128</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -974,7 +995,9 @@
       <Key>Gurdon</Key>
       <Title>2nd Lt.</Title>
       <Forenames>E. T. L.</Forenames>
-      <Text>, M.C. (Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>444</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -997,7 +1020,7 @@
       <PageNumber>2834</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>To comd. Bn., and to be temp. Lt.-Col. (Sub. Not.</Text>
+      <Text>To comd. Bn., and to be temp. Lt.-Col. (Sub. Not</Text>
       <PageNumber>3118</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1242,7 +1265,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gwatkin</Key>
-      <Text>. Oadet R. L. (2nd Lt.) ... Gwenn, Cadet E. J. K. (temp. 2nd</Text>
+      <Forenames>Oadet R. L.</Forenames>
+      <Text>(2nd Lt.) ... Gwenn, Cadet E. J. K. (temp. 2nd</Text>
       <PageNumber>2726</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1304,7 +1328,11 @@
       </Key>
       <Title>Lt.-Col. (temp. Bri£r.-Gen.)</Title>
       <Forenames>C. W.</Forenames>
-      <Text>,. C.M.G., D.S.O. (Bt.Col., for dist. serv.) -</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>16</PageNumber>
     </MainItem>
   </ItemGroup>

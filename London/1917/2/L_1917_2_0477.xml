@@ -32,6 +32,7 @@
     <SubItem>
       <Text>
         <PageNumber>4066</PageNumber>
+        <Honour>O.M.</Honour>
         <PageNumber>5351</PageNumber>
         <PageNumber>5409</PageNumber>
       </Text>
@@ -387,7 +388,9 @@
       </Key>
       <Title>temp. Lt.</Title>
       <Forenames>H. B.</Forenames>
-      <Text>, M.D. (temp. Capt.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>3609</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -405,7 +408,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Thorburn</Key>
-      <Text>temp. 2nd Lt. W. (temp. Lt.) ' ... ... -</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>W.</Forenames>
+      <Text>(temp. Lt.) ' ... ... -</Text>
       <PageNumber>4617</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -474,7 +479,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Tipper</Key>
-      <Text>Staff Sjt.-Maj. V. G. (temp. 2nd Lt. on prob.)</Text>
+      <Forenames>Staff</Forenames>
+      <Text>Sjt.-Maj. V. G. (temp. 2nd Lt. on prob.)</Text>
       <PageNumber>5408</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -612,7 +618,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Toye</Key>
-      <Text>temp. Lt. E. D. (temp. Capt.)</Text>
+      <Title>temp. Lt.</Title>
+      <Forenames>E. D.</Forenames>
+      <Text>(temp. Capt.)</Text>
       <PageNumber>5443</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -744,7 +752,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Tuirnlbull</Key>
-      <Text>tamp. Lt. W. J., M.C. (temp. Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5853</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -757,7 +767,7 @@
       <PageNumber>4613</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Aotg. Mlaj</Text>
+      <Text>Aotg. Mlaj.</Text>
       <PageNumber>6366</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -839,7 +849,9 @@
     <MainItem>
       <Key>Urie</Key>
       <Title>Lt.</Title>
-      <Text>' H. R., M.C. (aotg. Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3190</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -861,9 +873,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Dusen</Forenames>
-      <Text>, Pte. A. S. (temp. Lt.)</Text>
+      <Key>Van Dusen</Key>
+      <Title>Pte.</Title>
+      <Forenames>A. S.</Forenames>
+      <Text>(temp. Lt.)</Text>
       <PageNumber>4788</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -878,17 +891,18 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Straulbenzee</Forenames>
-      <Text>, Lt;-Col. C. T. (to comd. Regit.)</Text>
+      <Key>Van Straulbenzee</Key>
+      <Forenames>Lt</Forenames>
+      <Text>;-Col. C. T. (to comd. Regit.)</Text>
       <PageNumber>3744</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Vuuren</Forenames>
-      <Text>, temp. Capt. D. J. C. '(rel. temp, commn.)</Text>
+      <Key>Van Vuuren</Key>
+      <Title>temp. Capt.</Title>
+      <Forenames>D. J. C.</Forenames>
+      <Text>'(rel. temp, commn.)</Text>
       <PageNumber>3215</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -903,7 +917,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Vanier</Key>
-      <Text>*temp. Capt. G. P., M.C. (Adjt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4045</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1077,7 +1093,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wales</Key>
-      <Text>Pte, W. D. (temp. Lt.) .;</Text>
+      <Forenames>Pte</Forenames>
+      <Text>, W. D. (temp. Lt.) .;</Text>
       <PageNumber>4787</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -77,7 +77,9 @@
     <MainItem>
       <Key>Blandy</Key>
       <Title>Lt.</Title>
-      <Text>-Ccl. (A./Col.) L. F., D.S.O. (Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>95</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -149,7 +151,9 @@
       <Key>Blenkiron</Key>
       <Title>Lt.</Title>
       <Forenames>A.</Forenames>
-      <Text>,V., M.C. (rel. commn. on acc. of ill-health and to retain rank)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1801</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -167,7 +171,9 @@
       <Key>Blofeld</Key>
       <Title>Lt.</Title>
       <Forenames>H.</Forenames>
-      <Text>, M.C. (rel. commn. on acc. of ill-health contracted on active serivce and to retain . rank) '</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2160</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -385,7 +391,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>T.G.G</Forenames>
-      <Text>,, M.C. (Lt. (K.B.) on reversion from Balloon Co. Comdr.), Sub. Not</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>201</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -460,7 +468,7 @@
       <PageNumber>1077</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Lt.</Text>
+      <Text>Lt</Text>
       <PageNumber>3153</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -506,7 +514,7 @@
       <PageNumber>1267</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Temp. L.t, Adm., and Hon. Capt.</Text>
+      <Text>Temp. L.t, Adm., and Hon. Capt</Text>
       <PageNumber>1268</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -739,14 +747,18 @@
       <Key>Boswell</Key>
       <Title>Capt.</Title>
       <Forenames>H. G.</Forenames>
-      <Text>, D.S.C. (removed the Service His Majesty having no further occasion for his services)</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>3756</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Bottrell</Key>
-      <Text>.Lt. (A.) A. H. (Lt. Adm.)</Text>
+      <Title>Lt. (A.)</Title>
+      <Forenames>A. H.</Forenames>
+      <Text>(Lt. Adm.)</Text>
       <PageNumber>1535</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -844,7 +856,10 @@
       <Key>Bourdillon</Key>
       <Title>Capt. (actg. Lt.-Col.)</Title>
       <Forenames>R. B.</Forenames>
-      <Text>, M.C., A.F.C. (trd. to Unempld. List)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>A.F.C.</Honour>
+      </Text>
       <PageNumber>2436</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1015,7 +1030,9 @@
       <Key>Bowman</Key>
       <Title>Lt. (actg. Capt.)</Title>
       <Forenames>C</Forenames>
-      <Text>, D.F.C. (trd. to Unempld. List)</Text>
+      <Text>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>2740</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1092,7 +1109,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Boxhall</Key>
-      <Text>. 2nd Lt. (A.) R. A. (2nd Lt., Adm.)</Text>
+      <Title>2nd Lt. (A.)</Title>
+      <Forenames>R. A.</Forenames>
+      <Text>(2nd Lt., Adm.)</Text>
       <PageNumber>1268</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -528,8 +528,8 @@
     <MainItem>
       <Key>Monk</Key>
       <Title>Lieut.</Title>
-      <Forenames>G. P.</Forenames>
-      <Text>de B. (temporary Capt., supernumerary to establishment)</Text>
+      <Forenames>G. P. de B</Forenames>
+      <Text>. (temporary Capt., supernumerary to establishment)</Text>
       <PageNumber>7574</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -636,15 +636,17 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hare, James B. (temporary Capt.)</Text>
+      <Key>O'Hare</Key>
+      <Forenames>James B.</Forenames>
+      <Text>(temporary Capt.)</Text>
       <PageNumber>7045</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Malley, Charles (temporary 2nd Lieut.)</Text>
+      <Key>O'Malley</Key>
+      <Forenames>Charles</Forenames>
+      <Text>(temporary 2nd Lieut.)</Text>
       <PageNumber>9562</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -858,7 +860,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Quin</Key>
-      <Text>. William J. (temporary Capt.)</Text>
+      <Forenames>William J.</Forenames>
+      <Text>(temporary Capt.)</Text>
       <PageNumber>7045</PageNumber>
     </MainItem>
     <SubItem>
@@ -869,7 +872,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Quirk</Key>
-      <Text>. Richard Arthur (temporary ' '2nd Lieut,)</Text>
+      <Forenames>Richard Arthur</Forenames>
+      <Text>(temporary ' '2nd Lieut,)</Text>
       <PageNumber>8361</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -904,7 +908,9 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ -</KeyDitto>
       </Key>
-      <Text>r^Capt. H. C, D.S.O. (tempo rary Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6811</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1157,7 +1163,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stevens</Key>
-      <Text>. H. L. (Maj.) Stratton, Walter P. (temporary Lieut.)</Text>
+      <Forenames>H. L.</Forenames>
+      <Text>(Maj.) Stratton, Walter P. (temporary Lieut.)</Text>
       <PageNumber>6705</PageNumber>
     </MainItem>
     <SubItem>
@@ -1263,7 +1270,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Thorp</Key>
-      <Text>. Frank C.. Norman (temporary 2nd Lieut.)</Text>
+      <Forenames>Frank C.</Forenames>
+      <Text>. Norman (temporary 2nd Lieut.)</Text>
       <PageNumber>9562</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1279,7 +1287,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Toller</Key>
-      <Text>. 2nd Lieut. R. A. (temporary Lieut.)</Text>
+      <Title>2nd Lieut.</Title>
+      <Forenames>R. A.</Forenames>
+      <Text>(temporary Lieut.)</Text>
       <PageNumber>9072</PageNumber>
     </MainItem>
   </ItemGroup>

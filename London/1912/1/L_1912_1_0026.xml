@@ -19,8 +19,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, R. F. C. (Lieut.)</Text>
+      <Key>O'Brien</Key>
+      <Forenames>R. F. C.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>1453</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -492,7 +493,9 @@
       <Key>Barlow</Key>
       <Title>Lieut.-Col. Sir</Title>
       <Forenames>T.</Forenames>
-      <Text>, Bart. (resigned)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>1264</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -509,7 +512,9 @@
       <Key>Beevor</Key>
       <Title>Maj. Sir</Title>
       <Forenames>H. R.</Forenames>
-      <Text>, Bart, (resigned)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>460</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -541,8 +546,8 @@
     <MainItem>
       <Key>Brown</Key>
       <Title>Qrmr. and Hon. Lieut.</Title>
-      <Forenames>F. J. J. O</Forenames>
-      <Text>'R. (resigned)</Text>
+      <Forenames>F. J. J. O'R</Forenames>
+      <Text>. (resigned)</Text>
       <PageNumber>2095</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1104,7 +1109,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Rees</Key>
-      <Text>Lieut. F. J. (removed)</Text>
+      <Title>Lieut.</Title>
+      <Forenames>F. J.</Forenames>
+      <Text>(removed)</Text>
       <PageNumber>1666</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1213,14 +1220,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Stuart</Key>
-      <Text>Maj. T. E. (resigned)</Text>
+      <Title>Maj.</Title>
+      <Forenames>T. E.</Forenames>
+      <Text>(resigned)</Text>
       <PageNumber>1667</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Wall</Key>
-      <Text>D. L. (Lieut.)</Text>
+      <Forenames>D. L.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>1264</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1568,7 +1578,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cook</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, and Hon. Maj. J. (resigned) j</Text>
       <PageNumber>801</PageNumber>
     </MainItem>
@@ -1823,7 +1833,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hardy</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, and Hon. Maj. G. W. (resigned)</Text>
       <PageNumber>455</PageNumber>
     </MainItem>

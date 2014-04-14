@@ -91,8 +91,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Julius</Key>
-      <Forenames>S.</Forenames>
-      <Text>de V. A (Maj</Text>
+      <Forenames>S. de V</Forenames>
+      <Text>. A (Maj</Text>
       <PageNumber>8807</PageNumber>
     </MainItem>
     <SubItem>
@@ -186,7 +186,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Mackenzie</Key>
-      <Text>'Edward L., D.S.O. (Lieut.-Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8874</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -474,7 +476,10 @@
       <Key>Terry</Key>
       <Title>Maj.</Title>
       <Forenames>R. J. A.</Forenames>
-      <Text>, M.V.O., D.S.O. (temporary Lieut.-Col.)</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7444</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -539,7 +544,9 @@
     <MainItem>
       <Key>Villiers</Key>
       <Forenames>E. F.</Forenames>
-      <Text>, D.S.O. (Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8807</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -725,7 +732,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bedford</Key>
-      <Text>. Hugh W. (temporary Capt.) ... ;</Text>
+      <Forenames>Hugh W.</Forenames>
+      <Text>(temporary Capt.) ... ;</Text>
       <PageNumber>7901</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -815,8 +823,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Earl</Key>
-      <Forenames>John Cecil St</Forenames>
-      <Text>. George (temporary 2nd Lieut.)</Text>
+      <Forenames>John Cecil St. George</Forenames>
+      <Text>(temporary 2nd Lieut.)</Text>
       <PageNumber>8613</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -831,7 +839,8 @@
   <ItemGroup>
     <MainItem>
       <Key>English</Key>
-      <Text>. Henry Wilson (temporary</Text>
+      <Forenames>Henry Wilson</Forenames>
+      <Text>(temporary</Text>
       <PageNumber>9561</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -917,7 +926,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gregory</Key>
-      <Text>. Walter (temporary 2nd Lieut.)</Text>
+      <Forenames>Walter</Forenames>
+      <Text>(temporary 2nd Lieut.)</Text>
       <PageNumber>9561</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -980,7 +990,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Humby</Key>
-      <Text>. (temporary) 2nd Lieut. Lancelot J. (relinquishes his commission)</Text>
+      <Title>(temporary) 2nd Lieut.</Title>
+      <Forenames>Lancelot J.</Forenames>
+      <Text>(relinquishes his commission)</Text>
       <PageNumber>9205</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -995,7 +1007,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Jacob</Key>
-      <Text>. John Henry (temporary 2nd Lieut.)</Text>
+      <Forenames>John Henry</Forenames>
+      <Text>(temporary 2nd Lieut.)</Text>
       <PageNumber>6687</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1027,7 +1040,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lewis</Key>
-      <Text>. William Charles (Qrmr. and</Text>
+      <Forenames>William Charles</Forenames>
+      <Text>(Qrmr. and</Text>
       <PageNumber>7727</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1112,14 +1126,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Morgan</Key>
-      <Text>. Herbert Cooper (temporary 2nd Lieut.)</Text>
+      <Forenames>Herbert Cooper</Forenames>
+      <Text>(temporary 2nd Lieut.)</Text>
       <PageNumber>9329</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Palk</Key>
-      <Text>. Maj. the Hon. L. C. W., D.S.O; (temporary Iiieut.-Col.)</Text>
+      <Title>Maj. the Hon.</Title>
+      <Forenames>L. C. W.</Forenames>
+      <Text>, D.S.O; (temporary Iiieut.-Col.)</Text>
       <PageNumber>6810</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1142,7 +1159,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Penny</Key>
-      <Text>. Maj. Arthur T.. M.V.O. (reverts to Half-pay List)</Text>
+      <Title>Maj.</Title>
+      <Forenames>Arthur T.</Forenames>
+      <Text>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>9397</PageNumber>
     </MainItem>
   </ItemGroup>

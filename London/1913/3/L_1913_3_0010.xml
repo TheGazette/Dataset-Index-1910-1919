@@ -281,6 +281,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>von Collenberg-Bodigheim</Key>
+      <Forenames>F. H. R.</Forenames>
+      <Text>, Consul at Winnipeg for Germany</Text>
+      <PageNumber>___ ___</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Warsaw</Key>
       <Forenames>H.M.</Forenames>
       <Text>'s Consul at: Grove, H. M</Text>
@@ -380,8 +388,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Winnipeg</Key>
-      <Forenames>F. H. R.</Forenames>
-      <Text>von CottenbergBodigheim, Consul for Germany at</Text>
+      <Forenames>F. H. R. von CottenbergBodigheim</Forenames>
+      <Text>, Consul for Germany at</Text>
       <PageNumber>6415</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -541,7 +549,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Gurdon</Key>
-      <Text>Rev. F., nominated Bishop Suffragan of York</Text>
+      <Title>Rev.</Title>
+      <Forenames>F.</Forenames>
+      <Text>, nominated Bishop Suffragan of York</Text>
       <PageNumber>4868</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -594,7 +604,9 @@
     <MainItem>
       <Key>Acland</Key>
       <Forenames>Engineer-</Forenames>
-      <Text>Lieut. E. L. D., Fourth Class, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>5756</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -602,7 +614,9 @@
     <MainItem>
       <Key>Aliom</Key>
       <Forenames>C. C</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>4637</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -610,7 +624,9 @@
     <MainItem>
       <Key>Archer</Key>
       <Forenames>G. T.</Forenames>
-      <Text>, Companion, St. Michael and St. George</Text>
+      <Text>
+        <Honour>Companion, St. Michael and St. George</Honour>
+      </Text>
       <PageNumber>6823</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -618,7 +634,9 @@
     <MainItem>
       <Key>Astbury</Key>
       <Forenames>J. M.</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>5866</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -626,7 +644,9 @@
     <MainItem>
       <Key>Bagot</Key>
       <Forenames>A. D.</Forenames>
-      <Text>, created a Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>4735</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -634,7 +654,9 @@
     <MainItem>
       <Key>Banarji</Key>
       <Forenames>P. C</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>4638</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -643,7 +665,9 @@
       <Key>Barker</Key>
       <Title>Hon.</Title>
       <Forenames>F. E.</Forenames>
-      <Text>, Knighted ...</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -651,7 +675,9 @@
     <MainItem>
       <Key>Barrie</Key>
       <Forenames>J. M.</Forenames>
-      <Text>, created a Baronet ...</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>

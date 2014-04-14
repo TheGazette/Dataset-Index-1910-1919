@@ -106,14 +106,15 @@
       <PageNumber>13723</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Actg. Maj</Text>
+      <Text>Actg. Maj.</Text>
       <PageNumber>13723</PageNumber>
     </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Leverett</Key>
-      <Text>W. 2nd Lt. J. I. (Lt.)</Text>
+      <Forenames>W.</Forenames>
+      <Text>2nd Lt. J. I. (Lt.)</Text>
       <PageNumber>14918</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -122,7 +123,9 @@
       <Key>Leveson-Gower</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>C. C</Forenames>
-      <Text>, C.M.G. (Hon. Col. R.A.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>12677</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -135,7 +138,7 @@
       <PageNumber>14427</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Rel. eommn. and to be Hon. Lt., Sub. Not</Text>
+      <Text>Rel. eommn. and to be Hon. Lt., Sub. Not.</Text>
       <PageNumber>14427</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -155,7 +158,9 @@
       </Key>
       <Title>Cadet</Title>
       <Forenames>H.</Forenames>
-      <Text>, M.M. (2nd Lt.)</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>13884</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -350,7 +355,9 @@
       <Key>Lewis-Phillips</Key>
       <Title>Lt.</Title>
       <Forenames>H. W.</Forenames>
-      <Text>(seed, for serv. with M.G.C.)</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>11548</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -449,7 +456,10 @@
     <MainItem>
       <Key>Lilly</Key>
       <Title>Capt.</Title>
-      <Text>L.G. (seed, for serv. with M.G.C.)</Text>
+      <Text>
+        <Honour>L.G.</Honour>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>12573</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -476,7 +486,10 @@
       <Key>Lindop</Key>
       <Title>Lt.</Title>
       <Forenames>B.</Forenames>
-      <Text>, M.C. (seed, for serv. with M.G.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>12574</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -485,7 +498,11 @@
       <Key>Lindsay</Key>
       <Title>Maj. (temp. Col.)</Title>
       <Forenames>C. H.</Forenames>
-      <Text>, C.M.G., D.S.O., M.D. (rel. temp, rank)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>12798</PageNumber>
     </MainItem>
     <SubItem>
@@ -537,7 +554,7 @@
       <PageNumber>12217</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Rel. commn. on acc. of illhealth and to be Hon. Lt</Text>
+      <Text>Rel. commn. on acc. of illhealth and to be Hon. Lt.</Text>
       <PageNumber>14301</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -587,7 +604,9 @@
       </Key>
       <Title>Lt. (aetg. Capt. and Adjt.)</Title>
       <Forenames>H.</Forenames>
-      <Text>, M.C. (vacates appt. of Adjt. and rel. aetg. rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>11654</PageNumber>
     </MainItem>
     <SubItem>
@@ -646,7 +665,9 @@
       <Key>Lintott</Key>
       <Title>Lt.</Title>
       <Forenames>A. J. C</Forenames>
-      <Text>, M.C. (rel. actg. rank of Capt., and seed, for duty as Bde. Transport Offr.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>15174</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -655,7 +676,9 @@
       <Key>Linzell</Key>
       <Title>temp. Lt.</Title>
       <Forenames>E. L.</Forenames>
-      <Text>, M.C. (rel. actg. rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>12678</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -691,7 +714,9 @@
       <Key>Lister</Key>
       <Title>Capt. (actg. Lt.-Col.)</Title>
       <Forenames>C.</Forenames>
-      <Text>, M.C. (reverts to aotg. rank of Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>14680</PageNumber>
     </MainItem>
     <SubItem>
@@ -797,7 +822,9 @@
       <Key>Livingstone</Key>
       <Title>Maj.</Title>
       <Forenames>G.</Forenames>
-      <Text>, C.M.G. (restd. to estabt.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>13097</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -871,7 +898,9 @@
       </Key>
       <Title>2nd Lt.</Title>
       <Forenames>R.</Forenames>
-      <Text>(R. War. R.) (Lt. and rem. seed., M.G.C.)</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>14477</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -959,7 +988,9 @@
       <Key>Locan</Key>
       <Title>Lt.</Title>
       <Forenames>L. T.</Forenames>
-      <Text>, M.C. (seed, for serv. as Brig. Int. Offr.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>11932</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -968,7 +999,9 @@
       <Key>Lochner</Key>
       <Title>Capt.</Title>
       <Forenames>R. G.</Forenames>
-      <Text>, M.C. (actg. Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>14476</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1059,7 +1092,9 @@
       </Key>
       <Title>2nd Lt.</Title>
       <Forenames>S.</Forenames>
-      <Text>, M.C. (Lt. and rem,</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>12479</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1071,14 +1106,16 @@
       <PageNumber>12466</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Aotg. Capt. comdg. a Co</Text>
+      <Text>Aotg. Capt. comdg. a Co.</Text>
       <PageNumber>14405</PageNumber>
     </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Lockwood</Key>
-      <Text>Lt. D. C. (seed, for serv. withR.A.F.)</Text>
+      <Title>Lt.</Title>
+      <Forenames>D. C.</Forenames>
+      <Text>(seed, for serv. withR.A.F.)</Text>
       <PageNumber>14638</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1166,7 +1203,7 @@
       <PageNumber>12866</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Seed, for serv. with R.E</Text>
+      <Text>Seed, for serv. with R.E.</Text>
       <PageNumber>12866</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1224,7 +1261,9 @@
       <Key>Long</Key>
       <Title>Lt. (actg. Capt.)</Title>
       <Forenames>B</Forenames>
-      <Text>,, M.C. (actg. Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>13428</PageNumber>
     </MainItem>
   </ItemGroup>

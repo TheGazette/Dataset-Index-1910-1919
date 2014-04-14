@@ -393,7 +393,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Slad</Key>
-      <Text>.?, G. G</Text>
+      <Text>?, G. G</Text>
       <PageNumber>6368</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -415,8 +415,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Standley</Key>
-      <Forenames>H.</Forenames>
-      <Text>de L</Text>
+      <Forenames>H. de L</Forenames>
       <PageNumber>5368</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -455,7 +454,8 @@
   <ItemGroup>
     <MainItem>
       <Key>White</Key>
-      <Text>. T A. J</Text>
+      <Forenames>T</Forenames>
+      <Text>A. J</Text>
       <PageNumber>6368</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -699,7 +699,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Crabbe</Key>
-      <Text>. R. !W. G</Text>
+      <Forenames>R.</Forenames>
+      <Text>!W. G</Text>
       <PageNumber>5602</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -908,7 +909,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Crabbe</Key>
-      <Text>. F. W</Text>
+      <Forenames>F. W</Forenames>
       <PageNumber>7629</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -979,8 +980,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Dwyer, D. P</Text>
+      <Key>O'Dwyer</Key>
+      <Forenames>D. P.</Forenames>
       <PageNumber>5871</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1008,7 +1009,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Russell</Key>
-      <Text>. S. J</Text>
+      <Forenames>S. J.</Forenames>
       <PageNumber>4897</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1023,14 +1024,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Tareett</Key>
-      <Text>. J. R. (confd.)</Text>
+      <Forenames>J. R.</Forenames>
+      <Text>(confd.)</Text>
       <PageNumber>5992</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>White</Key>
-      <Text>. A. J</Text>
+      <Forenames>A. J</Forenames>
       <PageNumber>6110</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1112,7 +1114,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Howard</Key>
-      <Text>. J</Text>
+      <Forenames>J.</Forenames>
       <PageNumber>5481</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1266,7 +1268,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Dennis</Key>
-      <Text>. J. J., C.B., M.D</Text>
+      <Forenames>J. J.</Forenames>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>M.D</Honour>
+      </Text>
       <PageNumber>5601</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1329,8 +1335,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connelil, C. J</Text>
+      <Key>O'Connelil</Key>
+      <Forenames>C. J</Forenames>
       <PageNumber>7066</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1422,8 +1428,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Colson</Key>
-      <Forenames>H. St</Forenames>
-      <Text>. C, M.B</Text>
+      <Forenames>H. St. C</Forenames>
+      <Text>, M.B</Text>
       <PageNumber>5991</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1461,7 +1467,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hitch</Key>
-      <Text>. F. &lt;3., M.B</Text>
+      <Forenames>F.</Forenames>
+      <Text>&lt;3., M.B</Text>
       <PageNumber>6797</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1469,7 +1476,9 @@
     <MainItem>
       <Key>Joy</Key>
       <Forenames>A. H .</Forenames>
-      <Text>MB</Text>
+      <Text>
+        <Honour>MB</Honour>
+      </Text>
       <PageNumber>6797</PageNumber>
     </MainItem>
   </ItemGroup>

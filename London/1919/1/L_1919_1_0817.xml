@@ -27,7 +27,9 @@
       <Key>Worrall</Key>
       <Title>Capt.</Title>
       <Forenames>H. V.</Forenames>
-      <Text>, D.S.C. (confd.)</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>2743</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -47,7 +49,9 @@
       <Key>Worthington</Key>
       <Title>Lt.</Title>
       <Forenames>B. R.</Forenames>
-      <Text>, D.F.C. (trd. to unempld. list)</Text>
+      <Text>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>2160</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -78,7 +82,9 @@
       <Key>Woulds</Key>
       <Title>Capt. and Qrmr. (Army)</Title>
       <Forenames>J.</Forenames>
-      <Text>, D.C.M. (temp. Lt., Admin., and Hon. Capt.)</Text>
+      <Text>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>2277</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -99,7 +105,9 @@
     <MainItem>
       <Key>Wray</Key>
       <Forenames>Lt</Forenames>
-      <Text>, A. M., M.C,, A.F.C. (actg. Capt, while Capt,, A.)</Text>
+      <Text>
+        <Honour>A.F.C.</Honour>
+      </Text>
       <PageNumber>2617</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -299,7 +307,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>J. S.</Forenames>
-      <Text>, D.S.C. (confd.)</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>206</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -382,7 +392,7 @@
       <PageNumber>2433</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Rel. commn.</Text>
+      <Text>Rel. commn</Text>
       <PageNumber>3298</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -618,7 +628,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Yeo</Key>
-      <Text>. Fit. Cadet F. H. (temp. 2nd Lt., A.)</Text>
+      <Title>Fit. Cadet</Title>
+      <Forenames>F. H.</Forenames>
+      <Text>(temp. 2nd Lt., A.)</Text>
       <PageNumber>2274</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1003,7 +1015,12 @@
   <ItemGroup>
     <MainItem>
       <Key>Buckinghamshire</Key>
-      <Text>; Chetwode, Maj. Gen. Sir Philip Walhouse, Bt., K.C.B., K.C.M.G., D.S.O</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>K.C.B.</Honour>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>3483</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1025,12 +1042,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Edinburgh</Key>
-      <Text>or Midlothian, county of : Clark, Col. Sir John Maurice, Bt., M.B.E., V.D</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>1074</PageNumber>
     </MainItem>
     <SubItem>
       <Text>
         <PageNumber>1074</PageNumber>
+        <Honour>D.S.O.</Honour>
+        <Honour>T.D</Honour>
       </Text>
       <PageNumber>1074</PageNumber>
     </SubItem>
@@ -1038,7 +1060,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Herefordshire</Key>
-      <Text>: Bridgford, Col. (temp. Brig.Gen.) Robert James, C.B., C.M.G., D.S.O</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>1074</PageNumber>
     </MainItem>
     <SubItem>
@@ -1047,7 +1072,9 @@
     </SubItem>
     <SubItem>
       <Text>
+        <Honour>M.P.</Honour>
         <PageNumber>1074</PageNumber>
+        <Honour>C.B.</Honour>
         <PageNumber>1074</PageNumber>
       </Text>
       <PageNumber>1074</PageNumber>
@@ -1056,7 +1083,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Hertfordshire</Key>
-      <Text>: . ' Baker, Rear-Admiral . Lewis Clinton Baker, C.B..„</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>3149</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -62,8 +62,7 @@
   <ItemGroup>
     <MainItem>
       <Key>More</Key>
-      <Forenames>P. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>P. St. C</Forenames>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -523,7 +522,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Phelan</Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -558,7 +557,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Thomson</Key>
-      <Text>G. Y</Text>
+      <Forenames>G. Y</Forenames>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -692,9 +691,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Silva</Forenames>
-      <Text>, L. X</Text>
+      <Key>De Silva</Key>
+      <Forenames>L. X.</Forenames>
       <PageNumber>2069</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -870,7 +868,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Miller</Key>
-      <Text>Col. A. D</Text>
+      <Title>Col.</Title>
+      <Forenames>A. D</Forenames>
       <PageNumber>329</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -881,7 +880,9 @@
       <Key>Brodie</Key>
       <Title>Sir</Title>
       <Forenames>B. V. S.</Forenames>
-      <Text>, Bart</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>329</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -890,7 +891,9 @@
       <Key>Chance</Key>
       <Title>Sir</Title>
       <Forenames>W.</Forenames>
-      <Text>, Bart.</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1052,6 +1055,13 @@
   <SubSubSectionTitle>Retired List</SubSubSectionTitle>
   <ItemGroup>
     <MainItem>
+      <Key>de Satis</Key>
+      <Forenames>W.</Forenames>
+      <PageNumber>1757</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Le</Key>
       <Forenames>Marchant</Forenames>
       <Text>, E. R</Text>
@@ -1153,7 +1163,9 @@
       <Key>Brownrigg</Key>
       <Title>Sir</Title>
       <Forenames>D. E. R.</Forenames>
-      <Text>, Bart</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>589</PageNumber>
     </MainItem>
   </ItemGroup>

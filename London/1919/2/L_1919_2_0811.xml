@@ -29,7 +29,9 @@
     <MainItem>
       <Key>Reid</Key>
       <Forenames>H. C</Forenames>
-      <Text>, C.B. (Hon. temp. Lt.Col.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>4885</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -103,8 +105,12 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. Clair-Morford. Capt. A. C, M.C. (G.S.O., 3rd Gd.)</Text>
+      <Key>St. Clair-Morford</Key>
+      <Title>Capt.</Title>
+      <Forenames>A. C</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5202</PageNumber>
     </MainItem>
     <SubItem>
@@ -164,7 +170,9 @@
       <Key>Shadwell</Key>
       <Title>Maj.</Title>
       <Forenames>W. G. A.</Forenames>
-      <Text>, D.S.O. (temp. COiilllLii. UjaiiiiiiaiLtjJ oil acc. of med. unfitness)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4571</PageNumber>
     </MainItem>
     <SubItem>
@@ -409,7 +417,7 @@
       <PageNumber>4885</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Temp. Lt</Text>
+      <Text>Temp. Lt.</Text>
       <PageNumber>6652</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -417,7 +425,9 @@
     <MainItem>
       <Key>West</Key>
       <Title>temp. Capt. (actg. Maj.)</Title>
-      <Text>| R. IH. P., M.C. '(rel. actg. rank)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7043</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -465,7 +475,9 @@
       <Key>Williamson</Key>
       <Title>Lt.</Title>
       <Forenames>W. C</Forenames>
-      <Text>, M.C. (temp, commn. on acc. of med. unfitness)!</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5202</PageNumber>
     </MainItem>
     <SubItem>
@@ -502,7 +514,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Winne</Key>
-      <Text>. temp. Lt. R. H. (rel. actg. rank of 'Capt.)</Text>
+      <Title>temp. Lt.</Title>
+      <Forenames>R. H.</Forenames>
+      <Text>(rel. actg. rank of 'Capt.)</Text>
       <PageNumber>5916</PageNumber>
     </MainItem>
     <SubItem>
@@ -513,7 +527,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wodlngton</Key>
-      <Text>. E. J. (Lt,)</Text>
+      <Forenames>E. J.</Forenames>
+      <Text>(Lt,)</Text>
       <PageNumber>5916</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -537,11 +552,12 @@
   <ItemGroup>
     <MainItem>
       <Key>Young</Key>
-      <Text>. A. R. (Hon. temp. Lt.)</Text>
+      <Forenames>A. R.</Forenames>
+      <Text>(Hon. temp. Lt.)</Text>
       <PageNumber>4885</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Hon. temp. Capt., unabtd</Text>
+      <Text>Hon. temp. Capt., unabtd.</Text>
       <PageNumber>7707</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -551,7 +567,9 @@
       <Key>Barr</Key>
       <Title>Maj.</Title>
       <Forenames>E.</Forenames>
-      <Text>&lt;H., D.S.O. (placed on ret. list on acc. of medical unfitness)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4753</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -560,7 +578,9 @@
       <Key>Brooke</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>C. L.</Forenames>
-      <Text>, C.B. (returns to Corps duty, and absorbed in estabt</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>7707</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -569,7 +589,9 @@
       <Key>Forster</Key>
       <Title>Capt. and Bt. Maj.</Title>
       <Forenames>A. L.</Forenames>
-      <Text>, D.S.O. (absorbed in estabt.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6652</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -602,7 +624,9 @@
       <Key>Osmaston</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>C. A.</Forenames>
-      <Text>FitzH., C.B. (returns to Corps duty .from seed, list, and borne supy. to estabt.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>7829</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -611,7 +635,10 @@
       <Key>Tripp</Key>
       <Title>Maj.</Title>
       <Forenames>W. H. L.</Forenames>
-      <Text>, D.S.O., M.C. (returns to Corps duty from seed, list, and .borne supy. to estabt. until absorbed)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6652</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -702,7 +729,9 @@
       <Key>Cobb</Key>
       <Title>temp. Lt.</Title>
       <Forenames>R. S.</Forenames>
-      <Text>, M.C. (temp. commn. terminated)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6652</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -720,6 +749,15 @@
       <Key>Davis</Key>
       <Title>Lt.</Title>
       <Forenames>T. E.</Forenames>
+      <Text>(temp, commn. terminated)</Text>
+      <PageNumber>4885</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Lacy</Key>
+      <Title>Capt.</Title>
+      <Forenames>W.</Forenames>
       <Text>(temp, commn. terminated)</Text>
       <PageNumber>4885</PageNumber>
     </MainItem>

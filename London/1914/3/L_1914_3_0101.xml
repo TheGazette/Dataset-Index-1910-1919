@@ -109,7 +109,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Heseltine</Key>
-      <Text>. Lieut.-Col. C. (Maj.)</Text>
+      <Title>Lieut.-Col.</Title>
+      <Forenames>C.</Forenames>
+      <Text>(Maj.)</Text>
       <PageNumber>7776</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -219,8 +221,8 @@
       <Key>
         <KeyDitto />
       </Key>
-      <Forenames>Lieut</Forenames>
-      <Text>, on probation)</Text>
+      <Title>Lieut, on probation</Title>
+      <Text>)</Text>
       <PageNumber>6905</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -937,7 +939,9 @@
       <Key>Huntingdon</Key>
       <Title>Sir</Title>
       <Forenames>Charles Philip</Forenames>
-      <Text>, Bt. (2nd Lieut, on probation)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>7695</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1121,7 +1125,9 @@
       <Key>Irvine</Key>
       <Title>Col.</Title>
       <Forenames>Henry</Forenames>
-      <Text>, C.B. (Hon. Col.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>5365</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1138,15 +1144,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Irving</Key>
-      <Forenames>Henry</Forenames>
-      <Text>de Regny (Capt.)</Text>
+      <Forenames>Henry de Regny</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>7197</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Isaac</Key>
-      <Text>. Francis Swinton (2nd Lieut. on probation)</Text>
+      <Forenames>Francis Swinton</Forenames>
+      <Text>(2nd Lieut. on probation)</Text>
       <PageNumber>6983</PageNumber>
     </MainItem>
   </ItemGroup>

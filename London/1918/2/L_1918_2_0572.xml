@@ -467,11 +467,15 @@
     <MainItem>
       <Key>Chandos-Pole-</Key>
       <Forenames>Gell</Forenames>
-      <Text>, Col. H. A., C.B. E. (corr.)Sub. Not</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>4983</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Hon. Comdt. and Hon. Lt.Col., H. A., C.B.E. (Not. cancelled)</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>6094</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -625,7 +629,9 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>W. D.</Forenames>
-      <Text>, Esq., D.L., J.P. (Hon. Lt.-Col. on appt. as Hon. Comdt.)</Text>
+      <Text>
+        <Honour>D.L.</Honour>
+      </Text>
       <PageNumber>4983</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -808,7 +814,9 @@
     <MainItem>
       <Key>Coke</Key>
       <Forenames>W. F. H.</Forenames>
-      <Text>, F.R.C.S. (temp. Capt.)</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>6892</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -832,7 +840,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Colley</Key>
-      <Text>.W.R. (temp.Lt.)</Text>
+      <Forenames>W.R.</Forenames>
+      <Text>(temp.Lt.)</Text>
       <PageNumber>4014</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1061,8 +1070,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Crawshay</Key>
-      <Forenames>De B.</Forenames>
-      <Text>(temp. 2nd Lt.) .. Creer, temp. 2nd Lt. H. L. (temp</Text>
+      <Title>De B. (temp. 2nd Lt.)</Title>
+      <Text>.. Creer, temp. 2nd Lt. H. L. (temp</Text>
       <PageNumber>5975</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1271,7 +1280,9 @@
       <Key>Cusack-Smith</Key>
       <Title>Hon. Col. Sir</Title>
       <Forenames>T. B.</Forenames>
-      <Text>, K.C.M.G. (County Adjt. and temp. Capt.)</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+      </Text>
       <PageNumber>7131</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1350,7 +1361,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Denham</Key>
-      <Text>.H. M. (temp. 2nd Lt.)</Text>
+      <Forenames>H. M.</Forenames>
+      <Text>(temp. 2nd Lt.)</Text>
       <PageNumber>5352</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1383,7 +1395,11 @@
       <Key>Derby</Key>
       <Title>The Rt. Hon.</Title>
       <Forenames>E. G. V.</Forenames>
-      <Text>, the Earl of, K.G., G.C.V.O., C.B. (Hon. Lt.-Col. on appt. as Hon. . Comdt.)</Text>
+      <Text>
+        <Honour>K.G.</Honour>
+        <Honour>G.C.V.O.</Honour>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>4983</PageNumber>
     </MainItem>
   </ItemGroup>

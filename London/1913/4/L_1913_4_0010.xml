@@ -87,7 +87,9 @@
       <Key>Murray</Key>
       <Title>Maj.</Title>
       <Forenames>M. D.</Forenames>
-      <Text>, Esquire, St. John of Jerusalem ... ;</Text>
+      <Text>
+        <Honour>Esquire, St. John of Jerusalem</Honour>
+      </Text>
       <PageNumber>8888</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -137,7 +139,9 @@
     <MainItem>
       <Key>Palmer</Key>
       <Forenames>Commodore N. C</Forenames>
-      <Text>, Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>7148</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -208,7 +212,9 @@
       <Key>Roberts</Key>
       <Title>Lieut.-Col. Sir</Title>
       <Forenames>J. R.</Forenames>
-      <Text>, Knight of Grace, St. John of Jerusalem</Text>
+      <Text>
+        <Honour>Knight of Grace, St. John of Jerusalem</Honour>
+      </Text>
       <PageNumber>8888</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -230,8 +236,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Bundle</Key>
-      <Title>Lady, Lady</Title>
-      <Text>of Grace, St. John of Jerusalem</Text>
+      <Title>Lady</Title>
+      <Text>
+        <Honour>Lady of Grace, St. John of Jerusalem</Honour>
+      </Text>
       <PageNumber>8888</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -248,14 +256,17 @@
       <Key>Schovles</Key>
       <Title>Sir</Title>
       <Forenames>H. R. P.</Forenames>
-      <Text>, Knight of Grace, St. John of Jerusalem</Text>
+      <Text>
+        <Honour>Knight of Grace, St. John of Jerusalem</Honour>
+      </Text>
       <PageNumber>8888</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Schwabe</Key>
-      <Text>W. G. S., King's Counsel</Text>
+      <Forenames>W. G. S.</Forenames>
+      <Text>, King's Counsel</Text>
       <PageNumber>7336</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -281,7 +292,9 @@
       <Key>Sharp</Key>
       <Title>Hon.</Title>
       <Forenames>H.</Forenames>
-      <Text>, Knight of Grace, St. John of Jerusalem</Text>
+      <Text>
+        <Honour>Knight of Grace, St. John of Jerusalem</Honour>
+      </Text>
       <PageNumber>8888</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -298,7 +311,9 @@
     <MainItem>
       <Key>Smalley</Key>
       <Forenames>H.</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>8166</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -431,7 +446,9 @@
     <MainItem>
       <Key>Walker</Key>
       <Forenames>C. F. A.</Forenames>
-      <Text>, Esquire, St. John of Jerusalem</Text>
+      <Text>
+        <Honour>Esquire, St. John of Jerusalem</Honour>
+      </Text>
       <PageNumber>8888</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -475,7 +492,9 @@
       <Key>White-Todd</Key>
       <Title>Sir</Title>
       <Forenames>J.</Forenames>
-      <Text>, created a Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>9081</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -521,7 +540,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Woollett</Key>
-      <Text>Mrs. F., Order of Mercy</Text>
+      <Title>Mrs.</Title>
+      <Forenames>F.</Forenames>
+      <Text>, Order of Mercy</Text>
       <PageNumber>9602</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -572,7 +593,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Alison</Key>
-      <Text>Lieut. G. N., Aide-de-Camp to Governor and Commander-inChief of Hong Kong</Text>
+      <Title>Lieut.</Title>
+      <Forenames>G. N.</Forenames>
+      <Text>, Aide-de-Camp to Governor and Commander-inChief of Hong Kong</Text>
       <PageNumber>9001</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -599,8 +622,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Title>Maj. St.</Title>
-      <Forenames>G. B.</Forenames>
+      <Title>Maj. St. G.</Title>
+      <Forenames>B.</Forenames>
       <Text>, General Staff Officer, 2nd Grade</Text>
       <PageNumber>7870</PageNumber>
     </MainItem>
@@ -682,7 +705,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Bucklev</Key>
-      <Text>Brevet Maj. B. T., General Staff Officer, 3rd Grade</Text>
+      <Title>Brevet Maj.</Title>
+      <Forenames>B. T.</Forenames>
+      <Text>, General Staff Officer, 3rd Grade</Text>
       <PageNumber>8890</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -698,7 +723,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Carletjn</Key>
-      <Text>Lieut. Col. L. R., General Staff Officer, 1st Grade</Text>
+      <Title>Lieut. Col.</Title>
+      <Forenames>L. R.</Forenames>
+      <Text>, General Staff Officer, 1st Grade</Text>
       <PageNumber>9172</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -732,7 +759,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Davies</Key>
-      <Text>Maj.-Gen F. J., Director of Staff Duties at War OfFce</Text>
+      <Title>Maj.</Title>
+      <Text>-Gen F. J., Director of Staff Duties at War OfFce</Text>
       <PageNumber>7153</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -743,6 +771,15 @@
       <Forenames>P. M.</Forenames>
       <Text>, Deputy Assistant Director of Supplies and. Transport S</Text>
       <PageNumber>457</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Pntron</Key>
+      <Title>Capt.</Title>
+      <Forenames>C</Forenames>
+      <Text>, attached to General Stair ' (graded Brigade Maj.) ..'</Text>
+      <PageNumber>9001</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -793,7 +830,8 @@
   <ItemGroup>
     <MainItem>
       <Key>FurseCol</Key>
-      <Text>W. T., General Staff Officer, 1st Grade</Text>
+      <Forenames>W. T.</Forenames>
+      <Text>, General Staff Officer, 1st Grade</Text>
       <PageNumber>7063</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -858,14 +896,18 @@
   <ItemGroup>
     <MainItem>
       <Key>Hare</Key>
-      <Text>Maj. R. W., General Staff Officer of a Command, transferred to War Office</Text>
+      <Title>Maj.</Title>
+      <Forenames>R. W.</Forenames>
+      <Text>, General Staff Officer of a Command, transferred to War Office</Text>
       <PageNumber>7247</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Headlam</Key>
-      <Text>Col. J. E. W., temporary Brigr:-Gen</Text>
+      <Title>Col.</Title>
+      <Forenames>J. E. W.</Forenames>
+      <Text>, temporary Brigr:-Gen</Text>
       <PageNumber>7063</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -899,7 +941,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Jack</Key>
-      <Text>Maj. E. M., General Staff Officer, 2nd Grade</Text>
+      <Title>Maj.</Title>
+      <Forenames>E. M.</Forenames>
+      <Text>, General Staff Officer, 2nd Grade</Text>
       <PageNumber>7247</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -984,7 +1028,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Mackworth</Key>
-      <Text>Capt. F. J. A., Brigade Maj. for Artillery, and seconded</Text>
+      <Title>Capt.</Title>
+      <Forenames>F. J. A.</Forenames>
+      <Text>, Brigade Maj. for Artillery, and seconded</Text>
       <PageNumber>7521</PageNumber>
     </MainItem>
   </ItemGroup>

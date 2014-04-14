@@ -298,7 +298,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Townsend</Key>
-      <Forenames>Lieut I. V.</Forenames>
+      <Title>Lieut</Title>
+      <Forenames>I. V.</Forenames>
       <Text>(antedated)</Text>
       <PageNumber>4068</PageNumber>
     </MainItem>
@@ -722,14 +723,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Mackenzie-Penderel</Key>
-      <Text>. Alan MacD (temporary Capt.)</Text>
+      <Forenames>Alan</Forenames>
+      <Text>MacD (temporary Capt.)</Text>
       <PageNumber>5112</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Marshall</Key>
-      <Text>. Robert B. (temporary Lieut.)</Text>
+      <Forenames>Robert B.</Forenames>
+      <Text>(temporary Lieut.)</Text>
       <PageNumber>5112</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -768,7 +771,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Nichols</Key>
-      <Text>. Cyril Robert (2nd Lieut.)</Text>
+      <Forenames>Cyril Robert</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>4539</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -930,7 +934,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Acland</Key>
-      <Text>. Adjt. Arthur N. (Capt.)</Text>
+      <Title>Adjt.</Title>
+      <Forenames>Arthur N.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>4627</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1025,7 +1031,9 @@
     <MainItem>
       <Key>Buckley</Key>
       <Forenames>William P.</Forenames>
-      <Text>, D.S.O. (Capt., i and to remain seconded)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4627</PageNumber>
     </MainItem>
   </ItemGroup>

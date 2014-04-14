@@ -73,7 +73,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Wailler</Key>
-      <Text>Lt.-Col. Edmund, Officer, Order of the British Empire</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Edmund</Forenames>
+      <Text>, Officer, Order of the British Empire</Text>
       <PageNumber>11462</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -141,7 +143,9 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Title>Maj.</Title>
-      <Text>&amp; Bt. Lt.-Col. Henry Charles Swinburne, Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>11462</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -152,7 +156,9 @@
       </Key>
       <Title>Engr. Capt.</Title>
       <Forenames>John Tom Hick-</Forenames>
-      <Text>man, M.V.O., Oommander, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>11576</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -161,7 +167,12 @@
       <Key>Warde</Key>
       <Title>Col.</Title>
       <Forenames>Charles Edward</Forenames>
-      <Text>, O.B.E., M.P., D.L., and J.P., created Baronet</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.P.</Honour>
+        <Honour>D.L.</Honour>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>10218</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -180,7 +191,9 @@
     <MainItem>
       <Key>Waring</Key>
       <Forenames>Samuel James</Forenames>
-      <Text>, created Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>9858</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -229,7 +242,9 @@
       <Key>Waterhouse</Key>
       <Title>Miss</Title>
       <Forenames>Agnes May</Forenames>
-      <Text>, R.R.C., Oommander, Order of the British Empire</Text>
+      <Text>
+        <Honour>R.R.C.</Honour>
+      </Text>
       <PageNumber>11460</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -265,7 +280,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Francis</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>10219</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -275,7 +292,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Title>Capt. (T./Maj.) Henry .</Title>
-      <Text>. . Neville Grylils, Cbinpandeo, D.S.O. ... --. '</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8980</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -365,7 +384,9 @@
     <MainItem>
       <Key>Watts-Russell</Key>
       <Title>Lt.</Title>
-      <Text>-Comdr. Harold David, R.D., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>8737</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -382,7 +403,9 @@
     <MainItem>
       <Key>Waufehope</Key>
       <Title>Bt.</Title>
-      <Text>£ol. (T./Brig.Gen.) Arthur Grenfell, C.M.G,, D.S.O., Companion, Order of the Indian Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>11459</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -507,7 +530,9 @@
       <Key>Weldon</Key>
       <Title>Maj. (A./Lt.-Col?)</Title>
       <Forenames>Henry Walter</Forenames>
-      <Text>, Cbmpamion D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>9683</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -570,7 +595,10 @@
       <Key>Westfield</Key>
       <Title>Comdr.</Title>
       <Forenames>Henry George</Forenames>
-      <Text>. Gardiner, D.S.O., R.D., Officer, Order of the British Empire ... .:</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>9833</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -616,7 +644,11 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>William Ireland De Courcy</Forenames>
-      <Text>, M.D., F.R.C.S., Knighted</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+        <Honour>F.R.C.S.</Honour>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>10219</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -676,7 +708,10 @@
       </Key>
       <Title>Col. (T./Brig.-Gen.)</Title>
       <Forenames>George Francis</Forenames>
-      <Text>, C.B., C.M.G., Companion, Order of the &gt; Indian Empire</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>11459</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -687,7 +722,9 @@
       </Key>
       <Title>Miss</Title>
       <Forenames>Lucv Angela</Forenames>
-      <Text>, A.R.R.C., . Royal Red Cross, 1st Cl</Text>
+      <Text>
+        <Honour>A.R.R.C.</Honour>
+      </Text>
       <PageNumber>11463</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -856,7 +893,10 @@
     <MainItem>
       <Key>Willan</Key>
       <Title>Surg. Lt.</Title>
-      <Text>-Comdr. (actg. Surg. Comdr.) Robert Joseph, M.V.O., F.R.C.S., M.Sc, V.D., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>10634</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -887,7 +927,10 @@
       </Key>
       <Title>Capt. and Bt. Maj.</Title>
       <Forenames>Aubrey Ellis</Forenames>
-      <Text>, M.C., Companion, D.S.O</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>9683</PageNumber>
     </MainItem>
   </ItemGroup>

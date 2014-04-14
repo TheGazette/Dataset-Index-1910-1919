@@ -103,7 +103,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bushill</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, William Newsome (temporary Capt.)</Text>
       <PageNumber>8525</PageNumber>
     </MainItem>
@@ -231,7 +231,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Howatt</Key>
-      <Text>. John (2nd Lieut.)</Text>
+      <Forenames>John</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>8525</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -597,8 +598,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donnell, Bryan Bernard Joseph Aloysius (2nd Lieut.)</Text>
+      <Key>O'Donnell</Key>
+      <Forenames>Bryan Bernard Joseph Aloysius</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>9673</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1005,7 +1007,9 @@
         <KeyDitto>___ ___ ___ ___ .</KeyDitto>
       </Key>
       <Forenames>William A. Littledale</Forenames>
-      <Text>, D.S.O. (Capt. and Adjt.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>9121</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1124,7 +1128,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Temple</Key>
-      <Text>. John Howard (Maj.)</Text>
+      <Forenames>John Howard</Forenames>
+      <Text>(Maj.)</Text>
       <PageNumber>9386</PageNumber>
     </MainItem>
   </ItemGroup>

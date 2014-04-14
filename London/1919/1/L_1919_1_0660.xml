@@ -27,7 +27,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Spat</Key>
-      <Text>. 2nd Lt. A. E. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>A. E.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>3972</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -45,7 +47,9 @@
       <Key>Sparks</Key>
       <Title>Cadet</Title>
       <Forenames>W.</Forenames>
-      <Text>* (2nd Lt.) .. Sparling, Lt. (actg. Capt.) H.. M.C. (rel. commn. on acc. of i:l-health caused by wounds, and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1440</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -54,7 +58,10 @@
       <Key>Spary</Key>
       <Title>2nd Lt.</Title>
       <Forenames>H. G.</Forenames>
-      <Text>, M.C. (seod. for serv. with M.G.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>130</PageNumber>
     </MainItem>
     <SubItem>
@@ -103,11 +110,13 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>E. E.</Forenames>
-      <Text>, M.C. (seed, for duty as Brig. Transport Offr.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>162</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Restd. to estabt.</Text>
+      <Text>Restd. to estabt</Text>
       <PageNumber>2515</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -158,7 +167,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Snens</Key>
-      <Text>. Capt. (actg: Lt.-Col.) H. B. (temp. Lt.-Col.)</Text>
+      <Title>Capt. (actg: Lt.-Col.)</Title>
+      <Forenames>H. B.</Forenames>
+      <Text>(temp. Lt.-Col.)</Text>
       <PageNumber>3996</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -169,14 +180,18 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>T. P.</Forenames>
-      <Text>, M.C. (rel. commn. on aoc. of ill-health caused by wounds, and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>68</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Sperling</Key>
-      <Text>. Lt. A. H. B. (rel. commn., and retains rank of Lt.)</Text>
+      <Title>Lt.</Title>
+      <Forenames>A. H. B.</Forenames>
+      <Text>(rel. commn., and retains rank of Lt.)</Text>
       <PageNumber>331</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -237,7 +252,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Spilman</Key>
-      <Text>. Lt. (acte. Cant.) H. M.C. (rel. actg. rank of Capt. on ceasing to be 2nd in comd. of a Bty., B.F.A., T.F.)</Text>
+      <Title>Lt. (acte. Cant.)</Title>
+      <Forenames>H.</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3712</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -259,7 +278,7 @@
       <PageNumber>2554</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Bel. commn. on ace. of illhealth caused by wounds, and retains rank of Lt.</Text>
+      <Text>Bel. commn. on ace. of illhealth caused by wounds, and retains rank of Lt</Text>
       <PageNumber>3376</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -372,7 +391,9 @@
       <Key>Squance</Key>
       <Title>Capt. (actg. Maj.)</Title>
       <Forenames>E. L.</Forenames>
-      <Text>, M.C. (rel. aotg. rank of Maj. . on alteration of nesting.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1892</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -392,7 +413,9 @@
       <Key>Stable</Key>
       <Title>Capt. (actg. Maj.)</Title>
       <Forenames>W. N.</Forenames>
-      <Text>, M.C. (rel. actg. rank of Maj. on ceasing to be empld. on H.Q. of 25th Bn., R.W. Fus.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3104</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -419,7 +442,10 @@
       <Key>Stack</Key>
       <Title>Maj.</Title>
       <Forenames>E. C</Forenames>
-      <Text>, F.R.C.S. (trd. to R.A.M.C.)</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>494</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -459,7 +485,9 @@
       </Key>
       <Title>Lt. (temp. Capt.)</Title>
       <Forenames>R. W.</Forenames>
-      <Text>, M.C. (resigns ooimmn. on aoo of illhealth contracted on active service, and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4175</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -475,14 +503,18 @@
   <ItemGroup>
     <MainItem>
       <Key>Stamford</Key>
-      <Text>. 2nd Lt. R. Grey, the Earl of (rel. commn., and retains rank of 2nd Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>R. Grey</Forenames>
+      <Text>, the Earl of (rel. commn., and retains rank of 2nd Lt.)</Text>
       <PageNumber>3278</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Stanage</Key>
-      <Text>. Cadet V. C. (2nd Lt.)</Text>
+      <Title>Cadet</Title>
+      <Forenames>V. C.</Forenames>
+      <Text>(2nd Lt.)</Text>
       <PageNumber>4175</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -569,7 +601,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>R.</Forenames>
-      <Text>C.H. S. (restd. to estbt.)</Text>
+      <Text>
+        <Honour>C.H.</Honour>
+      </Text>
       <PageNumber>2029</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -624,7 +658,7 @@
       <PageNumber>1469</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Seed, for serv. with B.A.F.</Text>
+      <Text>Seed, for serv. with B.A.F</Text>
       <PageNumber>2029</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -720,7 +754,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Title>Ca.</Title>
-      <Text>pt. T. H. -L-. M.C. (actg. Maj., whilst 2nd in comd.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1893</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -745,8 +781,8 @@
     <MainItem>
       <Key>Stedall</Key>
       <Title>Cant.</Title>
-      <Forenames>G. St</Forenames>
-      <Text>. G. (restd. to estbt.)</Text>
+      <Forenames>G. St. G</Forenames>
+      <Text>. (restd. to estbt.)</Text>
       <PageNumber>4117</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -757,7 +793,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>L. P.</Forenames>
-      <Text>, D.S.O. (restd. to estbt.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3615</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -887,7 +925,9 @@
       <Key>Stembridge</Key>
       <Title>2nd Lt.</Title>
       <Forenames>G.</Forenames>
-      <Text>(L/t., and rem. seed, with M.G.C.]</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>797</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -957,7 +997,9 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Title>Lt.</Title>
-      <Text>{actg. Capt.) C, M.C. (rel. actg. rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>683</PageNumber>
     </MainItem>
     <SubItem>
@@ -1014,7 +1056,9 @@
       <Key>Stericker</Key>
       <Title>Capt.</Title>
       <Forenames>S.</Forenames>
-      <Text>(Bt. Maj.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>75</PageNumber>
     </MainItem>
     <SubItem>
@@ -1036,7 +1080,9 @@
       <Key>Stevens</Key>
       <Title>Lt.</Title>
       <Forenames>A. H.</Forenames>
-      <Text>, M.C. (date of precedence)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2946</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1080,7 +1126,10 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>J. B.</Forenames>
-      <Text>, M.C. (trd. to B.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>697</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1113,7 +1162,9 @@
       </Key>
       <Title>Lt. (actg. Maj.)</Title>
       <Forenames>S. H.</Forenames>
-      <Text>, M.C. (actg. Lt.-Col., whilst comdg. a Bn.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>330</PageNumber>
     </MainItem>
     <SubItem>

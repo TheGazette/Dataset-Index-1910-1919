@@ -4,7 +4,9 @@
     <MainItem>
       <Key>War</Key>
       <Forenames>Office</Forenames>
-      <Text>[cont.): Mentioned in Despatches (cont.) : Young, T./Maj. J. A., D.S.O., M.C</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>15028</PageNumber>
     </MainItem>
     <SubItem>
@@ -22,6 +24,7 @@
     <SubItem>
       <Text>
         <PageNumber>16223</PageNumber>
+        <Honour>M.M.</Honour>
         <PageNumber>15128</PageNumber>
         <PageNumber>16194</PageNumber>
       </Text>
@@ -128,7 +131,9 @@
       <Key>Smith</Key>
       <Title>Rev.</Title>
       <Forenames>Martin Linton</Forenames>
-      <Text>, D.D., D.S.O., Bishop Suffragan of Warrington</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>11970</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -250,7 +255,10 @@
       <Key>Allenby</Key>
       <Title>Gen. Sir</Title>
       <Forenames>Edmund Henry Hynman</Forenames>
-      <Text>. G.C.M.G., K.C.B.. Knight Grand Cross, Order of the Bath</Text>
+      <Text>
+        <Honour>G.C.M.G.</Honour>
+        <Honour>K.C.B.</Honour>
+      </Text>
       <PageNumber>13000</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -259,7 +267,9 @@
       <Key>Anderson</Key>
       <Title>Sir</Title>
       <Forenames>Alan Garrett</Forenames>
-      <Text>, K.B.E., Member of the Royal Commission on Sugar Supply</Text>
+      <Text>
+        <Honour>K.B.E.</Honour>
+      </Text>
       <PageNumber>12121</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -270,7 +280,11 @@
       </Key>
       <Title>Lt.-Col.</Title>
       <Forenames>James</Forenames>
-      <Text>, C.M.G., D.S.O., 2nd Bar to D.S.O</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>14205</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -281,7 +295,9 @@
       </Key>
       <Title>Capt. (A./Maj.)</Title>
       <Forenames>William Men-</Forenames>
-      <Text>zies, M.C., Companion, D.S.O</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>14209</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -330,7 +346,9 @@
   <ItemGroup>
     <MainItem>
       <Key>A</Key>
-      <Text>&amp;hton, MM. Helen, Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>MM</Honour>
+      </Text>
       <PageNumber>11772</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -347,7 +365,10 @@
       <Key>Atkinson</Key>
       <Title>Capt.</Title>
       <Forenames>George Prestage</Forenames>
-      <Text>, M.C., Companion, D.S.O</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>13133</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -362,14 +383,19 @@
   <ItemGroup>
     <MainItem>
       <Key>lAuten</Key>
-      <Text>_Lt. Harold, D.S.C., Victoria Cross</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+        <Honour>Victoria Cross</Honour>
+      </Text>
       <PageNumber>13695</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Awdry</Key>
-      <Text>Maj. Charles Selwyn, Companion,' D.S.O</Text>
+      <Title>Maj.</Title>
+      <Forenames>Charles Selwyn</Forenames>
+      <Text>, Companion,' D.S.O</Text>
       <PageNumber>14209</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -377,7 +403,9 @@
     <MainItem>
       <Key>Badlu</Key>
       <Forenames>Singh</Forenames>
-      <Text>, Ressaidar, Victoria Cross</Text>
+      <Text>
+        <Honour>Victoria Cross</Honour>
+      </Text>
       <PageNumber>14040</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -393,7 +421,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Baker</Key>
-      <Text>T./Ma.j. Alfred Henry, Officer, Order of the British Empire</Text>
+      <Forenames>T.</Forenames>
+      <Text>/Ma.j. Alfred Henry, Officer, Order of the British Empire</Text>
       <PageNumber>13576</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -415,7 +444,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bankart</Key>
-      <Text>Alfred Sevmour. Member, Order of the British Empire</Text>
+      <Forenames>Alfred Sevmour</Forenames>
+      <Text>. Member, Order of the British Empire</Text>
       <PageNumber>11773</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -440,11 +470,16 @@
       <Key>Barker</Key>
       <Title>Capt. (T./Maj.)</Title>
       <Forenames>William George</Forenames>
-      <Text>, D.S.O., M.C., Bar to D.S.O:</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>12959</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Victoria Cross</Text>
+      <Text>
+        <Honour>Victoria Cross</Honour>
+      </Text>
       <PageNumber>14203</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -479,7 +514,9 @@
       <Key>Barrett</Key>
       <Title>Lt.</Title>
       <Forenames>John Cridlan</Forenames>
-      <Text>, Victoria Cross</Text>
+      <Text>
+        <Honour>Victoria Cross</Honour>
+      </Text>
       <PageNumber>14774</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -522,7 +559,9 @@
       <Key>Basevi</Key>
       <Title>Maj.</Title>
       <Forenames>James</Forenames>
-      <Text>, Companion, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>14213</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -531,7 +570,9 @@
       <Key>Bastow</Key>
       <Title>Maj. (T./Lt.-Col.)</Title>
       <Forenames>Harold Vermuden</Forenames>
-      <Text>, Companion, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>13133</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -540,7 +581,9 @@
       <Key>Bathrast</Key>
       <Title>Capt. Sir</Title>
       <Forenames>Oharles</Forenames>
-      <Text>, K.B.E., created Baron (Baron. Bledisloe of Lydney)</Text>
+      <Text>
+        <Honour>K.B.E.</Honour>
+      </Text>
       <PageNumber>12250</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -548,7 +591,9 @@
     <MainItem>
       <Key>Bafct</Key>
       <Forenames>Capt Frederick</Forenames>
-      <Text>, Member, ; Fifth Class, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>11969</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -575,7 +620,10 @@
       <Key>Bayley</Key>
       <Title>Capt. Sir</Title>
       <Forenames>Henry Dennis Readett</Forenames>
-      <Text>, K.B.E.; Knight of Grace, St. John of Jerusalem</Text>
+      <Text>
+        <Honour>K.B.E.</Honour>
+        <Honour>Knight of Grace, St. John of Jerusalem</Honour>
+      </Text>
       <PageNumber>12898</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -583,7 +631,11 @@
     <MainItem>
       <Key>Beak</Key>
       <Forenames>T.</Forenames>
-      <Text>/Conidr. Daniel Marcus William, D.S.O., M.C., Victoria Cross</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>Victoria Cross</Honour>
+      </Text>
       <PageNumber>13471</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -601,7 +653,9 @@
       <Key>Beatham</Key>
       <Title>Pte.</Title>
       <Forenames>Robert Matthew</Forenames>
-      <Text>, Victoria Cross</Text>
+      <Text>
+        <Honour>Victoria Cross</Honour>
+      </Text>
       <PageNumber>14779</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -609,7 +663,9 @@
     <MainItem>
       <Key>Beauchamp</Key>
       <Forenames>Frank</Forenames>
-      <Text>, created Baronet</Text>
+      <Text>
+        <Honour>Baro-</Honour>
+      </Text>
       <PageNumber>13492</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -617,11 +673,16 @@
     <MainItem>
       <Key>Beauchamp-Proctor</Key>
       <Title>Lt. (T./Capt.)</Title>
-      <Text>. Andrew Weatherby, M.C., D.F.C. Companion, D.S.O</Text>
-      <PageNumber>12959</PageNumber>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>D.F.C.</Honour>
+      </Text>
     </MainItem>
-    <SubItem>
+    <Honour>
+      <PageNumber>12959</PageNumber>
       <Text>Victoria Cross-</Text>
+    </Honour>
+    <SubItem>
       <PageNumber>14204</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -673,7 +734,10 @@
     <MainItem>
       <Key>Benson</Key>
       <Forenames>T.</Forenames>
-      <Text>/Lt.-Col. Charles Bingley, D.S.O., Bar to D.S.O</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>13131</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -688,7 +752,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Bertie</Key>
-      <Text>of Thame, The Right Hon. Francis Leveson, Baron, G.C.B., G.C.M.G., G.C.V., created Viscount (Viscount Bertie of Thame^</Text>
+      <Text>
+        <Honour>G.C.B.</Honour>
+        <Honour>G.C.M.G.</Honour>
+      </Text>
       <PageNumber>12490</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -96,7 +96,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Beaumont</Key>
-      <Text>. Henry</Text>
+      <Forenames>Henry</Forenames>
       <PageNumber>9619</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -629,7 +629,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>William</Forenames>
+      <Title>William .</Title>
       <PageNumber>10231</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -645,8 +645,8 @@
       <Key>
         <KeyDitto>— ___ ___</KeyDitto>
       </Key>
-      <Forenames>William</Forenames>
-      <Text>...</Text>
+      <Title>William .</Title>
+      <Text>..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -669,7 +669,9 @@
       <Key>Bulwer</Key>
       <Title>Sir</Title>
       <Forenames>Henry Ernest Gas-</Forenames>
-      <Text>coyne, G.C.M.G</Text>
+      <Text>
+        <Honour>G.C.M.G</Honour>
+      </Text>
       <PageNumber>10496</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -826,7 +828,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Calder</Key>
-      <Forenames>John</Forenames>
+      <Title>John.</Title>
       <PageNumber>9919</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1240,7 +1242,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cox</Key>
-      <Forenames>Henry</Forenames>
+      <Title>Henry .</Title>
       <PageNumber>9316</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1563,9 +1565,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Moleyns</Forenames>
-      <Text>, Thomas Edward</Text>
+      <Key>De Moleyns</Key>
+      <Forenames>Thomas Edward</Forenames>
       <PageNumber>10974</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1646,7 +1647,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dickson</Key>
-      <Forenames>Bertram</Forenames>
+      <Title>Bertram .</Title>
       <PageNumber>11085</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1669,7 +1670,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dillon</Key>
-      <Forenames>Elizabeth</Forenames>
+      <Title>Elizabeth .</Title>
       <PageNumber>11084</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1774,7 +1775,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dynham</Key>
-      <Forenames>Edward</Forenames>
+      <Title>Edward .</Title>
       <PageNumber>8566</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1795,7 +1796,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Edmunds</Key>
-      <Text>. Reuben</Text>
+      <Forenames>Reuben</Forenames>
       <PageNumber>11086</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1832,7 +1833,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Elsworth</Key>
-      <Text>. Fanny Elizabeth</Text>
+      <Forenames>Fanny Elizabeth</Forenames>
       <PageNumber>10065</PageNumber>
     </MainItem>
   </ItemGroup>

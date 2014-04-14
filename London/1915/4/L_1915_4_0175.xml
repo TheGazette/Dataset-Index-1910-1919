@@ -350,7 +350,7 @@
       <PageNumber>12073</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Temp. Lt</Text>
+      <Text>Temp. Lt.</Text>
       <PageNumber>12073</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -533,8 +533,8 @@
     <MainItem>
       <Key>Calthrop</Key>
       <Title>Capt.</Title>
-      <Forenames>K.</Forenames>
-      <Text>de S. (seconded)</Text>
+      <Forenames>K. de S</Forenames>
+      <Text>. (seconded)</Text>
       <PageNumber>12344</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1056,7 +1056,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cantrill</Key>
-      <Text>S. P. H. (2nd Lt.)</Text>
+      <Forenames>S. P. H.</Forenames>
+      <Text>(2nd Lt.)</Text>
       <PageNumber>11915</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1265,7 +1266,9 @@
       <Key>Carleton</Key>
       <Title>Maj.</Title>
       <Forenames>F. M.</Forenames>
-      <Text>, D.S.O. (temp. Lt.-Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>10924</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1282,7 +1285,9 @@
     <MainItem>
       <Key>Carline</Key>
       <Forenames>W. A.</Forenames>
-      <Text>, M.D. (Lt.-Col., whose services will be available on mobilisation)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>9734</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1505,7 +1510,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Carrie</Key>
-      <Text>2nd Lt. F. G. (temp. Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>F. G.</Forenames>
+      <Text>(temp. Lt.)</Text>
       <PageNumber>12345</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1874,7 +1881,9 @@
     <MainItem>
       <Key>Castellan</Key>
       <Title>Maj.</Title>
-      <Text>-C. E. (Territorial Decoration)</Text>
+      <Text>
+        <Honour>Territorial Decoration</Honour>
+      </Text>
       <PageNumber>12335</PageNumber>
     </MainItem>
   </ItemGroup>

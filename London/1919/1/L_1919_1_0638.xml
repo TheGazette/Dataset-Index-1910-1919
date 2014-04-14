@@ -247,7 +247,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Leishton</Key>
-      <Text>. 2nd Lt. M. H. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>M. H.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>300</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -266,7 +268,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>M.</Forenames>
-      <Text>a-j. (actg. Lt.-Col.) J. W., D.S.O., M.B. (re!, adtg. rank)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3985</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -291,14 +295,20 @@
   <ItemGroup>
     <MainItem>
       <Key>Leiveslev</Key>
-      <Text>. 2nd Lt. V. W. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>V. W.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>2584</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Lemmon</Key>
-      <Text>. Maj. C. H., D.S.O. (actg. Lt.-Col. comdg. a Bde., R.F.A., T.F.)</Text>
+      <Title>Maj.</Title>
+      <Forenames>C. H.</Forenames>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>798</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -330,14 +340,18 @@
   <ItemGroup>
     <MainItem>
       <Key>Lenox</Key>
-      <Text>2nd Lt A. (Lt. and rem. seed, with M.G.C.)</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>2947</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Leonard</Key>
-      <Text>. Bty. Sjt.-Maj. S. (2nd LA.)</Text>
+      <Title>Bty. Sjt.-Maj.</Title>
+      <Forenames>S.</Forenames>
+      <Text>(2nd LA.)</Text>
       <PageNumber>1328</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -451,7 +465,9 @@
       <Key>Lewin</Key>
       <Title>Lt.</Title>
       <Forenames>C. J.</Forenames>
-      <Text>, M.C. (rel. commn. on acc. of ili-nealth, caused by wounds, and retains rank of Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>329</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -469,7 +485,10 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>aotg. Lt.-Col. D., D.S.O., M.C. (temp. Lt.-Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3832</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -481,7 +500,10 @@
       </Key>
       <Title>Col.</Title>
       <Forenames>F. G.</Forenames>
-      <Text>, C.B., C.M.G. (Hon, Col.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>697</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -559,7 +581,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Title>Qrmr.</Title>
-      <Text>, and Lt. J. (R.A. M.C. Gen. List) (Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3855</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -614,7 +638,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>V. A.</Forenames>
-      <Text>. M.C.. (actg. Capt. while empld. as 2nd in comd. of Heavy Batt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1144</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -641,21 +667,24 @@
   <ItemGroup>
     <MainItem>
       <Key>Lewtv</Key>
-      <Text>. Cidet R. A. (2nd Lt.)</Text>
+      <Forenames>Cidet R. A.</Forenames>
+      <Text>(2nd Lt.)</Text>
       <PageNumber>2246</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Leycester-Penrhyn</Key>
-      <Text>. Maj. A. L. (rel. commn. on acc. of ill-health, and retains rank of Maj.)</Text>
+      <Title>Maj.</Title>
+      <Forenames>A. L.</Forenames>
+      <Text>(rel. commn. on acc. of ill-health, and retains rank of Maj.)</Text>
       <PageNumber>3971</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Libbv</Key>
-      <Text>. 2nd ir,t. W. N. (seod. for service with Lab. Corns)</Text>
+      <Text>2nd ir,t. W. N. (seod. for service with Lab. Corns)</Text>
       <PageNumber>1470</PageNumber>
     </MainItem>
     <SubItem>
@@ -666,7 +695,7 @@
   <ItemGroup>
     <MainItem>
       <Key>T</Key>
-      <Text>.MTVUTV. 2nd Lt. G. V. (Lt.)</Text>
+      <Text>MTVUTV. 2nd Lt. G. V. (Lt.)</Text>
       <PageNumber>491</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -823,7 +852,9 @@
       <Key>Lindop</Key>
       <Title>2nd Lt.</Title>
       <Forenames>C.</Forenames>
-      <Text>(Lt., and rem. seed, with M.G.C.)</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>2234</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -882,7 +913,9 @@
     <MainItem>
       <Key>Lindsley</Key>
       <Title>Lt.</Title>
-      <Text>(aotg. Capt.) H. W., M.C. (actg. Maj. while comdg. Blty., R.F.A., T.F.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4160</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -899,7 +932,10 @@
     <MainItem>
       <Key>Linfoot</Key>
       <Title>Lt.</Title>
-      <Text>{aotg. Capt.) H. A., D.S.O., M.C. (aotg. Maj. while 2nd in comd,), Sulb. Not</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1144</PageNumber>
     </MainItem>
     <SubItem>
@@ -965,7 +1001,9 @@
       <Key>Lintern</Key>
       <Title>Lt.</Title>
       <Forenames>E. E. O</Forenames>
-      <Text>, M.C. (actg. Capt. while 2nd in comd. of Bity., R.F.A., T.F.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2063</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1000,7 +1038,10 @@
     <MainItem>
       <Key>Liskley</Key>
       <Title>Oa.</Title>
-      <Text>pt. J. D., M.D. (trd. to R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>708</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1014,7 +1055,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Lisser</Key>
-      <Text>. Cadet H. C. J. (2nd lit.)</Text>
+      <Title>Cadet</Title>
+      <Forenames>H. C. J.</Forenames>
+      <Text>(2nd lit.)</Text>
       <PageNumber>3830</PageNumber>
     </MainItem>
   </ItemGroup>

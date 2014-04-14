@@ -5,7 +5,11 @@
       <Key>Peyton</Key>
       <Title>Col.</Title>
       <Forenames>William E.</Forenames>
-      <Text>, C.V.O., . C.B., D.S.O. (half-pay list)</Text>
+      <Text>
+        <Honour>C.V.O.</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3169</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -23,7 +27,10 @@
       <Key>Pink</Key>
       <Title>Col.</Title>
       <Forenames>Francis J.</Forenames>
-      <Text>, C.B., C. M.G., D.S.O. (half-pay list)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4121</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -38,8 +45,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Pratt</Key>
-      <Forenames>Ernest St</Forenames>
-      <Text>. G. (Colonel)</Text>
+      <Forenames>Ernest St. G</Forenames>
+      <Text>. (Colonel)</Text>
       <PageNumber>2881</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -55,7 +62,9 @@
     <MainItem>
       <Key>Ram</Key>
       <Forenames>Subadar</Forenames>
-      <Text>Major Beli, Sardar Bahadur, I.O.M. (retired with rank of Capt.)</Text>
+      <Text>
+        <Honour>O.M.</Honour>
+      </Text>
       <PageNumber>4894</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -73,14 +82,18 @@
       <Key>Rowley</Key>
       <Title>Maj.</Title>
       <Forenames>Cecil A.</Forenames>
-      <Text>, D.S.O. (retired pay)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3928</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>John, Col. Charles W. R. (halfpay list)</Text>
+      <Key>St. John</Key>
+      <Title>Col.</Title>
+      <Forenames>Charles W. R.</Forenames>
+      <Text>(halfpay list)</Text>
       <PageNumber>2881</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -88,7 +101,9 @@
     <MainItem>
       <Key>Scott</Key>
       <Forenames>Thomas E.</Forenames>
-      <Text>, CJ.E., D.S.O. (temporary Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3388</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -188,7 +203,9 @@
       <Key>Tanner</Key>
       <Title>Col.</Title>
       <Forenames>John A.</Forenames>
-      <Text>, C.B., D. S^O. (retires on an Indian pension) ib~id. Taylor, Col. Ernest F. (retired pay)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -206,7 +223,9 @@
     <MainItem>
       <Key>Turner</Key>
       <Forenames>James G.</Forenames>
-      <Text>, C.B. (Maj.Gen.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>4007</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -232,7 +251,9 @@
       <Key>Watts</Key>
       <Title>Col.</Title>
       <Forenames>Herbert E.</Forenames>
-      <Text>, C.B. (retired nay)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>4007</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -284,7 +305,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Holford</Key>
-      <Text>Capt. and Brevet Lieut. Col. Sir George L., K.C.V.O., CLE. (retired pay)</Text>
+      <Title>Capt. and Brevet Lieut. Col. Sir</Title>
+      <Forenames>George L.</Forenames>
+      <Text>
+        <Honour>K.C.V.O.</Honour>
+      </Text>
       <PageNumber>4702</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -309,7 +334,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Hall</Key>
-      <Text>Second Lieut. Charles W. H., M.V.O. (Director of Music and . Hon. Lieut.)</Text>
+      <Forenames>Second</Forenames>
+      <Text>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>4451</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -357,14 +385,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Bell-Smvth</Key>
-      <Text>John A. (Lieut.-Col.)</Text>
+      <Forenames>John A.</Forenames>
+      <Text>(Lieut.-Col.)</Text>
       <PageNumber>4702</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Cooper</Key>
-      <Text>William R.F. (Capt.) ...</Text>
+      <Forenames>William R.F.</Forenames>
+      <Text>(Capt.) ...</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -447,8 +477,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Phipps</Key>
-      <Forenames>Second Lieut</Forenames>
-      <Text>, (on probation) Charles B. H. (resigned)</Text>
+      <Forenames>Second</Forenames>
+      <Text>Lieut, (on probation) Charles B. H. (resigned)</Text>
       <PageNumber>3758</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -515,7 +545,9 @@
       <Key>Wood</Key>
       <Title>Major</Title>
       <Forenames>Evelyn</Forenames>
-      <Text>FitzG. M., D.S.O. (retired pay)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -637,6 +669,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Tiiyll</Key>
+      <Title>Lieut.</Title>
+      <Forenames>Maurice A.</Forenames>
+      <Text>(correction)</Text>
+      <PageNumber>2879</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Neilson</Key>
       <Title>Capt.</Title>
       <Forenames>John F.</Forenames>
@@ -675,8 +716,8 @@
     <MainItem>
       <Key>Moberly</Key>
       <Title>Maj.</Title>
-      <Forenames>Cuthbert</Forenames>
-      <Text>von Essen (retired pay)</Text>
+      <Forenames>Cuthbert von Essen</Forenames>
+      <Text>(retired pay)</Text>
       <PageNumber>4381</PageNumber>
     </MainItem>
   </ItemGroup>

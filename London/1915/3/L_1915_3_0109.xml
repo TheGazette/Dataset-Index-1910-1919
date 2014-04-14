@@ -84,8 +84,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Dwyer, Alfred Stanhope (temporary 2nd Lieut.)</Text>
+      <Key>O'Dwyer</Key>
+      <Forenames>Alfred Stanhope</Forenames>
+      <Text>(temporary 2nd Lieut.)</Text>
       <PageNumber>8613</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -342,7 +343,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Syree</Key>
-      <Text>. (temporary) Capt. James A. W. (relinquishes his commission)</Text>
+      <Title>(temporary) Capt.</Title>
+      <Forenames>James A. W.</Forenames>
+      <Text>(relinquishes his commission)</Text>
       <PageNumber>8241</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -357,8 +360,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Thomson</Key>
-      <Forenames>Lieut</Forenames>
-      <Text>, (temporary Capt.) . Arthur A. Benjamin (2nd Lieut.)</Text>
+      <Title>Lieut, (temporary Capt.)</Title>
+      <Text>. Arthur A. Benjamin (2nd Lieut.)</Text>
       <PageNumber>8290</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -406,7 +409,9 @@
     <MainItem>
       <Key>Waterworth</Key>
       <Forenames>G. F.</Forenames>
-      <Text>, D.S.O. (Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8805</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -493,7 +498,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Ardagh</Key>
-      <Text>6. H., D.S.O. (temporary Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8241</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -885,7 +892,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Burton</Key>
-      <Text>. Cyril Joseph '(temporary 2nd Lieut.)</Text>
+      <Forenames>Cyril Joseph</Forenames>
+      <Text>'(temporary 2nd Lieut.)</Text>
       <PageNumber>8628</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -134,8 +134,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gillan</Key>
-      <Forenames>G. Van B.</Forenames>
-      <Text>(2nd Lieut.)</Text>
+      <Forenames>G. Van B</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>4754</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -400,15 +400,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Morrison</Key>
-      <Forenames>D. St</Forenames>
-      <Text>. G. (2nd Lieut.)</Text>
+      <Forenames>D. St. G</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>5731</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, A. C. (2nd Lieut.) ...</Text>
+      <Key>O'Connor</Key>
+      <Forenames>A. C.</Forenames>
+      <Text>(2nd Lieut.) ...</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -812,8 +813,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. Asaph, Rt. Rev. Lord Bishop of</Text>
+      <Key>St. Asaph</Key>
+      <Title>Rt. Rev. Lord</Title>
+      <Forenames>Bishop</Forenames>
+      <Text>of</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1526,7 +1529,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Holland</Key>
-      <Text>. Sir T. H. (Maj.)</Text>
+      <Title>Sir</Title>
+      <Forenames>T. H.</Forenames>
+      <Text>(Maj.)</Text>
       <PageNumber>5536</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -102,7 +102,7 @@
   <ItemGroup>
     <MainItem>
       <Key>I</Key>
-      <Text>..U.' Temporary Lieut!</Text>
+      <Text>.U.' Temporary Lieut!</Text>
       <PageNumber>4270</PageNumber>
     </MainItem>
     <SubItem>
@@ -194,7 +194,7 @@
   <ItemGroup>
     <MainItem>
       <Key>iL</Key>
-      <Text>..: Temporary Capt</Text>
+      <Text>.: Temporary Capt</Text>
       <PageNumber>5852</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -233,7 +233,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>N. Y. L.</Forenames>
-      <Text>, D.S.O. (antedated)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4997</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -387,8 +389,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Beauclerk</Key>
-      <Forenames>G. M.</Forenames>
-      <Text>de V. (temporary ' Capt.) '</Text>
+      <Forenames>G. M. de V</Forenames>
+      <Text>. (temporary ' Capt.) '</Text>
       <PageNumber>4376</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -458,7 +460,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Briscoe</Key>
-      <Text>. Henry A. W. (temporary .Maj.)</Text>
+      <Forenames>Henry A. W.</Forenames>
+      <Text>(temporary .Maj.)</Text>
       <PageNumber>3922</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -614,7 +617,8 @@
   <ItemGroup>
     <MainItem>
       <Key>De</Key>
-      <Text>.Stein, Edward (temporary Capt.)</Text>
+      <Forenames>Stein</Forenames>
+      <Text>, Edward (temporary Capt.)</Text>
       <PageNumber>3935</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -622,14 +626,16 @@
     <MainItem>
       <Key>Dimmer</Key>
       <Forenames>John H. S.</Forenames>
-      <Text>, V.C. (Capt.,aiid to remain seconded)</Text>
+      <Text>
+        <Honour>V.C.</Honour>
+      </Text>
       <PageNumber>4997</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Dowling</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>: Geoffrey C. (tem. porary Capt.)</Text>
       <PageNumber>4270</PageNumber>
     </MainItem>
@@ -645,8 +651,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Dubs</Key>
-      <Forenames>Lieut</Forenames>
-      <Text>, (temporary Capt.) Guy R. (relinquishes temporary rank on ceasing to be employed with the 8th Battalion)</Text>
+      <Title>Lieut, (temporary Capt.)</Title>
+      <Forenames>Guy R.</Forenames>
+      <Text>(relinquishes temporary rank on ceasing to be employed with the 8th Battalion)</Text>
       <PageNumber>6145</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -828,7 +835,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Griffith</Key>
-      <Text>. Harry 'M. (temporary Capt.) '</Text>
+      <Forenames>Harry</Forenames>
+      <Text>'M. (temporary Capt.) '</Text>
       <PageNumber>4416</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -934,8 +942,8 @@
   <ItemGroup>
     <MainItem>
       <Key>King</Key>
-      <Forenames>Lucas H. St</Forenames>
-      <Text>. A. (Lieut.)</Text>
+      <Forenames>Lucas H. St. A</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>3697</PageNumber>
     </MainItem>
     <SubItem>

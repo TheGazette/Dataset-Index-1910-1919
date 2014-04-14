@@ -294,7 +294,9 @@
       <Key>Hay</Key>
       <Title>Hon. and Lt. Sir</Title>
       <Forenames>Duncan</Forenames>
-      <Text>, Bt. (temp, commission terminated)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>11321</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -798,7 +800,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Harrison</Key>
-      <Text>Lt. (temp. Capt.) H. C. (seconded with Royal Garrison Artillery (South African Contingent)</Text>
+      <Title>Lt. (temp. Capt.)</Title>
+      <Forenames>H. C.</Forenames>
+      <Text>(seconded with Royal Garrison Artillery (South African Contingent)</Text>
       <PageNumber>12334</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -858,7 +862,9 @@
       <Key>Paris</Key>
       <Title>Col. (temp. Maj.-Gen.)</Title>
       <Forenames>A.</Forenames>
-      <Text>, C.B. (noted for distinguished service in command of the Royal .Naval Division)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>11029</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -890,14 +896,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Ridings</Key>
-      <Text>A. W. G. {Maj.)</Text>
+      <Forenames>A. W. G.</Forenames>
+      <Text>{Maj.)</Text>
       <PageNumber>10277</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Russell</Key>
-      <Text>G. Y. (Maj.) ... ~</Text>
+      <Forenames>G. Y.</Forenames>
+      <Text>(Maj.) ... ~</Text>
       <PageNumber>10277</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -961,7 +969,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Weston</Key>
-      <Text>Lt. E. C. (temp. Capt.)</Text>
+      <Title>Lt.</Title>
+      <Forenames>E. C.</Forenames>
+      <Text>(temp. Capt.)</Text>
       <PageNumber>13024</PageNumber>
     </MainItem>
   </ItemGroup>

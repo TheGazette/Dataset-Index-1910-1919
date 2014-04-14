@@ -325,7 +325,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Lacey</Key>
-      <Text>8. J., O.B.E. (corr. of date of retirement)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4215</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -398,7 +400,9 @@
     <MainItem>
       <Key>Shearme</Key>
       <Forenames>E. H. S.</Forenames>
-      <Text>, O.B.E</Text>
+      <Text>
+        <Honour>O.B.E</Honour>
+      </Text>
       <PageNumber>7299</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -421,7 +425,9 @@
     <MainItem>
       <Key>Spiokernell</Key>
       <Forenames>E. T.</Forenames>
-      <Text>, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>4753</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -588,7 +594,10 @@
       <Key>Hill</Key>
       <Title>Sir</Title>
       <Forenames>R.</Forenames>
-      <Text>, K.C.M.G., C.B.,</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>7299</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -599,7 +608,9 @@
       <Key>Norman</Key>
       <Title>Sir</Title>
       <Forenames>W. H.</Forenames>
-      <Text>, K.C.B</Text>
+      <Text>
+        <Honour>K.C.B</Honour>
+      </Text>
       <PageNumber>7299</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -608,7 +619,9 @@
     <MainItem>
       <Key>Finlayson</Key>
       <Forenames>H. W.</Forenames>
-      <Text>, D.S.O., M.S</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7830</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -616,7 +629,9 @@
     <MainItem>
       <Key>Maclean</Key>
       <Forenames>A.</Forenames>
-      <Text>, M.B., D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>7554</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -624,7 +639,9 @@
     <MainItem>
       <Key>Weightman</Key>
       <Forenames>A. E.</Forenames>
-      <Text>, O.B.E.,</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>7299</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -662,7 +679,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Hardie</Key>
-      <Text>«,, M.D., O.B.E</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+        <Honour>O.B.E</Honour>
+      </Text>
       <PageNumber>7299</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -723,7 +743,9 @@
     <MainItem>
       <Key>Fleming</Key>
       <Forenames>A. F.</Forenames>
-      <Text>, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>6364</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -768,7 +790,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rortinson</Key>
-      <Text>. F. C</Text>
+      <Forenames>F. C.</Forenames>
       <PageNumber>6364</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -882,10 +904,9 @@
       <Text>, M.B</Text>
       <PageNumber>6365</PageNumber>
     </MainItem>
-    <SubSectionTitle>
-      <Text>Surgeon-Lieutenants</Text>
-    </SubSectionTitle>
+    <SubSectionTitle>Surgeon-Lieutenants</SubSectionTitle>
     <SubItem>
+      <Text>Surgeon-Lieutenants.</Text>
       <PageNumber>5508</PageNumber>
     </SubItem>
   </ItemGroup>

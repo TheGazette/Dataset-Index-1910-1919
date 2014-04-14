@@ -3,7 +3,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Robinson</Key>
-      <Text>; Sir F. V. L., Bart. (Lieut.) '</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>1831</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -171,7 +173,9 @@
       <Key>Stapleton</Key>
       <Title>Sir</Title>
       <Forenames>M. T.</Forenames>
-      <Text>, Bart. (2nd Lieut.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>454</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -370,9 +374,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Cutsem</Forenames>
-      <Text>, Lieut. E. C. L. (resigned)</Text>
+      <Key>Van Cutsem</Key>
+      <Title>Lieut.</Title>
+      <Forenames>E. C. L.</Forenames>
+      <Text>(resigned)</Text>
       <PageNumber>977</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -501,8 +506,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wynne-Roberts</Key>
-      <Forenames>C. Le</Forenames>
-      <Text>de S. (2nd Lieut.) lo</Text>
+      <Forenames>C. Le de S</Forenames>
+      <Text>. (2nd Lieut.) lo</Text>
       <PageNumber>3</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -732,7 +737,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Burrow</Key>
-      <Text>2nd Lieut. S. G. (resigned)</Text>
+      <Title>2nd Lieut.</Title>
+      <Forenames>S. G.</Forenames>
+      <Text>(resigned)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -784,6 +791,13 @@
       <Forenames>C. G.</Forenames>
       <Text>(2nd Lieut.)</Text>
       <PageNumber>461</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Havilland</Key>
+      <Text>. Lieut.-Col. R. S. (resigned)</Text>
+      <PageNumber>136</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1023,8 +1037,8 @@
     <MainItem>
       <Key>Maxwell</Key>
       <Title>2nd Lieut.</Title>
-      <Forenames>H. St</Forenames>
-      <Text>. G. H. (resigned)</Text>
+      <Forenames>H. St. G</Forenames>
+      <Text>. H. (resigned)</Text>
       <PageNumber>803</PageNumber>
     </MainItem>
   </ItemGroup>

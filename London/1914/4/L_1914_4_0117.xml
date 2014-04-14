@@ -34,7 +34,9 @@
       <Key>Even</Key>
       <Title>Brevet Col.</Title>
       <Forenames>George E.</Forenames>
-      <Text>, C.B. (to command 6th Bat.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>9962</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -102,7 +104,9 @@
       <Key>Hawley</Key>
       <Title>Sir</Title>
       <Forenames>Henry C. Wingfield</Forenames>
-      <Text>, Bart, (temporary Lieut.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>11141</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -264,8 +268,8 @@
     <MainItem>
       <Key>Middleton</Key>
       <Title>Capt.</Title>
-      <Forenames>C.</Forenames>
-      <Text>de C. (Adjt.)</Text>
+      <Forenames>C. de C</Forenames>
+      <Text>. (Adjt.)</Text>
       <PageNumber>8492</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -333,7 +337,9 @@
       <Key>Russell</Key>
       <Title>2nd Lieut.</Title>
       <Forenames>J. R.</Forenames>
-      <Text>, D.S.O. (temporary Lieut., and to be supernumerary)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>10559</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -749,6 +755,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Hoghton</Key>
+      <Title>Lieut.</Title>
+      <Forenames>G.</Forenames>
+      <Text>(temporary Capt. and to be supernumerary)</Text>
+      <PageNumber>10559</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Dill</Key>
       <Title>Maj.</Title>
       <Forenames>Richard</Forenames>
@@ -856,7 +871,9 @@
       <Key>Holland</Key>
       <Title>Lieut.-Col.</Title>
       <Forenames>Guy L.</Forenames>
-      <Text>, M.V.O. (to command 9th Bat.)</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>7904</PageNumber>
     </MainItem>
     <SubItem>
@@ -899,7 +916,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kent</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, and Adjt. Geoffrey H. (temporary Capt.) ... .....;</Text>
       <PageNumber>8854</PageNumber>
     </MainItem>
@@ -976,8 +993,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Martin</Key>
-      <Forenames>Edward C.</Forenames>
-      <Text>de R. (Capt:)</Text>
+      <Forenames>Edward C. de R</Forenames>
+      <Text>. (Capt:)</Text>
       <PageNumber>8220</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1058,7 +1075,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Penny</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, and Adjt. T. E. F. (temporary Capt.)</Text>
       <PageNumber>10449</PageNumber>
     </MainItem>
@@ -1164,8 +1181,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. John, Ferdinand John (temporary Maj.) H</Text>
+      <Key>St. John</Key>
+      <Forenames>Ferdinand John</Forenames>
+      <Text>(temporary Maj.) H</Text>
       <PageNumber>039</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1205,8 +1223,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stockwell</Key>
-      <Forenames>Eric C. St</Forenames>
-      <Text>. G. (temporary Capt.)</Text>
+      <Forenames>Eric C. St. G</Forenames>
+      <Text>. (temporary Capt.)</Text>
       <PageNumber>9243</PageNumber>
     </MainItem>
     <SubItem>

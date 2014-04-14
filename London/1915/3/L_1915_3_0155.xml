@@ -106,8 +106,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Maodonnell</Key>
-      <Forenames>John H. O</Forenames>
-      <Text>'C. de C. (temporary 2nd Lieut.)</Text>
+      <Forenames>John H. O'C</Forenames>
+      <Text>. de C. (temporary 2nd Lieut.)</Text>
       <PageNumber>9522</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -494,7 +494,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rose</Key>
-      <Text>. Matthew Howard (temporary 2nd Lieut.)</Text>
+      <Forenames>Matthew Howard</Forenames>
+      <Text>(temporary 2nd Lieut.)</Text>
       <PageNumber>6561</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -551,7 +552,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Shipster</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, W. N. (temporary Capt.)</Text>
       <PageNumber>9559</PageNumber>
     </MainItem>
@@ -639,7 +640,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Spurlinc</Key>
-      <Text>. Jack Ansley (temporary 2nd Lieut.)</Text>
+      <Forenames>Jack Ansley</Forenames>
+      <Text>(temporary 2nd Lieut.)</Text>
       <PageNumber>8113</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -686,7 +688,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Tavare</Key>
-      <Text>. Bertram IF. N. (temporary 2nd Lieut.)</Text>
+      <Forenames>Bertram</Forenames>
+      <Text>IF. N. (temporary 2nd Lieut.)</Text>
       <PageNumber>9522</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -702,7 +705,9 @@
     <MainItem>
       <Key>Theobald</Key>
       <Forenames>H. C. W.</Forenames>
-      <Text>. D.S.O. (Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8809</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -728,7 +733,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Thome</Key>
-      <Text>. Adjt. Frank O. (temporary Capt.)</Text>
+      <Title>Adjt.</Title>
+      <Forenames>Frank O.</Forenames>
+      <Text>(temporary Capt.)</Text>
       <PageNumber>8142</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -760,7 +767,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Turpin</Key>
-      <Text>. Charles T. (temporary 2nd Lieut.) ,</Text>
+      <Forenames>Charles T.</Forenames>
+      <Text>(temporary 2nd Lieut.) ,</Text>
       <PageNumber>8628</PageNumber>
       <PageNumber>9523</PageNumber>
     </MainItem>
@@ -839,7 +847,9 @@
       <Key>Weston</Key>
       <Title>Maj.</Title>
       <Forenames>R. S.</Forenames>
-      <Text>, C.M.G. (temporary Lieut.-Col.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>9073</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -991,7 +1001,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Baker</Key>
-      <Text>. Lieut. A. W. H. (temporary</Text>
+      <Title>Lieut.</Title>
+      <Forenames>A. W. H.</Forenames>
+      <Text>(temporary</Text>
       <PageNumber>9559</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1038,7 +1050,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Clifford</Key>
-      <Text>. Herbert (temporary 2nd</Text>
+      <Forenames>Herbert</Forenames>
+      <Text>(temporary 2nd</Text>
       <PageNumber>7331</PageNumber>
     </MainItem>
     <SubItem>
@@ -1109,7 +1122,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Edwards</Key>
-      <Text>. W. A. S. (Maj.) ... -</Text>
+      <Forenames>W. A. S.</Forenames>
+      <Text>(Maj.) ... -</Text>
       <PageNumber>8809</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1117,7 +1131,9 @@
     <MainItem>
       <Key>Ewald</Key>
       <Forenames>F. C.T.</Forenames>
-      <Text>, D.S.O. (Maj.) ... Fletcher, William Henry Anthony</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8379</PageNumber>
     </MainItem>
   </ItemGroup>

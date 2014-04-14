@@ -163,8 +163,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Verling</Key>
-      <Title>(temp.) 2nd Lt. St.</Title>
-      <Forenames>John</Forenames>
+      <Title>(temp.) 2nd Lt.</Title>
+      <Forenames>St. John</Forenames>
       <Text>(relinquishes his commission)</Text>
       <PageNumber>2772</PageNumber>
     </MainItem>
@@ -728,25 +728,26 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Von</Key>
-      <Forenames>Braun</Forenames>
-      <Text>, C. R. B. (temp. Capt.)</Text>
+      <Key>Von Braun</Key>
+      <Forenames>C. R. B.</Forenames>
+      <Text>(temp. Capt.)</Text>
       <PageNumber>274</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Von</Key>
-      <Forenames>Hugel</Forenames>
-      <Text>, Lt.Coi. N. G. (Halfpay List)</Text>
+      <Key>Von Hugel</Key>
+      <Title>Lt.</Title>
+      <Text>Coi. N. G. (Halfpay List)</Text>
       <PageNumber>2939</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Von</Key>
-      <Forenames>Poellnitz</Forenames>
-      <Text>, Lt. H. W. (Flying . Officer, and to be seconded)</Text>
+      <Key>Von Poellnitz</Key>
+      <Title>Lt.</Title>
+      <Forenames>H. W.</Forenames>
+      <Text>(Flying . Officer, and to be seconded)</Text>
       <PageNumber>1456</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -765,8 +766,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Voules</Key>
-      <Forenames>H. St</Forenames>
-      <Text>. G. (temp. Lt.)</Text>
+      <Forenames>H. St. G</Forenames>
+      <Text>. (temp. Lt.)</Text>
       <PageNumber>1133</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -890,8 +891,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>J. O</Forenames>
-      <Text>'D. (2nd Lt. on probation)</Text>
+      <Forenames>J. O'D</Forenames>
+      <Text>. (2nd Lt. on probation)</Text>
       <PageNumber>104</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -953,7 +954,9 @@
     <MainItem>
       <Key>Wadeson</Key>
       <Forenames>F. W. G.</Forenames>
-      <Text>, C.B. (Maj.Gen.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>1667</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -985,7 +988,9 @@
     <MainItem>
       <Key>Wadsworth</Key>
       <Forenames>T. W.</Forenames>
-      <Text>, M.D. (temp. Capt.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>1813</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1083,8 +1088,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Wake</Key>
-      <Forenames>C. St</Forenames>
-      <Text>. A., C.M.G. (temp. Maj.) -</Text>
+      <Forenames>C. St. A</Forenames>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>1816</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1094,8 +1101,8 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Title>Lt.-Col.</Title>
-      <Forenames>E. St</Forenames>
-      <Text>. A. (vacates the command of a Battalion)</Text>
+      <Forenames>E. St. A</Forenames>
+      <Text>. (vacates the command of a Battalion)</Text>
       <PageNumber>2904</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1264,7 +1271,9 @@
     <MainItem>
       <Key>Walford</Key>
       <Forenames>J. C</Forenames>
-      <Text>, D.S.O. (Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>1214</PageNumber>
     </MainItem>
     <SubItem>

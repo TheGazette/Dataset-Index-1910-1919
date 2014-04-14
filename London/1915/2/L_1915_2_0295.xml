@@ -110,9 +110,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Moleyns</Forenames>
-      <Text>, Arthur A. (temporary Sub-Lieut.)</Text>
+      <Key>De Moleyns</Key>
+      <Forenames>Arthur A.</Forenames>
+      <Text>(temporary Sub-Lieut.)</Text>
       <PageNumber>5209</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -338,7 +338,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Dunraven</Key>
-      <Text>. The Earl of, K.P., C.M.G. (temporary Commander)</Text>
+      <Title>The Earl</Title>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>5007</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -635,7 +638,9 @@
     <MainItem>
       <Key>Franks</Key>
       <Forenames>W. Temple</Forenames>
-      <Text>, C.B. (temporary Sub-Lieut.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>5513</PageNumber>
     </MainItem>
     <SubItem>
@@ -988,7 +993,9 @@
       <Key>Gully</Key>
       <Title>Hon.</Title>
       <Forenames>Edward W. Karslake</Forenames>
-      <Text>, C.B. (temporary Lieut.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>4777</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1108,7 +1115,10 @@
     <MainItem>
       <Key>Harrel</Key>
       <Forenames>William Vesey</Forenames>
-      <Text>, C.B., M.V.O. (temporary Commander)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>4264</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1149,8 +1159,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Haslam</Key>
-      <Forenames>Samuel F. O</Forenames>
-      <Text>'Grady (temporary Sub-Lieut.)</Text>
+      <Forenames>Samuel F. O'Grady</Forenames>
+      <Text>(temporary Sub-Lieut.)</Text>
       <PageNumber>6167</PageNumber>
     </MainItem>
   </ItemGroup>

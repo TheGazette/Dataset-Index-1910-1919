@@ -30,8 +30,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Meiara, T./Lt. Michael Aloysius, Member, Order of the British Empire</Text>
+      <Key>O'Meiara</Key>
+      <Forenames>T.</Forenames>
+      <Text>/Lt. Michael Aloysius, Member, Order of the British Empire</Text>
       <PageNumber>15441</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -51,7 +52,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>Charles Sefton</Forenames>
-      <Text>, M.D., Officer, Order of the British</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>15436</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -85,8 +88,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Reilly, T./Ohapln., 3rd CI., Rev. James, Officer, Order of the</Text>
+      <Key>O'Reilly</Key>
+      <Forenames>T.</Forenames>
+      <Text>/Ohapln., 3rd CI., Rev. James, Officer, Order of the</Text>
       <PageNumber>15454</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -95,7 +99,9 @@
       <Key>Ormond</Key>
       <Title>Maj.</Title>
       <Forenames>Arthur William</Forenames>
-      <Text>, F.R.C.S., Commander, Order</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>15451</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -112,7 +118,9 @@
     <MainItem>
       <Key>Orr</Key>
       <Title>Capt.</Title>
-      <Text>land Bt. Maj. (A./Lt. Col.) 'Frank George, Com mander, Order of the British</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>15451</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -180,7 +188,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Owen</Key>
-      <Text>iLt.-Col. Charles Harold Wells, D.S.O., Companion, St. Michael and St. George</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, St. Michael and St. George</Honour>
+      </Text>
       <PageNumber>15436</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -200,7 +211,9 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Title>Capt. and Bt. Maj.</Title>
-      <Text>i(T./Lt.jCol.) Walter Llewellyn, M.C., Companion, D.S.O'</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>12226</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -249,11 +262,15 @@
       <Key>Paget-Tomlinson</Key>
       <Title>Capt.</Title>
       <Forenames>I</Forenames>
-      <Text>(A./Maj: William, Companion, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>15289</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>T./2nd Lt. :(A./Capt.) Charles John Murray, M.C., Companion, D.S.O</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>12226</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -270,7 +287,9 @@
       <Key>Palin</Key>
       <Title>Maj.-Gen.</Title>
       <Forenames>Philip Charles</Forenames>
-      <Text>, O.B., C.M.G., Knight Commander, St. Michael and St. George</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>12650</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -296,7 +315,10 @@
       <Key>Pannall</Key>
       <Title>Lt. (T./Miaj. and A./Lt.Cbl.)</Title>
       <Forenames>Charlie</Forenames>
-      <Text>, M.C., Companion, D.S.O</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>12226</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -331,7 +353,9 @@
         <KeyDitto>___ ___ .</KeyDitto>
       </Key>
       <Title>Lt.</Title>
-      <Text>-Cdr. George Hoskins Irton, Companion, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>15431</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -350,7 +374,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>dpt. (Reginald Francis, C. M.G., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>12777</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -358,7 +384,9 @@
     <MainItem>
       <Key>Parkes</Key>
       <Forenames>T.</Forenames>
-      <Text>/Maj. (A./Lt.-Col.) Walter, M.C., Companion, D.S.O</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>12226</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -375,7 +403,9 @@
       <Key>Parnell</Key>
       <Title>Oomdr.</Title>
       <Forenames>Gerald Langston</Forenames>
-      <Text>, D.S.O., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>13744</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -383,7 +413,9 @@
     <MainItem>
       <Key>Piarr</Key>
       <Title>Lt.-Col.</Title>
-      <Text>' and Bt. Col. Harington Owen,, Companion, iSt. Michael and St. George</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>12980</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -401,7 +433,9 @@
     <MainItem>
       <Key>Parry</Key>
       <Forenames>Frederick Sydney</Forenames>
-      <Text>, C.B., H.M. Commissioner of Customs and Excise</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>15955</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -410,7 +444,9 @@
       <Key>Parsons</Key>
       <Title>Maj.</Title>
       <Forenames>Bernard Edward Thomas</Forenames>
-      <Text>, Companion, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>15289</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -430,7 +466,10 @@
         <KeyDitto>___ ___ ___ .</KeyDitto>
       </Key>
       <Title>Lt.</Title>
-      <Text>-Cbl. William Forster, D. S.O., Companion, St. Michael and St. George</Text>
+      <Text>
+        <Honour>D. S.O.</Honour>
+        <Honour>Companion, St. Michael and St. George</Honour>
+      </Text>
       <PageNumber>15445</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -449,7 +488,10 @@
     <MainItem>
       <Key>Partridge</Key>
       <Forenames>T.</Forenames>
-      <Text>/Col. Sydney George, C.B.E., Companion, St. Michael and St. George</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>Companion, St. Michael and St. George</Honour>
+      </Text>
       <PageNumber>15436</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -544,7 +586,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Peal</Key>
-      <Text>(Lt.-Col. Edward Raymond, O.B.E., D.S.C., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>12526</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -579,7 +624,9 @@
     <MainItem>
       <Key>Pearse</Key>
       <Title>Lt.</Title>
-      <Text>i(A./Capt.) Reginald Guy, M.C., Companion, D.S.O'</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>12226</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -590,7 +637,9 @@
       </Key>
       <Title>late Sjt.</Title>
       <Forenames>Samuel George</Forenames>
-      <Text>, M.M., Victoria, Cross</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>12979</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -598,7 +647,10 @@
     <MainItem>
       <Key>Ieberdy</Key>
       <Title>Lt. (A./Capt.)</Title>
-      <Text>_ Oharles Edward Vernon Kingsbury, M.C., Companion, D.S.O</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>12226</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -606,7 +658,9 @@
     <MainItem>
       <Key>Peel</Key>
       <Forenames>T.</Forenames>
-      <Text>/Maj. (A./Lt.-Cbl.) William Ralph, D.S.O., 2nd Bar to D.S.O</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>15280</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -614,7 +668,9 @@
     <MainItem>
       <Key>Pelly</Key>
       <Title>Maj. and Bt.</Title>
-      <Text>ILt.-Col. '(T./Brig. Gen.) Raymond Theodore, D.S.O., Bar to D.S.O'</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>15281</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -622,7 +678,9 @@
     <MainItem>
       <Key>Pemberton</Key>
       <Forenames>T.</Forenames>
-      <Text>/Capt. Francis Seaton, M.C., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>15454</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -632,7 +690,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>T.</Forenames>
-      <Text>/Capt. Harold Oharles, Companion, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>15289</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -657,7 +717,9 @@
     <MainItem>
       <Key>Penrose</Key>
       <Forenames>Emily</Forenames>
-      <Text>, O.B.E., M.A., Member of the Royal Commission on Oxford and Cambridge Universities</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>13908</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -674,7 +736,9 @@
     <MainItem>
       <Key>Pepys</Key>
       <Title>Lt.</Title>
-      <Text>l(T./Maj.) Christopher, M.C, Companion, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>15289</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -682,7 +746,9 @@
     <MainItem>
       <Key>Percival</Key>
       <Title>Maj. and Bt. Lt.</Title>
-      <Text>-Cbl. (T./Cbl.) Harold, Franz Passawer, O.M.G., D.S.O., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>15451</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -701,7 +767,9 @@
       <Key>Percy</Key>
       <Title>Capt. and Bt. Maj. (T./ Col.)</Title>
       <Forenames>William Richard</Forenames>
-      <Text>, Lord, D.S.O., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>15451</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -710,7 +778,9 @@
       <Key>iPertwee</Key>
       <Title>actg. Payr. Lt.</Title>
       <Forenames>Herbert Guy</Forenames>
-      <Text>, Companion, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>13747</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -778,7 +848,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Philipps</Key>
-      <Text>(Laurence Richard, created Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>12418</PageNumber>
     </MainItem>
   </ItemGroup>

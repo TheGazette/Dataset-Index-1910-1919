@@ -224,8 +224,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Avery</Key>
-      <Forenames>A. B. St</Forenames>
-      <Text>. J. (Lt.)</Text>
+      <Forenames>A. B. St. J</Forenames>
+      <Text>. (Lt.)</Text>
       <PageNumber>2998</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -418,7 +418,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Bayly</Key>
-      <Text>,2nd Lt., attd., P. F. B., M.C. (actg. Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>153</PageNumber>
     </MainItem>
     <SubItem>
@@ -429,14 +431,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Beamsi</Key>
-      <Text>. R..H. (Lt.)</Text>
+      <Forenames>R.</Forenames>
+      <Text>.H. (Lt.)</Text>
       <PageNumber>2999</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Bear</Key>
-      <Text>. R. M. (Hon. 2nd lit., on retirement)</Text>
+      <Forenames>R. M.</Forenames>
+      <Text>(Hon. 2nd lit., on retirement)</Text>
       <PageNumber>499</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -884,14 +888,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Brodie</Key>
-      <Text>. J. W. (2nd Lt.)</Text>
+      <Forenames>J. W.</Forenames>
+      <Text>(2nd Lt.)</Text>
       <PageNumber>151</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Bromle</Key>
-      <Text>.y, R. E. i(2nd lit.)</Text>
+      <Text>y, R. E. i(2nd lit.)</Text>
       <PageNumber>3772</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1264,7 +1269,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Clarke</Key>
-      <Text>. A. B. (2nd Lt.)</Text>
+      <Forenames>A. B.</Forenames>
+      <Text>(2nd Lt.)</Text>
       <PageNumber>179</PageNumber>
     </MainItem>
   </ItemGroup>

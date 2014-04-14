@@ -37,7 +37,9 @@
       <Key>Fletcher-Vane</Key>
       <Title>Temporary Maj. Sir</Title>
       <Forenames>Francis P.</Forenames>
-      <Text>, Bt, (appointed ' to the 9th Bat.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>10194</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -68,7 +70,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Kellv</Key>
-      <Text>. Capt. Vincent J. (temporary Maj.)</Text>
+      <Title>Capt.</Title>
+      <Forenames>Vincent J.</Forenames>
+      <Text>(temporary Maj.)</Text>
       <PageNumber>11127</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -76,7 +80,9 @@
     <MainItem>
       <Key>Kenmare</Key>
       <Forenames>Valentine Charles</Forenames>
-      <Text>Earl of, C.V.O. (temporary Maj.)</Text>
+      <Text>
+        <Honour>C.V.O.</Honour>
+      </Text>
       <PageNumber>11026</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -169,8 +175,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, John (2nd Lieut.)</Text>
+      <Key>O'Brien</Key>
+      <Forenames>John</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>10897</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -193,7 +200,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Stewart</Key>
-      <Text>. 2nd Lieut. J. A. (temporary Lieut., and to be supernumerary)</Text>
+      <Title>2nd Lieut.</Title>
+      <Forenames>J. A.</Forenames>
+      <Text>(temporary Lieut., and to be supernumerary)</Text>
       <PageNumber>10560</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -315,9 +324,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Cuffey</Key>
-      <Forenames>Maurice O</Forenames>
-      <Text>'Connor (2nd Lieut.)</Text>
+      <Forenames>Maurice O'Connor</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>10696</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Lusignan</Key>
+      <Forenames>Raymond</Forenames>
+      <Text>(Lieut.)</Text>
+      <PageNumber>8238</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -339,7 +356,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ewbank</Key>
-      <Text>. Arthur L. John (temporary Lieut.)</Text>
+      <Forenames>Arthur L. John</Forenames>
+      <Text>(temporary Lieut.)</Text>
       <PageNumber>9517</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -446,8 +464,8 @@
     <MainItem>
       <Key>Kennedy</Key>
       <Title>2nd Lieut.</Title>
-      <Forenames>A. St</Forenames>
-      <Text>. C. (temporary Lieut., and to be supernumerary)</Text>
+      <Forenames>A. St. C</Forenames>
+      <Text>. (temporary Lieut., and to be supernumerary)</Text>
       <PageNumber>10560</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -599,7 +617,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Palmer</Key>
-      <Text>. Lodge S. N. (temporary Capt.)</Text>
+      <Forenames>Lodge S. N.</Forenames>
+      <Text>(temporary Capt.)</Text>
       <PageNumber>10797</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -639,14 +658,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Roberts</Key>
-      <Text>. Henry N. (temporary Lieut.)</Text>
+      <Forenames>Henry N.</Forenames>
+      <Text>(temporary Lieut.)</Text>
       <PageNumber>9137</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Shadforth</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, and Adjt. Harold Anthony (temporary Capt.)</Text>
       <PageNumber>10301</PageNumber>
     </MainItem>
@@ -656,7 +676,10 @@
       <Key>Shaw</Key>
       <Title>Maj. Sir</Title>
       <Forenames>Frederick W.</Forenames>
-      <Text>. Bt., D.S.O. (to command 8th Bat., and to be temporary Lieut-Col.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8252</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -687,8 +710,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Tippet</Key>
-      <Forenames>Lieut-</Forenames>
-      <Text>Col. (Hon. Maj. in Army) C. H. (temporary Maj.)...</Text>
+      <Title>Lieut-Col. (Hon. Maj. in Army)</Title>
+      <Forenames>C. H.</Forenames>
+      <Text>(temporary Maj.)...</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -719,7 +743,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Welstead</Key>
-      <Text>. Arthur Douglas (temporary Lieut.)</Text>
+      <Forenames>Arthur Douglas</Forenames>
+      <Text>(temporary Lieut.)</Text>
       <PageNumber>9137</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -979,7 +1004,9 @@
       <Key>Edwards</Key>
       <Title>Sir</Title>
       <Forenames>John H. P. C</Forenames>
-      <Text>, Bt., (temporary Lieut.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>10665</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -994,7 +1021,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fitzherbert-Brockholes</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, and Adjt. T. J. (temporary Capt., and to be supernumerary)</Text>
       <PageNumber>10560</PageNumber>
     </MainItem>
@@ -1049,7 +1076,9 @@
     <MainItem>
       <Key>Grant</Key>
       <Forenames>Robert F.</Forenames>
-      <Text>s., M.V.O.j D.S.O. (Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>10445</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1116,7 +1145,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Harrison</Key>
-      <Text>. Cecil E. (Maj.)</Text>
+      <Forenames>Cecil E.</Forenames>
+      <Text>(Maj.)</Text>
       <PageNumber>11024</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1133,14 +1163,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Heaton-Ellis</Key>
-      <Text>. David (2nd Lieut.)</Text>
+      <Forenames>David</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>10928</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hodson</Key>
-      <Text>. 2nd Lieut E. A. (antedated)</Text>
+      <Text>2nd Lieut E. A. (antedated)</Text>
       <PageNumber>10149</PageNumber>
     </MainItem>
     <SubItem>
@@ -1151,7 +1182,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Holland</Key>
-      <Text>. T. E. (temporary Lieut)</Text>
+      <Forenames>T. E.</Forenames>
+      <Text>(temporary Lieut)</Text>
       <PageNumber>10694</PageNumber>
     </MainItem>
   </ItemGroup>

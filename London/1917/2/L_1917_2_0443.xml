@@ -177,9 +177,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Von</Key>
-      <Forenames>Geijer</Forenames>
-      <Text>, 2nd Lt. (temp. Capt.) W. A. W. G. (Lt., temp. Capt.)</Text>
+      <Key>Von Geijer</Key>
+      <Title>2nd Lt. (temp. Capt.)</Title>
+      <Forenames>W. A. W. G.</Forenames>
+      <Text>(Lt., temp. Capt.)</Text>
       <PageNumber>3565</PageNumber>
     </MainItem>
     <SubItem>
@@ -290,7 +291,9 @@
       </Key>
       <Title>2nd Lt.</Title>
       <Forenames>W. H.</Forenames>
-      <Text>_L., M.C. (actg. Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4451</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -512,7 +515,7 @@
       <PageNumber>6501</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Capt</Text>
+      <Text>Capt.</Text>
       <PageNumber>6501</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1008,7 +1011,7 @@
       <PageNumber>5841</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Capt., and rem. seed</Text>
+      <Text>Capt., and rem. seed.</Text>
       <PageNumber>6171</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1109,7 +1112,9 @@
       </Key>
       <Title>2nd Lt. (temp. Lt.)</Title>
       <Forenames>J.</Forenames>
-      <Text>, M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>6502</PageNumber>
     </MainItem>
     <SubItem>
@@ -1154,7 +1159,7 @@
       <PageNumber>4433</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Lt.-Col</Text>
+      <Text>Lt.-Col.</Text>
       <PageNumber>5625</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1538,7 +1543,7 @@
       <PageNumber>5339</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Actg. Capt</Text>
+      <Text>Actg. Capt.</Text>
       <PageNumber>5339</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1549,7 +1554,9 @@
       </Key>
       <Title>2nd Lt. (actg. Capt.)</Title>
       <Forenames>G. R.</Forenames>
-      <Text>, M.C. (Lt., temp.Capt.),</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6151</PageNumber>
     </MainItem>
   </ItemGroup>

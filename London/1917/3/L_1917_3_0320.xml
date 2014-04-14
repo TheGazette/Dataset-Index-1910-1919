@@ -42,7 +42,9 @@
     <MainItem>
       <Key>MacKenzie</Key>
       <Forenames>A. T.</Forenames>
-      <Text>, M.D., F.R.S., Edin. (temp. Lt.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>8298</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -50,8 +52,8 @@
     <MainItem>
       <Key>Mackenzie</Key>
       <Title>Cadet</Title>
-      <Forenames>B. St</Forenames>
-      <Text>. C. (temp. 2nd Lt., attd.)</Text>
+      <Forenames>B. St. C</Forenames>
+      <Text>. (temp. 2nd Lt., attd.)</Text>
       <PageNumber>8975</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -215,7 +217,9 @@
       <Key>Mackenzie</Key>
       <Title>temp. Maj.</Title>
       <Forenames>F. B.</Forenames>
-      <Text>, M.C. (Divl. M.G. Offr.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8656</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -646,7 +650,11 @@
       <Key>Mackenzie</Key>
       <Title>Maj. Sir</Title>
       <Forenames>V. A. F.</Forenames>
-      <Text>, Bt. D.S.O., M.V.O. (temp. Lt.-Col. and comd. Res. Bn.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>9130</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -826,7 +834,9 @@
       <Key>MacKessack</Key>
       <Title>temp. Lt.</Title>
       <Forenames>R. J.</Forenames>
-      <Text>, M.D. (temp. Capt.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>10004</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -835,7 +845,9 @@
       <Key>Mackesy</Key>
       <Title>Capt.</Title>
       <Forenames>P. J.</Forenames>
-      <Text>, M.C. (Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9114</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -846,7 +858,9 @@
       </Key>
       <Title>temp. Capt.</Title>
       <Forenames>W.</Forenames>
-      <Text>(Workshop Offr., M.G.C.)</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>7438</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1005,7 +1019,9 @@
   <ItemGroup>
     <MainItem>
       <Key>MacKillop</Key>
-      <Text>Cadet D. (temp. 2nd Lt.)</Text>
+      <Title>Cadet</Title>
+      <Forenames>D.</Forenames>
+      <Text>(temp. 2nd Lt.)</Text>
       <PageNumber>9636</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1035,7 +1051,9 @@
       </Key>
       <Title>temp. Lt.</Title>
       <Forenames>R. W.</Forenames>
-      <Text>, M.C. (temp. Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9627</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1124,7 +1142,9 @@
       <Key>MacKinnon</Key>
       <Title>temp. Capt.</Title>
       <Forenames>A. D.</Forenames>
-      <Text>, C.M.G. (temp. Maj.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>7194</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1194,7 +1214,9 @@
       <Key>McKinnon</Key>
       <Title>temp. Lt.</Title>
       <Forenames>R.</Forenames>
-      <Text>(M.G.C.) (temp. Capt.)</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>7602</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1275,7 +1297,9 @@
       </Key>
       <Title>Col.</Title>
       <Forenames>G.</Forenames>
-      <Text>, C.B.. (placed on ret. pay)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>10018</PageNumber>
     </MainItem>
   </ItemGroup>

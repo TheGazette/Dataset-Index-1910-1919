@@ -236,6 +236,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Bourbel</Key>
+      <Forenames>Bayard Alexis</Forenames>
+      <Text>(temporary Lieut.)</Text>
+      <PageNumber>11025</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Dearden</Key>
       <Forenames>James F</Forenames>
       <Text>errand (2nd Lieut.)</Text>
@@ -482,8 +490,8 @@
     <MainItem>
       <Key>Gibbons</Key>
       <Title>Maj. and Hon. Lieut.Col.</Title>
-      <Forenames>A. St</Forenames>
-      <Text>. H. (temporary Maj.)</Text>
+      <Forenames>A. St. H</Forenames>
+      <Text>. (temporary Maj.)</Text>
       <PageNumber>10819</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -755,7 +763,9 @@
     <MainItem>
       <Key>Hermon-Hodge</Key>
       <Forenames>Roland Hermon</Forenames>
-      <Text>, M.V.O. (temporary Maj.)</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>8612</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -904,7 +914,9 @@
     <MainItem>
       <Key>Hutchinson</Key>
       <Forenames>Col</Forenames>
-      <Text>, Francis P., C.B. (to command 13th.Battalion)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>9002</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -943,7 +955,9 @@
       <Key>Innes</Key>
       <Title>Maj.</Title>
       <Forenames>James A.</Forenames>
-      <Text>, D.S.O. (to command the ^Kensington battalion and to be temporary .Lieut.-Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8222</PageNumber>
     </MainItem>
   </ItemGroup>

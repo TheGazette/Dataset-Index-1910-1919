@@ -320,8 +320,8 @@
     <MainItem>
       <Key>Hartly</Key>
       <Title>Lt. (A.)</Title>
-      <Forenames>R. St</Forenames>
-      <Text>. J. (Lt., Admin.)</Text>
+      <Forenames>R. St. J</Forenames>
+      <Text>. (Lt., Admin.)</Text>
       <PageNumber>11979</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -715,7 +715,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Hawker</Key>
-      <Text>Lt. C. W., M.C. (actg. Capt., K.B.)</Text>
+      <Title>Lt.</Title>
+      <Forenames>C. W.</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>13610</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -744,7 +748,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Hawkins</Key>
-      <Text>2nd Lt. A. C. S. (rel. commn. as permanently unfit)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>A. C. S.</Forenames>
+      <Text>(rel. commn. as permanently unfit)</Text>
       <PageNumber>12619</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1058,7 +1064,11 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>T. F.</Forenames>
-      <Text>, D.S.O., M.C., D.F.C. (actg. Maj., A.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>13003</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1101,7 +1111,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Healey</Key>
-      <Text>Rev. P. E. (temp. Chapln., and relative rank of Capt.) ..'</Text>
+      <Title>Rev.</Title>
+      <Forenames>P. E.</Forenames>
+      <Text>(temp. Chapln., and relative rank of Capt.) ..'</Text>
       <PageNumber>14140</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1207,7 +1219,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Heath</Key>
-      <Text>Ft. Cadet F. (temp. 2nd Lt.. Obsvr. Offr.)</Text>
+      <Title>Ft. Cadet</Title>
+      <Forenames>F.</Forenames>
+      <Text>(temp. 2nd Lt.. Obsvr. Offr.)</Text>
       <PageNumber>19955</PageNumber>
     </MainItem>
   </ItemGroup>

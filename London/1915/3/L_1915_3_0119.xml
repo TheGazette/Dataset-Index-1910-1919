@@ -78,7 +78,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Chesney</Key>
-      <Text>de Ville, Reginald C. (temporary Capt.)</Text>
+      <Forenames>de Ville</Forenames>
+      <Text>, Reginald C. (temporary Capt.)</Text>
       <PageNumber>7579</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -175,6 +176,14 @@
       <Forenames>G. H.</Forenames>
       <Text>(temporary 2nd Lieull</Text>
       <PageNumber>7334</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Buriatte</Key>
+      <Forenames>H</Forenames>
+      <Text>, (temporary Lieut.)</Text>
+      <PageNumber>8624</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -430,8 +439,8 @@
     <MainItem>
       <Key>Leathes</Key>
       <Title>(temporary) 2nd Lieut.</Title>
-      <Forenames>William H. B.</Forenames>
-      <Text>de M. (relinquishes his commission)</Text>
+      <Forenames>William H. B. de M</Forenames>
+      <Text>. (relinquishes his commission)</Text>
       <PageNumber>7988</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -678,7 +687,8 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>. John, Capt. The Hon. Mowbray St. A. T. (temporary Capt. Training Depot)</Text>
+      <Forenames>John</Forenames>
+      <Text>, Capt. The Hon. Mowbray St. A. T. (temporary Capt. Training Depot)</Text>
       <PageNumber>7179</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -693,7 +703,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Saunders</Key>
-      <Text>. Douglas Mill (temporary 2nd Lieut.)</Text>
+      <Forenames>Douglas Mill</Forenames>
+      <Text>(temporary 2nd Lieut.)</Text>
       <PageNumber>8022</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -708,7 +719,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sharoles</Key>
-      <Text>. . Joseph L. (temporary Capt.)</Text>
+      <Text>. Joseph L. (temporary Capt.)</Text>
       <PageNumber>7988</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -925,7 +936,9 @@
     <MainItem>
       <Key>Brock</Key>
       <Forenames>A. W. S.</Forenames>
-      <Text>, D.S.O. (Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8806</PageNumber>
     </MainItem>
   </ItemGroup>

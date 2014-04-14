@@ -97,7 +97,7 @@
       <PageNumber>13090</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Actg. Capt</Text>
+      <Text>Actg. Capt.</Text>
       <PageNumber>14628</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -141,7 +141,9 @@
       </Key>
       <Title>temp. Lt.</Title>
       <Forenames>G. S.</Forenames>
-      <Text>, M.C. (actg. Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>12787</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -218,7 +220,9 @@
       </Key>
       <Title>Cadet</Title>
       <Forenames>J.</Forenames>
-      <Text>(M.G.C., Infy.) (temp. 2nd Lt.)</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>13387</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -251,7 +255,9 @@
       </Key>
       <Title>2nd Lt.</Title>
       <Forenames>L. A.</Forenames>
-      <Text>, M.C. (R.A.) (date of promn. to Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>14466</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -369,7 +375,9 @@
       </Key>
       <Title>Cadet</Title>
       <Forenames>W</Forenames>
-      <Text>,, D.C.M. (temp. 2nd lit.)</Text>
+      <Text>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>13387</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -415,7 +423,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mitford</Key>
-      <Text>temp. 2nd Lt, T. E. (actg. Capt. comdg. a Co.)</Text>
+      <Title>temp.</Title>
+      <Text>2nd Lt, T. E. (actg. Capt. comdg. a Co.)</Text>
       <PageNumber>12861</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -562,7 +571,9 @@
       </Key>
       <Title>temp. 2nd Lt.</Title>
       <Forenames>H. F. B.</Forenames>
-      <Text>, M.C. (actg. Capt. comdg. a Co.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>12793</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -669,7 +680,9 @@
       </Key>
       <Title>Capt. (actg. Maj.)</Title>
       <Forenames>S.</Forenames>
-      <Text>, M.C. Ifltemp. IMaj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>14810</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -801,7 +814,9 @@
       <Key>Mofce</Key>
       <Title>Caipt. (actig. Maj.)</Title>
       <Forenames>R. W.</Forenames>
-      <Text>'H.. M.C. (temp. Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>13425</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -833,7 +848,9 @@
       <PageNumber>12572</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>TVd. to M.G.C.. Imfv</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>15017</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -871,7 +888,9 @@
       </Key>
       <Title>Cadet</Title>
       <Forenames>P. F.</Forenames>
-      <Text>. M.M. (temp. 2nd Lt., attd.) ... '</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>12031</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1174,18 +1193,22 @@
       </Key>
       <Title>temp. 2nd Lt. (actg. Lt.)</Title>
       <Forenames>W.</Forenames>
-      <Text>. O., M.C. (actg. Capt. comdg. a Batt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>11922</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Temp. Lt.. attd. .:</Text>
+      <Text>Temp. Lt.. attd. .:.</Text>
       <PageNumber>12875</PageNumber>
     </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Montieth</Key>
-      <Text>Cadet W. B. R. (temp. 2nd Lt.)</Text>
+      <Title>Cadet</Title>
+      <Forenames>W. B. R.</Forenames>
+      <Text>(temp. 2nd Lt.)</Text>
       <PageNumber>12552</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1210,14 +1233,21 @@
   <ItemGroup>
     <MainItem>
       <Key>Mood</Key>
-      <Text>Capt. (temp. iMaj.) J. M., M.C. (Corps M.G. Offr., 01. MB)</Text>
+      <Title>Capt. (temp. iMaj.)</Title>
+      <Forenames>J. M.</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>MB</Honour>
+      </Text>
       <PageNumber>11958</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Moody</Key>
-      <Text>temp. Lt. F. N. J.-(actg. Capt.)</Text>
+      <Title>temp. Lt.</Title>
+      <Forenames>F. N. J.</Forenames>
+      <Text>-(actg. Capt.)</Text>
       <PageNumber>12109</PageNumber>
     </MainItem>
   </ItemGroup>

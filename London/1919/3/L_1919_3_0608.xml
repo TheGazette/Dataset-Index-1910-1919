@@ -72,7 +72,7 @@
       <PageNumber>10230</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Capt</Text>
+      <Text>Capt.</Text>
       <PageNumber>9434</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -128,7 +128,7 @@
       <PageNumber>11596</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Lt</Text>
+      <Text>Lt.</Text>
       <PageNumber>12033</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -168,7 +168,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dale</Key>
-      <Text>R. (Lt.)</Text>
+      <Forenames>R.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>8242</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -188,7 +189,7 @@
       <PageNumber>10359</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Capt</Text>
+      <Text>Capt.</Text>
       <PageNumber>10355</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -232,7 +233,7 @@
       <PageNumber>12036</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Lt</Text>
+      <Text>Lt.</Text>
       <PageNumber>12033</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -263,11 +264,13 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>G. C</Forenames>
-      <Text>, M.C. (Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>12036</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Capt</Text>
+      <Text>Capt.</Text>
       <PageNumber>12033</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -386,9 +389,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Brath</Forenames>
-      <Text>, E. E. (Capt.)</Text>
+      <Key>De Brath</Key>
+      <Forenames>E. E.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>9262</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -471,14 +474,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Determes</Key>
-      <Text>A. C. (Lt.)</Text>
+      <Forenames>A. C.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>10361</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Diacono</Key>
-      <Text>H. V. (Lt.)</Text>
+      <Forenames>H. V.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>10361</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -506,7 +511,7 @@
       <PageNumber>8245</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Lt</Text>
+      <Text>Lt.</Text>
       <PageNumber>8242</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -583,7 +588,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Duke</Key>
-      <Text>W. S.(actg.Capt. comdg. a Co.)</Text>
+      <Forenames>W. S.</Forenames>
+      <Text>(actg.Capt. comdg. a Co.)</Text>
       <PageNumber>10242</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -934,7 +940,9 @@
     <MainItem>
       <Key>Eve</Key>
       <Title>H.E.</Title>
-      <Text>, M.C. (Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10361</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1002,8 +1010,8 @@
     <MainItem>
       <Key>Farnon</Key>
       <Title>Lt. (actg. Capt.)</Title>
-      <Forenames>L. R. St</Forenames>
-      <Text>. J. (rel. actg. rank on ceasing to comd. Lab. Co.)</Text>
+      <Forenames>L. R. St. J</Forenames>
+      <Text>. (rel. actg. rank on ceasing to comd. Lab. Co.)</Text>
       <PageNumber>11479</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1011,7 +1019,9 @@
     <MainItem>
       <Key>Farquharson</Key>
       <Forenames>F.A.</Forenames>
-      <Text>,M.C.(Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9015</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1157,7 +1167,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fitton</Key>
-      <Text>C. V. (Capt.)</Text>
+      <Forenames>C. V.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>9262</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -117,8 +117,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ritson</Key>
-      <Forenames>Lieut-</Forenames>
-      <Text>Col. W. H</Text>
+      <Title>Lieut-Col.</Title>
+      <Forenames>W. H</Forenames>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -519,7 +519,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Graham</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, and Hon. Maj. J</Text>
       <PageNumber>37</PageNumber>
     </MainItem>
@@ -870,7 +870,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Willoughby</Key>
-      <Text>de Eresby.Maj. and Hon. Lieut.-Col. Lord</Text>
+      <Title>de Eresby.Maj. and Hon. Lieut.-Col. Lord</Title>
       <PageNumber>37</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -961,7 +961,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Johnston</Key>
-      <Text>H. C</Text>
+      <Forenames>H. C.</Forenames>
       <PageNumber>435</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1053,6 +1053,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Crespigny</Key>
+      <Title>Capt.</Title>
+      <Forenames>C. C.</Forenames>
+      <Text>(resigned)</Text>
+      <PageNumber>2031</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Dyer</Key>
       <Title>Capt.</Title>
       <Forenames>S. B. B.</Forenames>
@@ -1062,8 +1071,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, Capt. Hon. A. E. B. (Halfpay List)</Text>
+      <Key>O'Neill</Key>
+      <Title>Capt. Hon.</Title>
+      <Forenames>A. E. B.</Forenames>
+      <Text>(Halfpay List)</Text>
       <PageNumber>1209</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1163,7 +1174,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Haywood</Key>
-      <Text>A. N. (Qrmr.)</Text>
+      <Forenames>A. N.</Forenames>
+      <Text>(Qrmr.)</Text>
       <PageNumber>484</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1212,9 +1224,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Lisle</Forenames>
-      <Text>, Lieut.-Col. and Brevet-Col. H. De B. (half-pay list)</Text>
+      <Key>De Lisle</Key>
+      <Title>Lieut.-Col. and Brevet-Col.</Title>
+      <Forenames>H. De B</Forenames>
+      <Text>. (half-pay list)</Text>
       <PageNumber>782</PageNumber>
     </MainItem>
   </ItemGroup>

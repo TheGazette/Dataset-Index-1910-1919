@@ -431,6 +431,49 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Berry</Key>
+      <Title>Major</Title>
+      <Forenames>P. P. E.</Forenames>
+      <Text>(temporary Lieut.-Col.)</Text>
+      <PageNumber>9090</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Burgh</Key>
+      <Forenames>H. G.</Forenames>
+      <Text>(Lieut.)</Text>
+      <PageNumber>6798</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Robeck</Key>
+      <Title>Capt. (Lieut.-Col. and Hon. Col.)</Title>
+      <Forenames>Henry E. W.</Forenames>
+      <Text>(temporary Lieut.-Col.)</Text>
+      <PageNumber>8138</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Trafford</Key>
+      <Title>(temporary) 2nd Lieut.</Title>
+      <Forenames>C. N.</Forenames>
+      <Text>(correction of date)</Text>
+      <PageNumber>6925</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Valda</Key>
+      <Forenames>Frederick Wisotzky</Forenames>
+      <Text>(temporary 2nd Lieut.)</Text>
+      <PageNumber>6937</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Deacon</Key>
       <Title>Lieut.</Title>
       <Forenames>H. W.</Forenames>
@@ -681,7 +724,9 @@
       <Key>Dorrell</Key>
       <Title>(temporary) Capt.</Title>
       <Forenames>G. T.</Forenames>
-      <Text>V.C. (Lieut.)</Text>
+      <Text>
+        <Honour>V.C.</Honour>
+      </Text>
       <PageNumber>6799</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -914,8 +959,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dyson</Key>
-      <Forenames>G. St</Forenames>
-      <Text>. J. A. (Lieut.)</Text>
+      <Forenames>G. St. J</Forenames>
+      <Text>. A. (Lieut.)</Text>
       <PageNumber>6798</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -931,7 +976,9 @@
     <MainItem>
       <Key>Earle</Key>
       <Forenames>E. G.</Forenames>
-      <Text>, D.S.O. (Lieut., and to be seconded)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6797</PageNumber>
     </MainItem>
   </ItemGroup>

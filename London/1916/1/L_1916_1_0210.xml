@@ -649,9 +649,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Val</Forenames>
-      <Text>, 2nd Lt. P. G. (temp. Lt.)</Text>
+      <Key>Du Val</Key>
+      <Title>2nd Lt.</Title>
+      <Forenames>P. G.</Forenames>
+      <Text>(temp. Lt.)</Text>
       <PageNumber>729</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -719,7 +720,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>W. L. H.</Forenames>
-      <Text>, M.D. (temp. Capt. whilst serving with the Medical Unit of the Cambridge University Contingent, Senior Division, O.T.C.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>544</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -793,7 +796,9 @@
     <MainItem>
       <Key>Dugdale</Key>
       <Forenames>F.</Forenames>
-      <Text>, C.V.O. (Lt.-Col.)</Text>
+      <Text>
+        <Honour>C.V.O.</Honour>
+      </Text>
       <PageNumber>334</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1095,7 +1100,9 @@
       <Key>Dundas</Key>
       <Title>Capt. Sir</Title>
       <Forenames>H. H. P.</Forenames>
-      <Text>, Bt. (seconded)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>462</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1527,7 +1534,9 @@
       <Key>Earl</Key>
       <Title>Capt.</Title>
       <Forenames>G. S.</Forenames>
-      <Text>, M.D. (relinquishes his commission)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>2064</PageNumber>
     </MainItem>
   </ItemGroup>

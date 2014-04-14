@@ -5,7 +5,11 @@
       <Key>Scott-Kerr</Key>
       <Title>Col.</Title>
       <Forenames>Robert</Forenames>
-      <Text>, C.B., M.V.O., D.S.O. (half-pay list)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>M.V.O.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6073</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -88,7 +92,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Digby</Key>
-      <Forenames>The Hon</Forenames>
+      <Title>The</Title>
+      <Forenames>Hon</Forenames>
       <Text>; Edward Kenelm (2nd Lieut.)</Text>
       <PageNumber>6400</PageNumber>
     </MainItem>
@@ -168,7 +173,10 @@
       <Key>Bulkeley</Key>
       <Title>Capt.</Title>
       <Forenames>Thomas H. R.</Forenames>
-      <Text>, C.M.G., M.V.O. (restored Supy. to the establishment) '</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>7572</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -231,7 +239,9 @@
     <MainItem>
       <Key>Romilly</Key>
       <Forenames>Bertram H. S.</Forenames>
-      <Text>, D.S.O. (Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7660</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -283,7 +293,9 @@
       <Key>Burke</Key>
       <Title>Sir</Title>
       <Forenames>Gerald Howe</Forenames>
-      <Text>, Bt. (2nd Lieut.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>6205</PageNumber>
     </MainItem>
     <SubItem>
@@ -337,8 +349,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pigott</Key>
-      <Title>St.</Title>
-      <Forenames>John R.</Forenames>
+      <Forenames>St. John R.</Forenames>
       <Text>(Lieut.)</Text>
       <PageNumber>7377</PageNumber>
     </MainItem>
@@ -714,7 +725,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hall</Key>
-      <Text>. Percy S. B. (Capt.)</Text>
+      <Forenames>Percy S. B.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>7567</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -897,7 +909,10 @@
     <MainItem>
       <Key>Jackson</Key>
       <Forenames>Thomas D.</Forenames>
-      <Text>, M.V.O., .D.S.O. (Maj.)</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7377</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1029,8 +1044,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Booth</Key>
-      <Forenames>Raymond M. St</Forenames>
-      <Text>. J. (Capt.)...</Text>
+      <Forenames>Raymond M. St. J</Forenames>
+      <Text>. (Capt.)...</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1100,7 +1115,9 @@
       <Key>Shoubridge</Key>
       <Title>Brevet Lieut.-Col.</Title>
       <Forenames>Thomas H.</Forenames>
-      <Text>, D.S.O. (Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7660</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1132,8 +1149,8 @@
     <MainItem>
       <Key>Thomas</Key>
       <Title>Lieut.-Col.</Title>
-      <Forenames>Hubert St</Forenames>
-      <Text>. G. (to command 9th Bat.)</Text>
+      <Forenames>Hubert St. G</Forenames>
+      <Text>. (to command 9th Bat.)</Text>
       <PageNumber>7663</PageNumber>
     </MainItem>
   </ItemGroup>

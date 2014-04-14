@@ -52,15 +52,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Gly</Key>
-      <Text>.n, 0. R</Text>
+      <Text>n, 0. R</Text>
       <PageNumber>1280</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Gordon</Key>
-      <Forenames>D. St</Forenames>
-      <Text>. V</Text>
+      <Forenames>D. St. V</Forenames>
       <PageNumber>614</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -102,8 +101,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Harding</Key>
-      <Forenames>K. O</Forenames>
-      <Text>'B</Text>
+      <Forenames>K. O'B</Forenames>
       <PageNumber>614</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -409,7 +407,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Williams</Key>
-      <Text>. W. G. B</Text>
+      <Forenames>W. G. B</Forenames>
       <PageNumber>2896</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -500,7 +498,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ashton</Key>
-      <Text>. E. K: V. (2nd Lt.)</Text>
+      <Forenames>E. K</Forenames>
+      <Text>: V. (2nd Lt.)</Text>
       <PageNumber>1281</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -515,7 +514,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Beckett</Key>
-      <Text>. A. (2nd Lt.)</Text>
+      <Forenames>A.</Forenames>
+      <Text>(2nd Lt.)</Text>
       <PageNumber>1281</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -546,7 +546,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bloomfield</Key>
-      <Text>. FitzM. J. C. .:</Text>
+      <Text>FitzM. J. C. .:</Text>
       <PageNumber>1281</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -585,8 +585,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Campbell</Key>
-      <Forenames>C. M. St</Forenames>
-      <Text>. A. (2nd Lt.)</Text>
+      <Forenames>C. M. St. A</Forenames>
+      <Text>. (2nd Lt.)</Text>
       <PageNumber>1281</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -601,7 +601,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Oashmore</Key>
-      <Text>. A. E. (2rid Lt.)</Text>
+      <Forenames>A. E.</Forenames>
+      <Text>(2rid Lt.)</Text>
       <PageNumber>1281</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -914,8 +915,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Martin</Key>
-      <Forenames>E. H.</Forenames>
-      <Text>de C. (2nd Lt.)</Text>
+      <Forenames>E. H. de C</Forenames>
+      <Text>. (2nd Lt.)</Text>
       <PageNumber>1281</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -930,8 +931,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mellor</Key>
-      <Forenames>L. A. St</Forenames>
-      <Text>. J. (2nd Lt.)</Text>
+      <Forenames>L. A. St. J</Forenames>
+      <Text>. (2nd Lt.)</Text>
       <PageNumber>1281</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -970,7 +971,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Pecker</Key>
-      <Text>. C. B. (2nd Lt.)</Text>
+      <Forenames>C. B.</Forenames>
+      <Text>(2nd Lt.)</Text>
       <PageNumber>1281</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1143,7 +1145,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wilson</Key>
-      <Text>. J. F. E. (2nd Lt.)</Text>
+      <Forenames>J. F. E.</Forenames>
+      <Text>(2nd Lt.)</Text>
       <PageNumber>1281</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1216,7 +1219,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Alderson</Key>
-      <Text>. R. C. (2nd Lt.)</Text>
+      <Forenames>R. C.</Forenames>
+      <Text>(2nd Lt.)</Text>
       <PageNumber>2897</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1262,8 +1266,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ashe</Key>
-      <Forenames>W. St</Forenames>
-      <Text>. G. (Lt.) ,.:</Text>
+      <Forenames>W. St. G</Forenames>
+      <Text>. (Lt.) ,.:</Text>
       <PageNumber>1280</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1964,7 +1968,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pawcett</Key>
-      <Text>.-H. E. M. (2nd Lt..), ,</Text>
+      <Text>-H. E. M. (2nd Lt..), ,</Text>
       <PageNumber>2769</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1973,7 +1977,9 @@
       <Key>Ferguson</Key>
       <Title>2nd Lt.</Title>
       <Forenames>D. H.</Forenames>
-      <Text>, M.C. ' (H.)' , ... '</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>615</PageNumber>
     </MainItem>
   </ItemGroup>

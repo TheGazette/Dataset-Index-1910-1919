@@ -82,7 +82,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Andrewes</Key>
-      <Text>. Eusebius (Major)</Text>
+      <Forenames>Eusebius</Forenames>
+      <Text>(Major)</Text>
       <PageNumber>6701</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -242,7 +243,9 @@
       </Key>
       <Title>Major</Title>
       <Forenames>John L</Forenames>
-      <Text>, C.M.G. (seconded)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>6703</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -336,7 +339,10 @@
     <MainItem>
       <Key>Beech</Key>
       <Forenames>John Robert</Forenames>
-      <Text>, C.M.G., D. S.O. (Lieut-Col.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D. S.O.</Honour>
+      </Text>
       <PageNumber>7780</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -575,7 +581,9 @@
     <MainItem>
       <Key>Brocklebank</Key>
       <Forenames>John Jasper</Forenames>
-      <Text>, D.S.O. (Major)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7781</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -583,8 +591,8 @@
     <MainItem>
       <Key>Broderick</Key>
       <Title>Hon.</Title>
-      <Forenames>George St</Forenames>
-      <Text>. J. (Lieut.)</Text>
+      <Forenames>George St. J</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>6804</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -713,7 +721,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Burge</Key>
-      <Text>. George Aylesford (2nd Lieut.)</Text>
+      <Forenames>George Aylesford</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>6702</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -873,7 +882,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>John A. Coldstream</Forenames>
-      <Text>, Bt. (2nd Lieut.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>6803</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -941,7 +952,9 @@
       <Key>Campbell-Orde</Key>
       <Title>Major Sir</Title>
       <Forenames>Arthur J.</Forenames>
-      <Text>, Bt. (seconded)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>6802</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1034,8 +1047,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cazenove</Key>
-      <Title>Hon.</Title>
-      <Forenames>Lieut</Forenames>
+      <Title>Hon. Lieut</Title>
       <Text>, in the Army Percy (Capt.)</Text>
       <PageNumber>6811</PageNumber>
     </MainItem>
@@ -1406,7 +1418,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>Kenneth Irwin</Forenames>
-      <Text>, Bart. (2nd Lieut.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>7491</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1550,6 +1564,30 @@
       <Forenames>Victor J.</Forenames>
       <Text>(Lieut, to be seeonded)</Text>
       <PageNumber>6701</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Falbe</Key>
+      <Forenames>Christian F. G. W.</Forenames>
+      <Text>(Major)</Text>
+      <PageNumber>7102</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Knoop</Key>
+      <Forenames>John J. J.</Forenames>
+      <Text>(Capt.)</Text>
+      <PageNumber>6700</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Paravicini</Key>
+      <Forenames>Percy C. F.</Forenames>
+      <Text>(Major)</Text>
+      <PageNumber>6802</PageNumber>
     </MainItem>
   </ItemGroup>
   <KeyDitto>___ ___ ___</KeyDitto>

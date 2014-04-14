@@ -13,9 +13,9 @@
   <ItemGroup>
     <MainItem>
       <Key>JBlake</Key>
-      <Title>Lieut. St.</Title>
-      <Forenames>John L. O</Forenames>
-      <Text>'B. A.ff (seconded)</Text>
+      <Title>Lieut.</Title>
+      <Forenames>St. John L. O'B</Forenames>
+      <Text>. A.ff (seconded)</Text>
       <PageNumber>4381</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -49,7 +49,9 @@
       <Key>Pigott</Key>
       <Title>Sir</Title>
       <Forenames>Berkeley</Forenames>
-      <Text>, Bt. (2nd Lieut. on probation)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>3387</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -102,7 +104,9 @@
       <Key>Scott</Key>
       <Title>Sir</Title>
       <Forenames>Charles Henry</Forenames>
-      <Text>, K.C.B. (Colonel Commandant)</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+      </Text>
       <PageNumber>4006</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -238,7 +242,9 @@
       <Key>Phillips</Key>
       <Title>Capt.</Title>
       <Forenames>Edward H.</Forenames>
-      <Text>, D.S.O. (Major)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3169</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -286,7 +292,9 @@
     <MainItem>
       <Key>Boss-Johnson</Key>
       <Forenames>Cyril M.</Forenames>
-      <Text>, D.S.O. (Lieut.-Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4618</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -413,7 +421,9 @@
     <MainItem>
       <Key>Brierley</Key>
       <Forenames>Geoffrey T.</Forenames>
-      <Text>, D.S.O. (Major)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>2880</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -481,7 +491,9 @@
     <MainItem>
       <Key>East</Key>
       <Forenames>Lionel W. P.</Forenames>
-      <Text>, D.S.O. (Lieut.Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3169</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -731,7 +743,9 @@
       <Key>Marton</Key>
       <Title>Supy. Maj.</Title>
       <Forenames>Eichard O.</Forenames>
-      <Text>, D.S.O. (restored to the establishment)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3169</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -756,7 +770,9 @@
       <Key>Moore</Key>
       <Title>Supy. Capt.</Title>
       <Forenames>William H.</Forenames>
-      <Text>, D.S.O. (restored to the establishment) ...</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -772,7 +788,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Nugent</Key>
-      <Text>George B. H. (Maj., to remain seconded) Orde-Brown, Lieut. Granville St. J. (resigned)</Text>
+      <Forenames>George B. H.</Forenames>
+      <Text>(Maj., to remain seconded) Orde-Brown, Lieut. Granville St. J. (resigned)</Text>
       <PageNumber>4381</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1013,7 +1030,9 @@
     <MainItem>
       <Key>Austin</Key>
       <Forenames>Herbert H.</Forenames>
-      <Text>, C.M.G. D.S.O. (Lieut.-Col.)</Text>
+      <Text>
+        <Honour>C.M.G. D.S.O.</Honour>
+      </Text>
       <PageNumber>3665</PageNumber>
     </MainItem>
   </ItemGroup>

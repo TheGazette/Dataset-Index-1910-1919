@@ -394,7 +394,9 @@
   <ItemGroup>
     <MainItem>
       <Key>McClurkin</Key>
-      <Text>Lieut. T. (confirmed) ...</Text>
+      <Title>Lieut.</Title>
+      <Forenames>T.</Forenames>
+      <Text>(confirmed) ...</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -470,7 +472,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tulloch</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>! F. L. (confirmed)</Text>
       <PageNumber>7777</PageNumber>
     </MainItem>
@@ -745,6 +747,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Burgh</Key>
+      <Title>2nd Lieut.</Title>
+      <Forenames>H. G.</Forenames>
+      <Text>(confirmed)</Text>
+      <PageNumber>7777</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Dyson</Key>
       <Title>2nd Lieut.</Title>
       <Forenames>W. G.</Forenames>
@@ -809,8 +820,8 @@
     <MainItem>
       <Key>Whatton</Key>
       <Title>2nd Lieut.</Title>
-      <Forenames>S. M.</Forenames>
-      <Text>de H. (confirmed)</Text>
+      <Forenames>S. M. de H</Forenames>
+      <Text>. (confirmed)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -881,8 +892,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, H. A. (2nd Lieut.)</Text>
+      <Key>O'Connor</Key>
+      <Forenames>H. A.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>7522</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -985,7 +997,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Annesley</Key>
-      <Text>Hon. C. A. J. (Lieut.)</Text>
+      <Title>Hon.</Title>
+      <Forenames>C. A. J.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>7431</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1348,10 +1362,17 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Derington</Key>
-      <Forenames>W. E.</Forenames>
-      <Text>(Capl.)</Text>
+      <Key>de Carteret</Key>
+      <Text>HJ. T. (Capt.j ...Hid. Derington, W. E. (Capl.)</Text>
       <PageNumber>7155</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Robeck</Key>
+      <Forenames>C. R.</Forenames>
+      <Text>(Capt.)</Text>
+      <PageNumber>7431</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

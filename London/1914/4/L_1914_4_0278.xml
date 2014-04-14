@@ -10,10 +10,6 @@
       <Text>(Deputy Director of Ordnance</Text>
       <PageNumber>9284</PageNumber>
     </MainItem>
-    <SubItem>
-      <Text>Cancelled Deputy Director-Gen. of Ord-</Text>
-      <PageNumber>ibid.</PageNumber>
-    </SubItem>
   </ItemGroup>
   <SectionTitle>Personal Staff of H.E. the Viceroy and Governor-General</SectionTitle>
   <ItemGroup>
@@ -50,7 +46,9 @@
       <Key>Cavendish</Key>
       <Title>Lieut.</Title>
       <Forenames>R. H. V.</Forenames>
-      <Text>, M.V.O. (Aide-de-Camp) ...</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -90,7 +88,9 @@
     <MainItem>
       <Key>Harris</Key>
       <Forenames>George F. Angelo</Forenames>
-      <Text>, C.S.I., M.D., F.R.C.P., V.H.S</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>8777</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -116,7 +116,9 @@
     <MainItem>
       <Key>Wilkinson</Key>
       <Forenames>Edmund</Forenames>
-      <Text>, F.R.C.S</Text>
+      <Text>
+        <Honour>F.R.C.S</Honour>
+      </Text>
       <PageNumber>11151</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -171,14 +173,17 @@
     <MainItem>
       <Key>Lunham</Key>
       <Forenames>John Lumsden</Forenames>
-      <Text>, M.B., F.R.C.S. L</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Leary, John, M.B.</Text>
+      <Key>O'Leary</Key>
+      <Forenames>John</Forenames>
+      <Text>, M.B.</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -217,7 +222,9 @@
     <MainItem>
       <Key>Shaw</Key>
       <Forenames>William S. Jagoe</Forenames>
-      <Text>, M.D. ...</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -226,7 +233,9 @@
     <MainItem>
       <Key>Barker</Key>
       <Forenames>Henry Lewis</Forenames>
-      <Text>, M.D</Text>
+      <Text>
+        <Honour>M.D</Honour>
+      </Text>
       <PageNumber>9283</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -352,7 +361,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Das</Key>
-      <Text>. Monindranath (confirmed)</Text>
+      <Forenames>Monindranath</Forenames>
+      <Text>(confirmed)</Text>
       <PageNumber>11150</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -376,7 +386,9 @@
     <MainItem>
       <Key>Walker</Key>
       <Forenames>James R. Hall</Forenames>
-      <Text>, M.D. (temporary)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>11150</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -413,7 +425,9 @@
       <Key>Gimlette</Key>
       <Title>Lieut.-Col.</Title>
       <Forenames>G. H. D.</Forenames>
-      <Text>, CLE., M.D., I.M.S. (to be Medical Officer in Charge of a Hospital. Ship)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>8653</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -671,7 +685,10 @@
       <Key>Colville</Key>
       <Title>The Hon. Sir</Title>
       <Forenames>Stanley C. James</Forenames>
-      <Text>, K.C.B., C.V.O</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+        <Honour>C.V.O</Honour>
+      </Text>
       <PageNumber>9690</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -680,7 +697,9 @@
       <Key>Farquhar</Key>
       <Title>Sir</Title>
       <Forenames>Arthur Murray</Forenames>
-      <Text>, K.C.B., C.V.O</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -709,7 +728,9 @@
       <Key>Peirse</Key>
       <Title>Sir</Title>
       <Forenames>Richard Henry</Forenames>
-      <Text>, K.C.B. M.V.O</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+      </Text>
       <PageNumber>ibid</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -718,7 +739,10 @@
     <MainItem>
       <Key>Gaunt</Key>
       <Forenames>Ernest F. Augustus</Forenames>
-      <Text>, C.M.G., A.D.C.</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>A.D.C.</Honour>
+      </Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -727,7 +751,10 @@
       <Key>Palmer</Key>
       <Title>Capt.</Title>
       <Forenames>Norman Craig</Forenames>
-      <Text>, C.V.O., A.D.C</Text>
+      <Text>
+        <Honour>C.V.O.</Honour>
+        <Honour>A.D.C</Honour>
+      </Text>
       <PageNumber>10816</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -735,7 +762,9 @@
     <MainItem>
       <Key>Prendergast</Key>
       <Forenames>Robert John</Forenames>
-      <Text>, A.D.C</Text>
+      <Text>
+        <Honour>A.D.C</Honour>
+      </Text>
       <PageNumber>9690</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -761,7 +790,10 @@
       <Key>Jackson</Key>
       <Title>Capt.</Title>
       <Forenames>Thomas</Forenames>
-      <Text>, C.B.,' M.V.O</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>M.V.O</Honour>
+      </Text>
       <PageNumber>10816</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -770,7 +802,10 @@
       <Key>Phillimore</Key>
       <Title>Capt.</Title>
       <Forenames>Richard F.</Forenames>
-      <Text>, C.B., M.V.O. ...</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

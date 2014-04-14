@@ -97,8 +97,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. Quintin, temp. Capt. F. S. (2nd in Comd.)</Text>
+      <Key>St. Quintin</Key>
+      <Title>temp. Capt.</Title>
+      <Forenames>F. S.</Forenames>
+      <Text>(2nd in Comd.)</Text>
       <PageNumber>4406</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -139,14 +141,18 @@
     <MainItem>
       <Key>Samuel</Key>
       <Forenames>S.</Forenames>
-      <Text>, Esq., M.P., D.L. (corr.) Sub. Not. .. ..'</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+        <Honour>D.L.</Honour>
+      </Text>
       <PageNumber>4983</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Sanderson</Key>
-      <Text>. H. T. (temp. 2nd Lt.)</Text>
+      <Forenames>H. T.</Forenames>
+      <Text>(temp. 2nd Lt.)</Text>
       <PageNumber>6891</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -527,7 +533,9 @@
       </Key>
       <Title>Lt.-Col.</Title>
       <Forenames>T. W.</Forenames>
-      <Text>, V.D. (Bt. Col.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>6516</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -545,8 +553,8 @@
     <MainItem>
       <Key>Sinclair</Key>
       <Title>temp. 2nd Lt.</Title>
-      <Forenames>F. W. St</Forenames>
-      <Text>. C. (resigns commn. on acc. of ill-health)</Text>
+      <Forenames>F. W. St. C</Forenames>
+      <Text>. (resigns commn. on acc. of ill-health)</Text>
       <PageNumber>5826</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1323,7 +1331,10 @@
       <Key>Sydenham</Key>
       <Title>Col.</Title>
       <Forenames>G. S.</Forenames>
-      <Text>, G.C.S.I., G.C.M.G., G.C.I.E., G.B.E. (appt. as Hon. Comdt. of 10th Bn., Kent Vol. Regt. with Hon. rank of Lt.-Col., cancelled on disbandment of Bn.)</Text>
+      <Text>
+        <Honour>G.C.M.G.</Honour>
+        <Honour>G.B.E.</Honour>
+      </Text>
       <PageNumber>7198</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1425,7 +1436,9 @@
     <MainItem>
       <Key>Teacher</Key>
       <Forenames>J. H.</Forenames>
-      <Text>, M.D. (Med. Offr. and temp. Lt.).. .,</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>4798</PageNumber>
     </MainItem>
   </ItemGroup>

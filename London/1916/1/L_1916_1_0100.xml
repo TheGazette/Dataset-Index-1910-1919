@@ -254,7 +254,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>G. W.</Forenames>
-      <Text>, M.D. (temp. Capt.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>2102</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -317,7 +319,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>H. H.</Forenames>
-      <Text>. F.R.C.S. (Edin.) (temp. Capt.)</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>3415</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -874,7 +878,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>H. B.</Forenames>
-      <Text>, M.D. (temp. Capt.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>830</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -885,7 +891,10 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>H. E.</Forenames>
-      <Text>, M.V.O., D.S.O. (temp. Maj. whilst holding an appointment as Officer Commanding Signals)</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>2450</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -994,9 +1003,20 @@
     <MainItem>
       <Key>DAmico</Key>
       <Title>(temp.) Lt.</Title>
-      <Forenames>Guido</Forenames>
-      <Text>de P., M.D. (relinquishes his commission)</Text>
+      <Forenames>Guido de P</Forenames>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>1492</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Andrade</Key>
+      <Title>(temp.) Capt.</Title>
+      <Forenames>F. J.</Forenames>
+      <Text>(relinquishes his commission)</Text>
+      <PageNumber>1457</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1041,6 +1061,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Artime</Key>
+      <Forenames>P.</Forenames>
+      <Text>(temp. Lt.j</Text>
+      <PageNumber>972</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>DeAth</Key>
       <Title>Lt.</Title>
       <Forenames>G. D.</Forenames>
@@ -1050,15 +1078,88 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Beck</Forenames>
-      <Text>, G. C. (temp. 2nd Lt.)</Text>
+      <Key>de Balabre</Key>
+      <Forenames>V. M.</Forenames>
+      <Text>(temp. 2nd Lt.)</Text>
+      <PageNumber>3292</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Beaurepaire</Key>
+      <Title>(temp.) 2nd Lt.</Title>
+      <Forenames>C. J.</Forenames>
+      <Text>(antedated)</Text>
+      <PageNumber>1591</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Beck</Key>
+      <Forenames>G. C.</Forenames>
+      <Text>(temp. 2nd Lt.)</Text>
       <PageNumber>101</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Beer</Key>
+      <Forenames>R.</Forenames>
+      <Text>(temp. 2nd Lt.)</Text>
+      <PageNumber>461</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Blaby</Key>
+      <Forenames>G. T.</Forenames>
+      <Text>(2nd Lieut., and to retain his higher rank until ordered to join a Regular unit)</Text>
+      <PageNumber>2530</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Boer</Key>
+      <Forenames>H. S.</Forenames>
+      <Text>(temp. Capt.)</Text>
+      <PageNumber>1491</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Brie</Key>
+      <Forenames>F. G.</Forenames>
+      <Text>(temp. 2nd Lt. on probation) '</Text>
+      <PageNumber>2198</PageNumber>
     </MainItem>
     <SubItem>
       <Text>Temp. Lt</Text>
       <PageNumber>1219</PageNumber>
     </SubItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Cetto</Key>
+      <Forenames>H. A.</Forenames>
+      <Text>(temp. 2nd Lt. on probation)</Text>
+      <PageNumber>3391</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Chair</Key>
+      <Forenames>O. W.</Forenames>
+      <Text>(temp. Capt.)</Text>
+      <PageNumber>971</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Chazal</Key>
+      <Forenames>P. E.</Forenames>
+      <Text>(temp. 2nd Lt. on probation)</Text>
+      <PageNumber>829</PageNumber>
+    </MainItem>
     <SubItem>
       <Text>Confirmed</Text>
       <PageNumber>2083</PageNumber>
@@ -1089,6 +1190,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Courcy-Baidwin</Key>
+      <Forenames>W. L.</Forenames>
+      <Text>(2nd Lt.)</Text>
+      <PageNumber>1819</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>DEsterre</Key>
       <Forenames>P. O. E.</Forenames>
       <Text>(Maj., super-</Text>
@@ -1098,6 +1207,14 @@
       <Text>numerary to establishment)</Text>
       <PageNumber>850</PageNumber>
     </SubItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Ferranti</Key>
+      <Forenames>B. Z.</Forenames>
+      <Text>(temp. Lt.) de Grehl, (temp.) 2nd Lt. F. S. C</Text>
+      <PageNumber>188</PageNumber>
+    </MainItem>
     <SubItem>
       <Text>(relinquishes his commission)</Text>
       <PageNumber>712</PageNumber>
@@ -1113,9 +1230,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Halpert</Forenames>
-      <Text>, (temp.) 2nd Lt. R. V. (relinquishes his commission on reverting to employment under the Admiralty)</Text>
+      <Key>De Halpert</Key>
+      <Title>(temp.) 2nd Lt.</Title>
+      <Forenames>R. V.</Forenames>
+      <Text>(relinquishes his commission on reverting to employment under the Admiralty)</Text>
       <PageNumber>973</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1128,26 +1246,84 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>La Bere</Forenames>
+      <Key>De La</Key>
+      <Forenames>Bere</Forenames>
       <Text>, I. (Capt.)</Text>
       <PageNumber>3152</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Lacey</Forenames>
-      <Text>, J. M. (temp. 2nd Lt. on probation)</Text>
+      <Key>De Lacey</Key>
+      <Forenames>J. M.</Forenames>
+      <Text>(temp. 2nd Lt. on probation)</Text>
       <PageNumber>277</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Norman</Forenames>
-      <Text>, E. N. (temp. Lt.)</Text>
+      <Key>de Leschery</Key>
+      <Title>(temp.) 2nd Lt.</Title>
+      <Forenames>S. A. R.</Forenames>
+      <Text>(relinquishes his commission)</Text>
+      <PageNumber>1579</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Lissa</Key>
+      <Forenames>A. R.</Forenames>
+      <Text>(temp. Lt. whilst on special duty)</Text>
+      <PageNumber>1105</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Longueuil</Key>
+      <Title>2nd Lt.</Title>
+      <Forenames>J. C. J. G.</Forenames>
+      <Text>(confirmed)</Text>
+      <PageNumber>2774</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Mate</Key>
+      <Forenames>H. H.</Forenames>
+      <Text>CM. de C. de la B.,. Prince (Maj.)</Text>
+      <PageNumber>3416</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Mouilpied</Key>
+      <Forenames>A. T.</Forenames>
+      <Text>(temp. Lt. for duty under the Ministry of Munitions)</Text>
+      <PageNumber>1577</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Mowbray</Key>
+      <Forenames>G. B.</Forenames>
+      <Text>(temp. Capt.)</Text>
+      <PageNumber>1896</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Norman</Key>
+      <Forenames>E. N.</Forenames>
+      <Text>(temp. Lt.)</Text>
       <PageNumber>1890</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Paravicini</Key>
+      <Forenames>C. P. E.</Forenames>
+      <Text>(temp. 2nd Lt.)</Text>
+      <PageNumber>102</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1164,10 +1340,35 @@
       <Text>Lt., supplementary</Text>
       <PageNumber>1495</PageNumber>
     </SubItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Pass</Key>
+      <Title>2nd Lt.</Title>
+      <Forenames>H.</Forenames>
+      <Text>(temp. Lt. whilst with a Reserve Regiment of Cavalry)</Text>
+      <PageNumber>1878</PageNumber>
+    </MainItem>
     <SubItem>
       <Text>Relinquishes the temp, rank of Lt. on ceasing to be employed with a Reserve Regiment of Gavalrv</Text>
       <PageNumber>1888</PageNumber>
     </SubItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Pencier</Key>
+      <Forenames>T. F. W.</Forenames>
+      <Text>(2nd Lt. on probation)</Text>
+      <PageNumber>557</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Redder</Key>
+      <Forenames>S.</Forenames>
+      <Text>(temp. 2nd Lt,)</Text>
+      <PageNumber>1136</PageNumber>
+    </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
@@ -1183,10 +1384,54 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Salis</Forenames>
-      <Text>, (temp.) 2nd Lt. W. J. (relinquishes his commission)</Text>
+      <Key>de St</Key>
+      <Forenames>Croix</Forenames>
+      <Text>, Capt. C. (seconded for service with a Garrison Battalion)</Text>
+      <PageNumber>2919</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Salis</Key>
+      <Title>Lt.</Title>
+      <Forenames>Count J. E.</Forenames>
+      <Text>, supplementary (order of precedence)</Text>
+      <PageNumber>326</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Salis</Key>
+      <Title>(temp.) 2nd Lt.</Title>
+      <Forenames>W. J.</Forenames>
+      <Text>(relinquishes his commission)</Text>
       <PageNumber>818</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Sarigny</Key>
+      <Title>2nd Lt.</Title>
+      <Forenames>R.</Forenames>
+      <Text>(temp. 2nd Lt.-)</Text>
+      <PageNumber>2902</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Selincourt</Key>
+      <Title>(temp.) 2nd Lt.</Title>
+      <Forenames>M. J.</Forenames>
+      <Text>(relinquishes his commission)</Text>
+      <PageNumber>538</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Soissons</Key>
+      <Forenames>L. E. J. G. de S</Forenames>
+      <Text>.-C. (temp. Lt. whilst on special duty) H</Text>
+      <PageNumber>05</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1195,8 +1440,8 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Title>2nd Lt.</Title>
-      <Forenames>P. A.</Forenames>
-      <Text>de S.-C. (temp. Lt. whilst on special duty)</Text>
+      <Forenames>P. A. de S</Forenames>
+      <Text>.-C. (temp. Lt. whilst on special duty)</Text>
       <PageNumber>1105</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -39,7 +39,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Lansdowne</Key>
-      <Text>the Most Hon. the Marquess of, K.G., P.C., G.C.S.I., G.C.M.G., G.C,I,E„ Chancellor, St. Michael and St. George</Text>
+      <Text>
+        <Honour>K.G.</Honour>
+        <Honour>P.C.</Honour>
+        <Honour>G.C.M.G.</Honour>
+      </Text>
       <PageNumber>12014</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -82,7 +86,10 @@
       <Key>Lawley</Key>
       <Title>Col. the Hon. Sir</Title>
       <Forenames>Arthur</Forenames>
-      <Text>, G.C.S.I., G.C.I.E., K.C.M.G., Knight of Grace, St. John of Jerusalem</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>Knight of Grace, St. John of Jerusalem</Honour>
+      </Text>
       <PageNumber>11357</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -129,15 +136,19 @@
       <Key>Le</Key>
       <Forenames>Lasseur</Forenames>
       <Text>, Margurite Marie Louise Flore, La Baronne, Honorary Lady of Grace, St. John of Jerusalem</Text>
-      <PageNumber>12354</PageNumber>
     </MainItem>
   </ItemGroup>
+  <Honour>
+    <PageNumber>12354</PageNumber>
+  </Honour>
   <ItemGroup>
     <MainItem>
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>D.S.O., Bar to D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>12315</PageNumber>
     </MainItem>
     <SubItem>
@@ -177,7 +188,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Title>Lt.</Title>
-      <Text>Cdr. Robin Wynell Mayow, Companion, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>12547</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -213,7 +226,9 @@
       <Key>Loveday</Key>
       <Title>Maj.</Title>
       <Forenames>Francis William</Forenames>
-      <Text>, Companion, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>13180</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -221,7 +236,9 @@
     <MainItem>
       <Key>Lovering</Key>
       <Forenames>William Henry</Forenames>
-      <Text>, Esquire, St. John of Jerusalem</Text>
+      <Text>
+        <Honour>Esquire, St. John of Jerusalem</Honour>
+      </Text>
       <PageNumber>11357</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -346,7 +363,9 @@
       <Key>MacCormick</Key>
       <Title>Maj.</Title>
       <Forenames>Kenneth</Forenames>
-      <Text>, Companion, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>12316</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -418,7 +437,9 @@
       <Key>McFeely</Key>
       <Title>Lt. (actg. Capt.)</Title>
       <Forenames>Cecil Michael</Forenames>
-      <Text>, M.C., Companion, D.S.O</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>12316</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -431,7 +452,9 @@
       <PageNumber>10980</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Sjt. Lewis, Victoria Cross</Text>
+      <Text>
+        <Honour>Victoria Cross</Honour>
+      </Text>
       <PageNumber>12327</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -562,7 +585,9 @@
       <Key>MoMaster</Key>
       <Title>Maj.</Title>
       <Forenames>Robert Maxwell</Forenames>
-      <Text>, Companion, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>12316</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -614,7 +639,9 @@
     <MainItem>
       <Key>McVail</Key>
       <Forenames>John Christie</Forenames>
-      <Text>, M.D., reappointed Member of the General Council of Medical Education and Registration of the United Kingdom, for Scotland</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>10899</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -632,7 +659,9 @@
       <Key>Maguire</Key>
       <Title>Actg. Cdr.</Title>
       <Forenames>Owen Hugh Knox</Forenames>
-      <Text>, Companion, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>10155</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -658,7 +687,9 @@
       <Key>Mann</Key>
       <Title>Engr. Cdr.</Title>
       <Forenames>John</Forenames>
-      <Text>, Companion, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>10153</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -749,7 +780,10 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Title>Lt.</Title>
-      <Text>-tCol. Norman, M.C., Companion, D.S.O</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>11950</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -758,7 +792,9 @@
       <Key>Martin</Key>
       <Title>Ch. Offr.</Title>
       <Forenames>James</Forenames>
-      <Text>, Companion, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>13319</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -769,7 +805,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>James Fitzgerald</Forenames>
-      <Text>, C. M.G., Knight of Grace, St. John of Jerusalem</Text>
+      <Text>
+        <Honour>Knight of Grace, St. John of Jerusalem</Honour>
+      </Text>
       <PageNumber>12354</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -800,14 +838,20 @@
       <Key>Martyn</Key>
       <Title>Maj. (A./Lt.^Col.)</Title>
       <Forenames>Michael Cleeve</Forenames>
-      <Text>, M.C., Companion, D.S.O</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>13180</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Mlaskell</Key>
-      <Text>.Lt. (A./Maj.) William Charles, M.C., Companion, D.S.O. ... '</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>13180</PageNumber>
     </MainItem>
   </ItemGroup>

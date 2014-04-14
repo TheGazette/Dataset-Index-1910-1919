@@ -10,8 +10,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Egerton</Key>
-      <Forenames>W.</Forenames>
-      <Text>de M. .</Text>
+      <Forenames>W. de M</Forenames>
+      <Text>. .</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -97,7 +97,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Steel</Key>
-      <Text>. J. M</Text>
+      <Forenames>J. M</Forenames>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -353,9 +353,10 @@
       <Forenames>F. J.</Forenames>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
-    <SubSubSectionTitle>Retired List</SubSubSectionTitle>
+    <SubSubSectionTitle>
+      <Text>Retired List</Text>
+    </SubSubSectionTitle>
     <SubItem>
-      <Text>Retired List.</Text>
       <PageNumber>4971</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -442,7 +443,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Coleman</Key>
-      <Text>. J</Text>
+      <Forenames>J.</Forenames>
       <PageNumber>5854</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -655,7 +656,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Portbury</Key>
-      <Text>. S. J</Text>
+      <Forenames>S. J</Forenames>
       <PageNumber>5854</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -677,7 +678,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Prescott-Roberts</Key>
-      <Text>. J. S</Text>
+      <Forenames>J. S</Forenames>
       <PageNumber>4748</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -877,7 +878,9 @@
       <Key>Millais</Key>
       <Title>Sir</Title>
       <Forenames>J. E.</Forenames>
-      <Text>, Bart</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>7109</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -967,7 +970,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Pakenham</Key>
-      <Text>. Capt. W. C</Text>
+      <Title>Capt.</Title>
+      <Forenames>W. C.</Forenames>
       <PageNumber>5854</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1039,9 +1043,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Wilton</Forenames>
-      <Text>, A. St. J. M</Text>
+      <Key>De Wilton</Key>
+      <Forenames>A. St. J</Forenames>
+      <Text>. M</Text>
       <PageNumber>6465</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1126,8 +1130,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ingham</Key>
-      <Forenames>C. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>C. St. C</Forenames>
       <PageNumber>5182</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -88,7 +88,9 @@
     <MainItem>
       <Key>Vernon</Key>
       <Title>Capt.</Title>
-      <Text>HiB., M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>157</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -124,7 +126,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Wdgley</Key>
-      <Text>temp! iCapt. (actg. Capt.) P. J. R., M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>168</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -142,7 +146,9 @@
       <Key>Wilis</Key>
       <Title>Carat.</Title>
       <Forenames>E. S.</Forenames>
-      <Text>iC, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>165</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -189,9 +195,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Braitib</Forenames>
-      <Text>, N. S!</Text>
+      <Key>De Braitib</Key>
+      <Forenames>N. S</Forenames>
+      <Text>!</Text>
       <PageNumber>149</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -522,8 +528,7 @@
     <MainItem>
       <Key>Carruthers</Key>
       <Title>Lt.</Title>
-      <Forenames>H. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>H. St. J</Forenames>
       <PageNumber>176</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -702,10 +707,20 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Brath</Forenames>
-      <Text>, Lt. N.'S. '</Text>
+      <Key>De Brath</Key>
+      <Title>Lt.</Title>
+      <Forenames>N.</Forenames>
+      <Text>'S. '</Text>
       <PageNumber>151</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de St</Key>
+      <Title>Croix. Lt.</Title>
+      <Forenames>A.</Forenames>
+      <Text>(rel. actg. rank)</Text>
+      <PageNumber>3766</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -758,7 +773,9 @@
       <Key>Drought</Key>
       <Title>Lt.</Title>
       <Forenames>J. V.</Forenames>
-      <Text>... IJrysdale, temp. Capt. A, E. B.S.O., M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>162</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -767,7 +784,9 @@
       <Key>Eccles</Key>
       <Title>temp. Capt.</Title>
       <Forenames>M.</Forenames>
-      <Text>, M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>172</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -888,7 +907,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Gillan</Key>
-      <Text>.Lt. G. B? V</Text>
+      <Title>Lt.</Title>
+      <Forenames>G. B</Forenames>
+      <Text>? V</Text>
       <PageNumber>177</PageNumber>
     </MainItem>
     <SubItem>
@@ -1024,7 +1045,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Hancock</Key>
-      <Text>. 2nd Lt. C. P. (rel. actg. 'rank)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>C. P.</Forenames>
+      <Text>(rel. actg. 'rank)</Text>
       <PageNumber>171</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1061,7 +1084,9 @@
       <Key>Haycraft</Key>
       <Title>Lt.</Title>
       <Forenames>W. C. S.</Forenames>
-      <Text>, M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>169</PageNumber>
     </MainItem>
   </ItemGroup>

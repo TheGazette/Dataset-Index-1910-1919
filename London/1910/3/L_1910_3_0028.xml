@@ -190,6 +190,14 @@
   <SubSectionTitle>18th Battalion</SubSectionTitle>
   <ItemGroup>
     <MainItem>
+      <Key>de Montmorency</Key>
+      <Forenames>J. H. B.</Forenames>
+      <Text>(Lieut.)</Text>
+      <PageNumber>6159</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Ellis</Key>
       <Forenames>A.</Forenames>
       <Text>ap (Lieut.)</Text>
@@ -397,9 +405,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Gelder</Forenames>
-      <Text>, L. (Lieut.)</Text>
+      <Key>Van Gelder</Key>
+      <Forenames>L.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>6844</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -535,8 +543,8 @@
     <MainItem>
       <Key>Beauclerk</Key>
       <Title>Maj. Lord</Title>
-      <Forenames>Q.</Forenames>
-      <Text>de V. (resigned)</Text>
+      <Forenames>Q. de V</Forenames>
+      <Text>. (resigned)</Text>
       <PageNumber>5949</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -553,7 +561,8 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Forenames>Lieut W. A. J.</Forenames>
+      <Title>Lieut</Title>
+      <Forenames>W. A. J.</Forenames>
       <Text>(resigned)</Text>
       <PageNumber>5671</PageNumber>
     </MainItem>
@@ -769,12 +778,29 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Rothschild</Key>
+      <Forenames>E. A.</Forenames>
+      <Text>(Lieut.)</Text>
+      <PageNumber>5795</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>L. N.</Forenames>
       <Text>(Capt.).</Text>
       <PageNumber>ibid.</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Walden</Key>
+      <Title>Lord</Title>
+      <Forenames>H.</Forenames>
+      <Text>(Maj.)</Text>
+      <PageNumber>6843</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1233,7 +1259,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rawlinson</Key>
-      <Text>. J. F. A. (Lieut.) .. ..</Text>
+      <Forenames>J. F. A.</Forenames>
+      <Text>(Lieut.) .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1308,7 +1335,9 @@
       <Key>Scott</Key>
       <Title>Sir</Title>
       <Forenames>S. E.</Forenames>
-      <Text>, Bart. (Maj.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>6109</PageNumber>
     </MainItem>
   </ItemGroup>

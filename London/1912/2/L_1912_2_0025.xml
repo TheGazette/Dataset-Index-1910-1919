@@ -265,7 +265,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Drummond</Key>
-      <Text>. Capt. H. (resigned)</Text>
+      <Title>Capt.</Title>
+      <Forenames>H.</Forenames>
+      <Text>(resigned)</Text>
       <PageNumber>4137</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -580,8 +582,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hagan, J. J. .(.Lieut.-Col.)</Text>
+      <Key>O'Hagan</Key>
+      <Forenames>J. J.</Forenames>
+      <Text>.(.Lieut.-Col.)</Text>
       <PageNumber>3184</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -925,8 +928,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Birch</Key>
-      <Title>Col.</Title>
-      <Text>de B. (resigned) ..!</Text>
+      <Title>Col. de B. (resigned)</Title>
+      <Text>..!</Text>
       <PageNumber>3097</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1142,7 +1145,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Meikle</Key>
-      <Text>. J. H. (Cant.)</Text>
+      <Forenames>J. H.</Forenames>
+      <Text>(Cant.)</Text>
       <PageNumber>3688</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1216,7 +1220,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Armitage</Key>
-      <Text>.P. M. (Lieut.) ...</Text>
+      <Forenames>P. M.</Forenames>
+      <Text>(Lieut.) ...</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1412,7 +1417,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Denne</Key>
-      <Text>L.G. L. (2nd Lieut.)</Text>
+      <Text>
+        <Honour>L.G.</Honour>
+      </Text>
       <PageNumber>4041</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1669,7 +1676,7 @@
   <ItemGroup>
     <MainItem>
       <Key>MacDona</Key>
-      <Text>.ld, J. (2nd Lieut.)</Text>
+      <Text>ld, J. (2nd Lieut.)</Text>
       <PageNumber>3372</PageNumber>
     </MainItem>
   </ItemGroup>

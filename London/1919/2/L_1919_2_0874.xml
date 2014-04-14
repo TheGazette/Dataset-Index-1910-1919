@@ -240,7 +240,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Manning</Key>
-      <Text>. Overseas Cadet' C. W: (temp. 2nd Lt.)</Text>
+      <Forenames>Overseas</Forenames>
+      <Text>Cadet' C. W: (temp. 2nd Lt.)</Text>
       <PageNumber>6522</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -251,7 +252,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>G. E.</Forenames>
-      <Text>, M.C. (tad. to unempld. list)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7946</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -294,7 +297,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Mansbridge</Key>
-      <Text>. Capt. E. (tad. to unempld. list)</Text>
+      <Title>Capt.</Title>
+      <Forenames>E.</Forenames>
+      <Text>(tad. to unempld. list)</Text>
       <PageNumber>5208</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -303,14 +308,18 @@
       <Key>Mansel</Key>
       <Title>Capt. Sir</Title>
       <Forenames>C. C</Forenames>
-      <Text>, Bt. (ted: to unempld. list)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4225</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Mansell</Key>
-      <Text>. Lt. C: T. (trd. to unempld. list)</Text>
+      <Title>Lt.</Title>
+      <Forenames>C</Forenames>
+      <Text>: T. (trd. to unempld. list)</Text>
       <PageNumber>4221</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -398,7 +407,9 @@
       </Key>
       <Title>Lt.Cbl.</Title>
       <Forenames>W. H. C</Forenames>
-      <Text>, D.S.O. (rel. commn. bn ceasing to be empld.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7831</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -552,7 +563,9 @@
       <Key>Marindin</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>C. C</Forenames>
-      <Text>, D.S.O. ,(actg. Brig.-Gen, whilst a 'Dir.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5800</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -571,7 +584,9 @@
       </Key>
       <Title>Lt. (actg. Capt.)</Title>
       <Forenames>R. T.</Forenames>
-      <Text>, M.C. (trd. to unempld. list);</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5204</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -589,7 +604,9 @@
       <Key>
         <KeyDitto>— ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>iLt. (Ammy) H. H., M.C. (temp, lit., Aidmih.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5048</PageNumber>
     </MainItem>
     <SubItem>
@@ -617,7 +634,8 @@
   <ItemGroup>
     <MainItem>
       <Key>jMarr</Key>
-      <Text>. Capt. SP..G. i(tad. to unempld. list) '</Text>
+      <Title>Capt.</Title>
+      <Text>SP..G. i(tad. to unempld. list) '</Text>
       <PageNumber>4220</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -873,7 +891,9 @@
       </Key>
       <Title>Lt.Col. (S.O.)</Title>
       <Forenames>W. L.</Forenames>
-      <Text>, O.B.E. (ted. to unempld. list)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>6372</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -160,7 +160,9 @@
     <MainItem>
       <Key>Marx</Key>
       <Forenames>John L.</Forenames>
-      <Text>, M.V.O. (temporary Commander)</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>8130</PageNumber>
     </MainItem>
     <SubItem>
@@ -1031,8 +1033,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Driscoll, Michael Dennis (temporary Lieut.)</Text>
+      <Key>O'Driscoll</Key>
+      <Forenames>Michael Dennis</Forenames>
+      <Text>(temporary Lieut.)</Text>
       <PageNumber>11134</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1145,7 +1148,10 @@
       <Key>Paget</Key>
       <Title>Sir</Title>
       <Forenames>Alfred Wyndham</Forenames>
-      <Text>, K.C.B., K.C.M.G. (temporary Capt.)</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+        <Honour>K.C.M.G.</Honour>
+      </Text>
       <PageNumber>9688</PageNumber>
     </MainItem>
   </ItemGroup>

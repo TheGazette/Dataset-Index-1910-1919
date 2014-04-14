@@ -181,8 +181,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lash</Key>
-      <Forenames>Ivon Richard</Forenames>
-      <Text>de Warrame (temporary Lieut.)</Text>
+      <Forenames>Ivon Richard de Warrame</Forenames>
+      <Text>(temporary Lieut.)</Text>
       <PageNumber>7901</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -379,8 +379,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, Lieut. Frederick H. P. (retained for permanent service, removed from his regiment, and granted substantive rank of Capt.)</Text>
+      <Key>O'Connor</Key>
+      <Title>Lieut.</Title>
+      <Forenames>Frederick H. P.</Forenames>
+      <Text>(retained for permanent service, removed from his regiment, and granted substantive rank of Capt.)</Text>
       <PageNumber>10106</PageNumber>
     </MainItem>
     <SubItem>
@@ -549,7 +551,9 @@
     <MainItem>
       <Key>Scott</Key>
       <Forenames>R. K.</Forenames>
-      <Text>, D.S.O. (Ordnance Officer, 1st Class, and Col.) ...</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -627,7 +631,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>W. H. U.</Forenames>
-      <Text>, D.S.O. (Ordnance Officer, 1st Class, and Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

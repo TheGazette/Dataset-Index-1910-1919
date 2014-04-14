@@ -379,7 +379,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cullen</Key>
-      <Text>. John ' Joseph (temporary Sub-Lieut.),</Text>
+      <Forenames>John</Forenames>
+      <Text>' Joseph (temporary Sub-Lieut.),</Text>
       <PageNumber>6268</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -721,8 +722,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dougan</Key>
-      <Forenames>Alfred St</Forenames>
-      <Text>. Clair (temporary Asst. Engineer)</Text>
+      <Forenames>Alfred St. Clair</Forenames>
+      <Text>(temporary Asst. Engineer)</Text>
       <PageNumber>5208</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1150,7 +1151,9 @@
     <MainItem>
       <Key>Finnis</Key>
       <Forenames>Frank</Forenames>
-      <Text>, C.V.O. (temporary Capt.)</Text>
+      <Text>
+        <Honour>C.V.O.</Honour>
+      </Text>
       <PageNumber>4061</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1175,8 +1178,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fleming</Key>
-      <Forenames>William St</Forenames>
-      <Text>. Clair (temporary Lieut.)</Text>
+      <Forenames>William St. Clair</Forenames>
+      <Text>(temporary Lieut.)</Text>
       <PageNumber>6166</PageNumber>
     </MainItem>
   </ItemGroup>

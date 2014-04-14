@@ -440,8 +440,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Tolputt</Key>
-      <Forenames>H. St</Forenames>
-      <Text>. G. (2nd Lt. on probation)</Text>
+      <Forenames>H. St. G</Forenames>
+      <Text>. (2nd Lt. on probation)</Text>
       <PageNumber>348</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -584,7 +584,9 @@
     <MainItem>
       <Key>Tonks</Key>
       <Forenames>H.</Forenames>
-      <Text>, F.R.C.S. (temp; Lt.)</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>985</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -594,7 +596,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>J. W.</Forenames>
-      <Text>, M.B., F.R.C.S. (temp. Lt.)</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>1813</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1062,7 +1066,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>C</Forenames>
-      <Text>, M.D. (temp. Lt.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>3182</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1214,7 +1220,10 @@
       </Key>
       <Title>Lt.-Col.</Title>
       <Forenames>J. O.</Forenames>
-      <Text>, C.M.G., D.S.O. (temp. Col. whilst a Group Commander)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3290</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1319,16 +1328,16 @@
     <MainItem>
       <Key>Tredennick</Key>
       <Title>2nd Lt.</Title>
-      <Forenames>J. A. St</Forenames>
-      <Text>. L. (temp. Capt.)</Text>
+      <Forenames>J. A. St. L</Forenames>
+      <Text>. (temp. Capt.)</Text>
       <PageNumber>2762</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Treffry</Key>
-      <Forenames>D. K.</Forenames>
-      <Text>de B. (2nd Lt. on probation)</Text>
+      <Forenames>D. K. de B</Forenames>
+      <Text>. (2nd Lt. on probation)</Text>
       <PageNumber>1462</PageNumber>
     </MainItem>
   </ItemGroup>

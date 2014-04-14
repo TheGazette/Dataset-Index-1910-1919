@@ -55,9 +55,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Straubenzee</Forenames>
-      <Text>, Lieut.-Col. Casimir C. (Chief Instructor, and to be seconded)</Text>
+      <Key>Van Straubenzee</Key>
+      <Title>Lieut.-Col.</Title>
+      <Forenames>Casi-</Forenames>
+      <Text>mir C. (Chief Instructor, and to be seconded)</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -67,7 +68,9 @@
       <Key>McDonnell</Key>
       <Title>Brevet Col.</Title>
       <Forenames>John</Forenames>
-      <Text>, C.B. (temporary Commandant)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>10191</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -77,7 +80,9 @@
       <Key>Goold-Adams</Key>
       <Title>Col.</Title>
       <Forenames>Henry E. F.</Forenames>
-      <Text>, C.M.G. (temporary) (to be a member)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>8881</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -185,7 +190,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Bainbridge</Key>
-      <Text>. N. B., D.S.O. (Ordnance Officer, 2nd Class, and Lieut.-Col.)</Text>
+      <Forenames>N. B.</Forenames>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>11138</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -237,7 +245,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Barton</Key>
-      <Text>. A. T.. (Ordnance Officer, 1st Class, and CoL)</Text>
+      <Forenames>A. T.</Forenames>
+      <Text>. (Ordnance Officer, 1st Class, and CoL)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -515,6 +524,14 @@
       <Forenames>T. G.</Forenames>
       <Text>(Deputy Commissary and Hon. Capt.)</Text>
       <PageNumber>11138</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Smidt</Key>
+      <Forenames>E. M.</Forenames>
+      <Text>(Ordnance Officer, 3rd Class, and Maj.)</Text>
+      <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -910,7 +927,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>F. W. R.</Forenames>
-      <Text>. D.S.O. (Ordnance Officer, 3rd Class, and Maj.) ...</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

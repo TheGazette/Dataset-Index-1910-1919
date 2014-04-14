@@ -297,8 +297,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dewhurst</Key>
-      <Forenames>Frederick W.</Forenames>
-      <Text>von Bulow (2nd Lieut, on probation)</Text>
+      <Forenames>Frederick W. von Bulow</Forenames>
+      <Text>(2nd Lieut, on probation)</Text>
       <PageNumber>7918</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -390,7 +390,9 @@
       <Key>Fiennes</Key>
       <Title>Maj. The Hon.</Title>
       <Forenames>Eustace</Forenames>
-      <Text>, M.P. (temporary Lieut.-Col.)</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>9401</PageNumber>
     </MainItem>
     <SubItem>
@@ -522,7 +524,9 @@
       <Key>Hay</Key>
       <Title>Sir</Title>
       <Forenames>Duncan</Forenames>
-      <Text>, Bt. (temporary Hon. 2nd Lieut.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -736,7 +740,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Lukis</Key>
-      <Text>. 2nd Lieut. Wilfrid Boyd Fellowes (temporary Lieut.)</Text>
+      <Title>2nd Lieut.</Title>
+      <Forenames>Wilfrid Boyd Fellowes</Forenames>
+      <Text>(temporary Lieut.)</Text>
       <PageNumber>8250</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1045,7 +1051,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ramsden</Key>
-      <Text>. C. J. (temporary Lieut.Col.)</Text>
+      <Forenames>C. J.</Forenames>
+      <Text>(temporary Lieut.Col.)</Text>
       <PageNumber>9401</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1092,7 +1099,8 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>. Vincent-Ryan, Edmond St. Vincent (temporary Lieut.)</Text>
+      <Forenames>Vincent-Ryan</Forenames>
+      <Text>, Edmond St. Vincent (temporary Lieut.)</Text>
       <PageNumber>7918</PageNumber>
     </MainItem>
   </ItemGroup>

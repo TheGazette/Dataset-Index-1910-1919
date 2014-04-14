@@ -3,7 +3,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Walton</Key>
-      <Text>. Cap* P. (temp. Offr. of Co. of Gentlemen Cadets), Not. cancelled</Text>
+      <Forenames>Cap</Forenames>
+      <Text>* P. (temp. Offr. of Co. of Gentlemen Cadets), Not. cancelled</Text>
       <PageNumber>1049</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -129,7 +130,9 @@
       <Key>Gawler</Key>
       <Title>Capt.</Title>
       <Forenames>D. R.</Forenames>
-      <Text>, M.C. (Chief</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1807</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -151,7 +154,9 @@
       <Key>Lucas</Key>
       <Title>Bt. Lt.-Col. (temp. Brig.Gen.)</Title>
       <Forenames>C. H. T.</Forenames>
-      <Text>, D.S.O. (Comdr. and retain present rank)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>2444</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -168,7 +173,13 @@
   <ItemGroup>
     <MainItem>
       <Key>Sdhreiber</Key>
-      <Text>. Col. (temp. Brig.-Gen.) A. L., C.B., D.S.O., A.D.C. (temp. Comdt., and retain temp, rank)</Text>
+      <Title>Col. (temp. Brig.-Gen.)</Title>
+      <Forenames>A. L.</Forenames>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>A.D.C.</Honour>
+      </Text>
       <PageNumber>417</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -247,8 +258,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, Capt. J. (temp. Supt. and temp. Maj.)</Text>
+      <Key>O'Brien</Key>
+      <Title>Capt.</Title>
+      <Forenames>J.</Forenames>
+      <Text>(temp. Supt. and temp. Maj.)</Text>
       <PageNumber>812</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -270,7 +283,9 @@
       <Key>Scaife</Key>
       <Title>Lt.</Title>
       <Forenames>L. C. P.</Forenames>
-      <Text>(temp. Asst. Supt., and seed., and temp. . Capt.j sua Sewell, temp. Lt. (temp. Capt.) C.W., M.C. (Asst. Supt., and retain temp, rank)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3558</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -308,7 +323,9 @@
       <Key>Aiizlewood</Key>
       <Title>Capt.</Title>
       <Forenames>L. P.</Forenames>
-      <Text>, M.C. (Chief Instr. and temp. Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2443</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -386,7 +403,9 @@
       <Key>Scott</Key>
       <Title>Capt. (temp. Lt.-Col.)</Title>
       <Forenames>A. J. L.</Forenames>
-      <Text>, M.C. (Comdt.^ and retain temp rank)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>665</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -413,7 +432,9 @@
       <Key>Ashcroft</Key>
       <Title>2nd Lt. (temp. Lt.)</Title>
       <Forenames>R. B.</Forenames>
-      <Text>, M.C. (Asst. Instr.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2465</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -422,7 +443,9 @@
       <Key>Barff</Key>
       <Title>temp. Maj.</Title>
       <Forenames>W. H.</Forenames>
-      <Text>, D.S.O. (Asst. Instr., Gen. List]</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>242</PageNumber>
     </MainItem>
     <SubItem>
@@ -513,7 +536,9 @@
       <Key>Daniby</Key>
       <Title>temp. Capt.</Title>
       <Forenames>C</Forenames>
-      <Text>, M.C. (Chief Instr. and temp. Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1590</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -619,7 +644,9 @@
       <Key>HollingSiWorth</Key>
       <Title>temp. Lt.</Title>
       <Forenames>P. C</Forenames>
-      <Text>, M.C. (Examining Offr. and temp. Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1783</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -722,7 +749,9 @@
       <Key>Rooke</Key>
       <Title>Maj.</Title>
       <Forenames>C. P.</Forenames>
-      <Text>, D.S.O. (Comdr. and temp. Lt.-Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3293</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -771,7 +800,9 @@
       <Key>Turner</Key>
       <Title>temp. Lt.</Title>
       <Forenames>A. E.</Forenames>
-      <Text>, M.C. (Asst. Instr.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3711</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -835,7 +866,9 @@
       <Key>Attenborough</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>J.</Forenames>
-      <Text>, C.M.G. (Comdt.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>343</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -52,7 +52,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Aus</Key>
-      <Text>.tdn, Lt. A. ' C. (actg. Capt. whilst empld. with R.E.)</Text>
+      <Text>tdn, Lt. A. ' C. (actg. Capt. whilst empld. with R.E.)</Text>
       <PageNumber>6217</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -100,7 +100,9 @@
       </Key>
       <Title>temp. Capt.</Title>
       <Forenames>F. C</Forenames>
-      <Text>, M.C. (actg. Maj. while 2nd in Comd. 19th Bn.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4371</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -175,7 +177,9 @@
       </Key>
       <Title>Cadet</Title>
       <Forenames>S. B.</Forenames>
-      <Text>, M.M. (temp. 2nd Lt.)</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>5768</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -277,7 +281,9 @@
       <Key>Axten</Key>
       <Title>temp. Lt.</Title>
       <Forenames>C</Forenames>
-      <Text>, M.C. (rel. actg. rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4293</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -342,7 +348,9 @@
       <Key>Aylen</Key>
       <Title>temp. Lt.</Title>
       <Forenames>C. H.</Forenames>
-      <Text>, M.D. (temp. Capt.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>6592</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -535,16 +543,22 @@
       <Key>Babington</Key>
       <Title>temp. Capt.</Title>
       <Forenames>M.</Forenames>
-      <Text>, M.C. (actg. Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4352</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Babtie</Key>
-      <Title>Maj.-Gen. (temp. Lt.Gen.)</Title>
-      <Forenames>Sir-W.</Forenames>
-      <Text>, V.C., K.C.M.G., C.B., M.B., . K.H.S. (placed on ret pay, and to be Hon. Lt.-Gen.)</Text>
+      <Title>Maj.-Gen. (temp. Lt.Gen.) Sir-</Title>
+      <Forenames>W.</Forenames>
+      <Text>
+        <Honour>V.C.</Honour>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>5734</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -627,7 +641,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Backman</Key>
-      <Text>. Cadet V., M.M. (temp. 2nd Lt.)</Text>
+      <Title>Cadet</Title>
+      <Forenames>V.</Forenames>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>8039</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -656,7 +674,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>E. F.</Forenames>
-      <Text>, M.C. (rel. temp. oommn.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7777</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -702,7 +722,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Mfiss L. H.</Forenames>
-      <Text>(Dep. Administrator, Q.M.A.A.C.) ... ___ ___ Ceases to be empld. as Dep. Admimtrator, Q.M.A.A.C Badger, temp. Capt. W. S., M.B. {rel. commn., and retains rank of Capt.) ... Badgley, Lt. J. M. C. (rel. appt. and actg. rank of Capt. on ceas. ing to be Asst. Insltr. at a Sch. of Instrn.)... Bodham, Lt. L. C, M.C. (actg. Capt., comdg. a Co., 13th Bn.) Actg. Maj. whilst 2nd in comd. 5th Bn., R. Inn. Fus</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4862</PageNumber>
     </MainItem>
     <SubItem>

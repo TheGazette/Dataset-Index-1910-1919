@@ -24,7 +24,9 @@
     <MainItem>
       <Key>Lane</Key>
       <Title>Hon. Comdt. and Hon. Lt.</Title>
-      <Text>Col. 'Sir R. B., K.C.B., K.C.VX). (rel. commn. and retains, hon. rank of Lt.-Col.)</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+      </Text>
       <PageNumber>12751</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -351,7 +353,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Leslie-Smith</Key>
-      <Text>temp. Capt. J. R., V.D. {wsl. commn. and to (be Hon. Capt.)</Text>
+      <Title>temp. Capt.</Title>
+      <Forenames>J. R.</Forenames>
+      <Text>, V.D. {wsl. commn. and to (be Hon. Capt.)</Text>
       <PageNumber>13894</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -719,7 +723,9 @@
       <Key>Longmore</Key>
       <Title>Hon. Oomdt. and Hon. Lt.-Col. Sir</Title>
       <Forenames>Charles Elton</Forenames>
-      <Text>, K.C.B., V.D. (rel. commn. and retains hon. rank of Lt..-. Col.)</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+      </Text>
       <PageNumber>12747</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -797,7 +803,10 @@
     <MainItem>
       <Key>Lucas</Key>
       <Title>Hon. Comdt. and Hon. Lt.</Title>
-      <Text>Col. A. G., C.B., M.V.O., V.D. (rel. commn. and retains hon. rank of Lt.-Col.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>12750</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -871,7 +880,9 @@
       <Key>McAllister</Key>
       <Title>temp. Oapit.</Title>
       <Forenames>W.</Forenames>
-      <Text>, M.D. (rel. commn., and to be Hon. Capt.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>13214</PageNumber>
     </MainItem>
   </ItemGroup>

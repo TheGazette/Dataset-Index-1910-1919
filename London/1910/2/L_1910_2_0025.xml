@@ -161,8 +161,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Larpent</Key>
-      <Forenames>L. W. P.</Forenames>
-      <Text>de H. (Capt.)</Text>
+      <Forenames>L. W. P. de H</Forenames>
+      <Text>. (Capt.)</Text>
       <PageNumber>3867</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -235,7 +235,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Grilkison</Key>
-      <Text>.J. D; (Lieut.)</Text>
+      <Forenames>J. D</Forenames>
+      <Text>; (Lieut.)</Text>
       <PageNumber>8637</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -280,6 +281,14 @@
       <Forenames>L. D.</Forenames>
       <Text>(Lieut.) .. '</Text>
       <PageNumber>3710</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Stacpoole</Key>
+      <Forenames>E. H. M.</Forenames>
+      <Text>(Lieut.)</Text>
+      <PageNumber>2492</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -356,15 +365,17 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, H, C H. (Capt.)</Text>
+      <Key>O'Brien</Key>
+      <Forenames>H</Forenames>
+      <Text>, C H. (Capt.)</Text>
       <PageNumber>8066</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, Jl F. (2nd Lieut.)</Text>
+      <Key>O'Brien</Key>
+      <Forenames>Jl F.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>2682</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -555,8 +566,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Smith</Key>
-      <Forenames>E. St</Forenames>
-      <Text>. G. (Capt.)</Text>
+      <Forenames>E. St. G</Forenames>
+      <Text>. (Capt.)</Text>
       <PageNumber>4489</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -572,8 +583,8 @@
     <MainItem>
       <Key>Wheeler</Key>
       <Title>Capt.</Title>
-      <Forenames>S. G.</Forenames>
-      <Text>de C. (seconded)</Text>
+      <Forenames>S. G. de C</Forenames>
+      <Text>. (seconded)</Text>
       <PageNumber>4265</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -651,7 +662,9 @@
       <Key>Grogan</Key>
       <Title>Sir</Title>
       <Forenames>E. J. B.</Forenames>
-      <Text>Bart. (Maj.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>3165</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1182,8 +1195,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Callaghan, R. G. (Capt;)</Text>
+      <Key>O'Callaghan</Key>
+      <Forenames>R. G.</Forenames>
+      <Text>(Capt;)</Text>
       <PageNumber>3886</PageNumber>
     </MainItem>
   </ItemGroup>

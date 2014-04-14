@@ -55,7 +55,9 @@
     <MainItem>
       <Key>Blandy</Key>
       <Forenames>R.</Forenames>
-      <Text>, M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>6235</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -120,7 +122,9 @@
     <MainItem>
       <Key>Fowler</Key>
       <Forenames>E. K.</Forenames>
-      <Text>, M.C. (rel. actg. rank)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6233</PageNumber>
     </MainItem>
     <SubItem>
@@ -161,7 +165,9 @@
     <MainItem>
       <Key>Jones</Key>
       <Forenames>B. I.</Forenames>
-      <Text>, M.C. (rel. actg. rank)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6233</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -249,7 +255,9 @@
       <Key>Searle</Key>
       <Title>Lt.</Title>
       <Forenames>C. S.</Forenames>
-      <Text>, M.C. (reverts to actg. Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4440</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -283,7 +291,9 @@
       <Key>Wellesley</Key>
       <Title>Capt.</Title>
       <Forenames>H. A</Forenames>
-      <Text>, M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>7332</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -292,7 +302,9 @@
       <Key>Whitaker</Key>
       <Title>Capt.</Title>
       <Forenames>S. S.</Forenames>
-      <Text>, M.C. (rel. actg. rank)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7332</PageNumber>
     </MainItem>
     <SubItem>
@@ -390,7 +402,9 @@
       <Key>Bayly</Key>
       <Title>Lt. (actg. Maj.)</Title>
       <Forenames>P. F. B.</Forenames>
-      <Text>, . ' M.C. (reverts to actg. Capt,)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7330</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -424,7 +438,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Voucher</Key>
-      <Text>. 2nd Lt. C. H</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>C. H</Forenames>
       <PageNumber>5073</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -533,7 +548,9 @@
       <Key>Garrett</Key>
       <Title>Lt.</Title>
       <Forenames>K. A.</Forenames>
-      <Text>, M.C. I rel. actg. rank)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7331</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -577,7 +594,9 @@
       <Key>Gracey</Key>
       <Title>Lt.</Title>
       <Forenames>D. D.</Forenames>
-      <Text>, M.C. (rel. actg. rank)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4440</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -849,7 +868,9 @@
     <MainItem>
       <Key>Savage</Key>
       <Forenames>Lt</Forenames>
-      <Text>, KG</Text>
+      <Text>
+        <Honour>KG</Honour>
+      </Text>
       <PageNumber>4440</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -886,7 +907,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Smith</Key>
-      <Text>. TA A. B</Text>
+      <Text>TA A. B</Text>
       <PageNumber>7331</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -952,7 +973,9 @@
       <Key>Toogood</Key>
       <Title>Lt.</Title>
       <Forenames>C. G.</Forenames>
-      <Text>, D.S.O. (rel. aotg. rank)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5073</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1442,7 +1465,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Curtler</Key>
-      <Text>. W. L. (on prob.)</Text>
+      <Forenames>W. L.</Forenames>
+      <Text>(on prob.)</Text>
       <PageNumber>71332</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1457,7 +1481,8 @@
   <ItemGroup>
     <MainItem>
       <Key>dAlbani</Key>
-      <Text>. C. L. (on prob.)</Text>
+      <Forenames>C. L.</Forenames>
+      <Text>(on prob.)</Text>
       <PageNumber>7333</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1550,7 +1575,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Edwards</Key>
-      <Text>. F. O. (on prob.)</Text>
+      <Forenames>F. O.</Forenames>
+      <Text>(on prob.)</Text>
       <PageNumber>7334</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1566,14 +1592,17 @@
     <MainItem>
       <Key>Emery</Key>
       <Forenames>T. S.</Forenames>
-      <Text>, M.C. (on prob.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7332</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Evans</Key>
-      <Text>. A. LI. (on nroib.)</Text>
+      <Forenames>A.</Forenames>
+      <Text>LI. (on nroib.)</Text>
       <PageNumber>7332</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1621,7 +1650,9 @@
     <MainItem>
       <Key>Forshaw</Key>
       <Forenames>W. T.</Forenames>
-      <Text>, V.C. (on prob.)</Text>
+      <Text>
+        <Honour>V.C.</Honour>
+      </Text>
       <PageNumber>7332</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -206,8 +206,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Gowan, Lieut. L. W. (Adjt.)</Text>
+      <Key>O'Gowan</Key>
+      <Title>Lieut.</Title>
+      <Forenames>L. W.</Forenames>
+      <Text>(Adjt.)</Text>
       <PageNumber>8610</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -321,16 +323,17 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Baerle</Forenames>
-      <Text>, E. (temporary Capt.)</Text>
+      <Key>Van Baerle</Key>
+      <Forenames>E.</Forenames>
+      <Text>(temporary Capt.)</Text>
       <PageNumber>9502</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Wilson</Key>
-      <Text>. Archibald F. (temporary Lieut.)</Text>
+      <Forenames>Archibald F.</Forenames>
+      <Text>(temporary Lieut.)</Text>
       <PageNumber>10795</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -467,14 +470,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Dent</Key>
-      <Text>. John R. C. (Capt.)</Text>
+      <Forenames>John R. C.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>8482</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Dickson</Key>
-      <Text>. W. T. (temporary Lieut.)</Text>
+      <Forenames>W. T.</Forenames>
+      <Text>(temporary Lieut.)</Text>
       <PageNumber>10670</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -483,7 +488,9 @@
       <Key>Downing</Key>
       <Title>Lieut.-Col.</Title>
       <Forenames>Henry J.</Forenames>
-      <Text>, D.S.O. (to command 8th Service Bat.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7919</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1232,8 +1239,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Holmes</Key>
-      <Forenames>William C. L.</Forenames>
-      <Text>de Lance (temporary Capt.)</Text>
+      <Forenames>William C. L. de Lance</Forenames>
+      <Text>(temporary Capt.)</Text>
       <PageNumber>9990</PageNumber>
     </MainItem>
   </ItemGroup>

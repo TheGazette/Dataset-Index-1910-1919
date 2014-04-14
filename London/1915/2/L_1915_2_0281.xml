@@ -160,8 +160,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Smith</Key>
-      <Forenames>Basil St</Forenames>
-      <Text>. John (2nd Lieut.)</Text>
+      <Forenames>Basil St. John</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>5401</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -995,8 +995,8 @@
     <MainItem>
       <Key>Errington</Key>
       <Title>2nd Lieut.</Title>
-      <Forenames>R. T. Vis-</Forenames>
-      <Text>count (Aide-de-Camp)</Text>
+      <Forenames>R. T.</Forenames>
+      <Text>Viscount (Aide-de-Camp)</Text>
       <PageNumber>4177</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1035,7 +1035,9 @@
     <MainItem>
       <Key>Harris</Key>
       <Forenames>George F. Angelo</Forenames>
-      <Text>, C.S.I., M.D., F.R.C.P., K.H.S</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>5528</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1100,7 +1102,9 @@
     <MainItem>
       <Key>Lloyd</Key>
       <Forenames>R. A.</Forenames>
-      <Text>, M.D. (relinquishes temporary rank)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>4514</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1122,7 +1126,9 @@
     <MainItem>
       <Key>Stephenson</Key>
       <Forenames>John</Forenames>
-      <Text>, M.B., F.R.C.S</Text>
+      <Text>
+        <Honour>F.R.C.S</Honour>
+      </Text>
       <PageNumber>3732</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1144,7 +1150,9 @@
     <MainItem>
       <Key>Waters</Key>
       <Forenames>Ernest Edwin</Forenames>
-      <Text>, M.D</Text>
+      <Text>
+        <Honour>M.D</Honour>
+      </Text>
       <PageNumber>3732</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1177,7 +1185,9 @@
     <MainItem>
       <Key>Elliot</Key>
       <Forenames>Robert Henry</Forenames>
-      <Text>, M.D., F.R.C.S</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>4177</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1241,7 +1251,9 @@
     <MainItem>
       <Key>Ingram</Key>
       <Forenames>Arthur Charles</Forenames>
-      <Text>, M.D</Text>
+      <Text>
+        <Honour>M.D</Honour>
+      </Text>
       <PageNumber>5526</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1263,8 +1275,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Leary, John, M.B., F.R.C.S.I. (antedated)</Text>
+      <Key>O'Leary</Key>
+      <Forenames>John</Forenames>
+      <Text>, M.B., F.R.C.S.I. (antedated)</Text>
       <PageNumber>5526</PageNumber>
     </MainItem>
   </ItemGroup>

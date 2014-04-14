@@ -527,7 +527,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Jerro</Key>
-      <Text>.d, temp. Lt. D. F. (to retain rank on relg. appt.;</Text>
+      <Text>d, temp. Lt. D. F. (to retain rank on relg. appt.;</Text>
       <PageNumber>7630</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1059,7 +1059,9 @@
     <MainItem>
       <Key>McLuckie</Key>
       <Forenames>C</Forenames>
-      <Text>, M.M. (temp. Sub-Lt.)</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>5196</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1074,7 +1076,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Macpherson</Key>
-      <Text>. D. (temp. Hon. Lt.)</Text>
+      <Forenames>D.</Forenames>
+      <Text>(temp. Hon. Lt.)</Text>
       <PageNumber>4438</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1268,7 +1271,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Milton</Key>
-      <Text>. P. H. (temp. Sub-Lt.)</Text>
+      <Forenames>P. H.</Forenames>
+      <Text>(temp. Sub-Lt.)</Text>
       <PageNumber>4898</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1478,7 +1482,9 @@
         <KeyDitto>—___ ___</KeyDitto>
       </Key>
       <Forenames>W.</Forenames>
-      <Text>, O.B.E. (temp. Sub-Lt.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>5481</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1531,15 +1537,17 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, T. S. (temp. Sub-Lt</Text>
+      <Key>O'Brien</Key>
+      <Forenames>T. S.</Forenames>
+      <Text>(temp. Sub-Lt</Text>
       <PageNumber>7067</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connell, F. J. (temp. Sub-Lt.)</Text>
+      <Key>O'Connell</Key>
+      <Forenames>F. J.</Forenames>
+      <Text>(temp. Sub-Lt.)</Text>
       <PageNumber>5068</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1553,8 +1561,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, J. C. (temp. Sub-Lt.)</Text>
+      <Key>O'Neill</Key>
+      <Forenames>J. C.</Forenames>
+      <Text>(temp. Sub-Lt.)</Text>
       <PageNumber>5481</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1586,8 +1595,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Sullivan, P. J. (temp. Sub-Lt</Text>
+      <Key>O'Sullivan</Key>
+      <Forenames>P. J.</Forenames>
+      <Text>(temp. Sub-Lt</Text>
       <PageNumber>6934</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1698,7 +1708,7 @@
   <ItemGroup>
     <MainItem>
       <Key>P</Key>
-      <Text>.h Phelps, ftna Rev. Pja-.r P. T&gt; B. T3 (temp. Lt.) ± \</Text>
+      <Text>h Phelps, ftna Rev. Pja-.r P. T&gt; B. T3 (temp. Lt.) ± \</Text>
       <PageNumber>5992</PageNumber>
     </MainItem>
   </ItemGroup>

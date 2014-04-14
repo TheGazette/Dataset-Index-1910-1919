@@ -25,22 +25,27 @@
   <ItemGroup>
     <MainItem>
       <Key>Banbury</Key>
-      <Forenames>G. B. St</Forenames>
-      <Text>. P</Text>
+      <Forenames>G. B. St. P</Forenames>
       <PageNumber>6551</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Campbell</Key>
-      <Text>W. D.S.O. &gt;</Text>
+      <Forenames>W.</Forenames>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6550</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Champion</Key>
-      <Text>de Crespigny, H., M.C</Text>
+      <Forenames>de Crespigny</Forenames>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>7917</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -68,7 +73,9 @@
   <ItemGroup>
     <MainItem>
       <Key>De</Key>
-      <Text>la Motte, R. B., D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>6550</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -196,8 +203,7 @@
   <ItemGroup>
     <MainItem>
       <Key>King</Key>
-      <Forenames>J. St</Forenames>
-      <Text>. A</Text>
+      <Forenames>J. St. A</Forenames>
       <PageNumber>6550</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -213,7 +219,9 @@
       <Key>Lang</Key>
       <Title>Capt.</Title>
       <Forenames>W. H.</Forenames>
-      <Text>(Bt.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>8853</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -222,7 +230,9 @@
       <Key>Macdonald</Key>
       <Title>Capt.</Title>
       <Forenames>H.</Forenames>
-      <Text>(Bt.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>8853</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -294,8 +304,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Paterson</Key>
-      <Forenames>R. H. O</Forenames>
-      <Text>'D</Text>
+      <Forenames>R. H. O'D</Forenames>
       <PageNumber>7917</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -383,7 +392,9 @@
       <Key>Steel</Key>
       <Title>Capt. (actg Maj.)</Title>
       <Forenames>C. N.</Forenames>
-      <Text>(Bt.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>8853</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -397,8 +408,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Temple</Key>
-      <Forenames>P.</Forenames>
-      <Text>de L</Text>
+      <Forenames>P. de L</Forenames>
       <PageNumber>9153</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -421,7 +431,9 @@
       <Key>Vicary</Key>
       <Title>Capt.</Title>
       <Forenames>E. S.</Forenames>
-      <Text>(Bt.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>8853</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -604,7 +616,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gillan</Key>
-      <Forenames>G. Van B.</Forenames>
+      <Forenames>G. Van B</Forenames>
       <PageNumber>9153</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -859,7 +871,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Amies</Key>
-      <Text>B. J</Text>
+      <Forenames>B. J.</Forenames>
       <PageNumber>8461</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1138,8 +1150,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>G. H. St</Forenames>
-      <Text>. P. (date of rank)</Text>
+      <Forenames>G. H. St. P</Forenames>
+      <Text>. (date of rank)</Text>
       <PageNumber>8459</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1312,7 +1324,9 @@
     <MainItem>
       <Key>Curtis</Key>
       <Forenames>A. C</Forenames>
-      <Text>, M.C. (date of rank)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8459</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1437,7 +1451,9 @@
     <MainItem>
       <Key>Kales</Key>
       <Forenames>C. H.</Forenames>
-      <Text>-H., M.C. (date of rank)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8459</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1697,8 +1713,8 @@
       <Key>
         <KeyDitto>___ -— ___ ___</KeyDitto>
       </Key>
-      <Forenames>E. St</Forenames>
-      <Text>. V. (date of rank)</Text>
+      <Forenames>E. St. V</Forenames>
+      <Text>. (date of rank)</Text>
       <PageNumber>8459</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1731,7 +1747,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gracey</Key>
-      <Text>D. D. (date of rank)</Text>
+      <Forenames>D. D.</Forenames>
+      <Text>(date of rank)</Text>
       <PageNumber>8459</PageNumber>
     </MainItem>
   </ItemGroup>

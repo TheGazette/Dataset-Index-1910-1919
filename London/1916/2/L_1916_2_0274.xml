@@ -853,8 +853,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, D. P. (2nd Lt.)</Text>
+      <Key>O'Brien</Key>
+      <Forenames>D. P.</Forenames>
+      <Text>(2nd Lt.)</Text>
       <PageNumber>4987</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1324,7 +1325,9 @@
     <MainItem>
       <Key>Indian</Key>
       <Forenames>Medical Service</Forenames>
-      <Text>. Lieutenamt-Colonels. Ainsworth, H., M.B., F.R.C.S</Text>
+      <Text>
+        <Honour>F.R.C.S</Honour>
+      </Text>
       <PageNumber>4465</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1422,7 +1425,10 @@
     <MainItem>
       <Key>Walton</Key>
       <Forenames>H. J.</Forenames>
-      <Text>, M.D., F.R.C.S. ... Majors. Anderson, J., M.B</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>4465</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1430,7 +1436,9 @@
     <MainItem>
       <Key>Babington</Key>
       <Forenames>J. W. H.</Forenames>
-      <Text>, .M.D</Text>
+      <Text>
+        <Honour>M.D</Honour>
+      </Text>
       <PageNumber>4983</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1676,7 +1684,9 @@
     <MainItem>
       <Key>Sathe</Key>
       <Forenames>V. L.</Forenames>
-      <Text>, F.R.C.S. (E.) (temp.)</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>4986</PageNumber>
     </MainItem>
   </ItemGroup>

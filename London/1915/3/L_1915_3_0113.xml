@@ -364,7 +364,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Schofield</Key>
-      <Text>. Thomas R. (temporary 2nd Lieut.)</Text>
+      <Forenames>Thomas R.</Forenames>
+      <Text>(temporary 2nd Lieut.)</Text>
       <PageNumber>8261</PageNumber>
       <PageNumber>9563</PageNumber>
     </MainItem>
@@ -398,7 +399,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Shepherd</Key>
-      <Text>. Cvril Godfrey (temporary 2nd Lieut.)</Text>
+      <Forenames>Cvril Godfrey</Forenames>
+      <Text>(temporary 2nd Lieut.)</Text>
       <PageNumber>9304</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -793,7 +795,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Burlton</Key>
-      <Text>. G. P. (Lieut.)</Text>
+      <Forenames>G. P.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>9554</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -817,7 +820,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Canham</Key>
-      <Text>. Wilfrid David (temporary 2nd Lieut.)</Text>
+      <Forenames>Wilfrid David</Forenames>
+      <Text>(temporary 2nd Lieut.)</Text>
       <PageNumber>8293</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -982,8 +986,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Harman</Key>
-      <Forenames>F.</Forenames>
-      <Text>de W. (Maj.)</Text>
+      <Forenames>F. de W</Forenames>
+      <Text>. (Maj.)</Text>
       <PageNumber>8805</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1036,7 +1040,9 @@
       <Key>Jones-Bateman</Key>
       <Title>Maj.</Title>
       <Forenames>L. N.</Forenames>
-      <Text>, C.M.G. (temporary Lieut.-Col.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>7443</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1160,8 +1166,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, Lieut. A. C. (temporary Capt.)</Text>
+      <Key>O'Connor</Key>
+      <Title>Lieut.</Title>
+      <Forenames>A. C.</Forenames>
+      <Text>(temporary Capt.)</Text>
       <PageNumber>7443</PageNumber>
     </MainItem>
   </ItemGroup>

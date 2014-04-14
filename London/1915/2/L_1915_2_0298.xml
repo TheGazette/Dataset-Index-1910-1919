@@ -341,7 +341,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tait</Key>
-      <Text>.LJ. W. (temporary Sub.Lieut.]</Text>
+      <Text>LJ. W. (temporary Sub.Lieut.]</Text>
       <PageNumber>5513</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -666,8 +666,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Title>St.</Title>
-      <Forenames>John G. Maule</Forenames>
+      <Forenames>St. John G. Maule</Forenames>
       <Text>(temporary Sub-Lieut.)</Text>
       <PageNumber>5752</PageNumber>
     </MainItem>
@@ -796,7 +795,9 @@
     <MainItem>
       <Key>Ward</Key>
       <Forenames>William Dudley</Forenames>
-      <Text>, M.P. (tem porary Lieut.-Commander)</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>3830</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -868,8 +869,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Westminster</Key>
-      <Forenames>His Grace The</Forenames>
-      <Text>Duke of (temporary Commander)</Text>
+      <Forenames>His Grace</Forenames>
+      <Text>The Duke of (temporary Commander)</Text>
       <PageNumber>3830</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1163,8 +1164,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Denison</Key>
-      <Title>Lieut.</Title>
-      <Text>-Commander Conyngham Charles</Text>
+      <Title>Lieut.-Commander</Title>
+      <Forenames>Conyng-</Forenames>
+      <Text>ham Charles</Text>
       <PageNumber>3242</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1186,8 +1188,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Greig</Key>
-      <Title>Lieut.</Title>
-      <Text>-Commander Donald</Text>
+      <Title>Lieut.-Commander Donald.</Title>
       <PageNumber>3829</PageNumber>
     </MainItem>
   </ItemGroup>

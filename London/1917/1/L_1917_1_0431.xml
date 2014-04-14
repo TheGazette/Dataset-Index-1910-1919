@@ -46,7 +46,9 @@
     <MainItem>
       <Key>Sterndale-Bennett</Key>
       <Forenames>W.</Forenames>
-      <Text>, D.S.O. (temp. Lt.-Cdr.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>378</PageNumber>
       <PageNumber>1773</PageNumber>
     </MainItem>
@@ -204,7 +206,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Taylor</Key>
-      <Text>. A. E. (temp. Sub-Lt.)</Text>
+      <Forenames>A. E.</Forenames>
+      <Text>(temp. Sub-Lt.)</Text>
       <PageNumber>2121</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -615,7 +618,9 @@
     <MainItem>
       <Key>Arnold</Key>
       <Forenames>H. J.</Forenames>
-      <Text>, D.S.O. (for temp. service) (Flight Lt.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>14</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -707,7 +712,9 @@
     <MainItem>
       <Key>Bigsworth</Key>
       <Forenames>A. W.</Forenames>
-      <Text>, D.S.O. (Wing Cdr.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>13</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1168,22 +1175,25 @@
     <MainItem>
       <Key>Dallas</Key>
       <Forenames>R. S.</Forenames>
-      <Text>, D.S.C. (for temp, service) (Flight Cdr.)</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>13</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Daly</Key>
-      <Forenames>I.</Forenames>
-      <Text>de B. (for temp, service) (Flight Lt.)</Text>
+      <Forenames>I. de B</Forenames>
+      <Text>. (for temp, service) (Flight Lt.)</Text>
       <PageNumber>14</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Darlev</Key>
-      <Text>. C. H. (for temp, service) (Flight Lt.)</Text>
+      <Forenames>C. H.</Forenames>
+      <Text>(for temp, service) (Flight Lt.)</Text>
       <PageNumber>14</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1201,6 +1211,14 @@
       <Forenames>M. J. G.</Forenames>
       <Text>(for temp, service) (Flight Lt.)</Text>
       <PageNumber>14</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Wilde</Key>
+      <Forenames>H. R.</Forenames>
+      <Text>(temp. Fit. Sub-Lt.)</Text>
+      <PageNumber>2256</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1247,7 +1265,9 @@
     <MainItem>
       <Key>Dickinson</Key>
       <Forenames>R. S. W.</Forenames>
-      <Text>, D.S.O. (for temp, service) (Flight Lt.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>14</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1286,8 +1306,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Drummond</Key>
-      <Forenames>C. B. De T.</Forenames>
-      <Text>(temp. Fit. Sub-Lt.)</Text>
+      <Forenames>C. B. De T</Forenames>
+      <Text>. (temp. Fit. Sub-Lt.)</Text>
       <PageNumber>1649</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1302,7 +1322,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Elliott</Key>
-      <Text>. G. L. (temp. Fit. SuB-Lt.)</Text>
+      <Forenames>G. L.</Forenames>
+      <Text>(temp. Fit. SuB-Lt.)</Text>
       <PageNumber>102</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1326,7 +1347,9 @@
     <MainItem>
       <Key>Evill</Key>
       <Forenames>D. C. S.</Forenames>
-      <Text>, D.S.C. (Sq. Odr.)</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>15</PageNumber>
     </MainItem>
   </ItemGroup>

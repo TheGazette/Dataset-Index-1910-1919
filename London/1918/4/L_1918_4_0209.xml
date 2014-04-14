@@ -67,7 +67,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Coleshill</Key>
-      <Text>2nd Lt. W. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>W.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>12037</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -76,7 +78,9 @@
       <Key>Colfox</Key>
       <Title>Capt.</Title>
       <Forenames>W. P.</Forenames>
-      <Text>, M.C. (Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>12108</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -85,7 +89,9 @@
       <Key>Colhoun</Key>
       <Title>Capt.</Title>
       <Forenames>J.</Forenames>
-      <Text>, M.C. (rel. actg. rank of Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>14397</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -102,7 +108,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>F</Forenames>
-      <Text>, S., F.R.C.S. (temp. Capt.) 146f</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>9</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -111,7 +119,9 @@
       <Key>Collas</Key>
       <Title>Maj.</Title>
       <Forenames>W. J. J.</Forenames>
-      <Text>, D.S.O. (actg. Lt. Col. whilst comdg. a Bn.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>11639</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -129,7 +139,9 @@
       <Key>Collens</Key>
       <Title>Cadet</Title>
       <Forenames>A.</Forenames>
-      <Text>, D.C.M. (temp. 2nd Lt., attd.)</Text>
+      <Text>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>13706</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -176,7 +188,9 @@
       </Key>
       <Title>temp. Maj.</Title>
       <Forenames>F.</Forenames>
-      <Text>, D.S.O. (actg. Lt.-Col. comdg. a Ser. Bh.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>13425</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -210,7 +224,9 @@
       </Key>
       <Title>2nd Lt.</Title>
       <Forenames>D. E.</Forenames>
-      <Text>. M.C. (Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>15166</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -254,7 +270,10 @@
       </Key>
       <Title>2nd Lt.</Title>
       <Forenames>H. J.</Forenames>
-      <Text>, M.M. (trd. to M.G.C. Infv.)</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>14051</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -285,7 +304,7 @@
       <PageNumber>12788</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Temp. Lt., Sub, Not</Text>
+      <Text>Temp. Lt., Sub, Not.</Text>
       <PageNumber>13895</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -462,7 +481,9 @@
       </Key>
       <Title>Cadet</Title>
       <Forenames>H.</Forenames>
-      <Text>(M.G.C. Infy.) (temp. 2nd Lt.)</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>12315</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -495,7 +516,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>H. S.</Forenames>
-      <Text>, D.S.O. (actg. Maj. whilst O. C. Rest Camp)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>14760</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -561,7 +584,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>P. H. C</Forenames>
-      <Text>, M.C. (actg. Maj. whilst serving as Maj. on Hd. Qrs. of Bn.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>12308</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -583,7 +608,9 @@
       </Key>
       <Title>Cadet</Title>
       <Forenames>W.</Forenames>
-      <Text>, M.M. (temp. 2nd Lt.)</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>13387</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -657,7 +684,9 @@
       </Key>
       <Title>Lt. (actg. Capt.)</Title>
       <Forenames>E. H.</Forenames>
-      <Text>, M.C. (Adjt. and retains actg rank)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>12688</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -677,7 +706,9 @@
       <Key>Collis</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>A. J.</Forenames>
-      <Text>, M.D. (date of , seniority)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>14911</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -716,7 +747,9 @@
       <Key>Collison</Key>
       <Title>Lt.-Col. and Bt. Col.</Title>
       <Forenames>C. S.</Forenames>
-      <Text>D.S.O. (rel. commn. on com pletion of tenure of comd. and to retain rank and uniform)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>14192</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -757,7 +790,7 @@
       <PageNumber>12044</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Temp. Capt., Sub. Not</Text>
+      <Text>Temp. Capt., Sub. Not.</Text>
       <PageNumber>13412</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -811,7 +844,9 @@
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Colquhoun</Forenames>
-      <Text>, Capt. J. C, D.S.O. (R. Ir. Rif.) (actg. Maj. while 2nd in fomd. of a Ser. Bn.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>12044</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -832,7 +867,9 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Title>temp. Chapln.</Title>
-      <Text>, 3rd Cl., Rev. J. F., M.C. (2nd Cl.. without increase of pay or allces. whilst actg. as Senr. Chapln.) 117S</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -865,7 +902,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>P. H. L. C</Forenames>
-      <Text>, M.C. (rel. actg. rank of Capt. on ceasing to be Asst. Instr. Armv School)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>11639</PageNumber>
     </MainItem>
     <SubItem>
@@ -935,7 +974,9 @@
       <Key>Colt</Key>
       <Title>temp. Maj. (actg. Lt.-Col.)</Title>
       <Forenames>H. A.</Forenames>
-      <Text>, M.C. (rel. actg. rank of Lt.-Col. on ceasing to comd. a Ser. Bn.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>12476</PageNumber>
     </MainItem>
     <SubItem>
@@ -964,7 +1005,9 @@
     <MainItem>
       <Key>Colvill</Key>
       <Forenames>Lt</Forenames>
-      <Text>, F., M.C. (rel. aetg. rank of Capt. on ceasing to comd. a Co.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>11547</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1060,7 +1103,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>E. S.</Forenames>
-      <Text>, M.C. (actg. Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>14535</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1091,11 +1136,13 @@
       <Key>Compton-Smith</Key>
       <Title>Bt. Maj.</Title>
       <Forenames>G. L.</Forenames>
-      <Text>, D. S.O. (actg. Lt.-Col. while comdg. a Ser. Bn.)</Text>
+      <Text>
+        <Honour>D. S.O.</Honour>
+      </Text>
       <PageNumber>11962</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Rel. temp, rank of Lt.-Col. on ceasing to comd. a Ser. Bn</Text>
+      <Text>Rel. temp, rank of Lt.-Col. on ceasing to comd. a Ser. Bn.</Text>
       <PageNumber>11962</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1113,7 +1160,9 @@
       <Key>Conacher</Key>
       <Title>temp. Capt.</Title>
       <Forenames>C. L.</Forenames>
-      <Text>, O.B.E. (temp. Maj.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>11937</PageNumber>
     </MainItem>
   </ItemGroup>

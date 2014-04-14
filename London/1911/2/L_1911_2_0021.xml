@@ -38,8 +38,8 @@
     <MainItem>
       <Key>Harrison</Key>
       <Title>Lieut.</Title>
-      <Forenames>J.</Forenames>
-      <Text>de C. (resigned)</Text>
+      <Forenames>J. de C</Forenames>
+      <Text>. (resigned)</Text>
       <PageNumber>3051</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -164,8 +164,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fetherstonhaugh</Key>
-      <Forenames>A. St</Forenames>
-      <Text>. L. (Capt.)</Text>
+      <Forenames>A. St. L</Forenames>
+      <Text>. (Capt.)</Text>
       <PageNumber>3441</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -214,6 +214,15 @@
   <SubSectionTitle>t The Royal Welsh Fusiliers</SubSectionTitle>
   <ItemGroup>
     <MainItem>
+      <Key>de Miremont</Key>
+      <Title>2nd Lieut.</Title>
+      <Forenames>G. E. R.</Forenames>
+      <Text>(seconded)</Text>
+      <PageNumber>3555</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>
         <KeyDitto>___ ___ ___ ___ ..</KeyDitto>
       </Key>
@@ -225,7 +234,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Edwards</Key>
-      <Text>C.H. (Lieut.)</Text>
+      <Text>
+        <Honour>C.H.</Honour>
+      </Text>
       <PageNumber>2805</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -493,8 +504,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, R. N. (Lieut.)</Text>
+      <Key>O'Connor</Key>
+      <Forenames>R. N.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>4280</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -956,6 +968,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>du Moulin</Key>
+      <Forenames>F. L.</Forenames>
+      <Text>(Lieut.)</Text>
+      <PageNumber>3819</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Holderness</Key>
       <Forenames>W.</Forenames>
       <Text>(2nd Lient.)</Text>
@@ -1316,8 +1336,8 @@
     <MainItem>
       <Key>Morley</Key>
       <Title>Capt.</Title>
-      <Forenames>L. St</Forenames>
-      <Text>. H. (seconded!</Text>
+      <Forenames>L. St. H</Forenames>
+      <Text>. (seconded!</Text>
       <PageNumber>2884</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1391,8 +1411,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connell, H. G. (Lieut.)</Text>
+      <Key>O'Connell</Key>
+      <Forenames>H. G.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>3641</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -304,7 +304,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>H. E. S.</Forenames>
-      <Text>, M.D. (temp. Lt.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>12445</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -703,7 +705,7 @@
       <PageNumber>10157</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Capt</Text>
+      <Text>Capt.</Text>
       <PageNumber>12778</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -842,7 +844,7 @@
       <PageNumber>10920</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Temp. Capt</Text>
+      <Text>Temp. Capt.</Text>
       <PageNumber>11911</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1001,8 +1003,8 @@
     <MainItem>
       <Key>Storrs</Key>
       <Title>2nd Lt.</Title>
-      <Forenames>B. St</Forenames>
-      <Text>. J., supplementary (confirmed) ,</Text>
+      <Forenames>B. St. J</Forenames>
+      <Text>., supplementary (confirmed) ,</Text>
       <PageNumber>12410</PageNumber>
     </MainItem>
     <SubItem>
@@ -1018,7 +1020,7 @@
       <PageNumber>10363</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Temp. Lt</Text>
+      <Text>Temp. Lt.</Text>
       <PageNumber>11438</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1342,7 +1344,10 @@
     <MainItem>
       <Key>Straton</Key>
       <Forenames>A. A.</Forenames>
-      <Text>, M.D., F.R.C.S. (Edin.) (temp. Capt.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>10026</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1476,7 +1481,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stretch</Key>
-      <Text>E. A. (temp. Capt.)</Text>
+      <Forenames>E. A.</Forenames>
+      <Text>(temp. Capt.)</Text>
       <PageNumber>12294</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -44,7 +44,9 @@
       <Key>Dickson</Key>
       <Title>2nd Lt.</Title>
       <Forenames>A. B.</Forenames>
-      <Text>, M.C. (Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2585</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -121,7 +123,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>V. H.</Forenames>
-      <Text>, D.S.O. (aotg. Lt.Col. while comdg. a Bde., B.F.A., T.F.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3276</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -180,14 +184,18 @@
       <Key>Dingley</Key>
       <Title>Capt. (actg. Maj.)</Title>
       <Forenames>L. A.</Forenames>
-      <Text>, M.D. (Capt.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>685</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Dinn</Key>
-      <Text>. 2nd Lt. R. E. (LtJ</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>R. E.</Forenames>
+      <Text>(LtJ</Text>
       <PageNumber>1145</PageNumber>
     </MainItem>
     <SubItem>
@@ -198,7 +206,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Dinwiddie</Key>
-      <Text>. Lt. W. (date of precedence and seed.) (Sub. Not.)</Text>
+      <Title>Lt.</Title>
+      <Forenames>W.</Forenames>
+      <Text>(date of precedence and seed.) (Sub. Not.)</Text>
       <PageNumber>442</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -359,7 +369,10 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>M.</Forenames>
-      <Text>. M.D. (trd. to R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>506</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -368,7 +381,9 @@
       <Key>Dobbie</Key>
       <Title>Lt.</Title>
       <Forenames>S. U.</Forenames>
-      <Text>M.C. (actg. Capt. addtl.) ... '</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>330</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -385,7 +400,9 @@
     <MainItem>
       <Key>Dobson</Key>
       <Title>Capt. (temp. Maj.)</Title>
-      <Text>(aetg. Lt.-Col. F. G., D.S.O., M.B. (rel. temp, rank, and retains aotg. rank of Lt.-Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>1353</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -449,7 +466,9 @@
       </Key>
       <Title>Capt. (Bt. Maj., act?. Lt.-Col.)</Title>
       <Forenames>R.E.</Forenames>
-      <Text>), W. T., D.S.O. (Maj.. and retains actg. rank of _Lt^oL JR.E.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>798</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -511,11 +530,14 @@
       <Key>Dodds-Piarker</Key>
       <Title>Maj (temp. Lt.-Col.)</Title>
       <Forenames>A. P.</Forenames>
-      <Text>, M.D., F.R.C.S. (rel. temp, rank)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>1353</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Actg. Lt.Col.</Text>
+      <Text>Actg. Lt.Col</Text>
       <PageNumber>1354</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -524,7 +546,9 @@
       <Key>Dodge</Key>
       <Title>temp. Maj. (actg. Lt.-Col.)</Title>
       <Forenames>J. B.</Forenames>
-      <Text>, D.S.O. (temp. Lt.-Col. while comdg. 16th Bn. R. Sussex Regt.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3120</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -627,7 +651,7 @@
       <PageNumber>1053</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>ILt. and rem. seed.</Text>
+      <Text>ILt. and rem. seed</Text>
       <PageNumber>3010</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -712,7 +736,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Donnell</Key>
-      <Text>. Oa.pt. J. H., M.B. (actg. Maj.) '</Text>
+      <Title>Oa.</Title>
+      <Text>pt. J. H., M.B. (actg. Maj.) '</Text>
       <PageNumber>1069</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -723,7 +748,7 @@
       <PageNumber>683</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Actg. Capt. while corndg a Co.</Text>
+      <Text>Actg. Capt. while corndg a Co</Text>
       <PageNumber>2394</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -771,7 +796,9 @@
       </Key>
       <Title>Lt. (actg. Capt.)</Title>
       <Forenames>C. B.</Forenames>
-      <Text>, M.C. (rel. aetg. rank on ceasing to comd. a Co.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>443</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -814,7 +841,9 @@
       <Key>Dowley</Key>
       <Title>2nd Lt.</Title>
       <Forenames>A. E.</Forenames>
-      <Text>, M.C. (Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2834</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -823,7 +852,9 @@
       <Key>Dloiwnes</Key>
       <Title>Lt.</Title>
       <Forenames>J. W.</Forenames>
-      <Text>, M.C. (actg. Capt. conidg. a Co.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>696</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -843,7 +874,10 @@
       <Key>Downie</Key>
       <Title>Capt.</Title>
       <Forenames>J.</Forenames>
-      <Text>, D.S.O., M.B. (trd. to R.A.M.C.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>506</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -853,7 +887,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>I</Forenames>
-      <Text>A. J. O, M.C. (actg. Capt.) while comdg. a Oo.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4176</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -880,7 +916,9 @@
       <Key>Drake</Key>
       <Title>Capt.</Title>
       <Forenames>J. H.</Forenames>
-      <Text>.M.C. (Maj. aaid and restd. to estatot.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>694</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1050,16 +1088,28 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Cane</Forenames>
-      <Text>, 2nd Lt. R, E. M. (Lt.)</Text>
+      <Key>Du Cane</Key>
+      <Title>2nd Lt.</Title>
+      <Forenames>R</Forenames>
+      <Text>, E. M. (Lt.)</Text>
       <PageNumber>3278</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Plessis</Key>
+      <Title>2nd Lt.</Title>
+      <Forenames>S.</Forenames>
+      <Text>'(actg. Capt., Gen. List) (Lt.)</Text>
+      <PageNumber>1773</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Ducat</Key>
-      <Text>. Maj. (actg. Lt.-Col.) A. D., M.B. (Lt.-Col.)</Text>
+      <Title>Maj. (actg. Lt.-Col.)</Title>
+      <Forenames>A. D.</Forenames>
+      <Text>, M.B. (Lt.-Col.)</Text>
       <PageNumber>3881</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1086,7 +1136,9 @@
       <Key>Duckworth</Key>
       <Title>Lt.</Title>
       <Forenames>E. H. S.</Forenames>
-      <Text>(Capt, and rem. seed. M.G.C.)</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>2394</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1154,14 +1206,20 @@
   <ItemGroup>
     <MainItem>
       <Key>Dluffv</Key>
-      <Text>. Cadet J. M. (2nd Lt.)</Text>
+      <Title>Cadet</Title>
+      <Forenames>J. M.</Forenames>
+      <Text>(2nd Lt.)</Text>
       <PageNumber>3830</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Dugdale</Key>
-      <Text>. Lt.-Col. A.. C.M.G. (retired on completion of tenure of comd., and retains rank of Lt.Col.)</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>A.</Forenames>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>1051</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -27,7 +27,7 @@
       <PageNumber>743</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Capt.</Text>
+      <Text>Capt</Text>
       <PageNumber>2872</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -86,7 +86,7 @@
       <PageNumber>2641</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Actg. Lt.-Col.</Text>
+      <Text>Actg. Lt.-Col</Text>
       <PageNumber>2641</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -207,7 +207,7 @@
       <PageNumber>761</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Capt. and rem. seed.</Text>
+      <Text>Capt. and rem. seed</Text>
       <PageNumber>3090</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -460,7 +460,9 @@
       </Key>
       <Title>Lt. (temp. Capt.)</Title>
       <Forenames>T.</Forenames>
-      <Text>, M.C. (Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>922</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -551,7 +553,9 @@
       </Key>
       <Title>Lt. (temp. Maj.)</Title>
       <Forenames>T. C</Forenames>
-      <Text>, M.C. (rel. temp, rank)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1870</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -659,7 +663,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Westbury</Key>
-      <Text>. Cadet F. S. (2nd Lt.)</Text>
+      <Title>Cadet</Title>
+      <Forenames>F. S.</Forenames>
+      <Text>(2nd Lt.)</Text>
       <PageNumber>1279</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -790,7 +796,7 @@
       <PageNumber>1172</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Restd. to estab.</Text>
+      <Text>Restd. to estab</Text>
       <PageNumber>2248</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -944,11 +950,13 @@
   <ItemGroup>
     <MainItem>
       <Key>Wheeler-Holohan</Key>
-      <Text>. Lt. A. V. (tem]i Capt.)</Text>
+      <Title>Lt.</Title>
+      <Forenames>A. V.</Forenames>
+      <Text>(tem]i Capt.)</Text>
       <PageNumber>451</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Capt. and rem. seed.</Text>
+      <Text>Capt. and rem. seed</Text>
       <PageNumber>3090</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1102,7 +1110,9 @@
       </Key>
       <Title>Capt. Sir</Title>
       <Forenames>A.</Forenames>
-      <Text>\V., Bt. (seed.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>740</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1532,7 +1542,7 @@
       <PageNumber>2345</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Rel. rank of Lt.-Col., temp.</Text>
+      <Text>Rel. rank of Lt.-Col., temp</Text>
       <PageNumber>2603</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1701,7 +1711,9 @@
       <Key>Whitley</Key>
       <Title>2nd Lt. (temp. Capt.)</Title>
       <Forenames>N. H. P.</Forenames>
-      <Text>, M.C. (Lt., temp. Capt. and rem. seed.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2978</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1727,8 +1739,8 @@
     <MainItem>
       <Key>Whittaker</Key>
       <Title>Lt.</Title>
-      <Forenames>W. E.</Forenames>
-      <Text>de P. (Adjt. and temp. Capt.)</Text>
+      <Forenames>W. E. de P</Forenames>
+      <Text>. (Adjt. and temp. Capt.)</Text>
       <PageNumber>612</PageNumber>
     </MainItem>
   </ItemGroup>

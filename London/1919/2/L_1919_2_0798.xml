@@ -116,7 +116,9 @@
     <MainItem>
       <Key>Castle</Key>
       <Forenames>J. P.</Forenames>
-      <Text>, D.S.O. (2nd Lt.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5521</PageNumber>
     </MainItem>
     <SubItem>
@@ -381,8 +383,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cleburne</Key>
-      <Forenames>J. St</Forenames>
-      <Text>. H. (2nd Lt.)</Text>
+      <Forenames>J. St. H</Forenames>
+      <Text>. (2nd Lt.)</Text>
       <PageNumber>6378</PageNumber>
     </MainItem>
     <SubItem>
@@ -394,7 +396,9 @@
     <MainItem>
       <Key>Clement</Key>
       <Forenames>J.</Forenames>
-      <Text>M.C. (actg. Capt., comdg. a Co.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5665</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -725,7 +729,9 @@
     <MainItem>
       <Key>Copeland</Key>
       <Forenames>D. P.</Forenames>
-      <Text>, O.B.E. (Capt.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>8117</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -749,7 +755,7 @@
       <PageNumber>4582</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Lt</Text>
+      <Text>Lt.</Text>
       <PageNumber>5664</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -852,7 +858,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Oowie</Key>
-      <Text>. A. .(Lt.)</Text>
+      <Forenames>A.</Forenames>
+      <Text>.(Lt.)</Text>
       <PageNumber>4428</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1119,7 +1126,9 @@
     <MainItem>
       <Key>Davidson</Key>
       <Forenames>J. R.</Forenames>
-      <Text>, M.C. (actg. Capt., comdg. a Co.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5351</PageNumber>
     </MainItem>
     <SubItem>
@@ -1215,7 +1224,7 @@
       <PageNumber>5804</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Capt</Text>
+      <Text>Capt.</Text>
       <PageNumber>5663</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1232,8 +1241,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>R. F. O</Forenames>
-      <Text>'H. F. (Lt.)</Text>
+      <Forenames>R. F. O'H</Forenames>
+      <Text>. F. (Lt.)</Text>
       <PageNumber>6373</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1243,6 +1252,14 @@
       <Forenames>H. J.</Forenames>
       <Text>(Lt.)</Text>
       <PageNumber>5351</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Gale</Key>
+      <Forenames>H. O.</Forenames>
+      <Text>(Lt.)</Text>
+      <PageNumber>3351</PageNumber>
     </MainItem>
     <SubItem>
       <Text>
@@ -1430,7 +1447,7 @@
       <PageNumber>6123</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Rel. actg. rank of Capt. on ceasing to be Adjt</Text>
+      <Text>Rel. actg. rank of Capt. on ceasing to be Adjt.</Text>
       <PageNumber>6374</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1449,7 +1466,7 @@
       <PageNumber>7078</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>Lt</Text>
+      <Text>Lt.</Text>
       <PageNumber>5351</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1498,7 +1515,9 @@
     <MainItem>
       <Key>Dunning</Key>
       <Forenames>A. G. A.</Forenames>
-      <Text>, M.C. {Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6373</PageNumber>
     </MainItem>
   </ItemGroup>

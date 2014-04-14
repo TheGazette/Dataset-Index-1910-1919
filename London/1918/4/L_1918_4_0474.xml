@@ -26,7 +26,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Haiji</Key>
-      <Text>H. S. G. (date of promn.)</Text>
+      <Forenames>H. S. G.</Forenames>
+      <Text>(date of promn.)</Text>
       <PageNumber>13007</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -90,7 +91,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lee</Key>
-      <Text>R.. M.B. (dfeute of promn..)</Text>
+      <Forenames>R.</Forenames>
+      <Text>. M.B. (dfeute of promn..)</Text>
       <PageNumber>13007</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -123,8 +125,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Martin</Key>
-      <Forenames>C.</Forenames>
-      <Text>de C., MB. (date of promn.)</Text>
+      <Forenames>C. de C</Forenames>
+      <Text>
+        <Honour>MB</Honour>
+      </Text>
       <PageNumber>13007</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -169,7 +173,9 @@
       <PageNumber>13007</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>F.R.C.B</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>13930</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -297,7 +303,9 @@
     <MainItem>
       <Key>Siweet</Key>
       <Forenames>R.</Forenames>
-      <Text>, D.S.O., M.B. (date of promo.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>13007</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -492,7 +500,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Govinda</Key>
-      <Text>Sankaram Tampi (temp.)</Text>
+      <Forenames>Sankaram Tampi</Forenames>
+      <Text>(temp.)</Text>
       <PageNumber>11981</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -558,7 +567,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Keralapuram</Key>
-      <Text>Sreenevasa Subramanyam (temp.)</Text>
+      <Forenames>Sreenevasa Subra-</Forenames>
+      <Text>manyam (temp.)</Text>
       <PageNumber>13508</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -754,6 +764,20 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Cruz</Key>
+      <Forenames>F. G</Forenames>
+      <PageNumber>13007</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Silva</Key>
+      <Forenames>G. F</Forenames>
+      <PageNumber>13007</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>D</Key>
       <Text>'Sylva, W. R</Text>
       <PageNumber>13007</PageNumber>
@@ -784,14 +808,16 @@
     <MainItem>
       <Key>Gonsalves</Key>
       <Forenames>D. P.</Forenames>
-      <Text>, F.R.C.S</Text>
+      <Text>
+        <Honour>F.R.C.S</Honour>
+      </Text>
       <PageNumber>13007</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Greson</Key>
-      <Text>E. J</Text>
+      <Forenames>E. J.</Forenames>
       <PageNumber>13007</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -829,7 +855,9 @@
     <MainItem>
       <Key>Rodriguez</Key>
       <Forenames>L. K.</Forenames>
-      <Text>, F.R.C.S</Text>
+      <Text>
+        <Honour>F.R.C.S</Honour>
+      </Text>
       <PageNumber>13007</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -862,7 +890,9 @@
     <MainItem>
       <Key>Pulleyn</Key>
       <Forenames>G. H.</Forenames>
-      <Text>, M.C. (in consequence of ill-health)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>13511</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1038,7 +1068,9 @@
     <MainItem>
       <Key>Grice</Key>
       <Forenames>W. T.</Forenames>
-      <Text>, CLE., V.D., A.D.C</Text>
+      <Text>
+        <Honour>A.D.C</Honour>
+      </Text>
       <PageNumber>11575</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1054,7 +1086,9 @@
     <MainItem>
       <Key>Mitchell</Key>
       <Forenames>H. H. G.</Forenames>
-      <Text>, A.D.C. (to comd. Unit)</Text>
+      <Text>
+        <Honour>A.D.C.</Honour>
+      </Text>
       <PageNumber>13016</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1152,9 +1186,12 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Bonlay</Forenames>
-      <Text>, Sir J. H., K.C.I.E., C.S.I</Text>
+      <Key>Du Bonlay</Key>
+      <Title>Sir</Title>
+      <Forenames>J. H.</Forenames>
+      <Text>
+        <Honour>K.C.I.E.</Honour>
+      </Text>
       <PageNumber>13015</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1163,7 +1200,10 @@
       <Key>Henry</Key>
       <Title>Sir</Title>
       <Forenames>W. D.</Forenames>
-      <Text>, K.T., CLE., V.D., A.D.C</Text>
+      <Text>
+        <Honour>K.T.</Honour>
+        <Honour>A.D.C</Honour>
+      </Text>
       <PageNumber>13015</PageNumber>
     </MainItem>
   </ItemGroup>

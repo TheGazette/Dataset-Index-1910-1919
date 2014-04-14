@@ -257,8 +257,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ollard</Key>
-      <Forenames>K.</Forenames>
-      <Text>de H. (Lieut.)</Text>
+      <Forenames>K. de H</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1153,7 +1153,9 @@
       <Key>Alexander</Key>
       <Title>Sir</Title>
       <Forenames>L. C. W.</Forenames>
-      <Text>, Bart. . (Capt.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>ibid</PageNumber>
     </MainItem>
   </ItemGroup>

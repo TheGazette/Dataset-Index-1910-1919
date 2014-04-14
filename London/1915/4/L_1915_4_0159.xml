@@ -19,7 +19,7 @@
       <PageNumber>11576</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Temporary Capt</Text>
+      <Text>Temporary Capt.</Text>
       <PageNumber>12449</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -213,7 +213,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>H.</Forenames>
-      <Text>, M.D. (temp. 2nd Lt.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>12177</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -775,7 +777,10 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>H. C.</Forenames>
-      <Text>(temp. LtJ , ___ ___ ___ Col. H. E., C.B., C.M.G</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G</Honour>
+      </Text>
       <PageNumber>10635</PageNumber>
     </MainItem>
     <SubItem>
@@ -822,14 +827,18 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>W. N.</Forenames>
-      <Text>(temp. 2nd Lt.) ... Wauchope, Maj. A. G., D.S.O. (temp. Lt.-Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>10633</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Waud</Key>
-      <Text>2nd Lt. E. H., supplementary (confirmed)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>E. H.</Forenames>
+      <Text>, supplementary (confirmed)</Text>
       <PageNumber>12674</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -889,7 +898,7 @@
     </MainItem>
     <KeyDitto>___ ___ ___</KeyDitto>
     <SubItem>
-      <Text>Lt</Text>
+      <Text>Lt.</Text>
       <PageNumber>12922</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -942,8 +951,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wayinouth</Key>
-      <Forenames>N.</Forenames>
-      <Text>de K. (temp. 2nd Lt.)</Text>
+      <Forenames>N. de K</Forenames>
+      <Text>. (temp. 2nd Lt.)</Text>
       <PageNumber>11156</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1133,7 +1142,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>H. W.</Forenames>
-      <Text>, M.B., F.R.C.S. (Edin.) (temp. Capt,)</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>10026</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1340,7 +1351,9 @@
     <MainItem>
       <Key>Webber</Key>
       <Forenames>A. M.</Forenames>
-      <Text>, F.R.C.S. (temp. Lt.)</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>10916</PageNumber>
     </MainItem>
   </ItemGroup>

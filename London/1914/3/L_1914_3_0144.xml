@@ -276,14 +276,16 @@
     <MainItem>
       <Key>Wardle</Key>
       <Forenames>Bernard</Forenames>
-      <Text>(Capt.) Watson, Capt. Charles G., F.R.C.S. (seconded)</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>7107</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Wel</Key>
-      <Text>.b, Robert Weston (Capt.)</Text>
+      <Text>b, Robert Weston (Capt.)</Text>
       <PageNumber>7232</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -372,14 +374,17 @@
     <MainItem>
       <Key>Yockney</Key>
       <Forenames>William A.</Forenames>
-      <Text>(Lieut.) Territorial Decoration conferred upon Alexander, Major James Whitelaw</Text>
+      <Text>
+        <Honour>Territorial Decoration</Honour>
+      </Text>
       <PageNumber>5759</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Atkinson</Key>
-      <Text>. Quartermaster and Hon. Major Chat les Edward</Text>
+      <Forenames>Quartermaster</Forenames>
+      <Text>and Hon. Major Chat les Edward</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -388,8 +393,9 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Lieut-</Forenames>
-      <Text>Col. (Hon. Lieut. in the Army) Harry Stanley ...</Text>
+      <Title>Lieut-Col. (Hon. Lieut. in the Army)</Title>
+      <Forenames>Harry Stanley</Forenames>
+      <Text>...</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -439,7 +445,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Davidson</Key>
-      <Text>. Major Wm. Henry Bain</Text>
+      <Title>Major Wm.</Title>
+      <Forenames>Henry Bain</Forenames>
       <PageNumber>5758</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -496,7 +503,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hotden</Key>
-      <Text>. Quartermaster and Hon. Major Wm. Henry</Text>
+      <Forenames>Quartermaster</Forenames>
+      <Text>and Hon. Major Wm. Henry</Text>
       <PageNumber>5759</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -512,7 +520,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hughes-DAeth</Key>
-      <Text>. Capt._ and Hon. Majo Cloudesly Cecil ...</Text>
+      <Title>Capt.</Title>
+      <Text>_ and Hon. Majo Cloudesly Cecil ...</Text>
       <PageNumber>___ ___ .</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -631,7 +640,9 @@
       <Key>Topping</Key>
       <Title>Major (Hon. Capt. in the Army)</Title>
       <Forenames>Thomas Edward</Forenames>
-      <Text>, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>5758</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -721,7 +732,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bowden</Key>
-      <Text>. Jonathan S. (Capt.)</Text>
+      <Forenames>Jonathan S.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>6916</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -974,7 +986,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Player</Key>
-      <Text>. James Fmrbairn (Lieut.)</Text>
+      <Forenames>James Fmrbairn</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>7785</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1276,7 +1289,9 @@
       <Key>Brocklehurst</Key>
       <Title>Lieut. Sir</Title>
       <Forenames>P. L.</Forenames>
-      <Text>, Bart. (Aide-de-Camp and seconded)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>7015</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1401,6 +1416,15 @@
       <Forenames>R.</Forenames>
       <Text>(Aide-de Camp and seconded)</Text>
       <PageNumber>7015</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Paravicini</Key>
+      <Title>Capt.</Title>
+      <Forenames>P. C. F.</Forenames>
+      <Text>(Aidede-Camp and seconded) ... ...</Text>
+      <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

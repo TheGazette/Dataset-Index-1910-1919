@@ -234,8 +234,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hodge</Key>
-      <Forenames>Reginald B.</Forenames>
-      <Text>de Burgo (temporary Lieut.)</Text>
+      <Forenames>Reginald B. de Burgo</Forenames>
+      <Text>(temporary Lieut.)</Text>
       <PageNumber>9133</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -304,7 +304,9 @@
     <MainItem>
       <Key>Hume-Purvis-</Key>
       <Forenames>Hume-Gampbell</Forenames>
-      <Text>, Sir John, Bart, (temporary Lieut.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>9018</PageNumber>
     </MainItem>
     <SubItem>
@@ -665,7 +667,9 @@
       <Key>Morrison-Bell</Key>
       <Title>Capt.</Title>
       <Forenames>Ernest Fitz-</Forenames>
-      <Text>roy, M.P. (temporary Major)</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>9542</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -683,7 +687,9 @@
     <MainItem>
       <Key>Murray</Key>
       <Forenames>M. Fitzmaurice</Forenames>
-      <Text>, D.S.O. (temporary Capt.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8517</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -702,14 +708,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Norton</Key>
-      <Text>. F. Herbert (temporary 2nd Lieut.)</Text>
+      <Forenames>F. Herbert</Forenames>
+      <Text>(temporary 2nd Lieut.)</Text>
       <PageNumber>8396</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Callaghan, Cornelius L. (temporary 2nd Lieut.)</Text>
+      <Key>O'Callaghan</Key>
+      <Forenames>Cornelius L.</Forenames>
+      <Text>(temporary 2nd Lieut.)</Text>
       <PageNumber>9240</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -759,7 +767,9 @@
       <Key>Palmer</Key>
       <Title>Hon. Capt. (Lieut., Reserve of Officers)</Title>
       <Forenames>Arthur P.</Forenames>
-      <Text>, D.S.O. (temporary Capt.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8395</PageNumber>
     </MainItem>
     <SubItem>
@@ -814,7 +824,9 @@
       <Key>Paul</Key>
       <Title>Sir</Title>
       <Forenames>Robert Joshua</Forenames>
-      <Text>, Bt. (temporary 2nd Lieut.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>8763</PageNumber>
     </MainItem>
     <SubItem>
@@ -979,15 +991,17 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. Bernards-Bryan, Cecil George (temporary 2nd Lieut.)</Text>
+      <Key>St. Bernards-Bryan</Key>
+      <Forenames>Cecil George</Forenames>
+      <Text>(temporary 2nd Lieut.)</Text>
       <PageNumber>9664</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. Leonards, Frank E. Sugden, Lord (temporary 2nd Lieut.)</Text>
+      <Key>St. Leonards</Key>
+      <Forenames>Frank E. Sugden</Forenames>
+      <Text>, Lord (temporary 2nd Lieut.)</Text>
       <PageNumber>8238</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -215,7 +215,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Loekhart</Key>
-      <Text>. George B. (Lieut.)</Text>
+      <Forenames>George B.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -408,7 +409,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mellows</Key>
-      <Text>. Charles (2nd Lieut.)</Text>
+      <Forenames>Charles</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>8870</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -493,7 +495,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Batchelor</Key>
-      <Text>. Gerald Joseph Leeman (2nd Lieut.)</Text>
+      <Forenames>Gerald Joseph Leeman</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>10286</PageNumber>
     </MainItem>
     <SubItem>
@@ -841,7 +844,9 @@
       <Key>Kenyon</Key>
       <Title>Capt. Sir</Title>
       <Forenames>Frederick G.</Forenames>
-      <Text>, K.C.B. (restored to the establishment)</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+      </Text>
       <PageNumber>8147</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -879,8 +884,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, Richard C. Frederick (Capt.)</Text>
+      <Key>O'Brien</Key>
+      <Forenames>Richard C. Frederick</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

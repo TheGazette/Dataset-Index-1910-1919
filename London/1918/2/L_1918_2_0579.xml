@@ -115,7 +115,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Tolmie</Key>
-      <Text>.temp. 2nd Lt. D. J. (temp. Lt.)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>D. J.</Forenames>
+      <Text>(temp. Lt.)</Text>
       <PageNumber>6357</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -333,7 +335,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Valentia</Key>
-      <Text>the Rt. Hon. A., Visct., C.B. M.V.O., T.D. (Hon. Lt.. CoL)</Text>
+      <Text>
+        <Honour>C.B. M.V.O.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>7198</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -893,7 +898,9 @@
       <Key>Weston</Key>
       <Title>Col.</Title>
       <Forenames>J. W.</Forenames>
-      <Text>, T.D. (Hon. Lt.Col.)</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>7198</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1112,7 +1119,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wilkins</Key>
-      <Text>.F. (temp. Capt.) .. Wilkinson, temp. Capt. J. (2nd in</Text>
+      <Forenames>F.</Forenames>
+      <Text>(temp. Capt.) .. Wilkinson, temp. Capt. J. (2nd in</Text>
       <PageNumber>4128</PageNumber>
     </MainItem>
   </ItemGroup>

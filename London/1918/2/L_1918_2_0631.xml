@@ -181,8 +181,8 @@
     <MainItem>
       <Key>Halifax</Key>
       <Title>Capt.</Title>
-      <Forenames>E.</Forenames>
-      <Text>de C. (temp. Maj.)</Text>
+      <Forenames>E. de C</Forenames>
+      <Text>. (temp. Maj.)</Text>
       <PageNumber>6935</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -359,7 +359,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Hamiblin</Key>
-      <Text>. temp. 2nd Lt. on prob. S. H. (confd. as temp. 2nd Lt., Obs. Offr.)</Text>
+      <Title>temp. 2nd Lt. on prob.</Title>
+      <Forenames>S. H.</Forenames>
+      <Text>(confd. as temp. 2nd Lt., Obs. Offr.)</Text>
       <PageNumber>7210</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -547,7 +549,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Baney</Key>
-      <Text>temp, and aobg.. Capt. (in Army) F. J., M.C. Jtemp^2nd Lt., A. and S., and Hon. Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6111</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -571,7 +575,9 @@
   <ItemGroup>
     <MainItem>
       <Key>H</Key>
-      <Text>&amp;rdling, G. P., M.C. (temp. 2nd Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5486</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -829,14 +835,18 @@
     <MainItem>
       <Key>Harrow-t</Key>
       <Forenames>Bunn</Forenames>
-      <Text>, lit. A. L., M.C. (temp. Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4439</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Harsley</Key>
-      <Text>lit. C. F., M.C. (temp. Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7324</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -916,7 +926,9 @@
       <Key>Hastoins</Key>
       <Title>Maj.</Title>
       <Forenames>F. K.</Forenames>
-      <Text>, D.S.C. (temp. iit.ioi.)«</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>5210</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -974,7 +986,9 @@
       <Key>Hawker</Key>
       <Title>Lt. (K.B.)</Title>
       <Forenames>C. W.</Forenames>
-      <Text>, M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>5995</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1048,7 +1062,9 @@
       <Key>Haycock</Key>
       <Title>Lt.</Title>
       <Forenames>H.</Forenames>
-      <Text>(temp. Capt.) ... Hayes, temp. Lt. (in Army) C. B. M.C. (temp. End Lt., A. and S., and Hon. Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5996</PageNumber>
     </MainItem>
   </ItemGroup>

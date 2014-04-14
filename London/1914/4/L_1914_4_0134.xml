@@ -76,8 +76,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Middleton</Key>
-      <Forenames>C.</Forenames>
-      <Text>de C. (temporary Capt.)</Text>
+      <Forenames>C. de C</Forenames>
+      <Text>. (temporary Capt.)</Text>
       <PageNumber>8252</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -102,7 +102,9 @@
     <MainItem>
       <Key>Mildmay</Key>
       <Forenames>Francis Bingham</Forenames>
-      <Text>, M.P. (temporary Maj.)</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>10669</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -111,8 +113,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>G. St</Forenames>
-      <Text>. John (temporary Capt.)</Text>
+      <Forenames>G. St. John</Forenames>
+      <Text>(temporary Capt.)</Text>
       <PageNumber>8991</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -316,7 +318,9 @@
       <Key>Napier</Key>
       <Title>Lieut.-Col. Sir</Title>
       <Forenames>W. L.</Forenames>
-      <Text>, Bt. (temporary Maj.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>8605</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -356,7 +360,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Neale</Key>
-      <Text>.A. H. (temporary Capt.)' ...</Text>
+      <Forenames>A. H.</Forenames>
+      <Text>(temporary Capt.)' ...</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -365,8 +370,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>E. C. St</Forenames>
-      <Text>. J. B. (temporary Capt.)</Text>
+      <Forenames>E. C. St. J</Forenames>
+      <Text>. B. (temporary Capt.)</Text>
       <PageNumber>8734</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -444,15 +449,18 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, Dermot Patrick (temporary Lieut.)</Text>
+      <Key>O'Connor</Key>
+      <Forenames>Dermot Patrick</Forenames>
+      <Text>(temporary Lieut.)</Text>
       <PageNumber>8612</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hara, Capt. Patrick H. Augustus (temporary Maj.)</Text>
+      <Key>O'Hara</Key>
+      <Title>Capt.</Title>
+      <Forenames>Patrick H. Augus-</Forenames>
+      <Text>tus (temporary Maj.)</Text>
       <PageNumber>8764</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -592,7 +600,9 @@
       </Key>
       <Title>Maj. Sir</Title>
       <Forenames>Edward G. B.</Forenames>
-      <Text>, Bart, (temporary Maj. cancelled)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>8764</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -778,8 +788,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Pereira</Key>
-      <Forenames>Adrian O</Forenames>
-      <Text>'D. (temporary Lieut.)</Text>
+      <Forenames>Adrian O'D</Forenames>
+      <Text>. (temporary Lieut.)</Text>
       <PageNumber>8992</PageNumber>
     </MainItem>
   </ItemGroup>

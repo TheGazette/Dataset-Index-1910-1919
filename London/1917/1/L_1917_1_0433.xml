@@ -177,7 +177,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Williams</Key>
-      <Text>. W. T. S. (for temp, service) (Flight Lt.)</Text>
+      <Forenames>W. T. S.</Forenames>
+      <Text>(for temp, service) (Flight Lt.)</Text>
       <PageNumber>14</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -203,7 +204,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>J. P.</Forenames>
-      <Text>, D.S.C. (Sq. Cdr.)</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>13</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -309,6 +312,7 @@
     <SubItem>
       <Text>
         <PageNumber>1177</PageNumber>
+        <Honour>K.C.B.</Honour>
         <PageNumber>1177</PageNumber>
       </Text>
       <PageNumber>1177</PageNumber>
@@ -363,7 +367,9 @@
     </MainItem>
     <SubItem>
       <Text>
+        <Honour>M.P.</Honour>
         <PageNumber>2267</PageNumber>
+        <Honour>Bart</Honour>
       </Text>
       <PageNumber>2267</PageNumber>
     </SubItem>
@@ -371,11 +377,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Hertford</Key>
-      <Text>: Croft, Maj. Henry Page, C.M.G., M.P</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>M.P</Honour>
+      </Text>
       <PageNumber>291</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Hadden, Maj.-Gen. Sir Charles Frederick, K.C.B</Text>
+      <Text>
+        <Honour>K.C.B</Honour>
+      </Text>
       <PageNumber>291</PageNumber>
     </SubItem>
   </ItemGroup>

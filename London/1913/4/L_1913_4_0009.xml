@@ -204,7 +204,9 @@
     <MainItem>
       <Key>Addis</Key>
       <Forenames>C. S.</Forenames>
-      <Text>, Knighted '</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>8166</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -244,7 +246,9 @@
     <MainItem>
       <Key>Bagot</Key>
       <Forenames>Theodosia</Forenames>
-      <Text>, to take style, title, etc., to which entitled if her .husband had survived and been created a Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>7866</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -269,8 +273,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Barclay</Key>
-      <Forenames>C. A.</Forenames>
-      <Text>de R., Counsellor . of Embassy</Text>
+      <Forenames>C. A. de R</Forenames>
+      <Text>., Counsellor . of Embassy</Text>
       <PageNumber>7427</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -340,7 +344,9 @@
       <Key>Bull</Key>
       <Title>Col.</Title>
       <Forenames>W. H.</Forenames>
-      <Text>, Knight of Grace, St. John of Jerusalem Bullev. Miss, Order of Mercy</Text>
+      <Text>
+        <Honour>Knight of Grace, St. John of Jerusalem</Honour>
+      </Text>
       <PageNumber>9602</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -358,7 +364,9 @@
       <Key>Burnett</Key>
       <Title>Rt. Hon. Sir</Title>
       <Forenames>D.</Forenames>
-      <Text>, created a Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>7674</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -393,7 +401,10 @@
       <Key>Byron</Key>
       <Title>Mrs.</Title>
       <Forenames>G.</Forenames>
-      <Text>, Lady of Grace, St. John of Jerusalem ... Campbell, Col. the Hon. R. N., Knight of Grace, St. John of Jerusalem</Text>
+      <Text>
+        <Honour>Lady of Grace, St. John of Jerusalem</Honour>
+        <Honour>Knight of Grace, St. John of Jerusalem</Honour>
+      </Text>
       <PageNumber>ibid..</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -426,7 +437,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Charles</Key>
-      <Text>E. B., King's Counsel</Text>
+      <Forenames>E. B.</Forenames>
+      <Text>, King's Counsel</Text>
       <PageNumber>7336</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -467,7 +479,9 @@
     <MainItem>
       <Key>Cooper</Key>
       <Forenames>E. E.</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>7337</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -476,7 +490,9 @@
       <Key>Cordes</Key>
       <Title>Mrs.</Title>
       <Forenames>T.</Forenames>
-      <Text>, Lady of Grace, St. John of Jerusalem Cormack. Professor J. D., to Chair of Civil Engineering and Mechanics in Glasgow University</Text>
+      <Text>
+        <Honour>Lady of Grace, St. John of Jerusalem</Honour>
+      </Text>
       <PageNumber>7062</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -541,6 +557,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Bunsen</Key>
+      <Forenames>Rt</Forenames>
+      <Text>, Hon. SirM. W.. E., Ambassador Extraordinary and Plenipotentiary' to Austria-</Text>
+      <PageNumber>7674</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Dendy</Key>
       <Forenames>Mary</Forenames>
       <Text>, Commissioner under Act making further provision for cave of Feeble-minded</Text>
@@ -575,7 +599,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Drayton</Key>
-      <Text>E. R., Administrator of Dominica</Text>
+      <Forenames>E. R.</Forenames>
+      <Text>, Administrator of Dominica</Text>
       <PageNumber>9604</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -605,7 +630,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Durham</Key>
-      <Text>Earl of, Knight of Grace, St. John of Jerusalem Eaton, Miss E. M., Order of Mercy</Text>
+      <Title>Earl</Title>
+      <Text>
+        <Honour>Knight of Grace, St. John of Jerusalem</Honour>
+      </Text>
       <PageNumber>9602</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -700,7 +728,9 @@
       <Key>Gilligan</Key>
       <Title>Miss</Title>
       <Forenames>J.</Forenames>
-      <Text>, Order of Mercy ibid: „ Gladstone, Viscountess, Lady of Grace, St. John of Jerusalem</Text>
+      <Text>
+        <Honour>Lady of Grace, St. John of Jerusalem</Honour>
+      </Text>
       <PageNumber>8888</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -734,7 +764,9 @@
       <Key>Gwynne-Evans</Key>
       <Title>Sir</Title>
       <Forenames>W.</Forenames>
-      <Text>, created a, Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>9081</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -743,14 +775,18 @@
       <Key>Balsey</Key>
       <Title>Capt.</Title>
       <Forenames>L.</Forenames>
-      <Text>, Companion, St. Michael and St. George ... '</Text>
+      <Text>
+        <Honour>Companion, St. Michael and St. George</Honour>
+      </Text>
       <PageNumber>9077</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hamilton</Key>
-      <Text>Rt. Hon. Sir J. A., Lord of Appeal in Ordinary'</Text>
+      <Title>Rt. Hon. Sir</Title>
+      <Forenames>J. A.</Forenames>
+      <Text>, Lord of Appeal in Ordinary'</Text>
       <PageNumber>7335</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -778,7 +814,9 @@
     <MainItem>
       <Key>Hardy</Key>
       <Forenames>C</Forenames>
-      <Text>, Knight of Grace, St. John of Jerusalem Harrison, Sir J., Order of Mercy</Text>
+      <Text>
+        <Honour>Knight of Grace, St. John of Jerusalem</Honour>
+      </Text>
       <PageNumber>9602</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -803,7 +841,9 @@
       <Key>Heather-Bigg</Key>
       <Title>Miss</Title>
       <Forenames>M. F.</Forenames>
-      <Text>, Lady of Grace, St. John of Jerusalem ... Henderson, Ladv, Order of Mercy</Text>
+      <Text>
+        <Honour>Lady of Grace, St. John of Jerusalem</Honour>
+      </Text>
       <PageNumber>9602</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -882,7 +922,9 @@
     <MainItem>
       <Key>Jardine</Key>
       <Forenames>W. E.</Forenames>
-      <Text>, Knight of Grace, St. John of Jerusalem</Text>
+      <Text>
+        <Honour>Knight of Grace, St. John of Jerusalem</Honour>
+      </Text>
       <PageNumber>8888</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -967,7 +1009,10 @@
     <MainItem>
       <Key>Littlewood</Key>
       <Forenames>H.</Forenames>
-      <Text>, Knight of Grace, St. John of Jerusalem Lowther, Lieut.-Col. H.C., Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Knight of Grace, St. John of Jerusalem</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>7148</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -984,7 +1029,10 @@
     <MainItem>
       <Key>Macpherson</Key>
       <Forenames>C</Forenames>
-      <Text>, Knight of Grace, St. John of Jerusalem McClure, J. D.. Knighted</Text>
+      <Text>
+        <Honour>Knight of Grace, St. John of Jerusalem</Honour>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>8166</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1033,7 +1081,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Maugham</Key>
-      <Text>F. H., King's Counsel -—</Text>
+      <Forenames>F. H.</Forenames>
+      <Text>, King's Counsel -—</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1086,7 +1135,9 @@
       </Key>
       <Title>Mrs.</Title>
       <Forenames>W. R.</Forenames>
-      <Text>, Lady of Grace, St. John of Jerusalem ... ....</Text>
+      <Text>
+        <Honour>Lady of Grace, St. John of Jerusalem</Honour>
+      </Text>
       <PageNumber>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>

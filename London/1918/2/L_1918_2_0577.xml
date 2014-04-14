@@ -91,15 +91,20 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Callaghan, County Comdt. and temp. CoL Sir D., K.C.V.O</Text>
+      <Key>O'Callaghan</Key>
+      <Forenames>County Comdt</Forenames>
+      <Text>
+        <Honour>K.C.V.O</Honour>
+      </Text>
       <PageNumber>4382</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connell, temp. Lt. J. P. (reL</Text>
+      <Key>O'Connell</Key>
+      <Title>temp. Lt.</Title>
+      <Forenames>J. P.</Forenames>
+      <Text>(reL</Text>
       <PageNumber>4966</PageNumber>
     </MainItem>
     <SubItem>
@@ -201,7 +206,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ottway</Key>
-      <Text>.-J. A. (temp. 2nd Lt.)</Text>
+      <Text>-J. A. (temp. 2nd Lt.)</Text>
       <PageNumber>6891</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -709,7 +714,9 @@
     <MainItem>
       <Key>Pridmore</Key>
       <Forenames>E. L. N.</Forenames>
-      <Text>, M.D. (temp. Capt.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>4407</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -907,7 +914,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Raynor</Key>
-      <Text>.F. A. (temp. 2nd Lt;)</Text>
+      <Forenames>F. A.</Forenames>
+      <Text>(temp. 2nd Lt;)</Text>
       <PageNumber>4383</PageNumber>
     </MainItem>
     <SubItem>
@@ -1196,7 +1204,9 @@
       <Key>Ringrose</Key>
       <Title>temp. Capt.</Title>
       <Forenames>E.</Forenames>
-      <Text>(rel.commn. on appt. to commn.in R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7131</PageNumber>
     </MainItem>
   </ItemGroup>

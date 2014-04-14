@@ -247,15 +247,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Todd</Key>
-      <Text>L. (Capt.)</Text>
+      <Forenames>L.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>1212</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Wade</Key>
-      <Forenames>A.</Forenames>
-      <Text>de V. (Capt.)</Text>
+      <Forenames>A. de V</Forenames>
+      <Text>. (Capt.)</Text>
       <PageNumber>2034</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -626,6 +627,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Segundo</Key>
+      <Forenames>C. S.</Forenames>
+      <Text>(Maj.)</Text>
+      <PageNumber>342</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Duncan</Key>
       <Forenames>J. M.</Forenames>
       <Text>(Capt.)</Text>
@@ -863,7 +872,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Patrick</Key>
-      <Text>J. K. (Capt.)</Text>
+      <Forenames>J. K.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>36</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1314,7 +1324,9 @@
       <Key>Child</Key>
       <Title>Sir</Title>
       <Forenames>S. H.</Forenames>
-      <Text>, Bart. (Lieut.rCol.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>1211</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1448,7 +1460,9 @@
       <Key>Duekworth-King</Key>
       <Title>Sir</Title>
       <Forenames>G. H. J.</Forenames>
-      <Text>, Bart. (2nd Lieut.) ;</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>34</PageNumber>
     </MainItem>
   </ItemGroup>

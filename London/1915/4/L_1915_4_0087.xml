@@ -16,7 +16,10 @@
       </Key>
       <Title>Gen. Sir</Title>
       <Forenames>B. M.</Forenames>
-      <Text>, G.C.B., K.C.V.O. (Col. of the Border Regiment)</Text>
+      <Text>
+        <Honour>G.C.B.</Honour>
+        <Honour>K.C.V.O.</Honour>
+      </Text>
       <PageNumber>12786</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -192,7 +195,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>G. C</Forenames>
-      <Text>, D.S.O. (temp. Lt-Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>11016</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -233,7 +238,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>J. G. H.</Forenames>
-      <Text>, D.S.O. (relinquishes the temp, rank of Lt.-Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>10617</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -416,7 +423,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hammond</Key>
-      <Text>A. (temp. Lt.)</Text>
+      <Forenames>A.</Forenames>
+      <Text>(temp. Lt.)</Text>
       <PageNumber>9993</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -602,18 +610,23 @@
   <ItemGroup>
     <MainItem>
       <Key>Hanburv</Key>
-      <Text>G. H. B. (temp. Maj.)</Text>
+      <Forenames>G. H. B.</Forenames>
+      <Text>(temp. Maj.)</Text>
       <PageNumber>12532</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hariburv-Sparrow</Key>
-      <Text>Lt. A. A. H., D.S.O. (Adjt.)</Text>
+      <Title>Lt.</Title>
+      <Forenames>A. A. H.</Forenames>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>11577</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Capt</Text>
+      <Text>Capt.</Text>
       <PageNumber>12059</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -865,7 +878,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Hanlon</Key>
-      <Text>Lt. D. R. (Flight Commander and temp. Capt.)</Text>
+      <Title>Lt.</Title>
+      <Forenames>D. R.</Forenames>
+      <Text>(Flight Commander and temp. Capt.)</Text>
       <PageNumber>10650</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1107,14 +1122,17 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>P. H.</Forenames>
-      <Text>V.C. (temp. Maj.)</Text>
+      <Text>
+        <Honour>V.C.</Honour>
+      </Text>
       <PageNumber>12293</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hansom</Key>
-      <Text>V. J. R. (temp. 2nd Lt.)</Text>
+      <Forenames>V. J. R.</Forenames>
+      <Text>(temp. 2nd Lt.)</Text>
       <PageNumber>10378</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1150,7 +1168,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Happell</Key>
-      <Text>A. C. (temp. Lt.)</Text>
+      <Forenames>A. C.</Forenames>
+      <Text>(temp. Lt.)</Text>
       <PageNumber>12549</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1322,7 +1341,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>C</Forenames>
-      <Text>, C.M.G. (to command a Battalion, and to be temp. Lt.-Col.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>10655</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1331,8 +1352,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>C.</Forenames>
-      <Text>de V. (2nd Lt. for service in the Field)</Text>
+      <Forenames>C. de V</Forenames>
+      <Text>. (2nd Lt. for service in the Field)</Text>
       <PageNumber>12194</PageNumber>
     </MainItem>
   </ItemGroup>

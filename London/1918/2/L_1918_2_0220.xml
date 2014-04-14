@@ -25,7 +25,9 @@
     <MainItem>
       <Key>Quin</Key>
       <Forenames>Stephen B.</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>4027</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -61,7 +63,9 @@
     <MainItem>
       <Key>Radclyffe</Key>
       <Forenames>T.</Forenames>
-      <Text>/Maj. Charles Ray mond, Companion, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>6460</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -99,7 +103,9 @@
         <KeyDitto>___ ___ ___ —,</KeyDitto>
       </Key>
       <Title>temp. Lt. (actg. Capt. )</Title>
-      <Text>| Norman Harold, M.C., Companion, p.S.O</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4199</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -127,7 +133,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>&gt; Capt. (A./Maj.) John, Companion, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>6505</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -387,7 +395,9 @@
     <MainItem>
       <Key>Rattigan</Key>
       <Forenames>Henry Adolphus Byden</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>4027</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -430,7 +440,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Rawlinson</Key>
-      <Text>the Revd. Bernard Stephen, C.M.G., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>6710</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -459,7 +471,9 @@
       <Key>Rawnsley</Key>
       <Title>Col.</Title>
       <Forenames>Gerald Thomas</Forenames>
-      <Text>, CM.G., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>6503</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -479,7 +493,9 @@
       </Key>
       <Title>Maj. (T./Lt.-Col.)</Title>
       <Forenames>Robert Amyatt</Forenames>
-      <Text>, Companion, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>6460</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -505,7 +521,9 @@
     <MainItem>
       <Key>Rea</Key>
       <Forenames>T.</Forenames>
-      <Text>/Capt. (A./Maj.) Charles Percival, Companion, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>6505</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -573,7 +591,9 @@
       <Key>Rede</Key>
       <Title>Cdr.</Title>
       <Forenames>Roger</Forenames>
-      <Text>LEstrange Murray, Companion, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>7301</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -606,7 +626,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Recs</Key>
-      <Text>. Ernest Wilmot, Member, Order of the British Empire</Text>
+      <Forenames>Ernest Wilmot</Forenames>
+      <Text>, Member, Order of the British Empire</Text>
       <PageNumber>6739</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -616,7 +637,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>T.</Forenames>
-      <Text>/Maj. (A./Lt.-lCol.) Evan Thomas, M.C, Companion, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>6460</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -637,7 +660,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>John Gordon</Forenames>
-      <Text>, Companion, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>4987</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -736,7 +761,10 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>John</Forenames>
-      <Text>, J.P., D.L., Knighted</Text>
+      <Text>
+        <Honour>D.L.</Honour>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>6526</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -775,7 +803,10 @@
       <Key>Ronnie</Key>
       <Title>Maj. and Bt. Lt.-Col. (T./ Brig.-Gen.)</Title>
       <Forenames>George Arthur Paget</Forenames>
-      <Text>, D.S.O., 'Companion, St. Michael and St. George</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, St. Michael and St. George</Honour>
+      </Text>
       <PageNumber>6453</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -786,7 +817,12 @@
       </Key>
       <Title>Col. (T./Brig.-Gen.)</Title>
       <Forenames>Robert</Forenames>
-      <Text>, C.M.G., M.V.O., D.S.O., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>M.V.O.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>6452</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -913,7 +949,12 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>T.</Forenames>
-      <Text>/Col. Owen William, D.S.O., M.D., F.R.C.S., L.R.C.P., Companion, St. Michael and St. George</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.D.</Honour>
+        <Honour>F.R.C.S.</Honour>
+        <Honour>Companion, St. Michael and St. George</Honour>
+      </Text>
       <PageNumber>6452</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -924,7 +965,11 @@
       </Key>
       <Title>The Rt. Hon.</Title>
       <Forenames>Thomas</Forenames>
-      <Text>, P.C., M.P., Knight of Grace, St. John of Jerusalem</Text>
+      <Text>
+        <Honour>P.C.</Honour>
+        <Honour>M.P.</Honour>
+        <Honour>Knight of Grace, St. John of Jerusalem</Honour>
+      </Text>
       <PageNumber>5360</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -943,7 +988,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Albion Henry Herbert</Forenames>
-      <Text>, M.P., Companion, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>6691</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -986,7 +1033,9 @@
       </Key>
       <Title>Maj. (temp. Col.)</Title>
       <Forenames>Hugh</Forenames>
-      <Text>, M.D. Companion. D.S.O</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>4410</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1046,7 +1095,9 @@
     <MainItem>
       <Key>Richmond</Key>
       <Forenames>T.</Forenames>
-      <Text>/Capt. (T./Col.) Wilfrid Stanley, Companion, St. Michael and St. George</Text>
+      <Text>
+        <Honour>Companion, St. Michael and St. George</Honour>
+      </Text>
       <PageNumber>6454</PageNumber>
     </MainItem>
   </ItemGroup>

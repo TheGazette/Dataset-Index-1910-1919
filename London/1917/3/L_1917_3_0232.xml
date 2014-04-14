@@ -3,7 +3,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Domleo</Key>
-      <Text>temp. 2nd Lt. R. F. (trd.)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>R. F.</Forenames>
+      <Text>(trd.)</Text>
       <PageNumber>7469</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -118,7 +120,9 @@
       </Key>
       <Title>Maj.-Gen.</Title>
       <Forenames>C. G.</Forenames>
-      <Text>, C.B. ' (having attained the age limit, is placed on ret. pay)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>7980</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -224,7 +228,9 @@
       </Key>
       <Title>temp. 2nd Lt.</Title>
       <Forenames>A. J.</Forenames>
-      <Text>, M.C. (R.W. Kent R.) (temp. Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10120</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -669,7 +675,9 @@
       <PageNumber>9630</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>temp. Lt. (actg.' Capt.) M., M.C. (temp. Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9739</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -732,7 +740,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Dorrell</Key>
-      <Text>Lt. (temp. Capt.) G. T., V.C. (act. Maj.)</Text>
+      <Title>Lt. (temp. Capt.)</Title>
+      <Forenames>G. T.</Forenames>
+      <Text>
+        <Honour>V.C.</Honour>
+      </Text>
       <PageNumber>7774</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -917,8 +929,8 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Title>Lt.</Title>
-      <Forenames>B. C. O</Forenames>
-      <Text>'D. (Capt., and i seed.)</Text>
+      <Forenames>B. C. O'D</Forenames>
+      <Text>. (Capt., and i seed.)</Text>
       <PageNumber>9851</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1001,7 +1013,9 @@
       </Key>
       <Title>temp. Lt.</Title>
       <Forenames>G. P.</Forenames>
-      <Text>, M.C. (Gen! List)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9992</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1201,8 +1215,8 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Title>Cadet</Title>
-      <Forenames>T. St</Forenames>
-      <Text>. C. (temp. 2nd Lt. on prob.)</Text>
+      <Forenames>T. St. C</Forenames>
+      <Text>. (temp. 2nd Lt. on prob.)</Text>
       <PageNumber>7607</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1299,7 +1313,10 @@
       <Key>Douie</Key>
       <Title>Capt.</Title>
       <Forenames>F.</Forenames>
-      <Text>McC, D.S.O., M.C. (Brevet Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8853</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1391,7 +1408,9 @@
       </Key>
       <Title>temp. Lt.</Title>
       <Forenames>T.</Forenames>
-      <Text>, M.C. (temp. Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8863</PageNumber>
     </MainItem>
   </ItemGroup>

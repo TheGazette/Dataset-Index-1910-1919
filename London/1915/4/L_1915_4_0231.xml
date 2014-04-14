@@ -61,7 +61,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fitzherbert</Key>
-      <Forenames>The Hon E</Forenames>
+      <Title>The</Title>
+      <Forenames>Hon E</Forenames>
       <Text>S</Text>
       <PageNumber>10509</PageNumber>
     </MainItem>
@@ -178,7 +179,9 @@
       <PageNumber>12346</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Porter, Brigadier-Gen. T. C, C.B</Text>
+      <Text>
+        <Honour>C.B</Honour>
+      </Text>
       <PageNumber>12346</PageNumber>
     </SubItem>
     <SubItem>
@@ -198,7 +201,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Edinburgh</Key>
-      <Text>or Midlothian Clerk, Sir G. J. R., Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>10328</PageNumber>
     </MainItem>
     <SubItem>
@@ -231,7 +236,9 @@
       <PageNumber>11337</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>-Mitford, Col. W. K., C.M.G., A.D.C</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>12207</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -249,7 +256,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Reynolds</Key>
-      <Text>H. C</Text>
+      <Forenames>H. C.</Forenames>
       <PageNumber>10509</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -265,7 +272,9 @@
     <MainItem>
       <Key>Tottenham</Key>
       <Forenames>H. L.</Forenames>
-      <Text>, C.B</Text>
+      <Text>
+        <Honour>C.B</Honour>
+      </Text>
       <PageNumber>10509</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -273,7 +282,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Cust</Key>
-      <Text>II. E. P., C.B</Text>
+      <Text>
+        <Honour>C.B</Honour>
+      </Text>
       <PageNumber>10508</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -307,7 +318,9 @@
     <MainItem>
       <Key>Stepnens</Key>
       <Forenames>R. M. T.</Forenames>
-      <Text>, C.M.G</Text>
+      <Text>
+        <Honour>C.M.G</Honour>
+      </Text>
       <PageNumber>11322</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -345,8 +358,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Messervy</Key>
-      <Forenames>C.</Forenames>
-      <Text>de F</Text>
+      <Forenames>C. de F</Forenames>
       <PageNumber>10023</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -554,7 +566,9 @@
     <MainItem>
       <Key>Mark-Wardlaw</Key>
       <Forenames>W. P.</Forenames>
-      <Text>, D.S.C</Text>
+      <Text>
+        <Honour>D.S.C</Honour>
+      </Text>
       <PageNumber>9758</PageNumber>
     </MainItem>
   </ItemGroup>

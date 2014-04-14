@@ -121,8 +121,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gidley</Key>
-      <Forenames>C.</Forenames>
-      <Text>de B. (Maj.)</Text>
+      <Forenames>C. de B</Forenames>
+      <Text>. (Maj.)</Text>
       <PageNumber>8860</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -147,8 +147,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Giles</Key>
-      <Forenames>Hew O</Forenames>
-      <Text>'Halloran (temporary 2nd Lieut.)</Text>
+      <Forenames>Hew O'Halloran</Forenames>
+      <Text>(temporary 2nd Lieut.)</Text>
       <PageNumber>10573</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -164,7 +164,9 @@
     <MainItem>
       <Key>Gillman</Key>
       <Forenames>W.</Forenames>
-      <Text>, D.S.O. (Lieut.-Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8859</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -271,7 +273,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Goff</Key>
-      <Text>. L. T. (Ma/.) Goldney. Francis Pakenham (2nd</Text>
+      <Forenames>L. T.</Forenames>
+      <Text>(Ma/.) Goldney. Francis Pakenham (2nd</Text>
       <PageNumber>9384</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -364,7 +367,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Goschen</Key>
-      <Text>. A. A.. D.S.O. (Maj.)</Text>
+      <Forenames>A. A.</Forenames>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8859</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -446,8 +452,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Title>Temporary</Title>
-      <Forenames>Lieut</Forenames>
+      <Title>Temporary Lieut</Title>
       <Text>main H. seconded) (Capt. and to re-</Text>
       <PageNumber>8861</PageNumber>
     </MainItem>
@@ -727,7 +732,9 @@
     <MainItem>
       <Key>Grove</Key>
       <Forenames>E. W.</Forenames>
-      <Text>, D.S.O. (Lieut-Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8859</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -782,7 +789,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hall</Key>
-      <Text>. Alfred (2hd Lieut, for service in the Fieldi)</Text>
+      <Forenames>Alfred</Forenames>
+      <Text>(2hd Lieut, for service in the Fieldi)</Text>
       <PageNumber>10921</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1246,7 +1254,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hawker</Key>
-      <Text>. Godfrey Carew (temporary 2nd Lieut.)</Text>
+      <Forenames>Godfrey Carew</Forenames>
+      <Text>(temporary 2nd Lieut.)</Text>
       <PageNumber>10697</PageNumber>
     </MainItem>
   </ItemGroup>

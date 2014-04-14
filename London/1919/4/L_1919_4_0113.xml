@@ -29,7 +29,12 @@
     <MainItem>
       <Key>Lovat</Key>
       <Forenames>Joseph</Forenames>
-      <Text>, Lord, K.I., K.C.M.G., K.C.V.O., C.B., D.S.O., Chairman of the Commissioners of Forestry</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>K.C.V.O.</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>14919</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -71,7 +76,9 @@
       <Key>Lowther</Key>
       <Title>Capt.</Title>
       <Forenames>John George</Forenames>
-      <Text>, M.C., Companion ID.S.O</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>15288</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -107,8 +114,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ludlow</Key>
-      <Forenames>The</Forenames>
-      <Text>Lady, Order of Mercy</Text>
+      <Title>The Lady</Title>
+      <Text>, Order of Mercy</Text>
       <PageNumber>15954</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -156,7 +163,10 @@
     <MainItem>
       <Key>MacArthur</Key>
       <Title>Capt.</Title>
-      <Text>i(A./ILt.-Col.) William Porter, D.S.O., M.D.. F.R.CP.I., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>15453</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -174,7 +184,11 @@
       <Key>Macauley</Key>
       <Title>Maj. (T./Brig.-Gen.) Sir</Title>
       <Forenames>George Bohun</Forenames>
-      <Text>, K.C.M.G., . C.B., C.B.E., Knight Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>12650</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -182,14 +196,19 @@
     <MainItem>
       <Key>MeAvity</Key>
       <Title>Maj.</Title>
-      <Text>.(T./Lt.-Cc-l.) Thomas Malcolm, D.S.O., Cctfwniander, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>15437</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>McBean</Key>
-      <Text>iLt. Russell Hamilton, (D.S.C., Companion D.S.O</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>13745</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -197,7 +216,9 @@
     <MainItem>
       <Key>McCarroll</Key>
       <Title>Lt.</Title>
-      <Text>-Cbl. James Neill, D.S.O., Companion St. Michael and St. George</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>15440</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -229,7 +250,10 @@
         <KeyDitto>___ ___ .</KeyDitto>
       </Key>
       <Forenames>Capt</Forenames>
-      <Text>, ,(A./Lt,-Col.) William Hilgrove Leslie, M.C., Companion, D.S.O</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>12225</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -245,7 +269,9 @@
   <ItemGroup>
     <MainItem>
       <Key>McOheane</Key>
-      <Text>iLt.-Col. (T./Col.) Montagu William Hiley, C.M.G., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>15441</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -255,7 +281,9 @@
         <PageNumber>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</PageNumber>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>McOlean, Maj. '(T./Lt.-Col.) .Frederick Stephen, D.S.O., Bar toiD.S.O</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>12218</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -289,7 +317,10 @@
     <MainItem>
       <Key>McCorkell</Key>
       <Forenames>Dudley Evelyn Bruce</Forenames>
-      <Text>, M.B.E., Esquire, St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+        <Honour>Esquire, St. John of Jerusalem</Honour>
+      </Text>
       <PageNumber>15052</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -306,7 +337,9 @@
       <Key>McOurdy</Key>
       <Title>Maj.</Title>
       <Forenames>Donald Archibald</Forenames>
-      <Text>, M.B.E., Officer, Order of the 'British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>15457</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -314,7 +347,9 @@
     <MainItem>
       <Key>MauDermott</Key>
       <Title>Capt.</Title>
-      <Text>.(A./Maj.) George Anthony, M.C.. Companion D.S.O</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>12225</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -346,7 +381,11 @@
   <ItemGroup>
     <MainItem>
       <Key>MoDouall</Key>
-      <Text>.Lt.-Gbl. .(T./Brig.-Gen.) Robert, C.B., C.M.G., D.S.O., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>15436</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -396,7 +435,9 @@
   <ItemGroup>
     <MainItem>
       <Key>MacFarlane</Key>
-      <Text>dipt. '(T./Maj.) Fane Andrew James, D.S.O., ID.C.M., Officer, Order of the British 'Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>15436</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -405,7 +446,10 @@
       <Key>Macfaiiane</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Robert</Forenames>
-      <Text>* Alexander, D.S.O., 2nd Bar -to D.S.O</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>12214</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -414,7 +458,10 @@
       <Key>Macfie</Key>
       <Title>Capt.</Title>
       <Forenames>Thomas Girdwood</Forenames>
-      <Text>, M.C., Companion D.S.O. .,</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>12129</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -455,7 +502,9 @@
     <MainItem>
       <Key>Maollwaine</Key>
       <Title>Capt.</Title>
-      <Text>'(A./Maj.) Alfred Herbert, M.C., Companion D.S.O'</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>15288</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -490,7 +539,10 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>MacKenzie, Lt.-Col. John Percival, D.S.O., 2nd Bar to D.S.O</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>15280</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -510,7 +562,9 @@
         <KeyDitto>___ ___ .</KeyDitto>
       </Key>
       <Title>Maj.</Title>
-      <Text>i(A./Lt.-CoL) William Scobie, D.S.O., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>15453</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -519,7 +573,9 @@
       <Key>Mackenzie-Kennedy</Key>
       <Title>Maj.-Gen.</Title>
       <Forenames>Edward Oharles William</Forenames>
-      <Text>, C.B., Knight Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>12650</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -528,7 +584,9 @@
       <Key>McKibbon</Key>
       <Title>Maj.</Title>
       <Forenames>Thomas</Forenames>
-      <Text>, O.B.E., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>15457</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -553,7 +611,9 @@
     <MainItem>
       <Key>McLachlan</Key>
       <Title>Col.</Title>
-      <Text>{T./Maj.-Gen.) James Douglas, 'C,-B., D.S.O., Companion St. Michael and St. George</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>15450</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -562,7 +622,10 @@
       <Key>MacLaren</Key>
       <Title>Flight Lt.</Title>
       <Forenames>Archibald Stuart Charles</Forenames>
-      <Text>, M.C., A.F.C., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>A.F.C.</Honour>
+      </Text>
       <PageNumber>15840</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -581,7 +644,9 @@
       <Key>McLaughlin</Key>
       <Title>actg. Lt.</Title>
       <Forenames>Cyril Edward</Forenames>
-      <Text>, Companion D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>12780</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -598,7 +663,9 @@
     <MainItem>
       <Key>Maclear</Key>
       <Forenames>T.</Forenames>
-      <Text>/Maj. &lt;A./lLt.-Col.) Ronald, M.C., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>15436</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -607,7 +674,10 @@
       <Key>MoLellan</Key>
       <Title>Lt. (A./Mag.)</Title>
       <Forenames>James</Forenames>
-      <Text>, M.C., Companion D.S.O</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>12225</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -642,7 +712,9 @@
       <Key>MacMillan</Key>
       <Title>Maj.</Title>
       <Forenames>Robert James Allan</Forenames>
-      <Text>, Companion D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>15288</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -668,7 +740,9 @@
     <MainItem>
       <Key>MacPhail</Key>
       <Forenames>T.</Forenames>
-      <Text>/Maj. Hector Duncan, M.D., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>15453</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -677,7 +751,9 @@
       <Key>Macpherson</Key>
       <Title>Maj.</Title>
       <Forenames>Lachlan Alfred William</Forenames>
-      <Text>, M.C., Companion, D.S.O :</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>12233</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -706,7 +782,9 @@
       <Key>Macqueen</Key>
       <Title>Lt. (A./Lt.-Col.)</Title>
       <Forenames>John Alexander</Forenames>
-      <Text>, Companion D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>12781</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -747,7 +825,9 @@
   <ItemGroup>
     <MainItem>
       <Key>McSheehy</Key>
-      <Text>'Capt. (A./Lt.-Col.) Oswald William, D.S.O., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>15436</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -756,7 +836,10 @@
       <Key>McSwiney</Key>
       <Title>Capt. (T./Maj.)</Title>
       <Forenames>Herbert Frederick Cyril</Forenames>
-      <Text>, M.C., Companion D.S.O</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>15442</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -1017,7 +1017,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Morehouse</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, j. W. (correction of date)</Text>
       <PageNumber>8232</PageNumber>
     </MainItem>
@@ -1119,7 +1119,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Murray</Key>
-      <Text>. James (Lieut, and Adjt.)</Text>
+      <Forenames>James</Forenames>
+      <Text>(Lieut, and Adjt.)</Text>
       <PageNumber>9703</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1152,7 +1153,9 @@
       <Key>Neave</Key>
       <Title>Sir</Title>
       <Forenames>Thomas L. Hughes</Forenames>
-      <Text>, Bart. (Maj.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>8622</PageNumber>
     </MainItem>
   </ItemGroup>

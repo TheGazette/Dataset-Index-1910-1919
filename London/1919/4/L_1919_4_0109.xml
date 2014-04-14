@@ -4,7 +4,9 @@
     <MainItem>
       <Key>Harragin</Key>
       <Forenames>T.</Forenames>
-      <Text>/Maj. Alfred Ernest Albert, Companion, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>12223</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -64,7 +66,9 @@
       </Key>
       <Title>Lt. Cdr. (A./Cdr.)</Title>
       <Forenames>Richard</Forenames>
-      <Text>, Companion, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>13747</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -94,7 +98,9 @@
       </Key>
       <Title>Maj. (T./Lt.-Col.)</Title>
       <Forenames>Reginald Seton</Forenames>
-      <Text>, D.S.O., Bar to D.S.O</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>12215</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -103,7 +109,9 @@
       <Key>Halrt-Synnot</Key>
       <Title>Lt.-Col. (T./Brig.Gen.)</Title>
       <Forenames>Arthur Henry Seton</Forenames>
-      <Text>, D.S.O., Companion St. Michael and St. George</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>15436</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -112,7 +120,9 @@
       <Key>Harward</Key>
       <Title>Lt.-Col. and Bt. Col.</Title>
       <Forenames>I</Forenames>
-      <Text>Arthur John Netherton, Companion, Order of the Bath 12979 | Haskins. Miss Edith . Mabel, Member. Order of the British Empire</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>15455</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -120,7 +130,9 @@
     <MainItem>
       <Key>Haslam</Key>
       <Forenames>Capt</Forenames>
-      <Text>, (T./Maj.) Thomas Wilfred. M.B.E.. Officer. Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>15456</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -229,14 +241,21 @@
   <ItemGroup>
     <MainItem>
       <Key>Hazard</Key>
-      <Text>T./Maj. Cecil James. M.C.. Officer. Order of the British Empire</Text>
+      <Forenames>T.</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>15453</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Head</Key>
-      <Text>Sir Robert Pollock Somerville, Bt., First Secretary in H.M. Diplomatic Service</Text>
+      <Title>Sir</Title>
+      <Forenames>Robert Pollock Somer-</Forenames>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>13909</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -273,7 +292,9 @@
       <Key>Heath</Key>
       <Title>2nd Lt.</Title>
       <Forenames>Walter Henry</Forenames>
-      <Text>, M.C., Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>15455</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -291,11 +312,16 @@
       <Key>Hedley</Key>
       <Title>2nd Lt. (A./Capt.)</Title>
       <Forenames>John Cyprian</Forenames>
-      <Text>, M.C., Companion, D.S.O</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>15286</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Col. Walter Coote, C.B., C.M.G., Knight Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>12651</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -304,7 +330,9 @@
       <Key>Heeley</Key>
       <Title>Lt.</Title>
       <Forenames>Henry Norman</Forenames>
-      <Text>, M.C., Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>15457</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -346,11 +374,17 @@
       <Key>Hennessy</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>John</Forenames>
-      <Text>, C.B., M.B., Companion, St. Michael and St. George</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>Companion, St. Michael and St. George</Honour>
+      </Text>
       <PageNumber>12980</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Lt. .(A./Capt. ) Richard George, M.C., Companion, D. S.O.</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>D. S.O.</Honour>
+      </Text>
       <PageNumber>15287</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -367,7 +401,11 @@
       <Key>Henry</Key>
       <Title>Sir</Title>
       <Forenames>Edward Richard</Forenames>
-      <Text>, Bt.. G.C.V.O.. K.C.B., C.S.I.. Knight of Grace of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>G.C.V.O.</Honour>
+        <Honour>K.C.B.</Honour>
+      </Text>
       <PageNumber>13417</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -386,7 +424,9 @@
     <MainItem>
       <Key>Hepworth</Key>
       <Title>Ca.</Title>
-      <Text>pt. (T./Maj.) Frank Arthur, M.B., F.R.C.S., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>15453</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -395,7 +435,9 @@
       <Key>Herbert</Key>
       <Title>Col. (T./Brig.-Gen.) Edward .</Title>
       <Forenames>Sidney</Forenames>
-      <Text>, C.M.G., Commander, Order of the Britisri Empire</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>14669</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -404,7 +446,10 @@
       <Key>Heron</Key>
       <Title>Col. and Hon. Brig.-Gen.</Title>
       <Forenames>Thomas</Forenames>
-      <Text>, C.B.. C.B.E., Knight Commander, Order of the British Empire. Snl&gt;. Not</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>12651</PageNumber>
     </MainItem>
     <SubItem>
@@ -417,7 +462,10 @@
       <Key>Herridge</Key>
       <Title>Capt.</Title>
       <Forenames>William Duncan</Forenames>
-      <Text>M.C.. Companion. D.S.O</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>12230</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -426,14 +474,18 @@
       <Key>Herring-Cooper</Key>
       <Title>Maj. and Bt. Lt.-Col. (T./Lt.-Col.)</Title>
       <Forenames>William Weldon</Forenames>
-      <Text>, D.S.O., Companion, Order of the British Empire ... T</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5440</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Herrold</Key>
-      <Text>Maj. John Henry. Companion, D.S.O</Text>
+      <Title>Maj.</Title>
+      <Forenames>John Henry</Forenames>
+      <Text>. Companion, D.S.O</Text>
       <PageNumber>12234</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -441,7 +493,9 @@
     <MainItem>
       <Key>Herschell</Key>
       <Forenames>T.</Forenames>
-      <Text>/Maj. (T./Lt.-Col.) Allan, M.C.. Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>15445</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -466,7 +520,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Hewitt</Key>
-      <Text>Maj. (T./Lt.-Col.) Albert Claud, Officer. Order of the British Empire</Text>
+      <Title>Maj. (T./Lt.-Col.)</Title>
+      <Forenames>Albert Claud</Forenames>
+      <Text>, Officer. Order of the British Empire</Text>
       <PageNumber>15441</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -477,7 +533,9 @@
       </Key>
       <Title>Surgn. Comdr.</Title>
       <Forenames>David Walker</Forenames>
-      <Text>, C. M.G., M.B., F.R.C.S., Companion, Order of the Ba-tlh</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>15429</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -494,42 +552,54 @@
   <ItemGroup>
     <MainItem>
       <Key>Hevcock</Key>
-      <Text>Mrs. Florence, Member, Order of the British Empire</Text>
+      <Title>Mrs.</Title>
+      <Forenames>Florence</Forenames>
+      <Text>, Member, Order of the British Empire</Text>
       <PageNumber>16100</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hever</Key>
-      <Text>Capt. George, Member, ' Order of the British Empire</Text>
+      <Title>Capt.</Title>
+      <Forenames>George</Forenames>
+      <Text>, Member, ' Order of the British Empire</Text>
       <PageNumber>15455</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Heywood</Key>
-      <Text>Capt. and Bt. Maj. Thomas George Gordon, Officer, Order of the British Empire</Text>
+      <Title>Capt. and Bt. Maj.</Title>
+      <Forenames>Thomas George Gordon</Forenames>
+      <Text>, Officer, Order of the British Empire</Text>
       <PageNumber>15453</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hevworth</Key>
-      <Text>Mrs. Order of Mercy</Text>
+      <Title>Mrs.</Title>
+      <Forenames>Order</Forenames>
+      <Text>of Mercy</Text>
       <PageNumber>15955</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hlezlett</Key>
-      <Text>Mrs. Mary Kathleen, Officer, Order of the British Empire</Text>
+      <Title>Mrs.</Title>
+      <Forenames>Mary Kathleen</Forenames>
+      <Text>, Officer, Order of the British Empire</Text>
       <PageNumber>16099</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hibberd</Key>
-      <Text>Miss Florence Julia, Officer. Order of the British, Empire</Text>
+      <Title>Miss</Title>
+      <Forenames>Florence Julia</Forenames>
+      <Text>, Officer. Order of the British, Empire</Text>
       <PageNumber>16099</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -547,7 +617,9 @@
       <Key>Hickie</Key>
       <Title>Qrmr. and Capt.</Title>
       <Forenames>Henryi</Forenames>
-      <Text>M.C.. Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>15437</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -567,7 +639,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Sydney George</Forenames>
-      <Text>, C.B.E., knighted</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>12418</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -593,7 +667,9 @@
       <Key>Hill</Key>
       <Title>Sir</Title>
       <Forenames>Arthur Norman</Forenames>
-      <Text>, created Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>12418</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -614,7 +690,9 @@
       </Key>
       <Title>Maj</Title>
       <Forenames>Henry Walter Dunlop</Forenames>
-      <Text>, Companion, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>15448</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -646,7 +724,11 @@
       </Key>
       <Title>Surgn.</Title>
       <Forenames>Rear-Adml</Forenames>
-      <Text>. Sir Robert, K.C.M.G., C.B., C.V.O., M.R.C.S., Knight of Grace. St. John of Jerusalem</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>C.V.O.</Honour>
+      </Text>
       <PageNumber>15052</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -691,21 +773,27 @@
   <ItemGroup>
     <MainItem>
       <Key>Hindmarsh</Key>
-      <Text>.Lt. (A./Lt.-Cdr.) John Dalglash, D.S.C., Companion D.S.O</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>13748</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hine</Key>
-      <Text>T./Lt. (T./Maj.) Walter, Officer, Order of the British Empire</Text>
+      <Forenames>T.</Forenames>
+      <Text>/Lt. (T./Maj.) Walter, Officer, Order of the British Empire</Text>
       <PageNumber>15445</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hines</Key>
-      <Text>T./Maj. John Tatham. M.C.. Officer, Order of the British Empire</Text>
+      <Forenames>T.</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>15441</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -714,7 +802,11 @@
       <Key>Hinge</Key>
       <Title>Col.</Title>
       <Forenames>Harrv Alexander</Forenames>
-      <Text>, C.M.G.. D.S.O., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>15450</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -723,7 +815,9 @@
       <Key>Hitchcock</Key>
       <Title>Lt. (A./Capt.)</Title>
       <Forenames>Percy Albion</Forenames>
-      <Text>, M.C., Officer. Ordyjr of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>15445</PageNumber>
     </MainItem>
   </ItemGroup>

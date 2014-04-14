@@ -29,14 +29,19 @@
       <Key>Sinclair</Key>
       <Title>Maj. (temp. Lt.-Col.)</Title>
       <Forenames>W.</Forenames>
-      <Text>, O.B.E. (G.S.O., 1st Gr.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>7707</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Thoroton</Key>
-      <Text>' Maj. and Bt. Lt.-Col. (temp. Lt.-Col.) C. J„ C.M.G. (rel. temp, rank of Lt.-Col., and placed on retd. list at his own request)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>4571</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -107,7 +112,9 @@
       <Key>Lees</Key>
       <Title>Maj.</Title>
       <Forenames>T. O. H.</Forenames>
-      <Text>, A.F.C. (apptd. to Res. of Offrs.)</Text>
+      <Text>
+        <Honour>A.F.C.</Honour>
+      </Text>
       <PageNumber>5652</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -173,7 +180,9 @@
         <KeyDitto>-</KeyDitto>
       </Key>
       <Forenames>Adam</Forenames>
-      <Text>, Lt. Oomdr. C, R.D. (placed «ri retd. list with rank of . Comdr.)</Text>
+      <Text>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>5327</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -181,7 +190,9 @@
     <MainItem>
       <Key>Adamsbn</Key>
       <Forenames>P. A. N.</Forenames>
-      <Text>, R.D. (retd. withrarik of Eng. Cdr.)</Text>
+      <Text>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>6511</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -239,7 +250,9 @@
     <MainItem>
       <Key>Atkinson</Key>
       <Forenames>R. H.</Forenames>
-      <Text>, R.D. (retd. with rank of Eng. Cdr.)</Text>
+      <Text>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>6511</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -286,7 +299,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Batley</Key>
-      <Text>.-A. W., R.D. (placed onretdr list with rank of Eng. Cdr.)</Text>
+      <Text>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>7299</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -375,7 +390,10 @@
     <MainItem>
       <Key>Bolton</Key>
       <Title>Lt.</Title>
-      <Text>-Comdr. S., D.S.C., R.D. (placed on retd. list with rank of Comdr.)</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>5327</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -400,7 +418,9 @@
       <Key>Bradley</Key>
       <Title>Lt.</Title>
       <Forenames>J. P.</Forenames>
-      <Text>, D.S.C. (placed on retd. list)</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>5794</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -424,7 +444,10 @@
     <MainItem>
       <Key>Brooks</Key>
       <Forenames>C</Forenames>
-      <Text>, D.S.O., R.D. (placed on retd. list with rank of Comdr.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>5327</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -460,7 +483,9 @@
     <MainItem>
       <Key>Browne</Key>
       <Title>Lt.</Title>
-      <Text>-Comdr. C. E., R.D. (placed on retd. list with rank of Comdr.)</Text>
+      <Text>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>6327</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -480,7 +505,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>W. V.</Forenames>
-      <Text>, R.D. (retd. with rank of Eng. Cdr.)</Text>
+      <Text>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>6511</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -604,7 +631,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Campos</Key>
-      <Text>. Lt.-Comdr. V. L. dA. O.B.E. (nlaeed on retd. list)</Text>
+      <Title>Lt.</Title>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>5327</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -620,7 +650,9 @@
     <MainItem>
       <Key>Cary</Key>
       <Forenames>H. J.</Forenames>
-      <Text>. M.B.E. (temp. Payr.)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>5328</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -658,7 +690,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ohirnside</Key>
-      <Text>. J. W. (Engr. Sub-lit.),</Text>
+      <Forenames>J. W.</Forenames>
+      <Text>(Engr. Sub-lit.),</Text>
       <PageNumber>4417</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -673,28 +706,34 @@
   <ItemGroup>
     <MainItem>
       <Key>Clements</Key>
-      <Text>. R. L. '(tenvp. iLt.)</Text>
+      <Forenames>R. L.</Forenames>
+      <Text>'(tenvp. iLt.)</Text>
       <PageNumber>4418</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Oonklin</Key>
-      <Text>. O. G. iftemn. Lt.-Odr.)</Text>
+      <Forenames>O. G.</Forenames>
+      <Text>iftemn. Lt.-Odr.)</Text>
       <PageNumber>4418</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Cocks</Key>
-      <Text>. A, D.S.C. (Lt.-Cdr.)</Text>
+      <Forenames>A</Forenames>
+      <Text>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>6512</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Cole</Key>
-      <Text>. E. J. (temp. Pavr. Lt.)</Text>
+      <Forenames>E. J.</Forenames>
+      <Text>(temp. Pavr. Lt.)</Text>
       <PageNumber>4885</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -709,14 +748,18 @@
   <ItemGroup>
     <MainItem>
       <Key>Collines</Key>
-      <Text>. E. W...R.D.. (placed on retd. list with rank of Eng. Lt.Cdr.)</Text>
+      <Forenames>E. W.</Forenames>
+      <Text>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>6511</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Collins</Key>
-      <Text>. A. R, iD. 'fLt.-Cdr.)</Text>
+      <Forenames>A. R</Forenames>
+      <Text>, iD. 'fLt.-Cdr.)</Text>
       <PageNumber>5202</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -751,7 +794,9 @@
     <MainItem>
       <Key>Craig</Key>
       <Forenames>J. C</Forenames>
-      <Text>, R.D. (retd. with rank . of Eng. Cdr.)</Text>
+      <Text>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>6511</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -783,7 +828,10 @@
     <MainItem>
       <Key>Custance</Key>
       <Forenames>F. H. M.</Forenames>
-      <Text>, D.S.O.. R.D. (placed on retd. list with rank of Capt.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>5327</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -806,7 +854,9 @@
       <Key>Daniel</Key>
       <Title>Comdr.</Title>
       <Forenames>R. L.</Forenames>
-      <Text>, R.D. (placed on retd. list)</Text>
+      <Text>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>5327</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -814,7 +864,9 @@
     <MainItem>
       <Key>David</Key>
       <Forenames>H. P.</Forenames>
-      <Text>, R.D. (placed on retd. list with rank of Capt..) „</Text>
+      <Text>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>5327</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -822,7 +874,9 @@
     <MainItem>
       <Key>Davidson</Key>
       <Forenames>C</Forenames>
-      <Text>, R.D. (placed on retd. list with rank of Oomdr.)</Text>
+      <Text>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>5327</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -840,7 +894,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>J.</Forenames>
-      <Text>, R.D. (placed on retd. list with rank of Eng. Lt-Cdr)</Text>
+      <Text>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>6511</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -882,7 +938,9 @@
     <MainItem>
       <Key>Deuchar</Key>
       <Forenames>G. G. A.</Forenames>
-      <Text>, D.S.C. (temp. Lt.)</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>5794</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -905,7 +963,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dobson</Key>
-      <Text>. temp. Surg.-Lt. J. G. (invalided on acc. of ill-bealth contracted in the Service, and retains rank)</Text>
+      <Title>temp. Surg.</Title>
+      <Text>-Lt. J. G. (invalided on acc. of ill-bealth contracted in the Service, and retains rank)</Text>
       <PageNumber>4885</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -929,7 +988,9 @@
     <MainItem>
       <Key>Dudfield</Key>
       <Forenames>A.</Forenames>
-      <Text>, D.S.C. (temp. Lt.)</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>6512</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -953,7 +1014,9 @@
     <MainItem>
       <Key>Eckford</Key>
       <Forenames>P. G.</Forenames>
-      <Text>, R.D. (retd. with rank of Eng. Cdr.)</Text>
+      <Text>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>6511</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -977,7 +1040,9 @@
     <MainItem>
       <Key>Eliott</Key>
       <Forenames>T. J.</Forenames>
-      <Text>, D.S.C. (temp. Payr. Lt.)</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>4885</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1019,7 +1084,9 @@
     <MainItem>
       <Key>Fabian</Key>
       <Forenames>H. B.</Forenames>
-      <Text>, R.D. {retd. with rank of Eng. Cdr.)</Text>
+      <Text>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>6511</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1035,7 +1102,9 @@
     <MainItem>
       <Key>Fairweather</Key>
       <Title>Lt.</Title>
-      <Text>-Comdr. H., R.D. (placed on retd. list with rank of iComdr.)</Text>
+      <Text>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>5327</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1108,7 +1177,9 @@
     <MainItem>
       <Key>Forbes</Key>
       <Forenames>C. W.</Forenames>
-      <Text>, R.D. (retd. with rank of Eng. Cdr.)</Text>
+      <Text>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>6511</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1133,7 +1204,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Forsyth</Key>
-      <Text>. A. (temp. Eng. Lt.)</Text>
+      <Forenames>A.</Forenames>
+      <Text>(temp. Eng. Lt.)</Text>
       <PageNumber>7431</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1149,14 +1221,17 @@
     <MainItem>
       <Key>Frank</Key>
       <Forenames>F. A.</Forenames>
-      <Text>. D.S.O. (Lt.-Comdr.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4214</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Frecker</Key>
-      <Text>. H. E. (temp. Payr. Lt.)</Text>
+      <Forenames>H. E.</Forenames>
+      <Text>(temp. Payr. Lt.)</Text>
       <PageNumber>4418</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1172,7 +1247,9 @@
     <MainItem>
       <Key>Furlong</Key>
       <Forenames>J. F.</Forenames>
-      <Text>, R.D. {retd. with rank of Eng. Cdr.)</Text>
+      <Text>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>6511</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1180,7 +1257,9 @@
     <MainItem>
       <Key>Call</Key>
       <Title>Lt.</Title>
-      <Text>-Comdr. J. L., R.D. (placed on retd. list with rank of Comdr.)</Text>
+      <Text>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>5327</PageNumber>
     </MainItem>
   </ItemGroup>

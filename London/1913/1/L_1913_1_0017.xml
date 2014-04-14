@@ -98,7 +98,9 @@
       <Key>Hickman</Key>
       <Title>Lieut. Sir</Title>
       <Forenames>A. E.</Forenames>
-      <Text>, Bart. (seconded)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -131,8 +133,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kirkley</Key>
-      <Forenames>E. St</Forenames>
-      <Text>. B. (2nd Lieut.)</Text>
+      <Forenames>E. St. B</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>497</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -249,8 +251,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Vallance</Key>
-      <Forenames>V.</Forenames>
-      <Text>de V. M. (Capt.)</Text>
+      <Forenames>V. de V</Forenames>
+      <Text>. M. (Capt.)</Text>
       <PageNumber>961</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -324,7 +326,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Clifford</Key>
-      <Text>G. G. J. (2nd Lieut.)</Text>
+      <Forenames>G. G. J.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>845</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -493,8 +496,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Copland-Griffiths</Key>
-      <Forenames>Lieut</Forenames>
-      <Text>, (seconded)</Text>
+      <Title>Lieut, (seconded)</Title>
       <PageNumber>2235</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -511,7 +513,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bayford</Key>
-      <Text>E. IT. (Capt.)</Text>
+      <Forenames>E.</Forenames>
+      <Text>IT. (Capt.)</Text>
       <PageNumber>408</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -570,7 +573,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Macfarlane</Key>
-      <Text>H. E. (Capt.)</Text>
+      <Forenames>H. E.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>2235</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -674,7 +678,9 @@
   <ItemGroup>
     <MainItem>
       <Key>TJrqnhart</Key>
-      <Text>Maj. E. W. L., Depy.Asst. Director of Remounts</Text>
+      <Title>Maj.</Title>
+      <Forenames>E. W. L.</Forenames>
+      <Text>, Depy.Asst. Director of Remounts</Text>
       <PageNumber>408</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -949,6 +955,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Rougemont</Key>
+      <Forenames>C. H.</Forenames>
+      <Text>(Lieut.-Col.)</Text>
+      <PageNumber>2064</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>IDcshon</Key>
       <Forenames>F. G. T.</Forenames>
       <Text>(Maj.)</Text>
@@ -973,8 +987,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Title>Port. Maj.</Title>
+      <Key>Du Port</Key>
+      <Title>Maj.</Title>
       <Forenames>O. C.</Forenames>
       <Text>(retired)</Text>
       <PageNumber>1448</PageNumber>
@@ -1052,7 +1066,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Griffiths</Key>
-      <Text>2nd Lieut. W. J. E. (resigned)</Text>
+      <Title>2nd Lieut.</Title>
+      <Forenames>W. J. E.</Forenames>
+      <Text>(resigned)</Text>
       <PageNumber>1758</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1117,14 +1133,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Johnson</Key>
-      <Text>P. E. (2nd Lieut.)</Text>
+      <Forenames>P. E.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>497</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Johnstone</Key>
-      <Text>Lieut.-Col. F. B. (halfpay list)</Text>
+      <Title>Lieut.-Col.</Title>
+      <Forenames>F. B.</Forenames>
+      <Text>(halfpay list)</Text>
       <PageNumber>495</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1166,7 +1185,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Lemmon</Key>
-      <Text>Lieut. C. H. (seconded)</Text>
+      <Title>Lieut.</Title>
+      <Forenames>C. H.</Forenames>
+      <Text>(seconded)</Text>
       <PageNumber>1758</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1190,7 +1211,8 @@
   <ItemGroup>
     <MainItem>
       <Key>McConnel</Key>
-      <Text>D. F. (2nd Lieut.) ...</Text>
+      <Forenames>D. F.</Forenames>
+      <Text>(2nd Lieut.) ...</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1220,7 +1242,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Morgan</Key>
-      <Text>W. D. (2nd Lieut.) ...</Text>
+      <Forenames>W. D.</Forenames>
+      <Text>(2nd Lieut.) ...</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1235,7 +1258,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Napier</Key>
-      <Text>Capt. V. M. C. (seconded)</Text>
+      <Title>Capt.</Title>
+      <Forenames>V. M. C.</Forenames>
+      <Text>(seconded)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1250,7 +1275,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Owen</Key>
-      <Text>F. C. (Mai-)</Text>
+      <Forenames>F. C.</Forenames>
+      <Text>(Mai-)</Text>
       <PageNumber>1634</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -592,8 +592,8 @@
     <MainItem>
       <Key>Fowler</Key>
       <Title>2nd Lieut.</Title>
-      <Forenames>R. St</Forenames>
-      <Text>. L. (temporary Lieut., and to be supernumerary)</Text>
+      <Forenames>R. St. L</Forenames>
+      <Text>. (temporary Lieut., and to be supernumerary)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -711,7 +711,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Neame</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, and Adjt. B. (temporary Capt., and to be supernumerary) .. ...</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
@@ -945,6 +945,14 @@
   <SubSectionTitle>21st (Empress of India's) Lancers</SubSectionTitle>
   <ItemGroup>
     <MainItem>
+      <Key>de Pret</Key>
+      <Forenames>Jacques</Forenames>
+      <Text>(Lieut.)</Text>
+      <PageNumber>10668</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Lloyd</Key>
       <Title>2nd Lieut.</Title>
       <Forenames>Lancelot Walter</Forenames>
@@ -965,14 +973,17 @@
       <Key>Pigott</Key>
       <Title>Sir</Title>
       <Forenames>Berkeley</Forenames>
-      <Text>, Bt. (2nd Lieut.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>11022</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. Clair, Lockhart F. Charles (2nd Lieut.)</Text>
+      <Key>St. Clair</Key>
+      <Forenames>Lockhart F. Charles</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>10928</PageNumber>
     </MainItem>
   </ItemGroup>

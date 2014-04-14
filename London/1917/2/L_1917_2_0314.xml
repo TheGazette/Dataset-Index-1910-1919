@@ -3,7 +3,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Shouibridge</Key>
-      <Text>.Bt. Col. .(temp. Brig.Gen.) T. H. C.M.G.; D.S.O. (temp. Maj.-Gen.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4460</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -90,7 +94,8 @@
   <ItemGroup>
     <MainItem>
       <Key>JShutes</Key>
-      <Text>temp. Lt. {actg. Capt.)</Text>
+      <Title>temp. Lt.</Title>
+      <Text>{actg. Capt.)</Text>
       <PageNumber>1468</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -470,7 +475,9 @@
       <Key>Silvertop</Key>
       <Title>Capt.</Title>
       <Forenames>W. A.</Forenames>
-      <Text>, M.C. (restd. supern. to estab.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4297</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -887,7 +894,9 @@
     <MainItem>
       <Key>Simonds</Key>
       <Title>Capt.</Title>
-      <Text>. J. de L., D.S.O. (actg. Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4777</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1125,7 +1134,10 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>E. H.</Forenames>
-      <Text>, M.C. (Bt. Ma].)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>5857</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1163,7 +1175,9 @@
       <PageNumber>5499</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>temp. Lt. F. H., M.D. (rel</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>4580</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1187,7 +1201,9 @@
       <PageNumber>3759</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>. F.R.O.P. Edin., F.R.C.S.,</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>4789</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1212,7 +1228,7 @@
       <PageNumber>5580</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Comdr. and temp. Lt.), Sub</Text>
+      <Text>Comdr. and temp. Lt.), Sub.</Text>
       <PageNumber>3481</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1223,7 +1239,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>G. M.</Forenames>
-      <Text>, M.D. (temp. Lt.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>5857</PageNumber>
     </MainItem>
     <SubItem>

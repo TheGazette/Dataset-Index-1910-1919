@@ -144,8 +144,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Callaghan, Cyril Tait (2nd Lieut.)</Text>
+      <Key>O'Callaghan</Key>
+      <Forenames>Cyril Tait</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>4895</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -426,7 +427,9 @@
       </Key>
       <Title>Major (Hon. Capt. in the Army)</Title>
       <Forenames>Herbert H.</Forenames>
-      <Text>, D.S.O. (resigned)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3839</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -633,7 +636,9 @@
       <Key>Coates</Key>
       <Title>Col.</Title>
       <Forenames>William</Forenames>
-      <Text>, C.B. (resigned)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>4620</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -873,7 +878,9 @@
     <MainItem>
       <Key>Jones</Key>
       <Forenames>William Watkins</Forenames>
-      <Text>, M.D. (Maj.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>3475</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -994,7 +1001,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Price</Key>
-      <Text>William Frederick, A.M.I.E.E., A.M.I.Mech.E. (Capt.)</Text>
+      <Forenames>William Frederick</Forenames>
+      <Text>, A.M.I.E.E., A.M.I.Mech.E. (Capt.)</Text>
       <PageNumber>2885</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1143,7 +1151,9 @@
     <MainItem>
       <Key>Watson</Key>
       <Forenames>Charles Gordon</Forenames>
-      <Text>, F.R.C.S. (Capt.) .:</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>2885</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1198,8 +1208,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Territorial</Key>
-      <Forenames>Decoration Conferred</Forenames>
-      <Text>upon: Adams, Capt. John Loftus</Text>
+      <Text>
+        <Honour>Decoration</Honour>
+      </Text>
       <PageNumber>3663</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1296,14 +1307,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Decker</Key>
-      <Text>Maj. Hermann Joseph ...</Text>
+      <Title>Maj.</Title>
+      <Forenames>Hermann Joseph</Forenames>
+      <Text>...</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Dodd</Key>
-      <Text>Capt. and Hon. Maj. Edward Arthur</Text>
+      <Title>Capt. and Hon. Maj.</Title>
+      <Forenames>Edward Arthur</Forenames>
       <PageNumber>3664</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1376,7 +1390,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Greig</Key>
-      <Text>Maj. David Middleton, M.B. ... ...</Text>
+      <Title>Maj.</Title>
+      <Forenames>David Middleton</Forenames>
+      <Text>, M.B. ... ...</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1482,7 +1498,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Leather</Key>
-      <Text>Lieut.-Col. Francis Holdsworth</Text>
+      <Title>Lieut.-Col.</Title>
+      <Forenames>Francis Holds-</Forenames>
+      <Text>worth</Text>
       <PageNumber>4223</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1507,7 +1525,9 @@
       <Key>Lyon</Key>
       <Title>Lieut.-Col.</Title>
       <Forenames>Alexander Bar-</Forenames>
-      <Text>clay, M.D. ... ... .. .»</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>4223</PageNumber>
     </MainItem>
   </ItemGroup>

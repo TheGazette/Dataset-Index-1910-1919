@@ -4,7 +4,9 @@
     <MainItem>
       <Key>Chapman</Key>
       <Title>Lt. (0.)</Title>
-      <Text>. C, D.S.O. (granted perm, commn.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>9868</PageNumber>
     </MainItem>
     <SubItem>
@@ -302,7 +304,11 @@
       </Key>
       <Title>Col.</Title>
       <Forenames>L. E. O.</Forenames>
-      <Text>, C.B.. C.M.G., D.S.O. (granted perm. commn.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>9864</PageNumber>
     </MainItem>
     <SubItem>
@@ -377,7 +383,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Chasomore</Key>
-      <Text>Cadet T.. P. G. E. (Hon. 2nd Lt.)</Text>
+      <Title>Cadet</Title>
+      <Forenames>T.</Forenames>
+      <Text>. P. G. E. (Hon. 2nd Lt.)</Text>
       <PageNumber>11593</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -550,11 +558,13 @@
       </Key>
       <Title>Lt.-Col.</Title>
       <Forenames>R. G.</Forenames>
-      <Text>, M.C. (rel. commn)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>12032</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Granted perm., com-mn</Text>
+      <Text>Granted perm., com-mn.</Text>
       <PageNumber>9865</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -577,7 +587,9 @@
       <Key>Cheshire</Key>
       <Title>Capt. (T.)</Title>
       <Forenames>A. S.</Forenames>
-      <Text>, M.B.E. (granted perm, commn.)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>9868</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -658,21 +670,26 @@
   <ItemGroup>
     <MainItem>
       <Key>Chettle</Key>
-      <Text>2nd Lt. A. (trd. to unempld. list)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>A.</Forenames>
+      <Text>(trd. to unempld. list)</Text>
       <PageNumber>9005</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Cheverton</Key>
-      <Text>Cadet W. H. (Hon. 2nd Lt.)</Text>
+      <Title>Cadet</Title>
+      <Forenames>W. H.</Forenames>
+      <Text>(Hon. 2nd Lt.)</Text>
       <PageNumber>9431</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Cheviier</Key>
-      <Text>Overseas Cadet R. L. (temp. 2nd Lt.), Sub. Not</Text>
+      <Forenames>Overseas</Forenames>
+      <Text>Cadet R. L. (temp. 2nd Lt.), Sub. Not</Text>
       <PageNumber>8605</PageNumber>
     </MainItem>
     <SubItem>
@@ -683,7 +700,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Chichester</Key>
-      <Text>Cadet T. W. H. (Hon. 2nd Lt.)</Text>
+      <Title>Cadet</Title>
+      <Forenames>T. W. H.</Forenames>
+      <Text>(Hon. 2nd Lt.)</Text>
       <PageNumber>8396</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -692,11 +711,13 @@
       <Key>Chick</Key>
       <Title>Lt.</Title>
       <Forenames>A. L.</Forenames>
-      <Text>. A.F.C. (graded for pay as Capt., A.)</Text>
+      <Text>
+        <Honour>A.F.C.</Honour>
+      </Text>
       <PageNumber>9002</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Granted hon. rank of Capt</Text>
+      <Text>Granted hon. rank of Capt.</Text>
       <PageNumber>11473</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -757,7 +778,9 @@
       <Key>Childers</Key>
       <Title>Maj.</Title>
       <Forenames>R. E.</Forenames>
-      <Text>, D.S.C. (trd. to unempld. list)</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>9006</PageNumber>
     </MainItem>
     <SubItem>
@@ -823,7 +846,7 @@
       <PageNumber>9871</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Graded for pay and allces. as Capt., Gr. B</Text>
+      <Text>Graded for pay and allces. as Capt., Gr. B.</Text>
       <PageNumber>10481</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -839,7 +862,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Chinnick</Key>
-      <Text>Overseas Cadet W. J. (temp. 2nd Lt.), Sub. Not</Text>
+      <Forenames>Overseas</Forenames>
+      <Text>Cadet W. J. (temp. 2nd Lt.), Sub. Not</Text>
       <PageNumber>8605</PageNumber>
     </MainItem>
     <SubItem>
@@ -932,7 +956,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Chivers</Key>
-      <Text>Cadet J. J. (Hon. 2nd Lt.)</Text>
+      <Title>Cadet</Title>
+      <Forenames>J. J.</Forenames>
+      <Text>(Hon. 2nd Lt.)</Text>
       <PageNumber>10483</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -960,7 +986,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Christensen</Key>
-      <Text>Overseas Cadet G. H. (temp. 2nd Lt.), Sub. Not. ... '</Text>
+      <Forenames>Overseas</Forenames>
+      <Text>Cadet G. H. (temp. 2nd Lt.), Sub. Not. ... '</Text>
       <PageNumber>8605</PageNumber>
     </MainItem>
     <SubItem>
@@ -972,7 +999,9 @@
     <MainItem>
       <Key>Christian</Key>
       <Forenames>Flying Offr</Forenames>
-      <Text>. L. A., D.F.C. (trd. to unempld list)</Text>
+      <Text>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>11472</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1003,7 +1032,10 @@
       <Key>Christie</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>A.</Forenames>
-      <Text>, C.M.G., D.S.O. (rel. commn. on ceasing to be empld.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>10095</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1104,7 +1136,10 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Title>Lt.</Title>
-      <Text>^Col. M. G., C.M.Q., D.S.O., M.C. (granted perm, commn.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9865</PageNumber>
     </MainItem>
   </ItemGroup>

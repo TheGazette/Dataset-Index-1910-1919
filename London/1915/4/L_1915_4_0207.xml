@@ -95,7 +95,9 @@
     <MainItem>
       <Key>Oliver</Key>
       <Forenames>A.</Forenames>
-      <Text>, M.D. (Capt.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>11751</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -243,7 +245,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ord-Mackenzie</Key>
-      <Text>D. A. (2nd Lt.)</Text>
+      <Forenames>D. A.</Forenames>
+      <Text>(2nd Lt.)</Text>
       <PageNumber>10644</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -370,7 +373,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>J. M.</Forenames>
-      <Text>, M.D. (Lt.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>12848</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -690,8 +695,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>M.</Forenames>
-      <Text>de B. (2nd Lt.)</Text>
+      <Forenames>M. de B</Forenames>
+      <Text>. (2nd Lt.)</Text>
       <PageNumber>9752</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1196,7 +1201,9 @@
       <Key>Parham</Key>
       <Title>Capt.</Title>
       <Forenames>W</Forenames>
-      <Text>M., M.D. (temp. Maj.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>12036</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1278,7 +1285,7 @@
       <PageNumber>10775</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Temp. Capt</Text>
+      <Text>Temp. Capt.</Text>
       <PageNumber>10775</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1710,7 +1717,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>J. A.</Forenames>
-      <Text>, M.D. (Capt.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>9754</PageNumber>
     </MainItem>
   </ItemGroup>

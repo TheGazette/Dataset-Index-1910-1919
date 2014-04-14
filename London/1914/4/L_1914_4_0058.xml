@@ -195,8 +195,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Alexander</Key>
-      <Forenames>Lieut</Forenames>
-      <Text>, the Hon. H. G. (temporary Capt. and to be supernumerary)</Text>
+      <Title>Lieut, the Hon.</Title>
+      <Forenames>H. G.</Forenames>
+      <Text>(temporary Capt. and to be supernumerary)</Text>
       <PageNumber>10553</PageNumber>
     </MainItem>
     <SubItem>
@@ -603,7 +604,9 @@
       <Key>Brooke</Key>
       <Title>Sir</Title>
       <Forenames>Basil S.</Forenames>
-      <Text>, Bt. (Lieut.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>9240</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -662,7 +665,9 @@
     <MainItem>
       <Key>Kearsey</Key>
       <Forenames>Alexander H. C</Forenames>
-      <Text>, D.S.O. (Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>11023</PageNumber>
     </MainItem>
   </ItemGroup>

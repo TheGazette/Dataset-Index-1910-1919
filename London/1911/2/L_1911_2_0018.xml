@@ -20,8 +20,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, Col. A. P. (retired)</Text>
+      <Key>O'Connor</Key>
+      <Title>Col.</Title>
+      <Forenames>A. P.</Forenames>
+      <Text>(retired)</Text>
       <PageNumber>2703</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -416,9 +418,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Brath</Forenames>
-      <Text>, E. (Lieut.-Gen.)</Text>
+      <Key>De Brath</Key>
+      <Forenames>E.</Forenames>
+      <Text>(Lieut.-Gen.)</Text>
       <PageNumber>3169</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -432,9 +434,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Lisle</Forenames>
-      <Text>, G. de S. (Col.) ...\</Text>
+      <Key>De Lisle</Key>
+      <Forenames>G. de S</Forenames>
+      <Text>. (Col.) ...\</Text>
       <PageNumber>3095</PageNumber>
       <PageNumber>3170</PageNumber>
     </MainItem>
@@ -578,7 +580,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fry</Key>
-      <Text>C. I. (Col.)</Text>
+      <Forenames>C. I.</Forenames>
+      <Text>(Col.)</Text>
       <PageNumber>3095</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1020,7 +1023,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Shakespear</Key>
-      <Text>L. W. (Col.)</Text>
+      <Forenames>L. W.</Forenames>
+      <Text>(Col.)</Text>
       <PageNumber>3095</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1174,16 +1178,17 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Straubenzee</Forenames>
-      <Text>, A. H. (Col.)</Text>
+      <Key>Van Straubenzee</Key>
+      <Forenames>A. H.</Forenames>
+      <Text>(Col.)</Text>
       <PageNumber>2704</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Vaughan</Key>
-      <Text>J. (temporary Col.)</Text>
+      <Forenames>J.</Forenames>
+      <Text>(temporary Col.)</Text>
       <PageNumber>4708</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1377,8 +1382,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Home</Key>
-      <Forenames>G. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>G. St. G</Forenames>
       <PageNumber>3820</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1413,8 +1417,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>Clair, A. J. (resigned)</Text>
+      <Key>St. Clair</Key>
+      <Forenames>A. J.</Forenames>
+      <Text>(resigned)</Text>
       <PageNumber>3052</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1454,7 +1459,9 @@
       <Key>Carden</Key>
       <Title>Maj. Sir</Title>
       <Forenames>F. H. W.</Forenames>
-      <Text>, Bart. (retired)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>2884</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1590,7 +1597,9 @@
       <Key>Hickman</Key>
       <Title>Sir</Title>
       <Forenames>A. E.</Forenames>
-      <Text>, Bart. (Lieut.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>2701</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1607,8 +1616,8 @@
     <MainItem>
       <Key>Garfit</Key>
       <Title>2nd Lieut.</Title>
-      <Forenames>H.</Forenames>
-      <Text>de B. (3. (seconded)</Text>
+      <Forenames>H. de B</Forenames>
+      <Text>. (3. (seconded)</Text>
       <PageNumber>4772</PageNumber>
     </MainItem>
   </ItemGroup>

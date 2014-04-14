@@ -238,7 +238,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Harbord</Key>
-      <Text>. Lionel (temporary -Capt.)'</Text>
+      <Forenames>Lionel</Forenames>
+      <Text>(temporary -Capt.)'</Text>
       <PageNumber>9020</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -270,7 +271,9 @@
       <Key>Harper</Key>
       <Title>Col.</Title>
       <Forenames>George M.</Forenames>
-      <Text>, D.S.O. (temporary Brigadier-Gen.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>10551</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -337,8 +340,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hatcher</Key>
-      <Title>(temporary)</Title>
-      <Forenames>Lieut</Forenames>
+      <Title>(temporary) Lieut</Title>
       <Text>, and Qrmr. Arthur (correction of date)</Text>
       <PageNumber>9519</PageNumber>
     </MainItem>
@@ -357,7 +359,10 @@
       <Key>Hay</Key>
       <Title>Lieut.-Col. and Hon. Col. (Hon. Lieut.^Col. in the Army) Sir</Title>
       <Forenames>George Jackson</Forenames>
-      <Text>, Kt., K.C.B., C.M.G. (temporary Lieut.-Col.)</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>10552</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -436,7 +441,9 @@
       <Key>Herbert</Key>
       <Title>The Hon.</Title>
       <Forenames>Aubrey N. H. M.</Forenames>
-      <Text>, M.P. (temporary Capt.)</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>10302</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -519,7 +526,9 @@
       </Key>
       <Title>Col.</Title>
       <Forenames>Samuel A. E.</Forenames>
-      <Text>, D.S.O. (temporary BrigadierGen.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>10674</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -545,7 +554,9 @@
       <Key>Hills</Key>
       <Title>Maj.</Title>
       <Forenames>Edmond H.</Forenames>
-      <Text>, C.M.G., F.R.S. (local rank of Col.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>8365</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -987,7 +998,9 @@
         <KeyDitto>___ ___ .</KeyDitto>
       </Key>
       <Forenames>R.</Forenames>
-      <Text>, V.C. (temporary Maj.)</Text>
+      <Text>
+        <Honour>V.C.</Honour>
+      </Text>
       <PageNumber>9114</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1048,7 +1061,9 @@
     <MainItem>
       <Key>Kamardin</Key>
       <Forenames>Subadiar-</Forenames>
-      <Text>Maj., Sardar Bahadur, I.O.M. (Hon. Ca.pt. on retirement)</Text>
+      <Text>
+        <Honour>O.M.</Honour>
+      </Text>
       <PageNumber>9004</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1194,7 +1209,9 @@
       <Key>
         <KeyDitto>___ ___ ___ '</KeyDitto>
       </Key>
-      <Text>iawa.lb, . Sardar Bahadur, L.O.M. (Hon. Capt. on retirement) ... ...</Text>
+      <Text>
+        <Honour>O.M.</Honour>
+      </Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>

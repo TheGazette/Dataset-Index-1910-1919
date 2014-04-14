@@ -394,6 +394,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Blaby</Key>
+      <Forenames>Reginald Swithun</Forenames>
+      <Text>(2nd Lieut, on probation)</Text>
+      <PageNumber>7692</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>
         <KeyDitto>— ___ ___</KeyDitto>
       </Key>
@@ -450,6 +458,14 @@
       <Forenames>Mare</Forenames>
       <Text>, Andrew Guy (2nd Lieut.)</Text>
       <PageNumber>6503</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Paravicini</Key>
+      <Forenames>John Marcus</Forenames>
+      <Text>(2nd Lieut, on probation), supplementary</Text>
+      <PageNumber>6904</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -584,8 +600,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Robert</Forenames>
-      <Text>de Bohun (2nd Lieut, on probation)</Text>
+      <Forenames>Robert de Bohun</Forenames>
+      <Text>(2nd Lieut, on probation)</Text>
       <PageNumber>7693</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -763,7 +779,9 @@
     <MainItem>
       <Key>Dorrien-Smith</Key>
       <Forenames>Arthur A.</Forenames>
-      <Text>, D.S.O. (Maj., and to be seconded)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7287</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -958,7 +976,9 @@
       <Key>Eardley-Wilmot</Key>
       <Title>Sir</Title>
       <Forenames>John</Forenames>
-      <Text>, Bt. (Lieut.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>7002</PageNumber>
     </MainItem>
     <SubItem>
@@ -1109,8 +1129,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Title>Hon.</Title>
-      <Forenames>Lieut</Forenames>
+      <Title>Hon. Lieut</Title>
       <Text>in the Army John W. L. (2nd Lieut.)</Text>
       <PageNumber>7197</PageNumber>
     </MainItem>
@@ -1214,7 +1233,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Evered</Key>
-      <Text>. Robert Kenrick (Lieuit.)</Text>
+      <Forenames>Robert Kenrick</Forenames>
+      <Text>(Lieuit.)</Text>
       <PageNumber>6983</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1229,7 +1249,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ewing</Key>
-      <Text>. Alexander Crum (2nd Lieut, on probation)</Text>
+      <Forenames>Alexander Crum</Forenames>
+      <Text>(2nd Lieut, on probation)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1268,7 +1289,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Faithfull</Key>
-      <Text>. Eric Basil F. (2nd Lieut, on probation)</Text>
+      <Forenames>Eric Basil F.</Forenames>
+      <Text>(2nd Lieut, on probation)</Text>
       <PageNumber>7693</PageNumber>
     </MainItem>
   </ItemGroup>

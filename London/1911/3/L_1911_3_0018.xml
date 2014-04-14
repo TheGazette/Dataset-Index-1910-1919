@@ -216,7 +216,9 @@
       <Key>Bannerman</Key>
       <Title>Sir</Title>
       <Forenames>A.</Forenames>
-      <Text>, Bart. (Maj.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>6064</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -358,7 +360,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Duff</Key>
-      <Text>G.M. (Lieut.-Col.)</Text>
+      <Text>
+        <Honour>G.M.</Honour>
+      </Text>
       <PageNumber>5551</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -424,8 +428,8 @@
     <MainItem>
       <Key>Hamilton</Key>
       <Title>Brevet-Col.</Title>
-      <Forenames>J. E. O</Forenames>
-      <Text>'H. (retired)</Text>
+      <Forenames>J. E. O'H</Forenames>
+      <Text>. (retired)</Text>
       <PageNumber>5919</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -572,8 +576,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rideout</Key>
-      <Forenames>E.</Forenames>
-      <Text>de S. (2nd Lieut.)</Text>
+      <Forenames>E. de S</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>6226</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -799,7 +803,9 @@
       <Key>Barttelot</Key>
       <Title>Capt. Sir</Title>
       <Forenames>W. B.</Forenames>
-      <Text>, Bart. (seconded)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>5353</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -861,6 +867,14 @@
       <Forenames>G. A. C.</Forenames>
       <Text>(retired)</Text>
       <PageNumber>5633</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Trafford</Key>
+      <Forenames>H. E.</Forenames>
+      <Text>(2nd Lieut.)</Text>
+      <PageNumber>6628</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1130,8 +1144,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Morgan</Key>
-      <Forenames>H.</Forenames>
-      <Text>de R. (2nd Lieut.)</Text>
+      <Forenames>H. de R</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>6065</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1334,8 +1348,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Eagar</Key>
-      <Forenames>H. St</Forenames>
-      <Text>. G. (2nd Lieut.)</Text>
+      <Forenames>H. St. G</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>6881</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1362,6 +1376,14 @@
       <Forenames>A. K. M. C. W.</Forenames>
       <Text>(resigned)</Text>
       <PageNumber>5432</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>von Poellnitz</Key>
+      <Forenames>H. W.</Forenames>
+      <Text>(2nd Lieut.)</Text>
+      <PageNumber>6881</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1425,7 +1447,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Park</Key>
-      <Text>Lieut. J. S. (seconded)</Text>
+      <Title>Lieut.</Title>
+      <Forenames>J. S.</Forenames>
+      <Text>(seconded)</Text>
       <PageNumber>5551</PageNumber>
     </MainItem>
   </ItemGroup>

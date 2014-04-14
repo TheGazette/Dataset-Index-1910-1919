@@ -43,7 +43,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Searight</Key>
-      <Text>.Capt, (actg. Maj.)T. P. (trd. to unempld. list from S.O.)</Text>
+      <Forenames>Capt</Forenames>
+      <Text>, (actg. Maj.)T. P. (trd. to unempld. list from S.O.)</Text>
       <PageNumber>3156</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -182,7 +183,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Capt</Forenames>
-      <Text>: J.G.,M.C.(actg.Maj.,A.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2800</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -269,7 +272,9 @@
       <Key>Sells</Key>
       <Title>Capt. (R.A:M.C, T.F.)</Title>
       <Forenames>C. P.</Forenames>
-      <Text>, M.C. (temp. Capt., Med.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>369</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -345,7 +350,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Sersale</Key>
-      <Text>.Offr. Cand. Mrs. M. B. (temp. Asst. Admr., W.R.A.F.)</Text>
+      <Title>Offr. Cand. Mrs.</Title>
+      <Forenames>M. B.</Forenames>
+      <Text>(temp. Asst. Admr., W.R.A.F.)</Text>
       <PageNumber>2868</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -409,7 +416,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>W. E. L.</Forenames>
-      <Text>, M.C. (actg. Maj. while Maj., Tech.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2162</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -627,7 +636,9 @@
       </Key>
       <Title>Lt. (K.B.)</Title>
       <Forenames>J. G.</Forenames>
-      <Text>, M.C. (Lt., A.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1961</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -819,7 +830,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Shelley</Key>
-      <Text>; temp. Capt. (R.A.M.C.) L. W. (temp. Capt., Med.) :</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>369</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -832,7 +845,7 @@
       <PageNumber>204</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Graded for pay as Lt., Gr. A.</Text>
+      <Text>Graded for pay as Lt., Gr. A</Text>
       <PageNumber>1803</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -934,14 +947,16 @@
       <PageNumber>2868</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Temp. Dep. Admr.</Text>
+      <Text>Temp. Dep. Admr</Text>
       <PageNumber>2869</PageNumber>
     </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Sheriff</Key>
-      <Text>2ndLt. (actg. Capt.) (Admin.) M., D.C.M. (2nd Lt., Tech., Gr. A, and rel. actg. rank)</Text>
+      <Text>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>2279</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1084,7 +1099,9 @@
       <Key>Shoppee</Key>
       <Title>Capt.</Title>
       <Forenames>L. C</Forenames>
-      <Text>, D.S.C..(confd.)</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>207</PageNumber>
     </MainItem>
   </ItemGroup>

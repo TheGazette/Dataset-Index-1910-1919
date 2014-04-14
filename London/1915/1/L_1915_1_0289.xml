@@ -18,35 +18,40 @@
   <ItemGroup>
     <MainItem>
       <Key>Barkley</Key>
-      <Text>Lieut.-Commander William Andrew</Text>
+      <Title>Lieut.-Commander</Title>
+      <Forenames>Wil-</Forenames>
+      <Text>liam Andrew</Text>
       <PageNumber>906</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Beadle</Key>
-      <Text>Lieut.-Commander Sydney Wilford</Text>
+      <Title>Lieut.-Commander</Title>
+      <Forenames>Sydney Wilford</Forenames>
       <PageNumber>57</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Musgrave</Key>
-      <Text>Lieut.-Com mand er Philip Cranstoun</Text>
+      <Title>Lieut.</Title>
+      <Text>-Com mand er Philip Cranstoun</Text>
       <PageNumber>2365</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Rising</Key>
-      <Text>Lieut.-Commander Francis Simon</Text>
+      <Title>Lieut.-Commander</Title>
+      <Forenames>Francis Simon</Forenames>
       <PageNumber>1729</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Slingsby</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>Commander Charles H. Reynard</Text>
       <PageNumber>2498</PageNumber>
     </MainItem>
@@ -62,14 +67,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Stucley</Key>
-      <Text>Lieut.-Commander Hugh N. Granville</Text>
+      <Title>Lieut.-Commander</Title>
+      <Forenames>Hugh N. Granville</Forenames>
       <PageNumber>1449</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Thrupp</Key>
-      <Text>Lieut.-Commander Harold Raymond</Text>
+      <Title>Lieut.-Commander</Title>
+      <Forenames>Harold Raymond</Forenames>
       <PageNumber>57</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -93,14 +100,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Barnes</Key>
-      <Text>(temporary) Flight SubLieut. Douglas M. (confirmed)</Text>
+      <Title>(temporary) Flight</Title>
+      <Forenames>Sub-</Forenames>
+      <Text>Lieut. Douglas M. (confirmed)</Text>
       <PageNumber>1978</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Batchelor</Key>
-      <Forenames>Flight Sub-</Forenames>
+      <Title>Flight</Title>
+      <Forenames>Sub-</Forenames>
       <Text>Lieut. Harold James (confirmed) ... ...</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
@@ -120,7 +130,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bird</Key>
-      <Forenames>Flight Sub-</Forenames>
+      <Title>Flight</Title>
+      <Forenames>Sub-</Forenames>
       <Text>Lieut. Edmund I. Montfort (confirmed)</Text>
       <PageNumber>1319</PageNumber>
     </MainItem>
@@ -144,7 +155,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bray</Key>
-      <Forenames>Flight Sub-Lient</Forenames>
+      <Title>Flight</Title>
+      <Forenames>Sub-Lient</Forenames>
       <Text>. Eric Fabricius (confirmed)</Text>
       <PageNumber>1319</PageNumber>
     </MainItem>
@@ -152,7 +164,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Breese</Key>
-      <Text>(temporary) Flight SubLieut. George Fred (confirmed)</Text>
+      <Title>(temporary) Flight</Title>
+      <Forenames>Sub-</Forenames>
+      <Text>Lieut. George Fred (confirmed)</Text>
       <PageNumber>1978</PageNumber>
     </MainItem>
     <SubItem>
@@ -163,7 +177,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Brooke</Key>
-      <Forenames>Flight Sub-</Forenames>
+      <Title>Flight</Title>
+      <Forenames>Sub-</Forenames>
       <Text>Lieut. John CaJlaghan (confirmed)</Text>
       <PageNumber>1320</PageNumber>
     </MainItem>
@@ -206,7 +221,9 @@
     <MainItem>
       <Key>Collet</Key>
       <Forenames>Charles Herbert</Forenames>
-      <Text>, D.S.O. (Flight Commander)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>1979</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -221,7 +238,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Cooper</Key>
-      <Text>(temporary) Flight SubLieut. Arthur Quilton (confirmed)</Text>
+      <Title>(temporary) Flight</Title>
+      <Forenames>Sub-</Forenames>
+      <Text>Lieut. Arthur Quilton (confirmed)</Text>
       <PageNumber>2626</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -230,7 +249,8 @@
       <Key>
         <KeyDitto>___ .— ___</KeyDitto>
       </Key>
-      <Forenames>Flight Sub-Lient</Forenames>
+      <Title>Flight</Title>
+      <Forenames>Sub-Lient</Forenames>
       <Text>. Edward J. (confirmed)</Text>
       <PageNumber>1978</PageNumber>
     </MainItem>
@@ -262,7 +282,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dalison</Key>
-      <Forenames>Flight Sub-</Forenames>
+      <Title>Flight</Title>
+      <Forenames>Sub-</Forenames>
       <Text>Lieut. Charles Beauvoif (confirmed)</Text>
       <PageNumber>3108</PageNumber>
     </MainItem>
@@ -287,22 +308,26 @@
     <MainItem>
       <Key>Edmonds</Key>
       <Forenames>Charles H. Kingsman</Forenames>
-      <Text>, D.S.O. (Flight Commander)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>1979</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Evill</Key>
-      <Forenames>Flight</Forenames>
-      <Text>Lieut. Douglas C. Stratheru (confirmed)</Text>
+      <Title>Flight Lieut.</Title>
+      <Forenames>Douglas C. Stratheru</Forenames>
+      <Text>(confirmed)</Text>
       <PageNumber>1978</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Field</Key>
-      <Forenames>Flight Sub-</Forenames>
+      <Title>Flight</Title>
+      <Forenames>Sub-</Forenames>
       <Text>Lieut. Roger Martin (confirmed)</Text>
       <PageNumber>2626</PageNumber>
     </MainItem>
@@ -334,7 +359,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gamwell</Key>
-      <Forenames>Flight Sub-</Forenames>
+      <Title>Flight</Title>
+      <Forenames>Sub-</Forenames>
       <Text>Lieut. Frederick Whittington (confirmed)</Text>
       <PageNumber>1978</PageNumber>
     </MainItem>
@@ -366,7 +392,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Hay</Key>
-      <Text>(temporary) Lieut. John Findlay (transferred as Probationary Flight Sub-Lieut.)</Text>
+      <Title>(temporary) Lieut.</Title>
+      <Forenames>John Findlay</Forenames>
+      <Text>(transferred as Probationary Flight Sub-Lieut.)</Text>
       <PageNumber>2093</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -381,7 +409,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hinshelwood</Key>
-      <Forenames>Flight Sub-</Forenames>
+      <Title>Flight</Title>
+      <Forenames>Sub-</Forenames>
       <Text>Lieut. Thomas (confirmed)</Text>
       <PageNumber>1320</PageNumber>
     </MainItem>
@@ -389,7 +418,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hodsoll</Key>
-      <Forenames>Flight Sub-</Forenames>
+      <Title>Flight</Title>
+      <Forenames>Sub-</Forenames>
       <Text>Lieut. Eric John (confirmed)</Text>
       <PageNumber>1319</PageNumber>
     </MainItem>
@@ -413,7 +443,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Huskisson</Key>
-      <Forenames>Flight Sub-</Forenames>
+      <Title>Flight</Title>
+      <Forenames>Sub-</Forenames>
       <Text>Lieut. Bertram Lawrence (confirmed)</Text>
       <PageNumber>1978</PageNumber>
     </MainItem>
@@ -421,7 +452,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Iron</Key>
-      <Forenames>Flight Sub-</Forenames>
+      <Title>Flight</Title>
+      <Forenames>Sub-</Forenames>
       <Text>Lieut. Douglas (confirmed)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
@@ -429,15 +461,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Jones</Key>
-      <Forenames>Flight</Forenames>
-      <Text>Lieut., Robert Hilton (confirmed)</Text>
+      <Title>Flight Lieut.</Title>
+      <Text>, Robert Hilton (confirmed)</Text>
       <PageNumber>149</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Legh</Key>
-      <Forenames>Flight Sub-</Forenames>
+      <Title>Flight</Title>
+      <Forenames>Sub-</Forenames>
       <Text>Lieut. Peter (eonfirmed)</Text>
       <PageNumber>3108</PageNumber>
     </MainItem>
@@ -453,7 +486,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lister</Key>
-      <Forenames>Flight Sub-</Forenames>
+      <Title>Flight</Title>
+      <Forenames>Sub-</Forenames>
       <Text>Lieut. Thomas Vaughan (confirmed)</Text>
       <PageNumber>3108</PageNumber>
     </MainItem>
@@ -461,7 +495,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Livock</Key>
-      <Forenames>Flight Sub-</Forenames>
+      <Title>Flight</Title>
+      <Forenames>Sub-</Forenames>
       <Text>Lieut. Gerald Edward (confirmed)</Text>
       <PageNumber>3107</PageNumber>
     </MainItem>
@@ -477,8 +512,9 @@
   <ItemGroup>
     <MainItem>
       <Key>McClean</Key>
-      <Forenames>Flight</Forenames>
-      <Text>Commander Francis Kennedy (confirmed)</Text>
+      <Title>Flight Commander</Title>
+      <Forenames>Francis Kennedy</Forenames>
+      <Text>(confirmed)</Text>
       <PageNumber>3108</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -501,7 +537,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Medlicott</Key>
-      <Forenames>Flight Sub-</Forenames>
+      <Title>Flight</Title>
+      <Forenames>Sub-</Forenames>
       <Text>Lieut. Stephen (confirmed)</Text>
       <PageNumber>2846</PageNumber>
     </MainItem>
@@ -517,7 +554,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Moore</Key>
-      <Forenames>Flight Sub-</Forenames>
+      <Title>Flight</Title>
+      <Forenames>Sub-</Forenames>
       <Text>Lieut. William Geoffrey (confirmed)</Text>
       <PageNumber>3108</PageNumber>
     </MainItem>
@@ -525,8 +563,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Murphy</Key>
-      <Forenames>Flight</Forenames>
-      <Text>Lieut. Cuthbert Morgan (confirmed)</Text>
+      <Title>Flight Lieut.</Title>
+      <Forenames>Cuthbert Morgan</Forenames>
+      <Text>(confirmed)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -541,7 +580,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Newton-Clare</Key>
-      <Forenames>Flight Sub</Forenames>
+      <Title>Flight</Title>
+      <Forenames>Sub</Forenames>
       <Text>Lieut. Walter Shuckfieid (confirmed)</Text>
       <PageNumber>3108</PageNumber>
     </MainItem>
@@ -556,8 +596,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, The Hon. Desmond (Flight Lieut)</Text>
+      <Key>O'Brien</Key>
+      <Title>The Hon.</Title>
+      <Forenames>Desmond</Forenames>
+      <Text>(Flight Lieut)</Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -588,7 +630,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Perry</Key>
-      <Forenames>Flight Sub-</Forenames>
+      <Title>Flight</Title>
+      <Forenames>Sub-</Forenames>
       <Text>Lieut. Philip C. Vere (confirmed)</Text>
       <PageNumber>1319</PageNumber>
     </MainItem>
@@ -596,8 +639,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Pigott</Key>
-      <Forenames>Flight</Forenames>
-      <Text>Lieut. Joseph R. W. Smyth (confirmed)</Text>
+      <Title>Flight Lieut.</Title>
+      <Forenames>Joseph R. W. Smyth</Forenames>
+      <Text>(confirmed)</Text>
       <PageNumber>3108</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -612,7 +656,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Price</Key>
-      <Forenames>Flight Sub</Forenames>
+      <Title>Flight</Title>
+      <Forenames>Sub</Forenames>
       <Text>Lieut. Gny William (confirmed)</Text>
       <PageNumber>1979</PageNumber>
     </MainItem>
@@ -660,7 +705,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rutland</Key>
-      <Forenames>Flight Sub-</Forenames>
+      <Title>Flight</Title>
+      <Forenames>Sub-</Forenames>
       <Text>Lieut. Frederick Joseph (confirmed)</Text>
       <PageNumber>2626</PageNumber>
     </MainItem>
@@ -668,7 +714,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Scott</Key>
-      <Forenames>Flight Sub-</Forenames>
+      <Title>Flight</Title>
+      <Forenames>Sub-</Forenames>
       <Text>Lieut. George f Herbert (confirmed)</Text>
       <PageNumber>ibid,</PageNumber>
     </MainItem>
@@ -683,15 +730,25 @@
   <ItemGroup>
     <MainItem>
       <Key>Smith</Key>
-      <Forenames>Flight Sub-</Forenames>
+      <Title>Flight</Title>
+      <Forenames>Sub-</Forenames>
       <Text>Lieut. Charles \ H. Chichester (confirmed)</Text>
       <PageNumber>1319</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>Stewart</Key>
+      <Forenames>Harry</Forenames>
+      <Text>(Flight Lieut)</Text>
+      <PageNumber>6</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Strong</Key>
-      <Forenames>Flight Sub-</Forenames>
+      <Title>Flight</Title>
+      <Forenames>Sub-</Forenames>
       <Text>Lieut. Francis Warrington (confirmed)</Text>
       <PageNumber>2625</PageNumber>
     </MainItem>
@@ -715,7 +772,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wakeley</Key>
-      <Forenames>Flight Sub-</Forenames>
+      <Title>Flight</Title>
+      <Forenames>Sub-</Forenames>
       <Text>Lieut. Percy E. Hunt (confirmed)</Text>
       <PageNumber>1978</PageNumber>
     </MainItem>
@@ -723,16 +781,18 @@
   <ItemGroup>
     <MainItem>
       <Key>Watson</Key>
-      <Forenames>Flight Sub-Lieut Ken-</Forenames>
-      <Text>neth Falshaw (confirmed) ...</Text>
+      <Title>Flight</Title>
+      <Forenames>Sub-</Forenames>
+      <Text>Lieut Kenneth Falshaw (confirmed) ...</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Welsh</Key>
-      <Forenames>Flight Sub-Lieut William Laurie</Forenames>
-      <Text>(confirmed)</Text>
+      <Title>Flight</Title>
+      <Forenames>Sub-</Forenames>
+      <Text>Lieut William Laurie (confirmed)</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -771,12 +831,12 @@
   <ItemGroup>
     <MainItem>
       <Key>Wood</Key>
-      <Forenames>Flight Sub-Lieut James C. Peter</Forenames>
-      <Text>(confirmed)</Text>
+      <Title>Flight</Title>
+      <Forenames>Sub-</Forenames>
+      <Text>Lieut James C. Peter (confirmed)</Text>
       <PageNumber>2626</PageNumber>
     </MainItem>
   </ItemGroup>
-  <CategoryTitle>ADVERTISEMENTS</CategoryTitle>
   <ItemGroup>
     <MainItem>
       <Key>Agricultural</Key>

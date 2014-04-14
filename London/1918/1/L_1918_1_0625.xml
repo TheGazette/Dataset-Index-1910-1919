@@ -399,7 +399,7 @@
       <PageNumber>3000</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Lt</Text>
+      <Text>Lt.</Text>
       <PageNumber>3762</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -539,6 +539,14 @@
       <Forenames>H. J.</Forenames>
       <Text>(2nd Lt.)</Text>
       <PageNumber>3007</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Boiravdlle</Key>
+      <Forenames>G. A. C.</Forenames>
+      <Text>(lit.)</Text>
+      <PageNumber>150</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -735,7 +743,9 @@
       <Key>Drake</Key>
       <Title>temp. Lt.</Title>
       <Forenames>A. J. A.</Forenames>
-      <Text>, D.C.M. .(Lt.)</Text>
+      <Text>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>1237</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -827,7 +837,9 @@
     <MainItem>
       <Key>Dunokley</Key>
       <Forenames>P. J.</Forenames>
-      <Text>(lit.) ISO Dunham, H. H. (2nd Lt.)</Text>
+      <Text>
+        <Honour>ISO</Honour>
+      </Text>
       <PageNumber>3007</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -972,8 +984,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Emmott</Key>
-      <Forenames>R. St</Forenames>
-      <Text>. B. (2nd lit.)</Text>
+      <Forenames>R. St. B</Forenames>
+      <Text>. (2nd lit.)</Text>
       <PageNumber>179</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1086,8 +1098,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Farnon</Key>
-      <Forenames>L. R. St</Forenames>
-      <Text>. J. (2nd lit.)</Text>
+      <Forenames>L. R. St. J</Forenames>
+      <Text>. (2nd lit.)</Text>
       <PageNumber>498</PageNumber>
     </MainItem>
   </ItemGroup>

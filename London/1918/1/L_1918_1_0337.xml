@@ -62,7 +62,10 @@
       <Key>Follett</Key>
       <Title>Maj. (A./Lt.-Col.)</Title>
       <Forenames>G. B. S.</Forenames>
-      <Text>, M.V.O., D.S.O. (Brevet Lt.Col.)</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>10</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -117,7 +120,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Foord</Key>
-      <Text>. Lt. E. A. (Flying Offr.)</Text>
+      <Title>Lt.</Title>
+      <Forenames>E. A.</Forenames>
+      <Text>(Flying Offr.)</Text>
       <PageNumber>3292</PageNumber>
     </MainItem>
     <SubItem>
@@ -166,7 +171,9 @@
       <PageNumber>2055</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Capt. S. H., D.S.O. (temp. .Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3379</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -239,7 +246,9 @@
       <PageNumber>1885</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>temp. Lt. G. J., M.C. (temp. Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1053</PageNumber>
     </SubItem>
     <KeyDitto>-—</KeyDitto>
@@ -277,7 +286,9 @@
       <PageNumber>3549</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>temp. Capt. R.' H. (ceases to be empld. as an Asst. Instr., M.G.C.)</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>715</PageNumber>
     </SubItem>
     <SubItem>
@@ -290,7 +301,9 @@
       <Key>Forbes</Key>
       <Title>temp.</Title>
       <Forenames>Capt</Forenames>
-      <Text>, W. (M.G.C.) (temp. Lt., corr. of rank), Sub. Not,</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>421</PageNumber>
     </MainItem>
     <SubItem>
@@ -307,7 +320,10 @@
       <Key>Forbes-Robertson</Key>
       <Title>Capt.</Title>
       <Forenames>J.</Forenames>
-      <Text>, D.S.O., M.C. (to comd. a Bn. and be temp. Lt.-Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>246</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -420,7 +436,9 @@
       <PageNumber>3733</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>temp. Capt. D., M.D. (rel. eommh.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>1157</PageNumber>
     </SubItem>
     <SubItem>
@@ -544,7 +562,9 @@
       <PageNumber>818</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>temp. Lt.-Col. J., C.M.G. (rel. temp, rank on vacating comd. of a Trg. Res. Bn. and be Hon. Lt.-Col.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>2134</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -561,6 +581,7 @@
     <SubItem>
       <Text>
         <PageNumber>3834</PageNumber>
+        <Honour>C.M.G.</Honour>
       </Text>
       <PageNumber>1638</PageNumber>
     </SubItem>

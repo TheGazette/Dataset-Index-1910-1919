@@ -85,8 +85,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Farrell, Harward Patrick (temporary Maj.)</Text>
+      <Key>O'Farrell</Key>
+      <Forenames>Harward Patrick</Forenames>
+      <Text>(temporary Maj.)</Text>
       <PageNumber>9668</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -532,7 +533,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Chaytor</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, and Adjt. J. C. (temporary Capt., to be supernumerary)</Text>
       <PageNumber>10900</PageNumber>
     </MainItem>
@@ -593,8 +594,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Glover</Key>
-      <Forenames>Guy</Forenames>
-      <Text>de C. (Capt.)</Text>
+      <Forenames>Guy de C</Forenames>
+      <Text>. (Capt.)</Text>
       <PageNumber>9972</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -603,7 +604,9 @@
       <Key>Gunner</Key>
       <Title>Lieut.</Title>
       <Forenames>F. H.</Forenames>
-      <Text>, D.S.O. (temporary Capt., and to be supernumerary)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>10557</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -754,7 +757,9 @@
       <Key>Mayne</Key>
       <Title>Brevet-Col.</Title>
       <Forenames>George N.</Forenames>
-      <Text>, C.B. (to command 10th Bat.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>10113</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -773,8 +778,8 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Title>2nd Lieut.</Title>
-      <Forenames>R. R. O</Forenames>
-      <Text>'C. (temporary Lieut., and to be supernumerary) ...</Text>
+      <Forenames>R. R. O'C</Forenames>
+      <Text>. (temporary Lieut., and to be supernumerary) ...</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1029,8 +1034,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>La Bere</Forenames>
+      <Key>De La</Key>
+      <Forenames>Bere</Forenames>
       <Text>, 2nd Lieut. I. (antedated)</Text>
       <PageNumber>10148</PageNumber>
     </MainItem>

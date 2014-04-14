@@ -245,7 +245,9 @@
     <MainItem>
       <Key>Goulden</Key>
       <Forenames>E. A.</Forenames>
-      <Text>, M.D. (Capt,)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>9733</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -559,7 +561,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Grant</Key>
-      <Text>A. (2nd Lt.)</Text>
+      <Forenames>A.</Forenames>
+      <Text>(2nd Lt.)</Text>
       <PageNumber>11917</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -649,7 +652,7 @@
       <PageNumber>11464</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Temp Capt</Text>
+      <Text>Temp Capt.</Text>
       <PageNumber>11464</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1262,7 +1265,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Green</Key>
-      <Text>A. G. (2nd Lt.)</Text>
+      <Forenames>A. G.</Forenames>
+      <Text>(2nd Lt.)</Text>
       <PageNumber>12929</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1543,7 +1547,9 @@
     <MainItem>
       <Key>Greene</Key>
       <Forenames>G. W.</Forenames>
-      <Text>, M.D. (Capt.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>10396</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1753,7 +1759,10 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>W. W.</Forenames>
-      <Text>, M.D., F.R.C.S. (Edin.) (Capt.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>9753</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1956,7 +1965,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gresly</Key>
-      <Text>W. (2nd Lt.)</Text>
+      <Forenames>W.</Forenames>
+      <Text>(2nd Lt.)</Text>
       <PageNumber>11216</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2097,7 +2107,10 @@
       <Key>Griffith</Key>
       <Title>Lt.</Title>
       <Forenames>A. D.</Forenames>
-      <Text>, M.D., F.R.C.S. (correction of date)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>12184</PageNumber>
     </MainItem>
   </ItemGroup>

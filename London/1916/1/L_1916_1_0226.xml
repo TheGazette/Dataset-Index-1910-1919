@@ -855,7 +855,10 @@
     <MainItem>
       <Key>March</Key>
       <Forenames>C. H.</Forenames>
-      <Text>, the Earl of, M.V.O., D.S.O. (Lt.-Col.)</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>2948</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1115,7 +1118,9 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>I. C</Forenames>
-      <Text>, M.D. (Capt.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>1672</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1577,8 +1582,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Mather</Key>
-      <Forenames>J. De V.</Forenames>
-      <Text>, M.D. (Capt.)</Text>
+      <Forenames>J. De V</Forenames>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>2948</PageNumber>
     </MainItem>
   </ItemGroup>

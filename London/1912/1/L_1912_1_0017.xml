@@ -577,7 +577,9 @@
       <Key>Chetwode</Key>
       <Title>Sir</Title>
       <Forenames>P. W.</Forenames>
-      <Text>, Bart. (Col.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>133</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -603,7 +605,9 @@
       <Key>Colleton</Key>
       <Title>Sir</Title>
       <Forenames>E. A. W.</Forenames>
-      <Text>, Bart. (Hon. Brig.-Gen.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>976</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1206,15 +1210,18 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connell, Lieut. H. G. (resigned)</Text>
+      <Key>O'Connell</Key>
+      <Title>Lieut.</Title>
+      <Forenames>H. G.</Forenames>
+      <Text>(resigned)</Text>
       <PageNumber>884</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donnell, H. (Col.)</Text>
+      <Key>O'Donnell</Key>
+      <Forenames>H.</Forenames>
+      <Text>(Col.)</Text>
       <PageNumber>1345</PageNumber>
     </MainItem>
   </ItemGroup>

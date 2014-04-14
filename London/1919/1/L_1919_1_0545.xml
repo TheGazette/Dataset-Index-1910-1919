@@ -5,7 +5,9 @@
       <Key>Bye</Key>
       <Title>Maj. (actg. Lt.-Col.)</Title>
       <Forenames>H. B. Tonson</Forenames>
-      <Text>. D.S.O. (rel. actg. rank of Lt.-Col. on ceasing to comd. a Bn.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3459</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -25,7 +27,9 @@
       <Key>Ryland</Key>
       <Title>temp. Capt.</Title>
       <Forenames>A.</Forenames>
-      <Text>, F.R.C.S. (rel. actg. rank of Maj. on reposting)</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>4169</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -161,8 +165,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. John, temp. Maj. F. J. (tod. to Ser. Bn.)</Text>
+      <Key>St. John</Key>
+      <Title>temp. Maj.</Title>
+      <Forenames>F. J.</Forenames>
+      <Text>(tod. to Ser. Bn.)</Text>
       <PageNumber>1325</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -183,8 +189,8 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Title>temp. 2nd Lt.</Title>
-      <Forenames>R. St</Forenames>
-      <Text>. A. (temp. Lt.)</Text>
+      <Forenames>R. St. A</Forenames>
+      <Text>. (temp. Lt.)</Text>
       <PageNumber>3981</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -201,19 +207,26 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. Lawrence. Opt. T. J. E. Gaisford, M.C. .{rel. actg. rank of Maj.)</Text>
+      <Key>St. Lawrence</Key>
+      <Title>Opt.</Title>
+      <Forenames>T. J. E. Gais-</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1762</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>rSt</Key>
-      <Text>. Ruth, temp. Lt. G. H. B., M.C. (trd. to Gen. List on appt. as profer. to Indian Army)</Text>
+      <Forenames>Ruth</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>880</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Trd. to Gen. List on appt. as Pirotor. to Ind. Army, Sub. Not. .:.</Text>
+      <Text>Trd. to Gen. List on appt. as Pirotor. to Ind. Army, Sub. Not. .:</Text>
       <PageNumber>207</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -248,7 +261,10 @@
     <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
   </Key>
   <Forenames>Sale</Forenames>
-  <Text>, temp. Capt. J. C, D.S.O., M.C. (actg. Maj.)</Text>
+  <Text>
+    <Honour>D.S.O.</Honour>
+    <Honour>M.C.</Honour>
+  </Text>
   <PageNumber>1045</PageNumber>
   <ItemGroup>
     <MainItem>
@@ -324,7 +340,7 @@
       <PageNumber>2059</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Rel. aotg. rank of Maj. on ceasing to be 2nd in comd./7th Bn.</Text>
+      <Text>Rel. aotg. rank of Maj. on ceasing to be 2nd in comd./7th Bn</Text>
       <PageNumber>3709</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -342,7 +358,9 @@
       </Key>
       <Title>temp. Lt.</Title>
       <Forenames>E. C. H.</Forenames>
-      <Text>, M.C. (actg. . Capt. whilst Education Offr.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3823</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -364,7 +382,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>H. M. B.</Forenames>
-      <Text>, D.S.O. (Adjt.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3977</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -375,7 +395,9 @@
       </Key>
       <Title>temp. Hon. Maj.</Title>
       <Forenames>I</Forenames>
-      <Text>O.B.E. (rel. commn., and retains hon. rank of .Maj.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>2546</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -449,7 +471,9 @@
       </Key>
       <Title>Maj. (temp. Maj.-Gen.)</Title>
       <Forenames>W. G. H.</Forenames>
-      <Text>, D.S.O. (ILt.-Coi., retain temp, rank and rem. seed.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>1760</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -553,14 +577,18 @@
   <ItemGroup>
     <MainItem>
       <Key>Saltmarsh</Key>
-      <Text>. Cadet D. A. D. (temp</Text>
+      <Title>Cadet</Title>
+      <Forenames>D. A. D.</Forenames>
+      <Text>(temp</Text>
       <PageNumber>3135</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Salto</Key>
-      <Text>. temp. Lt. A. B. (rel. aotg. rank of Capt.)</Text>
+      <Title>temp. Lt.</Title>
+      <Forenames>A. B.</Forenames>
+      <Text>(rel. aotg. rank of Capt.)</Text>
       <PageNumber>3847</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -582,7 +610,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Saimmoms</Key>
-      <Text>. temp. Lt. H. (rel. common, on acc. of il-health</Text>
+      <Title>temp. Lt.</Title>
+      <Forenames>H.</Forenames>
+      <Text>(rel. common, on acc. of il-health</Text>
       <PageNumber>4105</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -643,7 +673,10 @@
         <KeyDitto>___ ___ ___ .</KeyDitto>
       </Key>
       <Title>Capt. and Bt. Maj.</Title>
-      <Text>(aotg. Maj.KG. E., D.S.O. {actg. Lt.-Col.)</Text>
+      <Text>
+        <Honour>KG</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>496</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -665,7 +698,9 @@
       </Key>
       <Title>Lt. (temp. Capt.)</Title>
       <Forenames>M. T.</Forenames>
-      <Text>, M.C. (retains actg. rank of Maj. whilst 2nd in comd., 12th Bn., Lpool R.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3979</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -743,7 +778,10 @@
       <Key>Samut</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>A.</Forenames>
-      <Text>, C.B., C.M.G. (ret. pay, rel. grading and rank as temp. Ord. Offr., fit CI., and .temp. Col., and retains rank of Col.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>3871</PageNumber>
     </MainItem>
     <SubItem>
@@ -802,7 +840,9 @@
       </Key>
       <Title>Capt. (temp. Lt.-Col.)</Title>
       <Forenames>S. E.</Forenames>
-      <Text>, M.C. (iMaj., and retains temp, rank)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1180</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -856,7 +896,9 @@
       </Key>
       <Title>Dr.</Title>
       <Forenames>L.</Forenames>
-      <Text>&amp;, M.D. (Controller of Med. S e r v s., Q.iM.A.A.C.V. coir</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>690</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -907,7 +949,9 @@
       </Key>
       <Title>temp. Lt.</Title>
       <Forenames>E. R.</Forenames>
-      <Text>, M.C. (rel. actg. rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>269</PageNumber>
     </MainItem>
     <SubItem>
@@ -944,7 +988,9 @@
       </Key>
       <Title>Cadet</Title>
       <Forenames>H. J.</Forenames>
-      <Text>, M.M. (temp. 2nd Lt.)</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>3467</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -31,7 +31,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Page</Key>
-      <Text>F. (Capt.)</Text>
+      <Forenames>F.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -743,7 +744,9 @@
       <Key>Edwards</Key>
       <Title>Sir</Title>
       <Forenames>J. H. P. C</Forenames>
-      <Text>, Bart. (Lieut.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -816,15 +819,19 @@
   <SubSectionTitle>25th Battalion</SubSectionTitle>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>John, Hon. R. T. (Adjt.)</Text>
+      <Key>St. John</Key>
+      <Title>Hon.</Title>
+      <Forenames>R. T.</Forenames>
+      <Text>(Adjt.)</Text>
       <PageNumber>5637</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>John, Hon. R. T. (temporary Capt.)</Text>
+      <Key>St. John</Key>
+      <Title>Hon.</Title>
+      <Forenames>R. T.</Forenames>
+      <Text>(temporary Capt.)</Text>
       <PageNumber>5637</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -840,8 +847,8 @@
     <MainItem>
       <Key>Wheeley</Key>
       <Title>Capt.</Title>
-      <Forenames>C. St</Forenames>
-      <Text>. G. (resigned)</Text>
+      <Forenames>C. St. G</Forenames>
+      <Text>. (resigned)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -899,7 +906,9 @@
       <Key>Brocklehurst</Key>
       <Title>Sir</Title>
       <Forenames>P. L.</Forenames>
-      <Text>, Bart. ; (Lieut.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>6554</PageNumber>
     </MainItem>
   </ItemGroup>

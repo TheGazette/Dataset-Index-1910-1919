@@ -272,7 +272,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Tew</Key>
-      <Text>Lt. (temp.) (temp. Maj.) T. P. (Lt., temp. Maj.)</Text>
+      <Title>Lt. (temp.) (temp. Maj.)</Title>
+      <Forenames>T. P.</Forenames>
+      <Text>(Lt., temp. Maj.)</Text>
       <PageNumber>8445</PageNumber>
     </MainItem>
     <SubItem>
@@ -1366,7 +1368,9 @@
       </Key>
       <Title>2nd Lt.</Title>
       <Forenames>J. R.</Forenames>
-      <Text>, M.C. (Unatt. for T.F.) (trd.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8685</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1552,7 +1556,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>R. R.</Forenames>
-      <Text>, M.C. (Arg. and S.H.)(Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8082</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1585,7 +1591,9 @@
       </Key>
       <Title>Capt. (temp. Maj.)</Title>
       <Forenames>S. J.</Forenames>
-      <Text>, D.S.O. (Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7417</PageNumber>
     </MainItem>
   </ItemGroup>

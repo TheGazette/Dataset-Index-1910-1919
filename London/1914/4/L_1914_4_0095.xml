@@ -168,8 +168,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Adam</Key>
-      <Forenames>Arthur</Forenames>
-      <Text>de Bels (temporary Capt.)</Text>
+      <Forenames>Arthur de Bels</Forenames>
+      <Text>(temporary Capt.)</Text>
       <PageNumber>8856</PageNumber>
       <PageNumber>9267</PageNumber>
     </MainItem>
@@ -832,7 +832,9 @@
       <Key>Kerr</Key>
       <Title>Col.</Title>
       <Forenames>Mark A.</Forenames>
-      <Text>. C.B. (to command 13th Battalion)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>7903</PageNumber>
     </MainItem>
     <SubItem>
@@ -1215,7 +1217,9 @@
       <Key>Schletter</Key>
       <Title>Brevet Col.</Title>
       <Forenames>Percy</Forenames>
-      <Text>, C.B. (to command 16th Battalion)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>10447</PageNumber>
     </MainItem>
   </ItemGroup>

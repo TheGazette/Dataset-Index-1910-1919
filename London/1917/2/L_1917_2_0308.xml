@@ -3,7 +3,10 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>John, Supern. Maj. E. F., D.S.O. (restd. to estab.)</Text>
+      <Forenames>John</Forenames>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5848</PageNumber>
     </MainItem>
     <SubItem>
@@ -45,22 +48,28 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>Leger, 2nd Lt. W. B. '(Lt.)</Text>
+      <Key>St. Leger</Key>
+      <Title>2nd Lt.</Title>
+      <Forenames>W. B.</Forenames>
+      <Text>'(Lt.)</Text>
       <PageNumber>4425</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>Maur, 2nd Lt. R. W. Al. (date of promn. to 2nd Lt.)</Text>
+      <Key>St. Maur</Key>
+      <Title>2nd Lt.</Title>
+      <Forenames>R. W. Al</Forenames>
+      <Text>. (date of promn. to 2nd Lt.)</Text>
       <PageNumber>4575</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>Onge, Cadet J. J. L. (temp 2nd Lt., attd.)</Text>
+      <Key>St. Onge</Key>
+      <Title>Cadet</Title>
+      <Forenames>J. J. L.</Forenames>
+      <Text>(temp 2nd Lt., attd.)</Text>
       <PageNumber>5602</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -69,7 +78,9 @@
       <Key>Sainton</Key>
       <Title>2nd Lt.</Title>
       <Forenames>F. C</Forenames>
-      <Text>, M.C. (date of commh.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5351</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -118,7 +129,9 @@
       <Key>Salier</Key>
       <Title>Capt.</Title>
       <Forenames>E. L.</Forenames>
-      <Text>, M..C. (Bt. Maj.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>5466</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -289,7 +302,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Salt</Key>
-      <Text>temp. 2nd Lt. J. H. (actg. Lt.)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>J. H.</Forenames>
+      <Text>(actg. Lt.)</Text>
       <PageNumber>5346</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -549,7 +564,9 @@
       </Key>
       <Title>temp. Capt.</Title>
       <Forenames>G. S.</Forenames>
-      <Text>, M.D. (temp. Maj.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>3759</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -567,7 +584,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Samut</Key>
-      <Text>-2nd Lt. (now actg. Capt.) A. J., M.C. date of commn.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5351</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -645,7 +664,7 @@
       <PageNumber>3918</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>.Temp. Lt</Text>
+      <Text>.Temp. Lt.</Text>
       <PageNumber>4885</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1002,7 +1021,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>J. E.</Forenames>
-      <Text>, M.D. (temp. Lt.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>5836</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1087,7 +1108,7 @@
       <PageNumber>4044</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>. Aipptd. to a 'Bn</Text>
+      <Text>. Aipptd. to a 'Bn.</Text>
       <PageNumber>6365</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1102,7 +1123,7 @@
       <PageNumber>4575</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Comfd</Text>
+      <Text>Comfd.</Text>
       <PageNumber>5075</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1167,7 +1188,10 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>iMaj. (temp. Lt.-CoL) C. E. P. D.S.O. {Bt. Lt.-Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>5465</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1384,7 +1408,10 @@
       </Key>
       <Title>temp. Col.</Title>
       <Forenames>P. W. G.</Forenames>
-      <Text>, D.S.O., M.B., 'F.R.C.S. (corr. of name)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>3311</PageNumber>
     </MainItem>
   </ItemGroup>

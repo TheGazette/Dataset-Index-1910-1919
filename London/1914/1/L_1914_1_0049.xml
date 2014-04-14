@@ -132,7 +132,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Maston</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>126</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -146,8 +146,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mathews</Key>
-      <Forenames>M. V.</Forenames>
-      <Text>de P</Text>
+      <Forenames>M. V. de P</Forenames>
       <PageNumber>1025</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -167,7 +166,16 @@
       <PageNumber>229</PageNumber>
     </MainItem>
   </ItemGroup>
-  <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
+      </Key>
+      <Forenames>M. E.</Forenames>
+      <PageNumber>1132</PageNumber>
+      <PageNumber>1211</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>
@@ -746,8 +754,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, Surgeon Lieut.-Col. J</Text>
+      <Key>O'Neill</Key>
+      <Title>Surgeon Lieut.-Col.</Title>
+      <Forenames>J.</Forenames>
       <PageNumber>374</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -448,7 +448,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sr</Key>
-      <Text>. Clair-Morford, Albert Clarence (temporary Lieut.)</Text>
+      <Forenames>Clair-Morford</Forenames>
+      <Text>, Albert Clarence (temporary Lieut.)</Text>
       <PageNumber>7219</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -609,7 +610,10 @@
       <Key>Aston</Key>
       <Title>Col.</Title>
       <Forenames>Second Commandant</Forenames>
-      <Text>Sir George Grey, K.C.B., A.D.C., (temporary Brigadier-General) ...</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+        <Honour>A.D.C.</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -625,7 +629,9 @@
     <MainItem>
       <Key>Green</Key>
       <Forenames>Bandmaster Second</Forenames>
-      <Text>Lieut. Benjamin Stephen, M.V.O. (Director of Music and Hon. Lieut.)</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>5450</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -641,7 +647,9 @@
     <MainItem>
       <Key>Paris</Key>
       <Title>Snpy. Lieut.</Title>
-      <Text>-Co), and Brevet Col. Archibald, C.B. (supplementary half-pay list)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>5364</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -741,7 +749,9 @@
     <MainItem>
       <Key>Miller</Key>
       <Forenames>Bandmaster Second</Forenames>
-      <Text>Lieut. George John, M.V.O. (Director of Music and Hon. Major)</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>5450</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -774,7 +784,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rathborne</Key>
-      <Text>.CharlesE. Henry(Capt.)</Text>
+      <Text>CharlesE. Henry(Capt.)</Text>
       <PageNumber>6896</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -799,7 +809,9 @@
     <MainItem>
       <Key>Saunders</Key>
       <Forenames>Frederick J.</Forenames>
-      <Text>, D.S.O. (Major)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5159</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -871,7 +883,9 @@
     <MainItem>
       <Key>Adamson</Key>
       <Forenames>Percy A. Nonas</Forenames>
-      <Text>, R.D. (Senior Engineer)</Text>
+      <Text>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>5159</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1035,7 +1049,9 @@
       <Key>Armitage</Key>
       <Title>Commander</Title>
       <Forenames>Albert Borlase</Forenames>
-      <Text>, R.D. (retired list)</Text>
+      <Text>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>5450</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1169,8 +1185,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Bayuham</Key>
-      <Forenames>Walter</Forenames>
-      <Text>de Mouchet, R.D. (temporary Commander)</Text>
+      <Forenames>Walter de Mouchet</Forenames>
+      <Text>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>6395</PageNumber>
     </MainItem>
   </ItemGroup>

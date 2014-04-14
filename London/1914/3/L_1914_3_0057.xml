@@ -128,8 +128,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Linton</Key>
-      <Forenames>Lieut-</Forenames>
-      <Text>' Henry, M.V.O. (resigned)</Text>
+      <Title>Lieut-</Title>
+      <Text>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>5556</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -213,7 +215,9 @@
     <MainItem>
       <Key>Smith</Key>
       <Forenames>Horace M.</Forenames>
-      <Text>, D.S.O. (temporary Lieut.-Col., 5th Bat.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6976</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -361,7 +365,9 @@
       <Key>Glover</Key>
       <Title>Col.</Title>
       <Forenames>Robert F. B.</Forenames>
-      <Text>, D.S.O. (to command 12th Bat.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7664</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -802,7 +808,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Peploe</Key>
-      <Text>. Lieut. James R. (Adjt.)</Text>
+      <Title>Lieut.</Title>
+      <Forenames>James R.</Forenames>
+      <Text>(Adjt.)</Text>
       <PageNumber>7479</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -835,7 +843,9 @@
     <MainItem>
       <Key>Rennie</Key>
       <Forenames>George A. P.</Forenames>
-      <Text>, D.S.O. (temporary Lieut.-Col., 7th Bat.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6976</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -849,8 +859,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. Aubyn, Maj. the Hon. Edward S. (to command 12th Bat. and temporary Lieut.-Gol.)</Text>
+      <Key>St. Aubyn</Key>
+      <Title>Maj. the Hon.</Title>
+      <Forenames>Edward S.</Forenames>
+      <Text>(to command 12th Bat. and temporary Lieut.-Gol.)</Text>
       <PageNumber>7664</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1099,7 +1111,10 @@
     <MainItem>
       <Key>Strickland</Key>
       <Forenames>Edward P.</Forenames>
-      <Text>, C.M.G., D.S.O. (Lieut.-Col.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5662</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1124,7 +1139,9 @@
     <MainItem>
       <Key>Wright</Key>
       <Forenames>Bache A.</Forenames>
-      <Text>, D.S.O. (temporary Lieut.-Col., 17th Bat.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6976</PageNumber>
     </MainItem>
   </ItemGroup>

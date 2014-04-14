@@ -4,11 +4,16 @@
     <MainItem>
       <Key>Hamilton</Key>
       <Forenames>W. H.</Forenames>
-      <Text>, D.S.O., F.R.C.S</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>F.R.C.S</Honour>
+      </Text>
       <PageNumber>1800</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>(Bt.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>2998</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -16,11 +21,16 @@
     <MainItem>
       <Key>Hunt</Key>
       <Forenames>S.</Forenames>
-      <Text>, M.B Leicester, C. J. H., M.D., F.R.C.S</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+        <Honour>F.R.C.S</Honour>
+      </Text>
       <PageNumber>1800</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>(Bt.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>1800</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -28,7 +38,10 @@
     <MainItem>
       <Key>Leonard</Key>
       <Forenames>W.H.</Forenames>
-      <Text>, F.R.C.S. (Bt.)</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>2998</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -45,11 +58,16 @@
       <Key>McCarrison</Key>
       <Title>Maj.</Title>
       <Forenames>R.</Forenames>
-      <Text>, M.B. (Bt.) ... Mackelvie, Maj. (temp. Lt.-Col.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>3750</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>M., M.B., F.R.C.S. Edin,(Bt.)</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>2998</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -71,8 +89,11 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Meara, E. J., F.R.C.S</Text>
+      <Key>O'Meara</Key>
+      <Forenames>E. J.</Forenames>
+      <Text>
+        <Honour>F.R.C.S</Honour>
+      </Text>
       <PageNumber>2998</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -96,7 +117,9 @@
     <MainItem>
       <Key>iDelany</Key>
       <Forenames>T. H.</Forenames>
-      <Text>, M.D. (corr.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>3003</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -106,7 +129,9 @@
     <MainItem>
       <Key>James</Key>
       <Forenames>S. P.</Forenames>
-      <Text>, M.D</Text>
+      <Text>
+        <Honour>M.D</Honour>
+      </Text>
       <PageNumber>1238</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -200,7 +225,9 @@
     <MainItem>
       <Key>Hamilton</Key>
       <Forenames>A. F.</Forenames>
-      <Text>, MLB., F.R.C.S. (date of seniority)</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>2073</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -224,7 +251,9 @@
     <MainItem>
       <Key>James</Key>
       <Forenames>G. G.</Forenames>
-      <Text>, M.B. (Bt.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>1800</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -319,7 +348,9 @@
     <MainItem>
       <Key>Nesfiedd</Key>
       <Forenames>V. B.</Forenames>
-      <Text>, F.R.C.S. (date of seniority)</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>2073</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -366,7 +397,9 @@
     <MainItem>
       <Key>Phillips</Key>
       <Forenames>J. A. S.</Forenames>
-      <Text>(Bt.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>1800</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -374,7 +407,9 @@
     <MainItem>
       <Key>Proctor</Key>
       <Forenames>A. H.</Forenames>
-      <Text>, M.D. (date of seniority)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>2073</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -419,7 +454,9 @@
     <MainItem>
       <Key>Dekny</Key>
       <Forenames>T. H.</Forenames>
-      <Text>, M.D. (to be Hon. Maj.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>2079</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -473,7 +510,9 @@
     <MainItem>
       <Key>Lee</Key>
       <Forenames>R.</Forenames>
-      <Text>, M.B. ISO Martin, ,C. de C, M.B</Text>
+      <Text>
+        <Honour>ISO</Honour>
+      </Text>
       <PageNumber>150</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1013,6 +1052,13 @@
       <Forenames>Ram Bhalla</Forenames>
       <Text>(temp.)</Text>
       <PageNumber>497</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Netto</Key>
+      <Forenames>F</Forenames>
+      <PageNumber>3006</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

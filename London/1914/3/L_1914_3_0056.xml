@@ -391,8 +391,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, Major Thomas H. (to command 7th Bat. and temporary Lieut.-Col.)</Text>
+      <Key>O'Brien</Key>
+      <Title>Major</Title>
+      <Forenames>Thomas H.</Forenames>
+      <Text>(to command 7th Bat. and temporary Lieut.-Col.)</Text>
       <PageNumber>7664</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -417,7 +419,9 @@
     <MainItem>
       <Key>Woodward</Key>
       <Forenames>Francis W.</Forenames>
-      <Text>, D.S.O. (Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7573</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -491,8 +495,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Robinson</Key>
-      <Forenames>Guy St</Forenames>
-      <Text>. G. (Capt.) ...</Text>
+      <Forenames>Guy St. G</Forenames>
+      <Text>. (Capt.) ...</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -540,7 +544,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Collins</Key>
-      <Text>. Capt. Robert J. (seconded)</Text>
+      <Title>Capt.</Title>
+      <Forenames>Robert J.</Forenames>
+      <Text>(seconded)</Text>
       <PageNumber>6796</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -557,7 +563,9 @@
     <MainItem>
       <Key>Foley</Key>
       <Forenames>Frank W</Forenames>
-      <Text>:, D.S.O. (temporary Lieut.-Col. 5th Bat.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6976</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -784,7 +792,9 @@
     <MainItem>
       <Key>Nunn</Key>
       <Forenames>Thomas H. C</Forenames>
-      <Text>, D.S.O. (Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7195</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -800,7 +810,9 @@
     <MainItem>
       <Key>Robinson</Key>
       <Forenames>Percy M.</Forenames>
-      <Text>, C.M.G. (temporary Lieut.-Col. 6th Bat.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>6976</PageNumber>
     </MainItem>
   </ItemGroup>

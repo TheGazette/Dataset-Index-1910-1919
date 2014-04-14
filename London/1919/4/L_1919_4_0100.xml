@@ -27,7 +27,10 @@
     <MainItem>
       <Key>Alban</Key>
       <Title>Capt. and Maj.</Title>
-      <Text>((A./Lt.Col.) Clifton Edward Rawdon Grant, D.S.O., 2nd Bar to D. S.O</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>D. S.O</Honour>
+      </Text>
       <PageNumber>15279</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -49,7 +52,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Allen</Key>
-      <Text>Lt. .(T./Capt.) Charles WdlliBm Edward, M.C., Member, Order of the British Empire</Text>
+      <Title>Lt.</Title>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>15455</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -71,9 +77,11 @@
       <Title>Capt. Evelyn.</Title>
       <Forenames>Prestwood Sey-</Forenames>
       <Text>mour, Companion, D.S.O</Text>
-      <PageNumber>12230</PageNumber>
     </MainItem>
   </ItemGroup>
+  <Honour>
+    <PageNumber>12230</PageNumber>
+  </Honour>
   <ItemGroup>
     <MainItem>
       <Key>
@@ -81,7 +89,9 @@
       </Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Robert Oandlish</Forenames>
-      <Text>D.S.O., Bar to D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>15283</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -90,7 +100,10 @@
       <Key>AMenlby</Key>
       <Title>Field-Marshal Sir</Title>
       <Forenames>Ed-</Forenames>
-      <Text>mund Henry Hiynman, G.C.B., G.C.M.G., created Viscount .(Viscount Allenby of Megiddo and of Felixstowe)</Text>
+      <Text>
+        <Honour>G.C.B.</Honour>
+        <Honour>G.C.M.G.</Honour>
+      </Text>
       <PageNumber>12890</PageNumber>
     </MainItem>
     <SubItem>
@@ -110,7 +123,10 @@
     <MainItem>
       <Key>Alston</Key>
       <Title>Capt. (A./Maj.)</Title>
-      <Text>(Llewelyn Arthur Augustus, M.C., Companion, D.S.O</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>15283</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -119,7 +135,9 @@
       <Key>Amy</Key>
       <Title>Maj.</Title>
       <Forenames>Archibald Craig</Forenames>
-      <Text>, M.D., Companion, D.S.O</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>15284</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -138,7 +156,11 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Cap</Forenames>
-      <Text>*. l(A./Lt.X)ol.) Francis, D.S.O., M.C., Bar to D.S.O</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>12215</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -168,7 +190,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>John</Forenames>
-      <Text>, K.C.B., H.M. Commissioner of Inland „ 'Revenue</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+      </Text>
       <PageNumber>15955</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -199,7 +223,10 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Robert</Forenames>
-      <Text>, M.D., Esquire, St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+        <Honour>Esquire, St. John of Jerusalem</Honour>
+      </Text>
       <PageNumber>13418</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -218,7 +245,10 @@
     <MainItem>
       <Key>Andrew</Key>
       <Forenames>T.</Forenames>
-      <Text>/Maj. William Cullen, M.C., Companion, D.S.O</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>12219</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -226,7 +256,9 @@
     <MainItem>
       <Key>Andrews</Key>
       <Title>Maj.</Title>
-      <Text>'(A./Lt.-Col.) George Henry, M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>15446</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -235,7 +267,9 @@
     <MainItem>
       <Key>Anmjand</Key>
       <Title>Lt.</Title>
-      <Text>-CM. (Frederick William Gadsby, D.S.O., Bar to D.S.O</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>15283</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -243,7 +277,10 @@
     <MainItem>
       <Key>Ammesley</Key>
       <Title>Lt.</Title>
-      <Text>^Col. and Bt. Col. Arthur Stephen Robert, Companion, St. Michael and St. George</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>Companion, St. Michael and St. George</Honour>
+      </Text>
       <PageNumber>12980</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -257,7 +294,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Appleton</Key>
-      <Text>Miss Edith Elizabeth. Officer, Order of the British Empire</Text>
+      <Title>Miss</Title>
+      <Forenames>Edith Elizabeth</Forenames>
+      <Text>. Officer, Order of the British Empire</Text>
       <PageNumber>15436</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -274,7 +313,9 @@
     <MainItem>
       <Key>Applin</Key>
       <Title>Lt.</Title>
-      <Text>-Cbl. Reginald Vincent Kempenfeldt,. D.S.O., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>15452</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -302,7 +343,10 @@
       <Key>Ar-eher-Shee</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Martin</Forenames>
-      <Text>, D.S.O., M.P.. Companion St. Michael and St. George</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>15436</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -336,7 +380,9 @@
     <MainItem>
       <Key>Armstrong</Key>
       <Forenames>Wing Gomdr</Forenames>
-      <Text>. (actg. Group Capt.) Bertie Harold Olivier, C.M.G., Companion Order of the Bath</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>15839</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -365,7 +411,9 @@
     <MainItem>
       <Key>Arnold</Key>
       <Forenames>T.</Forenames>
-      <Text>/Lt. Clement Broomhall, Companion, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>12219</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -440,7 +488,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Astor</Key>
-      <Text>Visot., Steward and Bailiff of the Ohiltem Hundreds</Text>
+      <Title>Visot.</Title>
+      <Text>, Steward and Bailiff of the Ohiltem Hundreds</Text>
       <PageNumber>13254</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -448,7 +497,9 @@
     <MainItem>
       <Key>Atkin</Key>
       <Title>Capt.</Title>
-      <Text>i(T./Ma.j.) Benjamin George, M.C., Companion, D.S.O</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>15284</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -476,7 +527,10 @@
         <KeyDitto>___ ___ ___ .</KeyDitto>
       </Key>
       <Title>Lt.-Col.</Title>
-      <Text>and Bt, Col. (T./ Brig.^Gen.) John Gardiner, C.M.G., Companion. Order of the (Bath ... ... -</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>15450</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -516,7 +570,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Bailev</Key>
-      <Text>Maj. and Bt. Lt.-Col. John Henry, O.B.E., Commander, Order of the British Empire -</Text>
+      <Title>Maj. and Bt. Lt.-Col.</Title>
+      <Forenames>John Henry</Forenames>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>15450</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -535,7 +593,10 @@
         <KeyDitto>___ ___ —___</KeyDitto>
       </Key>
       <Forenames>T.</Forenames>
-      <Text>/2nd Lt. Walter 'George, M.C., Companion, D.S.O</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>12219</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -552,7 +613,9 @@
       <Key>Raines</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Edgar Francis</Forenames>
-      <Text>lEardley, Companion, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>12980</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -580,7 +643,9 @@
     <MainItem>
       <Key>Baker</Key>
       <Title>Fit.</Title>
-      <Text>ILt. i(A./Wing Cdr.) Allan Hugh .Sancroft, M.B.E., .Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>12526</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -632,7 +697,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>John</Forenames>
-      <Text>, M.D., knighted</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>12418</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -656,7 +723,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Balfour</Key>
-      <Text>the Right. Hon. Arthur . , James, O.M., Lord President of H.M. Most Honourable Privy Council</Text>
+      <Text>
+        <Honour>O.M.</Honour>
+      </Text>
       <PageNumber>13243</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -683,7 +752,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Ball</Key>
-      <Text>Lt. (A./Capt.) George Her bert, Companion, D.S.O</Text>
+      <Title>Lt. (A./Capt.)</Title>
+      <Forenames>George Her</Forenames>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>12220</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -701,7 +774,9 @@
       <Key>Bance</Key>
       <Title>Col.</Title>
       <Forenames>Edward</Forenames>
-      <Text>, Esquire, St. John of Jerusalem</Text>
+      <Text>
+        <Honour>Esquire, St. John of Jerusalem</Honour>
+      </Text>
       <PageNumber>15052</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -709,7 +784,9 @@
     <MainItem>
       <Key>Banin</Key>
       <Forenames>Menahem Messa</Forenames>
-      <Text>, M.V.O., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>16099</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -743,8 +820,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Barclay</Key>
-      <Forenames>Colville Adrian</Forenames>
-      <Text>de Rune. C.B.E., M.V.O., H.M. Envoy Extraordinary and Minister Plenipotentiary to H.M. thp King of Sweden</Text>
+      <Forenames>Colville Adrian de Rune</Forenames>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>14674</PageNumber>
     </MainItem>
   </ItemGroup>

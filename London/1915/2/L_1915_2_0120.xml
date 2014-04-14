@@ -28,8 +28,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, George William (2nd Lieut.)</Text>
+      <Key>O'Brien</Key>
+      <Forenames>George William</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>3726</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -45,7 +46,9 @@
     <MainItem>
       <Key>Pakenham</Key>
       <Forenames>George</Forenames>
-      <Text>die la P. B., D. S.O. (Maj.)</Text>
+      <Text>
+        <Honour>D. S.O.</Honour>
+      </Text>
       <PageNumber>4996</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -78,7 +81,9 @@
       <Key>Pelly</Key>
       <Title>Brevet Col.</Title>
       <Forenames>John S.</Forenames>
-      <Text>, D.S.O. (relinquishes Ihis command)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3452</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -431,9 +436,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Grelle</Forenames>
-      <Text>, Vincent Charles (temporary 2nd Lieut.)</Text>
+      <Key>De Grelle</Key>
+      <Forenames>Vincent Charles</Forenames>
+      <Text>(temporary 2nd Lieut.)</Text>
       <PageNumber>3556</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -591,7 +596,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Heagerty</Key>
-      <Text>. William T. (temporary 2nd Lieut.)</Text>
+      <Forenames>William T.</Forenames>
+      <Text>(temporary 2nd Lieut.)</Text>
       <PageNumber>3556</PageNumber>
     </MainItem>
     <SubItem>
@@ -754,7 +760,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Molineux</Key>
-      <Text>. Henry G. King (tempo, rary 2nd Lieut.)</Text>
+      <Forenames>Henry G.</Forenames>
+      <Text>King (tempo, rary 2nd Lieut.)</Text>
       <PageNumber>3248</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -844,14 +851,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Rohde</Key>
-      <Text>. Robert Hawkins (2nd Lieut.)</Text>
+      <Forenames>Robert Hawkins</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>4411</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. John, Terence Alexander (temporary 2nd Lieut.)</Text>
+      <Key>St. John</Key>
+      <Forenames>Terence Alexander</Forenames>
+      <Text>(temporary 2nd Lieut.)</Text>
       <PageNumber>3430</PageNumber>
     </MainItem>
   </ItemGroup>

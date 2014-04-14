@@ -5,7 +5,9 @@
       <Key>Smith</Key>
       <Title>the Right Hon. Sir</Title>
       <Forenames>Frederick Edwin</Forenames>
-      <Text>, Bt., K.C., Lord High Chancellor of Great Britain</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>711</PageNumber>
     </MainItem>
     <SubItem>
@@ -31,7 +33,9 @@
       </Key>
       <Title>Lt.-Col.</Title>
       <Forenames>George Edward Stan-</Forenames>
-      <Text>ley, Companion, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>56</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -53,7 +57,10 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>Ian Mackintosh</Forenames>
-      <Text>, M.C., Companion, D.S.O</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>55</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -62,7 +69,9 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>r T./Maj. (T./Col.) James Aubrey, Companion, St. Michael and St. George</Text>
+      <Text>
+        <Honour>Companion, St. Michael and St. George</Honour>
+      </Text>
       <PageNumber>5</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -155,7 +164,11 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>T.</Forenames>
-      <Text>/Lt.-Col. Robert Arthur, D.S.O., M.C., Bar to D.S.O</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>2364</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -202,7 +215,9 @@
       </Key>
       <Title>Maj.-Gen.</Title>
       <Forenames>Sydenham Camp-</Forenames>
-      <Text>bell Crquhart, CB., Knight Commander, St. Miohael and, St. George</Text>
+      <Text>
+        <Honour>CB</Honour>
+      </Text>
       <PageNumber>52</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -247,11 +262,16 @@
       </Key>
       <Title>Lt. (A./Lt.-Col.)</Title>
       <Forenames>Wilfrid Ca-</Forenames>
-      <Text>bourn, D.S.O., M.C., Bar toD.S.O. .. .-</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>17</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Companion, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>2365</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -278,7 +298,9 @@
       <Key>Smyth</Key>
       <Title>Qrmr. and Maj.</Title>
       <Forenames>Benjamin</Forenames>
-      <Text>, M.V.O., Officer, Order of the .British Empire</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>85</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -303,7 +325,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>John Cecil</Forenames>
-      <Text>, M.D., Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>473</PageNumber>
     </MainItem>
     <SubItem>
@@ -316,7 +340,9 @@
       <Key>Smythe</Key>
       <Title>Maj.</Title>
       <Forenames>Rolsa Eric</Forenames>
-      <Text>, M.C., Companion. D.R.O</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1614</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -325,7 +351,10 @@
       <Key>Smythe</Key>
       <Title>Maj. (T./Lt.-Col.)</Title>
       <Forenames>Rupert Caesar</Forenames>
-      <Text>, D.S.O., Companion, St. Michael and St. George</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, St. Michael and St. George</Honour>
+      </Text>
       <PageNumber>5</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -353,7 +382,10 @@
       <Key>Snow</Key>
       <Title>Maj. and Bt. Lt.-Col.</Title>
       <Forenames>Hum-</Forenames>
-      <Text>phry Waugh, D.S.O., Companion, St. Michael and St. George</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, St. Michael and St. George</Honour>
+      </Text>
       <PageNumber>5</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -383,7 +415,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sohbat</Key>
-      <Text>. Khan Khan Bahadur, Member, Order of the British Empire</Text>
+      <Forenames>Khan Khan Bahadur</Forenames>
+      <Text>, Member, Order of the British Empire</Text>
       <PageNumber>476</PageNumber>
     </MainItem>
     <SubItem>
@@ -396,7 +429,9 @@
       <Key>Sole</Key>
       <Title>Capt. and Bt. Maj. (T./Lt.Col.)</Title>
       <Forenames>Denis Mavisyn Anslow</Forenames>
-      <Text>, D.S.O., BartoD.S.O</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>17</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -428,7 +463,11 @@
       <Key>Solly-Flood</Key>
       <Title>Lt.-Col. and Bt. Col. (T./Maj.-Gen.)</Title>
       <Forenames>Arthur</Forenames>
-      <Text>, C.M.G., D.S.O., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>2</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -437,7 +476,10 @@
       <Key>Soltau</Key>
       <Title>Lt.-Col. (T./Col.)</Title>
       <Forenames>Alfred Bertram</Forenames>
-      <Text>, C.M.G., M.D., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>10</PageNumber>
     </MainItem>
     <SubItem>
@@ -485,7 +527,9 @@
       <Key>Sommerville</Key>
       <Title>Maj.</Title>
       <Forenames>Clive</Forenames>
-      <Text>, Companion, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>22</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -502,7 +546,9 @@
     <MainItem>
       <Key>Souttar</Key>
       <Forenames>T.</Forenames>
-      <Text>/Hon. Maj. Henry Session, F.R.C.S., Eng.M.Ch. Oxon., Commander,. Order of the British Empire</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>83</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -510,7 +556,9 @@
     <MainItem>
       <Key>Soward</Key>
       <Forenames>Alrfed Walter</Forenames>
-      <Text>, Esq., C. B., Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>105</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -527,7 +575,9 @@
       <Key>Span</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Henry John Bart-</Forenames>
-      <Text>let, Companion, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>76</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -550,7 +600,11 @@
       </Key>
       <Title>Capt. (T./Col.)</Title>
       <Forenames>Hubert Con-</Forenames>
-      <Text>rad, D.S.O., M.C., Companion, St. Michael and St. George</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>Companion, St. Michael and St. George</Honour>
+      </Text>
       <PageNumber>5</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -561,7 +615,10 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>John Barnes</Forenames>
-      <Text>, Commander, Order of the British Empire ... .. .. Ill Sparling, .Lt.-Col. Albert Walter, D.S.O., 2nd Bar to D.S.O</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>1600</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -602,7 +659,9 @@
     <MainItem>
       <Key>Spear</Key>
       <Forenames>Wilfrid Guy</Forenames>
-      <Text>, M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>459</PageNumber>
     </MainItem>
     <SubItem>

@@ -53,7 +53,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cockbu</Key>
-      <Text>.ni, Lt. (temp. .Capt.) C</Text>
+      <Text>ni, Lt. (temp. .Capt.) C</Text>
       <PageNumber>1863</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -76,7 +76,9 @@
       </Key>
       <Title>temp. Maj. Sir</Title>
       <Forenames>R.</Forenames>
-      <Text>, Bt. (attd)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>2730</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -98,7 +100,9 @@
       </Key>
       <Title>temp. Capt.</Title>
       <Forenames>R. S.</Forenames>
-      <Text>, M.C. (actg</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1743</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -184,7 +188,7 @@
       <PageNumber>3121</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Offr., Gen. List).</Text>
+      <Text>Offr., Gen. List)</Text>
       <PageNumber>2976</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -213,7 +217,9 @@
       <Key>Codyre</Key>
       <Title>temp. Capt.</Title>
       <Forenames>E. C</Forenames>
-      <Text>, M.C. .(Adjt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3074</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -543,7 +549,7 @@
       <PageNumber>819</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Confd.</Text>
+      <Text>Confd</Text>
       <PageNumber>1383</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -651,7 +657,7 @@
       <PageNumber>1364</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Flying Offr.</Text>
+      <Text>Flying Offr</Text>
       <PageNumber>1436</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -720,7 +726,7 @@
       <PageNumber>493</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Aictg. Clapt.</Text>
+      <Text>Aictg. Clapt</Text>
       <PageNumber>2387</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -756,7 +762,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Coleman</Key>
-      <Text>., .Cadet C. T. (temp. 2nd Lt. on prab., attd.)</Text>
+      <Text>, .Cadet C. T. (temp. 2nd Lt. on prab., attd.)</Text>
       <PageNumber>383</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -826,7 +832,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>A. G.</Forenames>
-      <Text>, M.C. (.aotg. .Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1469</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -985,7 +993,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Cbllender</Key>
-      <Text>. temp. 2nd Lt. G. F. F. (Eq.uipmt. Offr., 2nd CI., and temp, Lt.)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>G. F. F.</Forenames>
+      <Text>(Eq.uipmt. Offr., 2nd CI., and temp, Lt.)</Text>
       <PageNumber>11775</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1045,7 +1055,7 @@
       <PageNumber>2728</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Trd.</Text>
+      <Text>Trd</Text>
       <PageNumber>3122</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1070,7 +1080,9 @@
       <PageNumber>565</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>J. W., M.C. (temp. Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2264</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1235,7 +1247,10 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>C. W.</Forenames>
-      <Text>, D.S.O. (Bt. Et. Col., for Dist. Serv.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>16</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1299,7 +1314,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>D. S.</Forenames>
-      <Text>, D.S.O. (date of prom, to Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>562</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1445,7 +1462,10 @@
       </Key>
       <Title>Maj. (temp. Lt.-Col.)</Title>
       <Forenames>R. J.</Forenames>
-      <Text>, D.S.O. (Bt. Lt.-Col., for Dist. Serv.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>16</PageNumber>
     </MainItem>
   </ItemGroup>

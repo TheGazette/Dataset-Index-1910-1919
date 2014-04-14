@@ -45,7 +45,9 @@
     <MainItem>
       <Key>Bickiord</Key>
       <Forenames>Staff Surgn</Forenames>
-      <Text>. (R.N.) B. R., D.S.O. .(temp. Maj., Med.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>13924</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -134,7 +136,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Biggs</Key>
-      <Text>2nd Lt. (actg. Lt.) A. E. (Lt., Admin.)</Text>
+      <Title>2nd Lt. (actg. Lt.)</Title>
+      <Forenames>A. E.</Forenames>
+      <Text>(Lt., Admin.)</Text>
       <PageNumber>15052</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -438,7 +442,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>E. L.</Forenames>
-      <Text>, M.C. (temp. Capt., A.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>12616</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -625,7 +631,9 @@
       </Key>
       <Title>temp. Lt. (Army)</Title>
       <Forenames>W.</Forenames>
-      <Text>, M.C. (temp. 2nd 'Lt., Obsvr. Offr., and Hon. Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>11977</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -719,7 +727,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bilactowiood</Key>
-      <Text>R. (temp. Lt., Admin.)</Text>
+      <Forenames>R.</Forenames>
+      <Text>(temp. Lt., Admin.)</Text>
       <PageNumber>12620</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -857,7 +866,7 @@
       <PageNumber>11979</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>2nd Lt., Tech</Text>
+      <Text>2nd Lt., Tech.</Text>
       <PageNumber>12496</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -867,7 +876,10 @@
         <KeyDitto>___</KeyDitto>
       </Key>
       <Forenames>U. G. G. L.</Forenames>
-      <Text>, D.F.C., D.C.M. (actg. Capt., K.B.)</Text>
+      <Text>
+        <Honour>D.F.C.</Honour>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>13610</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1089,7 +1101,9 @@
   <ItemGroup>
     <MainItem>
       <Key>BJytflie</Key>
-      <Text>Fit. Cadet P. R. (temp. 2nd Lt., A.)</Text>
+      <Title>Fit. Cadet</Title>
+      <Forenames>P. R.</Forenames>
+      <Text>(temp. 2nd Lt., A.)</Text>
       <PageNumber>12254</PageNumber>
     </MainItem>
   </ItemGroup>

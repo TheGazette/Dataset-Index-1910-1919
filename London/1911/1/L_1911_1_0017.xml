@@ -465,7 +465,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Warburton</Key>
-      <Text>. M. (resigned)</Text>
+      <Forenames>M.</Forenames>
+      <Text>(resigned)</Text>
       <PageNumber>1155</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -787,8 +788,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cole</Key>
-      <Forenames>A.</Forenames>
-      <Text>de P. T. (Capt.)</Text>
+      <Forenames>A. de P</Forenames>
+      <Text>. T. (Capt.)</Text>
       <PageNumber>501</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -813,7 +814,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Campbell</Key>
-      <Text>. N. D. H. (Maj.)</Text>
+      <Forenames>N. D. H.</Forenames>
+      <Text>(Maj.)</Text>
       <PageNumber>2320</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -912,8 +914,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Grubb</Key>
-      <Forenames>R. R.</Forenames>
-      <Text>de C. (Adjt.)</Text>
+      <Forenames>R. R. de C</Forenames>
+      <Text>. (Adjt.)</Text>
       <PageNumber>320</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1091,8 +1093,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Allfrey</Key>
-      <Forenames>F.</Forenames>
-      <Text>de V. B. (2nd Lieut.)</Text>
+      <Forenames>F. de V</Forenames>
+      <Text>. B. (2nd Lieut.)</Text>
       <PageNumber>1154</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1170,7 +1172,9 @@
       <Key>Brooke</Key>
       <Title>Sir</Title>
       <Forenames>B. S.</Forenames>
-      <Text>, Bart. (2nd Lieut.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>14</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1196,7 +1200,9 @@
       <Key>Milbanke</Key>
       <Title>Maj. Sir</Title>
       <Forenames>J. P.</Forenames>
-      <Text>, Bart. (retired)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>320</PageNumber>
     </MainItem>
   </ItemGroup>

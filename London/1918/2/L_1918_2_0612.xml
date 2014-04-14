@@ -154,7 +154,9 @@
     <MainItem>
       <Key>Ross</Key>
       <Forenames>A.</Forenames>
-      <Text>, D.C.M. (temp. Sub-Lt.)</Text>
+      <Text>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>5603</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -305,7 +307,9 @@
     <MainItem>
       <Key>Soott</Key>
       <Forenames>G.</Forenames>
-      <Text>, D.C.M. (temp. Sub-Lt.)</Text>
+      <Text>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>5603</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -619,7 +623,8 @@
   <ItemGroup>
     <MainItem>
       <Key>So-ward</Key>
-      <Text>. E. A. (temp. Lt.)</Text>
+      <Forenames>E. A.</Forenames>
+      <Text>(temp. Lt.)</Text>
       <PageNumber>7323</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -690,7 +695,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stammers</Key>
-      <Text>. J. W. (temp. Sub-Lt.)</Text>
+      <Forenames>J. W.</Forenames>
+      <Text>(temp. Sub-Lt.)</Text>
       <PageNumber>5993</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -781,7 +787,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stripe</Key>
-      <Text>., A. G. (temp. Asst. Payr.)</Text>
+      <Text>, A. G. (temp. Asst. Payr.)</Text>
       <PageNumber>5482</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -839,7 +845,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>A. A.</Forenames>
-      <Text>, M.M. (temp. Sub-Lt.)</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>5603</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1245,7 +1253,10 @@
     <MainItem>
       <Key>Wheeler</Key>
       <Forenames>C. B.</Forenames>
-      <Text>, D.C.M., M.M. (temp. Sub-Lt.)</Text>
+      <Text>
+        <Honour>D.C.M.</Honour>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>5603</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1293,7 +1304,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>S. A.</Forenames>
-      <Text>, M.M. (temp. Sub-Lt:)</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>5871</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1531,7 +1544,9 @@
     <MainItem>
       <Key>Young</Key>
       <Forenames>E. H.</Forenames>
-      <Text>, M.P. (temp. Lt.-Cdr.)</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>5992</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1863,8 +1878,26 @@
     <MainItem>
       <Key>DAlbiac</Key>
       <Forenames>J. H.</Forenames>
-      <Text>, D.S.O. (Fit. Cdr.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5069</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Vdlliere</Key>
+      <Forenames>D. J. J.</Forenames>
+      <Text>(temp. Fit. SubLt.)</Text>
+      <PageNumber>4742</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>du Heaume</Key>
+      <Forenames>E. H.</Forenames>
+      <Text>(temp. Fit. SubLt.)</Text>
+      <PageNumber>4570</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1942,7 +1975,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Gow</Key>
-      <Text>. R, W., D.S.O., D.S.C. (Fit. Cdr.)</Text>
+      <Forenames>R</Forenames>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>6069</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1957,7 +1994,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Green</Key>
-      <Text>. V. S. (temp. Fit. Sub-Lt.)</Text>
+      <Forenames>V. S.</Forenames>
+      <Text>(temp. Fit. Sub-Lt.)</Text>
       <PageNumber>4137</PageNumber>
     </MainItem>
   </ItemGroup>

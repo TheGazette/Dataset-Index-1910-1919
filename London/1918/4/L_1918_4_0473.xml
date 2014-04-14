@@ -387,7 +387,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stowell</Key>
-      <Text>P. C. (actg. Capt.)</Text>
+      <Forenames>P. C.</Forenames>
+      <Text>(actg. Capt.)</Text>
       <PageNumber>13503</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -406,7 +407,7 @@
       <PageNumber>11568</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Temp. Capt</Text>
+      <Text>Temp. Capt.</Text>
       <PageNumber>11568</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -540,7 +541,9 @@
       <Key>Thatcher</Key>
       <Title>Lt.</Title>
       <Forenames>W. S.</Forenames>
-      <Text>, M.C. (Retired in consequence of wounds, and to be Hon. Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>13017</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -633,7 +636,9 @@
     <MainItem>
       <Key>Thornton</Key>
       <Forenames>K. T.</Forenames>
-      <Text>M.C. (rel. actg. rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>11570</PageNumber>
     </MainItem>
     <SubItem>
@@ -660,7 +665,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Todd</Key>
-      <Text>A. ,E. (2nd Lt.)</Text>
+      <Forenames>A.</Forenames>
+      <Text>,E. (2nd Lt.)</Text>
       <PageNumber>13931</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -915,7 +921,7 @@
       <PageNumber>13008</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Rel. commn</Text>
+      <Text>Rel. commn.</Text>
       <PageNumber>13511</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -931,7 +937,9 @@
     <MainItem>
       <Key>Wemyss</Key>
       <Forenames>A. F.</Forenames>
-      <Text>, M.C. (Lt., corr. of entrv)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>13013</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1107,7 +1115,7 @@
       <PageNumber>11981</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Temj). Capt</Text>
+      <Text>Temj). Capt.</Text>
       <PageNumber>11980</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1364,7 +1372,11 @@
     <MainItem>
       <Key>Hehir</Key>
       <Forenames>P.</Forenames>
-      <Text>, C.B.. C.M.G., M.D</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>M.D</Honour>
+      </Text>
       <PageNumber>13926</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1372,7 +1384,10 @@
     <MainItem>
       <Key>Manifold</Key>
       <Forenames>C. C.</Forenames>
-      <Text>, C.B., C.M.G., M.B</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>13926</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1380,7 +1395,9 @@
     <MainItem>
       <Key>Robinson</Key>
       <Forenames>W. H. B.</Forenames>
-      <Text>, C.B</Text>
+      <Text>
+        <Honour>C.B</Honour>
+      </Text>
       <PageNumber>13007</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1390,7 +1407,9 @@
     <MainItem>
       <Key>Irvine</Key>
       <Forenames>G. B.</Forenames>
-      <Text>, C.B. (in consequence of ill-health due to field service, and to ibe Hon. Col.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>13017</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1422,7 +1441,9 @@
     <MainItem>
       <Key>Lane</Key>
       <Forenames>D. T.</Forenames>
-      <Text>. M.D. (in consequence of ilMiealth)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>11983</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1447,7 +1468,9 @@
     <MainItem>
       <Key>Hodgson</Key>
       <Forenames>E. C</Forenames>
-      <Text>, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>13010</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1478,8 +1501,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, C. R. M.B</Text>
+      <Key>O'Brien</Key>
+      <Forenames>C. R. M.B.</Forenames>
       <PageNumber>13499</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1503,7 +1526,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Alexander</Key>
-      <Text>^H. G. F.R.C.S</Text>
+      <Text>
+        <Honour>F.R.C.S</Honour>
+      </Text>
       <PageNumber>13007</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1519,7 +1544,9 @@
     <MainItem>
       <Key>Baker</Key>
       <Forenames>C. H. N.</Forenames>
-      <Text>, M.C. (date of promn.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>13007</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1527,7 +1554,9 @@
     <MainItem>
       <Key>Bal</Key>
       <Forenames>N. K.</Forenames>
-      <Text>, M.C. (date of promni.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>13007</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1621,7 +1650,9 @@
     <MainItem>
       <Key>Ohand</Key>
       <Forenames>H.</Forenames>
-      <Text>, M.C. (date of promia.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>13007</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1691,7 +1722,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dora-isamy</Key>
-      <Text>S. (date of promn.)</Text>
+      <Forenames>S.</Forenames>
+      <Text>(date of promn.)</Text>
       <PageNumber>13007</PageNumber>
     </MainItem>
   </ItemGroup>

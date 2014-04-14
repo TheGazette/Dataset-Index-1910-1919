@@ -275,8 +275,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stucley</Key>
-      <Forenames>H. St</Forenames>
-      <Text>. L. (Maj.)</Text>
+      <Forenames>H. St. L</Forenames>
+      <Text>. (Maj.)</Text>
       <PageNumber>1343</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -351,7 +351,9 @@
       <Key>Walker</Key>
       <Title>Sir</Title>
       <Forenames>R. J. M.</Forenames>
-      <Text>, Bart. (2nd Lieut.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -379,6 +381,14 @@
       <Forenames>A. B. E.</Forenames>
       <Text>(Capt.)</Text>
       <PageNumber>ibid.</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Teissier</Key>
+      <Forenames>G. F.</Forenames>
+      <Text>(Lieut.)</Text>
+      <PageNumber>1261</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -495,8 +505,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>De Weyer</Forenames>
+      <Key>Van De</Key>
+      <Forenames>Weyer</Forenames>
       <Text>, B. G. (Maj.)</Text>
       <PageNumber>975</PageNumber>
     </MainItem>
@@ -514,8 +524,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Douglass</Key>
-      <Forenames>R. St</Forenames>
-      <Text>. J. B. (2nd Lieut.)</Text>
+      <Forenames>R. St. J</Forenames>
+      <Text>. B. (2nd Lieut.)</Text>
       <PageNumber>852</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -779,8 +789,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Morgan</Key>
-      <Forenames>H.</Forenames>
-      <Text>de R. (Lieut.)</Text>
+      <Forenames>H. de R</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>1919</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -834,6 +844,14 @@
     </MainItem>
   </ItemGroup>
   <SubSectionTitle>The King's Own (Royal Lancaster Regiment)</SubSectionTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Cordova</Key>
+      <Forenames>V. L.</Forenames>
+      <Text>(2nd Lieut.)</Text>
+      <PageNumber>1065</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Kaulbach</Key>

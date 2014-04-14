@@ -13,7 +13,9 @@
     <MainItem>
       <Key>Bait</Key>
       <Forenames>Robert Sangster</Forenames>
-      <Text>, C.B.E., M.A., H.M. Historiographer in Sootland</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>904</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -45,7 +47,10 @@
       <Key>Ralston</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>James Layton</Forenames>
-      <Text>, D.S.O., Bar to D.S.O</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>2364</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -77,7 +82,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>Jeffrey</Forenames>
-      <Text>, M.D., Officer, Older, of the British Empire</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>10</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -98,7 +105,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Ramsbottom</Key>
-      <Text>. T./Maj. Herwald, M.C., .Officer; Order of the British Empire .. -</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -116,14 +125,19 @@
     <MainItem>
       <Key>Ramsden</Key>
       <Title>Maj.</Title>
-      <Text>and .Bt. Lt.-Col. Josslyn Vere, D.S.O., Com panion, St. Michael and St. : ' George</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>82</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Ram</Key>
-      <Text>'sey.-Fairfax, T./Lt.-Col. William George Astell, D.S.O., Companion, St. Michael and St.. George</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -156,7 +170,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Rankin</Key>
-      <Text>„Maj. George James, D.S.O.,</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>2855</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -166,7 +182,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Title>Maj.</Title>
-      <Text>' James Sabiston, D.S.O.,</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3225</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -202,11 +220,15 @@
       <Key>
         <KeyDitto>___ .</KeyDitto>
       </Key>
-      <Text>T-— Capt. ' (T./Maj.) William Charles, Companion, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>3226</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>..Bar to D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>3224</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -222,7 +244,9 @@
       <Key>Rathborne</Key>
       <Title>Wing. Cdr.</Title>
       <Forenames>Charles Edward Henry</Forenames>
-      <Text>, Companion, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>884</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -231,7 +255,9 @@
       <Key>Rattray</Key>
       <Title>Bt. Col. (Brig.-Gen.)</Title>
       <Forenames>Charles</Forenames>
-      <Text>, C.B., Companion, , ' ' Order Star, of India</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>3107</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -254,7 +280,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Rawlinson</Key>
-      <Text>. T./Lt.-Col. Alfred; ; C.M.G., Companion, D.S.O.«</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3226</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -264,11 +293,14 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Gen</Forenames>
-      <Text>, Sir Henry.Seymour, Bt., .G.C.ViO.,.K,C.B:,K:C,M,G., ;' Knight Grand Cross, -Order of the Bath Rawlinson, Ralph George Joynson, M.B.E., Officer, Order of the British Empire.. .. _</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>458</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Date _.</Text>
+      <Text>Date _</Text>
       <PageNumber>2855</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -357,7 +389,12 @@
     <MainItem>
       <Key>Ready</Key>
       <Title>Lt.</Title>
-      <Text>-Ccl. and Bt. Cel. (T./ Maj.-Gen.) Felix Fordati, C.B., C. M.G., D.S.O., Companion, Star of India</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Star of India</Honour>
+      </Text>
       <PageNumber>3107</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -366,7 +403,10 @@
       <Key>Reddie</Key>
       <Title>Maj. and Bt. Lt.-Col. (T../ Brig.-Gen.)</Title>
       <Forenames>Anthony Julian</Forenames>
-      <Text>, D. S.O., Companion, St. Michael and St. George</Text>
+      <Text>
+        <Honour>D. S.O.</Honour>
+        <Honour>Companion, St. Michael and St. George</Honour>
+      </Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -438,7 +478,9 @@
       <Key>Rees</Key>
       <Title>Maj.</Title>
       <Forenames>David Valentine</Forenames>
-      <Text>, T.D., L.R.C.P., M.R.C.S., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>458</PageNumber>
     </MainItem>
     <SubItem>
@@ -479,7 +521,10 @@
       </Key>
       <Title>Maj. and Bt.Lt.-Col.(T./BrigGen.)</Title>
       <Forenames>Hubert Conway</Forenames>
-      <Text>, D.S.O., Companion, St. Michael and St. George _</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, St. Michael and St. George</Honour>
+      </Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -490,7 +535,10 @@
       </Key>
       <Title>Maj. (A./Lt.-Cyl.)</Title>
       <Forenames>John Gor-</Forenames>
-      <Text>don, D.S.O., 2nd Bar to D.S.O</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>2363</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -515,7 +563,9 @@
       </Key>
       <Title>Lt. (A./Capt.)</Title>
       <Forenames>Thomas Wyn-</Forenames>
-      <Text>ford, M.C, Companion, D.S.O. .-</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>2365</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -539,14 +589,18 @@
       </Key>
       <Title>Capt. (T./Lt.-Col.)</Title>
       <Forenames>John Tal-</Forenames>
-      <Text>bot Wentworth,Gompanion, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>20</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Reeves</Key>
-      <Text>-; William Harvey, O.B.E., . Knight of Grace,' St. John of Jerusalem</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3479</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -581,7 +635,7 @@
       <PageNumber>472</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Date ... .. -.</Text>
+      <Text>Date ... .. -</Text>
       <PageNumber>2855</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -607,7 +661,9 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Title>Miss</Title>
-      <Text>, Order of Mercy.. Ri«ch, .Lt. (A./Capt.) Alexander ! Robertson, -Officer, Order of the-British-Empire ... . '..' Ricardo, Rear-Adml. Arthur-David^ [ ' Companion, Order of the Bath i ___ ___ ___ ___ Miss Katherihe Alice, Officer^ ' Orderof the British Empire Date</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>448</PageNumber>
     </MainItem>
     <SubItem>

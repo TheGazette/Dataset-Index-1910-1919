@@ -284,8 +284,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Callaghan, Supernumerary Capt. Gerard A. (restored to the estab. lishment)</Text>
+      <Key>O'Callaghan</Key>
+      <Forenames>Supernumerary</Forenames>
+      <Text>Capt. Gerard A. (restored to the estab. lishment)</Text>
       <PageNumber>8117</PageNumber>
     </MainItem>
     <SubItem>
@@ -358,7 +359,9 @@
       <Key>Aspinall</Key>
       <Title>Maj. and Hon. Lieut.Col.</Title>
       <Forenames>Robert L.</Forenames>
-      <Text>, D.S.O. (to command 17th Bat.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>10112</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -405,7 +408,10 @@
       <Key>Bulfin</Key>
       <Title>Maj.-Gen.</Title>
       <Forenames>Edward Stanis</Forenames>
-      <Text>laus, C.V.O., C.B. (Col.)</Text>
+      <Text>
+        <Honour>C.V.O.</Honour>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>9971</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -576,8 +582,8 @@
     <MainItem>
       <Key>Hadow</Key>
       <Title>Col.</Title>
-      <Forenames>Arthur</Forenames>
-      <Text>de S. (to command 10th Bat.)</Text>
+      <Forenames>Arthur de S</Forenames>
+      <Text>. (to command 10th Bat.)</Text>
       <PageNumber>7903</PageNumber>
     </MainItem>
     <SubItem>
@@ -605,7 +611,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hawkes</Key>
-      <Text>. L. V. C. (temporary Lieut.)</Text>
+      <Forenames>L. V. C.</Forenames>
+      <Text>(temporary Lieut.)</Text>
       <PageNumber>10550</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -746,8 +753,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, Edward Donough (temporary Lieut.)</Text>
+      <Key>O'Brien</Key>
+      <Forenames>Edward Donough</Forenames>
+      <Text>(temporary Lieut.)</Text>
       <PageNumber>10414</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -823,7 +831,9 @@
     <MainItem>
       <Key>Stansfeld</Key>
       <Forenames>Thomas W.</Forenames>
-      <Text>, D.S.O. (Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>9971</PageNumber>
     </MainItem>
   </ItemGroup>

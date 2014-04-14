@@ -29,8 +29,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Burton</Key>
-      <Title>St.</Title>
-      <Forenames>G. E. W.</Forenames>
+      <Title>St. G.</Title>
+      <Forenames>E. W.</Forenames>
       <Text>(temporary Brigadier-Gen.)</Text>
       <PageNumber>6581</PageNumber>
     </MainItem>
@@ -79,7 +79,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>Richard Pierce</Forenames>
-      <Text>, Bt. (temporary Capt.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>7575</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -95,7 +97,9 @@
     <MainItem>
       <Key>Callwell</Key>
       <Forenames>Charles E.</Forenames>
-      <Text>, C.B. (temporary Maj.-Gen.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>6499</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -175,8 +179,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cayley</Key>
-      <Forenames>Col W.</Forenames>
-      <Text>de S. (temporary Brigadier-Gen.)</Text>
+      <Forenames>Col W. de S</Forenames>
+      <Text>. (temporary Brigadier-Gen.)</Text>
       <PageNumber>7220</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -263,7 +267,9 @@
       <Key>Colville</Key>
       <Title>Col.</Title>
       <Forenames>A. E. W.</Forenames>
-      <Text>, C.B. (temporary Brigadier-Gen.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>7568</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -291,7 +297,11 @@
       <Key>Cooper</Key>
       <Title>Col.</Title>
       <Forenames>E. F.</Forenames>
-      <Text>, C.B., M.V.O., D.S.O. (temporary BrigadierGen.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>M.V.O.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7568</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -302,7 +312,11 @@
       </Key>
       <Title>(temporary BrigadierGen.)</Title>
       <Forenames>Edward J.</Forenames>
-      <Text>, C.B., M.V.O., D.S.O. (half pay list)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>M.V.O.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5761</PageNumber>
     </MainItem>
     <SubItem>
@@ -317,7 +331,9 @@
       </Key>
       <Title>Col.</Title>
       <Forenames>R. J.</Forenames>
-      <Text>, C.V.O. (temporary Brigadier-Gen.)</Text>
+      <Text>
+        <Honour>C.V.O.</Honour>
+      </Text>
       <PageNumber>7220</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -334,7 +350,9 @@
     <MainItem>
       <Key>Courtenay</Key>
       <Forenames>E. R.</Forenames>
-      <Text>, C.B. (temporary Brigadier-Gen.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>6581</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -360,7 +378,9 @@
       <Key>Cubitt</Key>
       <Title>Maj.</Title>
       <Forenames>Thomas A.</Forenames>
-      <Text>, D.S.O. (local rank of Lieut.-Col. whilst in Somaliland)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6075</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -368,7 +388,10 @@
     <MainItem>
       <Key>Cunningham</Key>
       <Forenames>G. G.</Forenames>
-      <Text>, C.B., D.S.O. (temporary Brigadier-Gen.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6581</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -410,7 +433,10 @@
       <Key>Dalrymple-Hay</Key>
       <Title>Col.</Title>
       <Forenames>James R. M.</Forenames>
-      <Text>, C.B., D.S.O. (half-pay list)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7775</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -426,14 +452,16 @@
     <MainItem>
       <Key>Daubeney</Key>
       <Forenames>E. K.</Forenames>
-      <Text>, D.S.O. (temporary Brigadier-Gen.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6581</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Davies</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, H. A. (temporary Lieut.)</Text>
       <PageNumber>7196</PageNumber>
     </MainItem>
@@ -457,10 +485,26 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Vesian</Forenames>
-      <Text>, R. E. (temporary Capt.)</Text>
+      <Key>de Goldsmidt</Key>
+      <Forenames>George</Forenames>
+      <Text>(temporary Capt.)</Text>
+      <PageNumber>7298</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Vesian</Key>
+      <Forenames>R. E.</Forenames>
+      <Text>(temporary Capt.)</Text>
       <PageNumber>7775</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Winiton</Key>
+      <Forenames>C.</Forenames>
+      <Text>(temirx&gt;rary BrigadierGen.)</Text>
+      <PageNumber>6581</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -484,7 +528,9 @@
       <Key>Doughty-Wylie</Key>
       <Title>Maj.</Title>
       <Forenames>Charles H. M.</Forenames>
-      <Text>, C.M.G. (temporary Lieut.Col. in Abyssinia)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>5662</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -517,7 +563,9 @@
     <MainItem>
       <Key>Earle</Key>
       <Forenames>Maxwell</Forenames>
-      <Text>, D.S.O. (Brevet Lieut.-Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6075</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -560,7 +608,9 @@
     <MainItem>
       <Key>Ellison</Key>
       <Forenames>Gerald F.</Forenames>
-      <Text>, C.B. (temporary Maj.-Gen.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>6499</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -568,7 +618,9 @@
     <MainItem>
       <Key>Erskine</Key>
       <Forenames>J. F.</Forenames>
-      <Text>, M.V.O. (temporary Brigadier-Gen.)</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>6581</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -630,7 +682,12 @@
       <Key>Fergusson</Key>
       <Title>Sir</Title>
       <Forenames>Charles</Forenames>
-      <Text>, Bt., C.B., M.V.O., D.S.O. (Lieut.-Gen.) ...</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>M.V.O.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -664,7 +721,9 @@
       <Key>Fisher</Key>
       <Title>Col.</Title>
       <Forenames>J.</Forenames>
-      <Text>, C.B. (temporary Brigadier-Gen.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>7568</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -672,7 +731,9 @@
     <MainItem>
       <Key>FitzClarence</Key>
       <Forenames>C</Forenames>
-      <Text>, V.C. (temporary Brigadier-Gen.)</Text>
+      <Text>
+        <Honour>V.C.</Honour>
+      </Text>
       <PageNumber>6581</PageNumber>
       <PageNumber>7220</PageNumber>
     </MainItem>
@@ -682,7 +743,9 @@
       <Key>FitzGerald</Key>
       <Title>Col.</Title>
       <Forenames>H. S.</Forenames>
-      <Text>, C.B. (temporary Brigadier-Gen.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>7568</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -722,7 +785,9 @@
       <Key>Fortescue</Key>
       <Title>Col.</Title>
       <Forenames>F. A.</Forenames>
-      <Text>, C.B. (temporary Brigadier-Gen.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>7220</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -741,7 +806,10 @@
       </Key>
       <Title>Col.</Title>
       <Forenames>Turville D.</Forenames>
-      <Text>, C.B., M.V.O. (half-pay list)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>7095</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -758,7 +826,9 @@
       <Key>Fowler</Key>
       <Title>Col.</Title>
       <Forenames>C. A.</Forenames>
-      <Text>, D.S.O. (temporary Brigadier-Gen.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7220</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -768,7 +838,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>J. S.</Forenames>
-      <Text>, D.S.O. (temporary Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6581</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -818,7 +890,9 @@
     <MainItem>
       <Key>Garsia</Key>
       <Forenames>Herbert G. A.</Forenames>
-      <Text>, D.S.O. (Lieut.-Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5160</PageNumber>
     </MainItem>
     <SubItem>
@@ -830,7 +904,9 @@
     <MainItem>
       <Key>Gay</Key>
       <Forenames>A. W.</Forenames>
-      <Text>, D.S.O. (temporary Brigadier-Gen.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6561</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -838,7 +914,9 @@
     <MainItem>
       <Key>Gilbert</Key>
       <Forenames>A. R.</Forenames>
-      <Text>, D.S.O. (temporary Brigadier-Gen.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -846,7 +924,9 @@
     <MainItem>
       <Key>Gillman</Key>
       <Forenames>Webb</Forenames>
-      <Text>, D.S.O. (Brevet Lieut.-Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6075</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -864,7 +944,9 @@
       <Key>Glubb</Key>
       <Title>Col. (temporary BrigadierGen.)</Title>
       <Forenames>Frederick M.</Forenames>
-      <Text>, D.S.O. (retained as supernumerary to the establishment)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6499</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -873,7 +955,9 @@
       <Key>Godman</Key>
       <Title>Maj.</Title>
       <Forenames>Sherard Haughton</Forenames>
-      <Text>, D.S.O. (temporary Lieut.-Col. to command 3rd Bat. Scots Guards)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7568</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -882,15 +966,17 @@
       <Key>Goold-Adams</Key>
       <Title>Col.</Title>
       <Forenames>Henry E. F.</Forenames>
-      <Text>, C.M.G. (half-pay list)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>7095</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Gorton</Key>
-      <Forenames>Reginald St</Forenames>
-      <Text>. G. (Brevet Lieut.-Col.)</Text>
+      <Forenames>Reginald St. G</Forenames>
+      <Text>. (Brevet Lieut.-Col.)</Text>
       <PageNumber>6075</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -899,16 +985,20 @@
       <Key>Gough</Key>
       <Title>Col. (temporary BrigadierGen.)</Title>
       <Forenames>Hubert De</Forenames>
-      <Text>la P., C.B. (temporary Maj.-Gen.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>7466</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Grattan</Key>
-      <Title>Col.</Title>
-      <Forenames>O</Forenames>
-      <Text>'D. C, D.S.O. (temporary Brigadier-Gen.)</Text>
+      <Title>Col. O'D.</Title>
+      <Forenames>C</Forenames>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7568</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -991,7 +1081,9 @@
     <MainItem>
       <Key>Heath-Caldwell</Key>
       <Forenames>Frederick C</Forenames>
-      <Text>, C.B. (Maj.-Gen.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>5365</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1007,7 +1099,10 @@
       <Key>Henderson</Key>
       <Title>Sir</Title>
       <Forenames>D.</Forenames>
-      <Text>, K.C.B., D.S.O. (temporary Brigadier-Gen.) ...</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1033,7 +1128,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>E. A.</Forenames>
-      <Text>, M.V.O. (temporary Brigadier-Gen.)</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>6581</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1049,7 +1146,9 @@
     <MainItem>
       <Key>Heyworth</Key>
       <Forenames>F. J.</Forenames>
-      <Text>, D.S.O. (temporary Brigadier-Gen.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6581</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1057,7 +1156,9 @@
     <MainItem>
       <Key>Hibbert</Key>
       <Forenames>G. L.</Forenames>
-      <Text>, D.S.O. (temporary Brigadier-Gen.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1076,7 +1177,10 @@
       <Key>Hill</Key>
       <Title>Cot.</Title>
       <Forenames>F. F.</Forenames>
-      <Text>, C.B., D.S.O. (temporary Brigadier-Gen.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7220</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1092,7 +1196,9 @@
     <MainItem>
       <Key>Hobbs</Key>
       <Forenames>P. E. F.</Forenames>
-      <Text>, C.M.G. (temporary Brigadier-Gen.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1100,14 +1206,18 @@
     <MainItem>
       <Key>Hodgson</Key>
       <Forenames>H. W.</Forenames>
-      <Text>, C.V.O. (temporary Brigadier-Gen.)</Text>
+      <Text>
+        <Honour>C.V.O.</Honour>
+      </Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Holt</Key>
-      <Text>MauriceP. C, D.S.O. (Brevet Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5160</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -78,7 +78,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ash</Key>
-      <Text>., Ernest. Arthur (Capt.)</Text>
+      <Text>, Ernest. Arthur (Capt.)</Text>
       <PageNumber>3557</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -457,7 +457,9 @@
       <Key>Bagwell</Key>
       <Title>Capt.</Title>
       <Forenames>John</Forenames>
-      <Text>, M.V.O. (seconded for service on the Staff)</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>3936</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -775,7 +777,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ball</Key>
-      <Text>. Arthur (2nd Lieut, on probation)</Text>
+      <Forenames>Arthur</Forenames>
+      <Text>(2nd Lieut, on probation)</Text>
       <PageNumber>3422</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -997,7 +1000,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Barnett</Key>
-      <Text>. Frederick (2nd Lieut, on</Text>
+      <Forenames>Frederick</Forenames>
+      <Text>(2nd Lieut, on</Text>
       <PageNumber>4662</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -3,8 +3,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mallins</Key>
-      <Forenames>Claude J. O</Forenames>
-      <Text>'Conor (2nd (Lieut.) ... '</Text>
+      <Forenames>Claude J. O'Conor</Forenames>
+      <Text>(2nd (Lieut.) ... '</Text>
       <PageNumber>6401</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -102,7 +102,9 @@
       <Key>Mackenzie</Key>
       <Title>Lieut.-Col.</Title>
       <Forenames>Alexander F.</Forenames>
-      <Text>, M.V.O. (to command 10th Bat.)</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>6977</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -331,8 +333,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Leary, William F. MacCarthy</Text>
+      <Key>O'Leary</Key>
+      <Forenames>William F.</Forenames>
+      <Text>MacCarthy</Text>
       <PageNumber>6401</PageNumber>
     </MainItem>
     <SubItem>
@@ -342,8 +345,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Reilly, Harold R. Hutchinson (2nd Lieut.)</Text>
+      <Key>O'Reilly</Key>
+      <Forenames>Harold R. Hutchinson</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>7779</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -400,7 +404,9 @@
     <MainItem>
       <Key>Worship</Key>
       <Forenames>Verelst T.</Forenames>
-      <Text>, D.S.O. (temporary Lieut.-Col., 6th Bat.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6977</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -639,7 +645,9 @@
       <Key>Bright</Key>
       <Title>Maj.</Title>
       <Forenames>Richard G. T.</Forenames>
-      <Text>, C.M.G. (temporary half-pay list)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>6899</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -713,7 +721,10 @@
       <Key>Cunninghame</Key>
       <Title>Sir</Title>
       <Forenames>Thomas A. A. M.</Forenames>
-      <Text>, Bt., D.S.O. (Maj.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7001</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -782,7 +793,9 @@
     <MainItem>
       <Key>Heriot-Maitland</Key>
       <Forenames>James D.</Forenames>
-      <Text>, D.S.O. (temporary Lieut.-Col., 8th Bat.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6977</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -823,7 +836,9 @@
       <Key>Hoste</Key>
       <Title>Sir</Title>
       <Forenames>William Graham</Forenames>
-      <Text>, Bt. (2nd Lieut.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>7779</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -855,7 +870,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Manningham-Buller</Key>
-      <Text>.Capt. Sir Mervyn E., Bt. (to command 12th Bat. and temporary Lieut.-Col.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>7665</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -932,7 +949,9 @@
       <Key>Pitt-Taylor</Key>
       <Title>Capt.</Title>
       <Forenames>Walter W.</Forenames>
-      <Text>, D.S.O. (seconded)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6797</PageNumber>
     </MainItem>
   </ItemGroup>

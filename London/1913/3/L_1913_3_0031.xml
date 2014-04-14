@@ -40,7 +40,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Shrewsbury</Key>
-      <Text>A. M</Text>
+      <Forenames>A. M .</Forenames>
       <PageNumber>5657</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -144,6 +144,13 @@
       <Key>Blanchflower</Key>
       <Forenames>E. C.</Forenames>
       <PageNumber>5656</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Veulle</Key>
+      <Forenames>F. J. D .</Forenames>
+      <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -439,8 +446,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Clark</Key>
-      <Forenames>W. T.</Forenames>
-      <Text>de L. (Capt) ...</Text>
+      <Forenames>W. T. de L</Forenames>
+      <Text>. (Capt) ...</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -531,7 +538,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hill</Key>
-      <Text>C. E. W. (Capt.)</Text>
+      <Forenames>C. E. W.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>6233</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -873,7 +881,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Harbord</Key>
-      <Text>W. J. (Sub-Lieut.)</Text>
+      <Forenames>W. J.</Forenames>
+      <Text>(Sub-Lieut.)</Text>
       <PageNumber>6151</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1322,7 +1331,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Irving</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>/ C. E. '</Text>
       <PageNumber>6559</PageNumber>
     </MainItem>
@@ -1500,7 +1509,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Orlebar</Key>
-      <Text>Maj. and Brevet Lieut.Col: E. H. (removed on age-limit)</Text>
+      <Title>Maj. and Brevet Lieut.</Title>
+      <Text>Col: E. H. (removed on age-limit)</Text>
       <PageNumber>5932</PageNumber>
     </MainItem>
   </ItemGroup>

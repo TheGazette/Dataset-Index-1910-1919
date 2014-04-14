@@ -94,8 +94,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mayne</Key>
-      <Forenames>Robert S. St</Forenames>
-      <Text>. G. (Lieut.)</Text>
+      <Forenames>Robert S. St. G</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>3665</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -279,8 +279,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Kelly, Henry Kane (2nd Lieut, on probation), supplementary</Text>
+      <Key>O'Kelly</Key>
+      <Forenames>Henry Kane</Forenames>
+      <Text>(2nd Lieut, on probation), supplementary</Text>
       <PageNumber>4894</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -679,7 +680,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sullivan</Key>
-      <Text>Henry R! Frennes (2nd Lieut.), supplementary</Text>
+      <Forenames>Henry R</Forenames>
+      <Text>! Frennes (2nd Lieut.), supplementary</Text>
       <PageNumber>4894</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -712,7 +714,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Thomas</Key>
-      <Text>Duncan Collison Willey (2nd Lieut.)</Text>
+      <Forenames>Duncan Collison Willey</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>2883</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -825,7 +828,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Whittington</Key>
-      <Text>2nd Lieut. William J. (confirmed)</Text>
+      <Title>2nd Lieut.</Title>
+      <Forenames>William J.</Forenames>
+      <Text>(confirmed)</Text>
       <PageNumber>3170</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -949,7 +954,9 @@
       <Key>Gay</Key>
       <Title>Lieut.-Col.</Title>
       <Forenames>Arthur W.</Forenames>
-      <Text>, D.S.O. (to command the Artillery of a Division) ... :</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3005</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -981,7 +988,11 @@
     <MainItem>
       <Key>Montagu-Stuart-</Key>
       <Forenames>Wortley</Forenames>
-      <Text>, MajorGen. The Hon. Edward J., C.B:, C.M.G., M.V.O., D.S.O. (to command a Division)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>M.V.O.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4538</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -990,7 +1001,9 @@
       <Key>Taylor</Key>
       <Title>Col.</Title>
       <Forenames>Arthur H. M.</Forenames>
-      <Text>, D.S.O. (Brigade Commander)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4455</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1069,7 +1082,9 @@
       <Key>Butlin</Key>
       <Title>Sir</Title>
       <Forenames>Henry Guy Trentham</Forenames>
-      <Text>, Bt. (2nd Lieut.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4619</PageNumber>
     </MainItem>
   </ItemGroup>

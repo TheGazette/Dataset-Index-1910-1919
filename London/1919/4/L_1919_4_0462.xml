@@ -104,14 +104,18 @@
   <ItemGroup>
     <MainItem>
       <Key>Barrett</Key>
-      <Text>Hon. temp. Lt. D. (cornmn. terminated)</Text>
+      <Title>Hon. temp. Lt.</Title>
+      <Forenames>D.</Forenames>
+      <Text>(cornmn. terminated)</Text>
       <PageNumber>13026</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Bazdre</Key>
-      <Text>Lt. M. J. E. (temp, commn. termdnalted on acc. of medical unfitness)</Text>
+      <Title>Lt.</Title>
+      <Forenames>M. J. E.</Forenames>
+      <Text>(temp, commn. termdnalted on acc. of medical unfitness)</Text>
       <PageNumber>14043</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -197,7 +201,9 @@
       <Key>Burfago</Key>
       <Title>temp. Lt. (actg. Capt.)</Title>
       <Forenames>H. J.</Forenames>
-      <Text>, M.B.E. (placed on Retd. List)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>12553</PageNumber>
     </MainItem>
     <SubItem>
@@ -263,7 +269,9 @@
       <Key>Cooke</Key>
       <Title>Capt. and Bt.</Title>
       <Forenames>Ma</Forenames>
-      <Text>;. T. F. V., D.S.O. (placed oni h.p. list)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>12420</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -315,7 +323,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Edwards</Key>
-      <Text>C. L. (praby 2nd Lt.). . ,</Text>
+      <Forenames>C. L.</Forenames>
+      <Text>(praby 2nd Lt.). . ,</Text>
       <PageNumber>12421</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -350,7 +359,10 @@
       <Key>Gibb</Key>
       <Title>temp. Brig.-Gen. (temp. Col.) Sir</Title>
       <Forenames>A.</Forenames>
-      <Text>, K.B.E., C.B. {temp, oommn. term.)</Text>
+      <Text>
+        <Honour>K.B.E.</Honour>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>15989</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -433,7 +445,9 @@
     <MainItem>
       <Key>Hardisty</Key>
       <Title>temp.</Title>
-      <Text>!Lb. H. L., M.C. (invalided, owing to wounds received in action, and retains rank)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>13138</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -457,7 +471,10 @@
     <MainItem>
       <Key>Haszard</Key>
       <Forenames>G. F.</Forenames>
-      <Text>, O.B.E., D.S.C. {tod. to permanent list of Offrs. a® Lt.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>15869</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -472,7 +489,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hills</Key>
-      <Text>Lt. ((temp. Capt.) T. (rel. temp, ranik on alteration in posting</Text>
+      <Title>Lt.</Title>
+      <Text>((temp. Capt.) T. (rel. temp, ranik on alteration in posting</Text>
       <PageNumber>14685</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -582,7 +600,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Law</Key>
-      <Text>'Capt. F. C, D.S.C. (returns to lOorps duty from seed. list, and borne supy. to estaibt. until absorbed)</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>12788</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -650,7 +670,9 @@
       <Key>Middleton</Key>
       <Title>temp. Lt.</Title>
       <Forenames>J. W.</Forenames>
-      <Text>, M.C. (invalided on ace. of injuries reed, in action, and retains rank)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>12553</PageNumber>
     </MainItem>
     <SubItem>
@@ -988,7 +1010,9 @@
       <Key>Green</Key>
       <Title>Capt.</Title>
       <Forenames>B. S.</Forenames>
-      <Text>, M.V.O. (placed on retd. list)</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>15870</PageNumber>
     </MainItem>
   </ItemGroup>

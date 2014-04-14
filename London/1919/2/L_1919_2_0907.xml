@@ -87,7 +87,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Tweedie</Key>
-      <Text>ICapt. H. A., A.F.C. (actg. Maj. iwhile spec, empld.)</Text>
+      <Text>
+        <Honour>A.F.C.</Honour>
+      </Text>
       <PageNumber>7305</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -109,7 +111,7 @@
       <PageNumber>5049</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>iGraded for pay and allces. as Or. A, and to be Hon. Lt</Text>
+      <Text>iGraded for pay and allces. as Or. A, and to be Hon. Lt.</Text>
       <PageNumber>6519</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -164,7 +166,9 @@
       <Key>Tylee</Key>
       <Title>Maj. (actg. Lt.^Col.)</Title>
       <Forenames>A. K.</Forenames>
-      <Text>, O.B.E. (trd. tounempld. list)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>5797</PageNumber>
     </MainItem>
     <SubItem>
@@ -240,7 +244,10 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Title>Capt. (actg. Lt.-Col.) (Army)</Title>
-      <Text>m., D.S.O., M.C. (temp. Lt.Col.) :.. ... .;</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4578</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -364,14 +371,17 @@
   <ItemGroup>
     <MainItem>
       <Key>UphamLt</Key>
-      <Text>. A. C. (Lt., A., and rel. actg. rank of Capt. on ceasing to be empld. as Capt.)</Text>
+      <Forenames>A. C.</Forenames>
+      <Text>(Lt., A., and rel. actg. rank of Capt. on ceasing to be empld. as Capt.)</Text>
       <PageNumber>7708</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Upson</Key>
-      <Text>. Lt. R. H. (.trd. to unempld. lost)</Text>
+      <Title>Lt.</Title>
+      <Forenames>R. H.</Forenames>
+      <Text>(.trd. to unempld. lost)</Text>
       <PageNumber>6251</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -442,7 +452,9 @@
       </Key>
       <Title>Capt. (actg. .Maj.)</Title>
       <Forenames>W. M.</Forenames>
-      <Text>, M.C. (trd. to unempld. list)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4890</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -613,7 +625,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Valtier</Key>
-      <Text>. Overseas Cadet R. P:(temp. 2nd Lt:) .„</Text>
+      <Forenames>Overseas</Forenames>
+      <Text>Cadet R. P:(temp. 2nd Lt:) .„</Text>
       <PageNumber>5802</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -640,8 +653,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Der Ben</Forenames>
+      <Key>Van Der</Key>
+      <Forenames>Ben</Forenames>
       <Text>, 2nd Lt. R. C. (appt. antedated)</Text>
       <PageNumber>5797</PageNumber>
     </MainItem>
@@ -659,7 +672,9 @@
         <KeyDitto>___</KeyDitto>
       </Key>
       <Title>Lt.</Title>
-      <Text>'(SO.) (Hon. Capt.). P. V. G., M.C. (Lt., Adm.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8115</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -679,8 +694,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Der Meersch</Forenames>
+      <Key>Van Der</Key>
+      <Forenames>Meersch</Forenames>
       <Text>, Lt. E. M. A. (trd. to unempld. list)</Text>
       <PageNumber>4577</PageNumber>
     </MainItem>
@@ -697,7 +712,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Van</Key>
-      <Text>. Der Spuy, Oversea. Cadet W. K. P. (temp. 2nd Lt.)</Text>
+      <Forenames>Der Spuy</Forenames>
+      <Text>, Oversea. Cadet W. K. P. (temp. 2nd Lt.)</Text>
       <PageNumber>5660</PageNumber>
     </MainItem>
     <SubItem>
@@ -764,9 +780,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Niekirk</Forenames>
-      <Text>, Overseas Cadet A. B. (temp. 2nd Lt.h</Text>
+      <Key>Van Niekirk</Key>
+      <Forenames>Overseas</Forenames>
+      <Text>Cadet A. B. (temp. 2nd Lt.h</Text>
       <PageNumber>7435</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -793,9 +809,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Velden</Forenames>
-      <Text>, Overseas Cadet C. J. ,</Text>
+      <Key>Van Velden</Key>
+      <Forenames>Overseas</Forenames>
+      <Text>Cadet C. J. ,</Text>
       <PageNumber>7560</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -872,7 +888,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>R</Forenames>
-      <Text>C, M.C. (actg Capt. whilst a Courts-Martial Offr.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5801</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1012,7 +1030,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Vice</Key>
-      <Text>. Overseas Cadet C. P. (temp. 2nd Lt.)</Text>
+      <Forenames>Overseas</Forenames>
+      <Text>Cadet C. P. (temp. 2nd Lt.)</Text>
       <PageNumber>5660</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1030,7 +1049,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Viener</Key>
-      <Text>. Rev. H. D. D., iM.A. (retains relative rank 'of Brig.-Gen. whilst a Chapln.-in-Chief),</Text>
+      <Title>Rev.</Title>
+      <Forenames>H. D. D.</Forenames>
+      <Text>, iM.A. (retains relative rank 'of Brig.-Gen. whilst a Chapln.-in-Chief),</Text>
       <PageNumber>5800</PageNumber>
     </MainItem>
   </ItemGroup>

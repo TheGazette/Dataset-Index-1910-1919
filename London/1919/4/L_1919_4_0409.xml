@@ -3,7 +3,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Yoreton</Key>
-      <Text>, Lt. (actg. Capt.) S., M.C. (rel. actg. rank oif Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>16122</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -12,14 +14,18 @@
       <Key>Youden</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>W. A.</Forenames>
-      <Text>, T.D. (itrd. to 7* Bn., High, L.I.)</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>14024</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Youell</Key>
-      <Text>Lt. A. R. St. J. (trd. to T.F.R., Gen. List)</Text>
+      <Title>Lt.</Title>
+      <Forenames>A. R. St. J</Forenames>
+      <Text>. (trd. to T.F.R., Gen. List)</Text>
       <PageNumber>12498</PageNumber>
     </MainItem>
     <SubItem>
@@ -164,7 +170,9 @@
       </Key>
       <Title>2nd Lt.</Title>
       <Forenames>L. W.</Forenames>
-      <Text>(Lt. and rem. seed, with M.G.C., Caiv.)</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>12729</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -196,7 +204,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Title>Ca.</Title>
-      <Text>pt. W. G. P., O.B.E. (rel. commn.. in T.F. on appt. to a pemm. commn. in R.A.F., and retains rank of Capt.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>14267</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -205,7 +215,9 @@
       <Key>Younghusiband</Key>
       <Title>Lt. (aotg. Oa.pt., addtl.)</Title>
       <Forenames>C. H.</Forenames>
-      <Text>, M.C. (rel. aotg. rank of Capt. on ceasing to comd. a Co.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>13131</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -223,7 +235,9 @@
     <MainItem>
       <Key>Anderson</Key>
       <Forenames>Lt</Forenames>
-      <Text>(actg. Capt.) J. M., M.C. (rel. appt. of Adjt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>14297</PageNumber>
     </MainItem>
     <SubItem>
@@ -280,7 +294,9 @@
       <Key>Bernays</Key>
       <Title>Lt.</Title>
       <Forenames>G. V.</Forenames>
-      <Text>, M.C. (actg. Capt., comdg. a Co.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>13119</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -288,7 +304,10 @@
     <MainItem>
       <Key>Roscawen</Key>
       <Forenames>Capt</Forenames>
-      <Text>: Hon. M. T., D.S.O.. M.C. (aotg. Maj. whilst 2nd in comd. of the Bn.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>12743</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -297,7 +316,9 @@
       <Key>Boyle</Key>
       <Title>Capt.</Title>
       <Forenames>S.</Forenames>
-      <Text>, M.C. (temp. Lt.Col., comdg. the 2/6th Bn., R. W«. R.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>12728</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -306,7 +327,9 @@
       <Key>Bradley</Key>
       <Title>Maj. (Bt. Lt.-Col.)</Title>
       <Forenames>R. W.</Forenames>
-      <Text>, D.S.O. (rel. aetg. rank of Lt.Col. on ceasing to comd. the l/6th Bn., Ohes. R.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>15410</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -324,7 +347,9 @@
       <Key>Buckler</Key>
       <Title>temp. Lt.</Title>
       <Forenames>F.</Forenames>
-      <Text>. M.C. (actg Capt., comdg. a Co.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>14627</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -342,7 +367,9 @@
       <Key>Chambers</Key>
       <Title>temp. Capt.</Title>
       <Forenames>G. R.</Forenames>
-      <Text>, M.C. (aotg. Maj whilst 2nd in comd. of the Bn.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>15422</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -351,14 +378,20 @@
       <Key>Cockhill</Key>
       <Title>Lt.</Title>
       <Forenames>J. B.</Forenames>
-      <Text>, D.S.O., M.C. (aotg. Capt., comdg. a Co.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>13119</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Connell</Key>
-      <Text>Maj! J. O. W., D.S.O. (ral. temp, rank of Lt.-Col. on ceasing to comd. the Bn.)</Text>
+      <Title>Maj</Title>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>116119</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -374,7 +407,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Corbett</Key>
-      <Text>itemp. Capt. V. D., M.C. (actg. Maj. whilst 2nd in comd. of the Bn.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>13394</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -392,7 +427,10 @@
       <Key>Crouch</Key>
       <Title>Capt. (Bt. Maj.)</Title>
       <Forenames>E. J.</Forenames>
-      <Text>, D.S.O., D.C.M. (actg. Maj. whilst 2nd in comd. of the l/9th Bn., Durh. L.I.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>13404</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -401,7 +439,9 @@
       <Key>Oubitt</Key>
       <Title>Capt.</Title>
       <Forenames>F. S.</Forenames>
-      <Text>, M.C. (actg. Maj. whilst 2nd in comd. of theBn,)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>12743</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -410,7 +450,9 @@
       <Key>Dale</Key>
       <Title>temp. Lt.</Title>
       <Forenames>P.</Forenames>
-      <Text>, M.C. (actg. Capt., comdg. a Co.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>14627</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -418,7 +460,9 @@
     <MainItem>
       <Key>Dalrymple</Key>
       <Forenames>Lt</Forenames>
-      <Text>, W. B., M.C. (actg. Capt., comdg. a Co.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>12111</PageNumber>
     </MainItem>
     <SubItem>
@@ -431,7 +475,10 @@
       <Key>Daniel</Key>
       <Title>Capt. (actg. Maj.)</Title>
       <Forenames>J. A.</Forenames>
-      <Text>. D.S.O., M.C. (retains actg: rank of Maj. whilst 2nd in comd. of the Bn.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>13759</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -445,7 +492,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Da</Key>
-      <Text>vies, temp. Lt. E., M.C. (actg. Capt,, conidg. a Co.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>12867</PageNumber>
     </MainItem>
     <SubItem>
@@ -465,7 +514,9 @@
       <Key>Durlacher</Key>
       <Title>temp. Capt.</Title>
       <Forenames>B. R.</Forenames>
-      <Text>, M.C. (actg. Maj. whilst 2nd in comd. of the l/5th Bn., Bord. R.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>15177</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -496,7 +547,10 @@
       <Key>Foilett</Key>
       <Title>Maj. (Bt. Lt.-Col.)</Title>
       <Forenames>F. B.</Forenames>
-      <Text>, D.S.O., M.C. (retains temp. rank of iLt.-Col., comdg. the Bn.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>13772</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -514,7 +568,9 @@
       <Key>Ford</Key>
       <Title>Capt. (aotg. Maj.)</Title>
       <Forenames>V. T. R.</Forenames>
-      <Text>, D.S.O. (trd. to York and Lane. .R., and retains actg. rank of Maj. whilst 2nd in comd. of theBn.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>15705</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -523,7 +579,9 @@
       <Key>Fowler</Key>
       <Title>Lt.</Title>
       <Forenames>W. C.</Forenames>
-      <Text>M.C. (actg. Maj. whilst 2nd in comd. of the 2/6th Bn., R. War. R.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>13630</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -532,14 +590,18 @@
       <Key>Francis</Key>
       <Title>Maj. (Bt. Col.)</Title>
       <Forenames>S. G.</Forenames>
-      <Text>, D.S.O. (actg. Lt.-Co!., comdg. the 2/4th Bn., W. Rid. R.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>12111</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Fulton</Key>
-      <Text>iLt. I, MoL., M.C. (actg. Capt., comdg. a Co.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>12867</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -548,7 +610,9 @@
       <Key>Furst</Key>
       <Title>temp. Li-.</Title>
       <Forenames>L. A.</Forenames>
-      <Text>, M.C. (actg. Capt., oomdg. a Co.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>12867</PageNumber>
     </MainItem>
     <SubItem>
@@ -574,7 +638,9 @@
       <Key>Gibbons</Key>
       <Title>temp. Lt.</Title>
       <Forenames>W.</Forenames>
-      <Text>, M.C. (actg. Ca.pit., comdg. a Co.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>13404</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -583,7 +649,9 @@
       <Key>Giffbrd</Key>
       <Title>Lt.</Title>
       <Forenames>W. D. G.</Forenames>
-      <Text>. M.C. (actg. Capt., comdg. a Co.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>13239</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -614,7 +682,9 @@
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Gregor</Forenames>
-      <Text>, Lt. A. W., M.C. (rel. actg. rank of Capt. on ceasing to comd. a Co.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>13394</PageNumber>
     </MainItem>
     <SubItem>
@@ -627,7 +697,9 @@
       <Key>Halford</Key>
       <Title>Capt.</Title>
       <Forenames>M. W.</Forenames>
-      <Text>, M.C. (actg. Mag. whilst 2nd in comd. of the l/5th Bn., Devon R.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>13538</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -636,7 +708,9 @@
       <Key>Hastings</Key>
       <Title>temp. Lt.</Title>
       <Forenames>R. A.</Forenames>
-      <Text>, M.C. (rel. actg. rank of Capt. on ceasing to be empld. with 2nd Bn., Slavo British Legion)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>15177</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -645,7 +719,9 @@
       <Key>Headlam</Key>
       <Title>temp. Lt.-Col.</Title>
       <Forenames>H. R.</Forenames>
-      <Text>, C. M.G., D.S.O. (rel. (temp, rank of Lt.-Col. on ceasing to comd. the l/4th Bn., York and Lane. R.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>12398</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -654,7 +730,9 @@
       <Key>Hennessy</Key>
       <Title>Lt. (actg. Maj.)</Title>
       <Forenames>R. G.</Forenames>
-      <Text>, D. S.O., M-,C. (retains actg. rank on appt. as 2nd in comd. of the Bn.)</Text>
+      <Text>
+        <Honour>D. S.O.</Honour>
+      </Text>
       <PageNumber>13393</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -665,7 +743,10 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>R</Forenames>
-      <Text>, G., D.S.O., M.C. (rel. actg. rank of Maj. on ceasing to be 2nd in comd. of the Bn.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>16719</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -683,7 +764,9 @@
       <Key>Houdret</Key>
       <Title>Lt.</Title>
       <Forenames>M.</Forenames>
-      <Text>,M.C. (aotg. Capt., comdg. a Co.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>14627</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -732,7 +815,9 @@
       <Key>Littlewood</Key>
       <Title>Lt.</Title>
       <Forenames>E. H.</Forenames>
-      <Text>, D.C.M. (acbg. Capt., comdg a Co.)</Text>
+      <Text>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>15822</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -779,7 +864,9 @@
       <Key>Oliphant</Key>
       <Title>temp.</Title>
       <Forenames>Capt</Forenames>
-      <Text>, (actg. Maj.) T. A. H., M.C. (retains actg. rank whilst 2nd in comd. of bhe Bn.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>14297</PageNumber>
     </MainItem>
     <SubItem>
@@ -792,7 +879,9 @@
       <Key>Peatfield</Key>
       <Title>Capt.</Title>
       <Forenames>B.</Forenames>
-      <Text>, M.C. (actg. Maj. whilst 2nd in comd. of the Bn.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>12867</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -801,14 +890,18 @@
       <Key>Purdon</Key>
       <Title>Capt.</Title>
       <Forenames>B. H.</Forenames>
-      <Text>, M.C. (actg. Maj. whilst 2nd .in comd. of theBn.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>13529</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Rae</Key>
-      <Text>Lt. (actg. Capt.) D, (rel. appt. of Adjt.)</Text>
+      <Title>Lt. (actg. Capt.)</Title>
+      <Forenames>D</Forenames>
+      <Text>, (rel. appt. of Adjt.)</Text>
       <PageNumber>14798</PageNumber>
     </MainItem>
     <SubItem>
@@ -836,7 +929,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Benton</Key>
-      <Text>lit. H. W. H., M.C. (Adjt. and' actg. Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>13538</PageNumber>
     </MainItem>
   </ItemGroup>

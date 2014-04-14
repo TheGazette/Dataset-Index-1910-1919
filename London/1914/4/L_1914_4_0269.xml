@@ -293,22 +293,27 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, Capt. Egerton A. Stafford (temporary Capt.)</Text>
+      <Key>O'Brien</Key>
+      <Title>Capt.</Title>
+      <Forenames>Egerton A. Stafford</Forenames>
+      <Text>(temporary Capt.)</Text>
       <PageNumber>10455</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donnell, Capt. John (Qrmr. and Hon. Capt.)</Text>
+      <Key>O'Donnell</Key>
+      <Title>Capt.</Title>
+      <Forenames>John</Forenames>
+      <Text>(Qrmr. and Hon. Capt.)</Text>
       <PageNumber>8330</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hara, James G. Musgrave (temporary Capt.)</Text>
+      <Key>O'Hara</Key>
+      <Forenames>James G. Musgrave</Forenames>
+      <Text>(temporary Capt.)</Text>
       <PageNumber>9964</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -351,8 +356,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Oswald</Key>
-      <Title>Col. St.</Title>
-      <Forenames>Clair</Forenames>
+      <Title>Col.</Title>
+      <Forenames>St. Clair</Forenames>
       <Text>(temporary Lieut.-CoI.)</Text>
       <PageNumber>9279</PageNumber>
     </MainItem>
@@ -460,7 +465,9 @@
       <Key>Parry</Key>
       <Title>Lieut.-Col. and Hon. Col.</Title>
       <Forenames>Llewellyn E. Sidney</Forenames>
-      <Text>, D.S.O. (temporary Lieut.-Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8736</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -641,7 +648,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Pember</Key>
-      <Text>. Henry Cecil (2ndLient.)</Text>
+      <Forenames>Henry Cecil</Forenames>
+      <Text>(2ndLient.)</Text>
       <PageNumber>9963</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -911,7 +919,9 @@
     <MainItem>
       <Key>Power</Key>
       <Forenames>William S.</Forenames>
-      <Text>, D.S.O. (Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>10774</PageNumber>
     </MainItem>
   </ItemGroup>

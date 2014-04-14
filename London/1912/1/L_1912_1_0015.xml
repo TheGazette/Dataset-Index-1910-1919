@@ -40,8 +40,19 @@
       <Key>Curwen</Key>
       <Title>2nd Lieut.</Title>
       <Forenames>W</Forenames>
-      <Text>, J. H., Aide...; de-Camp (Extra) to Sir. J. M. P. ... Fuller, Bart.,..,</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>1918</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Watteville</Key>
+      <Title>Lieut.</Title>
+      <Forenames>H. G. General</Forenames>
+      <Text>. Staff Officer, ;3rd grade</Text>
+      <PageNumber>641</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -531,14 +542,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Prevost</Key>
-      <Text>W. (Capt.),</Text>
+      <Forenames>W.</Forenames>
+      <Text>(Capt.),</Text>
       <PageNumber>884</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Purvisi-R</Key>
-      <Text>W..(Capt:) ';..'</Text>
+      <Forenames>W.</Forenames>
+      <Text>.(Capt:) ';..'</Text>
       <PageNumber>452</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -600,7 +613,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Williams-Drummond</Key>
-      <Text>, Lieut.-Col. Sir J. H., Bart, (ceases to belong .,to the, G.R.O..). ... ,-.,.:</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>646</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -840,7 +855,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sealy</Key>
-      <Text>P. T. (2nd Lieut.) '...'</Text>
+      <Forenames>P. T.</Forenames>
+      <Text>(2nd Lieut.) '...'</Text>
       <PageNumber>883</PageNumber>
     </MainItem>
   </ItemGroup>

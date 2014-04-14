@@ -57,8 +57,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Blake-Campbell</Key>
-      <Title>St.</Title>
-      <Forenames>J. F.</Forenames>
+      <Title>St. J.</Title>
+      <Forenames>F.</Forenames>
       <Text>(Surg.Maj.)</Text>
       <PageNumber>5952</PageNumber>
     </MainItem>
@@ -84,7 +84,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fox</Key>
-      <Text>. F. N. (Lieut.)</Text>
+      <Forenames>F. N.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>4958</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -98,8 +99,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Meara, Lieut. A. E. (seconded)</Text>
+      <Key>O'Meara</Key>
+      <Title>Lieut.</Title>
+      <Forenames>A. E.</Forenames>
+      <Text>(seconded)</Text>
       <PageNumber>6842</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -185,8 +188,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Pratt</Key>
-      <Forenames>E. St</Forenames>
-      <Text>. G. (Lieut.-Col.)</Text>
+      <Forenames>E. St. G</Forenames>
+      <Text>. (Lieut.-Col.)</Text>
       <PageNumber>5948</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -877,8 +880,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Malley, Lieut. T. F. (antedated)</Text>
+      <Key>O'Malley</Key>
+      <Title>Lieut.</Title>
+      <Forenames>T. F.</Forenames>
+      <Text>(antedated)</Text>
       <PageNumber>5872</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1148,7 +1153,9 @@
       <Key>Lawrence</Key>
       <Title>Col.</Title>
       <Forenames>R.</Forenames>
-      <Text>, C.B., to command a Brigade</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>4778</PageNumber>
     </MainItem>
   </ItemGroup>

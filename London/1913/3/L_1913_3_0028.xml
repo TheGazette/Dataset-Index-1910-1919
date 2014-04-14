@@ -611,7 +611,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Macguire</Key>
-      <Text>J. B. (Lieut.)</Text>
+      <Forenames>J. B.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>5237</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -634,7 +635,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Murray</Key>
-      <Text>2nd Lieut. M. G. D (removed)</Text>
+      <Title>2nd Lieut.</Title>
+      <Forenames>M. G. D</Forenames>
+      <Text>(removed)</Text>
       <PageNumber>6085</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -668,7 +671,9 @@
       <Key>Pauncefort-Duncan</Key>
       <Title>Sir</Title>
       <Forenames>E. P. D.</Forenames>
-      <Text>, Bart. (Lieut.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>6330</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -719,7 +724,9 @@
       <Key>Quilter</Key>
       <Title>Sir</Title>
       <Forenames>W. E.</Forenames>
-      <Text>€., Bart. (Capt.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>4973</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -774,8 +781,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>John, Hon M. St. A. T. (Capt.)</Text>
+      <Key>St. John</Key>
+      <Forenames>Hon M. St. A</Forenames>
+      <Text>. T. (Capt.)</Text>
       <PageNumber>6563</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -798,7 +806,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Selby-Lowndes</Key>
-      <Text>W. (Maj.)</Text>
+      <Forenames>W.</Forenames>
+      <Text>(Maj.)</Text>
       <PageNumber>6563</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -861,7 +870,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stedall</Key>
-      <Text>C. P. (Lieut.)</Text>
+      <Forenames>C. P.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>6013</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -982,22 +992,27 @@
   <ItemGroup>
     <MainItem>
       <Key>Territorial</Key>
-      <Forenames>Decoration</Forenames>
-      <Text>conferred upon : Ashby, Maj. J. W. F. W</Text>
+      <Text>
+        <Honour>Decoration</Honour>
+      </Text>
       <PageNumber>6234</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Barber</Key>
-      <Text>Qrmr. and Hon. Maj. T. ...</Text>
+      <Title>Qrmr. and Hon. Maj.</Title>
+      <Forenames>T.</Forenames>
+      <Text>...</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Benthall</Key>
-      <Text>Maj. J. L .. ' ...</Text>
+      <Title>Maj.</Title>
+      <Forenames>J. L .</Forenames>
+      <Text>. ' ...</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1012,14 +1027,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Bromley</Key>
-      <Text>Maj. C. E</Text>
+      <Title>Maj.</Title>
+      <Forenames>C. E.</Forenames>
       <PageNumber>6234</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Cadell</Key>
-      <Text>Maj. H. F</Text>
+      <Title>Maj.</Title>
+      <Forenames>H. F</Forenames>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1035,7 +1052,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Canton</Key>
-      <Text>Rev. W. J</Text>
+      <Title>Rev.</Title>
+      <Forenames>W. J.</Forenames>
       <PageNumber>6235</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1050,14 +1068,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Dickie</Key>
-      <Text>Capt. H</Text>
+      <Title>Capt.</Title>
+      <Forenames>H</Forenames>
       <PageNumber>6235</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Dickson</Key>
-      <Text>Surgn.-Maj. T. H</Text>
+      <Title>Surgn.</Title>
+      <Text>-Maj. T. H</Text>
       <PageNumber>6234</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1072,14 +1092,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Dunnet</Key>
-      <Text>Cant, and Hon. Maj. A. ... —-</Text>
+      <Forenames>Cant</Forenames>
+      <Text>, and Hon. Maj. A. ... —-</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Edwards</Key>
-      <Text>Capt. T. O.</Text>
+      <Title>Capt.</Title>
+      <Forenames>T. O.</Forenames>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1112,7 +1134,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Hordern</Key>
-      <Text>Maj. J. B. ...</Text>
+      <Title>Maj.</Title>
+      <Forenames>J. B.</Forenames>
+      <Text>...</Text>
       <PageNumber>___ ___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1127,21 +1151,24 @@
   <ItemGroup>
     <MainItem>
       <Key>Leah</Key>
-      <Text>Maj. G. H</Text>
+      <Title>Maj.</Title>
+      <Forenames>G. H</Forenames>
       <PageNumber>6234</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Macdonald</Key>
-      <Text>Capt. R.</Text>
+      <Title>Capt.</Title>
+      <Forenames>R.</Forenames>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Manson</Key>
-      <Text>Cant. D.</Text>
+      <Title>Cant.</Title>
+      <Forenames>D.</Forenames>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1156,7 +1183,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mitchell</Key>
-      <Text>Lieut-Col. A</Text>
+      <Title>Lieut-Col.</Title>
+      <Forenames>A</Forenames>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1210,7 +1238,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rice</Key>
-      <Text>Maj. G. C. D</Text>
+      <Title>Maj.</Title>
+      <Forenames>G. C. D</Forenames>
       <PageNumber>6235</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1240,14 +1269,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Stephens</Key>
-      <Text>Maj. H. F.' Whitburn. Maj. C. W. S</Text>
+      <Title>Maj.</Title>
+      <Forenames>H. F.</Forenames>
+      <Text>' Whitburn. Maj. C. W. S</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Williams</Key>
-      <Text>Maj. J. L. V. D</Text>
+      <Title>Maj.</Title>
+      <Forenames>J. L. V. D.</Forenames>
       <PageNumber>6234</PageNumber>
       <PageNumber>6416</PageNumber>
     </MainItem>
@@ -1495,7 +1527,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Madden</Key>
-      <Text>T. E</Text>
+      <Forenames>T. E</Forenames>
       <PageNumber>5145</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1518,7 +1550,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bridge</Key>
-      <Text>R. E. A .</Text>
+      <Forenames>R. E. A .</Forenames>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1546,7 +1578,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Plinston</Key>
-      <Text>G. H</Text>
+      <Forenames>G. H</Forenames>
       <PageNumber>5144</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1575,7 +1607,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Collings</Key>
-      <Text>E. G</Text>
+      <Forenames>E. G</Forenames>
       <PageNumber>4647</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1589,7 +1621,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lee</Key>
-      <Text>L. H :</Text>
+      <Forenames>L. H</Forenames>
+      <Text>:</Text>
       <PageNumber>5062</PageNumber>
     </MainItem>
   </ItemGroup>

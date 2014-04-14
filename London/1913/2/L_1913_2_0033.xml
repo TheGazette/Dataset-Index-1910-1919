@@ -150,8 +150,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donoghue, P. E</Text>
+      <Key>O'Donoghue</Key>
+      <Forenames>P. E</Forenames>
       <PageNumber>4314</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -245,7 +245,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Barnes</Key>
-      <Text>. C. . :</Text>
+      <Forenames>C.</Forenames>
+      <Text>. :</Text>
       <PageNumber>3919</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -409,8 +410,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Phelan</Key>
-      <Forenames>J. O</Forenames>
-      <Text>'C</Text>
+      <Forenames>J. O'C</Forenames>
       <PageNumber>3520</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -465,7 +465,9 @@
       <Key>Bell</Key>
       <Title>Sir</Title>
       <Forenames>J.</Forenames>
-      <Text>, Bart</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>3991</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -474,7 +476,9 @@
       <Key>Bell</Key>
       <Title>Sir</Title>
       <Forenames>J.</Forenames>
-      <Text>, Bart</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>3520</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -515,7 +519,9 @@
       <Key>Cayley</Key>
       <Title>Sir</Title>
       <Forenames>G. E. A.</Forenames>
-      <Text>, Bart, (resigned)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>3996</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -770,7 +776,9 @@
       <Key>Warrender</Key>
       <Title>Sir</Title>
       <Forenames>G. J. S.</Forenames>
-      <Text>. Bart</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>3591</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -856,7 +864,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hutchison</Key>
-      <Text>. J. de M</Text>
+      <Forenames>J. de M</Forenames>
       <PageNumber>3438</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1059,6 +1067,13 @@
       <Key>Crookshank</Key>
       <Forenames>G. C. C.</Forenames>
       <PageNumber>3148</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Caen</Key>
+      <Forenames>R. G. F. H.</Forenames>
+      <PageNumber>4564</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

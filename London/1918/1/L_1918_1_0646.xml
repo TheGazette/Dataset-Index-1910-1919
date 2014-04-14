@@ -193,7 +193,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Welsh</Key>
-      <Text>. W. L. (Sqd. Cdr.)</Text>
+      <Forenames>W. L.</Forenames>
+      <Text>(Sqd. Cdr.)</Text>
       <PageNumber>87</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -457,7 +458,9 @@
     <MainItem>
       <Key>Young</Key>
       <Forenames>C. L.</Forenames>
-      <Text>, D.S.C. (T./Flit. Lt.)</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>89</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -476,7 +479,9 @@
     <MainItem>
       <Key>Henderson</Key>
       <Title>Lt.</Title>
-      <Text>-Gen. Sir D., K.O.B., D.S.O. (temp. Lt.-Gen.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3636</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -484,7 +489,10 @@
     <MainItem>
       <Key>Kerr</Key>
       <Forenames>Rear-Adm</Forenames>
-      <Text>. M. E. F., C.B., M.V.O. (temp. Maj.-Gen.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>3636</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -492,7 +500,10 @@
     <MainItem>
       <Key>Paine</Key>
       <Forenames>Commodore</Forenames>
-      <Text>Sir G. M., K.C.B., M.V.O. (temp. Maj.Gen.)</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>3636</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -501,7 +512,10 @@
       <Key>Trenchard</Key>
       <Title>Maj.-Gen. Sir</Title>
       <Forenames>H. M.</Forenames>
-      <Text>, K.C.B., D.S.O. (temp. Maj.Gen.) ... ,</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3636</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -535,7 +549,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Vyvyan</Key>
-      <Text>; Capt. (R.N.) A.V., D.S.O. (temp. Col. and temp. Brig.Gen.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3636</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -563,7 +579,9 @@
       <Key>Huggins</Key>
       <Title>Capt.</Title>
       <Forenames>A.</Forenames>
-      <Text>, D.S.O. (temp. Lt.-Col.,. and temp. Brig.-Gen. while a Director)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3636</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -581,7 +599,9 @@
       <Key>Whittington</Key>
       <Title>Capt.</Title>
       <Forenames>C. H.</Forenames>
-      <Text>, C.M.G. (temp. Lt.-Col. and temp. Brig.Gen. while a Director)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>3636</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -597,7 +617,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Denbigh</Key>
-      <Text>: Lloyd, Baron Kenyon, K.C.V.O</Text>
+      <Text>
+        <Honour>K.C.V.O</Honour>
+      </Text>
       <PageNumber>1439</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -611,14 +633,18 @@
   <ItemGroup>
     <MainItem>
       <Key>Kincardine</Key>
-      <Text>: Burnett, Sir Thomas, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>1440</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Roxburgh</Key>
-      <Text>: Roxburgh©, The Duke of, K.T</Text>
+      <Text>
+        <Honour>K.T</Honour>
+      </Text>
       <PageNumber>1440</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -626,11 +652,13 @@
   <ItemGroup>
     <MainItem>
       <Key>Devon</Key>
-      <Text>: Bowles, Maj.-Gen. Frederick Augustus, C.B</Text>
+      <Text>
+        <Honour>C.B</Honour>
+      </Text>
       <PageNumber>1231</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Troyte, Lt.-Col. Hugh Leonard Acland .-</Text>
+      <Text>Troyte, Lt.-Col. Hugh Leonard Acland .-.</Text>
       <PageNumber>1231</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -655,7 +683,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Hertford</Key>
-      <Text>: Foot, Brig.-Gen. Richard Mildmay, C.M.G., D.S.O</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>3772</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -669,12 +700,15 @@
   <ItemGroup>
     <MainItem>
       <Key>London</Key>
-      <Text>: Davison, Sir William Henry, K.B.E., J.P</Text>
+      <Text>
+        <Honour>K.B.E.</Honour>
+      </Text>
       <PageNumber>2340</PageNumber>
     </MainItem>
     <SubItem>
       <Text>
         <PageNumber>2340</PageNumber>
+        <Honour>M.P.</Honour>
         <PageNumber>2340</PageNumber>
       </Text>
       <PageNumber>2340</PageNumber>
@@ -722,6 +756,8 @@
     </MainItem>
     <SubItem>
       <Text>
+        <Honour>C.V.O.</Honour>
+        <Honour>T.D.</Honour>
         <PageNumber>1442</PageNumber>
       </Text>
       <PageNumber>1442</PageNumber>

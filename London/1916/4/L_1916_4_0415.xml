@@ -70,16 +70,10 @@
       <Text>(temp.)</Text>
       <PageNumber>11598</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___</KeyDitto>
-      </Key>
-      <Forenames>W. H. P.</Forenames>
-      <Text>(temp.)</Text>
+    <SubItem>
+      <Text>W. H. P. (temp.)</Text>
       <PageNumber>12583</PageNumber>
-    </MainItem>
+    </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
@@ -124,7 +118,9 @@
       <Key>Anson</Key>
       <Title>Sir</Title>
       <Forenames>J. H. A.</Forenames>
-      <Text>, Bart</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>11155</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -211,8 +207,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Clarke</Key>
-      <Forenames>W.</Forenames>
-      <Text>de M</Text>
+      <Forenames>W. de M</Forenames>
       <PageNumber>11156</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -408,8 +403,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Leathes</Key>
-      <Forenames>J. D.</Forenames>
-      <Text>de M</Text>
+      <Forenames>J. D. de M</Forenames>
       <PageNumber>11155</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -522,8 +516,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Richards</Key>
-      <Forenames>J.</Forenames>
-      <Text>de C</Text>
+      <Forenames>J. de C</Forenames>
       <PageNumber>12230</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -533,16 +526,10 @@
       <Forenames>K. M. L .</Forenames>
       <PageNumber>12123</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___</KeyDitto>
-      </Key>
-      <Forenames>S.</Forenames>
-      <Text>(temp.)</Text>
+    <SubItem>
+      <Text>S. (temp.)</Text>
       <PageNumber>11155</PageNumber>
-    </MainItem>
+    </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
@@ -584,8 +571,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Smith</Key>
-      <Forenames>J. P.</Forenames>
-      <Text>de B</Text>
+      <Forenames>J. P. de B</Forenames>
       <PageNumber>9862</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -607,13 +593,7 @@
     <MainItem>
       <Key>Symonds</Key>
       <Forenames>C. F</Forenames>
-      <PageNumber>___ ___ ___ ___</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Tamplin</Key>
-      <Forenames>J. F. W</Forenames>
+      <Text>Tamplin, J. F. W</Text>
       <PageNumber>9862</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -634,8 +614,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Townshend</Key>
-      <Forenames>C. R.</Forenames>
-      <Text>de B. L</Text>
+      <Forenames>C. R. de B</Forenames>
+      <Text>. L</Text>
       <PageNumber>9862</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1376,6 +1356,5 @@
       <PageNumber>10856</PageNumber>
     </MainItem>
   </ItemGroup>
-  <KeyDitto>___ ___</KeyDitto>
 </Index>
 

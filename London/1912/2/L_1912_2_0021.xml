@@ -209,6 +209,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Patron</Key>
+      <Forenames>H.</Forenames>
+      <Text>(Lieut.)</Text>
+      <PageNumber>2397</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Dunlop</Key>
       <Forenames>F. C. S.</Forenames>
       <Text>(Capt.)</Text>
@@ -571,7 +579,8 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>. Clair, Hon. C. H. M. (Capt.)</Text>
+      <Forenames>Clair</Forenames>
+      <Text>, Hon. C. H. M. (Capt.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -640,8 +649,8 @@
   <ItemGroup>
     <MainItem>
       <Key>FitzGerald</Key>
-      <Forenames>L.</Forenames>
-      <Text>de V! (Capt.)</Text>
+      <Forenames>L. de V</Forenames>
+      <Text>! (Capt.)</Text>
       <PageNumber>2896</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -682,7 +691,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kellie</Key>
-      <Text>. G. J. D. (Lieut.)</Text>
+      <Forenames>G. J. D.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>4385</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -713,8 +723,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Farrell, E. H. M. (Capt.)</Text>
+      <Key>O'Farrell</Key>
+      <Forenames>E. H. M.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>4039</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -843,7 +854,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lefroy</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, F. B. (seconded)</Text>
       <PageNumber>2896</PageNumber>
     </MainItem>
@@ -866,8 +877,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Shee, Capt. G. I. P. P. (retired)</Text>
+      <Key>O'Shee</Key>
+      <Title>Capt.</Title>
+      <Forenames>G. I. P. P.</Forenames>
+      <Text>(retired)</Text>
       <PageNumber>2705</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1017,7 +1030,9 @@
       <Key>Cuninghame</Key>
       <Title>Sir</Title>
       <Forenames>T. A. A. M.</Forenames>
-      <Text>, Bart. (Capt.) ,</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1277,7 +1292,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Colville</Key>
-      <Text>. T. R. (Qrmr.)</Text>
+      <Forenames>T. R.</Forenames>
+      <Text>(Qrmr.)</Text>
       <PageNumber>2640</PageNumber>
     </MainItem>
   </ItemGroup>

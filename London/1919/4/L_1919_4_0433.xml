@@ -328,9 +328,13 @@
   <ItemGroup>
     <MainItem>
       <Key>Valentia</Key>
-      <Title>Hon. Comdt. and Hon. Lt.-Col.</Title>
-      <Forenames>The Rt</Forenames>
-      <Text>, Hon. A. Visct., C.B., M.V.O., T.D. (rel. conimn., and retains hon. rank of Lt.-Col.)</Text>
+      <Title>Hon. Comdt. and Hon. Lt.-Col. The</Title>
+      <Forenames>Rt</Forenames>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>M.V.O.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>12750</PageNumber>
     </MainItem>
   </ItemGroup>

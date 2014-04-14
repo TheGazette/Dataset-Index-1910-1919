@@ -28,8 +28,8 @@
     <MainItem>
       <Key>Isaacson</Key>
       <Title>Capt.</Title>
-      <Forenames>Colin</Forenames>
-      <Text>de S. (removed by Royal Warrant for Pay and Promotion)</Text>
+      <Forenames>Colin de S</Forenames>
+      <Text>. (removed by Royal Warrant for Pay and Promotion)</Text>
       <PageNumber>4008</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -38,7 +38,9 @@
       <Key>Keppel</Key>
       <Title>Capt. the Hon.</Title>
       <Forenames>George</Forenames>
-      <Text>, M.V.O. (removed by Royal Warrant for Pay and Promotion) ...</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -46,7 +48,9 @@
     <MainItem>
       <Key>Lowe</Key>
       <Forenames>Second</Forenames>
-      <Text>Lieut. Arthur C, D.S.O. (removed by Royal Warrant for Pay and Promotion) ...</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -72,7 +76,10 @@
       <Key>Milner</Key>
       <Title>Capt.</Title>
       <Forenames>Marcus</Forenames>
-      <Text>, H.M.V.O., D.S.O. (Hon. Lieut.) (ceases to belong to the Reserve of Officers)</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3296</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -415,7 +422,9 @@
       <Key>Charlton</Key>
       <Title>Capt.</Title>
       <Forenames>Lionel E. O.</Forenames>
-      <Text>, D.S.O. (Flying Officer, and-to be seconded)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3927</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -426,6 +435,15 @@
       <Forenames>Reginald</Forenames>
       <Text>(Flight Commander and temporary Capt.)</Text>
       <PageNumber>4451</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Havilland</Key>
+      <Title>2nd Lieut.</Title>
+      <Forenames>Geoffrey</Forenames>
+      <Text>(appointed to the Reserve)</Text>
+      <PageNumber>3295</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -621,8 +639,8 @@
     <MainItem>
       <Key>Tucker</Key>
       <Title>Capt.</Title>
-      <Forenames>Frederick St</Forenames>
-      <Text>. G. (appointed to the Reserve)</Text>
+      <Forenames>Frederick St. G</Forenames>
+      <Text>. (appointed to the Reserve)</Text>
       <PageNumber>3387</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -665,14 +683,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Dobie</Key>
-      <Text>Second Lieut. William F. R.</Text>
+      <Forenames>Second</Forenames>
+      <Text>Lieut. William F. R.</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Dowding</Key>
-      <Text>Capt. Hugh C. T. ...</Text>
+      <Title>Capt.</Title>
+      <Forenames>Hugh C. T.</Forenames>
+      <Text>...</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>

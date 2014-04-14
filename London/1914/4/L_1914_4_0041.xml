@@ -3,7 +3,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Chappie</Key>
-      <Text>.William Allan, M.D. {temporary Maj.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>9665</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -34,7 +36,9 @@
     <MainItem>
       <Key>Cheyne</Key>
       <Forenames>Douglas Cordon</Forenames>
-      <Text>,, M.D. (temporary Lieut.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>9001</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -43,7 +47,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>:)</Text>
       <PageNumber>10298</PageNumber>
     </MainItem>
@@ -72,7 +76,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>;)</Text>
       <PageNumber>10192</PageNumber>
     </MainItem>
@@ -90,7 +94,9 @@
     <MainItem>
       <Key>Clements</Key>
       <Forenames>John Matthewson</Forenames>
-      <Text>, M.D. (temporary Lieut.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>10772</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -164,7 +170,10 @@
       <Key>Connolly</Key>
       <Title>James.</Title>
       <Forenames>Harris</Forenames>
-      <Text>; M.D., F.R.C.S. (temporary Lieut.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>8614</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -214,7 +223,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Couper</Key>
-      <Text>, Alexander, Johnston, M.B. (temporary Lieut.) Courts,. Arnold C Summerson, M.D. (temporary Lieut.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>11025</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -304,14 +315,18 @@
     <MainItem>
       <Key>Cullum</Key>
       <Forenames>Sidney John</Forenames>
-      <Text>, M.D. (temporary Lieut.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>9665</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Culpin</Key>
-      <Text>. Millais, M.B., F.R.C.S. (temporary Lieut.)</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>9665</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -369,7 +384,9 @@
     <MainItem>
       <Key>Davies</Key>
       <Forenames>Arthur</Forenames>
-      <Text>, M.D. (temporary Lieut.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>10585</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -387,7 +404,9 @@
     <MainItem>
       <Key>Davies-Colley</Key>
       <Forenames>Robert</Forenames>
-      <Text>, F.R.C.S. (temporary Capt.)</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>9376</PageNumber>
     </MainItem>
     <SubItem>
@@ -417,6 +436,14 @@
       <Forenames>Laurence Thompson</Forenames>
       <Text>, M.B. (temporary Lieut.)</Text>
       <PageNumber>9665</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Groot</Key>
+      <Forenames>Henry Reginald Stanley Van Ryck</Forenames>
+      <Text>(temporary Lieut.) ...</Text>
+      <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -510,7 +537,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Mackenzie</Forenames>
-      <Text>,M.D.(temporaryLieut:)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>10898</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -606,7 +635,9 @@
     <MainItem>
       <Key>Dunbar</Key>
       <Forenames>Benjamin H. V.</Forenames>
-      <Text>, M.D. (Maj.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>8765</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -710,7 +741,9 @@
     <MainItem>
       <Key>Edgar</Key>
       <Forenames>Charles John</Forenames>
-      <Text>, M.D. (temporary Lieut.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>9364</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -736,7 +769,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Thomas Renton</Forenames>
-      <Text>, M.D. (temporary Lieut.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>8857</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -811,7 +846,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Evan Parry</Forenames>
-      <Text>, M.D. (temporary Lieut.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>9665</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -821,7 +858,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Thomas Garfield</Forenames>
-      <Text>; M.D. (temporary Lieut.)-</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>8614</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -840,7 +879,9 @@
       <Key>Eve</Key>
       <Title>Maj. Sir</Title>
       <Forenames>Frederick S.</Forenames>
-      <Text>, Kt., F.R.C.S. (temporary Lieut.Col.)</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -872,7 +913,9 @@
     <MainItem>
       <Key>Fennell</Key>
       <Forenames>Charles Henry</Forenames>
-      <Text>, M.D. (temporary Lieut.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>10298</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -888,7 +931,9 @@
     <MainItem>
       <Key>Ferguson</Key>
       <Forenames>J</Forenames>
-      <Text>; G., M.D. (temporary Lieut.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>9018</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -918,7 +963,9 @@
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Montgomery Du</Forenames>
-      <Text>. Bois, M.D. (temporary* Lieut:)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>1102</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -986,7 +1033,9 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Robert Dow</Forenames>
-      <Text>, F.R.C.S. (temporary Lieut.)</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>10772</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1022,7 +1071,9 @@
     <MainItem>
       <Key>Forsdike</Key>
       <Forenames>Herbert Sidney</Forenames>
-      <Text>, M.D. (temporary Lieut.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>9666</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -44,7 +44,9 @@
     <MainItem>
       <Key>Hallding</Key>
       <Forenames>P.</Forenames>
-      <Text>, M.C. (Wesleyan) , (temp. actg.J</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>11918</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -53,7 +55,9 @@
     <MainItem>
       <Key>Close</Key>
       <Forenames>R. B. M.</Forenames>
-      <Text>, O.B.E., M.A. (invalided on acc. of ill-health contracted in the Service and retains rank)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>9863</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -63,7 +67,9 @@
       <Key>Banks</Key>
       <Title>temp. Lt. and Qrmr.</Title>
       <Forenames>A. J.</Forenames>
-      <Text>, D.C.M. (placed on retd. list)</Text>
+      <Text>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>8391</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -175,7 +181,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Beazley</Key>
-      <Text>G. W.(Lt.)</Text>
+      <Forenames>G. W.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>11355</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -336,6 +343,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Grnchy</Key>
+      <Title>Hon. temp. 2nd Lt.</Title>
+      <Forenames>F.</Forenames>
+      <Text>de Q. (hon. temp, commn. terminated)</Text>
+      <PageNumber>11355</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Deacon</Key>
       <Title>temp. Lt.</Title>
       <Forenames>F. G.</Forenames>
@@ -347,8 +363,8 @@
     <MainItem>
       <Key>Dixon</Key>
       <Title>Hon. temp. Lt.</Title>
-      <Forenames>A. O. St</Forenames>
-      <Text>. J. (hon. temp, commn, terminated)</Text>
+      <Forenames>A. O. St. J</Forenames>
+      <Text>. (hon. temp, commn, terminated)</Text>
       <PageNumber>11918</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -399,8 +415,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Girdlestone</Key>
-      <Forenames>G. O</Forenames>
-      <Text>'D. (Lt.)</Text>
+      <Forenames>G. O'D</Forenames>
+      <Text>. (Lt.)</Text>
       <PageNumber>11355</PageNumber>
     </MainItem>
     <SubItem>
@@ -568,7 +584,9 @@
       <Key>Ker</Key>
       <Title>Hon. temp. Lt.-Col.</Title>
       <Forenames>H. T.</Forenames>
-      <Text>, O.B.E. (hon. temp, commn. terminated)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>11355</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -649,7 +667,9 @@
       <Key>Middleton</Key>
       <Title>temp. Lt.</Title>
       <Forenames>J. W.</Forenames>
-      <Text>, M.C. (commn. terminated on acc. of med. unfitness caused by injuries received in action, and to retain rank without right to wear uniform) ... »</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8997</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -684,7 +704,9 @@
       <Key>Newling</Key>
       <Title>Capt.</Title>
       <Forenames>G. A.</Forenames>
-      <Text>, M.C., (inval ded on acc. of wounds received in action, and retains rank)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10352</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -699,8 +721,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Dwyer, temp. Lt. A. (transferred to permanent list as Lt.)</Text>
+      <Key>O'Dwyer</Key>
+      <Title>temp. Lt.</Title>
+      <Forenames>A.</Forenames>
+      <Text>(transferred to permanent list as Lt.)</Text>
       <PageNumber>9572</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -752,7 +776,9 @@
       <Key>Reid</Key>
       <Title>Hon. temp. Lt.-Col.</Title>
       <Forenames>H. C</Forenames>
-      <Text>, C.B. (hon. temp, commn. terminated)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>11918</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -761,7 +787,9 @@
       <Key>Reynolds</Key>
       <Title>temp. Capt.</Title>
       <Forenames>J. E.</Forenames>
-      <Text>, D.S.C. (returns to Corps duty from Seed. List and absorbed in the estabt.)</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>11467</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -988,7 +1016,9 @@
       <Key>Williamson</Key>
       <Title>Lt.</Title>
       <Forenames>W. C</Forenames>
-      <Text>, M.C. (invalided on acc. of med. unfitness caused by injuries received in action and retains rank)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>11467</PageNumber>
     </MainItem>
     <SubItem>
@@ -999,7 +1029,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wills</Key>
-      <Text>J. H. G. (Lt.) .. ..' :</Text>
+      <Forenames>J. H. G.</Forenames>
+      <Text>(Lt.) .. ..' :</Text>
       <PageNumber>11365</PageNumber>
     </MainItem>
   </ItemGroup>

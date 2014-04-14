@@ -165,7 +165,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Goff</Key>
-      <Text>. T. C. (Maj.)</Text>
+      <Forenames>T. C.</Forenames>
+      <Text>(Maj.)</Text>
       <PageNumber>9994</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -222,8 +223,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gorton</Key>
-      <Forenames>R. St</Forenames>
-      <Text>. G. (Lieut.-Col., to remain seconded)</Text>
+      <Forenames>R. St. G</Forenames>
+      <Text>. (Lieut.-Col., to remain seconded)</Text>
       <PageNumber>9892</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -464,7 +465,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Haig</Key>
-      <Text>. A. G. (Maj.f</Text>
+      <Forenames>A. G.</Forenames>
+      <Text>(Maj.f</Text>
       <PageNumber>9993</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -541,8 +543,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hamersley</Key>
-      <Forenames>H. St</Forenames>
-      <Text>. G. (Maj.)</Text>
+      <Forenames>H. St. G</Forenames>
+      <Text>. (Maj.)</Text>
       <PageNumber>9993</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -672,7 +674,10 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>R. H.</Forenames>
-      <Text>, M.V.O., D.S.O. (Lieut.-Col. to remain seconded)</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>9992</PageNumber>
     </MainItem>
   </ItemGroup>

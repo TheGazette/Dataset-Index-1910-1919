@@ -307,7 +307,9 @@
       <Key>Parsons</Key>
       <Title>Lieut.-Col.</Title>
       <Forenames>Frederick George</Forenames>
-      <Text>, D.S.O. (temporary Lieut.-Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8146</PageNumber>
     </MainItem>
     <SubItem>
@@ -413,7 +415,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cherry</Key>
-      <Text>. John W. (Capt.)</Text>
+      <Forenames>John W.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1043,7 +1046,12 @@
   <ItemGroup>
     <MainItem>
       <Key>W</Key>
-      <Text>i n g a t e, Gen. Sir Francis Reginald, G.C.B., G.C.V.O., K.C.M.G., D.S.O. (Hon. Col.)</Text>
+      <Text>
+        <Honour>G.C.B.</Honour>
+        <Honour>G.C.V.O.</Honour>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>10703</PageNumber>
     </MainItem>
   </ItemGroup>

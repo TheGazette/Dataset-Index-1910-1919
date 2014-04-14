@@ -179,8 +179,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Baker</Key>
-      <Forenames>Gordon St</Forenames>
-      <Text>. G. Wildman (temporary Sub-Lieut.)</Text>
+      <Forenames>Gordon St. G</Forenames>
+      <Text>. Wildman (temporary Sub-Lieut.)</Text>
       <PageNumber>5513</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -443,8 +443,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Title>Lieut.</Title>
-      <Text>-Commander William (retired)</Text>
+      <Title>Lieut.-Commander</Title>
+      <Forenames>William</Forenames>
+      <Text>(retired)</Text>
       <PageNumber>5751</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1206,7 +1207,9 @@
     <MainItem>
       <Key>Charlewood</Key>
       <Forenames>Clement James</Forenames>
-      <Text>, D.S.C. (Sub-Lieut.)</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>4061</PageNumber>
     </MainItem>
   </ItemGroup>

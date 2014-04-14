@@ -98,7 +98,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gethih</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, F. D.. S. (Asst. Proof arid Experimental Officer)</Text>
       <PageNumber>2009</PageNumber>
     </MainItem>
@@ -525,7 +525,9 @@
     <MainItem>
       <Key>Beadnell</Key>
       <Forenames>H.</Forenames>
-      <Text>O.M. (Capt.) .. -</Text>
+      <Text>
+        <Honour>O.M.</Honour>
+      </Text>
       <PageNumber>451</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1188,8 +1190,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Rorke, C. H. (Capt.)</Text>
+      <Key>O'Rorke</Key>
+      <Forenames>C. H.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>1345</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -6,15 +6,21 @@
         <KeyDitto>-</KeyDitto>
       </Key>
       <Forenames>Pearce</Forenames>
-      <Text>, Maj. Francis Barrow, ' C.M.G., British Resident in Zanzibar -</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>3226</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Peirse</Key>
-      <Forenames>Rear-</Forenames>
-      <Text>Admiral Richard Henry, C.B., M.V.O., Knight Commander of the Bath</Text>
+      <Title>Rear-Admiral</Title>
+      <Forenames>Richard Henry</Forenames>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>4876</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -50,7 +56,10 @@
     <MainItem>
       <Key>Pottinger</Key>
       <Forenames>David</Forenames>
-      <Text>, I.S.O., Esquire, St. John of Jerusalem</Text>
+      <Text>
+        <Honour>I.S.O</Honour>
+        <Honour>Esquire, St. John of Jerusalem</Honour>
+      </Text>
       <PageNumber>2875</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -66,7 +75,10 @@
     <MainItem>
       <Key>Head</Key>
       <Forenames>Herbert James</Forenames>
-      <Text>, C.M.G., Companion of the Bath</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>Companion of the Bath</Honour>
+      </Text>
       <PageNumber>4877</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -74,7 +86,9 @@
     <MainItem>
       <Key>Redmayne</Key>
       <Forenames>Richard A.</Forenames>
-      <Text>. Studdert, C.B., Knight Commander of the Bath</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -92,7 +106,9 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>William James</Forenames>
-      <Text>, Companion, Star of India</Text>
+      <Text>
+        <Honour>Companion, Star of India</Honour>
+      </Text>
       <PageNumber>4877</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -127,7 +143,11 @@
       <Key>Robb</Key>
       <Title>Maj.-Gen.</Title>
       <Forenames>F. Spencer</Forenames>
-      <Text>, C.B., M.V.O., Knight Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>M.V.O.</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4879</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -153,7 +173,9 @@
       <Key>Roper</Key>
       <Title>Col.</Title>
       <Forenames>Alexander William</Forenames>
-      <Text>, Companion of the Bath</Text>
+      <Text>
+        <Honour>Companion of the Bath</Honour>
+      </Text>
       <PageNumber>4876</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -170,7 +192,12 @@
       <Key>Rundle</Key>
       <Title>Gen. Sir</Title>
       <Forenames>Henry M. Leslie</Forenames>
-      <Text>, R.A.. G.C.B., G.C.V.O., K.C.M.G., D.S.O., Knight Grand Cross, St. Michael and St. George</Text>
+      <Text>
+        <Honour>G.C.B.</Honour>
+        <Honour>G.C.V.O.</Honour>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4878</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -184,8 +211,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>John, Col. George F. William, Companion of the.Bath</Text>
+      <Key>St. John</Key>
+      <Title>Col.</Title>
+      <Forenames>George F. William</Forenames>
+      <Text>, Companion of the.Bath</Text>
       <PageNumber>4876</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -219,7 +248,9 @@
     <MainItem>
       <Key>Sant</Key>
       <Forenames>James</Forenames>
-      <Text>, R.A., Commander Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4879</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -228,7 +259,11 @@
       <Key>Scott-Kerr</Key>
       <Title>Col.</Title>
       <Forenames>Robert</Forenames>
-      <Text>, M.V.O., D. S.O., Companion of the Bath</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+        <Honour>D. S.O.</Honour>
+        <Honour>Companion of the Bath</Honour>
+      </Text>
       <PageNumber>4876</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -263,7 +298,10 @@
       <Key>Sheppard</Key>
       <Title>Rev. Canon</Title>
       <Forenames>Edgar</Forenames>
-      <Text>, C.V.O., D.D., Knight. Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>C.V.O.</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4879</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -272,14 +310,18 @@
       <Key>Singh</Key>
       <Title>Lieut.-Col. Raj.</Title>
       <Forenames>Kumar Bir Bikram</Forenames>
-      <Text>, CLE., Companion, Star of India</Text>
+      <Text>
+        <Honour>Companion, Star of India</Honour>
+      </Text>
       <PageNumber>4877</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Sindh</Key>
-      <Text>of Jullundur, Sardar Dal jit, Companion, Star of India ...</Text>
+      <Text>
+        <Honour>Companion, Star of India</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -295,7 +337,9 @@
     <MainItem>
       <Key>Sly</Key>
       <Forenames>Henry Edward</Forenames>
-      <Text>, Companion, St. Michael and St. George</Text>
+      <Text>
+        <Honour>Companion, St. Michael and St. George</Honour>
+      </Text>
       <PageNumber>4878</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -313,7 +357,9 @@
       <Key>Smith</Key>
       <Title>Lieut.-Col. and Hon. Col.</Title>
       <Forenames>F. John</Forenames>
-      <Text>, V.D., Companion of the Bath</Text>
+      <Text>
+        <Honour>Companion of the Bath</Honour>
+      </Text>
       <PageNumber>4876</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -323,7 +369,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>George</Forenames>
-      <Text>, C.M.G., Knight Commander, St. Michael and St. George</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>4878</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -334,7 +382,9 @@
       </Key>
       <Title>Col. (temp. Brigadier-Gen.)</Title>
       <Forenames>H. Guthrie</Forenames>
-      <Text>, Companion of the Bath</Text>
+      <Text>
+        <Honour>Companion of the Bath</Honour>
+      </Text>
       <PageNumber>4876</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -343,7 +393,9 @@
       <Key>Smith-Cumming</Key>
       <Title>Commander</Title>
       <Forenames>Mans-</Forenames>
-      <Text>field George, R.N., Companion of the Bath</Text>
+      <Text>
+        <Honour>Companion of the Bath</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -351,7 +403,9 @@
     <MainItem>
       <Key>Sotheby</Key>
       <Forenames>Herbert George</Forenames>
-      <Text>, Fifth Class Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4879</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -359,7 +413,10 @@
     <MainItem>
       <Key>Spitta</Key>
       <Forenames>Harold R. Dacre</Forenames>
-      <Text>, M.D., Fourth Class Royal Victorian Order</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -368,7 +425,9 @@
       <Key>Stack</Key>
       <Title>Major</Title>
       <Forenames>Lee O.</Forenames>
-      <Text>FitzMaurice, Companion, St. Michael and St. George</Text>
+      <Text>
+        <Honour>Companion, St. Michael and St. George</Honour>
+      </Text>
       <PageNumber>4878</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -376,7 +435,10 @@
     <MainItem>
       <Key>Stephenson</Key>
       <Forenames>Albert Edward</Forenames>
-      <Text>, Companion, St. Michael and St. George ... ibid.Situart, Sir Harold Arthur, K.C.V.O., C.S.I., Knight Commander, Star of India</Text>
+      <Text>
+        <Honour>Companion, St. Michael and St. George</Honour>
+        <Honour>K.C.V.O.</Honour>
+      </Text>
       <PageNumber>4877</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -384,7 +446,9 @@
     <MainItem>
       <Key>Stubbs</Key>
       <Forenames>Reginald Edward</Forenames>
-      <Text>, Companion, St. Michael and St. George</Text>
+      <Text>
+        <Honour>Companion, St. Michael and St. George</Honour>
+      </Text>
       <PageNumber>4878</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -409,7 +473,9 @@
       <Key>Swain</Key>
       <Title>Lieut.-Col.</Title>
       <Forenames>George L. Douglas</Forenames>
-      <Text>, Companion, St. Michael and St. George .:</Text>
+      <Text>
+        <Honour>Companion, St. Michael and St. George</Honour>
+      </Text>
       <PageNumber>4878</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -450,7 +516,9 @@
       <Key>Terry</Key>
       <Title>Major</Title>
       <Forenames>Robert J. Atkinson</Forenames>
-      <Text>, Fourth Class, Royal Victorian Order :</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4879</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -466,7 +534,9 @@
     <MainItem>
       <Key>Tombs</Key>
       <Forenames>Pelham M. Gainsford</Forenames>
-      <Text>, Knight of Grace, St. John of Jerusalem</Text>
+      <Text>
+        <Honour>Knight of Grace, St. John of Jerusalem</Honour>
+      </Text>
       <PageNumber>4890</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -491,7 +561,9 @@
       <Key>Twiss</Key>
       <Title>Mrs.</Title>
       <Forenames>G. E.</Forenames>
-      <Text>(Ethel Madeline), Lady of Grace, St. John of Jerusalem</Text>
+      <Text>
+        <Honour>Lady of Grace, St. John of Jerusalem</Honour>
+      </Text>
       <PageNumber>2874</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -500,7 +572,9 @@
       <Key>Tyrrell</Key>
       <Title>Col.</Title>
       <Forenames>Charles Robert</Forenames>
-      <Text>, M.R.C.S., Knight of Grace, St. John of Jerusalem</Text>
+      <Text>
+        <Honour>Knight of Grace, St. John of Jerusalem</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -508,7 +582,9 @@
     <MainItem>
       <Key>Urs</Key>
       <Forenames>Mysore Kantharaj</Forenames>
-      <Text>, Companion, Star of India</Text>
+      <Text>
+        <Honour>Companion, Star of India</Honour>
+      </Text>
       <PageNumber>4877</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -532,7 +608,9 @@
     <MainItem>
       <Key>Vaughan</Key>
       <Forenames>John Charles Tudor</Forenames>
-      <Text>, M.V.O., Counsellor of Embassy</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>3289</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -546,17 +624,21 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Von</Key>
-      <Forenames>Donbp</Forenames>
-      <Text>, Col. (local and temp. Major-Gen.) Stanley ' Brenton, Army Council ...'</Text>
+      <Key>Von Donbp</Key>
+      <Title>Col. (local and temp. Major-Gen.)</Title>
+      <Forenames>Stanley</Forenames>
+      <Text>' Brenton, Army Council ...'</Text>
       <PageNumber>3385</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Von</Key>
-      <Forenames>Donop</Forenames>
-      <Text>, Col. (local and temp. Maj.-Gen.) Stanley Brenton, C.B., Knight Commander of the Bath</Text>
+      <Key>Von Donop</Key>
+      <Title>Col. (local and temp. Maj.-Gen.)</Title>
+      <Forenames>Stanley Brenton</Forenames>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>4876</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -565,15 +647,17 @@
       <Key>Walker</Key>
       <Title>Col.</Title>
       <Forenames>William George Walker</Forenames>
-      <Text>, V.C., Companion of tne Bath</Text>
+      <Text>
+        <Honour>V.C.</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Walton</Key>
-      <Forenames>George O</Forenames>
-      <Text>'Donnell, Official Member of the Legislative Council of the Presidency of Saint Christopher and Nevis</Text>
+      <Forenames>George O'Donnell</Forenames>
+      <Text>, Official Member of the Legislative Council of the Presidency of Saint Christopher and Nevis</Text>
       <PageNumber>3836</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -589,7 +673,9 @@
     <MainItem>
       <Key>Whiting</Key>
       <Forenames>William Henry</Forenames>
-      <Text>, Companion of the Bath</Text>
+      <Text>
+        <Honour>Companion of the Bath</Honour>
+      </Text>
       <PageNumber>4877</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -605,7 +691,9 @@
     <MainItem>
       <Key>Williams</Key>
       <Forenames>Christopher A. Sapara</Forenames>
-      <Text>, Companion, St. Michael and St. George</Text>
+      <Text>
+        <Honour>Companion, St. Michael and St. George</Honour>
+      </Text>
       <PageNumber>4878</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -625,7 +713,9 @@
       <Key>Wilson</Key>
       <Title>Mrs.</Title>
       <Forenames>Henry</Forenames>
-      <Text>, Lady of Grace, St. John of Jerusalem</Text>
+      <Text>
+        <Honour>Lady of Grace, St. John of Jerusalem</Honour>
+      </Text>
       <PageNumber>4890</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -642,7 +732,12 @@
       <Key>Wingate</Key>
       <Title>Gen. Sir</Title>
       <Forenames>Francis Reginald</Forenames>
-      <Text>, G.C.V.O., K.C.B., K.C.M.G., D.S.O., Knight, Grand Cross of the Bath</Text>
+      <Text>
+        <Honour>G.C.V.O.</Honour>
+        <Honour>K.C.B.</Honour>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4876</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -658,7 +753,9 @@
     <MainItem>
       <Key>Wood</Key>
       <Forenames>Walter Gunnell</Forenames>
-      <Text>, Companion, Star of India</Text>
+      <Text>
+        <Honour>Companion, Star of India</Honour>
+      </Text>
       <PageNumber>4877</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -667,7 +764,10 @@
       <Key>Worthington</Key>
       <Title>Major Sir</Title>
       <Forenames>Edward Scott</Forenames>
-      <Text>, M.V.O., M.R.C.S., R.A.M.C, Esquire, St. John of Jerusalem '-</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+        <Honour>Esquire, St. John of Jerusalem</Honour>
+      </Text>
       <PageNumber>2875</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -676,7 +776,9 @@
       <Key>Wynne</Key>
       <Title>Gen. Sir</Title>
       <Forenames>Arthur Singleton</Forenames>
-      <Text>, K.C.B., Knight, Grand Cross of the Bath :</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+      </Text>
       <PageNumber>4876</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -713,7 +815,9 @@
       <Key>Adye</Key>
       <Title>Col.</Title>
       <Forenames>Walter</Forenames>
-      <Text>, C.B. (Deputy Assistant Director of Remounts)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>3002</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -731,7 +835,9 @@
       <Key>Anstruther</Key>
       <Title>Lieut.</Title>
       <Forenames>John A.</Forenames>
-      <Text>, Aidede-Camp to the Rt. Hon! Sir R. C. Munro-Ferguson, G.C.M.G</Text>
+      <Text>
+        <Honour>G.C.M.G</Honour>
+      </Text>
       <PageNumber>3387</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -749,7 +855,9 @@
       <Key>Braithwaite</Key>
       <Title>Maj.</Title>
       <Forenames>William G.</Forenames>
-      <Text>, D.S.O. (General Staff Officer, 2nd Grade)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4617</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -767,7 +875,10 @@
       <Key>Chetwode</Key>
       <Title>Col. Sir</Title>
       <Forenames>Philip W</Forenames>
-      <Text>, Bt., D.S.O. (temporary Brigadier-Gen. to command a Brigade)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4006</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -794,7 +905,9 @@
       <Key>Costeker</Key>
       <Title>Capt.</Title>
       <Forenames>John H. D.</Forenames>
-      <Text>, D.S.O. (Staff Capt., and to be seconded)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4120</PageNumber>
     </MainItem>
   </ItemGroup>

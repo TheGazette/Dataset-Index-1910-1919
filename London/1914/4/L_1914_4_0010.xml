@@ -173,8 +173,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Victoria</Key>
-      <Forenames>Cross</Forenames>
-      <Text>: y Bent, Drummer Spencer John</Text>
+      <Text>
+        <Honour>Cross</Honour>
+      </Text>
       <PageNumber>10533</PageNumber>
     </MainItem>
     <KeyDitto>___ ___</KeyDitto>
@@ -346,14 +347,18 @@
       <Key>Anderson</Key>
       <Title>Lieut.</Title>
       <Forenames>Eric Litchfield Brooke</Forenames>
-      <Text>, Companion Distinguished Service Order</Text>
+      <Text>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>10186</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>AntoLne</Key>
-      <Text>. Mile. Eugenie of Vaillysur-Aisne, decoration of the Royal Red Cross</Text>
+      <Title>Mile.</Title>
+      <Forenames>Eugenie</Forenames>
+      <Text>of Vaillysur-Aisne, decoration of the Royal Red Cross</Text>
       <PageNumber>8394</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -379,7 +384,9 @@
       <Key>Atkinson</Key>
       <Title>2nd Lieut.</Title>
       <Forenames>Henry Noel</Forenames>
-      <Text>, Companion Distinguished Service Order</Text>
+      <Text>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>10186</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -388,7 +395,9 @@
       <Key>Baines</Key>
       <Title>Lieut.</Title>
       <Forenames>Cuthbert Savile</Forenames>
-      <Text>, Companion Distinguished Service Order ... ... ... ...</Text>
+      <Text>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -411,7 +420,11 @@
     <MainItem>
       <Key>Battenberg</Key>
       <Forenames>His Serene Highness</Forenames>
-      <Text>Prince Louis Alexander of, G.C.B., G.C.V.O., K.C.M.G., a Privy Councillor</Text>
+      <Text>
+        <Honour>G.C.B.</Honour>
+        <Honour>G.C.V.O.</Honour>
+        <Honour>K.C.M.G.</Honour>
+      </Text>
       <PageNumber>9011</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -356,7 +356,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Adey</Key>
-      <Text>Cadet A. C. (temp. 2nd Lt., attd.)</Text>
+      <Title>Cadet</Title>
+      <Forenames>A. C.</Forenames>
+      <Text>(temp. 2nd Lt., attd.)</Text>
       <PageNumber>9838</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -664,7 +666,10 @@
       </Key>
       <Title>temp. Lt.-Col.</Title>
       <Forenames>Q. G. K.</Forenames>
-      <Text>, M.V.O., D.S.O. (corr. of date of seniority)</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7754</PageNumber>
     </MainItem>
     <SubItem>
@@ -756,7 +761,9 @@
       </Key>
       <Title>temp. Lt.</Title>
       <Forenames>R. T. G.</Forenames>
-      <Text>, M.D. (temp. Capt.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>8000</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1002,7 +1009,9 @@
     <MainItem>
       <Key>Aitchison</Key>
       <Title>2nd Lt.</Title>
-      <Text>~W., M.C. (R.F.A.) (Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9545</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1052,7 +1061,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>D.</Forenames>
-      <Text>McC, M.B.f F.R.C.S. Edin. (temp. Lt.)</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>7733</PageNumber>
     </MainItem>
     <SubItem>
@@ -1154,7 +1165,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>N. W.</Forenames>
-      <Text>, M.C. (Maj., and rem. seed.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8171</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1489,7 +1502,9 @@
       <Key>
         <KeyDitto>___ —</KeyDitto>
       </Key>
-      <Text>V___ ___ R., M.D. (temp. Lt.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>6526</PageNumber>
     </MainItem>
   </ItemGroup>

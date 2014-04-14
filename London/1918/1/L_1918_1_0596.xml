@@ -423,7 +423,9 @@
     <MainItem>
       <Key>Harrison</Key>
       <Forenames>J.</Forenames>
-      <Text>, M.D. (temp. Maj.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>927</PageNumber>
     </MainItem>
     <SubItem>
@@ -589,7 +591,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Helm</Key>
-      <Text>. W, H. (temp. Capt.)</Text>
+      <Forenames>W</Forenames>
+      <Text>, H. (temp. Capt.)</Text>
       <PageNumber>2189</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -616,8 +619,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Henriques</Key>
-      <Forenames>E. St</Forenames>
-      <Text>. C. (Med. Offr. and temp. Lt.)</Text>
+      <Forenames>E. St. C</Forenames>
+      <Text>. (Med. Offr. and temp. Lt.)</Text>
       <PageNumber>428</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -752,7 +755,9 @@
       <Key>Hickman</Key>
       <Title>Brig.-Gen.</Title>
       <Forenames>T. E.</Forenames>
-      <Text>, C.B. (Hon. Lt.-Col.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>716</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -824,7 +829,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hodge</Key>
-      <Text>. W. (temp. 2nd Lt.)</Text>
+      <Forenames>W.</Forenames>
+      <Text>(temp. 2nd Lt.)</Text>
       <PageNumber>981</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1282,7 +1288,7 @@
       <PageNumber>1722</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>P. (temp. 2nd Lt.) .. ;</Text>
+      <Text>P. (temp. 2nd Lt.) .. ;.</Text>
       <PageNumber>1888</PageNumber>
     </SubItem>
   </ItemGroup>

@@ -10,8 +10,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, (temporary) Lieut. C. W. (relinquishes his commission)</Text>
+      <Key>O'Connor</Key>
+      <Title>(temporary) Lieut.</Title>
+      <Forenames>C. W.</Forenames>
+      <Text>(relinquishes his commission)</Text>
       <PageNumber>5091</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -345,7 +347,9 @@
       <Key>Hartwell</Key>
       <Title>Sir</Title>
       <Forenames>Brodrick C. D. Ark-</Forenames>
-      <Text>wright, Bt. (temporary Capt.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>3724</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -593,7 +597,9 @@
     <MainItem>
       <Key>Boyd</Key>
       <Forenames>Gerald F.</Forenames>
-      <Text>, D.S.O. (Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4147</PageNumber>
     </MainItem>
     <SubItem>
@@ -617,8 +623,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Brown</Key>
-      <Forenames>Lieut</Forenames>
-      <Text>, (temporary Capt.) Leslie V. (temporary Capt., antedated)</Text>
+      <Title>Lieut, (temporary Capt.)</Title>
+      <Forenames>Leslie V.</Forenames>
+      <Text>(temporary Capt., antedated)</Text>
       <PageNumber>3415</PageNumber>
     </MainItem>
     <SubItem>
@@ -771,7 +778,9 @@
     <MainItem>
       <Key>Harvey-Kelly</Key>
       <Forenames>Hubert D.</Forenames>
-      <Text>, D.S.O. (Capt., and to remain seconded)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5952</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -809,8 +818,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Homan</Key>
-      <Forenames>Lieut</Forenames>
-      <Text>, (temporary Capt.) Arthur D. (temporary Capt., antedated)</Text>
+      <Title>Lieut, (temporary Capt.)</Title>
+      <Forenames>Arthur D.</Forenames>
+      <Text>(temporary Capt., antedated)</Text>
       <PageNumber>3415</PageNumber>
     </MainItem>
     <SubItem>
@@ -915,8 +925,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Lyons</Key>
-      <Forenames>Lieut</Forenames>
-      <Text>, (temporary Capt.) William B. (temporary Capt., antedated) ... '</Text>
+      <Title>Lieut, (temporary Capt.)</Title>
+      <Forenames>William B.</Forenames>
+      <Text>(temporary Capt., antedated) ... '</Text>
       <PageNumber>3415</PageNumber>
     </MainItem>
     <SubItem>
@@ -1078,7 +1089,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Redway</Key>
-      <Forenames>Lieut Ernest G.</Forenames>
+      <Title>Lieut</Title>
+      <Forenames>Ernest G.</Forenames>
       <Text>(temporary Capt.)</Text>
       <PageNumber>3415</PageNumber>
     </MainItem>

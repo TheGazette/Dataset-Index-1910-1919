@@ -620,8 +620,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Sullivan, J. (Capt.)</Text>
+      <Key>O'Sullivan</Key>
+      <Forenames>J.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>7379</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -769,8 +770,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. John, W. St. A. (Capt.)</Text>
+      <Key>St. John</Key>
+      <Forenames>W. St. A</Forenames>
+      <Text>. (Capt.)</Text>
       <PageNumber>8253</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1198,8 +1200,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. Quintin, 2nd Lieut. C. J. (resigned)</Text>
+      <Key>St. Quintin</Key>
+      <Title>2nd Lieut.</Title>
+      <Forenames>C. J.</Forenames>
+      <Text>(resigned)</Text>
       <PageNumber>9453</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1342,8 +1346,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Coghlan</Key>
-      <Forenames>C. St</Forenames>
-      <Text>. J. (Lieut.)</Text>
+      <Forenames>C. St. J</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>7199</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1409,7 +1413,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Duckworth-King</Key>
-      <Text>2nd Lieut, fair G. H. J., Bart, (retired)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>7378</PageNumber>
     </MainItem>
   </ItemGroup>

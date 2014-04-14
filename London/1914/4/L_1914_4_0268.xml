@@ -19,7 +19,9 @@
     <MainItem>
       <Key>Llewellyn</Key>
       <Forenames>Hoel</Forenames>
-      <Text>, D.S.O. (Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8484</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -187,7 +189,9 @@
       <Key>Lowther</Key>
       <Title>Sir</Title>
       <Forenames>Charles B.</Forenames>
-      <Text>, Bart. (Maj.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>8889</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -286,7 +290,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lyons</Key>
-      <Text>. James (Qrmr. and Hon. Lieut.)</Text>
+      <Forenames>James</Forenames>
+      <Text>(Qrmr. and Hon. Lieut.)</Text>
       <PageNumber>8484</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -311,7 +316,10 @@
       <Key>McBarnet</Key>
       <Title>Maj.</Title>
       <Forenames>A. E.</Forenames>
-      <Text>, M.V.O., D.S.O. (correction of date)</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8647</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -344,7 +352,9 @@
       <Key>McDonald</Key>
       <Title>Lieut.-Col.</Title>
       <Forenames>Archibald W.</Forenames>
-      <Text>, D.S.O. (temporary Lieut.Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8054</PageNumber>
     </MainItem>
     <SubItem>
@@ -623,8 +633,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Manisty</Key>
-      <Title>Hon.</Title>
-      <Forenames>Lieut</Forenames>
+      <Title>Hon. Lieut</Title>
       <Text>, in the Army Edward Ashburner (temporary Maj.)</Text>
       <PageNumber>10283</PageNumber>
     </MainItem>
@@ -707,7 +716,9 @@
     <MainItem>
       <Key>Maxwell</Key>
       <Forenames>David L.</Forenames>
-      <Text>, D.S.O. (Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8647</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -826,7 +837,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Milbanke</Key>
-      <Text>. Maj. Sir John Peniston, V.C. (temporary Lieut.-Col.)</Text>
+      <Title>Maj. Sir</Title>
+      <Forenames>John Peniston</Forenames>
+      <Text>
+        <Honour>V.C.</Honour>
+      </Text>
       <PageNumber>8768</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -881,7 +896,9 @@
       <Key>Miller</Key>
       <Title>Capt.</Title>
       <Forenames>Edward D.</Forenames>
-      <Text>, D.S.O. (temporary Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>11147</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -890,7 +907,9 @@
       <Key>Mills</Key>
       <Title>Maj. the Hon.</Title>
       <Forenames>Egremont John</Forenames>
-      <Text>, D.S.O. (correction of date)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8223</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -979,7 +998,9 @@
     <MainItem>
       <Key>Monk</Key>
       <Forenames>Bretton</Forenames>
-      <Text>, John William Lord, C.B. (Lieut.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>8524</PageNumber>
     </MainItem>
     <SubItem>
@@ -1236,7 +1257,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Muirhead</Key>
-      <Text>. 2nd Lieut. Anthony J. (correction)</Text>
+      <Title>2nd Lieut.</Title>
+      <Forenames>Anthony J.</Forenames>
+      <Text>(correction)</Text>
       <PageNumber>10150</PageNumber>
     </MainItem>
   </ItemGroup>

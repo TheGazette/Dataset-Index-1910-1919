@@ -797,7 +797,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Yorwerth</Key>
-      <Text>. Thomas Jenkin (temporary 2nd Lieut.)</Text>
+      <Forenames>Thomas Jenkin</Forenames>
+      <Text>(temporary 2nd Lieut.)</Text>
       <PageNumber>7418</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -995,8 +996,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Boyle</Key>
-      <Title>Capt.</Title>
-      <Forenames>The Hon John D.</Forenames>
+      <Title>Capt. The</Title>
+      <Forenames>Hon John D.</Forenames>
       <Text>(Squadron Commander and temporary Maj.)</Text>
       <PageNumber>8989</PageNumber>
     </MainItem>
@@ -1069,14 +1070,18 @@
   <ItemGroup>
     <MainItem>
       <Key>Burder</Key>
-      <Text>. 2nd Lieut. R. G. (Flying Officer)</Text>
+      <Title>2nd Lieut.</Title>
+      <Forenames>R. G.</Forenames>
+      <Text>(Flying Officer)</Text>
       <PageNumber>9190</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Burn</Key>
-      <Text>. Lieut. William W. A. (Flying Officer)</Text>
+      <Title>Lieut.</Title>
+      <Forenames>William W. A.</Forenames>
+      <Text>(Flying Officer)</Text>
       <PageNumber>7724</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1110,7 +1115,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Champion</Key>
-      <Text>de Crespigny, 2nd Lieut. H. V. (Flying Officer)</Text>
+      <Forenames>de Crespigny</Forenames>
+      <Text>, 2nd Lieut. H. V. (Flying Officer)</Text>
       <PageNumber>7576</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1119,7 +1125,9 @@
       <Key>Charlton</Key>
       <Title>Capt.</Title>
       <Forenames>Lionel E. O.</Forenames>
-      <Text>. D. S.O. (Wing Commander and temporary Lieut.-Col.)</Text>
+      <Text>
+        <Honour>D. S.O.</Honour>
+      </Text>
       <PageNumber>8520</PageNumber>
     </MainItem>
   </ItemGroup>

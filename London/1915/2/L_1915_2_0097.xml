@@ -12,7 +12,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lauder</Key>
-      <Text>. Richard D. (temporary Maj.)</Text>
+      <Forenames>Richard D.</Forenames>
+      <Text>(temporary Maj.)</Text>
       <PageNumber>4779</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -620,7 +621,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Blount</Key>
-      <Forenames>Lieut C. H. B.</Forenames>
+      <Title>Lieut</Title>
+      <Forenames>C. H. B.</Forenames>
       <Text>(antedated)</Text>
       <PageNumber>4995</PageNumber>
     </MainItem>
@@ -637,7 +639,9 @@
     <MainItem>
       <Key>Boyd</Key>
       <Forenames>John D.</Forenames>
-      <Text>, D.S.O. (Capt.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3414</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -709,7 +713,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Falle</Key>
-      <Text>. Bertram V. (temporary Capt.)</Text>
+      <Forenames>Bertram V.</Forenames>
+      <Text>(temporary Capt.)</Text>
       <PageNumber>5482</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -995,7 +1000,9 @@
     <MainItem>
       <Key>Tringham</Key>
       <Forenames>Archibald M.</Forenames>
-      <Text>, D.S.O. (Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5951</PageNumber>
     </MainItem>
   </ItemGroup>

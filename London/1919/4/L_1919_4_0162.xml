@@ -5,7 +5,9 @@
       <Key>Clough</Key>
       <Title>Bt. Maj.</Title>
       <Forenames>A. B.</Forenames>
-      <Text>. M.C. (temp. Asst. Instr. in Surveying)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>12387</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -23,7 +25,12 @@
       <Key>Schreiber</Key>
       <Title>Col.</Title>
       <Forenames>A. L.</Forenames>
-      <Text>, C.B., C.M.G., D.S.O., A.D.C. (rel. temp, rank of Brig.-Gen.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>A.D.C.</Honour>
+      </Text>
       <PageNumber>14019</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -32,14 +39,19 @@
       <Key>Thorp</Key>
       <Title>Maj.</Title>
       <Forenames>G.</Forenames>
-      <Text>, O.B.E. (temp. Chief Instr. (Electricity))</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>12630</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Thuillier</Key>
-      <Text>MaJ.-Gen. H. F,. C.B., C.M.G. (Comdt.. also comdg. Depot, RE.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>14019</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -57,8 +69,11 @@
     <MainItem>
       <Key>Bland</Key>
       <Title>Bt. Col.</Title>
-      <Forenames>W. St</Forenames>
-      <Text>. C, C.B., C.M.G. (Comdt.)</Text>
+      <Forenames>W. St. C</Forenames>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>13390</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -75,7 +90,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Adshead</Key>
-      <Text>Lt. F. E. (rel. temp, rank of Capt.)</Text>
+      <Title>Lt.</Title>
+      <Forenames>F. E.</Forenames>
+      <Text>(rel. temp, rank of Capt.)</Text>
       <PageNumber>13878</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -84,7 +101,9 @@
       <Key>Brown</Key>
       <Title>Lt.</Title>
       <Forenames>G. S.</Forenames>
-      <Text>, O.B.E. (rel. appt. as Supt., and temp, rank of Maj.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>13754</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -118,7 +137,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Hill</Key>
-      <Text>Bt. Lt.-Col. G. V. W.. D.S.O. (temp. Supt.)</Text>
+      <Title>Bt. Lt.-Col.</Title>
+      <Forenames>G. V. W.</Forenames>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>14019</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -134,14 +157,20 @@
   <ItemGroup>
     <MainItem>
       <Key>McPherson</Key>
-      <Text>temp. Lt. (actg. Capt.) F. G. (temp. Asst. Supt., and temp. Capt.)</Text>
+      <Title>temp. Lt. (actg. Capt.)</Title>
+      <Forenames>F. G.</Forenames>
+      <Text>(temp. Asst. Supt., and temp. Capt.)</Text>
       <PageNumber>14801</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Piekin</Key>
-      <Text>Lt. W. D.. O.B.E. (temp. Asst. Supt., rel. temp, rank of Maj., and to be temp. Capt.)</Text>
+      <Title>Lt.</Title>
+      <Forenames>W. D.</Forenames>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>14282</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -163,7 +192,9 @@
       <Key>Sewell</Key>
       <Title>temp. Lt.</Title>
       <Forenames>C. W.</Forenames>
-      <Text>, M.C. (rel. appt. as Asst. Supt. and temp, rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>15713</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -180,7 +211,12 @@
   <ItemGroup>
     <MainItem>
       <Key>Lelean</Key>
-      <Text>Lt.-Col. P. S., C.B., F.R.C.S. (Professor)</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>P. S.</Forenames>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>13534</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -190,14 +226,22 @@
       <Key>Ohatterton</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>F. B. M.</Forenames>
-      <Text>, C.M.G., C.B.E. (Comdt.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>13390</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Foster</Key>
-      <Text>Bt. Lt.-Col. H. N., C.M.G., C.B.E. (Chief Instr.)</Text>
+      <Title>Bt. Lt.-Col.</Title>
+      <Forenames>H. N.</Forenames>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>15406</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -205,21 +249,29 @@
   <ItemGroup>
     <MainItem>
       <Key>Barr</Key>
-      <Text>Lt. C. N., M.B.E. (Capt. Tnstr. in Gunnery and actg. Capt.) '</Text>
+      <Title>Lt.</Title>
+      <Forenames>C. N.</Forenames>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>12502</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Brown</Key>
-      <Text>Lt. F. (Capt. Instr. in Gunnery and actg. Capt.)</Text>
+      <Title>Lt.</Title>
+      <Forenames>F.</Forenames>
+      <Text>(Capt. Instr. in Gunnery and actg. Capt.)</Text>
       <PageNumber>12502</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Curry</Key>
-      <Text>Lt. E. (Capt. Instr. in Gunnery, to rem. seed., and to be actg. Capt.)</Text>
+      <Title>Lt.</Title>
+      <Forenames>E.</Forenames>
+      <Text>(Capt. Instr. in Gunnery, to rem. seed., and to be actg. Capt.)</Text>
       <PageNumber>13768</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -228,14 +280,19 @@
       <Key>Handing</Key>
       <Title>Newman. Bt. Col.</Title>
       <Forenames>E.</Forenames>
-      <Text>. C.M.G., D.S.O. (temp. Chief Instr. in Gunnery)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>15818</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Sitwell</Key>
-      <Text>Capt. H. D. W. (Capt. Instr. in Gunnery and seed.)</Text>
+      <Title>Capt.</Title>
+      <Forenames>H. D. W.</Forenames>
+      <Text>(Capt. Instr. in Gunnery and seed.)</Text>
       <PageNumber>12502</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -243,7 +300,9 @@
     <MainItem>
       <Key>Young</Key>
       <Title>Maj.</Title>
-      <Text>&amp; Bt. Lt.-Col. C. '8. (Asst. Supt. of Experiments, and rem. seed.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>13233</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -253,7 +312,10 @@
       <Key>Gee</Key>
       <Title>Lt.</Title>
       <Forenames>E. E.</Forenames>
-      <Text>, D.S.O., M.C. (Capt. Instr. in Gunnery and actg. Capt.!</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>13233</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -261,7 +323,10 @@
     <MainItem>
       <Key>Swayne</Key>
       <Title>Maj.</Title>
-      <Text>&amp; Bt. Lt.-Col. O.R., D.S.O. (Maj. Instr. in Gunnery and seed</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>13233</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -271,7 +336,9 @@
       <Key>Bastard</Key>
       <Title>Maj.</Title>
       <Forenames>R.</Forenames>
-      <Text>. D.S.O. (Instr., CI. Z., and temp. Lt.-Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>13650</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -280,21 +347,32 @@
       <Key>Bayley</Key>
       <Title>Bt. Lt.-Col. (temp. Col.)</Title>
       <Forenames>A. G.</Forenames>
-      <Text>, C.B.E.. D.S.O. (Chief Instr., G.S.O., 1st Gr., and retains temp, rank of Col.)</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>12986</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Finlayson</Key>
-      <Text>Bt. Lt.-Col. R. G., C. M.G., D.S.O. (Instr., 01. Z, and temp. Lt.-Col.)</Text>
+      <Title>Bt. Lt.-Col.</Title>
+      <Forenames>R. G.</Forenames>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>13650</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Harrison</Key>
-      <Text>Bt. Lt.-Col. G. H., D. S.O. (Instr., CI. Z, and temp. Lt.-Col.)</Text>
+      <Title>Bt. Lt.-Col.</Title>
+      <Forenames>G. H.</Forenames>
+      <Text>
+        <Honour>D. S.O.</Honour>
+      </Text>
       <PageNumber>13650</PageNumber>
     </MainItem>
     <SubItem>
@@ -307,7 +385,9 @@
       <Key>Hoysted</Key>
       <Title>Bt. Lt.-Col.</Title>
       <Forenames>D. M.</Forenames>
-      <Text>FitzG., D.S.O. (Instr., CI. Z)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>12986</PageNumber>
     </MainItem>
     <SubItem>
@@ -318,7 +398,12 @@
   <ItemGroup>
     <MainItem>
       <Key>Kennedy</Key>
-      <Text>Bt. Col. J., C.M.G., D.S.O. (Instr., CI. Z, and temp. Lt.-Col.)</Text>
+      <Title>Bt. Col.</Title>
+      <Forenames>J.</Forenames>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>13650</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -327,7 +412,10 @@
       <Key>Rome</Key>
       <Title>Bt. Lt.-Col.</Title>
       <Forenames>C. S.</Forenames>
-      <Text>, C.M.G.. D.S.O. (Instr., CI. Z, and temp. Lt.-Col., and rel. temp, rank of Brig.-Gen.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>13650</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -336,7 +424,9 @@
       <Key>Willan</Key>
       <Title>Bt.</Title>
       <Forenames>Lt-</Forenames>
-      <Text>Col. F. G., C.M.G, M.C. (Instr., CI. Z, and temp. Lt.-Col.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>13650</PageNumber>
     </MainItem>
     <SubItem>
@@ -350,14 +440,18 @@
       <Key>Hutchinson</Key>
       <Title>Capt.</Title>
       <Forenames>C</Forenames>
-      <Text>, M.C. (temp. Asst. Instr., Lewis &amp; Hotchkiss Gun Wing, 01. GG, and rel. temp, rank of Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>15592</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Icke</Key>
-      <Text>Capt. J. H. T. (temp. Asst. Instr., Rifle, Bayonet and Revolver Wing, CI. GG)</Text>
+      <Title>Capt.</Title>
+      <Forenames>J. H. T.</Forenames>
+      <Text>(temp. Asst. Instr., Rifle, Bayonet and Revolver Wing, CI. GG)</Text>
       <PageNumber>13512</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -375,7 +469,9 @@
       <Key>Peart</Key>
       <Title>Lt. (temp. Capt.)</Title>
       <Forenames>T. E.</Forenames>
-      <Text>, M.C. (corr. of date of appt. as Asst. Instr., Light Trench Mortar and Bombing Wing, CI. GG)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>15734</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -384,7 +480,9 @@
       <Key>Prince</Key>
       <Title>Maj. (temp. Lt.-Col.)</Title>
       <Forenames>P.</Forenames>
-      <Text>, D.S.O. (temp. Light Trench Mortar and Bombg. Wing Comdr., CI. X, and retains temp, rank of Lt.-Col.), Sub. Not</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>12986</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -394,7 +492,12 @@
       <Key>Bird</Key>
       <Title>Col.</Title>
       <Forenames>W. D.</Forenames>
-      <Text>, C.B., C.M.G., D.S.O., A.D.C. to the King (Lt. Govr. and Secretary and temp. Maj.-Gen.), Sub. Not</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>A.D.C.</Honour>
+      </Text>
       <PageNumber>15151</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -402,14 +505,20 @@
     <MainItem>
       <Key>Hynes</Key>
       <Title>Qrmr.</Title>
-      <Text>&amp; Lt.-Col. E. T., D.S.O. (resigns appt. as Qrmr.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>15423</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Landen</Key>
-      <Text>Qrmr. &amp; Lt.-Col. A., D.S.O., D.C.M. (Qrmr.)</Text>
+      <Title>Qrmr.</Title>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>15423</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -428,7 +537,9 @@
       <Key>Hughes</Key>
       <Title>temp. Lt.</Title>
       <Forenames>C. T.</Forenames>
-      <Text>, M.C. (temp. Asst. Experimental Offr., graded CI. CC. and temp. Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>14291</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -479,7 +590,9 @@
       <Key>Grimshaw</Key>
       <Title>Lt.</Title>
       <Forenames>W. E.</Forenames>
-      <Text>, O.B.E. (rel. appt. as Asst. Proof and Experimental Offr., and temp, rank of Capt.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>13888</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -489,7 +602,9 @@
       <Key>Barras</Key>
       <Title>Capt.</Title>
       <Forenames>H. W.</Forenames>
-      <Text>, M.B.E. (rel. appt. as Asst. Inspr.)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>12630</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -498,7 +613,9 @@
       <Key>Carden</Key>
       <Title>Maj.</Title>
       <Forenames>E. D.</Forenames>
-      <Text>, O.B.E. (temp. Inspr.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>13525</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -516,7 +633,9 @@
       <Key>Galloway</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>F. L.</Forenames>
-      <Text>, C.M.G. (temp. Chief Inspr.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>12738</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -525,7 +644,10 @@
       <Key>Leveson-Gower</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>C. C</Forenames>
-      <Text>, C.M.G., O.B.E. (Inspr.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>12516</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -534,7 +656,9 @@
       <Key>Prime</Key>
       <Title>Capt.</Title>
       <Forenames>F. C</Forenames>
-      <Text>, M.B.E. (temp. Asst. Inspr.)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>12502</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -562,7 +686,9 @@
       <Key>Bengough</Key>
       <Title>Bt. Maj.</Title>
       <Forenames>L.</Forenames>
-      <Text>, M.C. (temp. Comdt., 2nd CI.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>16108</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -580,7 +706,9 @@
       <Key>Rooke</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>A. S.</Forenames>
-      <Text>, O.B.E. (ret. Ind. Army, rel. appt. as Dep. Dir., graded as Govr., 1st CI., and temp, rank ot Col., and granted rank of Col.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>14263</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -589,7 +717,9 @@
       <Key>Thomas</Key>
       <Title>Maj.</Title>
       <Forenames>D</Forenames>
-      <Text>B., O.B.E. (ret. pay, rel. appt. as Govr., 1st CI., and temp, rank of Lt.Col. and granted rank of Lt.Col.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>13234</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -607,7 +737,10 @@
       <Key>Umfreville</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>P.</Forenames>
-      <Text>, C.M.G., C.B.E. (rel. appt. as Dir., CI. X, and temp, rank of Brig.Gen.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>13768</PageNumber>
     </MainItem>
   </ItemGroup>

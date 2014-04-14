@@ -423,7 +423,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Majnder</Key>
-      <Text>A. J. (2nd Lt.)</Text>
+      <Forenames>A. J.</Forenames>
+      <Text>(2nd Lt.)</Text>
       <PageNumber>12046</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -460,14 +461,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Manico</Key>
-      <Text>Lt. F. E. (temp. Capt.)</Text>
+      <Title>Lt.</Title>
+      <Forenames>F. E.</Forenames>
+      <Text>(temp. Capt.)</Text>
       <PageNumber>11217</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Manlev</Key>
-      <Text>H. C. (2nd Lt.)</Text>
+      <Forenames>H. C.</Forenames>
+      <Text>(2nd Lt.)</Text>
       <PageNumber>13018</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -662,7 +666,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>W. H.</Forenames>
-      <Text>M.D. (Capt.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>12789</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -755,7 +761,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Marcus</Key>
-      <Text>S. P. (2nd Lt.)</Text>
+      <Forenames>S. P.</Forenames>
+      <Text>(2nd Lt.)</Text>
       <PageNumber>9902</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -907,7 +914,9 @@
     <MainItem>
       <Key>Marriage</Key>
       <Forenames>H. J.</Forenames>
-      <Text>, M.B., F.R.C.S. i(Capt. whose services will be available on mobilisation)</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>13004</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -962,7 +971,7 @@
       <PageNumber>10250</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Temp. Lt</Text>
+      <Text>Temp. Lt.</Text>
       <PageNumber>10250</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -980,7 +989,9 @@
         <KeyDitto>___ ___ .</KeyDitto>
       </Key>
       <Title>Maj.</Title>
-      <Text>IF. W. (resigned on appointment to R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10905</PageNumber>
     </MainItem>
     <SubItem>
@@ -1292,7 +1303,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Marsland</Key>
-      <Text>H. (2nd Lt.)</Text>
+      <Forenames>H.</Forenames>
+      <Text>(2nd Lt.)</Text>
       <PageNumber>9770</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1468,8 +1480,8 @@
       <Key>
         <KeyDitto>___ .</KeyDitto>
       </Key>
-      <Forenames>G. St</Forenames>
-      <Text>. J. (2nd Lt.)</Text>
+      <Forenames>G. St. J</Forenames>
+      <Text>. (2nd Lt.)</Text>
       <PageNumber>10240</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1651,7 +1663,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>W. Y. M.B.</Forenames>
-      <Text>(resigned on appointment to the R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>12035</PageNumber>
     </MainItem>
     <SubItem>

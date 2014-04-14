@@ -139,8 +139,8 @@
     <MainItem>
       <Key>Hammersley</Key>
       <Title>Capt.</Title>
-      <Forenames>H. St</Forenames>
-      <Text>. G. (Instructor in Gunnery (2nd Class) )</Text>
+      <Forenames>H. St. G</Forenames>
+      <Text>. (Instructor in Gunnery (2nd Class) )</Text>
       <PageNumber>6374</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -464,7 +464,9 @@
       <Key>Bannerman</Key>
       <Title>Maj. Sir</Title>
       <Forenames>A.</Forenames>
-      <Text>. Bart. (retired) '</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>6374</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -543,7 +545,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Elliott</Key>
-      <Text>. G. C. E. (Maj.)</Text>
+      <Forenames>G. C. E.</Forenames>
+      <Text>(Maj.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -600,7 +603,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Le</Key>
-      <Text>.Mesurier, H. G. (Maj.)</Text>
+      <Forenames>Mesurier</Forenames>
+      <Text>, H. G. (Maj.)</Text>
       <PageNumber>5422</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -713,8 +717,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sladen</Key>
-      <Forenames>C. St</Forenames>
-      <Text>. B</Text>
+      <Forenames>C. St. B</Forenames>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -946,9 +949,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Neck</Forenames>
-      <Text>, P. (Lieut.)</Text>
+      <Key>Van Neck</Key>
+      <Forenames>P.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>5725</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1027,14 +1030,17 @@
       <Key>Colquhoun</Key>
       <Title>Sir</Title>
       <Forenames>I.</Forenames>
-      <Text>, Bart. (Lieut.):.,</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Compton-Thornhill</Key>
-      <Text>. R. A. C. (2nd Lieut.) :</Text>
+      <Forenames>R. A. C.</Forenames>
+      <Text>(2nd Lieut.) :</Text>
       <PageNumber>6536</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1043,7 +1049,9 @@
       <Key>Dyer</Key>
       <Title>Sir</Title>
       <Forenames>J. S.</Forenames>
-      <Text>, Bart. (Lieut.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>5920</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1069,7 +1077,9 @@
       <Key>Halse</Key>
       <Title>Sir</Title>
       <Forenames>E. H.</Forenames>
-      <Text>, Bart. (2nd Lieut.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>5856</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1095,7 +1105,9 @@
       <Key>Mackenzie</Key>
       <Title>Sir</Title>
       <Forenames>V. A. F.</Forenames>
-      <Text>, Bart. (Capt.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>5183</PageNumber>
     </MainItem>
   </ItemGroup>

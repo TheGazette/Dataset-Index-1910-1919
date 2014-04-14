@@ -157,8 +157,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Sullivan, James J. C. Arthur (temporary Maj.)</Text>
+      <Key>O'Sullivan</Key>
+      <Forenames>James J. C. Arthur</Forenames>
+      <Text>(temporary Maj.)</Text>
       <PageNumber>4624</PageNumber>
     </MainItem>
     <SubItem>
@@ -719,7 +720,9 @@
       <Key>Eustace</Key>
       <Title>(temporary) Lieut.-Col.</Title>
       <Forenames>Henry M.</Forenames>
-      <Text>, D.S.O. (to command the 6th Battalion)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3586</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -806,7 +809,9 @@
     <MainItem>
       <Key>Gresson</Key>
       <Forenames>Thomas T.</Forenames>
-      <Text>, D.S.O. (Lieut.-Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6948</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -906,7 +911,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Jackson</Key>
-      <Text>. Cedric Arthur (temporary 2nd Lieut.)</Text>
+      <Forenames>Cedric Arthur</Forenames>
+      <Text>(temporary 2nd Lieut.)</Text>
       <PageNumber>6518</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -22,6 +22,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>von Luxburg</Key>
+      <Forenames>Graf</Forenames>
+      <Text>, Consul-General at Calcutta for Germany</Text>
+      <PageNumber>5417</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Wales</Key>
       <Title>H.R.H.</Title>
       <Text>the Prince of : Appointments : Cadogan, Maj. Hon. W. G. S., Equerry to H.R.H</Text>
@@ -216,8 +224,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Zanzibar</Key>
-      <Forenames>Senhor A.</Forenames>
-      <Text>de S. Mendes, Cohsul-General for Portugal at</Text>
+      <Forenames>Senhor A. de S</Forenames>
+      <Text>. Mendes, Cohsul-General for Portugal at</Text>
       <PageNumber>4967</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -239,6 +247,15 @@
       <Forenames>F. R. C</Forenames>
       <Text>, appointed to the vicarage of St. Augustine, Edgbaston</Text>
       <PageNumber>6100</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Courcy-Ireland</Key>
+      <Title>Rev.</Title>
+      <Forenames>E. S.</Forenames>
+      <Text>, presented to the vicarage of St. Thomas a Becket, Kingswear</Text>
+      <PageNumber>6099</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -321,6 +338,7 @@
         <PageNumber>___ ___ ___ ___</PageNumber>
         <PageNumber>___ ___ ___</PageNumber>
         <PageNumber>___</PageNumber>
+        <Honour>Bart</Honour>
         <PageNumber>___ ___</PageNumber>
         <PageNumber>___ ___</PageNumber>
         <PageNumber>___ ___</PageNumber>
@@ -354,7 +372,9 @@
     <MainItem>
       <Key>Acheson</Key>
       <Title>Rt. Hon. Viscount</Title>
-      <Text>, Knight of Grace, St. John of Jerusalem</Text>
+      <Text>
+        <Honour>Knight of Grace, St. John of Jerusalem</Honour>
+      </Text>
       <PageNumber>5917</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -380,7 +400,9 @@
       <Key>Atcherley</Key>
       <Title>Maj.</Title>
       <Forenames>L. W.</Forenames>
-      <Text>, Fourth Class, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>5417</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -429,7 +451,9 @@
     <MainItem>
       <Key>Bayly</Key>
       <Forenames>Rear-Adml</Forenames>
-      <Text>. L., Companion of the Bath</Text>
+      <Text>
+        <Honour>Companion of the Bath</Honour>
+      </Text>
       <PageNumber>7107</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -437,7 +461,9 @@
     <MainItem>
       <Key>Beale</Key>
       <Forenames>W.</Forenames>
-      <Text>-P., created a Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>6188</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -454,7 +480,9 @@
       <Key>Beigue</Key>
       <Title>Mme.</Title>
       <Forenames>F. L.</Forenames>
-      <Text>, Lady of Grace, St. John of Jerusalem</Text>
+      <Text>
+        <Honour>Lady of Grace, St. John of Jerusalem</Honour>
+      </Text>
       <PageNumber>5917</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -494,7 +522,9 @@
     <MainItem>
       <Key>Bland-Sutton</Key>
       <Forenames>J.</Forenames>
-      <Text>, Knighted ...</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -503,7 +533,9 @@
       <Key>Bliss</Key>
       <Title>Maj.</Title>
       <Forenames>J. S.</Forenames>
-      <Text>, Fourth Class, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>5995</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -544,8 +576,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Brock</Key>
-      <Forenames>Rear-</Forenames>
-      <Text>Admiral F. E. E., Companion of the Bath</Text>
+      <Title>Rear-Admiral</Title>
+      <Forenames>F. E. E.</Forenames>
+      <Text>
+        <Honour>Companion of the Bath</Honour>
+      </Text>
       <PageNumber>7107</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -603,7 +638,9 @@
       <Key>Channing</Key>
       <Title>Sir</Title>
       <Forenames>F. S.</Forenames>
-      <Text>, Bart., created Baron Channing of Wellingbrough</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>5418</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -628,7 +665,9 @@
     <MainItem>
       <Key>Cook</Key>
       <Forenames>E. T.</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>5081</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -636,7 +675,9 @@
     <MainItem>
       <Key>Courlis</Key>
       <Forenames>J. W.</Forenames>
-      <Text>, Knighted ... ...</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -644,7 +685,9 @@
     <MainItem>
       <Key>Cross</Key>
       <Forenames>A.</Forenames>
-      <Text>, created a Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>6188</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -653,7 +696,9 @@
       <Key>Cowans</Key>
       <Title>Maj.-Gen.</Title>
       <Forenames>J. S.</Forenames>
-      <Text>, M.M.'s Army Council</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>5075</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -662,7 +707,9 @@
       <Key>Daly</Key>
       <Title>Hon.</Title>
       <Forenames>F. M.</Forenames>
-      <Text>, Lady of Grace, St. John of Jerusalem</Text>
+      <Text>
+        <Honour>Lady of Grace, St. John of Jerusalem</Honour>
+      </Text>
       <PageNumber>5917</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -686,15 +733,19 @@
     <MainItem>
       <Key>Dowdall</Key>
       <Forenames>L. C. E. D.</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>5081</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Drummond</Key>
-      <Title>Lady, Lady</Title>
-      <Text>of Grace, St. John of Jerusalem</Text>
+      <Title>Lady</Title>
+      <Text>
+        <Honour>Lady of Grace, St. John of Jerusalem</Honour>
+      </Text>
       <PageNumber>5917</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -38,8 +38,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Verling</Key>
-      <Title>St.</Title>
-      <Forenames>John</Forenames>
+      <Forenames>St. John</Forenames>
       <Text>(temporary 2nd Lieut.)</Text>
       <PageNumber>8143</PageNumber>
     </MainItem>
@@ -63,8 +62,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wheeler</Key>
-      <Forenames>S. G.</Forenames>
-      <Text>de C. (Maj.)</Text>
+      <Forenames>S. G. de C</Forenames>
+      <Text>. (Maj.)</Text>
       <PageNumber>8810</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -223,7 +222,9 @@
     <MainItem>
       <Key>Buller</Key>
       <Forenames>H. C</Forenames>
-      <Text>, D.S.O. (Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8810</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -357,7 +358,9 @@
     <MainItem>
       <Key>Daniels</Key>
       <Forenames>Harry</Forenames>
-      <Text>V.C. (2nd Lieut</Text>
+      <Text>
+        <Honour>V.C.</Honour>
+      </Text>
       <PageNumber>7177</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -371,16 +374,17 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Chair</Forenames>
-      <Text>, (temporary) Capt; Oswald W. (relinquishes his commission on appointment to Royal Naval Volunteers Reserve)</Text>
+      <Key>De Chair</Key>
+      <Title>(temporary)</Title>
+      <Forenames>Capt</Forenames>
+      <Text>; Oswald W. (relinquishes his commission on appointment to Royal Naval Volunteers Reserve)</Text>
       <PageNumber>7080</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Dumaresq</Key>
-      <Text>., H. W. (Maj.)</Text>
+      <Text>, H. W. (Maj.)</Text>
       <PageNumber>8810</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -516,7 +520,9 @@
       <Key>Grogan</Key>
       <Title>Sir</Title>
       <Forenames>Edward I. B.</Forenames>
-      <Text>, Bt. (Lieut.-Col.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>8990</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -549,7 +555,9 @@
     <MainItem>
       <Key>Heriot-Maitland</Key>
       <Forenames>James D</Forenames>
-      <Text>D.S.O. (Lteut.-Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7301</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -669,8 +677,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Loftus</Key>
-      <Title>St.</Title>
-      <Forenames>John D. T.</Forenames>
+      <Forenames>St. John D. T.</Forenames>
       <Text>(to command 10th Battalion, and to be temporary Lieut.-Col.)</Text>
       <PageNumber>7579</PageNumber>
     </MainItem>
@@ -763,8 +770,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mildmay</Key>
-      <Forenames>G. St</Forenames>
-      <Text>. J. (temporary Capt.)</Text>
+      <Forenames>G. St. J</Forenames>
+      <Text>. (temporary Capt.)</Text>
       <PageNumber>7196</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -852,7 +859,9 @@
     <MainItem>
       <Key>Pitt-Taylor</Key>
       <Forenames>W. W.</Forenames>
-      <Text>, D.S.O. (Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8810</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1006,8 +1015,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Lothrop L.</Forenames>
-      <Text>de B. (Lieut.)</Text>
+      <Forenames>Lothrop L. de B</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>8404</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1103,8 +1112,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Tennyson</Key>
-      <Forenames>Lieut</Forenames>
-      <Text>, the Hon. A. A. (temporary Capt., supernumerary to establishment)</Text>
+      <Title>Lieut, the Hon.</Title>
+      <Forenames>A. A.</Forenames>
+      <Text>(temporary Capt., supernumerary to establishment)</Text>
       <PageNumber>8110</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1123,6 +1133,14 @@
       <Forenames>Joseph William</Forenames>
       <Text>(temporary 2nd Lieut.)</Text>
       <PageNumber>8380</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>van Millingen</Key>
+      <Forenames>Charles A. Macken-</Forenames>
+      <Text>zie (temporary 2nd Iieut.)</Text>
+      <PageNumber>8294</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

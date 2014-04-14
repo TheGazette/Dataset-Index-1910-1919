@@ -148,7 +148,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>T.</Forenames>
-      <Text>/Lt.-Col. George Frank, D.S.O., 2nd Bar to D.S.O,</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>9673</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -165,7 +167,9 @@
     <MainItem>
       <Key>Brooksbank</Key>
       <Forenames>Edward Clitherow</Forenames>
-      <Text>, Esq., J.P., created Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>10217</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -258,7 +262,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Robert Charles</Forenames>
-      <Text>, M.B., F.R.C.P., F.R.C.S., knighted</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>10218</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -307,7 +313,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>William Arthur</Forenames>
-      <Text>McCrae, Victoria Cross</Text>
+      <Text>
+        <Honour>Victoria Cross</Honour>
+      </Text>
       <PageNumber>11206</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -347,7 +355,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Buddie</Key>
-      <Text>Surg. Lt. Roger, M.B., . Officer, Order of the British Empire</Text>
+      <Title>Surg. Lt.</Title>
+      <Forenames>Roger</Forenames>
+      <Text>, M.B., . Officer, Order of the British Empire</Text>
       <PageNumber>10632</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -365,7 +375,9 @@
       <Key>Buller</Key>
       <Title>Capt.</Title>
       <Forenames>Francis Elliot</Forenames>
-      <Text>, M.C., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>11458</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -504,7 +516,9 @@
       </Key>
       <Title>Miss</Title>
       <Forenames>Henrietta</Forenames>
-      <Text>, R.R.C., Bar to Royal Red Cross</Text>
+      <Text>
+        <Honour>R.R.C.</Honour>
+      </Text>
       <PageNumber>9821</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -579,7 +593,9 @@
       <Key>Buxton</Key>
       <Title>Capt. (A./Lt.-Col.)</Title>
       <Forenames>Robert Vere</Forenames>
-      <Text>, Companion, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>9678</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -599,7 +615,9 @@
       </Key>
       <Title>Lt. (A./Maj.)</Title>
       <Forenames>Louis Camp-</Forenames>
-      <Text>bell, M.C., Companion, D.S.O</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9678</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -674,7 +692,10 @@
       <Key>Calverley</Key>
       <Title>Mrs. Louisa .</Title>
       <Forenames>Mary</Forenames>
-      <Text>, O.B.E., Lady of Grace, St. John of Jerusalem</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>Lady of Grace, St. John of Jerusalem</Honour>
+      </Text>
       <PageNumber>8851</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -704,7 +725,10 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>T.</Forenames>
-      <Text>/Lt.-Col. Ewen Allan, D.S.O., Bar to D.S.O</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>9675</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -876,7 +900,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cargill</Key>
-      <Text>Mass Amelia, Royal Bed Cross, 2nd CI</Text>
+      <Forenames>Mass Amelia</Forenames>
+      <Text>, Royal Bed Cross, 2nd CI</Text>
       <PageNumber>10048</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -917,7 +942,9 @@
       <Key>Carroll</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>John William Vincent</Forenames>
-      <Text>, C.M.G., Companion, D.S.O</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>8980</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -935,14 +962,18 @@
       <Key>Carrutliers</Key>
       <Title>Maj.</Title>
       <Forenames>John Harvey</Forenames>
-      <Text>de Wiederhold, M.C., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>11461</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Carter</Key>
-      <Text>Lt.-Col. Ernest Prsley, Officer, Order of the British Empire</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Ernest Prsley</Forenames>
+      <Text>, Officer, Order of the British Empire</Text>
       <PageNumber>11461</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -963,7 +994,10 @@
       </Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Gordon</Forenames>
-      <Text>, M.V.O., Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>10082</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -971,7 +1005,10 @@
     <MainItem>
       <Key>Cartwright</Key>
       <Forenames>T.</Forenames>
-      <Text>/Maj. (A./Lt.-Col.) Charles. M.C., Companion, ' D.S.O.'</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>9678</PageNumber>
     </MainItem>
   </ItemGroup>

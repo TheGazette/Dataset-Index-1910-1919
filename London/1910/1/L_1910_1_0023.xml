@@ -36,7 +36,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sanders</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>;. J. M. B. (seconded)</Text>
       <PageNumber>2211</PageNumber>
     </MainItem>
@@ -311,7 +311,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Buchanan</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, .T. C. (seconded)</Text>
       <PageNumber>1684</PageNumber>
     </MainItem>
@@ -320,8 +320,8 @@
     <MainItem>
       <Key>Child</Key>
       <Title>Lieut.</Title>
-      <Forenames>R. D.</Forenames>
-      <Text>de Q. (retired)</Text>
+      <Forenames>R. D. de Q</Forenames>
+      <Text>. (retired)</Text>
       <PageNumber>528</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -576,7 +576,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Baggallay</Key>
-      <Text>M. E. C. (2nd Lieut.)</Text>
+      <Forenames>M. E. C.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>1501</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -754,8 +755,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill-Power, Capt. J. J. (resigned)</Text>
+      <Key>O'Neill-Power</Key>
+      <Title>Capt.</Title>
+      <Forenames>J. J.</Forenames>
+      <Text>(resigned)</Text>
       <PageNumber>529</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1199,8 +1202,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Anson</Key>
-      <Forenames>E. St</Forenames>
-      <Text>. G. (Adjt.)</Text>
+      <Forenames>E. St. G</Forenames>
+      <Text>. (Adjt.)</Text>
       <PageNumber>33</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1305,8 +1308,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Child</Key>
-      <Forenames>R. S.</Forenames>
-      <Text>de Q. (Lieut.)</Text>
+      <Forenames>R. S. de Q</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>529</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1357,6 +1360,14 @@
       <Forenames>G. L.</Forenames>
       <Text>(2nd Lieut.)</Text>
       <PageNumber>2032</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Joux</Key>
+      <Forenames>J. S. N.</Forenames>
+      <Text>(Adjt.)</Text>
+      <PageNumber>1685</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

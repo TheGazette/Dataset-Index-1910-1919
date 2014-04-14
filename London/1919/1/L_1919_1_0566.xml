@@ -139,7 +139,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sotherland-Leveson</Key>
-      <Text>.Gower, Oa.pt. Ljird A St. C., U-C. (temp</Text>
+      <Forenames>Gower</Forenames>
+      <Text>, Oa.pt. Ljird A St. C., U-C. (temp</Text>
       <PageNumber>2388</PageNumber>
     </MainItem>
     <SubItem>
@@ -169,7 +170,9 @@
       <Key>SUttie</Key>
       <Title>Supern. Maj.</Title>
       <Forenames>H. F.</Forenames>
-      <Text>.Grant, M.C. (restd. to .gftabt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>154</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -208,7 +211,10 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>E. A.</Forenames>
-      <Text>M.C. (Bt. Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>1943</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -392,7 +398,9 @@
       <Key>Swales</Key>
       <Title>Lt. (actg. Capt.)</Title>
       <Forenames>J.</Forenames>
-      <Text>, M.C. (Line. R.) (retains aotg. rank .-while comdg. a Do.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>143</PageNumber>
       <PageNumber>144</PageNumber>
     </MainItem>
@@ -404,7 +412,9 @@
       </Key>
       <Title>temp. 2nd Lt.</Title>
       <Forenames>J.</Forenames>
-      <Text>, M.C. (Tank Corps) (temp. Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3217</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -628,11 +638,15 @@
       <Key>Swayne</Key>
       <Title>Maj.</Title>
       <Forenames>O. R.</Forenames>
-      <Text>, D.S.O. (actg. lit.-Col. comdg. a Brig, of Arty.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>481</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Bt. Lt.-Col Rev. E. (Hon. Ghapln., 4th OL) ... '</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>1136</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -725,7 +739,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Title>temp.</Title>
-      <Text>2nd lit. W., M.C. (.temp. Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3406</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -792,7 +808,7 @@
   <ItemGroup>
     <MainItem>
       <Key>S</Key>
-      <Text>.wfi^oe-Plielian, Maj. !W. LI.TCOL comdg. the Bn.)</Text>
+      <Text>wfi^oe-Plielian, Maj. !W. LI.TCOL comdg. the Bn.)</Text>
       <PageNumber>3118</PageNumber>
     </MainItem>
     <SubItem>
@@ -818,7 +834,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>G. E.</Forenames>
-      <Text>, M.C. (temp. Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1437</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -829,7 +847,9 @@
       </Key>
       <Title>2nd Lt.</Title>
       <Forenames>R. C.</Forenames>
-      <Text>M.C. (Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2398</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -852,7 +872,7 @@
       <PageNumber>3818</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Capt.</Text>
+      <Text>Capt</Text>
       <PageNumber>3125</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1029,7 +1049,9 @@
       <PageNumber>879</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Not. of appt. to M.G.C., Infv., in Gaz. 17 Jan. 1919 cancelled</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>3007</PageNumber>
     </SubItem>
   </ItemGroup>

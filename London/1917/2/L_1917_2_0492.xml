@@ -505,7 +505,10 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>Clair-Morford, A. C, M.C. (Capt.)</Text>
+      <Forenames>Clair-Morford</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3496</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -652,7 +655,10 @@
       <Key>Wilson</Key>
       <Title>temp. Lt.-Col.</Title>
       <Forenames>L. O.</Forenames>
-      <Text>, C.M.G., D.S.O. (apptd. to Res. of Offrs.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3494</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -675,7 +681,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Woodroffe</Key>
-      <Text>L. W. (temp. Capt.)</Text>
+      <Forenames>L. W.</Forenames>
+      <Text>(temp. Capt.)</Text>
       <PageNumber>333</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -693,7 +700,9 @@
       <Key>Aman</Key>
       <Title>Capt.</Title>
       <Forenames>D. L.</Forenames>
-      <Text>., D.S.C. (actg. Maj.) ... '</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>3955</PageNumber>
     </MainItem>
     <SubItem>
@@ -705,7 +714,9 @@
     <MainItem>
       <Key>Bourne</Key>
       <Forenames>A. G. B.</Forenames>
-      <Text>, M.V.O. (Maj., supy.)</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>6290</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -730,7 +741,9 @@
       <Key>Foster</Key>
       <Title>Maj. (temp. Lt.-Col.)</Title>
       <Forenames>R. F. C.</Forenames>
-      <Text>(Bt. Lt.-Col.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>5517</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -778,8 +791,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Morgan</Key>
-      <Forenames>H. G. St</Forenames>
-      <Text>. G. (Maj., supy.)</Text>
+      <Forenames>H. G. St. G</Forenames>
+      <Text>. (Maj., supy.)</Text>
       <PageNumber>6290</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -788,7 +801,9 @@
       <Key>Osmaston</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>C. A.</Forenames>
-      <Text>FitzH., C.B. (Not. cancelled)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>3404</PageNumber>
     </MainItem>
     <SubItem>
@@ -801,7 +816,9 @@
       <Key>Phillips</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>P.</Forenames>
-      <Text>, M.V.O. (seed.)</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>3404</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -817,7 +834,9 @@
     <MainItem>
       <Key>Tripp</Key>
       <Forenames>W. H. L.</Forenames>
-      <Text>, D.S.O. (Maj. seed.) ,</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6290</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -933,7 +952,7 @@
       <PageNumber>4216</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>Temp. Lt.-Col</Text>
+      <Text>Temp. Lt.-Col.</Text>
       <PageNumber>5640</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1084,11 +1103,12 @@
   <ItemGroup>
     <MainItem>
       <Key>Tait</Key>
-      <Text>J. (temp. 2nd Lt.)</Text>
+      <Forenames>J.</Forenames>
+      <Text>(temp. 2nd Lt.)</Text>
       <PageNumber>3205</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Temp. Capt</Text>
+      <Text>Temp. Capt.</Text>
       <PageNumber>3599</PageNumber>
     </SubItem>
   </ItemGroup>

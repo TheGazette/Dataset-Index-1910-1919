@@ -252,7 +252,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Unwin</Key>
-      <Text>. Harry Batty (2nd Lieut.)</Text>
+      <Forenames>Harry Batty</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>7876</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1084,7 +1085,9 @@
       <Key>Etheridge</Key>
       <Title>Lieut.-Col.</Title>
       <Forenames>Cecil</Forenames>
-      <Text>de Courcy, D.S.O. (temporary Lieut.-Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8368</PageNumber>
     </MainItem>
   </ItemGroup>

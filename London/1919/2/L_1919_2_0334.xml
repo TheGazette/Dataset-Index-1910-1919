@@ -3,7 +3,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Parker</Key>
-      <Text>. Engr. Capt. William Ramsey, Commander, Order of the British Empire</Text>
+      <Title>Engr. Capt.</Title>
+      <Forenames>William Ramsey</Forenames>
+      <Text>, Commander, Order of the British Empire</Text>
       <PageNumber>7508</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -44,7 +46,9 @@
       </Key>
       <Title>Col.</Title>
       <Forenames>William Henry</Forenames>
-      <Text>, C.M.G., Commander, Order of the British Empire, transferred to Military Division</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>4976</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -62,7 +66,9 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Title>Bt.</Title>
-      <Text>-Maj. (T./Lt.-Col.) Herbert Denis, M.C., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6803</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -102,7 +108,9 @@
       <Key>Parks</Key>
       <Title>Maj. (T./Lt.-Col.)</Title>
       <Forenames>Edward Joseph</Forenames>
-      <Text>, M.C., Companion, D.S.O</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6822</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -112,7 +120,9 @@
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>T.</Forenames>
-      <Text>/Maj. John Hegan, D.S.O., Officer, Order of the British Empire, transferred to Military Division</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4982</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -218,7 +228,9 @@
       </Key>
       <Title>Maj. and Bt. Lt.-Col.</Title>
       <Forenames>Henry</Forenames>
-      <Text>' Jules, D.S.O., Commander, ' Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6982</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -228,7 +240,9 @@
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Rear-Adml</Forenames>
-      <Text>. John Franklin, C.B., Knight Commander, Order of the Bath</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>7045</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -239,7 +253,10 @@
       </Key>
       <Title>Lt.-Col. (Hon. Col.)</Title>
       <Forenames>Llewelyn England Sidney</Forenames>
-      <Text>, D.S.O., T.D., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>6982</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -259,7 +276,9 @@
       <Key>Parsley</Key>
       <Title>Lt. (T./Maj.)</Title>
       <Forenames>Walter</Forenames>
-      <Text>, M.C., Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6963</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -268,7 +287,9 @@
       <Key>Parslow</Key>
       <Title>Lt.</Title>
       <Forenames>Frederick</Forenames>
-      <Text>, Victoria Cross '</Text>
+      <Text>
+        <Honour>Victoria Cross</Honour>
+      </Text>
       <PageNumber>6445</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -277,7 +298,9 @@
       <Key>Parsons</Key>
       <Title>Maj.</Title>
       <Forenames>Bernard Edward Thomas</Forenames>
-      <Text>, Companion, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>4317</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -288,7 +311,9 @@
       </Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Christopher Thackray</Forenames>
-      <Text>, M.D., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>6991</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -298,14 +323,17 @@
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>T.</Forenames>
-      <Text>/Col. John Herbert, D.Sc., M.B., F.R.C.S., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>6982</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Parsons</Key>
-      <Text>. Paym -. Lieut, (actg. Paymr.-Lieut.-Comdr.) Oswy Lonsdale, Officer, Order of the British Empire</Text>
+      <Forenames>Paym</Forenames>
+      <Text>-. Lieut, (actg. Paymr.-Lieut.-Comdr.) Oswy Lonsdale, Officer, Order of the British Empire</Text>
       <PageNumber>8067</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -412,7 +440,10 @@
     <MainItem>
       <Key>Pasteur</Key>
       <Forenames>T.</Forenames>
-      <Text>/Col. (Lt.-Col.) William, C. M.G., M.D., F.R.C.P., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>6789</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -447,7 +478,9 @@
       <Key>Paterson</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Alexander Thomas</Forenames>
-      <Text>, M.C., Companion, D. S.O</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6822</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -457,7 +490,10 @@
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>T.</Forenames>
-      <Text>/Lt.-Col. Andrew Melville, M.D., F.R.C.S., Commander, Orderof theBritish Empire</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>6982</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -501,7 +537,9 @@
       </Key>
       <Title>Capt. (A./Maj.)</Title>
       <Forenames>Matthew Wallace</Forenames>
-      <Text>, M.C.,. Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6803</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -534,7 +572,10 @@
       </Key>
       <Title>Brig.-Gen.</Title>
       <Forenames>Robert Walter</Forenames>
-      <Text>, D.S.O., Companion, St. Michael and St. George</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, St. Michael and St. George</Honour>
+      </Text>
       <PageNumber>6793</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -601,7 +642,9 @@
     <MainItem>
       <Key>Pattinson</Key>
       <Forenames>T.</Forenames>
-      <Text>/Maj. George Hedworth, M.C., Officer, Order of the British Empire .-</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6991</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -612,7 +655,11 @@
       </Key>
       <Title>Maj. (A./Lt..Col.)</Title>
       <Forenames>Laurence Arthur</Forenames>
-      <Text>, M.C., D.F.C., Companion.D.S.O</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>D.F.C.</Honour>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>7030</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -638,7 +685,9 @@
       <Key>Paul</Key>
       <Title>Col.</Title>
       <Forenames>Denis</Forenames>
-      <Text>, C.M.G., Commander, Order of the British Empire, transferred to Military Division</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>4976</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -649,7 +698,9 @@
       </Key>
       <Title>Col. (T./Brig.-Gen.)</Title>
       <Forenames>Ernest Moncrieff</Forenames>
-      <Text>, C.B., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>6923</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -660,7 +711,9 @@
       </Key>
       <Title>Miss</Title>
       <Forenames>Jane Jessie Arthur</Forenames>
-      <Text>, A.R.R.C., Royal Red Cross, 1st CI</Text>
+      <Text>
+        <Honour>A.R.R.C.</Honour>
+      </Text>
       <PageNumber>6839</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -720,7 +773,9 @@
       </Key>
       <Title>Miss</Title>
       <Forenames>Gertrude Mary</Forenames>
-      <Text>, R.R.C., Bar to R.R.C</Text>
+      <Text>
+        <Honour>R.R.C.</Honour>
+      </Text>
       <PageNumber>4675</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -731,7 +786,9 @@
       <Key>Payntcr</Key>
       <Title>Maj. and Bt. Lt.-Col. (T. / Brig.-Gen.)</Title>
       <Forenames>George Camborne Beauclerk</Forenames>
-      <Text>, D.S.O., Companion, * St. Michael and St. George</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6792</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -750,7 +807,9 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Robert</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>5422</PageNumber>
       <PageNumber>0503</PageNumber>
     </MainItem>
@@ -771,7 +830,9 @@
       <Key>Peal</Key>
       <Title>Maj. (A./Lt.-Col.)</Title>
       <Forenames>Edward Raymond</Forenames>
-      <Text>, D.S.C., Officer,Order of the British Empire, transferred to Military Division</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>4992</PageNumber>
     </MainItem>
   </ItemGroup>

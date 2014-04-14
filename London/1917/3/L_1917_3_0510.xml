@@ -86,8 +86,8 @@
     <MainItem>
       <Key>Purcell-Gilpin</Key>
       <Title>Lt.</Title>
-      <Forenames>V. St</Forenames>
-      <Text>. J. (Capt.)</Text>
+      <Forenames>V. St. J</Forenames>
+      <Text>. (Capt.)</Text>
       <PageNumber>7087</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -262,8 +262,8 @@
     <MainItem>
       <Key>Pym</Key>
       <Title>2nd Lt.</Title>
-      <Forenames>W. St</Forenames>
-      <Text>. J. (Lt.)</Text>
+      <Forenames>W. St. J</Forenames>
+      <Text>. (Lt.)</Text>
       <PageNumber>8883</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -862,7 +862,9 @@
       </Key>
       <Title>Capt. Sir</Title>
       <Forenames>J. F.</Forenames>
-      <Text>, Bt. (date of precedence)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>7111</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1160,7 +1162,9 @@
       <Key>Rapp</Key>
       <Title>Lt.</Title>
       <Forenames>T. C</Forenames>
-      <Text>, M.C. (Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7306</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1208,8 +1212,8 @@
     <MainItem>
       <Key>Ratcliffe</Key>
       <Title>Cadet</Title>
-      <Forenames>C. St</Forenames>
-      <Text>. A. (2nd Lt.)</Text>
+      <Forenames>C. St. A</Forenames>
+      <Text>. (2nd Lt.)</Text>
       <PageNumber>6636</PageNumber>
     </MainItem>
     <SubItem>
@@ -1226,7 +1230,9 @@
       <Key>Rathbone</Key>
       <Title>2nd Lt.</Title>
       <Forenames>R. R.</Forenames>
-      <Text>, M.C. (Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7885</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1242,7 +1248,9 @@
       <Key>Rattle</Key>
       <Title>Lt.</Title>
       <Forenames>J. G.</Forenames>
-      <Text>(trd.) Rattray, Capt. (temp.) (temp. Maj.) P. M., D.S.O. (Capt;, temp. Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8304</PageNumber>
     </MainItem>
     <SubItem>
@@ -1393,7 +1401,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Rawstorne</Key>
-      <Text>Capt. (temp. Maj.) T. G. (rel. temp, rank)</Text>
+      <Title>Capt. (temp. Maj.)</Title>
+      <Forenames>T. G.</Forenames>
+      <Text>(rel. temp, rank)</Text>
       <PageNumber>6538</PageNumber>
     </MainItem>
   </ItemGroup>

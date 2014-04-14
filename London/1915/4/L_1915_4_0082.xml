@@ -541,7 +541,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gooding</Key>
-      <Text>A. T. (2nd Lt. on probation)</Text>
+      <Forenames>A. T.</Forenames>
+      <Text>(2nd Lt. on probation)</Text>
       <PageNumber>12694</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -942,7 +943,9 @@
         <KeyDitto>— ___ ___</KeyDitto>
       </Key>
       <Forenames>G. A.</Forenames>
-      <Text>, M.D. (temp. Lt.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>12060</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1092,7 +1095,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>R</Forenames>
-      <Text>, G., M.D. (temp. Lt.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>12446</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1283,8 +1288,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gore-Hickman</Key>
-      <Forenames>T. O</Forenames>
-      <Text>'B. (temp. ' 2nd Lt.)</Text>
+      <Forenames>T. O'B</Forenames>
+      <Text>. (temp. ' 2nd Lt.)</Text>
       <PageNumber>10483</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1335,7 +1340,7 @@
       <PageNumber>10245</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Relinquishes the temp, rank of Lt.-Col</Text>
+      <Text>Relinquishes the temp, rank of Lt.-Col.</Text>
       <PageNumber>12408</PageNumber>
     </SubItem>
   </ItemGroup>

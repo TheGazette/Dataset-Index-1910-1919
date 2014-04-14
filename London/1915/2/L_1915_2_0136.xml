@@ -113,7 +113,9 @@
       <Key>Ritchie</Key>
       <Title>Lieut.-Col. (temporary Brigadier-Gen.)</Title>
       <Forenames>A. B.</Forenames>
-      <Text>, C.M.G. (Brevet Col.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>6125</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -180,7 +182,10 @@
     <MainItem>
       <Key>Baird</Key>
       <Forenames>Alexander W. F.</Forenames>
-      <Text>. C.M.G., D.S.O. (Maj.l</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4629</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -217,8 +222,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Carr</Key>
-      <Forenames>Lieut</Forenames>
-      <Text>, (temporary Capt.) Lawrence (temporary Capt., ^antedated)</Text>
+      <Title>Lieut, (temporary Capt.)</Title>
+      <Forenames>Lawrence</Forenames>
+      <Text>(temporary Capt., ^antedated)</Text>
       <PageNumber>3416</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -233,22 +239,27 @@
     <MainItem>
       <Key>Craufurd</Key>
       <Forenames>George S. G.</Forenames>
-      <Text>, CLE., D.S.O. (Lieut.-Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4238</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Cumine</Key>
-      <Text>. (temporary) Maj. George J. G. G. (correction)</Text>
+      <Title>(temporary) Maj.</Title>
+      <Forenames>George J. G. G.</Forenames>
+      <Text>(correction)</Text>
       <PageNumber>6171</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Cunynghame</Key>
-      <Forenames>Lieut</Forenames>
-      <Text>, (temporary Capt.) Ronald O. Blair (temporary Capt., antedated)</Text>
+      <Title>Lieut, (temporary Capt.)</Title>
+      <Forenames>Ronald O. Blair</Forenames>
+      <Text>(temporary Capt., antedated)</Text>
       <PageNumber>3416</PageNumber>
     </MainItem>
     <SubItem>
@@ -259,8 +270,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Davidson</Key>
-      <Forenames>Lieut</Forenames>
-      <Text>, (temporary Capt.) Edward H. (temporary Capt., antedated)</Text>
+      <Title>Lieut, (temporary Capt.)</Title>
+      <Forenames>Edward H.</Forenames>
+      <Text>(temporary Capt., antedated)</Text>
       <PageNumber>3416</PageNumber>
     </MainItem>
     <SubItem>
@@ -328,7 +340,9 @@
       <Key>Gordon</Key>
       <Title>Maj.</Title>
       <Forenames>Alister F.</Forenames>
-      <Text>, D.S.O. (temporary Lieut.-Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3342</PageNumber>
     </MainItem>
     <SubItem>
@@ -339,8 +353,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Gore</Key>
-      <Forenames>Lieut</Forenames>
-      <Text>, (temporary Capt.) Gavin R, V. Hume (temporary Capt., antedated)</Text>
+      <Title>Lieut, (temporary Capt.)</Title>
+      <Forenames>Gavin R</Forenames>
+      <Text>, V. Hume (temporary Capt., antedated)</Text>
       <PageNumber>3416</PageNumber>
     </MainItem>
     <SubItem>
@@ -380,8 +395,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Hamilton</Key>
-      <Forenames>Lieut</Forenames>
-      <Text>, (temporary Capt.) James M. (temporary Capt., antedated)</Text>
+      <Title>Lieut, (temporary Capt.)</Title>
+      <Forenames>James M.</Forenames>
+      <Text>(temporary Capt., antedated)</Text>
       <PageNumber>3416</PageNumber>
     </MainItem>
     <SubItem>
@@ -749,7 +765,9 @@
       <Key>Trumbull</Key>
       <Title>Lieut.</Title>
       <Forenames>D. R.</Forenames>
-      <Text>, D.S.O. (temporary Capt.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3416</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -790,7 +808,9 @@
       <Key>Wright</Key>
       <Title>Brevet Col.</Title>
       <Forenames>Harry</Forenames>
-      <Text>, D.S.O. (to command the 8th Battalion)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4150</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -942,7 +962,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fairba</Key>
-      <Text>.ni, G. (2nd Lieut.)</Text>
+      <Text>ni, G. (2nd Lieut.)</Text>
       <PageNumber>4873</PageNumber>
     </MainItem>
   </ItemGroup>

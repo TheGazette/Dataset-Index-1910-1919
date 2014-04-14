@@ -561,8 +561,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connell, J. F. (Lieut.)</Text>
+      <Key>O'Connell</Key>
+      <Forenames>J. F.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -636,7 +637,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sampey</Key>
-      <Text>A. W. (Maj.)</Text>
+      <Forenames>A. W.</Forenames>
+      <Text>(Maj.)</Text>
       <PageNumber>4642</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -651,21 +653,25 @@
   <ItemGroup>
     <MainItem>
       <Key>Sanson</Key>
-      <Text>J. T. (Capt.)</Text>
+      <Forenames>J. T.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>5489</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Smith</Key>
-      <Text>E. P. A. (Lieut.)</Text>
+      <Forenames>E. P. A.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>5936</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Spencer</Key>
-      <Text>Maj. C. G. (retired pay)</Text>
+      <Title>Maj.</Title>
+      <Forenames>C. G.</Forenames>
+      <Text>(retired pay)</Text>
       <PageNumber>5489</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -838,14 +844,17 @@
       <Key>Maclure</Key>
       <Title>Col. Sir</Title>
       <Forenames>J. E. S.</Forenames>
-      <Text>, Bart. (retired pay)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>6761</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hara, J. (Chief Paymaster and Col.)</Text>
+      <Key>O'Hara</Key>
+      <Forenames>J.</Forenames>
+      <Text>(Chief Paymaster and Col.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1269,7 +1278,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dickinson</Key>
-      <Text>H. C. (Capt.)</Text>
+      <Forenames>H. C.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>6761</PageNumber>
     </MainItem>
   </ItemGroup>

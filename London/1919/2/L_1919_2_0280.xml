@@ -21,7 +21,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dailley</Key>
-      <Text>. T./Lt. (A./Maj.) Wilfred Gordon Beale, Officer, Order of the British Empire '</Text>
+      <Forenames>T.</Forenames>
+      <Text>/Lt. (A./Maj.) Wilfred Gordon Beale, Officer, Order of the British Empire '</Text>
       <PageNumber>6986</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -36,7 +37,9 @@
     <MainItem>
       <Key>Dakyns</Key>
       <Title>Mrs.</Title>
-      <Text>' Winifred, M.B.E., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>5775</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -120,7 +123,9 @@
     <MainItem>
       <Key>Dalziel</Key>
       <Forenames>Davison</Forenames>
-      <Text>, created Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>5420</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -198,7 +203,10 @@
     <MainItem>
       <Key>Dannreuther</Key>
       <Forenames>Sigmund</Forenames>
-      <Text>, C.B., Knighted</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>4414</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -265,7 +273,9 @@
       </Key>
       <Title>Maj. (A./Lt.-Col.)</Title>
       <Forenames>Joseph Isidore</Forenames>
-      <Text>, Companion, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>6818</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -273,7 +283,9 @@
     <MainItem>
       <Key>Dare</Key>
       <Forenames>Adul</Forenames>
-      <Text>WharlesHolcombe,W.B., M.V.O., Knight Commander, St. Michael and St. George</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>6501</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -293,7 +305,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>Henry Read</Forenames>
-      <Text>, D.S.O., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6986</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -357,7 +371,9 @@
       <Key>Daubuz</Key>
       <Title>Maj.</Title>
       <Forenames>Claude</Forenames>
-      <Text>, M.C., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6986</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -413,7 +429,9 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Charles</Forenames>
-      <Text>, Knighted .. .:</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>7297</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -424,7 +442,9 @@
       </Key>
       <Title>Lt.-Col. (A./Col.)</Title>
       <Forenames>Edward Humphrey</Forenames>
-      <Text>, M.C., Officer, Order of the British Empire, transferred to Military Division</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4992</PageNumber>
     </MainItem>
     <SubItem>
@@ -450,7 +470,9 @@
       </Key>
       <Title>Miss</Title>
       <Forenames>Ethel Sarah</Forenames>
-      <Text>, R.R.C., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>R.R.C.</Honour>
+      </Text>
       <PageNumber>7004</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -460,7 +482,9 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>T.</Forenames>
-      <Text>/Capt. (A./Lt.-Col.) Hugh Stevenson, M.B., F.R.C.S., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>6798</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -551,7 +575,12 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Title>Lt.</Title>
-      <Text>-Col. and Bt. -Col. (T. /Brig.Gen.) Charles Henry, C.M.G., D.S.O., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>6921</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -615,7 +644,11 @@
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
       <Title>Lt.</Title>
-      <Text>-Gen. Sir Francis John, K.C.B., K.C.M.G., Knight Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>7050</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -637,7 +670,10 @@
       </Key>
       <Title>Lt.-Col. and Bt. Col. (T./ Brig.-Gen.)</Title>
       <Forenames>George Fresh-</Forenames>
-      <Text>field, C.B., C.M.G., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>6922</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -713,7 +749,10 @@
       </Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Reginald Danbury</Forenames>
-      <Text>, D.S.O., 2nd Bar to D.S.O</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>4315</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -756,7 +795,9 @@
       </Key>
       <Title>Miss</Title>
       <Forenames>Susannah Frances</Forenames>
-      <Text>, A.R.R.C., Roval Red Cross, 1st CI. .. ..-</Text>
+      <Text>
+        <Honour>A.R.R.C.</Honour>
+      </Text>
       <PageNumber>6839</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -767,7 +808,9 @@
       </Key>
       <Title>Engr. Cdr.</Title>
       <Forenames>Thomas George Ross</Forenames>
-      <Text>, Companion, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>7907</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -778,7 +821,10 @@
       </Key>
       <Title>Maj. and Bt. Lt.-Col. (T./Lt. Col.)</Title>
       <Forenames>Warburton Edward</Forenames>
-      <Text>, C.M.G., Companion, D.S.O</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>6927</PageNumber>
     </MainItem>
   </ItemGroup>

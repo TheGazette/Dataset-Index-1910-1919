@@ -347,7 +347,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Webb</Key>
-      <Text>. Harry Vincent (2nd Lieut.)</Text>
+      <Forenames>Harry Vincent</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>8726</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -411,14 +412,18 @@
   <ItemGroup>
     <MainItem>
       <Key>Wellsman</Key>
-      <Text>. Carot. Walter H. (seconded for duty with a Provisional Battalion)</Text>
+      <Title>Carot.</Title>
+      <Forenames>Walter H.</Forenames>
+      <Text>(seconded for duty with a Provisional Battalion)</Text>
       <PageNumber>8996</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>West</Key>
-      <Text>. Lieut. Algernon C. P. R. ' (seconded for dutv with a Provisional Battalion)</Text>
+      <Title>Lieut.</Title>
+      <Forenames>Algernon C. P. R.</Forenames>
+      <Text>' (seconded for dutv with a Provisional Battalion)</Text>
       <PageNumber>9417</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1019,7 +1024,9 @@
       <Key>Kenyon</Key>
       <Title>Capt. Sir</Title>
       <Forenames>Frederick G.</Forenames>
-      <Text>, K.C.B. (temporary Maj.)</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+      </Text>
       <PageNumber>9541</PageNumber>
     </MainItem>
   </ItemGroup>

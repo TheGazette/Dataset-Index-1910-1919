@@ -3,7 +3,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wilkinson</Key>
-      <Forenames>Helen</Forenames>
+      <Title>Helen .</Title>
       <PageNumber>898</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -12,7 +12,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>John</Forenames>
+      <Title>John .</Title>
       <PageNumber>777</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -35,7 +35,7 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Forenames>Evan</Forenames>
+      <Title>Evan .</Title>
       <PageNumber>3481</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -79,7 +79,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Williamson</Key>
-      <Forenames>George</Forenames>
+      <Title>George .</Title>
       <PageNumber>2603</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -159,7 +159,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Winstanley</Key>
-      <Forenames>Ann</Forenames>
+      <Title>Ann .</Title>
       <PageNumber>387</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -173,7 +173,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Winterbottom</Key>
-      <Forenames>Alice</Forenames>
+      <Title>Alice .</Title>
       <PageNumber>2968</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -209,15 +209,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Wolfenden</Key>
-      <Forenames>Charlotte</Forenames>
+      <Title>Charlotte .</Title>
       <PageNumber>2597</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Wood</Key>
-      <Forenames>Ernest</Forenames>
-      <Text>.. .-</Text>
+      <Title>Ernest .</Title>
+      <Text>. .-</Text>
       <PageNumber>1525</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -253,8 +253,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Lydia</Forenames>
-      <Text>... ._</Text>
+      <Title>Lydia .</Title>
+      <Text>.. ._</Text>
       <PageNumber>497</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -318,8 +318,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wormald</Key>
-      <Title>Brig.-Gen.</Title>
-      <Forenames>Frank</Forenames>
+      <Title>Brig.-Gen. Frank .</Title>
       <PageNumber>1838</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -373,7 +372,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wylie</Key>
-      <Forenames>Robert</Forenames>
+      <Title>Robert.</Title>
       <PageNumber>1840</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -387,7 +386,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Young</Key>
-      <Forenames>Arthur</Forenames>
+      <Title>Arthur .</Title>
       <PageNumber>1740</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -404,7 +403,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Abell</Key>
-      <Forenames>Stephen</Forenames>
+      <Title>Stephen .</Title>
       <PageNumber>1533</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -509,6 +508,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Pass</Key>
+      <Forenames>Eliot A.</Forenames>
+      <Text>, Harold de Pass, Michael de Mercado, and Lionel de Mercado</Text>
+      <PageNumber>3117</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Dickinson</Key>
       <Text>; Martin Hamilton</Text>
       <PageNumber>1057</PageNumber>
@@ -539,7 +546,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Evans</Key>
-      <Text>. John, Albert E. Evans,John W. Evans; and Charles H. Evans</Text>
+      <Forenames>John</Forenames>
+      <Text>, Albert E. Evans,John W. Evans; and Charles H. Evans</Text>
       <PageNumber>2008</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -619,8 +627,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hill</Key>
-      <Forenames>William</Forenames>
-      <Text>... .„</Text>
+      <Title>William .</Title>
+      <Text>.. .„</Text>
       <PageNumber>2283</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -757,7 +765,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rosen</Key>
-      <Forenames>Abraham</Forenames>
+      <Title>Abraham .</Title>
       <PageNumber>2283</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -808,7 +816,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stark</Key>
-      <Forenames>Thomas</Forenames>
+      <Title>Thomas.</Title>
       <PageNumber>2140</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -822,7 +830,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sudbury</Key>
-      <Forenames>William</Forenames>
+      <Title>William .</Title>
       <PageNumber>2140</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -847,7 +855,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Taylor</Key>
-      <Forenames>Arthur</Forenames>
+      <Title>Arthur .</Title>
       <PageNumber>2984</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -890,7 +898,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wallis</Key>
-      <Text>,. Annie Elizabeth</Text>
+      <Text>. Annie Elizabeth</Text>
       <PageNumber>2404</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -952,21 +960,24 @@
   <ItemGroup>
     <MainItem>
       <Key>Reo</Key>
-      <Text>. Frret Adjd. Ord. Meet. &amp;o. /</Text>
+      <Forenames>Frret Adjd</Forenames>
+      <Text>. Ord. Meet. &amp;o. /</Text>
       <PageNumber>517</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Acock</Key>
-      <Text>, W — ___ ___ ~ \</Text>
+      <Forenames>W</Forenames>
+      <Text>— ___ ___ ~ \</Text>
       <PageNumber>2856</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Adams</Key>
-      <Text>, A — ___ ___ — ___ ___</Text>
+      <Forenames>A</Forenames>
+      <Text>— ___ ___ — ___ ___</Text>
       <PageNumber>929</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1002,7 +1013,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Adey</Key>
-      <Text>, G — ___ _ ___ ___</Text>
+      <Forenames>G</Forenames>
+      <Text>— ___ _ ___ ___</Text>
       <PageNumber>681</PageNumber>
     </MainItem>
     <SubItem>
@@ -1050,14 +1062,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Allan</Key>
-      <Text>, T — ___ ___ — ___</Text>
+      <Forenames>T</Forenames>
+      <Text>— ___ ___ — ___</Text>
       <PageNumber>2020</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Allen</Key>
-      <Text>, H(Staunton) — — ___ ___ ___</Text>
+      <Text>H(Staunton) — — ___ ___ ___</Text>
       <PageNumber>691</PageNumber>
     </MainItem>
     <KeyDitto>___ ___</KeyDitto>
@@ -1090,14 +1103,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Allsop</Key>
-      <Text>, W — ___ ___ — ___ ___</Text>
+      <Forenames>W</Forenames>
+      <Text>— ___ ___ — ___ ___</Text>
       <PageNumber>1443</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Alty</Key>
-      <Text>, J Alvey, J. H., and Alvey, B. A. ... — ___ ___ — ___ ___</Text>
+      <Forenames>J</Forenames>
+      <Text>Alvey, J. H., and Alvey, B. A. ... — ___ ___ — ___ ___</Text>
       <PageNumber>2160</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1148,7 +1163,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Anley</Key>
-      <Text>, F — ___ ___ ___ ___ ___ ___ ~~ \</Text>
+      <Forenames>F</Forenames>
+      <Text>— ___ ___ ___ ___ ___ ___ ~~ \</Text>
       <PageNumber>1076</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1191,7 +1207,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ardley</Key>
-      <Text>, E ___ ___ — ___ ___</Text>
+      <Forenames>E</Forenames>
+      <Text>___ ___ — ___ ___</Text>
       <PageNumber>2152</PageNumber>
     </MainItem>
     <SubItem>
@@ -1202,7 +1219,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Arlington</Key>
-      <Text>, G; H A. ___ ___ ___ \</Text>
+      <Forenames>G</Forenames>
+      <Text>; H A. ___ ___ ___ \</Text>
       <PageNumber>3144</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1257,7 +1275,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Aronson</Key>
-      <Text>, A ___ ___ ___ — ___ ___</Text>
+      <Forenames>A</Forenames>
+      <Text>___ ___ ___ — ___ ___</Text>
       <PageNumber>2996</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1288,6 +1307,10 @@
       <Text>... ___ ___ ___ ___ \</Text>
       <PageNumber>3508</PageNumber>
     </MainItem>
+    <SubItem>
+      <Text>___ ___ ___</Text>
+      <PageNumber>1300</PageNumber>
+    </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>

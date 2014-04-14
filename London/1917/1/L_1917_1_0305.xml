@@ -63,7 +63,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Rose</Key>
-      <Text>. Cadet E. (temp. 2nd Lt., attd.)</Text>
+      <Title>Cadet</Title>
+      <Forenames>E.</Forenames>
+      <Text>(temp. 2nd Lt., attd.)</Text>
       <PageNumber>3007</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -232,7 +234,10 @@
       </Key>
       <Title>Maj. (temp. Lt.-Col.)</Title>
       <Forenames>R. A.</Forenames>
-      <Text>de B., D.S.O. (Bt. Lt.-Col. for Val. Servs.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>1144</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -406,7 +411,10 @@
       </Key>
       <Title>Maj. (temp. Lt.-Col.)</Title>
       <Forenames>A. M.</Forenames>
-      <Text>, D.S.O. ' (Bt. Lt.-Col. for Dist, Serv.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>1595</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -452,7 +460,7 @@
       <PageNumber>940</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>2nd Lt.</Text>
+      <Text>2nd Lt</Text>
       <PageNumber>1387</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -530,7 +538,9 @@
       <Key>Ross</Key>
       <Title>Maj.</Title>
       <Forenames>H. A.</Forenames>
-      <Text>, D.S.O. (actg. Lt.Col.),</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>2126</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -595,7 +605,9 @@
       </Key>
       <Title>temp. Lt.</Title>
       <Forenames>J.</Forenames>
-      <Text>, M.D. (temp. Capt.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>820</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -728,7 +740,10 @@
       </Key>
       <Title>Lt.-Col. Sir</Title>
       <Forenames>R.</Forenames>
-      <Text>, K.C.B., F.R.S., F.R.C.S. (temp. Lt.Col.)</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>1655</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -778,7 +793,11 @@
       <Key>Ross-Johnson</Key>
       <Title>Lt.-Col. (temp. Brig.Gen.)</Title>
       <Forenames>C. M.</Forenames>
-      <Text>, C.M.G., D.S.O. (Bt.-Col, for Dist. Serv.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>16</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -845,7 +864,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Rostern</Key>
-      <Text>. temp. Lt. E. W. (temp. Capt.)</Text>
+      <Title>temp. Lt.</Title>
+      <Forenames>E. W.</Forenames>
+      <Text>(temp. Capt.)</Text>
       <PageNumber>2596</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -883,7 +904,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rotheram</Key>
-      <Text>. S. H. (temp. 2nd Lt. on prob.)</Text>
+      <Forenames>S. H.</Forenames>
+      <Text>(temp. 2nd Lt. on prob.)</Text>
       <PageNumber>754</PageNumber>
     </MainItem>
     <SubItem>
@@ -894,7 +916,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Rothfield</Key>
-      <Text>. Cadet J. (temp. 2nd Lt.)</Text>
+      <Title>Cadet</Title>
+      <Forenames>J.</Forenames>
+      <Text>(temp. 2nd Lt.)</Text>
       <PageNumber>1656</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -920,7 +944,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Rothwell</Key>
-      <Text>. Cadet A. (temp. 2nd Lt., attd.)</Text>
+      <Title>Cadet</Title>
+      <Forenames>A.</Forenames>
+      <Text>(temp. 2nd Lt., attd.)</Text>
       <PageNumber>2729</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -949,7 +975,12 @@
   <ItemGroup>
     <MainItem>
       <Key>Rotton</Key>
-      <Text>. Lt.-Col. (tempBrig.-Gen.) J. G.. C.M.G. (Bt.-Col., for Dist, Serv.)</Text>
+      <Title>Lt.-Col. (tempBrig.-Gen.)</Title>
+      <Forenames>J. G.</Forenames>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>16</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1058,7 +1089,7 @@
       <PageNumber>735</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Flight Comdr.</Text>
+      <Text>Flight Comdr</Text>
       <PageNumber>1774</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1290,7 +1321,7 @@
       <PageNumber>285</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Actg. Capt.</Text>
+      <Text>Actg. Capt</Text>
       <PageNumber>1861</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1320,7 +1351,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>Bt Maj. R. H. (actg. Maj.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>2519</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1331,7 +1364,10 @@
       </Key>
       <Title>temp. Lt.</Title>
       <Forenames>R. M.</Forenames>
-      <Text>, M.D., F.R.C.S. (temp. Capt.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>1627</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1432,7 +1468,9 @@
       </Key>
       <Title>temp. Capt.</Title>
       <Forenames>H. A.</Forenames>
-      <Text>, M.C. (Lt., temp. Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>445</PageNumber>
     </MainItem>
   </ItemGroup>

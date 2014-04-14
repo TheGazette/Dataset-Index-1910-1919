@@ -89,7 +89,9 @@
       <Key>Hankey</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>C. G. H. A.</Forenames>
-      <Text>(Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>87</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -99,7 +101,10 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Title>Maj. and Bt. Lt.</Title>
-      <Text>^Col. (T./ Brig.-Gen.) E. B., D.S.O. (Bt. Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>14</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -110,7 +115,10 @@
       </Key>
       <Title>Miaj. (temp. Lt.OoQ.)</Title>
       <Forenames>J. C. G.</Forenames>
-      <Text>' A., M.V.O., O.B.E. (reverts to unemplnit., and retains rank of Lt.-Col.)</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4167</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -300,7 +308,10 @@
       </Key>
       <Title>Lt. (actg. Maj.)</Title>
       <Forenames>R. W.</Forenames>
-      <Text>, D.S.O., M.C. (rel. aotg. rank, placed on ret. list on acc. of nld-iheaith caused by wounds, and to be Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2826</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -344,7 +355,7 @@
       <PageNumber>1919</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Rel. actg. rank of Capt. on ceasing to comd. a Co.</Text>
+      <Text>Rel. actg. rank of Capt. on ceasing to comd. a Co</Text>
       <PageNumber>3742</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -408,7 +419,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hannigan</Key>
-      <Text>., Rev. M: M. (Hon. Ohaplm., 4th CI.)</Text>
+      <Text>, Rev. M: M. (Hon. Ohaplm., 4th CI.)</Text>
       <PageNumber>1748</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -462,7 +473,12 @@
   <ItemGroup>
     <MainItem>
       <Key>Hansen</Key>
-      <Text>, Capt. (T./Maj.) P. H., V.C., D.S.O., M.C. (Bt. Maj.)</Text>
+      <Text>
+        <Honour>V.C.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>16</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -508,7 +524,9 @@
       </Key>
       <Title>temp. Lt.</Title>
       <Forenames>J. H.</Forenames>
-      <Text>, M.G.C., Infy. (rel. actg. rank of Capt. on ceasing to be 2nd in Comd. of a Co.)</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>1784</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -519,7 +537,9 @@
       </Key>
       <Title>Cadet</Title>
       <Forenames>J. H.</Forenames>
-      <Text>, M.M. (R. Ir. 'Rif.) (temp. 2nd Lt.)</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>4114</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -569,7 +589,9 @@
       </Key>
       <Title>temp. Capt. (actg. Lt.-Col.)</Title>
       <Forenames>W. D.</Forenames>
-      <Text>, O.B.E. (temp. Maj. and retains aotg rank)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>2841</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -673,7 +695,9 @@
     <MainItem>
       <Key>Harcourt</Key>
       <Title>Lt.</Title>
-      <Text>' (act£. Maj.) A. C. D.S.O. (temp. Capt.) . .:</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>2026</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -702,7 +726,9 @@
       <Key>Harcraft</Key>
       <Title>temp. Capt.</Title>
       <Forenames>J. B.</Forenames>
-      <Text>, M.C., M.B. (rel. actg. rank of Maj. on reposting)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3111</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -720,14 +746,19 @@
       <Key>Hardaker</Key>
       <Title>temp. Lt.</Title>
       <Forenames>E. V.</Forenames>
-      <Text>, M.C. (Adjt. and actg. Oa.pt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1497</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hard</Key>
-      <Text>.oaste, Bt. Lt.-Col. R. N., D.S.O. (temp. Lt.-Col. whilst Base Comdt.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>2227</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -745,7 +776,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Harden</Key>
-      <Text>. Cadet C. S. (temp. 2nd Lt.)</Text>
+      <Title>Cadet</Title>
+      <Forenames>C. S.</Forenames>
+      <Text>(temp. 2nd Lt.)</Text>
       <PageNumber>3721</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -756,7 +789,9 @@
       </Key>
       <Title>temp. Lt.</Title>
       <Forenames>E. J.</Forenames>
-      <Text>, M.C. (rel. .commn. on acc. of ill-health caused 'by wounds and retains rank of Lt</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3133</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -790,7 +825,7 @@
       <PageNumber>1061</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Transfd. to R. Scots R.</Text>
+      <Text>Transfd. to R. Scots R</Text>
       <PageNumber>2810</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -830,7 +865,9 @@
       <Key>Harding</Key>
       <Title>Capt. (temp. Maj.)</Title>
       <Forenames>C. L.</Forenames>
-      <Text>, M.C. (trd. to.Ser. Bn.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1197</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -895,7 +932,9 @@
       </Key>
       <Title>temp. 2nd Lt.</Title>
       <Forenames>G. P.</Forenames>
-      <Text>, M.C. (temp.' Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3271</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -941,7 +980,7 @@
       <PageNumber>2839</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>' Reverts to actg. rank of Capt. whilst 2nd in comd.</Text>
+      <Text>' Reverts to actg. rank of Capt. whilst 2nd in comd</Text>
       <PageNumber>2839</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -973,7 +1012,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Title>temp. Lt.</Title>
-      <Text>HCol. (Col., ret., Spec. Res.) J. S. G., M.B.E. (rel. temp, commn. on aoc. of ill-health, and retains rank of Lt.-Col.)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>690</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1037,7 +1078,10 @@
       <Key>Pardarig-Newman</Key>
       <Title>Lt.-Col. (T./ Brig.-Gen.)</Title>
       <Forenames>E.</Forenames>
-      <Text>, C.M.G., D.S.O. Bt.' Col.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O. Bt</Honour>
+      </Text>
       <PageNumber>14</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1090,7 +1134,7 @@
       <PageNumber>2706</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Aotg. Captt., Smb. Not.</Text>
+      <Text>Aotg. Captt., Smb. Not</Text>
       <PageNumber>2706</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1167,7 +1211,7 @@
       <PageNumber>481</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Capt.) — Rel. actg. rank of Capt. on ceasing to be Adjt.</Text>
+      <Text>Capt.) — Rel. actg. rank of Capt. on ceasing to be Adjt</Text>
       <PageNumber>3599</PageNumber>
     </SubItem>
   </ItemGroup>

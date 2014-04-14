@@ -30,7 +30,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Lees</Key>
-      <Text>. Maj. John (temporary Lieut.6ol.)</Text>
+      <Title>Maj.</Title>
+      <Forenames>John</Forenames>
+      <Text>(temporary Lieut.6ol.)</Text>
       <PageNumber>9403</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -770,7 +772,9 @@
       <Key>Buckley</Key>
       <Title>Capt.</Title>
       <Forenames>William P.</Forenames>
-      <Text>D.S.O. (Adjt.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7316</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1095,8 +1099,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, Capt. James (seconded with a Provisional Battalion)</Text>
+      <Key>O'Connor</Key>
+      <Title>Capt.</Title>
+      <Forenames>James</Forenames>
+      <Text>(seconded with a Provisional Battalion)</Text>
       <PageNumber>8724</PageNumber>
     </MainItem>
   </ItemGroup>

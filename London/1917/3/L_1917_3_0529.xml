@@ -153,7 +153,9 @@
       </Key>
       <Title>Lt.-Col. (temp.)</Title>
       <Forenames>J.</Forenames>
-      <Text>, C.M.G. (Durh. L.I.) (Lt.-Col.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>8225</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -536,7 +538,9 @@
       </Key>
       <Title>2nd Lt.</Title>
       <Forenames>S. W.</Forenames>
-      <Text>, M.C. (temp. Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8514</PageNumber>
     </MainItem>
     <SubItem>
@@ -838,7 +842,10 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>W.</Forenames>
-      <Text>, . M.D. (R.A.M.C.) (seed.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6536</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1331,9 +1338,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Duzer</Forenames>
-      <Text>, 2nd Lt. (temp. Lt.) F. C. (Lt.)</Text>
+      <Key>Van Duzer</Key>
+      <Title>2nd Lt. (temp. Lt.)</Title>
+      <Forenames>F. C.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>6793</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1468,7 +1476,9 @@
       <Key>Varwell</Key>
       <Title>Capt. (temp. Maj.)</Title>
       <Forenames>E. H.</Forenames>
-      <Text>, D. S.O. (Maj.)</Text>
+      <Text>
+        <Honour>D. S.O.</Honour>
+      </Text>
       <PageNumber>9439</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1538,8 +1548,8 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Title>2nd Lt. (actg. Lt.)</Title>
-      <Forenames>H. H.</Forenames>
-      <Text>de C. (rel. actg. rank)</Text>
+      <Forenames>H. H. de C</Forenames>
+      <Text>. (rel. actg. rank)</Text>
       <PageNumber>7568</PageNumber>
     </MainItem>
   </ItemGroup>

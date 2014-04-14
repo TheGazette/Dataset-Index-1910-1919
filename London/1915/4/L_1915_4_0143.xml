@@ -309,7 +309,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Sidney</Key>
-      <Text>Capt. P. (Wing Adjt., and to be seconded)</Text>
+      <Title>Capt.</Title>
+      <Forenames>P.</Forenames>
+      <Text>(Wing Adjt., and to be seconded)</Text>
       <PageNumber>12196</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -391,7 +393,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>J. F. W.</Forenames>
-      <Text>, M.D. (temp. Lt.Col.) ..:</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>10877</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -596,8 +600,8 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Title>(temp.) 2nd Lt.</Title>
-      <Forenames>L. St</Forenames>
-      <Text>. G. L. (relinquishes his commission)</Text>
+      <Forenames>L. St. G</Forenames>
+      <Text>. L. (relinquishes his commission)</Text>
       <PageNumber>10481</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -772,7 +776,9 @@
       </Key>
       <Title>Rev.</Title>
       <Forenames>J. M.</Forenames>
-      <Text>, C.M.G., D.D., K.H.C. (granted relative precedence as Maj.-Gen. whilst Principal Chaplain)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>11721</PageNumber>
     </MainItem>
     <SubItem>
@@ -1437,7 +1443,9 @@
     <MainItem>
       <Key>Singer</Key>
       <Forenames>C. J.</Forenames>
-      <Text>, M.D. (temp. Capt.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>12198</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1558,7 +1566,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sissons</Key>
-      <Text>O. H. (temp. Lt.)</Text>
+      <Forenames>O. H.</Forenames>
+      <Text>(temp. Lt.)</Text>
       <PageNumber>12061</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1578,21 +1587,26 @@
       </Key>
       <Title>Col.</Title>
       <Forenames>W. H.</Forenames>
-      <Text>, C.B., D.S.O. (Half-pay List)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>12303</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Skae</Key>
-      <Text>G. P. M. (temp. 2nd Lt.)</Text>
+      <Forenames>G. P. M.</Forenames>
+      <Text>(temp. 2nd Lt.)</Text>
       <PageNumber>12422</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Skardon</Key>
-      <Text>C. H. (temp. 2nd Lt.)</Text>
+      <Forenames>C. H.</Forenames>
+      <Text>(temp. 2nd Lt.)</Text>
       <PageNumber>11725</PageNumber>
     </MainItem>
   </ItemGroup>

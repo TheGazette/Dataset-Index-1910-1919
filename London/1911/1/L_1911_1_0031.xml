@@ -102,8 +102,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Maunsell</Key>
-      <Forenames>I. O</Forenames>
-      <Text>'G</Text>
+      <Forenames>I. O'G</Forenames>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -442,8 +441,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Woodhouse</Key>
-      <Forenames>P. St</Forenames>
-      <Text>. J. R</Text>
+      <Forenames>P. St. J</Forenames>
+      <Text>. R</Text>
       <PageNumber>1963</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -460,7 +459,9 @@
       <Key>Elphinstone-Ddhvmple</Key>
       <Title>Sir</Title>
       <Forenames>E. A.</Forenames>
-      <Text>Bart '</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>133</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -601,6 +602,13 @@
       <Key>Dawes</Key>
       <Forenames>A. M</Forenames>
       <PageNumber>___ ___ ___</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Burgh</Key>
+      <Forenames>T</Forenames>
+      <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1151,8 +1159,9 @@
   <SubSectionTitle>Reserve of Officers</SubSectionTitle>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, J. (2nd Lieut.)</Text>
+      <Key>O'Brien</Key>
+      <Forenames>J.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>1963</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1279,7 +1288,9 @@
       <Key>Stirling</Key>
       <Title>Capt. Sir</Title>
       <Forenames>G. M. H.</Forenames>
-      <Text>, Bart., Deputy Asst. Adjt.-Gen</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>2431</PageNumber>
     </MainItem>
   </ItemGroup>

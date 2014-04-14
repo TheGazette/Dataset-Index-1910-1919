@@ -119,7 +119,7 @@
       <PageNumber>8605</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Overseas Cadet F. D (temp</Text>
+      <Text>Overseas Cadet F. D (temp.</Text>
       <PageNumber>8605</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -224,7 +224,9 @@
       <PageNumber>11470</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Cadet F. J. (Hon. 2nd LT.)</Text>
+      <Text>
+        <Honour>LT</Honour>
+      </Text>
       <PageNumber>8608</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -232,7 +234,11 @@
     <MainItem>
       <Key>Cbllishaw</Key>
       <Forenames>Capt R.</Forenames>
-      <Text>, D.S.O., D.S.C., D.F.C. (actg. Maj., A.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>D.S.C.</Honour>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>9587</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -301,7 +307,9 @@
     <MainItem>
       <Key>Colmore</Key>
       <Title>Maj. (S.O.)</Title>
-      <Text>. R. B. B., . O.B.E. (Maj., Admin.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>9593</PageNumber>
     </MainItem>
     <SubItem>
@@ -395,7 +403,10 @@
       <Key>Compston</Key>
       <Title>Gapt. (A.)</Title>
       <Forenames>R. J. O.</Forenames>
-      <Text>, D.S.C., D.F.C. (granted perm, commn.)</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>9866</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -583,7 +594,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Conoley</Key>
-      <Text>Lt. O. F. (trd. to unempld. list)</Text>
+      <Title>Lt.</Title>
+      <Forenames>O. F.</Forenames>
+      <Text>(trd. to unempld. list)</Text>
       <PageNumber>9010</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -591,7 +604,9 @@
     <MainItem>
       <Key>Conran</Key>
       <Title>Ma.</Title>
-      <Text>j. (A.) E. L., M.C. (granted perm, commn.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9865</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -634,7 +649,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Cook</Key>
-      <Text>Cadet A. E. (Hon. 2nd Lt.)</Text>
+      <Title>Cadet</Title>
+      <Forenames>A. E.</Forenames>
+      <Text>(Hon. 2nd Lt.)</Text>
       <PageNumber>9011</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -875,7 +892,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>D. G.</Forenames>
-      <Text>, M.C. (trd. to unempld. list)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>11590</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -922,7 +941,9 @@
       </Key>
       <Title>Fit. Lt.</Title>
       <Forenames>G. G. H.</Forenames>
-      <Text>, D.S.C., A.F.-C. (granted perm, commn.)</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>11919</PageNumber>
     </MainItem>
   </ItemGroup>

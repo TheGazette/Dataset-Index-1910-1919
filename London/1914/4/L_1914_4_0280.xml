@@ -110,8 +110,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Jennings</Key>
-      <Forenames>Archibald E.</Forenames>
-      <Text>de Burgh</Text>
+      <Forenames>Archibald E. de Burgh</Forenames>
       <PageNumber>10582</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -153,8 +152,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Law</Key>
-      <Forenames>Cecil R.</Forenames>
-      <Text>de Vaux</Text>
+      <Forenames>Cecil R. de Vaux</Forenames>
       <PageNumber>10816</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -333,7 +331,9 @@
       <Key>Twysden</Key>
       <Title>Sir</Title>
       <Forenames>Roger Thomas</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>10816</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -348,8 +348,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Woods</Key>
-      <Forenames>Charles H.</Forenames>
-      <Text>de Meuron</Text>
+      <Forenames>Charles H. de Meuron</Forenames>
       <PageNumber>10583</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -542,7 +541,9 @@
     <MainItem>
       <Key>Burns</Key>
       <Forenames>Frederick James</Forenames>
-      <Text>, M.D</Text>
+      <Text>
+        <Honour>M.D</Honour>
+      </Text>
       <PageNumber>10816</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -573,7 +574,9 @@
     <MainItem>
       <Key>Creaser</Key>
       <Forenames>Thomas</Forenames>
-      <Text>, M.D., B.A</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>9399</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -653,7 +656,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Aitken</Key>
-      <Text>. Mark James, M.B. (confirmed)</Text>
+      <Forenames>Mark James</Forenames>
+      <Text>, M.B. (confirmed)</Text>
       <PageNumber>8877</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -781,7 +785,9 @@
     <MainItem>
       <Key>Bastard</Key>
       <Forenames>Herbert Rowse</Forenames>
-      <Text>(temporary) ... Bayliss, Alfred D. E., M.D. (temporary)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>8632</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -805,7 +811,9 @@
     <MainItem>
       <Key>Beaton</Key>
       <Forenames>Thomas</Forenames>
-      <Text>, M.D. (temporary)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>8632</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -916,8 +924,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Brockman</Key>
-      <Forenames>R. St</Forenames>
-      <Text>. Leger (temporary) ...</Text>
+      <Forenames>R. St. Leger</Forenames>
+      <Text>(temporary) ...</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1173,7 +1181,9 @@
     <MainItem>
       <Key>Cripps</Key>
       <Forenames>W. Lawrence</Forenames>
-      <Text>, M.B., F.R.C.S. (Ed.) (temporary.) ...</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1334,7 +1344,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Edward Low</Forenames>
-      <Text>, F.R.C.S., M.B. (temporary)</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1382,7 +1394,9 @@
     <MainItem>
       <Key>Francis</Key>
       <Forenames>Thomas Evan</Forenames>
-      <Text>, M.D. (temporary)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>10918</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -323,8 +323,8 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Title>Capt.</Title>
-      <Forenames>J. M. St</Forenames>
-      <Text>. J. (trd. to unempld. list)</Text>
+      <Forenames>J. M. St. J</Forenames>
+      <Text>. (trd. to unempld. list)</Text>
       <PageNumber>4222</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -395,7 +395,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Yeo</Key>
-      <Text>. Lt. H. A. (trd. to unempld. list)</Text>
+      <Title>Lt.</Title>
+      <Forenames>H. A.</Forenames>
+      <Text>(trd. to unempld. list)</Text>
       <PageNumber>6658</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -847,7 +849,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Title>Chapln.</Title>
-      <Text>, 4th Oil. (Army), Rev. W, P., D.C.M. (temp. Chapln. and Capt. and relative rank of Maj. whilst Asst. Principal Chapln.)</Text>
+      <Text>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>5050</PageNumber>
     </MainItem>
     <SubItem>
@@ -910,7 +914,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Orkney</Key>
-      <Text>and Zetland : Cheyne, Sir William Watson, Bt., K.C.M.G</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>7553</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -936,7 +942,10 @@
       <PageNumber>7431</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>McCall, Brig.-Gen. J. B. Pollok, C.M.G.,D.S.O</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>7431</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -948,12 +957,16 @@
     </MainItem>
     <SubItem>
       <Text>
+        <Honour>G.C.B.</Honour>
+        <Honour>G.C.V.O.</Honour>
         <PageNumber>4887</PageNumber>
       </Text>
       <PageNumber>4887</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>Waring, Maj. Walter, M.P</Text>
+      <Text>
+        <Honour>M.P</Honour>
+      </Text>
       <PageNumber>4887</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -979,7 +992,7 @@
       <PageNumber>7300</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>MacKae, Maj. Colin W</Text>
+      <Text>MacKae, Maj. Colin W.</Text>
       <PageNumber>7300</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -993,12 +1006,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Denbigh</Key>
-      <Text>: Davios, Sir Alfred Thomas, K.B.E., C.B</Text>
+      <Text>
+        <Honour>K.B.E.</Honour>
+      </Text>
       <PageNumber>4573</PageNumber>
     </MainItem>
     <SubItem>
       <Text>
         <PageNumber>4573</PageNumber>
+        <Honour>D.S.O</Honour>
       </Text>
       <PageNumber>4573</PageNumber>
     </SubItem>

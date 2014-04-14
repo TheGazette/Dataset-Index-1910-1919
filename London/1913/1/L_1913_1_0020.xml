@@ -11,7 +11,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Thomson</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, j. B. (seconded)</Text>
       <PageNumber>668</PageNumber>
     </MainItem>
@@ -47,7 +47,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Evans</Key>
-      <Text>J. M. J. (2nd Lieut.) ... ibid. Fitz Roy, C. A. (Lieut.)</Text>
+      <Forenames>J. M. J.</Forenames>
+      <Text>(2nd Lieut.) ... ibid. Fitz Roy, C. A. (Lieut.)</Text>
       <PageNumber>1758</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -266,6 +267,13 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Blaqui</Key>
+      <Text>6re, Hon. J. (Lieut.)</Text>
+      <PageNumber>1961</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Dunn</Key>
       <Forenames>T. E. D.</Forenames>
       <Text>(Lieut.) ...</Text>
@@ -333,7 +341,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Loder-Symonds</Key>
-      <Text>T. L. (2nd Lieut.)</Text>
+      <Forenames>T. L.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>498</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -437,8 +446,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Dare, Qrmr. and Hon. Lieut. J. (retired)</Text>
+      <Key>O'Dare</Key>
+      <Title>Qrmr. and Hon. Lieut.</Title>
+      <Forenames>J.</Forenames>
+      <Text>(retired)</Text>
       <PageNumber>42</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -520,6 +531,14 @@
   <SectionTitle>The Worcestershire Regiment</SectionTitle>
   <ItemGroup>
     <MainItem>
+      <Key>de Satis</Key>
+      <Forenames>E. A. A.</Forenames>
+      <Text>(Capt.) '</Text>
+      <PageNumber>150</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Lea</Key>
       <Forenames>G. E.</Forenames>
       <Text>(Capt.)</Text>
@@ -571,7 +590,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Walsh</Key>
-      <Text>M. R. (Capt.)</Text>
+      <Forenames>M. R.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -817,14 +837,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Mander</Key>
-      <Text>Capt. R. (seconded)</Text>
+      <Title>Capt.</Title>
+      <Forenames>R.</Forenames>
+      <Text>(seconded)</Text>
       <PageNumber>496</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Passv</Key>
-      <Text>L. D. (Capt.) ... '...</Text>
+      <Forenames>L. D.</Forenames>
+      <Text>(Capt.) ... '...</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -873,7 +896,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Morris</Key>
-      <Text>F. G. G (Maj.)</Text>
+      <Forenames>F. G. G</Forenames>
+      <Text>(Maj.)</Text>
       <PageNumber>245</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -889,7 +913,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Loyd</Key>
-      <Text>Capt. A. .W. K. (seconded)</Text>
+      <Title>Capt.</Title>
+      <Forenames>A.</Forenames>
+      <Text>.W. K. (seconded)</Text>
       <PageNumber>2064</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -913,7 +939,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Addison</Key>
-      <Text>A. C. (Capt.)</Text>
+      <Forenames>A. C.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>42</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -921,8 +948,8 @@
     <MainItem>
       <Key>Barton</Key>
       <Title>Capt.</Title>
-      <Forenames>F. St</Forenames>
-      <Text>. J. (seconded)</Text>
+      <Forenames>F. St. J</Forenames>
+      <Text>. (seconded)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

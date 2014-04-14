@@ -3,7 +3,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Princess</Key>
-      <Text>. Louise's (Argyll and Sutherland Highlanders): Cuningham, Capt. F. G. G. (retired) .:</Text>
+      <Forenames>Louise</Forenames>
+      <Text>'s (Argyll and Sutherland Highlanders): Cuningham, Capt. F. G. G. (retired) .:</Text>
       <PageNumber>4308</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -105,8 +106,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Lanigan-O</Key>
-      <Text>'Keefe, F. S. (Lieut.)</Text>
+      <Key>Lanigan-O'Keefe</Key>
+      <Forenames>F. S.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>3915</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -141,6 +143,14 @@
       <Forenames>C. H.</Forenames>
       <Text>LE. (Lieut.)</Text>
       <PageNumber>3151</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Moleyns</Key>
+      <Forenames>R. P. A.</Forenames>
+      <Text>(Capt.)</Text>
+      <PageNumber>3439</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -208,6 +218,14 @@
       <Forenames>F. J. N.</Forenames>
       <Text>(2nd Lieut.)</Text>
       <PageNumber>2637</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Faye</Key>
+      <Forenames>T. L.</Forenames>
+      <Text>(Capt.)</Text>
+      <PageNumber>3916</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -468,8 +486,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Biard</Key>
-      <Forenames>H. C. A.</Forenames>
-      <Text>de La F. (2nd Lieut.) -</Text>
+      <Forenames>H. C. A. de La F.</Forenames>
+      <Text>(2nd Lieut.) -</Text>
       <PageNumber>2725</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -533,8 +551,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Warter</Key>
-      <Forenames>H.</Forenames>
-      <Text>de G. (&lt;2nd Lieut.)</Text>
+      <Forenames>H. de G</Forenames>
+      <Text>. (&lt;2nd Lieut.)</Text>
       <PageNumber>3254</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -639,7 +657,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Pearch</Key>
-      <Text>. W. B. (Maj.)</Text>
+      <Forenames>W. B.</Forenames>
+      <Text>(Maj.)</Text>
       <PageNumber>2979</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -662,7 +681,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Shaftesbury</Key>
-      <Text>. Earl of (Hon. Col.)</Text>
+      <Title>Earl</Title>
+      <Text>of (Hon. Col.)</Text>
       <PageNumber>3992</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1081,7 +1101,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Tomory</Key>
-      <Text>. K. A. M. (Lieut.)</Text>
+      <Forenames>K. A. M.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>4309</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1121,7 +1142,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cuninghame</Key>
-      <Text>. A. K. S. (2nd Lieut.)</Text>
+      <Forenames>A. K. S.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>3672</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1130,7 +1152,9 @@
       <Key>Duckworth-King</Key>
       <Title>Sir</Title>
       <Forenames>G. H. J.</Forenames>
-      <Text>, Bart. (2nd Lieut.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>2979</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1194,7 +1218,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Birbeck</Key>
-      <Text>. J. H. B. (2nd Lieut.)</Text>
+      <Forenames>J. H. B.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>2365</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1292,7 +1317,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Halsey</Key>
-      <Text>. 2nd Lieut. G. W. (resigned)</Text>
+      <Title>2nd Lieut.</Title>
+      <Forenames>G. W.</Forenames>
+      <Text>(resigned)</Text>
       <PageNumber>3915</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1332,7 +1359,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Masse</Key>
-      <Text>. C. H. (2nd Lieut.)</Text>
+      <Forenames>C. H.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>3515</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1355,7 +1383,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Montagu</Key>
-      <Text>. J. G. E. (2nd Lieut.)</Text>
+      <Forenames>J. G. E.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>2365</PageNumber>
     </MainItem>
   </ItemGroup>

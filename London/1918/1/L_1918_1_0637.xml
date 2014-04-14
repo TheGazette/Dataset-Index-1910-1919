@@ -56,7 +56,9 @@
       <Key>Ozanne</Key>
       <Title>Maj. (temp. Lt.-Col.)</Title>
       <Forenames>H.</Forenames>
-      <Text>, D.S.O. (rel. temp, rank)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>2071</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -65,11 +67,13 @@
       <Key>Palmer</Key>
       <Title>Capt.</Title>
       <Forenames>W. H.</Forenames>
-      <Text>(Bt. Maj.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>16</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Corr .:</Text>
+      <Text>Corr .:.</Text>
       <PageNumber>1802</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -576,7 +580,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Browne</Key>
-      <Text>. F. S. (temp. lit.)</Text>
+      <Forenames>F. S.</Forenames>
+      <Text>(temp. lit.)</Text>
       <PageNumber>864</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -586,7 +591,9 @@
         <KeyDitto>—</KeyDitto>
       </Key>
       <Forenames>W. M.</Forenames>
-      <Text>, R.D. (actg. Capt.)</Text>
+      <Text>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>90</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -701,18 +708,19 @@
   <ItemGroup>
     <MainItem>
       <Key>Cameron</Key>
-      <Text>., D. (temp. Lt.)</Text>
+      <Text>, D. (temp. Lt.)</Text>
       <PageNumber>3766</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>E. P. (actg. Lt.-Cdr.) ... .:</Text>
+      <Text>E. P. (actg. Lt.-Cdr.) ... .:.</Text>
       <PageNumber>91</PageNumber>
     </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Campbell</Key>
-      <Text>. A. A. .(temp. Lt.)</Text>
+      <Forenames>A. A.</Forenames>
+      <Text>.(temp. Lt.)</Text>
       <PageNumber>1651</PageNumber>
     </MainItem>
     <SubItem>
@@ -1047,7 +1055,10 @@
     <MainItem>
       <Key>Davis</Key>
       <Forenames>H. C</Forenames>
-      <Text>, D.S.C., R.D. (actg. Lt.-Cdr.)</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>91</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1073,6 +1084,14 @@
       <Forenames>A. M.</Forenames>
       <Text>(temp. Asst. Payr.)</Text>
       <PageNumber>1442</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Guerin</Key>
+      <Forenames>C. L. C.</Forenames>
+      <Text>(Lt.)</Text>
+      <PageNumber>3756</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1150,8 +1169,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Donne</Key>
-      <Title>Eng.</Title>
-      <Text>ISub-Lt. C. (corr. of name)</Text>
+      <Title>Eng. ISub-Lt.</Title>
+      <Forenames>C.</Forenames>
+      <Text>(corr. of name)</Text>
       <PageNumber>277</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1175,7 +1195,9 @@
     <MainItem>
       <Key>Dowell</Key>
       <Forenames>E. R.</Forenames>
-      <Text>. R.D. (Capt., retd.)</Text>
+      <Text>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>90</PageNumber>
     </MainItem>
   </ItemGroup>

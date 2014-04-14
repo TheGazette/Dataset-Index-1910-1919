@@ -117,7 +117,9 @@
       <Key>Croft</Key>
       <Title>Sir</Title>
       <Forenames>Herbert A.</Forenames>
-      <Text>, Bt. (Capt.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>8775</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -523,7 +525,9 @@
       <Key>Longmore</Key>
       <Title>Sir</Title>
       <Forenames>Charles Elton</Forenames>
-      <Text>, K.C.B. (Lieut.-Col. and Hon. Col.)</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+      </Text>
       <PageNumber>8651</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1314,8 +1318,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, Edward J. (Lieut.)</Text>
+      <Key>O'Connor</Key>
+      <Forenames>Edward J.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>11034</PageNumber>
     </MainItem>
   </ItemGroup>

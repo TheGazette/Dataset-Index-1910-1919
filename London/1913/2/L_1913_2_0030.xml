@@ -288,7 +288,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Phillips</Key>
-      <Text>. P. H. -(2nd Lieut.) Tasker, Maj. and Hon. Lieut.-Col. H. H. (resigned)</Text>
+      <Forenames>P. H.</Forenames>
+      <Text>-(2nd Lieut.) Tasker, Maj. and Hon. Lieut.-Col. H. H. (resigned)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -406,8 +407,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, K. R. (2nd Lieut.)</Text>
+      <Key>O'Brien</Key>
+      <Forenames>K. R.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>3518</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -446,6 +448,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Montmorency</Key>
+      <Forenames>J. H. B.</Forenames>
+      <Text>(Capt.)</Text>
+      <PageNumber>4481</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Ommanney</Key>
       <Forenames>C. C.</Forenames>
       <Text>(Capt.)</Text>
@@ -480,7 +490,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Pass</Key>
-      <Text>. J. A. (2nd Lieut.)</Text>
+      <Forenames>J. A.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>2727</PageNumber>
       <PageNumber>3996</PageNumber>
     </MainItem>
@@ -664,7 +675,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Johnson</Key>
-      <Text>. D. G. (2nd Lieut.)</Text>
+      <Forenames>D. G.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>4481</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -852,7 +864,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bence-Towers</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, R. A. (resigned) '</Text>
       <PageNumber>2725</PageNumber>
     </MainItem>
@@ -877,7 +889,9 @@
       <Key>Bromley-Wilson</Key>
       <Title>Major Sir</Title>
       <Forenames>M.</Forenames>
-      <Text>, Bart, (resigned)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>3916</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1087,7 +1101,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Egerton</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, L. E. W. (resigned)</Text>
       <PageNumber>3994</PageNumber>
     </MainItem>
@@ -1113,7 +1127,9 @@
       <Key>Every</Key>
       <Title>2nd Lieut. Sir</Title>
       <Forenames>E. O.</Forenames>
-      <Text>, Bart, (Lieut.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>4220</PageNumber>
     </MainItem>
   </ItemGroup>

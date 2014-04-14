@@ -124,7 +124,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Petre</Key>
-      <Text>.Capt. Henry (Flying Officer)</Text>
+      <Title>Capt.</Title>
+      <Forenames>Henry</Forenames>
+      <Text>(Flying Officer)</Text>
       <PageNumber>7724</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -451,9 +453,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Ryneveld</Forenames>
-      <Text>, (temporary) Lieut. H. A. (Flying Officer, and to be transferred to General List)</Text>
+      <Key>Van Ryneveld</Key>
+      <Title>(temporary) Lieut.</Title>
+      <Forenames>H. A.</Forenames>
+      <Text>(Flying Officer, and to be transferred to General List)</Text>
       <PageNumber>7652</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -620,8 +623,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Conran</Key>
-      <Forenames>Lieut</Forenames>
-      <Text>, (temporary Capt.) E. L. (Officer in charge of Experimental Flight)</Text>
+      <Title>Lieut, (temporary Capt.)</Title>
+      <Forenames>E. L.</Forenames>
+      <Text>(Officer in charge of Experimental Flight)</Text>
       <PageNumber>9552</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -637,16 +641,20 @@
   <ItemGroup>
     <MainItem>
       <Key>Pretyman</Key>
-      <Forenames>Lieut</Forenames>
-      <Text>, (temporary Capt.) George F., D.S.O. (Instructor and to retain temporary rank)</Text>
+      <Title>Lieut, (temporary Capt.)</Title>
+      <Forenames>George F.</Forenames>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7193</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Sempill</Key>
-      <Forenames>Lieut</Forenames>
-      <Text>, (temporary Capt.) The Hon. W. F. F. (Master of Sempill) (Instructor)</Text>
+      <Title>Lieut, (temporary Capt.) The Hon.</Title>
+      <Forenames>W. F. F.</Forenames>
+      <Text>(Master of Sempill) (Instructor)</Text>
       <PageNumber>8730</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -664,8 +672,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Tennant</Key>
-      <Forenames>Lieut</Forenames>
-      <Text>, (temporary Capt.) J. E. (Instructor)</Text>
+      <Title>Lieut, (temporary Capt.)</Title>
+      <Forenames>J. E.</Forenames>
+      <Text>(Instructor)</Text>
       <PageNumber>9552</PageNumber>
     </MainItem>
   </ItemGroup>

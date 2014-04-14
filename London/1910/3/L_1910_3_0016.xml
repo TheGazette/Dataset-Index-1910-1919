@@ -79,7 +79,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Molloy</Key>
-      <Text>.N</Text>
+      <Forenames>N</Forenames>
       <PageNumber>4654</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -112,7 +112,9 @@
       <Key>Dutton</Key>
       <Title>Sir</Title>
       <Forenames>R. V.</Forenames>
-      <Text>, Bart. (2nd Lieut.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>6183</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -274,7 +276,9 @@
       <Key>Hickman</Key>
       <Title>Sir</Title>
       <Forenames>A. E.</Forenames>
-      <Text>, Bart. (2nd Lieut.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>6107</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -343,8 +347,8 @@
     <MainItem>
       <Key>Atkinson</Key>
       <Title>Lieut.</Title>
-      <Forenames>W. H. J. St</Forenames>
-      <Text>. L. (seconded)</Text>
+      <Forenames>W. H. J. St. L</Forenames>
+      <Text>. (seconded)</Text>
       <PageNumber>6183</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -531,6 +535,14 @@
     </MainItem>
   </ItemGroup>
   <SubSectionTitle>10th Dragoons (Hussars)</SubSectionTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Tuvll</Key>
+      <Forenames>M. A.</Forenames>
+      <Text>(Lieut.)</Text>
+      <PageNumber>4357</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Gosling</Key>
@@ -1289,8 +1301,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hawkes</Key>
-      <Forenames>C. St</Forenames>
-      <Text>. L. G. (Maj.)</Text>
+      <Forenames>C. St. L</Forenames>
+      <Text>. G. (Maj.)</Text>
       <PageNumber>6468</PageNumber>
     </MainItem>
   </ItemGroup>

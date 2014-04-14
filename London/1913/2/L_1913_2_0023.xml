@@ -38,8 +38,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mayne</Key>
-      <Forenames>R. S. St</Forenames>
-      <Text>. G. (2nd Lieut.)</Text>
+      <Forenames>R. S. St. G</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>3255</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -345,8 +345,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>R. W. St</Forenames>
-      <Text>. J. W. (2nd Lieut.)</Text>
+      <Forenames>R. W. St. J</Forenames>
+      <Text>. W. (2nd Lieut.)</Text>
       <PageNumber>3152</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -505,7 +505,9 @@
       <Key>Stapleton</Key>
       <Title>2nd Lieut. Sir</Title>
       <Forenames>M. T.</Forenames>
-      <Text>, Bart, (resigned)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>3440</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1120,6 +1122,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Berry</Key>
+      <Title>Maj.</Title>
+      <Forenames>R. M.</Forenames>
+      <Text>(resigned)</Text>
+      <PageNumber>4105</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Dickson</Key>
       <Forenames>A. J.</Forenames>
       <Text>(2nd Lieut.)</Text>
@@ -1375,7 +1386,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Patton</Key>
-      <Text>. 2nd Lieut. C. R. (resigned)</Text>
+      <Title>2nd Lieut.</Title>
+      <Forenames>C. R.</Forenames>
+      <Text>(resigned)</Text>
       <PageNumber>3918</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1425,7 +1438,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Rae</Key>
-      <Text>. Lieut. W. N. (resigned)</Text>
+      <Title>Lieut.</Title>
+      <Forenames>W. N.</Forenames>
+      <Text>(resigned)</Text>
       <PageNumber>2535</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1483,7 +1498,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Talbot</Key>
-      <Text>. J. (Capt.)</Text>
+      <Forenames>J.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>3918</PageNumber>
     </MainItem>
   </ItemGroup>

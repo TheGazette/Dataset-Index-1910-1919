@@ -132,7 +132,9 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>F.R.C.S. (rel. commn.)</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>2209</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -642,7 +644,9 @@
       </Key>
       <Title>actg. Maj.</Title>
       <Forenames>W. H.</Forenames>
-      <Text>, D.S.O. M.C. (actg. Lt.-Col.)</Text>
+      <Text>
+        <Honour>D.S.O. M.C.</Honour>
+      </Text>
       <PageNumber>1385</PageNumber>
     </MainItem>
     <SubItem>
@@ -664,7 +668,9 @@
       <Key>Cartman</Key>
       <Title>temp. Lt.</Title>
       <Forenames>F. J.</Forenames>
-      <Text>M.C. (actg. Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>477</PageNumber>
     </MainItem>
     <SubItem>
@@ -718,7 +724,12 @@
   <ItemGroup>
     <MainItem>
       <Key>Carton</Key>
-      <Text>de Wiart, Capt. (temp. Lt.Col.) A., V.C., D.S.O. (Bt. Maj..for Dist. Serv.)</Text>
+      <Forenames>de Wiart</Forenames>
+      <Text>
+        <Honour>V.C.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>18</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -922,7 +933,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Case</Key>
-      <Text>. temp. 2nd Lt. G. (temp. Lt</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>G.</Forenames>
+      <Text>(temp. Lt</Text>
       <PageNumber>676</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -958,7 +971,9 @@
       </Key>
       <Title>temp. Capt.</Title>
       <Forenames>J. S.</Forenames>
-      <Text>, D.S.O. (date of promn. to temp. Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3087</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -982,7 +997,7 @@
       <PageNumber>935</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Sub. Not.</Text>
+      <Text>Sub. Not</Text>
       <PageNumber>1628</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1059,7 +1074,7 @@
       <PageNumber>1131</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Confd.</Text>
+      <Text>Confd</Text>
       <PageNumber>2520</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1118,7 +1133,9 @@
       </Key>
       <Title>temp. Capt.</Title>
       <Forenames>J. S.</Forenames>
-      <Text>, D.S.O. (actg. Lt.-Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>610</PageNumber>
     </MainItem>
     <SubItem>
@@ -1155,7 +1172,9 @@
       <Key>Castens</Key>
       <Title>Maj. (temp. Lt.^Col.)</Title>
       <Forenames>W. E.</Forenames>
-      <Text>(Bt. Lt.-Col. for Val. Servs.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>926</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1488,7 +1507,10 @@
       <Key>Cavan</Key>
       <Title>Maj.-Gen. (temp. Lt.Gen.)</Title>
       <Forenames>F. R.</Forenames>
-      <Text>, Earl of, C.B., M.V.O. (Lt.-Gen. for Dist. Serv.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>15</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1559,7 +1581,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>K</Forenames>
-      <Text>McC, M.C. (actg. Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2385</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1581,7 +1605,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Cave-Browne</Key>
-      <Text>. Capt. W. (Adjt.)</Text>
+      <Title>Capt.</Title>
+      <Forenames>W.</Forenames>
+      <Text>(Adjt.)</Text>
       <PageNumber>1363</PageNumber>
     </MainItem>
   </ItemGroup>

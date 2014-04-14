@@ -101,8 +101,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Nepean</Key>
-      <Forenames>L. P. St</Forenames>
-      <Text>. V. (temp. 2nd . ' Lt.)</Text>
+      <Forenames>L. P. St. V</Forenames>
+      <Text>. (temp. 2nd . ' Lt.)</Text>
       <PageNumber>5750</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -195,7 +195,9 @@
       <Key>Nicholay</Key>
       <Title>2nd Lt. (in Army)</Title>
       <Forenames>W. F.</Forenames>
-      <Text>, D.C.M. (temp. 2nd Lt., Obs. Offr.)</Text>
+      <Text>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>6803</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -502,8 +504,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, E. A. (temp. 2nd Lt., Admin.)</Text>
+      <Key>O'Brien</Key>
+      <Forenames>E. A.</Forenames>
+      <Text>(temp. 2nd Lt., Admin.)</Text>
       <PageNumber>6805</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -546,8 +549,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien-Saint, temp. 2nd Lt. on prob. J. T. (temp. 2nd Lt:, A. and S.)</Text>
+      <Key>O'Brien-Saint</Key>
+      <Title>temp. 2nd Lt. on prob.</Title>
+      <Forenames>J. T.</Forenames>
+      <Text>(temp. 2nd Lt:, A. and S.)</Text>
       <PageNumber>6936</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -561,15 +566,17 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, Lt. (T.F,) p. R. J. (temp. 2nd Lt., Tech., and Hon. Lt.)</Text>
+      <Key>O'Connor</Key>
+      <Title>Lt. (T.F,)</Title>
+      <Text>p. R. J. (temp. 2nd Lt., Tech., and Hon. Lt.)</Text>
       <PageNumber>6229</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor-Glyn, temp. 2nd .Lt. on prob. E. P. (temp. 2nd Lt., A. and S.)</Text>
+      <Key>O'Connor-Glyn</Key>
+      <Title>temp.</Title>
+      <Text>2nd .Lt. on prob. E. P. (temp. 2nd Lt., A. and S.)</Text>
       <PageNumber>6384</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -584,8 +591,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Dowd, Lt. F. B. (rel. commn. on acc. of ill-health contracted on active service)</Text>
+      <Key>O'Dowd</Key>
+      <Title>Lt.</Title>
+      <Forenames>F. B.</Forenames>
+      <Text>(rel. commn. on acc. of ill-health contracted on active service)</Text>
       <PageNumber>6938</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -600,8 +609,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Farrell. Maj. E. H. M. (temp. Lt.-Col.)</Text>
+      <Key>O'Farrell</Key>
+      <Title>Maj.</Title>
+      <Forenames>E. H. M.</Forenames>
+      <Text>(temp. Lt.-Col.)</Text>
       <PageNumber>5070</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -625,8 +636,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Keefe. 2nd Lt. on prob. G. M. P. (confd. as 2nd Lt., A. and S;)</Text>
+      <Key>O'Keefe</Key>
+      <Title>2nd Lt. on prob.</Title>
+      <Forenames>G. M. P.</Forenames>
+      <Text>(confd. as 2nd Lt., A. and S;)</Text>
       <PageNumber>7644</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -668,8 +681,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Leary, temp. 2nd Lt. on prob. A. St. C. (temp. 2nd Lt., A. and . S.)</Text>
+      <Key>O'Leary</Key>
+      <Title>temp. 2nd Lt. on prob.</Title>
+      <Forenames>A. St. C</Forenames>
+      <Text>. (temp. 2nd Lt., A. and . S.)</Text>
       <PageNumber>6936</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -740,15 +755,19 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Loughlin, 2nd Lt. J. J. (resigns commn.)</Text>
+      <Key>O'Loughlin</Key>
+      <Title>2nd Lt.</Title>
+      <Forenames>J. J.</Forenames>
+      <Text>(resigns commn.)</Text>
       <PageNumber>5875</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, Cadet J. A. (temp. Lt., A. and S.)</Text>
+      <Key>O'Neill</Key>
+      <Title>Cadet</Title>
+      <Forenames>J. A.</Forenames>
+      <Text>(temp. Lt., A. and S.)</Text>
       <PageNumber>7070</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -791,8 +810,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Reilly, Lt. (Hon. Capt,) A. J. (temp. Capt.)</Text>
+      <Key>O'Reilly</Key>
+      <Title>Lt. (Hon. Capt,)</Title>
+      <Forenames>A. J.</Forenames>
+      <Text>(temp. Capt.)</Text>
       <PageNumber>7210</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -808,8 +829,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Reilly-Patey, 2nd Lt. (T.F.) W. (temp. 2nd Lt., Obs. Offr.)</Text>
+      <Key>O'Reilly-Patey</Key>
+      <Title>2nd Lt. (T.F.)</Title>
+      <Forenames>W.</Forenames>
+      <Text>(temp. 2nd Lt., Obs. Offr.)</Text>
       <PageNumber>7211</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -824,8 +847,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Rorke, 2nd Lt. J. (re)., commn. on ace, of ill-health contracted on active service, and to' be Hon. 2nd JLt.)</Text>
+      <Key>O'Rorke</Key>
+      <Title>2nd Lt.</Title>
+      <Forenames>J.</Forenames>
+      <Text>(re)., commn. on ace, of ill-health contracted on active service, and to' be Hon. 2nd JLt.)</Text>
       <PageNumber>6385</PageNumber>
     </MainItem>
   </ItemGroup>

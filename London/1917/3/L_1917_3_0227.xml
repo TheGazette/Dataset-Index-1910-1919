@@ -63,7 +63,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>G. D.</Forenames>
-      <Text>, M.D. (temp. Lt.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>7193</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -73,8 +75,8 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Title>temp. Lt.</Title>
-      <Forenames>G.</Forenames>
-      <Text>de H. (temp. Capt.)</Text>
+      <Forenames>G. de H</Forenames>
+      <Text>. (temp. Capt.)</Text>
       <PageNumber>7296</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -235,7 +237,9 @@
       </Key>
       <Title>temp. 2nd Lt.</Title>
       <Forenames>J. L.</Forenames>
-      <Text>, V.C</Text>
+      <Text>
+        <Honour>V.C</Honour>
+      </Text>
       <PageNumber>7078</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -279,7 +283,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Title>temp.</Title>
-      <Text>2nd Lt N. C, M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>9832</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -316,7 +322,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Flying Offr</Forenames>
-      <Text>. and confd. Col. R., C.B. (placed on</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>10118</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -875,41 +883,45 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Bathe</Forenames>
-      <Text>, temp. 2nd Lt. H. M. (temp. Lt.) :</Text>
+      <Key>De Bathe</Key>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>H. M.</Forenames>
+      <Text>(temp. Lt.) :</Text>
       <PageNumber>9959</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Beer</Forenames>
-      <Text>, 2nd Lt. C. L. (Lt.)</Text>
+      <Key>De Beer</Key>
+      <Title>2nd Lt.</Title>
+      <Forenames>C. L.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>8778</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Boissiere</Forenames>
-      <Text>, temp. 2nd Lt. on ' prob. G. V. (Frying Offr. and confd.) '</Text>
+      <Key>De Boissiere</Key>
+      <Title>temp. 2nd Lt.</Title>
+      <Text>on ' prob. G. V. (Frying Offr. and confd.) '</Text>
       <PageNumber>9320</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Bruyn</Forenames>
-      <Text>, Cadet R. S. (temp. 2nd Lt. on prob.)</Text>
+      <Key>De Bruyn</Key>
+      <Title>Cadet</Title>
+      <Forenames>R. S.</Forenames>
+      <Text>(temp. 2nd Lt. on prob.)</Text>
       <PageNumber>7607</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Burgh</Forenames>
-      <Text>, 2nd Lt. D. H. (Lt. and rem. seed.)</Text>
+      <Key>De Burgh</Key>
+      <Title>2nd Lt.</Title>
+      <Forenames>D. H.</Forenames>
+      <Text>(Lt. and rem. seed.)</Text>
       <PageNumber>9619</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -933,25 +945,28 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Bussy</Forenames>
-      <Text>, Cadet W. (temp. 2nd Lt., attd.)</Text>
+      <Key>De Bussy</Key>
+      <Title>Cadet</Title>
+      <Forenames>W.</Forenames>
+      <Text>(temp. 2nd Lt., attd.)</Text>
       <PageNumber>9929</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Carterek</Forenames>
-      <Text>, Lt. H. St. G. S. JFlying Offr. Observer)</Text>
+      <Key>De Carterek</Key>
+      <Title>Lt.</Title>
+      <Forenames>H. St</Forenames>
+      <Text>. G. S. JFlying Offr. Observer)</Text>
       <PageNumber>8950</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Caux</Forenames>
-      <Text>, temp. Lt. H. L. (temp. Capt.)'</Text>
+      <Key>De Caux</Key>
+      <Title>temp. Lt.</Title>
+      <Forenames>H. L.</Forenames>
+      <Text>(temp. Capt.)'</Text>
       <PageNumber>9231</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -965,10 +980,21 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Cordova</Forenames>
-      <Text>, Capt. V. L. (actg.. Maj.) . ,</Text>
+      <Key>De Cordova</Key>
+      <Title>Capt.</Title>
+      <Forenames>V. L.</Forenames>
+      <Text>(actg.. Maj.) . ,</Text>
       <PageNumber>7076</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Courcy</Key>
+      <Title>Lt. (temp. Capt.)</Title>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
+      <PageNumber>6795</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -984,9 +1010,40 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Fleury</Forenames>
-      <Text>, Cadet A. C. McC. (temp. 2nd Lt. on prob.)</Text>
+      <Key>de Dombasle</Key>
+      <Title>Capt. (temp. Maj.)</Title>
+      <Forenames>G. C.</Forenames>
+      <Text>(actg. Lt.-Col., Gen. List)</Text>
+      <PageNumber>8214</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Falbe</Key>
+      <Title>Col.</Title>
+      <Forenames>V. W.</Forenames>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
+      <PageNumber>9543</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Figueiredo</Key>
+      <Title>Cadet</Title>
+      <Forenames>E.</Forenames>
+      <Text>(2nd Lt.)</Text>
+      <PageNumber>8319</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Fleury</Key>
+      <Title>Cadet</Title>
+      <Forenames>A. C.</Forenames>
+      <Text>McC. (temp. 2nd Lt. on prob.)</Text>
       <PageNumber>8097</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1000,6 +1057,15 @@
       <Text>(rel. actg. rank of Maj.)</Text>
       <PageNumber>6680</PageNumber>
     </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Fontenay</Key>
+      <Title>temp. 2nd Lt. on prob.</Title>
+      <Forenames>P. A.</Forenames>
+      <Text>(Flying Offr.)</Text>
+      <PageNumber>6779</PageNumber>
+    </MainItem>
     <SubItem>
       <Text>Confd</Text>
       <PageNumber>6956</PageNumber>
@@ -1007,9 +1073,21 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Gaury</Forenames>
-      <Text>, temp. Lt. G. S. H. R. V., M.C. (actg. Capt.)</Text>
+      <Key>de Freitas</Key>
+      <Title>temp. 2nd Lt. on prob.</Title>
+      <Forenames>S.</Forenames>
+      <Text>(Balloon Offr. and confd.)</Text>
+      <PageNumber>9246</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Gaury</Key>
+      <Title>temp. Lt.</Title>
+      <Forenames>G. S. H. R. V.</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9089</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1032,7 +1110,63 @@
       <PageNumber>7294</PageNumber>
     </MainItem>
   </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Grey</Key>
+      <Title>Capt. (actg. Maj.)</Title>
+      <Forenames>G.</Forenames>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
+      <PageNumber>8853</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Gruchy</Key>
+      <Title>Cadet</Title>
+      <Forenames>J.</Forenames>
+      <Text>, (temp. 2nd* Lt.)</Text>
+      <PageNumber>8952</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Guerin</Key>
+      <Title>2nd Lt.</Title>
+      <Forenames>T. S. V.</Forenames>
+      <Text>(Lt.)</Text>
+      <PageNumber>9133</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Hamel</Key>
+      <Title>Lt.</Title>
+      <Forenames>A.</Forenames>
+      <Text>, M:C. (Capt.)</Text>
+      <PageNumber>9012</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Havilland</Key>
+      <Title>Capt.</Title>
+      <Forenames>P.</Forenames>
+      <Text>(actg. Maj.)</Text>
+      <PageNumber>8219</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <KeyDitto>___</KeyDitto>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Key</Key>
+      <Title>Cadet</Title>
+      <Forenames>J. E. H.</Forenames>
+      <Text>(temp. 2nd Lt.)</Text>
+      <PageNumber>664</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>De</Key>
@@ -1074,10 +1208,28 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Lacy</Forenames>
-      <Text>, J. C. (temp. Qrair. and Hon. Lt.)</Text>
+      <Key>De Lacy</Key>
+      <Forenames>J. C.</Forenames>
+      <Text>(temp. Qrair. and Hon. Lt.)</Text>
       <PageNumber>8195</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Ledesma</Key>
+      <Title>2nd Lt.</Title>
+      <Forenames>A. F.</Forenames>
+      <Text>(Lt.)</Text>
+      <PageNumber>9519</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Lisle</Key>
+      <Title>temp. Lt.</Title>
+      <Forenames>A. C. N. M. P.</Forenames>
+      <Text>(Flying Offr., Gen. List)</Text>
+      <PageNumber>6970</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1097,18 +1249,53 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Title>Col.</Title>
-      <Forenames>G.</Forenames>
-      <Text>de S. (Hon. Brig.Gen.) .:</Text>
+      <Forenames>G. de S</Forenames>
+      <Text>. (Hon. Brig.Gen.) .:</Text>
       <PageNumber>8175</PageNumber>
     </MainItem>
     <SubItem>
       <Text>Not. cancelled</Text>
       <PageNumber>9855</PageNumber>
     </SubItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Looze</Key>
+      <Title>Cadet</Title>
+      <Forenames>H. P.</Forenames>
+      <Text>(2rid Lt.)</Text>
+      <PageNumber>10011</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Moleyns</Key>
+      <Title>Maj.</Title>
+      <Forenames>R. P. A.</Forenames>
+      <Text>(Dep. Asst. Adjt.-Gen., temp.)</Text>
+      <PageNumber>951</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Mornay</Key>
+      <Forenames>A. L.</Forenames>
+      <Text>(temp. 2nd Lt.)</Text>
+      <PageNumber>9958</PageNumber>
+    </MainItem>
     <SubItem>
       <Text>Temp. Capt</Text>
       <PageNumber>9626</PageNumber>
     </SubItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Nevers</Key>
+      <Title>Cadet</Title>
+      <Forenames>B. A.</Forenames>
+      <Text>(temp. 2nd Lt. on prob.)</Text>
+      <PageNumber>9710</PageNumber>
+    </MainItem>
     <SubItem>
       <Text>, Date of appt</Text>
       <PageNumber>10002</PageNumber>

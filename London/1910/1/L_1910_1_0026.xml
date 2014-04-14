@@ -273,7 +273,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Murray</Key>
-      <Text>Lyon, D. (2nd Lieut.)</Text>
+      <Forenames>Lyon</Forenames>
+      <Text>, D. (2nd Lieut.)</Text>
       <PageNumber>2033</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -428,9 +429,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Boulay</Forenames>
-      <Text>, A. H; (Adj.)</Text>
+      <Key>Du Boulay</Key>
+      <Forenames>A. H</Forenames>
+      <Text>; (Adj.)</Text>
       <PageNumber>1685</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -875,7 +876,9 @@
       <Key>Clark</Key>
       <Title>Lieut.-Col. and Hon. Col. Sir</Title>
       <Forenames>J. M.</Forenames>
-      <Text>, Bart, (retired)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>1422</PageNumber>
     </MainItem>
   </ItemGroup>

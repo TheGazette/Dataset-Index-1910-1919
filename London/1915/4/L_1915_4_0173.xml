@@ -101,7 +101,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Brantom</Key>
-      <Text>W. H. (2nd Lt.)</Text>
+      <Forenames>W. H.</Forenames>
+      <Text>(2nd Lt.)</Text>
       <PageNumber>10019</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -211,7 +212,7 @@
       <PageNumber>10660</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Temp. Lt</Text>
+      <Text>Temp. Lt.</Text>
       <PageNumber>12033</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -668,7 +669,9 @@
     <MainItem>
       <Key>Bristow</Key>
       <Forenames>W. R.</Forenames>
-      <Text>, M.B., F.R.C.S. (Capt.)</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>10107</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -843,8 +846,8 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Title>Capt.</Title>
-      <Forenames>L. St</Forenames>
-      <Text>. J. (temp. Capt.)</Text>
+      <Forenames>L. St. J</Forenames>
+      <Text>. (temp. Capt.)</Text>
       <PageNumber>10249</PageNumber>
     </MainItem>
     <SubItem>
@@ -1750,7 +1753,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>W.</Forenames>
-      <Text>, M.D. (Capt.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>11298</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1909,7 +1914,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Bruce</Key>
-      <Text>2nd Lt. C. (temp. Lt.) ;</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>C.</Forenames>
+      <Text>(temp. Lt.) ;</Text>
       <PageNumber>10250</PageNumber>
     </MainItem>
   </ItemGroup>

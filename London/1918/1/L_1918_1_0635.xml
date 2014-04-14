@@ -232,7 +232,7 @@
     </SubItem>
     <SubSectionTitle>Warrant Officers, Ist Class</SubSectionTitle>
     <SubItem>
-      <Text>Messervy, F. A</Text>
+      <Text>Messervy, F. A.</Text>
       <PageNumber>864</PageNumber>
     </SubItem>
     <SubItem>
@@ -616,7 +616,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brockman</Key>
-      <Text>. C. W</Text>
+      <Forenames>C. W</Forenames>
       <PageNumber>3139</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -980,7 +980,9 @@
     <MainItem>
       <Key>Meaden</Key>
       <Forenames>E. H.</Forenames>
-      <Text>, C.M.G</Text>
+      <Text>
+        <Honour>C.M.G</Honour>
+      </Text>
       <PageNumber>865</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1005,14 +1007,18 @@
     <MainItem>
       <Key>Myles</Key>
       <Forenames>T. W.</Forenames>
-      <Text>, M.D., F.R.C.S., B.A</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>1947</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Peebles</Key>
-      <Text>. J. G., M.B</Text>
+      <Forenames>J. G.</Forenames>
+      <Text>, M.B</Text>
       <PageNumber>1947</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1068,14 +1074,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Brennen</Key>
-      <Text>. J. J. (Itemp.)</Text>
+      <Forenames>J. J.</Forenames>
+      <Text>(Itemp.)</Text>
       <PageNumber>1441</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Brentnall</Key>
-      <Text>. T. C. (temp.)</Text>
+      <Forenames>T. C.</Forenames>
+      <Text>(temp.)</Text>
       <PageNumber>2339</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1114,8 +1122,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Donoghue</Key>
-      <Forenames>W. O</Forenames>
-      <Text>'G. (temp.)</Text>
+      <Forenames>W. O'G</Forenames>
+      <Text>. (temp.)</Text>
       <PageNumber>1837</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1170,8 +1178,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Griffiths</Key>
-      <Forenames>G. H. C. St</Forenames>
-      <Text>. G. (temp.)</Text>
+      <Forenames>G. H. C. St. G</Forenames>
+      <Text>. (temp.)</Text>
       <PageNumber>2070</PageNumber>
     </MainItem>
   </ItemGroup>

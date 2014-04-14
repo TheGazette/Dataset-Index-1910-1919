@@ -49,7 +49,9 @@
     <MainItem>
       <Key>Ogston</Key>
       <Forenames>C</Forenames>
-      <Text>, D.S.O. (Maj.) Riddell, John Gervase (temporary 2nd Lieut.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8243</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -73,7 +75,9 @@
     <MainItem>
       <Key>Stamsfield</Key>
       <Title>Capt.</Title>
-      <Text>andBrevet Maj. J. R. E., D.S.O. (temporary Lieut.-Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7653</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -83,7 +87,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>R. E.</Forenames>
-      <Text>, D.S.O. (Maj.) Steen, Horatio W. James (temporary 2nd Lieut.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8243</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -255,7 +261,9 @@
     <MainItem>
       <Key>Campbell</Key>
       <Forenames>C. H.</Forenames>
-      <Text>. D.S.O. (Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8810</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -266,7 +274,9 @@
       </Key>
       <Title>Maj. and Brevet Lieut.-Col.</Title>
       <Forenames>J.</Forenames>
-      <Text>, D.S.O. (temporary Lieut.Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7446</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -293,7 +303,9 @@
       <Key>Craig-Brown</Key>
       <Title>Maj.</Title>
       <Forenames>E.</Forenames>
-      <Text>, D.S.O. (temporary Lieut.-Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6812</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -349,7 +361,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Erskine</Key>
-      <Text>'Sir T. W. H. J., Bt. (Maj.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>8810</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -684,7 +698,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Murray</Key>
-      <Text>. John G. C. Hill (temporary 2nd Lieut.)</Text>
+      <Forenames>John G. C. Hill</Forenames>
+      <Text>(temporary 2nd Lieut.)</Text>
       <PageNumber>9056</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -698,7 +713,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Patchett</Key>
-      <Text>. 2nd Lieut. W. E. (temporarv Lieut., supernumerary to establishment)</Text>
+      <Title>2nd Lieut.</Title>
+      <Forenames>W. E.</Forenames>
+      <Text>(temporarv Lieut., supernumerary to establishment)</Text>
       <PageNumber>7575</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -713,7 +730,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Pratt</Key>
-      <Text>. Christopher (temporary 2nd Lieut.)</Text>
+      <Forenames>Christopher</Forenames>
+      <Text>(temporary 2nd Lieut.)</Text>
       <PageNumber>7441</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -737,7 +755,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Riach</Key>
-      <Text>. Walter Hamilton (2nd Lieut.)</Text>
+      <Forenames>Walter Hamilton</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>6842</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -768,7 +787,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Roup-head</Key>
-      <Text>. Francis A. (temporary Lieut.)</Text>
+      <Forenames>Francis A.</Forenames>
+      <Text>(temporary Lieut.)</Text>
       <PageNumber>7304</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -902,8 +922,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Clark</Key>
-      <Title>St.</Title>
-      <Forenames>George H. Lismore</Forenames>
+      <Forenames>St. George H. Lismore</Forenames>
       <Text>(temporary 2nd Lieut.)</Text>
       <PageNumber>8833</PageNumber>
     </MainItem>
@@ -1013,8 +1032,8 @@
   <ItemGroup>
     <MainItem>
       <Key>FitzGerald</Key>
-      <Forenames>L.</Forenames>
-      <Text>de V. (Maj.)</Text>
+      <Forenames>L. de V</Forenames>
+      <Text>. (Maj.)</Text>
       <PageNumber>8810</PageNumber>
     </MainItem>
   </ItemGroup>

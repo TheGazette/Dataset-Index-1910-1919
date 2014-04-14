@@ -3,7 +3,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Johnston</Key>
-      <Text>. Cyril F. Ratcliff (2nd Lieut.)</Text>
+      <Forenames>Cyril F. Ratcliff</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>7702</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -164,9 +165,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Gruisen</Forenames>
-      <Text>, Henry (Lieut.) ...</Text>
+      <Key>Van Gruisen</Key>
+      <Forenames>Henry</Forenames>
+      <Text>(Lieut.) ...</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -902,7 +903,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Harries</Key>
-      <Text>., Eric G. (Lieut.)</Text>
+      <Text>, Eric G. (Lieut.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1293,7 +1294,9 @@
       <Key>Waldie-Griffith</Key>
       <Title>Lieut.-Col. Sir</Title>
       <Forenames>Richard J.</Forenames>
-      <Text>, Bt. (temporary Lieut.-Col. and Hon. Col.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>7604</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -21,7 +21,9 @@
     <MainItem>
       <Key>Kyle</Key>
       <Forenames>T.</Forenames>
-      <Text>/Lt.-Col. Robert, D.S.O., Companion, St. Michael and ! St. George</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6791</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -71,7 +73,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Laing</Key>
-      <Text>.John George, Member, Order of the British Empire</Text>
+      <Forenames>John George</Forenames>
+      <Text>, Member, Order of the British Empire</Text>
       <PageNumber>8091</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -82,7 +85,9 @@
       </Key>
       <Title>Miss</Title>
       <Forenames>Mary Cruickshank</Forenames>
-      <Text>, R.R.C., Bar to Royal Red Cross</Text>
+      <Text>
+        <Honour>R.R.C.</Honour>
+      </Text>
       <PageNumber>6839</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -102,7 +107,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>John Knox</Forenames>
-      <Text>, Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>7046</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -136,7 +143,9 @@
       <Key>Lamb</Key>
       <Title>Maj.</Title>
       <Forenames>Malcolm Henry Mor-</Forenames>
-      <Text>timer, M.C., Officer, Order of the British Empire, transferred to Military Division</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4980</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -145,7 +154,10 @@
       <Key>Lambe</Key>
       <Title>Col. (A./Maj.-Gen.)</Title>
       <Forenames>Charles Laverock</Forenames>
-      <Text>,CM.G.,D.S.O..Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>7025</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -175,7 +187,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>George Herbert</Forenames>
-      <Text>, T.D., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>6989</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -224,7 +238,9 @@
     <MainItem>
       <Key>Lambton</Key>
       <Title>Maj. and Bt.</Title>
-      <Text>.Lt.-Col. George Charles, D.S.O., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6989</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -233,7 +249,9 @@
       <Key>Laming</Key>
       <Title>Maj.</Title>
       <Forenames>Henry Thornton</Forenames>
-      <Text>, D.S.O., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6989</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -268,7 +286,9 @@
       <Key>Landon</Key>
       <Title>Capt. (T./Maj.)</Title>
       <Forenames>Arthur Henry Whittington</Forenames>
-      <Text>, M.C., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6811</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -278,7 +298,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Title>Lt.-Col.</Title>
-      <Text>JosephHerbertArthur, D.S.O., Officer, Order of . the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7027</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -327,7 +349,11 @@
       <Key>Lang</Key>
       <Title>Maj. and Bt. Lt.-Col. (T./Lt.Col.)</Title>
       <Forenames>Bertram John</Forenames>
-      <Text>, C.M.G., D.S.O., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>6937</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -393,7 +419,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Title>Lt.</Title>
-      <Text>-Comdr. (A./Comdr.)Arthur Sydney, Companion, St. Michael and St. George</Text>
+      <Text>
+        <Honour>Companion, St. Michael and St. George</Honour>
+      </Text>
       <PageNumber>4196</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -421,14 +449,18 @@
       <Key>Langworthy-Parry</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Percy Edward</Forenames>
-      <Text>, D.S.O., T.D., Officer, . Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>6989</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Lanigan-O</Key>
-      <Text>'Keefe, Capt. . Francis Stephen, Member, Order of the British Empire</Text>
+      <Key>Lanigan-O'Keefe</Key>
+      <Title>Capt.</Title>
+      <Text>. Francis Stephen, Member, Order of the British Empire</Text>
       <PageNumber>6999</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -445,8 +477,8 @@
     <MainItem>
       <Key>Lardner-Clarke</Key>
       <Title>Col.</Title>
-      <Forenames>John</Forenames>
-      <Text>de Winton, Officer, Order ofthe British Empire, transferred to Military Division</Text>
+      <Forenames>John de Win-</Forenames>
+      <Text>ton, Officer, Order ofthe British Empire, transferred to Military Division</Text>
       <PageNumber>4980</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -454,7 +486,9 @@
     <MainItem>
       <Key>Large</Key>
       <Title>Lt.</Title>
-      <Text>-Comdr. Edwin Ryder, D.S.O., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7906</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -482,7 +516,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Larking</Key>
-      <Text>. Maj. (T. /Lt.-Col.) Reginald Nesbitt Wingfield, Commander, Order of the British Empire</Text>
+      <Title>Maj. (T. /Lt.-Col.)</Title>
+      <Forenames>Reginald Nesbitt Wingfield</Forenames>
+      <Text>, Commander, Order of the British Empire</Text>
       <PageNumber>6981</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -501,7 +537,10 @@
       </Key>
       <Title>Capt. (A./Lt.-Col.)</Title>
       <Forenames>Henry George Charles</Forenames>
-      <Text>Viscount, D.S.O., Bar to D.S.O</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>4310</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -537,7 +576,9 @@
       <Key>Latham</Key>
       <Title>Maj.</Title>
       <Forenames>Alan</Forenames>
-      <Text>, Companion, D.S.O. . ,</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6927</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -558,7 +599,9 @@
       </Key>
       <Title>Miss</Title>
       <Forenames>Kathleen Mary</Forenames>
-      <Text>, A.R.R.C., Royal Red Cross, 1st CI</Text>
+      <Text>
+        <Honour>A.R.R.C.</Honour>
+      </Text>
       <PageNumber>6942</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -568,7 +611,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Thomas Paul</Forenames>
-      <Text>, created Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>5420</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -596,7 +641,9 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Harry</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>5422</PageNumber>
       <PageNumber>6509</PageNumber>
     </MainItem>
@@ -720,7 +767,9 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>T.</Forenames>
-      <Text>/Capt. Robert William Rowland, M.C., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6989</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -798,7 +847,9 @@
       </Key>
       <Title>Capt. and Bt. Maj. (T./Maj.)</Title>
       <Forenames>Edward Lafone Graham</Forenames>
-      <Text>, M C, Companion, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>6940</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -821,7 +872,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>Hervey</Forenames>
-      <Text>Major, D.S.O., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6989</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -851,7 +904,10 @@
     <MainItem>
       <Key>Laws</Key>
       <Forenames>T.</Forenames>
-      <Text>/Maj. Henry William, D.S.O., Companion, St. Michael and St. George</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, St. Michael and St. George</Honour>
+      </Text>
       <PageNumber>6792</PageNumber>
     </MainItem>
   </ItemGroup>

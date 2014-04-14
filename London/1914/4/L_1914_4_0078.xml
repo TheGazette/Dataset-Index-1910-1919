@@ -698,8 +698,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bland</Key>
-      <Forenames>W. St</Forenames>
-      <Text>. C. (Lieut.-Col.)</Text>
+      <Forenames>W. St. C</Forenames>
+      <Text>. (Lieut.-Col.)</Text>
       <PageNumber>9992</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -740,7 +740,9 @@
       <Key>Boehm</Key>
       <Title>Sir</Title>
       <Forenames>Edgar C</Forenames>
-      <Text>, Bart, (temporary Capt.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>9133</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -835,7 +837,10 @@
     <MainItem>
       <Key>Brake</Key>
       <Forenames>H. E. J.</Forenames>
-      <Text>, C.B., D.S.O. (Lieut.-Col.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>9992</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -117,8 +117,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gebbie</Key>
-      <Forenames>F. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>F. St. J</Forenames>
       <PageNumber>4048</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -327,7 +326,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Leonard</Key>
-      <Text>. G. R</Text>
+      <Forenames>G. R</Forenames>
       <PageNumber>919</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -539,7 +538,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Pelly</Key>
-      <Text>. C. B. N. (corr. of date)</Text>
+      <Forenames>C. B. N.</Forenames>
+      <Text>(corr. of date)</Text>
       <PageNumber>1544</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -562,7 +562,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Perkins</Key>
-      <Text>. B. W</Text>
+      <Forenames>B. W</Forenames>
       <PageNumber>4048</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -843,8 +843,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Der Beek</Forenames>
+      <Key>Van Der</Key>
+      <Forenames>Beek</Forenames>
       <Text>, A. G</Text>
       <PageNumber>920</PageNumber>
     </MainItem>
@@ -909,8 +909,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Webb</Key>
-      <Forenames>A. O</Forenames>
-      <Text>'B</Text>
+      <Forenames>A. O'B</Forenames>
       <PageNumber>919</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1192,7 +1191,9 @@
     <MainItem>
       <Key>Murray</Key>
       <Forenames>W. P.</Forenames>
-      <Text>, M.D. (temp. Lt.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>3160</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1324,8 +1325,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Phelan</Key>
-      <Forenames>J. O</Forenames>
-      <Text>'C</Text>
+      <Forenames>J. O'C</Forenames>
       <PageNumber>2624</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1496,7 +1496,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Manda</Key>
-      <Text>. Raja Ram Gopal Singh, Bahadur of</Text>
+      <Forenames>Raja Ram Gopal Singh</Forenames>
+      <Text>, Bahadur of</Text>
       <PageNumber>3896</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1511,7 +1512,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Tiloi</Key>
-      <Text>. Raia Bishmath Saran Singh, Bahadur of</Text>
+      <Forenames>Raia Bishmath Saran Singh</Forenames>
+      <Text>, Bahadur of</Text>
       <PageNumber>3896</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1571,7 +1573,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Irani</Key>
-      <Text>. Asonndnr 'Rrstomji</Text>
+      <Forenames>Asonndnr</Forenames>
+      <Text>'Rrstomji</Text>
       <PageNumber>729</PageNumber>
     </MainItem>
     <SubItem>
@@ -1582,7 +1585,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Khan</Key>
-      <Text>. R. .AWd</Text>
+      <Forenames>R.</Forenames>
+      <Text>.AWd</Text>
       <PageNumber>3642</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1596,7 +1600,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Nasr</Key>
-      <Text>. K. C ... »</Text>
+      <Forenames>K. C .</Forenames>
+      <Text>.. »</Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1611,7 +1616,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Patankar</Key>
-      <Text>. AroVvban . Bhmirao Nagojirao</Text>
+      <Text>AroVvban . Bhmirao Nagojirao</Text>
       <PageNumber>729</PageNumber>
     </MainItem>
   </ItemGroup>

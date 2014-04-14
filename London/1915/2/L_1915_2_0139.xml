@@ -168,7 +168,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Haskard</Key>
-      <Text>. John McD. (Maj.)</Text>
+      <Forenames>John</Forenames>
+      <Text>McD. (Maj.)</Text>
       <PageNumber>4998</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -255,8 +256,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Massy-Westropp</Key>
-      <Forenames>Lieut</Forenames>
-      <Text>, (temporary Capt.) R. F. H. (seconded with the Army Cyclist Corps)</Text>
+      <Title>Lieut, (temporary Capt.)</Title>
+      <Forenames>R. F. H.</Forenames>
+      <Text>(seconded with the Army Cyclist Corps)</Text>
       <PageNumber>3556</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -295,8 +297,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Keeffe, Francis S. Lanigan (Capt.)</Text>
+      <Key>O'Keeffe</Key>
+      <Forenames>Francis S. Lanigan</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>4998</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -335,7 +338,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Romer</Key>
-      <Text>. (temporary) Col. Cecil F., C.B. (Lieut.-Col.)</Text>
+      <Title>(temporary) Col.</Title>
+      <Forenames>Cecil F.</Forenames>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>5637</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -382,7 +389,10 @@
   <ItemGroup>
     <MainItem>
       <Key>West</Key>
-      <Text>. Cecil H. LT5. (Capt.)</Text>
+      <Forenames>Cecil H.</Forenames>
+      <Text>
+        <Honour>LT</Honour>
+      </Text>
       <PageNumber>4998</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -448,7 +458,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Beesley</Key>
-      <Text>., Lewis Henry (temporary</Text>
+      <Text>, Lewis Henry (temporary</Text>
       <PageNumber>5757</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -472,7 +482,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Bevan</Key>
-      <Text>. (temporary) 2nd Lieut. Stanley E. H. (removed from the Service for absence without leave)</Text>
+      <Title>(temporary) 2nd Lieut.</Title>
+      <Forenames>Stanley E. H.</Forenames>
+      <Text>(removed from the Service for absence without leave)</Text>
       <PageNumber>4767</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -611,14 +623,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Buxton</Key>
-      <Text>. John L. (Maj.)</Text>
+      <Forenames>John L.</Forenames>
+      <Text>(Maj.)</Text>
       <PageNumber>4160</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Byrne-Johnson</Key>
-      <Text>. J. N. (Lieut.)</Text>
+      <Forenames>J. N.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>4631</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -652,8 +666,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Charles</Key>
-      <Forenames>Ulick</Forenames>
-      <Text>de Burgh (temporary Lieut.)</Text>
+      <Forenames>Ulick de Burgh</Forenames>
+      <Text>(temporary Lieut.)</Text>
       <PageNumber>3936</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -697,7 +711,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Colma-i</Key>
-      <Text>. Archibald S. (temporary Lieut.)</Text>
+      <Forenames>Archibald S.</Forenames>
+      <Text>(temporary Lieut.)</Text>
       <PageNumber>5011</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -706,7 +721,9 @@
       <Key>Cunliffe</Key>
       <Title>Sir</Title>
       <Forenames>Foster H. E.</Forenames>
-      <Text>, Bt. (tem porarv Maj.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>3344</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -729,9 +746,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Laessoe</Forenames>
-      <Text>, Harold H. (temporary Capt.)</Text>
+      <Key>De Laessoe</Key>
+      <Forenames>Harold H.</Forenames>
+      <Text>(temporary Capt.)</Text>
       <PageNumber>5641</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1043,8 +1060,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Kellie, (temporary) 2nd Lieut. Eric P. C. G. (is removed from the Army, the King having no further occasion for his services)</Text>
+      <Key>O'Kellie</Key>
+      <Title>(temporary) 2nd Lieut.</Title>
+      <Forenames>Eric P. C. G.</Forenames>
+      <Text>(is removed from the Army, the King having no further occasion for his services)</Text>
       <PageNumber>5641</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1195,7 +1214,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Russell</Key>
-      <Text>. L. C. B. (Lieut.)</Text>
+      <Forenames>L. C. B.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>4631</PageNumber>
     </MainItem>
   </ItemGroup>

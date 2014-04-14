@@ -10,19 +10,20 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neil-Shaw, .J. C. L. (2nd Lt.)</Text>
+      <Key>O'Neil-Shaw</Key>
+      <Text>.J. C. L. (2nd Lt.)</Text>
       <PageNumber>2078</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, F. O. (temp. Capt.)</Text>
+      <Key>O'Neill</Key>
+      <Forenames>F. O.</Forenames>
+      <Text>(temp. Capt.)</Text>
       <PageNumber>3762</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>aid Lt</Text>
+      <Text>aid Lt.</Text>
       <PageNumber>3771</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -426,14 +427,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Pool</Key>
-      <Text>. Lt. W. A. (trd. to Vet. Branch)</Text>
+      <Title>Lt.</Title>
+      <Forenames>W. A.</Forenames>
+      <Text>(trd. to Vet. Branch)</Text>
       <PageNumber>1237</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Pope</Key>
-      <Text>. J. A. (Lt.)</Text>
+      <Forenames>J. A.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>151</PageNumber>
     </MainItem>
     <SubItem>
@@ -510,7 +514,7 @@
       <PageNumber>3762</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Capt</Text>
+      <Text>Capt.</Text>
       <PageNumber>3762</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -801,8 +805,8 @@
     <MainItem>
       <Key>Robertson</Key>
       <Title>Lt.</Title>
-      <Forenames>F. A.</Forenames>
-      <Text>de V. (retires in consequence of ill-health, and to be Hon. Lt.)</Text>
+      <Forenames>F. A. de V</Forenames>
+      <Text>. (retires in consequence of ill-health, and to be Hon. Lt.)</Text>
       <PageNumber>2079</PageNumber>
     </MainItem>
     <SubItem>
@@ -832,6 +836,7 @@
     </SubItem>
     <SubItem>
       <Text>
+        <Honour>M.C.</Honour>
         <PageNumber>159</PageNumber>
       </Text>
       <PageNumber>1234</PageNumber>
@@ -1300,8 +1305,8 @@
     <MainItem>
       <Key>Smith</Key>
       <Title>Lt.</Title>
-      <Forenames>B. St</Forenames>
-      <Text>. J. (actg. Capt.),</Text>
+      <Forenames>B. St. J</Forenames>
+      <Text>. (actg. Capt.),</Text>
       <PageNumber>1235</PageNumber>
     </MainItem>
     <SubItem>

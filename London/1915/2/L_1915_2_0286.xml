@@ -345,7 +345,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Morsley</Key>
-      <Text>. J. W. (temporary Capt.)</Text>
+      <Forenames>J. W.</Forenames>
+      <Text>(temporary Capt.)</Text>
       <PageNumber>3580</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -556,7 +557,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Watson</Key>
-      <Text>. Alfred George (temporary Lieut.)</Text>
+      <Forenames>Alfred George</Forenames>
+      <Text>(temporary Lieut.)</Text>
       <PageNumber>6267</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -608,7 +610,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Wilding</Key>
-      <Text>. Hon. 2nd Lieut. Anthony Frederick (temporary Capt.)</Text>
+      <Title>Hon. 2nd Lieut.</Title>
+      <Forenames>Anthony Frederick</Forenames>
+      <Text>(temporary Capt.)</Text>
       <PageNumber>4409</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -667,15 +671,17 @@
       <Key>Adair</Key>
       <Title>Gen. Sir</Title>
       <Forenames>William Thompson</Forenames>
-      <Text>, K.C.B. (Retired List)</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+      </Text>
       <PageNumber>6167</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Armstrong</Key>
-      <Title>Maj. and Brevet Lieut.Col. St.</Title>
-      <Forenames>George Bewes</Forenames>
+      <Title>Maj. and Brevet Lieut.Col.</Title>
+      <Forenames>St. George Bewes</Forenames>
       <Text>(Lieut.Col. on the Seconded List)</Text>
       <PageNumber>4174</PageNumber>
     </MainItem>
@@ -797,7 +803,10 @@
     <MainItem>
       <Key>Halliday</Key>
       <Forenames>Lewis S. Tollemaehe</Forenames>
-      <Text>, V.C., C.B. (Lieut.-Col. by Brevet)</Text>
+      <Text>
+        <Honour>V.C.</Honour>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>3720</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -806,7 +815,9 @@
       <Key>Heriot</Key>
       <Title>Maj.</Title>
       <Forenames>Granville Mackay</Forenames>
-      <Text>, D.S.O. (Lieut.-Col. by Brevet)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3946</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -849,7 +860,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>Walter T. Cresswell</Forenames>
-      <Text>, D.S.O. (special appointment)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3946</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -858,7 +871,9 @@
       <Key>Kennedy</Key>
       <Title>Col.</Title>
       <Forenames>Commandant</Forenames>
-      <Text>(temporary Brigadier-Gen.) Charles Henry, C.B. (placed.on Reserve List of Colonels)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>3582</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -898,7 +913,9 @@
     <MainItem>
       <Key>Marchant</Key>
       <Forenames>Alfred Edmund</Forenames>
-      <Text>, C B., A.D.C. (Col. Commandant and temporary Brigadier-Gem)</Text>
+      <Text>
+        <Honour>A.D.C.</Honour>
+      </Text>
       <PageNumber>3582</PageNumber>
     </MainItem>
   </ItemGroup>

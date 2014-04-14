@@ -180,7 +180,11 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>B. E.</Forenames>
-      <Text>, K.C.V.O., C.B., M.D. (temp. Surgn.-Gen.)</Text>
+      <Text>
+        <Honour>K.C.V.O.</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>13210</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -635,7 +639,9 @@
       </Key>
       <Title>2nd Lt.</Title>
       <Forenames>W. B.</Forenames>
-      <Text>, M.C. (R. Sc. Fus.) (rem. seed.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>13434</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -679,7 +685,9 @@
       </Key>
       <Title>temp. Lt.</Title>
       <Forenames>W. H. H.</Forenames>
-      <Text>, M.C. (attd.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>13168</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -727,8 +735,8 @@
     <MainItem>
       <Key>Dawtrey</Key>
       <Title>Cadet</Title>
-      <Forenames>C. St</Forenames>
-      <Text>. C. (temp. 2nd Lt., attd.)</Text>
+      <Forenames>C. St. C</Forenames>
+      <Text>. (temp. 2nd Lt., attd.)</Text>
       <PageNumber>13334</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -945,7 +953,9 @@
       </Key>
       <Title>temp. Lt.</Title>
       <Forenames>S. C</Forenames>
-      <Text>, M.C. (actg. Capt, addtl.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>11665</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1040,10 +1050,22 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Basagoiti</Forenames>
-      <Text>, temp. 2nd Lt. J. A. S. (rel. commn. on acc. of illhealth)</Text>
+      <Key>De Basagoiti</Key>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>J. A. S.</Forenames>
+      <Text>(rel. commn. on acc. of illhealth)</Text>
       <PageNumber>11442</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Bathe</Key>
+      <Title>Sir</Title>
+      <Forenames>H. G.</Forenames>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
+      <PageNumber>10270</PageNumber>
     </MainItem>
     <SubItem>
       <Text>Equipmt, Offr., 3rd CI., and confd:</Text>
@@ -1060,10 +1082,72 @@
       <Text>(attd.)</Text>
       <PageNumber>10877</PageNumber>
     </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Beaurepaire</Key>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>C. J.</Forenames>
+      <Text>(temp. Lt.)</Text>
+      <PageNumber>10664</PageNumber>
+    </MainItem>
     <SubItem>
       <Text>Attd</Text>
       <PageNumber>13038</PageNumber>
     </SubItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Beja</Key>
+      <Title>Cadet</Title>
+      <Forenames>F. L. R.</Forenames>
+      <Text>(temp. 2nd Lt., attd.)</Text>
+      <PageNumber>10884</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Blaquire</Key>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>T. B</Forenames>
+      <Text>P. (temp. Lt.)</Text>
+      <PageNumber>12664</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Boinville</Key>
+      <Title>2nd Lt.</Title>
+      <Forenames>G. A. C.</Forenames>
+      <Text>(Lt.)</Text>
+      <PageNumber>11663</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Brath</Key>
+      <Title>temp. Inspr.</Title>
+      <Text>of Works and Hon, Capt. S. (resigns commn.)</Text>
+      <PageNumber>12117</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Brie</Key>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>F. G.</Forenames>
+      <Text>(rel. commn. on acc. of ill-health and to be Hon. 2nd Lt.)</Text>
+      <PageNumber>11907</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Bruyn</Key>
+      <Title>Cadet</Title>
+      <Forenames>J.</Forenames>
+      <Text>(2nd Lt.)</Text>
+      <PageNumber>12760</PageNumber>
+    </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
@@ -1076,28 +1160,96 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Burgh</Key>
+      <Title>Lt.</Title>
+      <Forenames>H. G.</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
+      <PageNumber>11300</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
       <Title>temp. Capt.</Title>
       <Forenames>J. W.</Forenames>
-      <Text>, M.C. (attd.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>12792</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Bussy</Forenames>
-      <Text>, temp. 2nd Lt., attd., W. (trd. to Ser. Bn.)</Text>
+      <Key>de Buriatt</Key>
+      <Title>2nd Lt.</Title>
+      <Forenames>W. H.</Forenames>
+      <Text>(Lt.)</Text>
+      <PageNumber>10140</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Bussy</Key>
+      <Title>temp. 2nd Lt.</Title>
+      <Text>, attd., W. (trd. to Ser. Bn.)</Text>
       <PageNumber>12469</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Courcy</Forenames>
-      <Text>, Lt. J. A. G., M.C. (Capt. and rem. seed.)</Text>
+      <Key>de Cetto</Key>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>H. A.</Forenames>
+      <Text>(temp. Lt.)</Text>
+      <PageNumber>12878</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Chassiron</Key>
+      <Title>temp.</Title>
+      <Text>2nd Li. (actg. Lt.)C. J. L.(temp. Lt.)</Text>
+      <PageNumber>10137</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Chazal</Key>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>P. E.</Forenames>
+      <Text>. (temp. Lt.)</Text>
+      <PageNumber>11765</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Clermont</Key>
+      <Title>temp. Lt.</Title>
+      <Forenames>P. E.</Forenames>
+      <Text>(temp. Capt.)</Text>
+      <PageNumber>12532</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Costobadie</Key>
+      <Forenames>F. P.</Forenames>
+      <Text>(temp. Capt., corr. of date) Sub. Not</Text>
+      <PageNumber>10688</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Courcy</Key>
+      <Title>Lt.</Title>
+      <Forenames>J. A. G.</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>11301</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1114,9 +1266,37 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Fonblanque</Forenames>
-      <Text>, Lt. E. B. (Capt.)</Text>
+      <Key>de Courcy-Ireland</Key>
+      <Title>temp. Lt.</Title>
+      <Forenames>L. K.</Forenames>
+      <Text>(rel. commn. on acc. of ill-health contracted on active service and Hon. Lt.)</Text>
+      <PageNumber>13452</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Ferranti</Key>
+      <Title>temp. Lt.</Title>
+      <Forenames>V. Ziani</Forenames>
+      <Text>(actg. Capt.)</Text>
+      <PageNumber>12336</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Fleury</Key>
+      <Title>temp. 2nd Lt. on prob.</Title>
+      <Forenames>A. C.</Forenames>
+      <Text>McC. (Flying Offr. and confd.)</Text>
+      <PageNumber>12662</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Fonblanque</Key>
+      <Title>Lt.</Title>
+      <Forenames>E. B.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>11301</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1133,9 +1313,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Gaye</Forenames>
-      <Text>, Cadet G. (temp. 2nd Lt. on prob.) :</Text>
+      <Key>De Gaye</Key>
+      <Title>Cadet</Title>
+      <Forenames>G.</Forenames>
+      <Text>(temp. 2nd Lt. on prob.) :</Text>
       <PageNumber>10830</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1151,6 +1332,32 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Glanville</Key>
+      <Forenames>L. R. G.</Forenames>
+      <Text>(temp. Lt.)</Text>
+      <PageNumber>11094</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Grineau</Key>
+      <Title>2nd Lt.</Title>
+      <Forenames>C. W.</Forenames>
+      <Text>(Lt.)</Text>
+      <PageNumber>13434</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Gruchy</Key>
+      <Title>2nd Lt.</Title>
+      <Forenames>H. E. B.</Forenames>
+      <Text>(Lt.)</Text>
+      <PageNumber>12281</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
@@ -1158,6 +1365,78 @@
       <Forenames>H. W.</Forenames>
       <Text>(temp. Capt.) i</Text>
       <PageNumber>13433</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Haviland</Key>
+      <Title>Maj.</Title>
+      <Forenames>T. L.</Forenames>
+      <Text>(date of appt. as temp. Maj.) Sub. Not</Text>
+      <PageNumber>10491</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Havilland</Key>
+      <Forenames>G. de Vic</Forenames>
+      <Text>(temp. 2nd Lt.)</Text>
+      <PageNumber>11683</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Hoghton</Key>
+      <Title>temp. Maj.</Title>
+      <Forenames>G.</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
+      <PageNumber>12866</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Jager</Key>
+      <Title>Lt. (temp. Capt.)</Title>
+      <Forenames>G. J. W.</Forenames>
+      <Text>, M:C. (temp. Capt.)</Text>
+      <PageNumber>13433</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Jersey</Key>
+      <Title>temp. Capt.</Title>
+      <Forenames>F. H.</Forenames>
+      <Text>(corr. of name and rank)</Text>
+      <PageNumber>13432</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Jong</Key>
+      <Title>temp. Capt.</Title>
+      <Forenames>O. M.</Forenames>
+      <Text>, M.B. (rel. commn.)</Text>
+      <PageNumber>10370</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Jongh</Key>
+      <Title>2nd Lt.</Title>
+      <Forenames>V. H</Forenames>
+      <Text>P. (Lt.)</Text>
+      <PageNumber>11937</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Kavanagh</Key>
+      <Forenames>W. A. D.</Forenames>
+      <Text>(temp. 2nd Lt.)</Text>
+      <PageNumber>10375</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1184,10 +1463,28 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Laoey</Forenames>
-      <Text>, temp. 2nd Lt. J. M. (temp. Lt.)</Text>
+      <Key>de Labalmondiere</Key>
+      <Title>2nd Lt.</Title>
+      <Forenames>R. J.</Forenames>
+      <Text>(Lt.)</Text>
+      <PageNumber>10140</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Laoey</Key>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>J. M.</Forenames>
+      <Text>(temp. Lt.)</Text>
       <PageNumber>12132</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Lacey</Key>
+      <Title>temp.</Title>
+      <Text>2nd ,Lt., attd., S. A. (trd. to Ser: Bn.)</Text>
+      <PageNumber>10577</PageNumber>
     </MainItem>
   </ItemGroup>
   <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>

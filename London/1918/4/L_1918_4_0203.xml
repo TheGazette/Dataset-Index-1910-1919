@@ -71,8 +71,8 @@
     <MainItem>
       <Key>Cartmell</Key>
       <Title>temp. 2nd Lt.</Title>
-      <Forenames>E. A. St</Forenames>
-      <Text>. J. (temp. Lt.)</Text>
+      <Forenames>E. A. St. J</Forenames>
+      <Text>. (temp. Lt.)</Text>
       <PageNumber>12788</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -134,7 +134,9 @@
       </Key>
       <Title>temp. Capt.</Title>
       <Forenames>E.</Forenames>
-      <Text>C-&gt; M.C. (actg. Maj. while 2nd in comd. of Ser. Bn.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>14421</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -192,8 +194,8 @@
         <KeyDitto>___ —___</KeyDitto>
       </Key>
       <Title>Cadet</Title>
-      <Forenames>K. T. St</Forenames>
-      <Text>. G. (temp. 2nd Lt. for dutv as Education Offr.)</Text>
+      <Forenames>K. T. St. G</Forenames>
+      <Text>. (temp. 2nd Lt. for dutv as Education Offr.)</Text>
       <PageNumber>14630</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -352,7 +354,9 @@
       </Key>
       <Title>2nd Lt.</Title>
       <Forenames>G. E.</Forenames>
-      <Text>, M.C. (Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>12947</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -434,7 +438,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>temp Capt. M. J., M.D. (rel. commn.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>14536</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -479,7 +485,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Casswcll</Key>
-      <Text>temp. 2nd I.t. T. R. (trd. to M.G.C. Infv.)</Text>
+      <Title>temp.</Title>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>12794</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -495,7 +504,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Castell</Key>
-      <Text>Cadet D. (temp. 2nd Lt.)</Text>
+      <Title>Cadet</Title>
+      <Forenames>D.</Forenames>
+      <Text>(temp. 2nd Lt.)</Text>
       <PageNumber>11639</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -514,14 +525,20 @@
     <MainItem>
       <Key>Castens</Key>
       <Forenames>Ma</Forenames>
-      <Text>). (Bt. Lt. Col.) W. E. (Lt. Col.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>12108</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Castle</Key>
-      <Text>2nd Lt. R. !\. M.C. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>R.</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>12673</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -673,7 +690,9 @@
       <Key>Cattell</Key>
       <Title>temp. Lt.</Title>
       <Forenames>J. W.</Forenames>
-      <Text>, M.C. (actg. Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>14878</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -738,7 +757,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Catton</Key>
-      <Text>temp. 2nd Lt. E. D. (temp. Lt.)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>E. D.</Forenames>
+      <Text>(temp. Lt.)</Text>
       <PageNumber>14692</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -776,7 +797,9 @@
       <Key>Gaunt</Key>
       <Title>Cadet</Title>
       <Forenames>A. J.</Forenames>
-      <Text>, M.M. (temp. 2nd Lt.) .. .. -</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>12315</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -859,7 +882,9 @@
       <Key>Cavanagh</Key>
       <Title>Capt.</Title>
       <Forenames>F.</Forenames>
-      <Text>, M.C. (actg. Maj.) '...'</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>13088</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1034,8 +1059,8 @@
     <MainItem>
       <Key>Cazenove</Key>
       <Title>Lt.</Title>
-      <Forenames>A.</Forenames>
-      <Text>de L. (actg. Capt., addtl.)</Text>
+      <Forenames>A. de L</Forenames>
+      <Text>. (actg. Capt., addtl.)</Text>
       <PageNumber>14396</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1093,7 +1118,9 @@
     <MainItem>
       <Key>Chadderton</Key>
       <Title>temp. 2nd Lt.</Title>
-      <Text>, attd., G, O., D.C.M. (trd. to Ser. Bn.)</Text>
+      <Text>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>11642</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1141,7 +1168,7 @@
       <PageNumber>12682</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Lt</Text>
+      <Text>Lt.</Text>
       <PageNumber>12237</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1152,7 +1179,9 @@
       </Key>
       <Title>temp. Capt.</Title>
       <Forenames>J. F.</Forenames>
-      <Text>, M.C. (rel. actg. rank of Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>13712</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1163,7 +1192,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>L. A.</Forenames>
-      <Text>, M.C. (actg. Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>13089</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1172,7 +1203,9 @@
       <Key>Chadwyck-Healey</Key>
       <Title>Supern. Lt.</Title>
       <Forenames>E. R.</Forenames>
-      <Text>, M.C. (restd. to estabt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>14058</PageNumber>
     </MainItem>
   </ItemGroup>

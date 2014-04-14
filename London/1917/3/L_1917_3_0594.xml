@@ -53,6 +53,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Whalley</Key>
+      <Forenames>H. G. L.</Forenames>
+      <Text>(temp. Lt.)</Text>
+      <PageNumber>6708</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Desbarats</Key>
       <Forenames>E. W.</Forenames>
       <Text>(temp. Fit. Sub-Lt.)</Text>
@@ -190,7 +198,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Forman</Key>
-      <Text>J. H. (temp. Fit. Sub-Lt.)</Text>
+      <Forenames>J. H.</Forenames>
+      <Text>(temp. Fit. Sub-Lt.)</Text>
       <PageNumber>6709</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -516,7 +525,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hankforth</Key>
-      <Text>B. 'temp. Fit. Sub-Lt.)</Text>
+      <Forenames>B.</Forenames>
+      <Text>'temp. Fit. Sub-Lt.)</Text>
       <PageNumber>9150</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -792,7 +802,9 @@
     <MainItem>
       <Key>Jones</Key>
       <Forenames>A. W.</Forenames>
-      <Text>, D.S.C. (Fit. Lt.)</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>9034</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1381,7 +1393,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Neilson</Key>
-      <Text>. Nelson, C. H. (temp. Lt.)</Text>
+      <Forenames>Nelson</Forenames>
+      <Text>, C. H. (temp. Lt.)</Text>
       <PageNumber>6708</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1547,7 +1560,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Peal</Key>
-      <Text>E. R, D.S.C. (temp. Lt.Cdr.)</Text>
+      <Forenames>E. R</Forenames>
+      <Text>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>6708</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -539,8 +539,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mansfield</Key>
-      <Forenames>A. D. M. The</Forenames>
-      <Text>Earl of (temp. Capt.)</Text>
+      <Forenames>A. D. M.</Forenames>
+      <Text>The Earl of (temp. Capt.)</Text>
       <PageNumber>3125</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1756,7 +1756,9 @@
       <Key>Nairn</Key>
       <Title>Sir</Title>
       <Forenames>M.</Forenames>
-      <Text>, Bt. (temp. Lt.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>1453</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2086,15 +2088,17 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, D. (temp. Hon. Lt. and Qr.-Mr.)</Text>
+      <Key>O'Brien</Key>
+      <Forenames>D.</Forenames>
+      <Text>(temp. Hon. Lt. and Qr.-Mr.)</Text>
       <PageNumber>579</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, J. (temp. Capt.)</Text>
+      <Key>O'Connor</Key>
+      <Forenames>J.</Forenames>
+      <Text>(temp. Capt.)</Text>
       <PageNumber>2471</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -250,7 +250,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Carruthers</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, and Adj. Francis (temporary Capt.)</Text>
       <PageNumber>8703</PageNumber>
     </MainItem>
@@ -292,7 +292,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Cole</Key>
-      <Text>. Maj. John A. (to command a Battalion, and to be temporary Lieut.-Col.)</Text>
+      <Title>Maj.</Title>
+      <Forenames>John A.</Forenames>
+      <Text>(to command a Battalion, and to be temporary Lieut.-Col.)</Text>
       <PageNumber>8632</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -307,7 +309,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Corrie</Key>
-      <Text>. Pte. W. R. (temporary 2nd Lieut.)</Text>
+      <Title>Pte.</Title>
+      <Forenames>W. R.</Forenames>
+      <Text>(temporary 2nd Lieut.)</Text>
       <PageNumber>7334</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -322,7 +326,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Davies</Key>
-      <Text>. Harry Donald (temporary 2nd Lieut.)</Text>
+      <Forenames>Harry Donald</Forenames>
+      <Text>(temporary 2nd Lieut.)</Text>
       <PageNumber>8112</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -337,7 +342,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dickinson</Key>
-      <Text>. John C. George (tempo rary 2nd Lieut.) Dingle, Arthur J. (temporary Capt.)</Text>
+      <Forenames>John C. George</Forenames>
+      <Text>(tempo rary 2nd Lieut.) Dingle, Arthur J. (temporary Capt.)</Text>
       <PageNumber>9410</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -352,7 +358,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Edwards</Key>
-      <Text>. Arthur Taillyer (temporary 2nd Lieut.)</Text>
+      <Forenames>Arthur Taillyer</Forenames>
+      <Text>(temporary 2nd Lieut.)</Text>
       <PageNumber>7656</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -593,7 +600,9 @@
     <MainItem>
       <Key>Kino</Key>
       <Forenames>A. R.</Forenames>
-      <Text>, D.S.O. (Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8806</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -195,8 +195,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Leary, Rev. A. (temp. Qhapln., 4th Cl.)</Text>
+      <Key>O'Leary</Key>
+      <Title>Rev.</Title>
+      <Forenames>A.</Forenames>
+      <Text>(temp. Qhapln., 4th Cl.)</Text>
       <PageNumber>4300</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -227,7 +229,10 @@
         <KeyDitto>___ —. ___</KeyDitto>
       </Key>
       <Forenames>Coil</Forenames>
-      <Text>, (now temp. Brig.-Gen.) T. E., C.B., C.M.G. (placed on h.p. List)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>3606</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -243,7 +248,9 @@
       <Key>Oldve</Key>
       <Title>Capt. (actg. Lt.-Col.)</Title>
       <Forenames>T. B.</Forenames>
-      <Text>, M.C. (flat. Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5466</PageNumber>
     </MainItem>
     <SubItem>
@@ -317,7 +324,7 @@
       <PageNumber>5303</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Rel. actg. rank of Copt</Text>
+      <Text>Rel. actg. rank of Copt.</Text>
       <PageNumber>5620</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -501,7 +508,9 @@
     <MainItem>
       <Key>OlMvant</Key>
       <Title>Bt. Lt.</Title>
-      <Text>-ICol. A. H., C.M.G. (Lt.-Col.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>6385</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -515,8 +524,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Longan, 2nd Lt. P. C. S. (Flying Offr., and seed.)</Text>
+      <Key>O'Longan</Key>
+      <Title>2nd Lt.</Title>
+      <Forenames>P. C. S.</Forenames>
+      <Text>(Flying Offr., and seed.)</Text>
       <PageNumber>3498</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -539,8 +550,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Malley, temp. 2nd Lt. F. (trd.)</Text>
+      <Key>O'Malley</Key>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>F.</Forenames>
+      <Text>(trd.)</Text>
       <PageNumber>4735</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -578,8 +591,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Meara, 2nd Lt. H. V. (date of rank and precedence)</Text>
+      <Key>O'Meara</Key>
+      <Title>2nd Lt.</Title>
+      <Forenames>H. V.</Forenames>
+      <Text>(date of rank and precedence)</Text>
       <PageNumber>3465</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -612,7 +627,10 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>W. A. J.</Forenames>
-      <Text>, C.M.G. (Bt. Lt.-Col.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>5467</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -627,8 +645,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, 2nd Lt. C. R. (actg. Lt.)</Text>
+      <Key>O'Neill</Key>
+      <Title>2nd Lt.</Title>
+      <Forenames>C. R.</Forenames>
+      <Text>(actg. Lt.)</Text>
       <PageNumber>4778</PageNumber>
     </MainItem>
     <SubItem>
@@ -896,7 +916,7 @@
       <PageNumber>3704</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Flying Offr</Text>
+      <Text>Flying Offr.</Text>
       <PageNumber>3736</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -953,8 +973,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Reilly, Rev C. (temp. Cnapln., 4th Cl.)</Text>
+      <Key>O'Reilly</Key>
+      <Forenames>Rev C.</Forenames>
+      <Text>(temp. Cnapln., 4th Cl.)</Text>
       <PageNumber>5849</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -988,7 +1009,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>H. J. M.</Forenames>
-      <Text>, M.C. (rel. actg. rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3574</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -998,21 +1021,27 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>J. B.</Forenames>
-      <Text>, M.D. (temp. Lt.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>4760</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Reilly-Blackwood, Capt. E. H, MO. (Maj., and rem. secd.)|</Text>
+      <Key>O'Reilly-Blackwood</Key>
+      <Title>Capt.</Title>
+      <Forenames>E. H</Forenames>
+      <Text>, MO. (Maj., and rem. secd.)|</Text>
       <PageNumber>6509</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Reilly-Ring, Cadet J. C. (temp. 2nd Lt., attd.)</Text>
+      <Key>O'Reilly-Ring</Key>
+      <Title>Cadet</Title>
+      <Forenames>J. C.</Forenames>
+      <Text>(temp. 2nd Lt., attd.)</Text>
       <PageNumber>4467</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1021,7 +1050,9 @@
       <Key>Orfdrd</Key>
       <Title>temp.,Capt.</Title>
       <Forenames>E. R. H.</Forenames>
-      <Text>, M.C. (Adjt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3743</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1079,8 +1110,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Riordan, Cadet M. J. (2nd Lt.)... Orme, Oadet A. L. (temp. 2nd Lt</Text>
+      <Key>O'Riordan</Key>
+      <Title>Cadet</Title>
+      <Forenames>M. J.</Forenames>
+      <Text>(2nd Lt.)... Orme, Oadet A. L. (temp. 2nd Lt</Text>
       <PageNumber>4930</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1159,7 +1192,9 @@
       <Key>Ormsby-Johnson</Key>
       <Title>Capt.</Title>
       <Forenames>G. A. C</Forenames>
-      <Text>, M.C. (temp. Staff Payr. and temp. Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6273</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1174,8 +1209,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Rorke, Cadet J. (temp. 2nd Lt. on prab.)</Text>
+      <Key>O'Rorke</Key>
+      <Title>Cadet</Title>
+      <Forenames>J.</Forenames>
+      <Text>(temp. 2nd Lt. on prab.)</Text>
       <PageNumber>3925</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1441,7 +1478,9 @@
       </Key>
       <Title>Maj. and Bt. Lt.-Col. (temp. Brig.-Gen.)</Title>
       <Forenames>W. L.</Forenames>
-      <Text>, D.S.O. (Lt.-Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4759</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -326,7 +326,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Graham</Key>
-      <Text>. Manus Blake (2nd Lieut.)</Text>
+      <Forenames>Manus Blake</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>10897</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -483,7 +484,9 @@
       <Key>Moody</Key>
       <Title>Brevet-Col.</Title>
       <Forenames>Richard S.</Forenames>
-      <Text>, C.B. (to command 7th Bat.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>8252</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -507,15 +510,19 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, Lieut. J. C. P. (temporary Capt., and to be supernumerary)</Text>
+      <Key>O'Brien</Key>
+      <Title>Lieut.</Title>
+      <Forenames>J. C. P.</Forenames>
+      <Text>(temporary Capt., and to be supernumerary)</Text>
       <PageNumber>10560</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donovan, Lieut. Morgan J. W. (antedated.) Oliver, Ashley F. (temporary Lieut.)</Text>
+      <Key>O'Donovan</Key>
+      <Title>Lieut.</Title>
+      <Forenames>Morgan J. W.</Forenames>
+      <Text>(antedated.) Oliver, Ashley F. (temporary Lieut.)</Text>
       <PageNumber>9669</PageNumber>
     </MainItem>
     <SubItem>
@@ -616,7 +623,9 @@
     <MainItem>
       <Key>Shuter</Key>
       <Forenames>Reginald G.</Forenames>
-      <Text>, D.S.O. (Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8238</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -898,8 +907,8 @@
     <MainItem>
       <Key>Wright</Key>
       <Title>Lieut.</Title>
-      <Forenames>A. O</Forenames>
-      <Text>'H. (temporary Capt., and to be supernumerary) -</Text>
+      <Forenames>A. O'H</Forenames>
+      <Text>. (temporary Capt., and to be supernumerary) -</Text>
       <PageNumber>10560</PageNumber>
     </MainItem>
   </ItemGroup>

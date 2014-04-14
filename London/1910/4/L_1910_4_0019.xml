@@ -19,6 +19,14 @@
   <SubSectionTitle>2nd Dragoon Guards</SubSectionTitle>
   <ItemGroup>
     <MainItem>
+      <Key>de Crespigny</Key>
+      <Forenames>C. H.</Forenames>
+      <Text>(Lieut.)</Text>
+      <PageNumber>8075</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Single</Key>
       <Forenames>F. A.</Forenames>
       <Text>(Lieut.)</Text>
@@ -74,8 +82,8 @@
     <MainItem>
       <Key>Waiter</Key>
       <Title>Lieut.</Title>
-      <Forenames>H.</Forenames>
-      <Text>de G. (resigned)</Text>
+      <Forenames>H. de G</Forenames>
+      <Text>. (resigned)</Text>
       <PageNumber>7541</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -156,7 +164,9 @@
       <Key>Tichborne</Key>
       <Title>Sir</Title>
       <Forenames>J. H. B. D.</Forenames>
-      <Text>, Bart. (Lieut.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>9140</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -174,8 +184,8 @@
     <MainItem>
       <Key>Vallance</Key>
       <Title>Lieut.</Title>
-      <Forenames>V.</Forenames>
-      <Text>de V. (seconded)</Text>
+      <Forenames>V. de V</Forenames>
+      <Text>. (seconded)</Text>
       <PageNumber>6977</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -300,8 +310,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Harris</Key>
-      <Title>St.</Title>
-      <Forenames>John</Forenames>
+      <Forenames>St. John</Forenames>
       <Text>, C.E. (Maj.) .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
@@ -1021,8 +1030,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Radcliffe</Key>
-      <Forenames>P. P.</Forenames>
-      <Text>de B. (Maj.) ..</Text>
+      <Forenames>P. P. de B</Forenames>
+      <Text>. (Maj.) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1283,17 +1292,18 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Brett</Forenames>
-      <Text>, Maj. H. S. (seconded)</Text>
+      <Key>De Brett</Key>
+      <Title>Maj.</Title>
+      <Forenames>H. S.</Forenames>
+      <Text>(seconded)</Text>
       <PageNumber>7073</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Winton</Forenames>
-      <Text>, R. S. (Maj.)</Text>
+      <Key>De Winton</Key>
+      <Forenames>R. S.</Forenames>
+      <Text>(Maj.)</Text>
       <PageNumber>7542</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1308,7 +1318,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Douglas</Key>
-      <Text>. Jones, Lieut. E. D. (seconded)</Text>
+      <Forenames>Jones</Forenames>
+      <Text>, Lieut. E. D. (seconded)</Text>
       <PageNumber>8075</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1332,7 +1343,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Duke</Key>
-      <Text>. A. C H. (Adjt.)</Text>
+      <Forenames>A. C</Forenames>
+      <Text>H. (Adjt.)</Text>
       <PageNumber>7436</PageNumber>
     </MainItem>
   </ItemGroup>

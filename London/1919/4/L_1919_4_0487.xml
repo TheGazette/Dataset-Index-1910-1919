@@ -108,7 +108,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Fryer</Key>
-      <Text>Lt. D. J. (corr. of rank)</Text>
+      <Title>Lt.</Title>
+      <Forenames>D. J.</Forenames>
+      <Text>(corr. of rank)</Text>
       <PageNumber>13426</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -226,7 +228,9 @@
       <Key>Fulljames</Key>
       <Title>Flight Lt. (A.)</Title>
       <Forenames>R. G. E.</Forenames>
-      <Text>, M.C. (granted perm, commn.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>13139</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -234,7 +238,9 @@
     <MainItem>
       <Key>Fulton</Key>
       <Title>2nd Lt. (actg. Maj.)</Title>
-      <Text>, A. R., M.B.E. (trd. to unempld. list)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>12658</PageNumber>
     </MainItem>
     <KeyDitto>___ ___</KeyDitto>
@@ -347,7 +353,9 @@
     <MainItem>
       <Key>Galley</Key>
       <Forenames>Flying Offr</Forenames>
-      <Text>. (A.) E. D. G., M.C, A.F.C. (granted perm. commn.)</Text>
+      <Text>
+        <Honour>A.F.C.</Honour>
+      </Text>
       <PageNumber>13546</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -377,7 +385,9 @@
       <Key>Game</Key>
       <Title>Lt.</Title>
       <Forenames>H. F.</Forenames>
-      <Text>, A.F.C. (trd. to unempld. list)</Text>
+      <Text>
+        <Honour>A.F.C.</Honour>
+      </Text>
       <PageNumber>13424</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -385,7 +395,9 @@
     <MainItem>
       <Key>Gammon</Key>
       <Forenames>Lt</Forenames>
-      <Text>, R, J., D.F.C. I(trd. to unempld. list)</Text>
+      <Text>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>12790</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -493,7 +505,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>W. C</Forenames>
-      <Text>, D.F.C. (trd. to unempld. list)</Text>
+      <Text>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>13671</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -528,7 +542,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>C.</Forenames>
-      <Text>iH.. A.F.C. (trd. to pnempld. list)</Text>
+      <Text>
+        <Honour>A.F.C.</Honour>
+      </Text>
       <PageNumber>12790</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -579,7 +595,9 @@
       </Key>
       <Title>Fit. Lt.</Title>
       <Forenames>R. G.</Forenames>
-      <Text>, D.S.C. (trd. to unempld. list)</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>12422</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -590,7 +608,9 @@
       </Key>
       <Title>Flight Lt. (A.)</Title>
       <Forenames>W. E.</Forenames>
-      <Text>, D.S.C. (granted short serv. commn.)</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>13032</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -636,7 +656,9 @@
       <Key>Garner</Key>
       <Title>Obsvr. Offr.</Title>
       <Forenames>E. J.</Forenames>
-      <Text>, A.F.C. (granted short serv. commn.)</Text>
+      <Text>
+        <Honour>A.F.C.</Honour>
+      </Text>
       <PageNumber>13034</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -683,7 +705,9 @@
       <Key>Garratt</Key>
       <Title>Lt.</Title>
       <Forenames>F. G.</Forenames>
-      <Text>, A.F.C. (trd. to unempld. list)</Text>
+      <Text>
+        <Honour>A.F.C.</Honour>
+      </Text>
       <PageNumber>12556</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -730,7 +754,9 @@
       <Key>Garside</Key>
       <Title>2nd Lt.</Title>
       <Forenames>A. J.</Forenames>
-      <Text>, D.F.C. (trd. to unempld. list)</Text>
+      <Text>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>13671</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -860,14 +886,18 @@
   <ItemGroup>
     <MainItem>
       <Key>Gay</Key>
-      <Text>Lt. B. C. (trd. to unempld.! list)</Text>
+      <Title>Lt.</Title>
+      <Forenames>B. C.</Forenames>
+      <Text>(trd. to unempld.! list)</Text>
       <PageNumber>13425</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Gay</Key>
-      <Text>ford, Obsvr. Offr. O. R., D.F.C. (granted short serv. commn.)</Text>
+      <Text>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>13034</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -184,7 +184,10 @@
     <MainItem>
       <Key>Wigram</Key>
       <Title>Bt.</Title>
-      <Text>-Col. (temp. Brig.Gen.) K., C.B., D.S.O. (temp. Brig.-Gen. (Air Staff), temp. Col. and actg. Brig.-Gen.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>13610</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -232,7 +235,9 @@
         <KeyDitto>___ ___ .</KeyDitto>
       </Key>
       <Forenames>Col</Forenames>
-      <Text>(Army) T. B., C.M.G. (temp. S.O., 1st Cl., and temp. Col.) Sub. Not</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>13919</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -630,7 +635,9 @@
       </Key>
       <Title>2nd Lt.</Title>
       <Forenames>R.</Forenames>
-      <Text>. M.C. .(Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>15287</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -696,7 +703,9 @@
   <ItemGroup>
     <MainItem>
       <Key>lAikenhead</Key>
-      <Text>Cadet J. IW. (temp. 2nd Lt., A.)</Text>
+      <Title>Cadet</Title>
+      <Forenames>J.</Forenames>
+      <Text>IW. (temp. 2nd Lt., A.)</Text>
       <PageNumber>14335</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1063,7 +1072,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Allden</Key>
-      <Text>2nd Lt. (T.F.) L. (temp. 2nd Lt., Olbsvr. Offlr.)</Text>
+      <Title>2nd Lt. (T.F.)</Title>
+      <Forenames>L.</Forenames>
+      <Text>(temp. 2nd Lt., Olbsvr. Offlr.)</Text>
       <PageNumber>12129</PageNumber>
     </MainItem>
   </ItemGroup>

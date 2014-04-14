@@ -50,23 +50,25 @@
       <Key>Kennedy-Craufurd-</Key>
       <Forenames>Stuart</Forenames>
       <Text>, C, D.S.O</Text>
-      <PageNumber>3337</PageNumber>
     </MainItem>
   </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Kensington</Key>
-      <Forenames>E. C.</Forenames>
-      <PageNumber>3335</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Keppel</Key>
-      <Forenames>T. R. H.</Forenames>
-      <PageNumber>3340</PageNumber>
-    </MainItem>
-  </ItemGroup>
+  <Honour>
+    <PageNumber>3337</PageNumber>
+    <ItemGroup>
+      <MainItem>
+        <Key>Kensington</Key>
+        <Forenames>E. C.</Forenames>
+        <PageNumber>3335</PageNumber>
+      </MainItem>
+    </ItemGroup>
+    <ItemGroup>
+      <MainItem>
+        <Key>Keppel</Key>
+        <Forenames>T. R. H.</Forenames>
+        <PageNumber>3340</PageNumber>
+      </MainItem>
+    </ItemGroup>
+  </Honour>
   <ItemGroup>
     <MainItem>
       <Key>Kerr</Key>
@@ -192,7 +194,9 @@
         <KeyDitto>___</KeyDitto>
       </Key>
       <Forenames>J. T. H.</Forenames>
-      <Text>, M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>3338</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -517,7 +521,9 @@
         <KeyDitto>___</KeyDitto>
       </Key>
       <Forenames>H. J.</Forenames>
-      <Text>, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>3334</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -635,8 +641,8 @@
   <ItemGroup>
     <MainItem>
       <Key>McBae</Key>
-      <Forenames>H. St</Forenames>
-      <Text>. G. M</Text>
+      <Forenames>H. St. G</Forenames>
+      <Text>. M</Text>
       <PageNumber>3335</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -644,7 +650,9 @@
     <MainItem>
       <Key>Macrae</Key>
       <Forenames>J. C</Forenames>
-      <Text>, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>3339</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -730,7 +738,9 @@
     <MainItem>
       <Key>Marsh</Key>
       <Forenames>C. H.</Forenames>
-      <Text>, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>3336</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -747,7 +757,9 @@
     <MainItem>
       <Key>Marshall</Key>
       <Forenames>A.</Forenames>
-      <Text>, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>4945</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -802,7 +814,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>S. D.</Forenames>
-      <Text>, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>3340</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -857,7 +871,9 @@
     <MainItem>
       <Key>Maynard</Key>
       <Forenames>F. H.</Forenames>
-      <Text>, M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>4945</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1073,7 +1089,9 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>M. H. L.</Forenames>
-      <Text>, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>3339</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1081,7 +1099,9 @@
     <MainItem>
       <Key>Morice</Key>
       <Forenames>R. C. L.</Forenames>
-      <Text>, M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>3340</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1245,7 +1265,9 @@
     <MainItem>
       <Key>Muspratt</Key>
       <Forenames>S. F.</Forenames>
-      <Text>, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>3334</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1431,7 +1453,9 @@
     <MainItem>
       <Key>Pepys</Key>
       <Forenames>G. L.</Forenames>
-      <Text>, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>3335</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1478,7 +1502,9 @@
       <PageNumber>3336</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>M.C. (actg.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6063</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1643,7 +1669,9 @@
     <MainItem>
       <Key>Reed</Key>
       <Forenames>H. R. B.</Forenames>
-      <Text>, M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>3337</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1665,8 +1693,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rennick</Key>
-      <Forenames>A.</Forenames>
-      <Text>de C</Text>
+      <Forenames>A. de C</Forenames>
       <PageNumber>3335</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1734,7 +1761,9 @@
     <MainItem>
       <Key>Bisley</Key>
       <Forenames>C. G.</Forenames>
-      <Text>, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>4944</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1815,7 +1844,9 @@
     <MainItem>
       <Key>Ross</Key>
       <Forenames>A. C</Forenames>
-      <Text>, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>3336</PageNumber>
     </MainItem>
   </ItemGroup>

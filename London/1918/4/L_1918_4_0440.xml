@@ -60,7 +60,7 @@
       <PageNumber>12049</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Temp. Lt</Text>
+      <Text>Temp. Lt.</Text>
       <PageNumber>12955</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -163,7 +163,7 @@
       <PageNumber>13129</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Countv Adjt. and temp. Capt</Text>
+      <Text>Countv Adjt. and temp. Capt.</Text>
       <PageNumber>14055</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -421,7 +421,9 @@
     <MainItem>
       <Key>Langford</Key>
       <Forenames>F. C</Forenames>
-      <Text>, M.D. (temp. Maj.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>12955</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -482,7 +484,9 @@
     <MainItem>
       <Key>Lean</Key>
       <Title>temp. Col.</Title>
-      <Text>and County Comdt. 1C. E., C.B. (resigns commn.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>12230</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -525,7 +529,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Le</Key>
-      <Text>£»ard, temp. Col. and County Comdt. Sir J. D., K.C.B. (resigns commn.)</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+      </Text>
       <PageNumber>12318</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -900,7 +906,9 @@
       <Key>Maclntyre</Key>
       <Title>Maj.-Gen.</Title>
       <Forenames>D. C. F.</Forenames>
-      <Text>, C.B. ' (Hon. Lt.-Col. on appt. as Hon. Comdt.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>15181</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1257,7 +1265,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Millbonm</Key>
-      <Text>temp. 2nd Lt. P. (temp. Lt.)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>P.</Forenames>
+      <Text>(temp. Lt.)</Text>
       <PageNumber>12868</PageNumber>
     </MainItem>
   </ItemGroup>

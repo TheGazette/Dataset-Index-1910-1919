@@ -3,7 +3,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Simpson</Key>
-      <Text>Lt.-Ooil. Frank Robert, Kndghlt of Grace, St. John of</Text>
+      <Title>Lt.</Title>
+      <Text>-Ooil. Frank Robert, Kndghlt of Grace, St. John of</Text>
       <PageNumber>16062</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -24,7 +25,10 @@
       </Key>
       <Title>Qrmr. and Capt.</Title>
       <Forenames>William</Forenames>
-      <Text>, MC, D.C.M., Companion, D.S.O</Text>
+      <Text>
+        <Honour>MC</Honour>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>15438</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -32,7 +36,11 @@
     <MainItem>
       <Key>Sims</Key>
       <Forenames>Thomas</Forenames>
-      <Text>, C.B., knighted ... Sinclair, Maj. Ian Macintosh .Roe, M.C., Companion, D.S.O</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>12231</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -58,7 +66,9 @@
         <KeyDitto>___ ___ ___ .</KeyDitto>
       </Key>
       <Forenames>Vice-Adm</Forenames>
-      <Text>. Morgan, C.B., Knight Commander, Royal Victorian . Order</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>15864</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -92,7 +102,9 @@
       <Key>Sketcn</Key>
       <Title>Engr. Capt.</Title>
       <Forenames>Reginald William</Forenames>
-      <Text>, D.S.O., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>12778</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -100,7 +112,10 @@
     <MainItem>
       <Key>Siadden</Key>
       <Forenames>T.</Forenames>
-      <Text>/Maj. Cyril Edgar, M.C., Companion, D.S.O.-</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>12228</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -127,7 +142,9 @@
       <Key>Slowan</Key>
       <Title>Capt.</Title>
       <Forenames>William John More</Forenames>
-      <Text>, M.D., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>15454</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -145,7 +162,10 @@
       <Key>Smallman</Key>
       <Title>Maj. (T./Lt -Col.)</Title>
       <Forenames>Arthur Briton</Forenames>
-      <Text>, D.S.O., M.D., Commander, Order of the British Empire (Sub. Not.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>15451</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -153,7 +173,9 @@
     <MainItem>
       <Key>Smith</Key>
       <Forenames>T.</Forenames>
-      <Text>/Capt. Albert, M.P., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>15454</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -214,7 +236,10 @@
         <KeyDitto>___ —.—</KeyDitto>
       </Key>
       <Title>Capt.</Title>
-      <Text>' Ross Macpherson, o M.C, D.F.C., A.F.C., Knight Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.F.C.</Honour>
+        <Honour>A.F.C.</Honour>
+      </Text>
       <PageNumber>15954</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -223,7 +248,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>1 T./Maj. Stanley Alw.yn,. D.S.O., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>15454</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -233,7 +260,9 @@
         <KeyDitto>—.—.</KeyDitto>
       </Key>
       <Title>Capt.</Title>
-      <Text>. Stephen Christopher Winlfield, Companion, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>12980</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -244,7 +273,9 @@
       </Key>
       <Title>Qrmr. and Capt. Sydney .</Title>
       <Forenames>James</Forenames>
-      <Text>, M.B.E., Officer, Order of itlhe British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>15454</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -274,7 +305,10 @@
       </Key>
       <Title>Col.</Title>
       <Forenames>William Robert</Forenames>
-      <Text>, M.D.. Knighted '</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>12419</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -282,7 +316,10 @@
     <MainItem>
       <Key>iSmibhers</Key>
       <Forenames>Arthur Waldron</Forenames>
-      <Text>, J.P., M.P., Knighted</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>12419</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -315,7 +352,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Sniow</Key>
-      <Text>den-Smith, dipt, and Bt, Maj. i(T./Lt.-Col.) Richard Talbot, Ooimmaiiider, Order of the British Empire '(Suib. Not.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>15451</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -338,7 +377,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Somerset</Key>
-      <Text>LA. !(T./Cap*.) the Hon. Nigel Fitzroy M.C., Companion,, D.S.O</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>15290</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -358,7 +399,9 @@
         <KeyDitto>___ .</KeyDitto>
       </Key>
       <Title>Ma.</Title>
-      <Text>j. Nelson Companion, D.S.O. '</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>12231</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -366,7 +409,9 @@
     <MainItem>
       <Key>Spicer</Key>
       <Title>Lt.</Title>
-      <Text>i(A./0apt.) Frank Fitzroy Fane, Companion, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>15290</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -382,7 +427,9 @@
     <MainItem>
       <Key>Spooner</Key>
       <Title>Jn.</Title>
-      <Text>r. Chapln. Rev. Harold, M.C., Member, Order of the. British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>12980</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -424,7 +471,10 @@
     <MainItem>
       <Key>Stallard</Key>
       <Forenames>T.</Forenames>
-      <Text>/Ma-.j. Charles Fram.p/ton, M.C., Companion, D.S.O</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>12228</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -432,7 +482,9 @@
     <MainItem>
       <Key>Staivr-idi</Key>
       <Forenames>John</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>12418</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -455,7 +507,9 @@
   <ItemGroup>
     <MainItem>
       <Key>iSltee</Key>
-      <Text>e, Lt. Gordon Charles, Victoria Cross</Text>
+      <Text>
+        <Honour>Victoria Cross</Honour>
+      </Text>
       <PageNumber>13743</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -464,7 +518,11 @@
       <Key>
         <KeyDitto>___ —</KeyDitto>
       </Key>
-      <Text>&lt;-( ___ ___ ILt.-Cbl. and; Bt. Col. (T./ Brig.-Gen.) Julian MclGartv. C.B., C.M.G., C.G., Companion, D.S.O</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>15290</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -527,7 +585,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>Guy Tyrone</Forenames>
-      <Text>, Officer, Order of the British Empire Striediniger, Lt.-Col. (T./Col.) Oscar, D.S.O., O.B;E., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>15456</PageNumber>
     </MainItem>
   </ItemGroup>

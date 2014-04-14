@@ -737,8 +737,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Millais</Key>
-      <Forenames>G.</Forenames>
-      <Text>de C. (temp. Lt.)</Text>
+      <Forenames>G. de C</Forenames>
+      <Text>. (temp. Lt.)</Text>
       <PageNumber>3154</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -851,8 +851,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>B. C. St</Forenames>
-      <Text>. C. (temp. 2nd Lt.)</Text>
+      <Forenames>B. C. St. C</Forenames>
+      <Text>. (temp. 2nd Lt.)</Text>
       <PageNumber>3412</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -934,7 +934,9 @@
       </Key>
       <Title>(temp.) Lt.</Title>
       <Forenames>D. J.</Forenames>
-      <Text>, M.D. (re linquishes his commission)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>1216</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1163,7 +1165,9 @@
         <KeyDitto>___ ___ ___ &amp;</KeyDitto>
       </Key>
       <Forenames>S.</Forenames>
-      <Text>, M.D. (temp. Capt.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>273</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1236,7 +1240,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>W.</Forenames>
-      <Text>, M.D. (temp. Capt.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>274</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1313,7 +1319,9 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>H. J.</Forenames>
-      <Text>, M.D. (temp. Capt.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>2102</PageNumber>
     </MainItem>
   </ItemGroup>

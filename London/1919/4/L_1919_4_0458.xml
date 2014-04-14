@@ -61,7 +61,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Barker</Key>
-      <Text>T. G. (itemp.)</Text>
+      <Forenames>T. G.</Forenames>
+      <Text>(itemp.)</Text>
       <PageNumber>12795</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -139,8 +140,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kingsfcy</Key>
-      <Forenames>E. St</Forenames>
-      <Text>. J. (temp.)</Text>
+      <Forenames>E. St. J</Forenames>
+      <Text>. (temp.)</Text>
       <PageNumber>12795</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -234,7 +235,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cudey</Key>
-      <Text>T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>16042</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -517,7 +518,9 @@
       <Key>Aldridge</Key>
       <Title>Miss</Title>
       <Forenames>W. M.</Forenames>
-      <Text>, A.R.R.C. (ISnr. iNurs-img Sister)</Text>
+      <Text>
+        <Honour>A.R.R.C.</Honour>
+      </Text>
       <PageNumber>15876</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -613,14 +616,18 @@
   <ItemGroup>
     <MainItem>
       <Key>Mills</Key>
-      <Text>Miss S. G. (ISnr. Nursing Sister)</Text>
+      <Title>Miss</Title>
+      <Forenames>S. G.</Forenames>
+      <Text>(ISnr. Nursing Sister)</Text>
       <PageNumber>15876</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, Miss N. F. M. (Nursling Sister)</Text>
+      <Key>O'Connor</Key>
+      <Title>Miss</Title>
+      <Forenames>N. F. M.</Forenames>
+      <Text>(Nursling Sister)</Text>
       <PageNumber>15070</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -678,7 +685,9 @@
       <Key>White</Key>
       <Title>Miss</Title>
       <Forenames>L. A.</Forenames>
-      <Text>, A.R.R.C. (Snr. .Nursing Sister)</Text>
+      <Text>
+        <Honour>A.R.R.C.</Honour>
+      </Text>
       <PageNumber>15876</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -755,7 +764,9 @@
     <MainItem>
       <Key>Kinch</Key>
       <Forenames>A. G.</Forenames>
-      <Text>, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>14930</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -779,7 +790,7 @@
   <ItemGroup>
     <MainItem>
       <Key>iBarfoot</Key>
-      <Text>C. B</Text>
+      <Forenames>C. B.</Forenames>
       <PageNumber>15491</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1022,7 +1033,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Smith</Key>
-      <Text>J. T</Text>
+      <Forenames>J. T</Forenames>
       <PageNumber>15491</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1231,7 +1242,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McKenma</Key>
-      <Text>F</Text>
+      <Forenames>F.</Forenames>
       <PageNumber>15490</PageNumber>
     </MainItem>
   </ItemGroup>

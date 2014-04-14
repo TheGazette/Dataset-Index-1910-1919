@@ -3,8 +3,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Victoria</Key>
-      <Forenames>Cross</Forenames>
-      <Text>: Butler, Capt. John F. Paul</Text>
+      <Text>
+        <Honour>Cross</Honour>
+      </Text>
       <PageNumber>8373</PageNumber>
     </MainItem>
     <SubItem>
@@ -67,7 +68,7 @@
   <ItemGroup>
     <MainItem>
       <Key>War</Key>
-      <Text>. (See under Colonial Office, Foreign Office, Orders in Council, Proclamations by the King, and War Office.) War Office: Defence of the Realm Consolidation Regulations, 1914: Regulation 30 A, extension of</Text>
+      <Text>(See under Colonial Office, Foreign Office, Orders in Council, Proclamations by the King, and War Office.) War Office: Defence of the Realm Consolidation Regulations, 1914: Regulation 30 A, extension of</Text>
       <PageNumber>9426</PageNumber>
     </MainItem>
     <SubItem>
@@ -175,7 +176,9 @@
       <Key>Abbott</Key>
       <Title>Capt.</Title>
       <Forenames>Frank Berkeley</Forenames>
-      <Text>, Companion, Distinguished Service Order</Text>
+      <Text>
+        <Honour>Companion, Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>8501</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -191,7 +194,10 @@
       <Key>Acheson</Key>
       <Title>Commander The Hon.</Title>
       <Forenames>Patrick G. E. Cavendish</Forenames>
-      <Text>, M.V.O., Companion, Distinguished Service Order</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+        <Honour>Companion, Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>8133</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -199,7 +205,9 @@
     <MainItem>
       <Key>Ames</Key>
       <Forenames>Herbert Brown</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>6960</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -208,7 +216,9 @@
       <Key>Anderson</Key>
       <Title>Capt.</Title>
       <Forenames>Stanley John</Forenames>
-      <Text>, Companion, Distinguished Service Order</Text>
+      <Text>
+        <Honour>Companion, Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>8501</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -217,7 +227,9 @@
       <Key>Armitage</Key>
       <Title>Capt.</Title>
       <Forenames>Charles Leathley</Forenames>
-      <Text>, Companion, Distinguished Service Order</Text>
+      <Text>
+        <Honour>Companion, Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>7280</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -226,15 +238,20 @@
       <Key>Atkinson</Key>
       <Title>Capt.</Title>
       <Forenames>Edward William</Forenames>
-      <Text>, Companion, Distinguished Service Order</Text>
+      <Text>
+        <Honour>Companion, Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>6540</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Bacon</Key>
-      <Title>Lieut.</Title>
-      <Text>-Commander Sidney Kenrick, Companion, Distinguished Service Order .:</Text>
+      <Title>Lieut.-Commander</Title>
+      <Forenames>Sidney Kenrick</Forenames>
+      <Text>
+        <Honour>Companion, Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>7849</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -243,7 +260,9 @@
       <Key>Barnes</Key>
       <Title>Sir</Title>
       <Forenames>George Stapylton</Forenames>
-      <Text>, K.C.B., to be an Ordinary Member of the Council of the Governor-General of India</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+      </Text>
       <PageNumber>7483</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -263,7 +282,9 @@
       <Key>Beall</Key>
       <Title>Maj.</Title>
       <Forenames>Edward Metcalfe</Forenames>
-      <Text>, Companion, Distinguished Service Order</Text>
+      <Text>
+        <Honour>Companion, Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>6534</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -272,7 +293,9 @@
       <Key>Beauman</Key>
       <Title>Capt.</Title>
       <Forenames>Archibald Bentley</Forenames>
-      <Text>, Companion, Distinguished Service Order</Text>
+      <Text>
+        <Honour>Companion, Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>8840</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -281,7 +304,9 @@
       <Key>Becher</Key>
       <Title>Capt. (temporary Maj.)</Title>
       <Forenames>John Pickard</Forenames>
-      <Text>, Companion, Distinguished Service Order</Text>
+      <Text>
+        <Honour>Companion, Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>9167</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -290,7 +315,9 @@
       <Key>Beckwith</Key>
       <Title>Maj.</Title>
       <Forenames>Arthur Thackeray</Forenames>
-      <Text>, Companion, Distinguished Service Order</Text>
+      <Text>
+        <Honour>Companion, Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>6539</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -299,7 +326,9 @@
       <Key>Bel</Key>
       <Title>Lieut.-Col.</Title>
       <Forenames>Ferreol Francois</Forenames>
-      <Text>, Honorary Companion, St. Michael and St. George</Text>
+      <Text>
+        <Honour>Companion, St. Michael and St. George</Honour>
+      </Text>
       <PageNumber>7189</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -316,7 +345,11 @@
       <Key>Bertie</Key>
       <Title>The Rt. Hon. Sir</Title>
       <Forenames>Francis Leveson</Forenames>
-      <Text>, G.C.B., G.C.M.G., G.C.V.O., created Baron Bertie of Thame, Oxford</Text>
+      <Text>
+        <Honour>G.C.B.</Honour>
+        <Honour>G.C.M.G.</Honour>
+        <Honour>G.C.V.O.</Honour>
+      </Text>
       <PageNumber>8015</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -333,7 +366,9 @@
     <MainItem>
       <Key>Bigsworth</Key>
       <Forenames>Squadron</Forenames>
-      <Text>Commander Arthur Wellesley, Companion, Distinguished Service Order</Text>
+      <Text>
+        <Honour>Companion, Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>9064</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -341,7 +376,9 @@
     <MainItem>
       <Key>Billet</Key>
       <Forenames>Capitaine Paul</Forenames>
-      <Text>, Honorary Companion, Distinguished Service Order</Text>
+      <Text>
+        <Honour>Companion, Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>8517</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -350,7 +387,9 @@
       <Key>Bonner</Key>
       <Title>Capt.</Title>
       <Forenames>Singleton</Forenames>
-      <Text>, Companion, Distinguished Service Order</Text>
+      <Text>
+        <Honour>Companion, Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>6534</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -359,7 +398,9 @@
       <Key>Borton</Key>
       <Title>Capt.</Title>
       <Forenames>Amyas Eden</Forenames>
-      <Text>, Companion, Distinguished Service Order</Text>
+      <Text>
+        <Honour>Companion, Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>6533</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -367,7 +408,9 @@
     <MainItem>
       <Key>Bowden</Key>
       <Forenames>Frank</Forenames>
-      <Text>, created a Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>7321</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -376,7 +419,9 @@
       <Key>Bowen</Key>
       <Title>Capt.</Title>
       <Forenames>Alfred J. Hamilton</Forenames>
-      <Text>, Companion, Distinguished Service Order</Text>
+      <Text>
+        <Honour>Companion, Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>6535</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -385,16 +430,19 @@
       <Key>Bowring</Key>
       <Title>The Hon.</Title>
       <Forenames>Edgar Rennie</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>6960</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Boyne</Key>
-      <Title>The Rt. Hon.</Title>
-      <Forenames>The</Forenames>
-      <Text>Viscount, Knight of Grace, St. John of Jerusalem</Text>
+      <Title>The Rt. Hon. The Viscount</Title>
+      <Text>
+        <Honour>Knight of Grace, St. John of Jerusalem</Honour>
+      </Text>
       <PageNumber>9547</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -403,8 +451,10 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>The Viscountess</Forenames>
-      <Text>, Lady of Grace, St. John of Jerusalem</Text>
+      <Title>The Viscountess</Title>
+      <Text>
+        <Honour>Lady of Grace, St. John of Jerusalem</Honour>
+      </Text>
       <PageNumber>9547</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -413,7 +463,9 @@
       <Key>Brand</Key>
       <Title>Maj.</Title>
       <Forenames>Charles Henry</Forenames>
-      <Text>, Companion, Distinguished Service Order</Text>
+      <Text>
+        <Honour>Companion, Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>6539</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -422,15 +474,19 @@
       <Key>Brock</Key>
       <Title>Capt.</Title>
       <Forenames>Alec W. Saumarez</Forenames>
-      <Text>, Companion, Distinguished Service Order</Text>
+      <Text>
+        <Honour>Companion, Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>7280</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Brooke</Key>
-      <Forenames>Elfrida Marjorie The</Forenames>
-      <Text>Lady, Lady of Grace, St. John of Jerusalem</Text>
+      <Forenames>Elfrida Marjorie</Forenames>
+      <Text>
+        <Honour>Lady of Grace, St. John of Jerusalem</Honour>
+      </Text>
       <PageNumber>7892</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -439,7 +495,9 @@
       <Key>Brown</Key>
       <Title>Capt.</Title>
       <Forenames>Harold</Forenames>
-      <Text>, Companion, Distinguished Service Order</Text>
+      <Text>
+        <Honour>Companion, Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>7280</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -450,7 +508,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>Hugh Barrington</Forenames>
-      <Text>, Companion, Distinguished Service Order</Text>
+      <Text>
+        <Honour>Companion, Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>8840</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -459,7 +519,9 @@
       <Key>Burt-Marshall</Key>
       <Title>Capt.</Title>
       <Forenames>David Banner-</Forenames>
-      <Text>man, Companion, Distinguished Service Order</Text>
+      <Text>
+        <Honour>Companion, Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>6534</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -468,7 +530,9 @@
       <Key>Butler</Key>
       <Title>Capt.</Title>
       <Forenames>Arthur Graham</Forenames>
-      <Text>, Companion, Distinguished Service Order</Text>
+      <Text>
+        <Honour>Companion, Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>6540</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -479,7 +543,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>John F. Paul</Forenames>
-      <Text>, Victoria Cross</Text>
+      <Text>
+        <Honour>Victoria Cross</Honour>
+      </Text>
       <PageNumber>8373</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -488,7 +554,9 @@
       <Key>Campbell</Key>
       <Title>Lieut.</Title>
       <Forenames>Frederick William</Forenames>
-      <Text>, Victoria Cross</Text>
+      <Text>
+        <Honour>Victoria Cross</Honour>
+      </Text>
       <PageNumber>8374</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -499,7 +567,9 @@
       </Key>
       <Title>Commander</Title>
       <Forenames>Victor L. A.</Forenames>
-      <Text>, Companion, Distinguished Service Order</Text>
+      <Text>
+        <Honour>Companion, Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>6436</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -526,7 +596,9 @@
       <Key>Carpenter</Key>
       <Title>Col.</Title>
       <Forenames>John Austin</Forenames>
-      <Text>, Knight of Grace, St. John of Jerusalem</Text>
+      <Text>
+        <Honour>Knight of Grace, St. John of Jerusalem</Honour>
+      </Text>
       <PageNumber>9547</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -551,7 +623,9 @@
       <Key>Clark</Key>
       <Title>Capt.</Title>
       <Forenames>William George</Forenames>
-      <Text>, Companion, Distinguished Service Order</Text>
+      <Text>
+        <Honour>Companion, Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>6535</PageNumber>
     </MainItem>
     <SubItem>
@@ -562,7 +636,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Cochrane</Key>
-      <Text>. Lieut.-Commander Archibald Douglas, Companion, Distinguished Service Order</Text>
+      <Title>Lieut.-Commander</Title>
+      <Forenames>Archi-</Forenames>
+      <Text>
+        <Honour>Companion, Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>9063</PageNumber>
     </MainItem>
   </ItemGroup>

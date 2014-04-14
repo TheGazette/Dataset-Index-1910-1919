@@ -206,7 +206,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Luffman</Key>
-      <Text>C. F. (2nd Lt.)</Text>
+      <Forenames>C. F.</Forenames>
+      <Text>(2nd Lt.)</Text>
       <PageNumber>11602</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -221,7 +222,7 @@
       <PageNumber>10110</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Capt</Text>
+      <Text>Capt.</Text>
       <PageNumber>12410</PageNumber>
     </SubItem>
     <SubItem>
@@ -229,7 +230,7 @@
       <PageNumber>12997</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>Maj</Text>
+      <Text>Maj.</Text>
       <PageNumber>13005</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -481,7 +482,9 @@
       </Key>
       <Title>Brevet Col.</Title>
       <Forenames>H. T.</Forenames>
-      <Text>, D.S.O. (to command a Battalion)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>11880</PageNumber>
     </MainItem>
     <SubItem>
@@ -614,7 +617,9 @@
       </Key>
       <Title>(temp.) Lt.</Title>
       <Forenames>S. F.</Forenames>
-      <Text>, F.R.C.S. (relinquishes his commission)</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>12161</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -643,7 +648,9 @@
       <Key>Lynden-Bell</Key>
       <Title>Col.</Title>
       <Forenames>E. H. L.</Forenames>
-      <Text>, C.B. ((retained on Active List)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>12566</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -737,8 +744,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>J. A.</Forenames>
-      <Text>de C. (Capt.)</Text>
+      <Forenames>J. A. de C</Forenames>
+      <Text>. (Capt.)</Text>
       <PageNumber>12995</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -778,8 +785,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>W. H. St</Forenames>
-      <Text>. J. (2nd Lt.)</Text>
+      <Forenames>W. H. St. J</Forenames>
+      <Text>. (2nd Lt.)</Text>
       <PageNumber>12808</PageNumber>
     </MainItem>
   </ItemGroup>

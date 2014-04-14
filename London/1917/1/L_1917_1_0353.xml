@@ -319,7 +319,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Callingham</Key>
-      <Text>. Cadet 8. B. (2nd Lt.)</Text>
+      <Title>Cadet</Title>
+      <Text>8. B. (2nd Lt.)</Text>
       <PageNumber>2641</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -374,7 +375,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>W. H.</Forenames>
-      <Text>, M.D. (rel. commn. on acc. of ill-health)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>389</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -427,7 +430,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>D.</Forenames>
-      <Text>, M.B. (Capt.) R.A.M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>1856</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -614,7 +619,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>D.</Forenames>
-      <Text>, M.B. (Capt.) R.A.M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>1856</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -985,7 +992,9 @@
       <Key>Carless</Key>
       <Title>Maj.</Title>
       <Forenames>A.</Forenames>
-      <Text>, M.B., F.R.C.S. (seed.)</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>63</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1359,7 +1368,7 @@
       <PageNumber>762</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Date of promn. to temp. Lt.</Text>
+      <Text>Date of promn. to temp. Lt</Text>
       <PageNumber>1176</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1370,7 +1379,9 @@
       </Key>
       <Title>2nd Lt. (temp. Lt,)</Title>
       <Forenames>P.</Forenames>
-      <Text>, M.C. (Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2342</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1423,7 +1434,7 @@
       <PageNumber>271</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Capt.</Text>
+      <Text>Capt</Text>
       <PageNumber>3127</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1546,7 +1557,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Carwardine</Key>
-      <Text>. 2nd Lt. E. (temp. Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>E.</Forenames>
+      <Text>(temp. Lt.)</Text>
       <PageNumber>2836</PageNumber>
     </MainItem>
   </ItemGroup>

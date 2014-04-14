@@ -9,7 +9,7 @@
       <PageNumber>11156</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Temp. Maj</Text>
+      <Text>Temp. Maj.</Text>
       <PageNumber>12651</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -126,7 +126,7 @@
       <PageNumber>9851</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Lt. whilst so employed) ... Temp. Capt. whilst Adjt</Text>
+      <Text>Lt. whilst so employed) ... Temp. Capt. whilst Adjt.</Text>
       <PageNumber>12172</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -224,7 +224,9 @@
         <KeyDitto>___ ___ ___ .</KeyDitto>
       </Key>
       <Forenames>W. M.</Forenames>
-      <Text>, M.D. (temp. Capt.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>10478</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -460,7 +462,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>J.</Forenames>
-      <Text>, M.D. (temp. Lt.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>12446</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -819,7 +823,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>R</Forenames>
-      <Text>, F.R.C.S. (Edin.) (temp. Capt:)</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>12038</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -951,8 +957,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>R. St</Forenames>
-      <Text>. J. (temp. Lt.)</Text>
+      <Forenames>R. St. J</Forenames>
+      <Text>. (temp. Lt.)</Text>
       <PageNumber>11907</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1001,14 +1007,17 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>L. W.</Forenames>
-      <Text>. M.D. (temp. Lt.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>10233</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Crowhurst</Key>
-      <Text>F. (temp. Capt.)</Text>
+      <Forenames>F.</Forenames>
+      <Text>(temp. Capt.)</Text>
       <PageNumber>11208</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1041,7 +1050,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Crowther</Key>
-      <Text>2nd Lt. F. K. (confirmed)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>F. K.</Forenames>
+      <Text>(confirmed)</Text>
       <PageNumber>10485</PageNumber>
     </MainItem>
     <SubItem>
@@ -1382,7 +1393,9 @@
     <MainItem>
       <Key>Cullum</Key>
       <Forenames>S. J.</Forenames>
-      <Text>. M.D. (temp. Capt.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>12039</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1409,7 +1422,9 @@
     <MainItem>
       <Key>Culpin</Key>
       <Forenames>M.</Forenames>
-      <Text>, M.B., F.R.C.S. (temp. Capt.)</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>12038</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1471,7 +1486,9 @@
     <MainItem>
       <Key>Cumberlege</Key>
       <Forenames>C. B.</Forenames>
-      <Text>, D.S.O. (Maj., supernumerary to establishment)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>11328</PageNumber>
     </MainItem>
   </ItemGroup>

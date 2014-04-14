@@ -31,7 +31,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Furneaux</Key>
-      <Text>'Maj. (temp. Lt.-Col.) C H., D.S.O. (A.Q.M.G., and retain temp, rank)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>9617</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -40,7 +42,10 @@
       <Key>Furse</Key>
       <Title>Maj.-Gen. Sir</Title>
       <Forenames>W. T.</Forenames>
-      <Text>, K.C.B., D.S.O. (temp, MasterGen, of the Ordnance)</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>9540</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -57,7 +62,10 @@
       <Key>Gaisford</Key>
       <Title>Hon.</Title>
       <Forenames>Brig-Gen</Forenames>
-      <Text>. R. ,B., C.B., C.M.G. (spec, appt.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>8505</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -75,7 +83,9 @@
       <Key>Gale</Key>
       <Title>Col.</Title>
       <Forenames>H. R.</Forenames>
-      <Text>, C.M.G. (Chief Engr. and temp. Brig.-Gen.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>9949</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -111,7 +121,9 @@
       <Key>Garforth</Key>
       <Title>Capt.</Title>
       <Forenames>W.</Forenames>
-      <Text>, M.C. (G.S.O. 2nd Gr.) Sub. Not</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7317</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -162,7 +174,10 @@
       <Key>Gault</Key>
       <Title>Maj.</Title>
       <Forenames>A. H.</Forenames>
-      <Text>, D.S.O. (A.D.C.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>A.D.C.</Honour>
+      </Text>
       <PageNumber>7877</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -189,7 +204,9 @@
       <Key>Geddes</Key>
       <Title>Bt. Lt.-Col. (temp. Brig.Gen.) Sir</Title>
       <Forenames>A. C</Forenames>
-      <Text>, K.C.B. (Dir. of Recruiting, rel. appt. and temp, rank, and to be Hon. Brig.-Gen.)</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+      </Text>
       <PageNumber>9087</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -200,7 +217,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>G. W.</Forenames>
-      <Text>, D.S.O. (Brig.' Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8667</PageNumber>
     </MainItem>
     <SubItem>
@@ -222,7 +241,9 @@
       <Key>Geldard</Key>
       <Title>Maj.</Title>
       <Forenames>C</Forenames>
-      <Text>, M.C. (D.A.A.G.j</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7054</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -240,7 +261,9 @@
       <Key>Gibbons</Key>
       <Title>Capt.</Title>
       <Forenames>E. S.</Forenames>
-      <Text>, D.S.O. (spec, appt., and temp. Lt.Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8859</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -294,7 +317,9 @@
       <Key>Girdwood</Key>
       <Title>Maj.</Title>
       <Forenames>A. C</Forenames>
-      <Text>, D.S.O. (Brig. Comdr.) ... '</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>9955</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -303,7 +328,9 @@
       <Key>Glegg</Key>
       <Title>Cept.</Title>
       <Forenames>J. D.</Forenames>
-      <Text>, M.C. (G.S.O.. 3rd Gr., and seed.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9356</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -319,7 +346,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Glynton</Key>
-      <Text>Maj. G. M. (Brig. Maj.) '</Text>
+      <Title>Maj.</Title>
+      <Forenames>G. M.</Forenames>
+      <Text>(Brig. Maj.) '</Text>
       <PageNumber>6778</PageNumber>
     </MainItem>
     <SubItem>
@@ -349,7 +378,9 @@
       <Key>Goodeve</Key>
       <Title>Maj.</Title>
       <Forenames>L. C</Forenames>
-      <Text>, D.S.O. (Brig. Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8108</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -380,7 +411,10 @@
       </Key>
       <Title>Bt. Col.</Title>
       <Forenames>W. E.</Forenames>
-      <Text>. V.C. (temp. A.D.C. to the King)</Text>
+      <Text>
+        <Honour>V.C.</Honour>
+        <Honour>A.D.C.</Honour>
+      </Text>
       <PageNumber>9949</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -389,7 +423,11 @@
       <Key>Gordon-Gilmour</Key>
       <Title>Hon. Brig.-Gen.</Title>
       <Forenames>R. G.</Forenames>
-      <Text>, C.B., C.V.O., D.S.O. (spec, appt.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.V.O.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8505</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -425,7 +463,9 @@
       <Key>Gotto</Key>
       <Title>Capt.</Title>
       <Forenames>C. H.</Forenames>
-      <Text>, M.C. (Brig. Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7106</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -483,7 +523,9 @@
       <Key>Granet</Key>
       <Title>Col.</Title>
       <Forenames>E. J.</Forenames>
-      <Text>, C.B. (temp. Mil. Attache and temp. Brig.Gen.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>7406</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -536,7 +578,9 @@
       </Key>
       <Title>Maj. (temp. Lt.-Col.)</Title>
       <Forenames>H. F. L.</Forenames>
-      <Text>, D.S.O. (Comdr. and temp. Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7464</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -613,8 +657,8 @@
     <MainItem>
       <Key>Greenwood</Key>
       <Title>Lt. (temp. Capt.)</Title>
-      <Forenames>E. H.</Forenames>
-      <Text>de L. (temp. G.S.O.. 3rd « Gr., and retain temp, rank)</Text>
+      <Forenames>E. H. de L</Forenames>
+      <Text>. (temp. G.S.O.. 3rd « Gr., and retain temp, rank)</Text>
       <PageNumber>8506</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -640,7 +684,9 @@
       <Key>Greig</Key>
       <Title>temp. Capt.</Title>
       <Forenames>G. A.</Forenames>
-      <Text>(A.D.C.)</Text>
+      <Text>
+        <Honour>A.D.C.</Honour>
+      </Text>
       <PageNumber>8311</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -659,7 +705,9 @@
       </Key>
       <Title>temp. Maj. (temp. Brig.Gen.)</Title>
       <Forenames>W. H.</Forenames>
-      <Text>, C.B. (Comdt. on Lines of Communication, and temp. Maj.-Gen.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>8075</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -710,7 +758,9 @@
       <Key>Grimble</Key>
       <Title>Lt. (temp. Capt.)</Title>
       <Forenames>H. N. H.</Forenames>
-      <Text>, M.C. (temp. Staff Capt., seed., and retain temp, rank)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7866</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -746,7 +796,9 @@
       <Key>Grosvenor</Key>
       <Title>Capt. the Hon.</Title>
       <Forenames>F. E.</Forenames>
-      <Text>. M.C. (G.S.O., 3rd Gr.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7054</PageNumber>
     </MainItem>
     <SubItem>
@@ -786,7 +838,9 @@
       <Key>Gubbins</Key>
       <Title>Maj.</Title>
       <Forenames>R. R.</Forenames>
-      <Text>, D.S.O. (A.A. and Q.M.G., and temp. Lt.Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7755</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -797,7 +851,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>S.</Forenames>
-      <Text>, D.S.O. (temp. D.A.A.G.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6646</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -833,7 +889,9 @@
       <Key>Guterbock</Key>
       <Title>Capt.</Title>
       <Forenames>P. G. J.</Forenames>
-      <Text>, M.C. (Brig. Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9358</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -842,7 +900,9 @@
       <Key>Guthrie</Key>
       <Title>2nd Lt.</Title>
       <Forenames>D. N.</Forenames>
-      <Text>(A.D.C., and seed.)</Text>
+      <Text>
+        <Honour>A.D.C.</Honour>
+      </Text>
       <PageNumber>9923</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -860,7 +920,9 @@
       <Key>Gwyn-Thomas</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>G.</Forenames>
-      <Text>, D.S.O. -</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>___</PageNumber>
     </MainItem>
     <SubItem>
@@ -1021,8 +1083,8 @@
     <MainItem>
       <Key>Hamersley</Key>
       <Title>temp. Maj.</Title>
-      <Forenames>A. St</Forenames>
-      <Text>. G. (spec, appt.)</Text>
+      <Forenames>A. St. G</Forenames>
+      <Text>. (spec, appt.)</Text>
       <PageNumber>9413</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1042,7 +1104,9 @@
       </Key>
       <Title>Lt.-Col.</Title>
       <Forenames>C. L. C</Forenames>
-      <Text>, D.S.O. (A.Q.M.G.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>9357</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1081,7 +1145,10 @@
     <MainItem>
       <Key>Hampden</Key>
       <Title>Col.</Title>
-      <Text>-T. W., Visct., C.B., C.M.G. (Brig. Comdr.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>9955</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1101,7 +1168,9 @@
       </Key>
       <Title>Lt.-Col. (Hon. Col.)</Title>
       <Forenames>L. H.</Forenames>
-      <Text>, C.M.G. (spec, appt.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>6847</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1166,7 +1235,10 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>P. H.</Forenames>
-      <Text>, V.C., M.C.' (G.S.O., 2rid Or.) ... '</Text>
+      <Text>
+        <Honour>V.C.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9446</PageNumber>
     </MainItem>
   </ItemGroup>

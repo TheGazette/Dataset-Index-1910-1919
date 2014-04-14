@@ -68,7 +68,7 @@
       <PageNumber>1643</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Lt.</Text>
+      <Text>Lt</Text>
       <PageNumber>1964</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -332,7 +332,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Whistler</Key>
-      <Text>. H. (temip. 2nd Lt.)</Text>
+      <Forenames>H.</Forenames>
+      <Text>(temip. 2nd Lt.)</Text>
       <PageNumber>3896</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -414,7 +415,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Whitehead</Key>
-      <Text>. T. A. (Lt.)</Text>
+      <Forenames>T. A.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>3156</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -445,14 +447,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Wiggins</Key>
-      <Text>. D. G. (Lt.)</Text>
+      <Forenames>D. G.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>3488</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Wilbv</Key>
-      <Text>. V. G. (2nd Lt.)</Text>
+      <Forenames>V. G.</Forenames>
+      <Text>(2nd Lt.)</Text>
       <PageNumber>2284</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -504,7 +508,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wilkinson</Key>
-      <Text>. F. B. (Lt.)</Text>
+      <Forenames>F. B.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>720</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -968,7 +973,9 @@
     <MainItem>
       <Key>Woakes</Key>
       <Forenames>R. B.</Forenames>
-      <Text>, M.C. (acbg. Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3640</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1288,7 +1295,7 @@
       <PageNumber>3028</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Actg. Capt.</Text>
+      <Text>Actg. Capt</Text>
       <PageNumber>3301</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1326,7 +1333,9 @@
     <MainItem>
       <Key>Bannerman</Key>
       <Forenames>W. B.</Forenames>
-      <Text>, C.S.I., M.D. K.H.P</Text>
+      <Text>
+        <Honour>M.D. K.H.P</Honour>
+      </Text>
       <PageNumber>2623</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1334,7 +1343,11 @@
     <MainItem>
       <Key>Edwards</Key>
       <Forenames>W. R.</Forenames>
-      <Text>, C.B., C.M.G., M.D., K.H.P</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>2623</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1350,7 +1363,10 @@
     <MainItem>
       <Key>Hehir</Key>
       <Forenames>P.</Forenames>
-      <Text>, C.B., C.M.G., CLE., M.D</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>2623</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1366,7 +1382,10 @@
     <MainItem>
       <Key>Lyons</Key>
       <Forenames>R. W. S.</Forenames>
-      <Text>, M.D..K.H.P</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+        <Honour>K.H.P</Honour>
+      </Text>
       <PageNumber>2623</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1381,7 +1400,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Bannerman</Key>
-      <Text>. W. B., C.S.I., M.D. K.H.P:</Text>
+      <Forenames>W. B.</Forenames>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>2874</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1389,7 +1411,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Burdon</Key>
-      <Text>. H. (actg.)</Text>
+      <Forenames>H.</Forenames>
+      <Text>(actg.)</Text>
       <PageNumber>3025</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1398,7 +1421,10 @@
       <Key>Goodhody</Key>
       <Title>Maj. and Bt. Lt.-Col.</Title>
       <Forenames>C.</Forenames>
-      <Text>(M., CLE., D.S.O. (Bt.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>299</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1406,7 +1432,9 @@
     <MainItem>
       <Key>Macwatt</Key>
       <Forenames>R. C</Forenames>
-      <Text>, CLE., M.B., F.R.C.S</Text>
+      <Text>
+        <Honour>F.R.C.S</Honour>
+      </Text>
       <PageNumber>1537</PageNumber>
     </MainItem>
     <SubItem>
@@ -1418,7 +1446,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Elliot</Key>
-      <Text>. Lt.-Col. W. H. W., D.S.O., M.B. (Hon. Col.)</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>W. H. W.</Forenames>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>88</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1427,7 +1459,9 @@
     <MainItem>
       <Key>Fleming</Key>
       <Forenames>A. M.</Forenames>
-      <Text>, M.B:, F.R.C.S.,</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>3300</PageNumber>
     </MainItem>
   </ItemGroup>

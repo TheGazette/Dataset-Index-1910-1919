@@ -37,7 +37,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Hallas</Key>
-      <Text>°Lt. G. S., M.C. (actg. Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3090</PageNumber>
     </MainItem>
     <SubItem>
@@ -96,7 +98,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Hally</Key>
-      <Text>.Lt. R. N. (date of precedence as actg. Capt.)</Text>
+      <Title>Lt.</Title>
+      <Forenames>R. N.</Forenames>
+      <Text>(date of precedence as actg. Capt.)</Text>
       <PageNumber>3740</PageNumber>
     </MainItem>
     <SubItem>
@@ -284,7 +288,9 @@
       <Key>Hampton</Key>
       <Title>Lt. (actg. Capt.)</Title>
       <Forenames>E. J.</Forenames>
-      <Text>, M.C. (rel. actg. rank)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1183</PageNumber>
     </MainItem>
     <SubItem>
@@ -306,7 +312,10 @@
       <Key>Hanbury-Sparrow</Key>
       <Title>Capt. (actg. Lt.Col.)</Title>
       <Forenames>A. A. H.</Forenames>
-      <Text>, D.S.O., M.C. (to tempy. comd. the Bn.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2279</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -354,7 +363,9 @@
       <Key>Handasyde</Key>
       <Title>2nd Lt.</Title>
       <Forenames>H. K.</Forenames>
-      <Text>, M.C. (Lt. and rem. seed.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2623</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -445,7 +456,9 @@
       <Key>Hannay</Key>
       <Title>2nd Lt.</Title>
       <Forenames>H.</Forenames>
-      <Text>, M.C. (Lt. and rem. seed.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>112</PageNumber>
     </MainItem>
     <SubItem>
@@ -469,7 +482,9 @@
       </Key>
       <Title>Maj. (actg. Lt.-Col.)</Title>
       <Forenames>H. E.</Forenames>
-      <Text>, D.S.O. (date of precedence and retain actg. rank)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>1502</PageNumber>
     </MainItem>
     <SubItem>
@@ -700,7 +715,9 @@
       <PageNumber>1914</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Maj. and Brevet Lt.-Col. J., D.S.O. (actg. Lt.-Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>1932</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -850,7 +867,9 @@
       <PageNumber>3411</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>Lt. (actg. Maj.) E. S., M.C. (date of precedence)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3271</PageNumber>
     </SubItem>
   </ItemGroup>

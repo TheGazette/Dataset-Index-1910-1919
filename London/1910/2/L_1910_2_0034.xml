@@ -99,8 +99,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Blake</Key>
-      <Forenames>A. O</Forenames>
-      <Text>'B. S. (Maj.)</Text>
+      <Forenames>A. O'B</Forenames>
+      <Text>. S. (Maj.)</Text>
       <PageNumber>3638</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -200,17 +200,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Cazenove</Key>
-      <Forenames>R.</Forenames>
-      <Text>de L. (2nd Lieut.)</Text>
+      <Forenames>R. de L</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>3167</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Chadwick</Key>
-      <Title>Maj. and Hon.</Title>
-      <Forenames>Lieut-</Forenames>
-      <Text>Col. E. (retired)</Text>
+      <Title>Maj. and Hon. Lieut-Col.</Title>
+      <Forenames>E.</Forenames>
+      <Text>(retired)</Text>
       <PageNumber>3887</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -367,6 +367,23 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Broke</Key>
+      <Title>Maj. Lord</Title>
+      <Forenames>W.</Forenames>
+      <Text>(resigned)</Text>
+      <PageNumber>3550</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Paravisini</Key>
+      <Forenames>P. C. P.</Forenames>
+      <Text>(Capt.)</Text>
+      <PageNumber>3712</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Dormer</Key>
       <Forenames>C. C.</Forenames>
       <Text>(2nd Lieut.)</Text>
@@ -410,7 +427,9 @@
       <Key>Filmer</Key>
       <Title>Sir</Title>
       <Forenames>R. M.</Forenames>
-      <Text>, Bart. (Capt.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>3638</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -554,8 +573,8 @@
     <MainItem>
       <Key>Harris</Key>
       <Title>Hon.</Title>
-      <Forenames>G. St</Forenames>
-      <Text>. V. (Lieut.)</Text>
+      <Forenames>G. St. V</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>3638</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -964,14 +983,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Ni</Key>
-      <Text>.-ol, R. P. (2nd Lieut.)</Text>
+      <Text>-ol, R. P. (2nd Lieut.)</Text>
       <PageNumber>3167</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, Super. Capt. T. H. (resigned)</Text>
+      <Key>O'Brien</Key>
+      <Title>Super. Capt.</Title>
+      <Forenames>T. H.</Forenames>
+      <Text>(resigned)</Text>
       <PageNumber>4490</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1115,15 +1136,17 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. Hill, G. (Maj.)</Text>
+      <Key>St. Hill</Key>
+      <Forenames>G.</Forenames>
+      <Text>(Maj.)</Text>
       <PageNumber>3887</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. Maur, R. W M. (2nd Lieut.)</Text>
+      <Key>St. Maur</Key>
+      <Forenames>R. W</Forenames>
+      <Text>M. (2nd Lieut.)</Text>
       <PageNumber>2576</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1380,8 +1403,8 @@
     <MainItem>
       <Key>Wheeler</Key>
       <Title>Capt.</Title>
-      <Forenames>S. G.</Forenames>
-      <Text>de O, Adj. of the Dublin University and the Royal College of Surgeons, Ireland, Officers Training Corps</Text>
+      <Forenames>S. G. de O</Forenames>
+      <Text>, Adj. of the Dublin University and the Royal College of Surgeons, Ireland, Officers Training Corps</Text>
       <PageNumber>4493</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1400,7 +1423,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Hon</Key>
-      <Text>. Col. H. H. Maharaja Sri Sir K. Wodiar Bahadur</Text>
+      <Title>Col.</Title>
+      <Forenames>H. H. Maharaja Sri</Forenames>
+      <Text>Sir K. Wodiar Bahadur</Text>
       <PageNumber>4480</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1483,8 +1508,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donoghue, M. E</Text>
+      <Key>O'Donoghue</Key>
+      <Forenames>M. E</Forenames>
       <PageNumber>4385</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1724,8 +1749,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wake</Key>
-      <Forenames>E. St</Forenames>
-      <Text>. A</Text>
+      <Forenames>E. St. A</Forenames>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1739,7 +1763,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Warde</Key>
-      <Text>.H. H. ...</Text>
+      <Forenames>H. H.</Forenames>
+      <Text>...</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1761,8 +1786,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wintle</Key>
-      <Forenames>E.</Forenames>
-      <Text>de V</Text>
+      <Forenames>E. de V</Forenames>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>

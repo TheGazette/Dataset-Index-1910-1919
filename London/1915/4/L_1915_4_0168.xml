@@ -187,7 +187,7 @@
       <PageNumber>10384</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Temp. Capt</Text>
+      <Text>Temp. Capt.</Text>
       <PageNumber>10384</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -748,7 +748,7 @@
       <PageNumber>11216</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Adjt</Text>
+      <Text>Adjt.</Text>
       <PageNumber>12167</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -893,7 +893,7 @@
       <PageNumber>9771</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Temp. Lt</Text>
+      <Text>Temp. Lt.</Text>
       <PageNumber>11297</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1028,7 +1028,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Arrowsmith</Key>
-      <Text>Lt. P. R. (temp. Lt.)</Text>
+      <Title>Lt.</Title>
+      <Forenames>P. R.</Forenames>
+      <Text>(temp. Lt.)</Text>
       <PageNumber>12661</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1047,7 +1049,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>J.</Forenames>
-      <Text>, M.D. (temp. ,Maj.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>12184</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1058,7 +1062,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>J. M.</Forenames>
-      <Text>, D.S.O. (temp. Lt.-Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>11605</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1098,7 +1104,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ashby</Key>
-      <Text>E. C. (2nd Lt.)</Text>
+      <Forenames>E. C.</Forenames>
+      <Text>(2nd Lt.)</Text>
       <PageNumber>10922</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1171,7 +1178,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Ashwell</Key>
-      <Text>Capt. A. L. (temp. Maj.)</Text>
+      <Title>Capt.</Title>
+      <Forenames>A. L.</Forenames>
+      <Text>(temp. Maj.)</Text>
       <PageNumber>9751</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1370,7 +1379,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Atkin</Key>
-      <Text>H. D. (2nd Lt.)</Text>
+      <Forenames>H. D.</Forenames>
+      <Text>(2nd Lt.)</Text>
       <PageNumber>12183</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1385,7 +1395,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Atkinson</Key>
-      <Text>2nd Lt. E. (temp. Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>E.</Forenames>
+      <Text>(temp. Lt.)</Text>
       <PageNumber>12540</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1540,7 +1552,9 @@
     <MainItem>
       <Key>Auden</Key>
       <Forenames>G. A.</Forenames>
-      <Text>, M.D. (Capt.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>10106</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1662,7 +1676,9 @@
     <MainItem>
       <Key>Averill</Key>
       <Title>Lt.</Title>
-      <Text>-Cbl. C, M.D. (temp. Asst. Director of Medical Services, Welsh Division)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>11731</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1733,7 +1749,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>F. S.</Forenames>
-      <Text>(Territorial Decoration)</Text>
+      <Text>
+        <Honour>Territorial De-</Honour>
+      </Text>
       <PageNumber>12335</PageNumber>
     </MainItem>
   </ItemGroup>

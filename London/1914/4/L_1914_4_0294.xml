@@ -136,7 +136,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Young</Key>
-      <Text>. Fred W. (temporaryLieut.-Commander)</Text>
+      <Forenames>Fred W.</Forenames>
+      <Text>(temporaryLieut.-Commander)</Text>
       <PageNumber>9688</PageNumber>
     </MainItem>
     <SubItem>
@@ -166,24 +167,24 @@
   <ItemGroup>
     <MainItem>
       <Key>Edwards</Key>
-      <Title>Lieut.</Title>
-      <Text>-Commander Cyril</Text>
+      <Title>Lieut.-Commander</Title>
+      <Forenames>Cyril</Forenames>
       <PageNumber>10443</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hood</Key>
-      <Title>Lieut.</Title>
-      <Text>-Commander Frederick William</Text>
+      <Title>Lieut.-Commander</Title>
+      <Forenames>Frederick William</Forenames>
       <PageNumber>11135</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Minister</Key>
-      <Title>Lieut.</Title>
-      <Text>-Commander Edward James</Text>
+      <Title>Lieut.-Commander</Title>
+      <Forenames>Edward James</Forenames>
       <PageNumber>9988</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -471,7 +472,9 @@
     <MainItem>
       <Key>Beck</Key>
       <Forenames>A. C. T.</Forenames>
-      <Text>, M.P. (temporary Hon. Lieut.)</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>10186</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -882,7 +885,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bnr</Key>
-      <Text>.ler, Harry (temporary SubLieut.)</Text>
+      <Text>ler, Harry (temporary SubLieut.)</Text>
       <PageNumber>8635</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -953,7 +956,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>John Hume</Forenames>
-      <Text>, Bt. (temporary Lieut. -Commander)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>9131</PageNumber>
     </MainItem>
   </ItemGroup>

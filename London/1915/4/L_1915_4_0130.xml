@@ -116,7 +116,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Pimm</Key>
-      <Text>E. .T. (temn. 2nd T.U iincher, R. C. (2nd Lt. for ser</Text>
+      <Forenames>E.</Forenames>
+      <Text>.T. (temn. 2nd T.U iincher, R. C. (2nd Lt. for ser</Text>
       <PageNumber>11574</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -448,7 +449,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Pittman</Key>
-      <Text>2nd Lt. C. F. (Asst. Equipment Officer)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>C. F.</Forenames>
+      <Text>(Asst. Equipment Officer)</Text>
       <PageNumber>10244</PageNumber>
     </MainItem>
     <SubItem>
@@ -459,7 +462,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Pitts</Key>
-      <Text>Lt. A. G. F. (temp. Lt.)</Text>
+      <Title>Lt.</Title>
+      <Forenames>A. G. F.</Forenames>
+      <Text>(temp. Lt.)</Text>
       <PageNumber>11566</PageNumber>
     </MainItem>
     <SubItem>
@@ -489,21 +494,25 @@
   <ItemGroup>
     <MainItem>
       <Key>Place</Key>
-      <Text>A. D. (temp. Capt.)</Text>
+      <Forenames>A. D.</Forenames>
+      <Text>(temp. Capt.)</Text>
       <PageNumber>12655</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Planck</Key>
-      <Text>O. B. F. (temp. Capll</Text>
+      <Forenames>O. B. F.</Forenames>
+      <Text>(temp. Capll</Text>
       <PageNumber>9991</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Plant</Key>
-      <Text>2nd Lt. P. L. (confirmed)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>P. L.</Forenames>
+      <Text>(confirmed)</Text>
       <PageNumber>12453</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1020,14 +1029,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Poison</Key>
-      <Text>W. F. (temp. 2nd Lt.)</Text>
+      <Forenames>W. F.</Forenames>
+      <Text>(temp. 2nd Lt.)</Text>
       <PageNumber>12177</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Pohl</Key>
-      <Text>F. A. (2nd Lt. for service in the Field)</Text>
+      <Forenames>F. A.</Forenames>
+      <Text>(2nd Lt. for service in the Field)</Text>
       <PageNumber>11031</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1068,7 +1079,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Polkinghorne</Key>
-      <Text>W. T. (temp. Lt.)</Text>
+      <Forenames>W. T.</Forenames>
+      <Text>(temp. Lt.)</Text>
       <PageNumber>9649</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1410,7 +1422,9 @@
       <Key>Poore</Key>
       <Title>Col.</Title>
       <Forenames>R</Forenames>
-      <Text>, M., D.S.O. (temp. Brigadier-Gen. whilst temp. Brigade Commander)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>11482</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1556,7 +1570,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Porri</Key>
-      <Text>(temp.) Lt. C. (Flying Officer, and to be transferred to General List)</Text>
+      <Title>(temp.) Lt.</Title>
+      <Forenames>C.</Forenames>
+      <Text>(Flying Officer, and to be transferred to General List)</Text>
       <PageNumber>12420</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1600,7 +1616,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Porteous</Key>
-      <Text>A. B., M.B. (temp. Lt.)</Text>
+      <Forenames>A. B.</Forenames>
+      <Text>, M.B. (temp. Lt.)</Text>
       <PageNumber>10917</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1680,7 +1697,10 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>G. F.</Forenames>
-      <Text>, M.D., F.R.C.S. (Edin.) (temp. Lt.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>12446</PageNumber>
     </MainItem>
   </ItemGroup>

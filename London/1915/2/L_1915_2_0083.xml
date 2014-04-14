@@ -156,8 +156,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Scott-Scott</Key>
-      <Forenames>W. St</Forenames>
-      <Text>. J. (temporary Lieut, whilst serving with Reserve Regiments of Cavalry)</Text>
+      <Forenames>W. St. J</Forenames>
+      <Text>. (temporary Lieut, whilst serving with Reserve Regiments of Cavalry)</Text>
       <PageNumber>6154</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -292,7 +292,9 @@
       <Key>Bass</Key>
       <Title>Lieut. Sir</Title>
       <Forenames>W. A. H.</Forenames>
-      <Text>, Bt. '(temporary Capt. whilst serving with Reserve Regiments of Cavalry)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>5480</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -310,7 +312,9 @@
       <Key>Laming</Key>
       <Title>Maj.</Title>
       <Forenames>H. T.</Forenames>
-      <Text>, D.S.O. (to be Second in Command)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5480</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -378,9 +382,10 @@
   <SectionTitle>14th Reserve Regiment</SectionTitle>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Groot</Forenames>
-      <Text>, 2nd Lieut. F. E. (temporary Lieut, whilst serving with the Regiment)</Text>
+      <Key>De Groot</Key>
+      <Title>2nd Lieut.</Title>
+      <Forenames>F. E.</Forenames>
+      <Text>(temporary Lieut, whilst serving with the Regiment)</Text>
       <PageNumber>3563</PageNumber>
     </MainItem>
     <SubItem>
@@ -437,8 +442,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cole</Key>
-      <Forenames>Aubrey</Forenames>
-      <Text>du Plat Thorold (temporary CapV)</Text>
+      <Forenames>Aubrey du Plat Thorold</Forenames>
+      <Text>(temporary CapV)</Text>
       <PageNumber>5090</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -574,7 +579,9 @@
       <Key>Ponsonby</Key>
       <Title>(temporary) Capt.</Title>
       <Forenames>Wil-</Forenames>
-      <Text>liam R., D.S.O. (relinquishes his commission)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4634</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -692,7 +699,9 @@
       <Key>Butler</Key>
       <Title>Sir</Title>
       <Forenames>R. P.</Forenames>
-      <Text>, Bt. (temporary Maj. whilst' commanding a Remount Squadron)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>5965</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -11,8 +11,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Nicholson</Key>
-      <Title>St.</Title>
-      <Forenames>J. R.</Forenames>
+      <Title>St. J.</Title>
+      <Forenames>R.</Forenames>
       <Text>(Capt.)</Text>
       <PageNumber>9994</PageNumber>
     </MainItem>
@@ -77,8 +77,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Reilly-Blackwood, E. H. (Capt.)</Text>
+      <Key>O'Reilly-Blackwood</Key>
+      <Forenames>E. H.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>9994</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -117,8 +118,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Orde-Brown</Key>
-      <Forenames>G. St</Forenames>
-      <Text>. J. (Capt.)</Text>
+      <Forenames>G. St. J</Forenames>
+      <Text>. (Capt.)</Text>
       <PageNumber>9994</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -878,8 +879,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Roofe</Key>
-      <Forenames>Clement A.</Forenames>
-      <Text>de F. (temporary Lieut.)</Text>
+      <Forenames>Clement A. de F</Forenames>
+      <Text>. (temporary Lieut.)</Text>
       <PageNumber>8390</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1043,7 +1044,9 @@
     <MainItem>
       <Key>Rynd</Key>
       <Forenames>F. F.</Forenames>
-      <Text>, D.S.O. (Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>9993</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1319,8 +1322,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Simonds</Key>
-      <Forenames>J.</Forenames>
-      <Text>de L. (Capt.)</Text>
+      <Forenames>J. de L</Forenames>
+      <Text>. (Capt.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1404,7 +1407,9 @@
     <MainItem>
       <Key>Smallwood</Key>
       <Forenames>F. G.</Forenames>
-      <Text>, C.V.O. (Lieut.Col.)</Text>
+      <Text>
+        <Honour>C.V.O.</Honour>
+      </Text>
       <PageNumber>9992</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -535,6 +535,23 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Rossiter</Key>
+      <Forenames>W. W.</Forenames>
+      <Text>(temp. Lt.)</Text>
+      <PageNumber>12178</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Salis</Key>
+      <Title>Maj.</Title>
+      <Forenames>C. F.</Forenames>
+      <Text>(to command the Battalion, and to be temp. Lt.-Col.)</Text>
+      <PageNumber>9768</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Denholm</Key>
       <Forenames>A.</Forenames>
       <Text>(temp. Lt.)</Text>
@@ -569,7 +586,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Docherty</Key>
-      <Text>Lt. M. (temp. Capt.)</Text>
+      <Title>Lt.</Title>
+      <Forenames>M.</Forenames>
+      <Text>(temp. Capt.)</Text>
       <PageNumber>12998</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1233,14 +1252,19 @@
       <Key>Hawse</Key>
       <Title>Col.</Title>
       <Forenames>N. R.</Forenames>
-      <Text>, V.C., C.B. (temp. Surgeons-Gen.)</Text>
+      <Text>
+        <Honour>V.C.</Honour>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>12199</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hunt</Key>
-      <Text>Capt. D. R. (temp. Maj.)</Text>
+      <Title>Capt.</Title>
+      <Forenames>D. R.</Forenames>
+      <Text>(temp. Maj.)</Text>
       <PageNumber>12569</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1263,7 +1287,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Irvine</Key>
-      <Text>J. (temp. 2nd Lt.)</Text>
+      <Forenames>J.</Forenames>
+      <Text>(temp. 2nd Lt.)</Text>
       <PageNumber>13013</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1363,7 +1388,9 @@
       <Key>King</Key>
       <Title>Maj.</Title>
       <Forenames>W. B. M.</Forenames>
-      <Text>, D.S.O. (temp. Lt.-Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>9876</PageNumber>
     </MainItem>
     <SubItem>
@@ -1432,7 +1459,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Lawlor</Key>
-      <Text>Lt. E. J. {temp. Lt.)</Text>
+      <Title>Lt.</Title>
+      <Forenames>E. J.</Forenames>
+      <Text>{temp. Lt.)</Text>
       <PageNumber>10512</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1680,7 +1709,9 @@
       <Key>Macphersom</Key>
       <Title>Capt.</Title>
       <Forenames>Cluny</Forenames>
-      <Text>, M.D. (temp. Maj.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>11569</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1724,7 +1755,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Malcolm</Key>
-      <Text>Capt. L. W. (temp. Maj.)</Text>
+      <Title>Capt.</Title>
+      <Forenames>L. W.</Forenames>
+      <Text>(temp. Maj.)</Text>
       <PageNumber>11600</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1805,7 +1838,9 @@
     <MainItem>
       <Key>Mitchell</Key>
       <Forenames>W. W.</Forenames>
-      <Text>(temp. Lt.) ... Morison. Capt. F., D.S.O. (temp</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>10880</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1819,7 +1854,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Muffins</Key>
-      <Text>Lt. A. G. (temp. Lt.)</Text>
+      <Title>Lt.</Title>
+      <Forenames>A. G.</Forenames>
+      <Text>(temp. Lt.)</Text>
       <PageNumber>13013</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1834,7 +1871,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Murray</Key>
-      <Text>H. G. (temp. Lt</Text>
+      <Forenames>H. G.</Forenames>
+      <Text>(temp. Lt</Text>
       <PageNumber>10921</PageNumber>
     </MainItem>
   </ItemGroup>

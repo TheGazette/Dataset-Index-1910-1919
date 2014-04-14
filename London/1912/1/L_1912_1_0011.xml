@@ -47,8 +47,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tavistock</Key>
-      <Title>St.</Title>
-      <Forenames>Paul</Forenames>
+      <Forenames>St. Paul</Forenames>
       <Text>, &amp;c., transfer of. patronage ... ... -</Text>
       <PageNumber>535</PageNumber>
     </MainItem>
@@ -92,7 +91,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tower</Key>
-      <Forenames>The</Forenames>
+      <Title>The</Title>
       <Text>, notice of meeting to appoint Commissioners of Income' .Tax -...-' ....' .' '...-'</Text>
       <PageNumber>2124</PageNumber>
     </MainItem>
@@ -125,7 +124,9 @@
       <PageNumber>1557</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Rankin, Sir j., Bart. ... ...</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </SubItem>
     <SubItem>
@@ -278,8 +279,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wednesbury</Key>
-      <Title>St.</Title>
-      <Forenames>Paul</Forenames>
+      <Forenames>St. Paul</Forenames>
       <Text>, Wood Green,' Order in Council,boundaries</Text>
       <PageNumber>1654</PageNumber>
     </MainItem>
@@ -418,8 +418,7 @@
       <Key>
         <KeyDitto>___ ___ .</KeyDitto>
       </Key>
-      <Title>St.</Title>
-      <Forenames>Barnabas</Forenames>
+      <Forenames>St. Barnabas</Forenames>
       <Text>, Order in Council, district chapelry</Text>
       <PageNumber>1653</PageNumber>
     </MainItem>
@@ -501,7 +500,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Mansell-Pleydell</Key>
-      <Text>Rev. J.' CM. ,' appointed to a 'Prebendal Stall in Salisbury Cathedral</Text>
+      <Title>Rev.</Title>
+      <Forenames>J.</Forenames>
+      <Text>' CM. ,' appointed to a 'Prebendal Stall in Salisbury Cathedral</Text>
       <PageNumber>972</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -535,14 +536,18 @@
     <MainItem>
       <Key>Abbot-Anderson</Key>
       <Forenames>W. M.</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>1746</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Ahmed</Key>
-      <Text>.. Capt... A., Fifth Class Royal Victorian Order .... .-.,</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>1049</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -558,7 +563,9 @@
     <MainItem>
       <Key>Albu</Key>
       <Title>Sir</Title>
-      <Text>&amp;., created a Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>1913</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -566,7 +573,9 @@
     <MainItem>
       <Key>Allen</Key>
       <Title>Fleet.</Title>
-      <Text>' Paymaster B.C„ Fourth Class,: Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>1048</PageNumber>
     </MainItem>
   </ItemGroup>

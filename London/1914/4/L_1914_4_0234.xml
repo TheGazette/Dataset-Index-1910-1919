@@ -11,8 +11,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hewdns</Key>
-      <Forenames>Victor St</Forenames>
-      <Text>. George (2nd</Text>
+      <Forenames>Victor St. George</Forenames>
+      <Text>(2nd</Text>
       <PageNumber>9276</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -687,7 +687,9 @@
       <Key>Waldie-Griffith</Key>
       <Title>Lieut.-Col. and Hon. Col. Sir</Title>
       <Forenames>Richard J.</Forenames>
-      <Text>, Bt. (correction of date)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>8051</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -799,7 +801,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>Robert Gilbert White</Forenames>
-      <Text>, Bt. (Capt.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -816,7 +820,10 @@
       <Key>Laurie</Key>
       <Title>Hon. Col.</Title>
       <Forenames>Claude V. E.</Forenames>
-      <Text>, C.B., D.S.O. (Lieut.-Col.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8867</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -898,7 +905,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Scot</Key>
-      <Text>.t-EUiot, George Francis (temporary Lieut.)</Text>
+      <Text>t-EUiot, George Francis (temporary Lieut.)</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>

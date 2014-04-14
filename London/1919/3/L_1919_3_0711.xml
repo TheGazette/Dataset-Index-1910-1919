@@ -21,7 +21,7 @@
       <PageNumber>9258</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Lt., without pay and allces</Text>
+      <Text>Lt., without pay and allces.</Text>
       <PageNumber>9595</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -47,7 +47,9 @@
       <Key>Noonan</Key>
       <Title>Lt. (T.)</Title>
       <Forenames>J.</Forenames>
-      <Text>, D.S.M. (granted perm, commn.)</Text>
+      <Text>
+        <Honour>D.S.M.</Honour>
+      </Text>
       <PageNumber>9871</PageNumber>
     </MainItem>
     <SubItem>
@@ -180,7 +182,7 @@
       <PageNumber>11922</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Granted perm, commn</Text>
+      <Text>Granted perm, commn.</Text>
       <PageNumber>9870</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -228,7 +230,7 @@
       <PageNumber>8605</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Kel. commn., and retains rank .;</Text>
+      <Text>Kel. commn., and retains rank .;.</Text>
       <PageNumber>8605</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -390,8 +392,8 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Title>Lt.</Title>
-      <Forenames>F. St</Forenames>
-      <Text>. J. (itrd. Ito unempld. list)</Text>
+      <Forenames>F. St. J</Forenames>
+      <Text>. (itrd. Ito unempld. list)</Text>
       <PageNumber>9592</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -511,7 +513,7 @@
       <PageNumber>8605</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Red. commn. and retains rank ... ... .:</Text>
+      <Text>Red. commn. and retains rank ... ... .:.</Text>
       <PageNumber>8605</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -522,7 +524,9 @@
       </Key>
       <Title>Maj. (A.)</Title>
       <Forenames>E. W.</Forenames>
-      <Text>, D.S.C. (granited perm, comma,)</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>9866</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -533,7 +537,10 @@
       </Key>
       <Title>Lt. (A.)</Title>
       <Forenames>J. H.</Forenames>
-      <Text>, M.C., D.F.C. (granted perm. commn.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>9868</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -739,7 +746,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Nuttall</Key>
-      <Text>Cadet 'A.' (Hon. 2nd Lt.)</Text>
+      <Title>Cadet</Title>
+      <Text>'A.' (Hon. 2nd Lt.)</Text>
       <PageNumber>9877</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -760,7 +768,9 @@
         <KeyDitto>—___ ___</KeyDitto>
       </Key>
       <Title>Oapit.</Title>
-      <Text>i(A.) F., M.C. (granted perm, commn.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9867</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -844,8 +854,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, Maj. .A. K. H. (tod. to</Text>
+      <Key>O'Brien</Key>
+      <Title>Maj.</Title>
+      <Text>.A. K. H. (tod. to</Text>
       <PageNumber>10895</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -904,8 +915,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien Saint, 2nd Lt. J. T. (trd;</Text>
+      <Key>O'Brien</Key>
+      <Forenames>Saint</Forenames>
+      <Text>, 2nd Lt. J. T. (trd;</Text>
       <PageNumber>8393</PageNumber>
     </MainItem>
     <SubItem>
@@ -917,15 +929,17 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Callaghan, Cade* C. L. (Hon. 2nd Lt.)</Text>
+      <Key>O'Callaghan</Key>
+      <Forenames>Cade</Forenames>
+      <Text>* C. L. (Hon. 2nd Lt.)</Text>
       <PageNumber>11250</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Oarroll, Overseas Cadet E. J. (temp. 2nd Lt.) Sub. Not</Text>
+      <Key>O'Oarroll</Key>
+      <Forenames>Overseas</Forenames>
+      <Text>Cadet E. J. (temp. 2nd Lt.) Sub. Not</Text>
       <PageNumber>8605</PageNumber>
     </MainItem>
     <SubItem>
@@ -935,8 +949,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connell, Overseas Cadet E. R. (temp. 2nd Lt.)</Text>
+      <Key>O'Connell</Key>
+      <Forenames>Overseas</Forenames>
+      <Text>Cadet E. R. (temp. 2nd Lt.)</Text>
       <PageNumber>8605</PageNumber>
     </MainItem>
     <SubItem>
@@ -955,8 +970,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Conner, Lt. O. (trd. to unempld. list)</Text>
+      <Key>O'Conner</Key>
+      <Title>Lt.</Title>
+      <Forenames>O.</Forenames>
+      <Text>(trd. to unempld. list)</Text>
       <PageNumber>11803</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -976,8 +993,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connern, Overseas Cadet J. H. (temp. 2nd Lt.), Sub. Not</Text>
+      <Key>O'Connern</Key>
+      <Forenames>Overseas</Forenames>
+      <Text>Cadet J. H. (temp. 2nd Lt.), Sub. Not</Text>
       <PageNumber>8605</PageNumber>
     </MainItem>
     <SubItem>
@@ -1053,8 +1071,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Dennell, Cadet C. A. (Hon. 2nd Lt.)</Text>
+      <Key>O'Dennell</Key>
+      <Title>Cadet</Title>
+      <Forenames>C. A.</Forenames>
+      <Text>(Hon. 2nd Lt.)</Text>
       <PageNumber>9432</PageNumber>
     </MainItem>
     <SubItem>
@@ -1064,8 +1084,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Dwyer, Lt. (Hon. Capt. J. E. A. (rel. commn. on ceasing to be empld.)</Text>
+      <Key>O'Dwyer</Key>
+      <Title>Lt.</Title>
+      <Text>(Hon. Capt. J. E. A. (rel. commn. on ceasing to be empld.)</Text>
       <PageNumber>9430</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1109,8 +1130,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Farrell, Maj. (A.) E. H. M. (granted perm, commn.)</Text>
+      <Key>O'Farrell</Key>
+      <Title>Maj. (A.)</Title>
+      <Forenames>E. H. M.</Forenames>
+      <Text>(granted perm, commn.)</Text>
       <PageNumber>9865</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1151,8 +1174,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Flaherty, Lt. D. D. (tod. to uhempld. list)</Text>
+      <Key>O'Flaherty</Key>
+      <Title>Lt.</Title>
+      <Forenames>D. D.</Forenames>
+      <Text>(tod. to uhempld. list)</Text>
       <PageNumber>9139</PageNumber>
     </MainItem>
   </ItemGroup>

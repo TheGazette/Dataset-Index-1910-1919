@@ -296,11 +296,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Westminster</Key>
-      <Text>'Maj,. H. E. A. the Duke of, G.C.V.O., D.S.O. (Hon. Col.)</Text>
+      <Text>
+        <Honour>G.C.V.O.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5151</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Restd. to estab</Text>
+      <Text>Restd. to estab.</Text>
       <PageNumber>5336</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -334,7 +337,9 @@
       <PageNumber>4054</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Lt.-Col. (temp,) P. , T., iC.M.G., D.S.O. (Lt.-Col. and 'rem. seed.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5843</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -463,7 +468,9 @@
       <Key>Wiharrier</Key>
       <Title>2nd Lt.</Title>
       <Forenames>E. H.</Forenames>
-      <Text>, M.C. (actg. Capt.) ... ' iWharry, 2nd Lt. J. L. (acbg. Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5861</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -496,7 +503,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>J.</Forenames>
-      <Text>, M.D. (seed.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>6283</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -683,7 +692,9 @@
       <Key>Whicker</Key>
       <Title>Sjt.</Title>
       <Forenames>H. C.</Forenames>
-      <Text>(2nd lit.) Whidborne, 2nd Lt. (temp. Lt.) (adtg. Capt., E.A.) B. S., M.C. (Li. and retain acting rank of</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4623</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -834,7 +845,9 @@
       </Key>
       <Title>2nd Lt.</Title>
       <Forenames>V.</Forenames>
-      <Text>, M.C. (lit.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5860</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -863,7 +876,9 @@
       </Key>
       <Title>Capt. (afetg. Maj.) Sir</Title>
       <Forenames>A. W.</Forenames>
-      <Text>, Bart. (Maj. and rem. seed.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>5084</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -940,7 +955,7 @@
       <PageNumber>3586</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Announcement .cancelled 407</Text>
+      <Text>Announcement .cancelled 407.</Text>
       <PageNumber>1</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1248,7 +1263,7 @@
       <PageNumber>4793</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>Reverts to 2nd Lt., Sub. Not</Text>
+      <Text>Reverts to 2nd Lt., Sub. Not.</Text>
       <PageNumber>4793</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1416,7 +1431,7 @@
       <PageNumber>3302</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Lt</Text>
+      <Text>Lt.</Text>
       <PageNumber>4325</PageNumber>
     </SubItem>
   </ItemGroup>

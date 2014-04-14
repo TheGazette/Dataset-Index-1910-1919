@@ -68,8 +68,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Thwaites</Key>
-      <Forenames>W. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>W. St. C</Forenames>
       <PageNumber>11364</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -265,7 +264,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Cowan</Key>
-      <Text>Capt. (Commodore, II. Class) Walter H., O.B., M.V.O., D.S.O</Text>
+      <Title>Capt. (Commodore, II. Class)</Title>
+      <Forenames>Walter H.</Forenames>
+      <Text>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>12017</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -274,7 +277,9 @@
       <Key>Learmonth</Key>
       <Title>Capt.</Title>
       <Forenames>F. C</Forenames>
-      <Text>, C.B</Text>
+      <Text>
+        <Honour>C.B</Honour>
+      </Text>
       <PageNumber>10177</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -301,7 +306,9 @@
       <Key>Bayly</Key>
       <Title>Sir</Title>
       <Forenames>L.</Forenames>
-      <Text>, K.C.B., K.CV.O</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+      </Text>
       <PageNumber>11474</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -309,7 +316,9 @@
     <MainItem>
       <Key>Farqtihar</Key>
       <Forenames>R. B.</Forenames>
-      <Text>, C.B</Text>
+      <Text>
+        <Honour>C.B</Honour>
+      </Text>
       <PageNumber>10604</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -319,23 +328,43 @@
       <Key>Carden</Key>
       <Title>Sir</Title>
       <Forenames>S. H.</Forenames>
-      <Text>, K.C.M.G</Text>
+      <Text>
+        <Honour>K.C.M.G</Honour>
+      </Text>
       <PageNumber>11474</PageNumber>
     </MainItem>
   </ItemGroup>
   <SubSectionTitle>Viae-Admirals</SubSectionTitle>
   <ItemGroup>
     <MainItem>
+      <Key>de Chair</Key>
+      <Title>Sir</Title>
+      <Forenames>D. R. S.</Forenames>
+      <Text>
+        <Honour>K.C.B.</Honour>
+        <Honour>M.V.O</Honour>
+      </Text>
+      <PageNumber>10605</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Nicholson</Key>
       <Forenames>S.</Forenames>
-      <Text>; CB., M.V.O</Text>
+      <Text>
+        <Honour>CB</Honour>
+        <Honour>M.V.O</Honour>
+      </Text>
       <PageNumber>10504</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>TodoryF</Key>
-      <Text>C. T., CB</Text>
+      <Forenames>C. T.</Forenames>
+      <Text>
+        <Honour>CB</Honour>
+      </Text>
       <PageNumber>11474</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -344,7 +373,10 @@
     <MainItem>
       <Key>Campbell</Key>
       <Forenames>H. H.</Forenames>
-      <Text>, C.B., C.V.O</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.V.O</Honour>
+      </Text>
       <PageNumber>11474</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -384,7 +416,10 @@
     <MainItem>
       <Key>Ley</Key>
       <Forenames>J</Forenames>
-      <Text>: C, C.V.O., A.D.C</Text>
+      <Text>
+        <Honour>C.V.O.</Honour>
+        <Honour>A.D.C</Honour>
+      </Text>
       <PageNumber>10605</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -408,7 +443,9 @@
     <MainItem>
       <Key>Anstey</Key>
       <Forenames>W. J.</Forenames>
-      <Text>, C.B</Text>
+      <Text>
+        <Honour>C.B</Honour>
+      </Text>
       <PageNumber>11047</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -440,7 +477,9 @@
     <MainItem>
       <Key>Turner</Key>
       <Forenames>A. W.</Forenames>
-      <Text>, CB</Text>
+      <Text>
+        <Honour>CB</Honour>
+      </Text>
       <PageNumber>11361</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -456,8 +495,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brooker</Key>
-      <Forenames>F. G. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>F. G. St. G</Forenames>
       <PageNumber>12356</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -767,7 +805,9 @@
     <MainItem>
       <Key>Harden</Key>
       <Forenames>G. E.</Forenames>
-      <Text>, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>12686</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -782,7 +822,9 @@
     <MainItem>
       <Key>Holbrook</Key>
       <Forenames>N. D.</Forenames>
-      <Text>, V.C ..:</Text>
+      <Text>
+        <Honour>V.C</Honour>
+      </Text>
       <PageNumber>10295</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -847,7 +889,9 @@
     <MainItem>
       <Key>Mocatto</Key>
       <Forenames>J. E. A.</Forenames>
-      <Text>, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>10295</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -883,7 +927,9 @@
     <MainItem>
       <Key>Priestley</Key>
       <Forenames>E. O.</Forenames>
-      <Text>, D.S.C</Text>
+      <Text>
+        <Honour>D.S.C</Honour>
+      </Text>
       <PageNumber>10762</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -892,6 +938,13 @@
       <Key>Stanistreet</Key>
       <Forenames>H. D. C.</Forenames>
       <PageNumber>11851</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Syfret</Key>
+      <Forenames>E. N.</Forenames>
+      <PageNumber>12686</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -905,7 +958,9 @@
     <MainItem>
       <Key>Tower</Key>
       <Forenames>I. B. B.</Forenames>
-      <Text>, D.S.C</Text>
+      <Text>
+        <Honour>D.S.C</Honour>
+      </Text>
       <PageNumber>12686</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -940,6 +995,13 @@
     </MainItem>
   </ItemGroup>
   <SubSubSectionTitle>Retired List</SubSubSectionTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Halpert</Key>
+      <Forenames>R. V</Forenames>
+      <PageNumber>10295</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hall</Key>
@@ -979,7 +1041,9 @@
     <MainItem>
       <Key>Titheridge</Key>
       <Forenames>B.</Forenames>
-      <Text>, M.V.O</Text>
+      <Text>
+        <Honour>M.V.O</Honour>
+      </Text>
       <PageNumber>10505</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1136,7 +1200,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Naylor</Key>
-      <Text>IC, D.S.O., D.S.C</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>10504</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1242,13 +1308,5 @@
     </MainItem>
   </ItemGroup>
   <SubSubSectionTitle>Retired List</SubSubSectionTitle>
-  <ItemGroup>
-    <MainItem>
-      <Key>Nieholls</Key>
-      <Text>A.</Text>
-      <PageNumber>___ ___ ___ ___</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <KeyDitto>___ ___ ___ ___</KeyDitto>
 </Index>
 

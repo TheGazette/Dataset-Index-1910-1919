@@ -455,6 +455,15 @@
     </MainItem>
   </ItemGroup>
   <SubSubSectionTitle>Retired List</SubSubSectionTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Vitre</Key>
+      <Title>The Rev.</Title>
+      <Forenames>J. D. D.</Forenames>
+      <Text>, M.A</Text>
+      <PageNumber>2158</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <SubSectionTitle>Withdrawal</SubSectionTitle>
   <ItemGroup>
     <MainItem>
@@ -504,7 +513,9 @@
     <MainItem>
       <Key>Day</Key>
       <Forenames>H. A.</Forenames>
-      <Text>, M.C. (Capt. and Qrmr.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1799</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -572,7 +583,9 @@
       <Key>Bell</Key>
       <Title>temp. Qrmr. and Lt.</Title>
       <Forenames>R.</Forenames>
-      <Text>, D.S.M. (granted rank, .of Capt. from date of being placed on retd.list)</Text>
+      <Text>
+        <Honour>D.S.M.</Honour>
+      </Text>
       <PageNumber>3632</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -613,7 +626,9 @@
       <Key>Buckley</Key>
       <Title>temp. Lt. (actg. Capt.)</Title>
       <Forenames>T.</Forenames>
-      <Text>, M.C. (actg. Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1960</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -812,7 +827,10 @@
     <MainItem>
       <Key>Gowney</Key>
       <Forenames>D. J.</Forenames>
-      <Text>, D.S.C., D.C.M. (Maj. for services in the Field)</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>516</PageNumber>
     </MainItem>
     <SubItem>
@@ -832,7 +850,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Grover</Key>
-      <Text>.Lt. G.W.M. (Capt.)</Text>
+      <Title>Lt.</Title>
+      <Forenames>G.W.M.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>3754</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -912,7 +932,9 @@
       <Key>Hollingsworth</Key>
       <Title>temp. Lt.</Title>
       <Forenames>J. J.</Forenames>
-      <Text>, D.S.C. (rel. actg. rank of Capt. on ceasing to be empld. with R.M.A. Siege Guns)</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>515</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -921,7 +943,9 @@
       <Key>How</Key>
       <Title>temp. Lt.</Title>
       <Forenames>F. C.</Forenames>
-      <Text>(seed, for duty withM.G.C.)</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>3754</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1150,14 +1174,17 @@
       <Key>Russell</Key>
       <Title>temp. Lt. (actg. Capt.)</Title>
       <Forenames>W.</Forenames>
-      <Text>, M.O., D.C.M. (rel. actg. rank)</Text>
+      <Text>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>1797</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>. Clair-Morford, Capt. A. C. (returns to Corps duty from seed, list and absorbed in estabt.)</Text>
+      <Forenames>Clair-Morford</Forenames>
+      <Text>, Capt. A. C. (returns to Corps duty from seed, list and absorbed in estabt.)</Text>
       <PageNumber>1798</PageNumber>
     </MainItem>
   </ItemGroup>

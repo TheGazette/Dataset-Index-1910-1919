@@ -153,8 +153,8 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Title>temp. Lt.</Title>
-      <Forenames>P. R. O</Forenames>
-      <Text>'R. (temp. Capt.)</Text>
+      <Forenames>P. R. O'R</Forenames>
+      <Text>. (temp. Capt.)</Text>
       <PageNumber>6924</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -220,7 +220,9 @@
       </Key>
       <Title>temp. Capt.</Title>
       <Forenames>R. F.</Forenames>
-      <Text>, M.C. (trd.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9234</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -290,7 +292,10 @@
       </Key>
       <Title>Lt.-Col.</Title>
       <Forenames>S. P.</Forenames>
-      <Text>, M.D. (Bt. Col.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>8105</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -457,7 +462,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Philpot</Key>
-      <Text>temp. 2nd Lt. A. H. (temp. Lt.) '</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>A. H.</Forenames>
+      <Text>(temp. Lt.) '</Text>
       <PageNumber>7195</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -540,7 +547,9 @@
       </Key>
       <Title>Lt. (actg. Capt.)</Title>
       <Forenames>C. J.</Forenames>
-      <Text>, M.C. (actg. Maj.) Sub. Not</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7598</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -577,7 +586,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>2nd Lt, H. R., M.C. (Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8631</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -757,7 +768,9 @@
       <Key>Pickering</Key>
       <Title>Capt.</Title>
       <Forenames>A. C</Forenames>
-      <Text>, M.C. (rel. actg! rank of Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7780</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -848,7 +861,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Picktord</Key>
-      <Text>Cadet E. W. (temp. 2nd Lt, on prob.)</Text>
+      <Title>Cadet</Title>
+      <Forenames>E. W.</Forenames>
+      <Text>(temp. 2nd Lt, on prob.)</Text>
       <PageNumber>9426</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -927,7 +942,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Pickthall</Key>
-      <Text>2nd Lt. (actg. Maj.) P. J. T. (Lt. and retain actg. rank!</Text>
+      <Title>2nd Lt. (actg. Maj.)</Title>
+      <Forenames>P. J. T.</Forenames>
+      <Text>(Lt. and retain actg. rank!</Text>
       <PageNumber>7596</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1012,7 +1029,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Picot</Key>
-      <Text>Cadet M. H. (temp. 2nd Lt. onprob.) .. '</Text>
+      <Title>Cadet</Title>
+      <Forenames>M. H.</Forenames>
+      <Text>(temp. 2nd Lt. onprob.) .. '</Text>
       <PageNumber>9425</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1065,7 +1084,9 @@
       </Key>
       <Title>2nd Lt.</Title>
       <Forenames>E. J.</Forenames>
-      <Text>(Workshop Offr., M.G.C.)</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>6980</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1191,7 +1212,9 @@
       <Key>Pierson</Key>
       <Title>Lt.</Title>
       <Forenames>J. E. M.</Forenames>
-      <Text>, M.C. (actg. Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8631</PageNumber>
     </MainItem>
     <SubItem>
@@ -1350,8 +1373,10 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Title>Lt.</Title>
-      <Forenames>J. P. St</Forenames>
-      <Text>. J., M.C. (temp. Capt.)</Text>
+      <Forenames>J. P. St. J</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8543</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1432,7 +1457,10 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Title>Lt.-Col. and Bfc.</Title>
-      <Text>-Col. E. M., D.S.O., M.B., F.R.C.S. (temp. Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>6526</PageNumber>
     </MainItem>
   </ItemGroup>

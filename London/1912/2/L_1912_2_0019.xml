@@ -24,7 +24,9 @@
       <Key>Abercromby</Key>
       <Title>Lieut. Sir</Title>
       <Forenames>G. W</Forenames>
-      <Text>Bart, (resigned)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>3478</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -298,7 +300,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Marshall</Key>
-      <Text>. Lieut. C. C. (seconded)</Text>
+      <Title>Lieut.</Title>
+      <Forenames>C. C.</Forenames>
+      <Text>(seconded)</Text>
       <PageNumber>4133</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -349,7 +353,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Moore</Key>
-      <Text>. C. D. H. (Capt.)</Text>
+      <Forenames>C. D. H.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>4569</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -595,8 +600,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Flynn, Lieut. D. R. C. D. (seconded)</Text>
+      <Key>O'Flynn</Key>
+      <Title>Lieut.</Title>
+      <Forenames>D. R. C. D.</Forenames>
+      <Text>(seconded)</Text>
       <PageNumber>2987</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -648,9 +655,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Daunt</Key>
-      <Forenames>W. J. O</Forenames>
-      <Text>'B. (Capt.)</Text>
+      <Forenames>W. J. O'B</Forenames>
+      <Text>. (Capt.)</Text>
       <PageNumber>2585</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Grey</Key>
+      <Forenames>G.</Forenames>
+      <Text>(Lieut.)</Text>
+      <PageNumber>2895</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -682,7 +697,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Cumberland</Key>
-      <Text>. Maj. R. O. (retired)</Text>
+      <Title>Maj.</Title>
+      <Forenames>R. O.</Forenames>
+      <Text>(retired)</Text>
       <PageNumber>3478</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -936,7 +953,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bennett</Key>
-      <Text>. J. E. (Lieut.)</Text>
+      <Forenames>J. E.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>2585</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1145,7 +1163,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hodgson</Key>
-      <Text>. H. J. (Lieut.)</Text>
+      <Forenames>H. J.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>4038</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -11,7 +11,9 @@
   <ItemGroup>
     <MainItem>
       <Key>RialL</Key>
-      <Text>.Capt. Claude P. B. (Adjt.)</Text>
+      <Title>Capt.</Title>
+      <Forenames>Claude P. B.</Forenames>
+      <Text>(Adjt.)</Text>
       <PageNumber>7572</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -86,7 +88,9 @@
       <Key>Martin</Key>
       <Title>Brevet Col.</Title>
       <Forenames>Herbert</Forenames>
-      <Text>, C.B. (to command 7th Bat.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>7664</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -511,8 +515,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Blakeney</Key>
-      <Forenames>Leslie St</Forenames>
-      <Text>. L. (Lieut., to remain seconded)</Text>
+      <Forenames>Leslie St. L</Forenames>
+      <Text>. (Lieut., to remain seconded)</Text>
       <PageNumber>6404</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -520,7 +524,10 @@
     <MainItem>
       <Key>Blomfield</Key>
       <Forenames>Charles James</Forenames>
-      <Text>, C.B., D.S.O. (Col.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5556</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -616,7 +623,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Kirkby</Key>
-      <Text>. Capt. Harold A. (seconded as Adjt. Terr. Force)</Text>
+      <Title>Capt.</Title>
+      <Forenames>Harold A.</Forenames>
+      <Text>(seconded as Adjt. Terr. Force)</Text>
       <PageNumber>6073</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -804,7 +813,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hester</Key>
-      <Text>. Henry Thomas (Qrmr. and Hon. Lieut.)</Text>
+      <Forenames>Henry Thomas</Forenames>
+      <Text>(Qrmr. and Hon. Lieut.)</Text>
       <PageNumber>6780</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -864,7 +874,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Traill</Key>
-      <Text>. Thomas B. (Capt.)</Text>
+      <Forenames>Thomas B.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>5556</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -872,7 +883,10 @@
     <MainItem>
       <Key>Trenchard</Key>
       <Forenames>Hugh M.</Forenames>
-      <Text>, C.B., D.S.O. (Major)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6780</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -915,15 +929,17 @@
       <Key>Harkness</Key>
       <Title>Brevet Col.</Title>
       <Forenames>Henry</Forenames>
-      <Text>DA., C.B. (to command 9th Bat.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>7664</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hartford</Key>
-      <Forenames>Hugh I. St</Forenames>
-      <Text>. J. (Capt.)</Text>
+      <Forenames>Hugh I. St. J</Forenames>
+      <Text>. (Capt.)</Text>
       <PageNumber>7773</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1172,7 +1188,10 @@
       <Key>McMahon</Key>
       <Title>Major Sir</Title>
       <Forenames>Horace W.</Forenames>
-      <Text>, Bt., D.S.O. (to command 9th Bat. and temporary Lieut.-Col.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7664</PageNumber>
     </MainItem>
   </ItemGroup>

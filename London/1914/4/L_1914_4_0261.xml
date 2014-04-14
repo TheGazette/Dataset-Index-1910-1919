@@ -752,8 +752,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cross</Key>
-      <Title>Hon.</Title>
-      <Forenames>Lieut</Forenames>
+      <Title>Hon. Lieut</Title>
       <Text>, in Army J. J. Berryhill (Capt.)</Text>
       <PageNumber>8147</PageNumber>
     </MainItem>
@@ -773,6 +772,15 @@
       <Forenames>Thomas R.</Forenames>
       <Text>(2nd Lieut.)</Text>
       <PageNumber>7820</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Fontaine</Key>
+      <Title>2nd Lieut.</Title>
+      <Forenames>Edward Harold</Forenames>
+      <Text>(correction)</Text>
+      <PageNumber>9676</PageNumber>
     </MainItem>
     <SubItem>
       <Text>Temporary Lieut</Text>
@@ -806,7 +814,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fox</Key>
-      <Text>. Harold (Lieut.)</Text>
+      <Forenames>Harold</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>10704</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -830,8 +839,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Headley</Key>
-      <Title>St.</Title>
-      <Forenames>John Barrow</Forenames>
+      <Forenames>St. John Barrow</Forenames>
       <Text>(temporary Capt.)</Text>
       <PageNumber>10679</PageNumber>
     </MainItem>
@@ -963,7 +971,9 @@
     <MainItem>
       <Key>Westmorland</Key>
       <Forenames>Percy Thuillier</Forenames>
-      <Text>, D.S.O. (Lieut.-Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>9125</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1385,8 +1395,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Thorneloe</Key>
-      <Forenames>C.</Forenames>
-      <Text>de V. (Capt.) ...</Text>
+      <Forenames>C. de V</Forenames>
+      <Text>. (Capt.) ...</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>

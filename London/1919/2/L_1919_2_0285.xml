@@ -3,7 +3,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Dyer</Key>
-      <Text>.Maj. James Frederick, Officer, Order of the British Empire</Text>
+      <Title>Maj.</Title>
+      <Forenames>James Frederick</Forenames>
+      <Text>, Officer, Order of the British Empire</Text>
       <PageNumber>7027</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -20,7 +22,9 @@
     <MainItem>
       <Key>Dykes</Key>
       <Title>Capt. (T./Maj.)</Title>
-      <Text>' Kingsley, M.C., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6974</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -38,7 +42,9 @@
       <Key>Dyson</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Harry Bernard</Forenames>
-      <Text>, D.S.O., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6798</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -64,7 +70,9 @@
       <Key>Eames</Key>
       <Title>Lt.-Col. and Bt. Col.</Title>
       <Forenames>William</Forenames>
-      <Text>LEstrange, C.B., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>6794</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -73,7 +81,9 @@
       <Key>Earchman</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Archibald</Forenames>
-      <Text>, D.S.O., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6810</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -144,7 +154,9 @@
       <Key>Eason</Key>
       <Title>Payr. Lt. (T. /Payr.-Comdr.)</Title>
       <Forenames>Cecil Gould</Forenames>
-      <Text>, D.S.C., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>7509</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -200,7 +212,10 @@
       </Key>
       <Title>Capt. and Bt. Maj. (A./Lt.Col.)</Title>
       <Forenames>Thomas Ralph</Forenames>
-      <Text>, M.C., Companion, D.S.O</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>6818</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -261,8 +276,8 @@
     <MainItem>
       <Key>Echlin</Key>
       <Title>Lt. (T. /Maj.)</Title>
-      <Forenames>Joseph Edward O</Forenames>
-      <Text>'Brien, Officer, Order of the British Empire</Text>
+      <Forenames>Joseph Edward O'Brien</Forenames>
+      <Text>, Officer, Order of the British Empire</Text>
       <PageNumber>6923</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -364,7 +379,9 @@
       <Key>Edis</Key>
       <Title>Lt.-Col. (Hon. Col.)</Title>
       <Forenames>Robert William</Forenames>
-      <Text>, C.B., Knight Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>7426</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -373,7 +390,9 @@
       <Key>Edkins</Key>
       <Title>Capt.</Title>
       <Forenames>Beresford Harry Huey</Forenames>
-      <Text>, M.C., Member, Order of the British Empire, transferred to Military Division</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4986</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -448,7 +467,10 @@
       </Key>
       <Title>Maj. and Bt. Lt.-Col. (T./ Brig.-Gen.)</Title>
       <Forenames>Christopher Vaughan</Forenames>
-      <Text>, D.S.O., Companion, St. Michael and St. George</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, St. Michael and St. George</Honour>
+      </Text>
       <PageNumber>6792</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -492,7 +514,10 @@
       </Key>
       <Title>Capt. (A./Lt.-Col.)</Title>
       <Forenames>Guy Janion</Forenames>
-      <Text>, M.C., Companion, D.S.O</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>6818</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -524,7 +549,10 @@
       </Key>
       <Title>Col.</Title>
       <Forenames>Henry John</Forenames>
-      <Text>, C.B., T.D., Officer, Order of the British Empire, transferred to Military Division</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>4979</PageNumber>
     </MainItem>
     <SubItem>
@@ -582,7 +610,9 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>T.</Forenames>
-      <Text>/C. 4th CI. Rev. Nathaniel Walter Allan, M.C., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6798</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -622,7 +652,9 @@
       </Key>
       <Title>the Hon.</Title>
       <Forenames>Worley Bassett</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>4414</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -639,7 +671,10 @@
       <Key>Edve</Key>
       <Title>Capt.</Title>
       <Forenames>John Henrv Murray</Forenames>
-      <Text>, M.C., Companion^ D.S.O</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>6818</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -648,7 +683,9 @@
       <Key>Egan</Key>
       <Title>Col.</Title>
       <Forenames>Michael Henry</Forenames>
-      <Text>, C.M.G., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>6980</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -699,7 +736,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Elder</Key>
-      <Text>. Warrt. Engr. Andrew, Member, Order of the British Empire</Text>
+      <Title>Warrt. Engr.</Title>
+      <Forenames>Andrew</Forenames>
+      <Text>, Member, Order of the British Empire</Text>
       <PageNumber>7906</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -744,7 +783,9 @@
       <Key>Elgood</Key>
       <Title>Lt. (A./Capt)</Title>
       <Forenames>Leonard Alsager</Forenames>
-      <Text>, M.C., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>0798</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -761,7 +802,9 @@
       <Key>Elkan</Key>
       <Title>Maj. (T./Lt.-Col.)</Title>
       <Forenames>Clarence John</Forenames>
-      <Text>, D.S.O., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>679</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -790,7 +833,11 @@
       </Key>
       <Title>Col. (T./Brig.-Gen.)</Title>
       <Forenames>Robert James Goodall</Forenames>
-      <Text>, C.M.G., D.S.O., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>6789</PageNumber>
     </MainItem>
   </ItemGroup>

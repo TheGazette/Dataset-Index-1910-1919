@@ -409,8 +409,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Melville</Key>
-      <Forenames>Charles</Forenames>
-      <Text>de Despencer L.(temporary.Lieut.)</Text>
+      <Forenames>Charles de Despencer L.</Forenames>
+      <Text>(temporary.Lieut.)</Text>
       <PageNumber>7574</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -706,8 +706,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Conor, E. (temporary Capt.)</Text>
+      <Key>O'Conor</Key>
+      <Forenames>E.</Forenames>
+      <Text>(temporary Capt.)</Text>
       <PageNumber>7685</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -789,7 +790,9 @@
     <MainItem>
       <Key>Paine</Key>
       <Forenames>Albert Ingraham</Forenames>
-      <Text>, D.S.O. (temporary Capt.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7094</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -798,7 +801,9 @@
       <Key>Palmer</Key>
       <Title>Hon. Capt.</Title>
       <Forenames>Arthur Percy</Forenames>
-      <Text>, D.S.O. (temporary Capt.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7387</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -809,7 +814,9 @@
       </Key>
       <Title>Major Sir</Title>
       <Forenames>Edward G. Broadley</Forenames>
-      <Text>, Bt. (temporary Maj.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>7398</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1074,7 +1081,9 @@
       <Key>Pryce-Jones</Key>
       <Title>Lieut.-Col. and Hon. Col.</Title>
       <Forenames>E.</Forenames>
-      <Text>, M.P. (temporary Maj.)</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>7660</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1122,7 +1131,9 @@
     <MainItem>
       <Key>Raw</Key>
       <Forenames>Rupert G.</Forenames>
-      <Text>, D.S.O. (temporary Lieut.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7574</PageNumber>
     </MainItem>
   </ItemGroup>

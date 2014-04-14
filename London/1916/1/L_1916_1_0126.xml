@@ -462,8 +462,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Holbrook</Key>
-      <Forenames>A. St</Forenames>
-      <Text>. C. (Lt.-Col.)</Text>
+      <Forenames>A. St. C</Forenames>
+      <Text>. (Lt.-Col.)</Text>
       <PageNumber>1246</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -613,7 +613,9 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>C. D.</Forenames>
-      <Text>, M.D. (temp. Lt.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>98</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -723,7 +725,10 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>A. E. A.</Forenames>
-      <Text>, C.B., M.V.O., D.S.O'. (Maj.-Gen. for distinguished service in. the Field)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>568</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -852,7 +857,9 @@
       <Key>Holland-Pryor</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>P.</Forenames>
-      <Text>, M.V.O. (temp. BrigadierGen. whilst employed as a Deputy Adjt.Gen. in India)</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>2770</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1109,7 +1116,9 @@
       </Key>
       <Title>(temp.) Lt.</Title>
       <Forenames>C. C</Forenames>
-      <Text>, M.B., F.R.C.S. (relinquishes his commission)</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>551</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1141,7 +1150,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>H. C</Forenames>
-      <Text>, C.M.G., DvS.O. (Brevet Col. for distinguished service in the Field)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>568</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1149,7 +1160,9 @@
     <MainItem>
       <Key>Holmden</Key>
       <Forenames>F. A. A.</Forenames>
-      <Text>, D.S.O., M.B. (temp. Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>1790</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1401,7 +1414,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>T. E.</Forenames>
-      <Text>, M.D. (temp. Maj.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>2542</PageNumber>
     </MainItem>
   </ItemGroup>

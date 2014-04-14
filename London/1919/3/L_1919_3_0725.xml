@@ -32,7 +32,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>F. S.</Forenames>
-      <Text>D.S.C. (trd. to unempld. list)</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>9255</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -76,7 +78,9 @@
       </Key>
       <Title>Lt. (A.)</Title>
       <Forenames>G. H.</Forenames>
-      <Text>, D.F.C. (granted permanent commn.)</Text>
+      <Text>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>9869</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -286,7 +290,10 @@
       <PageNumber>10760</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>___ ___ ___ ___ Lt.-Col. (S.O.) R. E. M., C.B.E., D.S.O. (granted permanent oommn.)</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>10655</PageNumber>
     </SubItem>
     <SubItem>
@@ -361,7 +368,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>W. L.</Forenames>
-      <Text>M.M. (rel. commn. on ceasing to be empld.)</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>9254</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -450,7 +459,9 @@
       </Key>
       <Title>Maj. (S.O.)</Title>
       <Forenames>W. J.</Forenames>
-      <Text>, C.B.E. (granted permanent commn.)</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>9865</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -609,21 +620,54 @@
   <ItemGroup>
     <MainItem>
       <Key>Sainsbury</Key>
-      <Text>2nd Lt. (Hon. Lt.) H. (trd. to unempld. list)</Text>
+      <Title>2nd Lt. (Hon. Lt.)</Title>
+      <Forenames>H.</Forenames>
+      <Text>(trd. to unempld. list)</Text>
       <PageNumber>8855</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>Amory, Lt. J. M. B. E. (actg. Capt. without pay and allces. while empld. as Capt., T., Gr. B), Sub. Not</Text>
+      <Key>St. Amory</Key>
+      <Title>Lt.</Title>
+      <Forenames>J. M. B. E.</Forenames>
+      <Text>(actg. Capt. without pay and allces. while empld. as Capt., T., Gr. B), Sub. Not</Text>
       <PageNumber>9142</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>Cleir, Overseas Cadet M. D. (temp. 2nd Lt.), Sub. Not</Text>
+      <Key>St. Cleir</Key>
+      <Forenames>Overseas</Forenames>
+      <Text>Cadet M. D. (temp. 2nd Lt.), Sub. Not</Text>
+      <PageNumber>8605</PageNumber>
+    </MainItem>
+    <SubItem>
+      <Text>Rel. commn. and retains rank</Text>
+      <PageNumber>8605</PageNumber>
+    </SubItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>St. George</Key>
+      <Forenames>Overseas</Forenames>
+      <Text>Cadet V. G. (temp. 2nd Lt.), Sub. Not</Text>
+      <PageNumber>8605</PageNumber>
+    </MainItem>
+    <SubItem>
+      <Text>Rel. commn. and retains rank</Text>
+      <PageNumber>8605</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>Rel. commn. and retains rank</Text>
+      <PageNumber>8605</PageNumber>
+    </SubItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>St. Jean</Key>
+      <Forenames>Overseas</Forenames>
+      <Text>Cadet A. (temp. 2nd Lt.), Sub. Not</Text>
       <PageNumber>8605</PageNumber>
     </MainItem>
     <SubItem>
@@ -634,33 +678,8 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>George, Overseas Cadet V. G. (temp. 2nd Lt.), Sub. Not</Text>
-      <PageNumber>8605</PageNumber>
-    </MainItem>
-    <SubItem>
-      <Text>Rel. commn. and retains rank</Text>
-      <PageNumber>8605</PageNumber>
-    </SubItem>
-    <SubItem>
-      <Text>Rel. commn. and retains rank</Text>
-      <PageNumber>8605</PageNumber>
-    </SubItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>St</Key>
-      <Text>Jean, Overseas Cadet A. (temp. 2nd Lt.), Sub. Not</Text>
-      <PageNumber>8605</PageNumber>
-    </MainItem>
-    <SubItem>
-      <Text>Rel. commn. and retains rank</Text>
-      <PageNumber>8605</PageNumber>
-    </SubItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>St</Key>
-      <Text>Jeans, Overseaa Cadet A. (temp. 2nd Lt.), Sub. Not</Text>
+      <Forenames>Jeans</Forenames>
+      <Text>, Overseaa Cadet A. (temp. 2nd Lt.), Sub. Not</Text>
       <PageNumber>8605</PageNumber>
     </MainItem>
     <SubItem>
@@ -670,8 +689,12 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>John, Lt. (O.) H. W., D.F.C. (granted permanent commn.)</Text>
+      <Key>St. John</Key>
+      <Title>Lt. (O.)</Title>
+      <Forenames>H. W.</Forenames>
+      <Text>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>9871</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -688,15 +711,20 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>John, Lt. (0.) R. G., DSC. (granted permanent commn.)</Text>
+      <Key>St. John</Key>
+      <Title>Lt. (0.)</Title>
+      <Forenames>R. G.</Forenames>
+      <Text>
+        <Honour>DSC</Honour>
+      </Text>
       <PageNumber>9868</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>Martin, Overseas Cadet J. H. (temp. 2nd Lt.), Sub. Not</Text>
+      <Key>St. Martin</Key>
+      <Forenames>Overseas</Forenames>
+      <Text>Cadet J. H. (temp. 2nd Lt.), Sub. Not</Text>
       <PageNumber>8605</PageNumber>
     </MainItem>
     <SubItem>
@@ -706,8 +734,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>Noble, Capt. (T.) C. (granted permanent commn.)</Text>
+      <Key>St. Noble</Key>
+      <Title>Capt. (T.)</Title>
+      <Forenames>C.</Forenames>
+      <Text>(granted permanent commn.)</Text>
       <PageNumber>9867</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -724,8 +754,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>Oswald, Capt. Hon. R. G., Lord (resigns commn. and retains rank)</Text>
+      <Key>St. Oswald</Key>
+      <Title>Capt. Hon.</Title>
+      <Forenames>R. G.</Forenames>
+      <Text>, Lord (resigns commn. and retains rank)</Text>
       <PageNumber>9014</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -777,7 +809,9 @@
       </Key>
       <Title>Maj.-Gen. Sir</Title>
       <Forenames>J. M.</Forenames>
-      <Text>, K.C.B., C. M. G. ,C. V. O. ,D. S. O. (granted permanent oommn.)</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+      </Text>
       <PageNumber>9864</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -788,7 +822,10 @@
       </Key>
       <Title>Maj.-Gen. Sir</Title>
       <Forenames>W. G. H.</Forenames>
-      <Text>, KCM.G.,C.B.,D.S.O.(granted permanent commn.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>9864</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -817,7 +854,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>T. E.</Forenames>
-      <Text>, A.F.C. (gradedfor pay and allcea. of Maj. whilst Maj., A.)</Text>
+      <Text>
+        <Honour>A.F.C.</Honour>
+      </Text>
       <PageNumber>8392</PageNumber>
     </MainItem>
     <SubItem>
@@ -897,7 +936,11 @@
       <Key>Samson</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>C. R.</Forenames>
-      <Text>, C.M.G., D.S.O., A.F.C. (granted pernanent commn.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>A.F.C.</Honour>
+      </Text>
       <PageNumber>9864</PageNumber>
     </MainItem>
     <SubItem>
@@ -909,7 +952,10 @@
     <MainItem>
       <Key>Sanday</Key>
       <Title>Maj.</Title>
-      <Text>(A.VW. D. S., D.S.O., M.C. (granted permanent commn.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9865</PageNumber>
     </MainItem>
     <SubItem>
@@ -947,7 +993,7 @@
       <PageNumber>8394</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Granted permanent commn</Text>
+      <Text>Granted permanent commn.</Text>
       <PageNumber>9867</PageNumber>
     </SubItem>
   </ItemGroup>

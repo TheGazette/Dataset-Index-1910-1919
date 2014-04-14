@@ -63,7 +63,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Greg</Key>
-      <Text>son-.EHis, Lt. G. S. L.-, M.C. (.Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4167</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -161,7 +163,9 @@
       </Key>
       <Title>Lt. (temp. Capt.)</Title>
       <Forenames>E. O.</Forenames>
-      <Text>, M.C. .Sqdn. Comdr. and temp. iMaj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4633</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -212,7 +216,9 @@
       <Key>Gresson</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>T. T.</Forenames>
-      <Text>, D.S.O. (to comd. a Bn.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3580</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -381,7 +387,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Title>temp.</Title>
-      <Text>?nd Lt. S. I., M.C. (Flying Offr.. Gen. List)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5344</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -406,7 +414,9 @@
     <MainItem>
       <Key>Grieg</Key>
       <Forenames>R. B.</Forenames>
-      <Text>, M.C. (Hon. Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5712</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -617,8 +627,8 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Title>temp. Lt.</Title>
-      <Forenames>R. E. J. St</Forenames>
-      <Text>. J. (rel. commn.)</Text>
+      <Forenames>R. E. J. St. J</Forenames>
+      <Text>. (rel. commn.)</Text>
       <PageNumber>5499</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -669,7 +679,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>W. B.</Forenames>
-      <Text>, F.R.C.S. (temp. Lt.)</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>4927</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -716,7 +728,10 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>D.S.O. (Bt. Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>3579</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -954,7 +969,9 @@
       </Key>
       <Title>temp. Lt.</Title>
       <Forenames>J. C</Forenames>
-      <Text>, M.C. (actg. Cap*,)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6487</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1005,13 +1022,13 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Title>temp. Lt.</Title>
-      <Forenames>R. St</Forenames>
-      <Text>. A.,(trd.)</Text>
+      <Forenames>R. St. A</Forenames>
+      <Text>.,(trd.)</Text>
       <PageNumber>4078</PageNumber>
       <PageNumber>4446</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Temp. Capt</Text>
+      <Text>Temp. Capt.</Text>
       <PageNumber>4885</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1135,14 +1152,18 @@
       <Key>GrimMe</Key>
       <Title>Lt.</Title>
       <Forenames>H. N. H.</Forenames>
-      <Text>, M.C. (temp</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4078</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Grime</Key>
-      <Text>Cadet G. M. (2nd Lt..)</Text>
+      <Title>Cadet</Title>
+      <Forenames>G. M.</Forenames>
+      <Text>(2nd Lt..)</Text>
       <PageNumber>3746</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1157,7 +1178,7 @@
       <PageNumber>3410</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>attd.) Cotr. of date of appt</Text>
+      <Text>attd.) Cotr. of date of appt.</Text>
       <PageNumber>4426</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1414,7 +1435,9 @@
       <Key>Grogan</Key>
       <Title>temp. Lt.</Title>
       <Forenames>C</Forenames>
-      <Text>W., M.C. (rel</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4446</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1434,7 +1457,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Title>Gen.</Title>
-      <Text>) Maj. (temp. Brig.-Gen.) G. W. St. G., C.M.G. (Brev. Lt.-</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>5464</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1449,7 +1474,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Gronow</Key>
-      <Text>Cadet C. D. (temp. 2nd Lt.)</Text>
+      <Title>Cadet</Title>
+      <Forenames>C. D.</Forenames>
+      <Text>(temp. 2nd Lt.)</Text>
       <PageNumber>4471</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1563,7 +1590,9 @@
       <Key>Grossmith</Key>
       <Title>Lt.</Title>
       <Forenames>G. W.</Forenames>
-      <Text>M.C. (actg. Capt.) -</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5038</PageNumber>
     </MainItem>
     <SubItem>
@@ -1583,14 +1612,18 @@
   <ItemGroup>
     <MainItem>
       <Key>Grothaus</Key>
-      <Text>Maj. (temp. I A.-Col.) H. C. W. (temp. Lt.-Col.)</Text>
+      <Title>Maj. (temp. I A.-Col.)</Title>
+      <Forenames>H. C. W.</Forenames>
+      <Text>(temp. Lt.-Col.)</Text>
       <PageNumber>4577</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Grothian</Key>
-      <Text>Lt. F. S. B. (actg. Capt.)</Text>
+      <Title>Lt.</Title>
+      <Forenames>F. S. B.</Forenames>
+      <Text>(actg. Capt.)</Text>
       <PageNumber>4315</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1599,7 +1632,9 @@
       <Key>Ground</Key>
       <Title>temp. 2nd Lt.</Title>
       <Forenames>T. L.</Forenames>
-      <Text>, M.C. (trd.. and actg. Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5838</PageNumber>
     </MainItem>
   </ItemGroup>

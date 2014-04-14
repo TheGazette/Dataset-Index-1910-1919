@@ -231,7 +231,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Curria</Key>
-      <Text>.R. A. M. (Maj.)</Text>
+      <Forenames>R. A. M.</Forenames>
+      <Text>(Maj.)</Text>
       <PageNumber>8805</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -252,9 +253,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Ritter</Forenames>
-      <Text>, Victor Frank (temporary 2nd Lieut.) '</Text>
+      <Key>De Ritter</Key>
+      <Forenames>Victor Frank</Forenames>
+      <Text>(temporary 2nd Lieut.) '</Text>
       <PageNumber>8628</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -396,7 +397,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hill</Key>
-      <Text>.-Joseph Harry (temporary 2nd Lieut.)</Text>
+      <Text>-Joseph Harry (temporary 2nd Lieut.)</Text>
       <PageNumber>8362</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -612,7 +613,9 @@
       <Key>Owen</Key>
       <Title>Sir</Title>
       <Forenames>John Arthur</Forenames>
-      <Text>, Bt. (temporary 2nd Lieut.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>9194</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -688,7 +691,9 @@
       <Key>Pretyman</Key>
       <Title>Lieut.</Title>
       <Forenames>G. F.</Forenames>
-      <Text>, D.S.O. (temporary Capt.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>9558</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -818,7 +823,9 @@
     <MainItem>
       <Key>Thurlow</Key>
       <Forenames>E. G. L.</Forenames>
-      <Text>, D.S.O. (Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8806</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1106,7 +1113,9 @@
     <MainItem>
       <Key>Boyall</Key>
       <Forenames>A. M.</Forenames>
-      <Text>, D.S.O. (Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8806</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1136,8 +1145,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Brooksbahk</Key>
-      <Forenames>Eric St</Forenames>
-      <Text>. Aubyn (temporary 2nd Lieut.)</Text>
+      <Forenames>Eric St. Aubyn</Forenames>
+      <Text>(temporary 2nd Lieut.)</Text>
       <PageNumber>7160</PageNumber>
     </MainItem>
   </ItemGroup>

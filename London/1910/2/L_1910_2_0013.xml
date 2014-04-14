@@ -396,8 +396,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wellingborough</Key>
-      <Title>St.</Title>
-      <Forenames>Barnabas</Forenames>
+      <Forenames>St. Barnabas</Forenames>
       <Text>, Order in Council, District Chapelry</Text>
       <PageNumber>2956</PageNumber>
     </MainItem>
@@ -499,8 +498,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Whitstable</Key>
-      <Title>St.</Title>
-      <Forenames>Vincent</Forenames>
+      <Forenames>St. Vincent</Forenames>
       <Text>'s Industrial School for Junior Roman Catholic Boys, certificate extended</Text>
       <PageNumber>2328</PageNumber>
     </MainItem>
@@ -575,8 +573,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Windsor</Key>
-      <Title>St.</Title>
-      <Forenames>George</Forenames>
+      <Forenames>St. George</Forenames>
       <Text>'s, Hon. and Rev. L. F. Tyrwhitt appointed Canon of</Text>
       <PageNumber>3162</PageNumber>
     </MainItem>
@@ -736,14 +733,16 @@
       <Key>Acland-Hood</Key>
       <Title>Rt. Hon. Sir</Title>
       <Forenames>A. F.</Forenames>
-      <Text>, Bart., a Privy Councillor .. ..</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Acton</Key>
-      <Title>Lord, Lord</Title>
+      <Title>Lord, Lord-in-</Title>
       <Forenames>Waiting</Forenames>
       <Text>'</Text>
       <PageNumber>4254</PageNumber>
@@ -753,7 +752,9 @@
     <MainItem>
       <Key>Ador</Key>
       <Forenames>G.</Forenames>
-      <Text>, Hon., Knight of Grace, St. John of Jerusalem .. .. ,</Text>
+      <Text>
+        <Honour>Knight of Grace, St. John of Jerusalem</Honour>
+      </Text>
       <PageNumber>4173</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -761,7 +762,9 @@
     <MainItem>
       <Key>Aitkinson</Key>
       <Forenames>R. S.</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>4485</PageNumber>
     </MainItem>
   </ItemGroup>

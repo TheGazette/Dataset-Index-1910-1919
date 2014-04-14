@@ -100,7 +100,10 @@
       <Key>Woon</Key>
       <Title>Maj.</Title>
       <Forenames>E. W.</Forenames>
-      <Text>, D.S.O., (M.C. .(rel. temp, comma, on ceasing to be empld., and retains rank)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7543</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -116,11 +119,13 @@
     <MainItem>
       <Key>Wbotiton</Key>
       <Title>temp. Lt.</Title>
-      <Text>\F. E., M.C. : '(temp. Qrmr. and Hon. Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6100</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Actg. Lt.-Col. oomdg. M.D.C., Wing No. 5, 'Kinmel Park Camp, Sub. Not</Text>
+      <Text>Actg. Lt.-Col. oomdg. M.D.C., Wing No. 5, 'Kinmel Park Camp, Sub. Not.</Text>
       <PageNumber>6749</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -138,7 +143,9 @@
       <Key>Worthington</Key>
       <Title>Lt.-Col. (actg. Col.)</Title>
       <Forenames>E. B.</Forenames>
-      <Text>, C.M.G. (Not. in Gaz. 5th Dec, 1918, cancelled)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>5260</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -147,7 +154,10 @@
       <Key>Wright</Key>
       <Title>temp. Col.</Title>
       <Forenames>R. P.</Forenames>
-      <Text>, C.M.G., D.S.O. (Not. in Gaz. of 28th April, 1919, cancelled)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7392</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -158,7 +168,9 @@
       </Key>
       <Title>temp. Capt.</Title>
       <Forenames>W. G.</Forenames>
-      <Text>, M.C. i(temp. iMaj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4864</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -167,7 +179,9 @@
       <Key>Wrightson</Key>
       <Title>temp. Capt.</Title>
       <Forenames>A. I. H</Forenames>
-      <Text>, M.C. '(actg. Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5906</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -185,14 +199,20 @@
       <Key>Wyndham</Key>
       <Title>temp. Lt.</Title>
       <Forenames>R.</Forenames>
-      <Text>, D.C.M. (retires in the British Isles)</Text>
+      <Text>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>7898</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Young</Key>
-      <Text>. Sjt. J. J., M.M. (temp. 2nd iLt.), Sub. Not</Text>
+      <Title>Sjt.</Title>
+      <Forenames>J. J.</Forenames>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>5261</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -251,7 +271,9 @@
       <Key>Baldwin</Key>
       <Title>Bt. Col. (temp. Brig.-Gen.)</Title>
       <Forenames>G. M.</Forenames>
-      <Text>, D.S.O. (Brig. Comdr.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4433</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -267,7 +289,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Beatson-Bell</Key>
-      <Text>. Lt.-Col. J. (Dep. Judge Advocate-Gen.)</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>J.</Forenames>
+      <Text>(Dep. Judge Advocate-Gen.)</Text>
       <PageNumber>4434</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -283,7 +307,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Bell</Key>
-      <Text>. Maj. '(actg. Lt.-Col.) A. H., D.S.O. (comdg. R.E.)</Text>
+      <Title>Maj.</Title>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4435</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -299,7 +326,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Bickford</Key>
-      <Text>. Bt. Lt.-Col. W. W , CLE. (Asst. Adjt. &amp; Qrmr.Oen.)</Text>
+      <Title>Bt. Lt.-Col.</Title>
+      <Forenames>W. W</Forenames>
+      <Text>, CLE. (Asst. Adjt. &amp; Qrmr.Oen.)</Text>
       <PageNumber>4433</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -360,8 +389,10 @@
     <MainItem>
       <Key>Carruthers</Key>
       <Title>Maj.</Title>
-      <Forenames>J. H. De W.</Forenames>
-      <Text>, M.C. (IBrig^ Maj.)</Text>
+      <Forenames>J. H. De W</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4434</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -379,7 +410,9 @@
       <Key>Casson</Key>
       <Title>Maj. (temp. Lt.-Col.)</Title>
       <Forenames>W. F. S.</Forenames>
-      <Text>(D.S.O. (Asst. Adjt. &amp; Qrmr.-Gen.) ..:</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4433</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -388,7 +421,9 @@
       <Key>Clery</Key>
       <Title>Bt. Col. (temp. Brig.-Gen.)</Title>
       <Forenames>C. B. L.</Forenames>
-      <Text>, C.B. '(Brig. Comdr.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>4433</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -406,7 +441,9 @@
       <Key>Coffin</Key>
       <Title>Col.</Title>
       <Forenames>C</Forenames>
-      <Text>, C.M.G. (Dep. Chief Engr.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>4435</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -457,7 +494,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Davson</Key>
-      <Text>.iMaj. H. J. H. (D.A.A.G.)</Text>
+      <Text>iMaj. H. J. H. (D.A.A.G.)</Text>
       <PageNumber>4433</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -582,7 +619,9 @@
       <Key>Gordon</Key>
       <Title>Lt.-Col. (temp. Brig.-Gen)</Title>
       <Forenames>J. L.</Forenames>
-      <Text>GEL, C.B. (Inspr. of ComI munications)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>4434</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -618,7 +657,10 @@
       <Key>Hamer</Key>
       <Title>Maj.</Title>
       <Forenames>M. A.</Forenames>
-      <Text>. D.S.O., M.C. I (D.A.A. &amp; Q.M.G.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4433</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -636,7 +678,9 @@
       <Key>Harley</Key>
       <Title>Maj.</Title>
       <Forenames>A. B.</Forenames>
-      <Text>, D.S.O. (graded ifor pay as D.A.A.G.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4434</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -663,7 +707,9 @@
       <Key>Hay</Key>
       <Title>Bt. Lt.-Col.</Title>
       <Forenames>C. J. B.</Forenames>
-      <Text>, D.S.O. ' (G.S.O., 1st Gr.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4433</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -672,7 +718,9 @@
       <Key>Hehir</Key>
       <Title>Col.</Title>
       <Forenames>P.</Forenames>
-      <Text>, C.M.G. (Asst. Dir. of Med. Servs.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>4435</PageNumber>
     </MainItem>
     <SubItem>
@@ -685,14 +733,18 @@
       <Key>Hennessy</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>J.</Forenames>
-      <Text>, C.B. (Asst. . Dir. of Med. Servs.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>4435</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hicks</Key>
-      <Text>. Lt. (temp. Capt.) L. J. (R.T.O., graded as Staff Capt.)</Text>
+      <Title>Lt. (temp. Capt.)</Title>
+      <Forenames>L. J.</Forenames>
+      <Text>(R.T.O., graded as Staff Capt.)</Text>
       <PageNumber>4434</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -773,7 +825,9 @@
       </Key>
       <Title>Bt. Lt.-Col. (temp. Brig-Gen.)</Title>
       <Forenames>S. G.</Forenames>
-      <Text>, D.S.O. (Brig.-Gen., Gen. Staff)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4433</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -823,7 +877,10 @@
   <ItemGroup>
     <MainItem>
       <Key>McWatters</Key>
-      <Text>Bt, Lt.-Col. H. C D.S.O. (G.S.O., 1st Gr.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4433</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -850,7 +907,9 @@
       <Key>Moens</Key>
       <Title>Bt. Lt.-Col.</Title>
       <Forenames>A. W. H. M.</Forenames>
-      <Text>, D.S.O. (G.S.O., 1st Gr.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4433</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -877,7 +936,9 @@
       <Key>Morgan</Key>
       <Title>Maj.</Title>
       <Forenames>M. H. L.</Forenames>
-      <Text>, D.S.O. (G.S:0., 2nd Gr.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4433</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -886,7 +947,9 @@
       <Key>Morgan-Owen</Key>
       <Title>Bt. Lt.-Col.</Title>
       <Forenames>L. I. G</Forenames>
-      <Text>, D.S.O. (G.S.O, IstGr.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4433</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -915,7 +978,9 @@
       <Key>Nightingale</Key>
       <Title>Lt.-Col. (temp. Brig.Gen.)</Title>
       <Forenames>M. R. W.</Forenames>
-      <Text>, D.S.O. (Brig. Comdr.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4433</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -966,7 +1031,11 @@
       <Key>Peebles</Key>
       <Title>Col. (temp. Brig.-Oen.)</Title>
       <Forenames>E.</Forenames>
-      <Text>j C, C.B., C.M.G., D.S.O. (Brig. Comdr.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4433</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -11,8 +11,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ainslie</Key>
-      <Forenames>W. St</Forenames>
-      <Text>. J. .,</Text>
+      <Forenames>W. St. J</Forenames>
+      <Text>. .,</Text>
       <PageNumber>11799</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -268,8 +268,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Griffin</Key>
-      <Forenames>N. O</Forenames>
-      <Text>'B</Text>
+      <Forenames>N. O'B</Forenames>
       <PageNumber>9136</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -522,8 +521,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Nicolson</Key>
-      <Forenames>H. St</Forenames>
-      <Text>. L</Text>
+      <Forenames>H. St. L</Forenames>
       <PageNumber>8389</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -674,8 +672,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sherbrooke</Key>
-      <Forenames>R. St</Forenames>
-      <Text>. V</Text>
+      <Forenames>R. St. V</Forenames>
       <PageNumber>9136</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -782,7 +779,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Thyne</Key>
-      <Text>G.C</Text>
+      <Forenames>G.C</Forenames>
       <PageNumber>11799</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -831,8 +828,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wailes</Key>
-      <Forenames>J.</Forenames>
-      <Text>de B</Text>
+      <Forenames>J. de B</Forenames>
       <PageNumber>9136</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -959,7 +955,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Grier</Key>
-      <Text>A. G. T</Text>
+      <Forenames>A. G. T</Forenames>
       <PageNumber>10089</PageNumber>
     </MainItem>
     <SubItem>
@@ -969,8 +965,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, A. L</Text>
+      <Key>O'Brien</Key>
+      <Forenames>A. L</Forenames>
       <PageNumber>10223</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1050,7 +1046,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Feltham</Key>
-      <Text>J</Text>
+      <Forenames>J .</Forenames>
       <PageNumber>8599</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1253,14 +1249,15 @@
   <ItemGroup>
     <MainItem>
       <Key>McVittie</Key>
-      <Text>C. Hi</Text>
+      <Forenames>C. Hi</Forenames>
       <PageNumber>10654</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Secretan</Key>
-      <Text>F B</Text>
+      <Forenames>F</Forenames>
+      <Text>B</Text>
       <PageNumber>9252</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1374,7 +1371,7 @@
   <ItemGroup>
     <MainItem>
       <Key>CantelLW</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>10352</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1425,7 +1422,10 @@
     <MainItem>
       <Key>Sheldrake</Key>
       <Forenames>J. W.</Forenames>
-      <Text>, M.V.O., M.B.E</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+        <Honour>M.B.E</Honour>
+      </Text>
       <PageNumber>9863</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1439,7 +1439,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tamlyn</Key>
-      <Text>W. H</Text>
+      <Forenames>W. H</Forenames>
       <PageNumber>8998</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1540,7 +1540,10 @@
     <MainItem>
       <Key>Smith</Key>
       <Forenames>J.L.</Forenames>
-      <Text>,C.B.,M.V.O.,M.B</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>11685</PageNumber>
     </MainItem>
   </ItemGroup>

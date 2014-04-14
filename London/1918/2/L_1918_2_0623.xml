@@ -176,7 +176,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cameron</Key>
-      <Text>. D. (temp. 2nd Lt.)</Text>
+      <Forenames>D.</Forenames>
+      <Text>(temp. 2nd Lt.)</Text>
       <PageNumber>7489</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -366,7 +367,10 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Cant</Forenames>
-      <Text>, ftem-n. Maj.) W. C, D.S.O., M.C. (retains temp. rank)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7071</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -413,7 +417,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Caneiamila</Key>
-      <Text>. Cadet J. (temp. 2nd Lt., A. &amp; S.)</Text>
+      <Title>Cadet</Title>
+      <Forenames>J.</Forenames>
+      <Text>(temp. 2nd Lt., A. &amp; S.)</Text>
       <PageNumber>7211</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -709,7 +715,9 @@
     <MainItem>
       <Key>Cassells</Key>
       <Title>Lt., Obs. Offr.</Title>
-      <Text>, J. S., M.C. (Lt., A. &amp; S.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7487</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1057,7 +1065,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cbisholm</Key>
-      <Text>., Lt. (Hon. Capt.) J. F. (temp. Capt.)</Text>
+      <Text>, Lt. (Hon. Capt.) J. F. (temp. Capt.)</Text>
       <PageNumber>5484</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1155,7 +1163,9 @@
       <Key>Clark</Key>
       <Title>Lt. (in Army)</Title>
       <Forenames>A. B.</Forenames>
-      <Text>, M.C. (temp. 2nd Lt., A. and S., and Hon. Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6227</PageNumber>
     </MainItem>
   </ItemGroup>

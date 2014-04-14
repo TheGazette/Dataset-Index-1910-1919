@@ -79,8 +79,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hanlon, G. (temporary Lieut.)</Text>
+      <Key>O'Hanlon</Key>
+      <Forenames>G.</Forenames>
+      <Text>(temporary Lieut.)</Text>
       <PageNumber>10550</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -114,7 +115,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Powell</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, and Adjt. F. G. (temporary Capt., and to be supernumerary)</Text>
       <PageNumber>10557</PageNumber>
     </MainItem>
@@ -416,7 +417,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Clemens</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, and Adjt. L. A. (temporary Capt., and to be supernumerary)</Text>
       <PageNumber>10558</PageNumber>
     </MainItem>
@@ -520,7 +521,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Grimsdell</Key>
-      <Text>. G. L (temporary Lieut.)</Text>
+      <Forenames>G. L</Forenames>
+      <Text>(temporary Lieut.)</Text>
       <PageNumber>10671</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -663,8 +665,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Shaughnessy, Maurice John (2nd Lieut.)</Text>
+      <Key>O'Shaughnessy</Key>
+      <Forenames>Maurice John</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>9140</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -913,7 +916,10 @@
       <Key>Benson</Key>
       <Title>Maj.</Title>
       <Forenames>Henry W.</Forenames>
-      <Text>, C.M.G., D.S.O. (to command the Swansea Bat., and to be temporary Lieut.-Col.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8365</PageNumber>
     </MainItem>
     <SubItem>
@@ -1054,7 +1060,9 @@
     <MainItem>
       <Key>Derry</Key>
       <Forenames>Arthur</Forenames>
-      <Text>, D.S.O. (Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>10898</PageNumber>
     </MainItem>
   </ItemGroup>

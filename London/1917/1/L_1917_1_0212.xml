@@ -91,14 +91,16 @@
       <PageNumber>1848</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Temp. Lt.</Text>
+      <Text>Temp. Lt</Text>
       <PageNumber>2210</PageNumber>
     </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Dodton</Key>
-      <Text>. temp. 2nd Lt. R. A. attd. (temp. 2nd Lt.)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>R. A.</Forenames>
+      <Text>attd. (temp. 2nd Lt.)</Text>
       <PageNumber>2023</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -291,7 +293,9 @@
       <Key>Donaldson-Hudson</Key>
       <Title>Capt. (temp. Lt.-Col.)</Title>
       <Forenames>R. C</Forenames>
-      <Text>, D.S.O. (In spectimg Offr. of Depots)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>1028</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -502,11 +506,13 @@
       <Key>Dooner</Key>
       <Title>Maj.</Title>
       <Forenames>J. G.</Forenames>
-      <Text>(Bt. Lt.-Col., . for dist. serv.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>17</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Actg. Lt.-Col.</Text>
+      <Text>Actg. Lt.-Col</Text>
       <PageNumber>3111</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -727,7 +733,10 @@
         <KeyDitto>—— ___ ___</KeyDitto>
       </Key>
       <Forenames>A. R.</Forenames>
-      <Text>,T., M.D., F.R.C.S. (temp. Lt.) ... -</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>1850</PageNumber>
     </MainItem>
     <SubItem>
@@ -1013,7 +1022,9 @@
       </Key>
       <Title>Lt. (temp. Maj.)</Title>
       <Forenames>W.</Forenames>
-      <Text>to M.C. (date of appt</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>957</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1184,7 +1195,9 @@
       </Key>
       <Title>temp. Capt.</Title>
       <Forenames>C. C</Forenames>
-      <Text>, M.C. (attd.) .. Maj. (temp. Lt.-Col.) H. C. T</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1163</PageNumber>
     </MainItem>
   </ItemGroup>

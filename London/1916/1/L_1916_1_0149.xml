@@ -387,7 +387,12 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Title>Lt.</Title>
-      <Text>-Gen. Sir J. G., K.C.B., K.C.M.G., C.V.O., D.S.O. (temp. Gen.)</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>C.V.O.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>1105</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -455,7 +460,9 @@
     <MainItem>
       <Key>May</Key>
       <Forenames>A. W.</Forenames>
-      <Text>, M.D.. (temp. Maj.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>2057</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -505,7 +512,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>J. O</Forenames>
-      <Text>, D.S.O. (temp. Lt.iCol.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>1691</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -787,7 +796,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Supernumerary</Forenames>
-      <Text>Maj. 'C. R. G., D.S.O. (absorbed in the establishment)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>121</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -856,7 +867,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>T. A.</Forenames>
-      <Text>, M.B., F.R.C.S. (temp. Lt.)</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>457</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1298,8 +1311,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mellin</Key>
-      <Forenames>A. D.</Forenames>
-      <Text>de M. (temp. Lt.)</Text>
+      <Forenames>A. D. de M</Forenames>
+      <Text>. (temp. Lt.)</Text>
       <PageNumber>972</PageNumber>
     </MainItem>
   </ItemGroup>

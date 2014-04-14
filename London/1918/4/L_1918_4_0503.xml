@@ -57,7 +57,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Coward</Key>
-      <Text>2nd Lt. E. G. W. {Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>E. G. W.</Forenames>
+      <Text>{Lt.)</Text>
       <PageNumber>15289</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -189,7 +191,9 @@
       </Key>
       <Title>2nd Lt. (Hon. Lt.)</Title>
       <Forenames>C. E</Forenames>
-      <Text>M.C. (rel. commn.)'</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>14139</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -335,7 +339,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Coxen</Key>
-      <Text>Lt. (Army) F. (temp. 2nd Lt., Olbsvr. Offr., and Hon. Lt.)</Text>
+      <Title>Lt. (Army)</Title>
+      <Forenames>F.</Forenames>
+      <Text>(temp. 2nd Lt., Olbsvr. Offr., and Hon. Lt.)</Text>
       <PageNumber>14137</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -369,7 +375,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Crabbe</Key>
-      <Text>Capt. (C.E.F.) C. E.. M.C. (temp. Lt., Admin., and temp. Capt.)</Text>
+      <Title>Capt. (C.E.F.)</Title>
+      <Forenames>C. E.</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>11979</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -468,7 +478,9 @@
       </Key>
       <Title>Lt. (T.F.)</Title>
       <Forenames>J. M.</Forenames>
-      <Text>, V.C. (temp. 2nd Lt., A., and Hon. Lt.)</Text>
+      <Text>
+        <Honour>V.C.</Honour>
+      </Text>
       <PageNumber>14708</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -734,7 +746,9 @@
     <MainItem>
       <Key>Crewdson</Key>
       <Forenames>T.</Forenames>
-      <Text>/Maj. (Army) E., M.C. (temp. 2nd Lt., Obsvr. Offr., and Hon. Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>12902</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -751,7 +765,9 @@
       <Key>Crichton</Key>
       <Title>Lt. (T.F.)</Title>
       <Forenames>H.</Forenames>
-      <Text>McF., M.C. (temp. 2nd Lt., Obsvr. Offr. and Hon. Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>12129</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -767,7 +783,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cridland</Key>
-      <Text>Fleet Surgn. (R.N.) E. C. (temp. Lt.-Col., Med.)</Text>
+      <Forenames>Fleet Surgn</Forenames>
+      <Text>. (R.N.) E. C. (temp. Lt.-Col., Med.)</Text>
       <PageNumber>13924</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -958,7 +975,9 @@
         <KeyDitto>___</KeyDitto>
       </Key>
       <Title>Lt.</Title>
-      <Text>, A.) . Lt. (T.F.) R. C, M.C. (temp. 2nd Lt.,Obsvr. Offr. and</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>14137</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -994,14 +1013,22 @@
   <ItemGroup>
     <MainItem>
       <Key>Crosfield</Key>
-      <Text>Maj. (T.F.) G. R., D.S.O. (temp. 2nd Lt., Obevr. Offr</Text>
+      <Title>Maj. (T.F.)</Title>
+      <Forenames>G. R.</Forenames>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>12902</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Cross</Key>
-      <Text>Capt. B. C. H., D.F.C</Text>
+      <Title>Capt.</Title>
+      <Forenames>B. C. H.</Forenames>
+      <Text>
+        <Honour>D.F.C</Honour>
+      </Text>
       <PageNumber>15292</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1056,14 +1083,21 @@
   <ItemGroup>
     <MainItem>
       <Key>Crossilev</Key>
-      <Text>Lt. (O.) Frank (Lt.,</Text>
+      <Title>Lt. (O.)</Title>
+      <Forenames>Frank</Forenames>
+      <Text>(Lt.,</Text>
       <PageNumber>14710</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Crossniein</Key>
-      <Text>Lt.-Col. G. L., C.M.G., D.S.O. (rel. appt. as S.O., lst</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>G. L.</Forenames>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>13006</PageNumber>
     </MainItem>
     <SubItem>
@@ -1125,7 +1159,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Crow</Key>
-      <Text>Lt. (O.I A. L. (Lt.. Admin.)</Text>
+      <Title>Lt.</Title>
+      <Text>(O.I A. L. (Lt.. Admin.)</Text>
       <PageNumber>13611</PageNumber>
     </MainItem>
   </ItemGroup>

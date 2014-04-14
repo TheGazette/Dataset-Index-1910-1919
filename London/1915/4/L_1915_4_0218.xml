@@ -205,7 +205,7 @@
       <PageNumber>11310</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Temp. Capt</Text>
+      <Text>Temp. Capt.</Text>
       <PageNumber>11311</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -213,7 +213,10 @@
     <MainItem>
       <Key>Strathearn</Key>
       <Forenames>J.</Forenames>
-      <Text>, M.D., F.R.C.S. (Edin.) (Capt.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>9558</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -234,7 +237,7 @@
       <PageNumber>11147</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Temp. Maj</Text>
+      <Text>Temp. Maj.</Text>
       <PageNumber>12073</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -427,8 +430,8 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Title>Lt.</Title>
-      <Forenames>G. St</Forenames>
-      <Text>. J. (temp. Capt</Text>
+      <Forenames>G. St. J</Forenames>
+      <Text>. (temp. Capt</Text>
       <PageNumber>10642</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1098,14 +1101,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Swift</Key>
-      <Text>E. A. (2nd Lt.)</Text>
+      <Forenames>E. A.</Forenames>
+      <Text>(2nd Lt.)</Text>
       <PageNumber>11214</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Swinburne</Key>
-      <Text>H. L. (2nd Lt.)</Text>
+      <Forenames>H. L.</Forenames>
+      <Text>(2nd Lt.)</Text>
       <PageNumber>10105</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1120,7 +1125,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Swindells</Key>
-      <Text>Lt. A. G (temp. Capt.)</Text>
+      <Title>Lt.</Title>
+      <Forenames>A. G</Forenames>
+      <Text>(temp. Capt.)</Text>
       <PageNumber>9661</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1154,7 +1161,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Sydenham</Key>
-      <Text>2nd Lt. H. St. B. (temp. Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>H. St</Forenames>
+      <Text>. B. (temp. Lt.)</Text>
       <PageNumber>10017</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1317,8 +1326,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Taafe</Key>
-      <Forenames>C. R. O</Forenames>
-      <Text>'R. (2nd Lt.)</Text>
+      <Forenames>C. R. O'R</Forenames>
+      <Text>. (2nd Lt.)</Text>
       <PageNumber>13017</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1393,7 +1402,7 @@
       <PageNumber>12036</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Lt</Text>
+      <Text>Lt.</Text>
       <PageNumber>12434</PageNumber>
     </SubItem>
   </ItemGroup>

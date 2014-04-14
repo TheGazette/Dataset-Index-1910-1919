@@ -267,7 +267,9 @@
   <ItemGroup>
     <MainItem>
       <Key>McLearon</Key>
-      <Text>. Capt. William (seconded)</Text>
+      <Title>Capt.</Title>
+      <Forenames>William</Forenames>
+      <Text>(seconded)</Text>
       <PageNumber>7007</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -604,8 +606,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rumsey</Key>
-      <Forenames>Vere</Forenames>
-      <Text>de M. O. (Lieut.)</Text>
+      <Forenames>Vere de M</Forenames>
+      <Text>. O. (Lieut.)</Text>
       <PageNumber>6814</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -988,7 +990,9 @@
       <Key>Anstice</Key>
       <Title>Maj. Sir</Title>
       <Forenames>Robert Henry</Forenames>
-      <Text>, K.C.B. (Honorary Colonelcy)</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+      </Text>
       <PageNumber>5366</PageNumber>
     </MainItem>
     <SubItem>
@@ -1103,7 +1107,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bone</Key>
-      <Text>. John (2nd Lieut.)</Text>
+      <Forenames>John</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>7404</PageNumber>
     </MainItem>
   </ItemGroup>

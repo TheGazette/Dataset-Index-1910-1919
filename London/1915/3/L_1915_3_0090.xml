@@ -424,7 +424,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sparks</Key>
-      <Text>. OH. (Lieut.)</Text>
+      <Text>OH. (Lieut.)</Text>
       <PageNumber>6798</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -595,15 +595,18 @@
       <Key>Stevenson</Key>
       <Title>Maj.</Title>
       <Forenames>Edward H.</Forenames>
-      <Text>, D.S.O. (temporary Lieut.-Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8959</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Steward</Key>
-      <Forenames>Lieut</Forenames>
-      <Text>, (temporary Capt.) R. D. (Adjt.)</Text>
+      <Title>Lieut, (temporary Capt.)</Title>
+      <Forenames>R. D.</Forenames>
+      <Text>(Adjt.)</Text>
       <PageNumber>9515</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -851,7 +854,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Tacon</Key>
-      <Text>. D. G. T. (temporary Lieut.)</Text>
+      <Forenames>D. G. T.</Forenames>
+      <Text>(temporary Lieut.)</Text>
       <PageNumber>7897</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -905,7 +909,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Taylor</Key>
-      <Text>. A. G. (Lieut.)</Text>
+      <Forenames>A. G.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>6797</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -973,9 +978,11 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Title>Maj. St.</Title>
-      <Forenames>J. L. H. Du Plat</Forenames>
-      <Text>., D.S.O. (temporary Lieut.Col.)</Text>
+      <Title>Maj. St. J.</Title>
+      <Forenames>L. H. Du Plat</Forenames>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8520</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1358,7 +1365,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Treglown</Key>
-      <Text>. C. H. (temporary Lieut.)</Text>
+      <Forenames>C. H.</Forenames>
+      <Text>(temporary Lieut.)</Text>
       <PageNumber>9516</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1373,7 +1381,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Trevenen</Key>
-      <Text>. S. V. (Lieut.)</Text>
+      <Forenames>S. V.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>6798</PageNumber>
     </MainItem>
   </ItemGroup>

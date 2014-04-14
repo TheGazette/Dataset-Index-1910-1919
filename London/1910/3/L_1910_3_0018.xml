@@ -49,9 +49,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Neck</Forenames>
-      <Text>, P. (2nd Lieut.)</Text>
+      <Key>Van Neck</Key>
+      <Forenames>P.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>5583</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -77,7 +77,9 @@
       <Key>Barttelot</Key>
       <Title>Sir</Title>
       <Forenames>W. B.</Forenames>
-      <Text>, Bart. (Capt.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>4957</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -248,7 +250,9 @@
       <Key>Colquhoun</Key>
       <Title>Sir</Title>
       <Forenames>I.</Forenames>
-      <Text>, Bart. (2nd Lieut.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>6584</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -495,7 +499,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Macdonald</Key>
-      <Text>. A. (2nd Lieut.) ..</Text>
+      <Forenames>A.</Forenames>
+      <Text>(2nd Lieut.) ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -712,8 +717,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cazenove</Key>
-      <Forenames>B.</Forenames>
-      <Text>de L. (Lieut.)</Text>
+      <Forenames>B. de L</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>6184</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -866,8 +871,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dickinson</Key>
-      <Forenames>E. N. St</Forenames>
-      <Text>. J. (2nd Lieut.)</Text>
+      <Forenames>E. N. St. J</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>4860</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1000,7 +1005,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Forster</Key>
-      <Text>. Sir C, Bart. (Hon. Col.)</Text>
+      <Title>Sir</Title>
+      <Forenames>C</Forenames>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>5047</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1206,8 +1215,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kay</Key>
-      <Forenames>H.</Forenames>
-      <Text>de T. W. (2nd Lieut.)</Text>
+      <Forenames>H. de T</Forenames>
+      <Text>. W. (2nd Lieut.)</Text>
       <PageNumber>6334</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1216,7 +1225,9 @@
       <Key>Kemp</Key>
       <Title>Lieut.-Col. and Hon. Col. Sir</Title>
       <Forenames>K. H.</Forenames>
-      <Text>, Bart, (resigned)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>6184</PageNumber>
     </MainItem>
   </ItemGroup>

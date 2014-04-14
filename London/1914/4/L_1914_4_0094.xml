@@ -228,8 +228,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donel, Lieut. G. O'D. F. (temporary Capt., and to be supernumerary) :</Text>
+      <Key>O'Donel</Key>
+      <Title>Lieut.</Title>
+      <Forenames>G. O'D</Forenames>
+      <Text>. F. (temporary Capt., and to be supernumerary) :</Text>
       <PageNumber>10555</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -270,8 +272,8 @@
     <MainItem>
       <Key>Paget</Key>
       <Title>Lieut.-Col. and Brevet-Col.</Title>
-      <Forenames>Alwyn</Forenames>
-      <Text>de B. V. (to command the Battalion)</Text>
+      <Forenames>Alwyn de B</Forenames>
+      <Text>. V. (to command the Battalion)</Text>
       <PageNumber>10414</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -429,7 +431,9 @@
     <MainItem>
       <Key>Richey</Key>
       <Forenames>George Henry Mills</Forenames>
-      <Text>, D.S.O. (temporary Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>9692</PageNumber>
     </MainItem>
     <SubItem>
@@ -534,14 +538,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Sabine</Key>
-      <Text>. Tempy. Capt. Thomas G. A. B. (relinquishes his temporary commission)</Text>
+      <Title>Tempy. Capt.</Title>
+      <Forenames>Thomas G. A. B.</Forenames>
+      <Text>(relinquishes his temporary commission)</Text>
       <PageNumber>8883</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. John, Geoffrey Robert (temporary 2nd Lieut.)</Text>
+      <Key>St. John</Key>
+      <Forenames>Geoffrey Robert</Forenames>
+      <Text>(temporary 2nd Lieut.)</Text>
       <PageNumber>9989</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -781,16 +788,7 @@
     <MainItem>
       <Key>Stanley</Key>
       <Forenames>Phipps Edward</Forenames>
-      <Text>(tempo-</Text>
-      <PageNumber>ibid.</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Stanton</Key>
-      <Title>Brevet Col.</Title>
-      <Forenames>Charles J.</Forenames>
-      <Text>(to</Text>
+      <Text>(tempoibid. rary Capt.) * Stanton, Brevet Col. Charles J. (to</Text>
       <PageNumber>7903</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -965,7 +963,9 @@
     <MainItem>
       <Key>Turner</Key>
       <Forenames>Reginald</Forenames>
-      <Text>, D.S.O. (tempo. rary Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>9989</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1014,7 +1014,9 @@
       <Key>Walker</Key>
       <Title>Lieut. Sir</Title>
       <Forenames>Robert J. Milo</Forenames>
-      <Text>, Bt. (Adjt. and temporary Capt.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>8613</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1045,7 +1047,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Warde</Key>
-      <Text>. C. A. (temporary Maj.)</Text>
+      <Forenames>C. A.</Forenames>
+      <Text>(temporary Maj.)</Text>
       <PageNumber>10107</PageNumber>
     </MainItem>
   </ItemGroup>

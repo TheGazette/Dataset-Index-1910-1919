@@ -70,7 +70,9 @@
     <MainItem>
       <Key>Stewart</Key>
       <Forenames>T. G.</Forenames>
-      <Text>, D.C.M. (actg. Capt.)</Text>
+      <Text>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>13608</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -122,7 +124,9 @@
       <Key>Underbill</Key>
       <Title>Lt.</Title>
       <Forenames>G.</Forenames>
-      <Text>, D.S.C. (actg. Capt.)</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>14332</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -228,7 +232,9 @@
       </Key>
       <Title>temp. Lt.</Title>
       <Forenames>S. H.</Forenames>
-      <Text>, M.C. (seed. for serv. with Army Gen. Staff)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>13313</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -269,8 +275,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Caulfeild</Key>
-      <Title>Maj. (temp. Lt.-Col.) St.</Title>
-      <Forenames>G. F. G.</Forenames>
+      <Title>Maj. (temp. Lt.-Col.) St. G.</Title>
+      <Forenames>F. G.</Forenames>
       <Text>(seed.)</Text>
       <PageNumber>12899</PageNumber>
     </MainItem>
@@ -297,7 +303,9 @@
       <Key>Foster</Key>
       <Title>Maj. and Bt. Lt.-Col.</Title>
       <Forenames>R. F. C</Forenames>
-      <Text>, D.S.O. (seed, for serv. .with Army)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>14114</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -388,7 +396,9 @@
     <MainItem>
       <Key>Cobb</Key>
       <Forenames>R. S.</Forenames>
-      <Text>, M.C. (temp. Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>13608</PageNumber>
     </MainItem>
     <SubItem>
@@ -402,6 +412,14 @@
       <Forenames>E. G.</Forenames>
       <Text>(temp. Lt</Text>
       <PageNumber>12900</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Boissiere</Key>
+      <Forenames>H. E.</Forenames>
+      <Text>(temp. Lt.)</Text>
+      <PageNumber>12491</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -547,7 +565,9 @@
     <MainItem>
       <Key>Reid</Key>
       <Forenames>H. C</Forenames>
-      <Text>, C.B. (temp. Lt.-Col.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>13313</PageNumber>
     </MainItem>
     <SubItem>
@@ -716,7 +736,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Cluttertrack</Key>
-      <Text>Maj. N. S., D.S.O. (acts. Lt.-Col.)</Text>
+      <Title>Maj.</Title>
+      <Forenames>N. S.</Forenames>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>14482</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -820,7 +844,9 @@
       <Key>Palmer</Key>
       <Title>Capt.</Title>
       <Forenames>J. M.</Forenames>
-      <Text>, D.S.C. (Maj.)</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>14955</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1094,7 +1120,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lamlb</Key>
-      <Text>S. (temp. Lt.)</Text>
+      <Forenames>S.</Forenames>
+      <Text>(temp. Lt.)</Text>
       <PageNumber>12899</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1109,7 +1136,8 @@
   <ItemGroup>
     <MainItem>
       <Key>McQueen</Key>
-      <Text>W. L. (temro. Lt.)</Text>
+      <Forenames>W. L.</Forenames>
+      <Text>(temro. Lt.)</Text>
       <PageNumber>12600</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1123,7 +1151,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Moore</Key>
-      <Text>G. F. (temp. Lt.)</Text>
+      <Forenames>G. F.</Forenames>
+      <Text>(temp. Lt.)</Text>
       <PageNumber>12600</PageNumber>
     </MainItem>
   </ItemGroup>

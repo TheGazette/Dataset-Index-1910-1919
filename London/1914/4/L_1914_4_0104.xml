@@ -52,7 +52,9 @@
     <MainItem>
       <Key>Marsden</Key>
       <Forenames>G.</Forenames>
-      <Text>, D.S.O. (temporary Capt.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>9233</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -307,7 +309,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wollaston</Key>
-      <Text>. Charles H. Pigott (temporary Lieut.)</Text>
+      <Forenames>Charles H. Pigott</Forenames>
+      <Text>(temporary Lieut.)</Text>
       <PageNumber>9135</PageNumber>
     </MainItem>
     <SubItem>
@@ -507,6 +510,14 @@
       <Forenames>H. G.</Forenames>
       <Text>(temporary Lieut, and to be supernumerary)</Text>
       <PageNumber>10556</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Miremont</Key>
+      <Forenames>Guy E.</Forenames>
+      <Text>(Capt. and to remain seconded)</Text>
+      <PageNumber>9241</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -950,7 +961,9 @@
       <Key>Roche</Key>
       <Title>Col. The Hon.</Title>
       <Forenames>Ulick</Forenames>
-      <Text>de R. B., C.B. (to command 17th Bat.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>7903</PageNumber>
     </MainItem>
     <SubItem>
@@ -986,7 +999,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Stamper</Key>
-      <Text>. Lieut. E. P. F. (Adjt.)</Text>
+      <Title>Lieut.</Title>
+      <Forenames>E. P. F.</Forenames>
+      <Text>(Adjt.)</Text>
       <PageNumber>8610</PageNumber>
     </MainItem>
   </ItemGroup>

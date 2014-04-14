@@ -115,7 +115,12 @@
   <ItemGroup>
     <MainItem>
       <Key>Richmond</Key>
-      <Text>and Gordon, Hon. Comdt. and Hon. Lt.-Col. C. H., The Duke of, K.G., G.C.V.O., C.B., A.D.C. (rel. commn.)</Text>
+      <Text>
+        <Honour>K.G.</Honour>
+        <Honour>G.C.V.O.</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>A.D.C.</Honour>
+      </Text>
       <PageNumber>12745</PageNumber>
       <PageNumber>12750</PageNumber>
     </MainItem>
@@ -188,7 +193,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Riordan</Key>
-      <Text>temp. Lt. J. E. (rel</Text>
+      <Title>temp. Lt.</Title>
+      <Forenames>J. E.</Forenames>
+      <Text>(rel</Text>
       <PageNumber>15565</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -197,7 +204,9 @@
       <Key>Rdsfojwortih</Key>
       <Title>Hon. Comdt. and Hon. Lt.-Col.</Title>
       <Forenames>A. H.</Forenames>
-      <Text>, M.B.E. (rel. commn., and reitains hon. rank</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>12752</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -913,7 +922,9 @@
       <Key>Rutland</Key>
       <Title>Hon. Comdt. and Hon. Col.</Title>
       <Forenames>H. J. B.</Forenames>
-      <Text>, The Duke of, K.G. (rel. commn., and retains Hon. rank of Col.)</Text>
+      <Text>
+        <Honour>K.G.</Honour>
+      </Text>
       <PageNumber>12748</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -983,8 +994,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>Clair, temp. Lt. G. G. (rel. cammn., and to be Hon. Lt.)</Text>
+      <Key>St. Clair</Key>
+      <Title>temp. Lt.</Title>
+      <Forenames>G. G.</Forenames>
+      <Text>(rel. cammn., and to be Hon. Lt.)</Text>
       <PageNumber>13893</PageNumber>
     </MainItem>
   </ItemGroup>

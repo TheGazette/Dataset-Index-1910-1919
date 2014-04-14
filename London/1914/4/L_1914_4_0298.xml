@@ -298,7 +298,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Waller</Key>
-      <Text>. Edmund (temporary SubLieut.) . ... .... '</Text>
+      <Forenames>Edmund</Forenames>
+      <Text>(temporary SubLieut.) . ... .... '</Text>
       <PageNumber>8131</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -419,8 +420,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Westminster</Key>
-      <Forenames>His Grace The</Forenames>
-      <Text>Duke of (temporary Lieut-Commander)</Text>
+      <Forenames>His Grace</Forenames>
+      <Text>The Duke of (temporary Lieut-Commander)</Text>
       <PageNumber>9400</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -520,8 +521,8 @@
     <MainItem>
       <Key>Whittaker</Key>
       <Title>William.</Title>
-      <Forenames>E.</Forenames>
-      <Text>de B. (temporary Sub-Lieu;.)</Text>
+      <Forenames>E. de B</Forenames>
+      <Text>. (temporary Sub-Lieu;.)</Text>
       <PageNumber>7917</PageNumber>
     </MainItem>
     <SubItem>
@@ -541,7 +542,9 @@
     <MainItem>
       <Key>Wliyte</Key>
       <Forenames>A. F.</Forenames>
-      <Text>, M.P. (temporary Hon. Lieut.)</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>10186</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -598,8 +601,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Willis</Key>
-      <Forenames>Arthur G.</Forenames>
-      <Text>de Laval (SubLieut)</Text>
+      <Forenames>Arthur G. de Laval</Forenames>
+      <Text>(SubLieut)</Text>
       <PageNumber>10295</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -742,7 +745,9 @@
       <Key>Hankey</Key>
       <Title>Capt.</Title>
       <Forenames>Maurice P. Alers</Forenames>
-      <Text>, C.B. (temporary Lieut-Col. retired list)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>8635</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -861,15 +866,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Hillyard</Key>
-      <Title>Lieut.</Title>
-      <Text>-Commander George Whiteside</Text>
+      <Title>Lieut.-Commander</Title>
+      <Forenames>George Whiteside</Forenames>
       <PageNumber>9265</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hull</Key>
-      <Text>. Henry Woolcott</Text>
+      <Forenames>Henry Woolcott</Forenames>
       <PageNumber>9690</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1033,8 +1038,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Busteed</Key>
-      <Title>(temporary)Flight</Title>
-      <Forenames>Lieut</Forenames>
+      <Title>(temporary)Flight Lieut</Title>
       <Text>: Henry Richard (confirmed)</Text>
       <PageNumber>10184</PageNumber>
     </MainItem>

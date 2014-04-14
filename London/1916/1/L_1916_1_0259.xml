@@ -537,8 +537,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fitzgerald</Key>
-      <Forenames>R. O</Forenames>
-      <Text>'B. (temp. Sub-Lt.)</Text>
+      <Forenames>R. O'B</Forenames>
+      <Text>. (temp. Sub-Lt.)</Text>
       <PageNumber>847</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -815,8 +815,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Good</Key>
-      <Forenames>F.</Forenames>
-      <Text>de C. C. J. (temp. SubLt.)</Text>
+      <Forenames>F. de C</Forenames>
+      <Text>. C. J. (temp. SubLt.)</Text>
       <PageNumber>2566</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -968,8 +968,10 @@
     <MainItem>
       <Key>Guinness</Key>
       <Title>Sir</Title>
-      <Forenames>A. A. St</Forenames>
-      <Text>. L., Bt. (temp. Lt.)</Text>
+      <Forenames>A. A. St. L</Forenames>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>846</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1638,7 +1640,9 @@
     <MainItem>
       <Key>Lamb</Key>
       <Forenames>E. H.</Forenames>
-      <Text>, D.S.C. (temp. Lt.)</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>3460</PageNumber>
     </MainItem>
   </ItemGroup>

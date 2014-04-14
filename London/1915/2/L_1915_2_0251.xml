@@ -3,7 +3,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gladstone</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, Bertram H. (temporary Half-pay List)</Text>
       <PageNumber>5522</PageNumber>
     </MainItem>
@@ -621,7 +621,9 @@
       <Key>Anstruther</Key>
       <Title>Lieut.-Col. and Hon. Col. (Hon. Col. of the Battalion) Sir</Title>
       <Forenames>Ralph William</Forenames>
-      <Text>, Bt. (temporary Maj.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>5083</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1079,7 +1081,9 @@
       <Key>Dugmore</Key>
       <Title>Capt.</Title>
       <Forenames>William F. B. R.</Forenames>
-      <Text>, D.S.O. (temporary Lieut.-Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6160</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -254,7 +254,9 @@
     <MainItem>
       <Key>Dick</Key>
       <Title>temp. Lt.-Col. and Co.</Title>
-      <Text>. . Comdt. A. C. D., C.B. (resigns commn.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>8686</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -445,7 +447,9 @@
       </Key>
       <Title>Col.</Title>
       <Forenames>W. C</Forenames>
-      <Text>, D.S.O. (temp. Lt. Col. and County Comdt.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8686</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -521,8 +525,8 @@
     <MainItem>
       <Key>Drennan</Key>
       <Title>temp. Capt.</Title>
-      <Forenames>W. St</Forenames>
-      <Text>. G. (resigns commn. on joining Army)</Text>
+      <Forenames>W. St. G</Forenames>
+      <Text>. (resigns commn. on joining Army)</Text>
       <PageNumber>7613</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -974,7 +978,10 @@
       <Key>Erroll</Key>
       <Title>temp. Lt.-Col. and Co. Comdt.</Title>
       <Forenames>C. G. Hay</Forenames>
-      <Text>, the Earl of, K.T.. C.B. (resigns commn.)</Text>
+      <Text>
+        <Honour>K.T.</Honour>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>8686</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1342,8 +1349,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>E. St</Forenames>
-      <Text>. J. (temp. 2nd Lt.)</Text>
+      <Forenames>E. St. J</Forenames>
+      <Text>. (temp. 2nd Lt.)</Text>
       <PageNumber>9144</PageNumber>
     </MainItem>
   </ItemGroup>

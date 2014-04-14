@@ -3,7 +3,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Gold</Key>
-      <Text>. Cadet A. (temp, 2nd Lt., T., Gr. B.)</Text>
+      <Title>Cadet</Title>
+      <Forenames>A.</Forenames>
+      <Text>(temp, 2nd Lt., T., Gr. B.)</Text>
       <PageNumber>7834</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -385,7 +387,10 @@
       </Key>
       <Title>2nd Lt. (Hon. Capt.)</Title>
       <Forenames>S. T.</Forenames>
-      <Text>, M.C., . D.C.M. (trd. to unempld. list)'</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>5655</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -642,7 +647,9 @@
       </Key>
       <Title>2nd Lt.</Title>
       <Forenames>R. Mor</Forenames>
-      <Text>.. D.F.C. (trd. to unempld. list)</Text>
+      <Text>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>5919</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -773,14 +780,18 @@
   <ItemGroup>
     <MainItem>
       <Key>Goes</Key>
-      <Text>. 2nd Lt. H. iW. (trd. to unempld. list)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>H.</Forenames>
+      <Text>iW. (trd. to unempld. list)</Text>
       <PageNumber>4217</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Gossage</Key>
-      <Text>. 2nd Lt. G. M. (trd. to unempld. list)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>G. M.</Forenames>
+      <Text>(trd. to unempld. list)</Text>
       <PageNumber>7073</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -844,14 +855,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Gouah</Key>
-      <Text>. 2nd Lt. Edgar (trd. tounemold. list)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>Edgar</Forenames>
+      <Text>(trd. tounemold. list)</Text>
       <PageNumber>6122</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Gould</Key>
-      <Text>. 2nd ILt. D. L. (trd. to unempld. list) ... ;</Text>
+      <Text>2nd ILt. D. L. (trd. to unempld. list) ... ;</Text>
       <PageNumber>5204</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -954,7 +967,9 @@
       <Key>Grabowsky</Key>
       <Title>Capt.</Title>
       <Forenames>N.</Forenames>
-      <Text>, A.F.C. (confd.)</Text>
+      <Text>
+        <Honour>A.F.C.</Honour>
+      </Text>
       <PageNumber>4578</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1211,7 +1226,9 @@
       <Key>Grahame</Key>
       <Title>2nd Lt.</Title>
       <Forenames>J. H.</Forenames>
-      <Text>, D.F.C. (trd. to unempld. list)</Text>
+      <Text>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>6369</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1252,7 +1269,9 @@
       <Key>Gran</Key>
       <Title>Capt. (actg. Maj.)</Title>
       <Forenames>T.</Forenames>
-      <Text>, M.C. (tempv. trd. to unempld. list)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6367</PageNumber>
     </MainItem>
   </ItemGroup>

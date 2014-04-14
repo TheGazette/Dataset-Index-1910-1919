@@ -47,7 +47,10 @@
       </Key>
       <Title>Capt. (Bt. Maj.) (actg. Lt.Col.)</Title>
       <Forenames>G.</Forenames>
-      <Text>, D.S.O., M.C. (rel. actg. rank of Lt.-Col. on ceasing to comd. Bn.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4376</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -86,8 +89,8 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Title>Maj. (Bt. Lt.Ooi.)</Title>
-      <Forenames>D. O</Forenames>
-      <Text>'B. (temp. Lt.-Col., comdg. a Bn.)</Text>
+      <Forenames>D. O'B</Forenames>
+      <Text>. (temp. Lt.-Col., comdg. a Bn.)</Text>
       <PageNumber>5493</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -134,7 +137,10 @@
       </Key>
       <Title>Capt. (actg. Lt:-Col.)</Title>
       <Forenames>H. K.</Forenames>
-      <Text>, D.S.O., M.D. (rel. actg. rank on ceasing to be spec. empld.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>4968</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -263,6 +269,33 @@
       <Text>(rel. commn. on acc. of ill-health caused by wounds, and retains rank of Lt.)</Text>
       <PageNumber>4311</PageNumber>
     </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Brett</Key>
+      <Title>Capt.</Title>
+      <Forenames>E. A.</Forenames>
+      <Text>(rel. commn. on ceasing to be empld., and retains rank of Capt.)</Text>
+      <PageNumber>7417</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Fraine</Key>
+      <Title>Lt. (actg. Capt.)</Title>
+      <Forenames>C. R.</Forenames>
+      <Text>(rel. actg. rank of Capt.)</Text>
+      <PageNumber>7782</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Geiger</Key>
+      <Title>Lt. (actg. Capt., without pay and allces.)</Title>
+      <Forenames>W. A. W. G.</Forenames>
+      <Text>(actg. Capt., comdg. a Co.)</Text>
+      <PageNumber>5893</PageNumber>
+    </MainItem>
     <SubItem>
       <Text>.Rel. actg. rank of Capt</Text>
       <PageNumber>6327</PageNumber>
@@ -270,15 +303,77 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Pinna</Forenames>
-      <Text>, Lt. CD. (rel. commn. i on acc. of ill-health caused-by wounds, and retains rank of Lt.) 8198 | de Pree, Maj. C. G. (restd. to estabt.)</Text>
+      <Key>de Lacy</Key>
+      <Title>2nd Lt.</Title>
+      <Forenames>P.</Forenames>
+      <Text>(Lt.)</Text>
+      <PageNumber>7545</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Pass</Key>
+      <Title>Capt.</Title>
+      <Forenames>E. A.</Forenames>
+      <Text>(restd. to estabt.)</Text>
+      <PageNumber>5770</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Pinna</Key>
+      <Title>Lt.</Title>
+      <Text>CD. (rel. commn. i on acc. of ill-health caused-by wounds, and retains rank of Lt.) 8198 | de Pree, Maj. C. G. (restd. to estabt.)</Text>
       <PageNumber>5185</PageNumber>
     </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Pury</Key>
+      <Title>Lt.</Title>
+      <Forenames>C. F. P.</Forenames>
+      <Text>(restd. to estabt.)</Text>
+      <PageNumber>7784</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Rothschild</Key>
+      <Title>Capt.</Title>
+      <Forenames>A. G.</Forenames>
+      <Text>(restd. to estabt.)</Text>
+      <PageNumber>5876</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Segundo</Key>
+      <Title>2nd Lt.</Title>
+      <Forenames>B. S.</Forenames>
+      <Text>(Lt.)</Text>
+      <PageNumber>5908</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Selincourt</Key>
+      <Title>Lt.</Title>
+      <Forenames>L.</Forenames>
+      <Text>(actg. Capt., addtl.)</Text>
+      <PageNumber>5893</PageNumber>
+    </MainItem>
     <SubItem>
-      <Text>Actg. Capt., comdg. a Co</Text>
+      <Text>Actg. Capt., comdg. a Co.</Text>
       <PageNumber>5893</PageNumber>
     </SubItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Zoete</Key>
+      <Forenames>Lt</Forenames>
+      <Text>, (actg. Capt.) H. W. (rel. actg. rank of Capt. on ceasing to comd. a Co.)</Text>
+      <PageNumber>5286</PageNumber>
+    </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
@@ -294,11 +389,13 @@
       <Key>Deakin</Key>
       <Title>Maj. (temp. Lt.-Col.) (Capt., ret. pay)</Title>
       <Forenames>F. F.</Forenames>
-      <Text>, .D.S.O. (rel. temp rank on ceasing to be empld.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7501</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Lt.-Col</Text>
+      <Text>Lt.-Col.</Text>
       <PageNumber>8023</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -342,7 +439,9 @@
       </Key>
       <Title>Lt. (actg. Maj.)</Title>
       <Forenames>W. H.</Forenames>
-      <Text>, M.C. (rel. actg. rank of Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5741</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -389,7 +488,9 @@
       <Key>Deas</Key>
       <Title>Lt.</Title>
       <Forenames>E.</Forenames>
-      <Text>, M.C. (restd. to estabt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4868</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -416,7 +517,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Delap</Key>
-      <Text>. Lt. J. O. K., D.S.O. (restd. to estabt. of R.G.A., T.F.)</Text>
+      <Title>Lt.</Title>
+      <Forenames>J. O. K.</Forenames>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7156</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -434,7 +539,9 @@
       <Key>Delves-Broughton</Key>
       <Title>Capt.</Title>
       <Forenames>W. E.</Forenames>
-      <Text>, M.C. (actg. Maj. comdg. a Batt.), R.F.A., T.F</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7500</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -461,7 +568,9 @@
       <Key>Dench</Key>
       <Title>2nd Lt. (actg. Capt.)</Title>
       <Forenames>J. R</Forenames>
-      <Text>,, M.C. (Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5034</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -486,7 +595,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Dennis</Key>
-      <Text>. 2nd Lt. H. E. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>H. E.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>6768</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -526,11 +637,13 @@
       <Key>Denny</Key>
       <Title>Maj. (T./Lt.-Col.)</Title>
       <Forenames>A. C</Forenames>
-      <Text>, T.D. (rel. temp, rank of Lt.Col. on ceasing to comd. Bn.)</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>8042</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Restd. to estabt</Text>
+      <Text>Restd. to estabt.</Text>
       <PageNumber>8042</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -557,7 +670,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Denton</Key>
-      <Text>. Lt. (actg. Capt.) B. L. (rel. actsr. rank of Capt.)</Text>
+      <Title>Lt. (actg. Capt.)</Title>
+      <Forenames>B. L.</Forenames>
+      <Text>(rel. actsr. rank of Capt.)</Text>
       <PageNumber>5908</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -635,7 +750,10 @@
       <Key>Derviche-Jones</Key>
       <Title>Capt. (temp. Lt.Col.)</Title>
       <Forenames>A. D.</Forenames>
-      <Text>, D.S.O., M.C. (rel. temp, rank of Lt.-Col. on ceasing to comd. Bn.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7293</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -708,7 +826,9 @@
       </Key>
       <Title>2nd Lt.</Title>
       <Forenames>J. G. N.</Forenames>
-      <Text>(Lt., and remains seed., M.G.C.)</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>4375</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -717,7 +837,9 @@
       <Key>Dewhurst</Key>
       <Title>Lt.</Title>
       <Forenames>N.</Forenames>
-      <Text>, O.B.E. (restd. to estabt. of R.A.S.C., T.F.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>6356</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -756,7 +878,10 @@
       </Key>
       <Title>Lt. (actg. Maj.)</Title>
       <Forenames>H. W.</Forenames>
-      <Text>. D.S.O., M.C. (rel. actg. rank of Maj. on ceasing to be 2nd in comd.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5894</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -802,7 +927,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Dickinson</Key>
-      <Text>. Lt. C. E. (actg. Capt. comdg. a Co.)</Text>
+      <Title>Lt.</Title>
+      <Forenames>C. E.</Forenames>
+      <Text>(actg. Capt. comdg. a Co.)</Text>
       <PageNumber>5492</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -835,7 +962,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Title>Lt. (actg. Capt. and Adjt.)</Title>
-      <Text>TJ. W., M.C. (vacates appt. of Adjt.. and rel. actg. rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5187</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -925,7 +1054,7 @@
       <PageNumber>5615</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Rel. actg. rank of Capt. on ceasing to comd. a Co</Text>
+      <Text>Rel. actg. rank of Capt. on ceasing to comd. a Co.</Text>
       <PageNumber>7615</PageNumber>
     </SubItem>
   </ItemGroup>

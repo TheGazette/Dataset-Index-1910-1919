@@ -94,7 +94,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Finn</Key>
-      <Text>. H. (Hon. Brigr.-Gen.)</Text>
+      <Forenames>H.</Forenames>
+      <Text>(Hon. Brigr.-Gen.)</Text>
       <PageNumber>7023</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -376,7 +377,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lake</Key>
-      <Text>. N. M. (Hon. Brigr.-Gen.)</Text>
+      <Forenames>N. M.</Forenames>
+      <Text>(Hon. Brigr.-Gen.)</Text>
       <PageNumber>6287</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -391,7 +393,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lawford</Key>
-      <Text>. S. T. B. (Col.)</Text>
+      <Forenames>S. T. B.</Forenames>
+      <Text>(Col.)</Text>
       <PageNumber>4973</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -584,7 +587,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Pryce</Key>
-      <Text>. W. J. (Qrmr. and Hon. Lieut.) . .... '</Text>
+      <Forenames>W. J.</Forenames>
+      <Text>(Qrmr. and Hon. Lieut.) . .... '</Text>
       <PageNumber>4751</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -608,7 +612,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Read</Key>
-      <Text>. H. (Hon. Brigr.-Gen.)</Text>
+      <Forenames>H.</Forenames>
+      <Text>(Hon. Brigr.-Gen.)</Text>
       <PageNumber>6287</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -869,9 +874,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Straubenzee</Forenames>
-      <Text>, Col. A. H. (retired)</Text>
+      <Key>Van Straubenzee</Key>
+      <Title>Col.</Title>
+      <Forenames>A. H.</Forenames>
+      <Text>(retired)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1102,7 +1108,9 @@
       <Key>Sutton</Key>
       <Title>Sir</Title>
       <Forenames>R. V.</Forenames>
-      <Text>, Bart. ' (2nd Lieut.) ... „</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>6374</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1154,8 +1162,8 @@
     <MainItem>
       <Key>Cheape</Key>
       <Title>Capt.</Title>
-      <Forenames>L. St</Forenames>
-      <Text>. C. (seconded)</Text>
+      <Forenames>L. St. C</Forenames>
+      <Text>. (seconded)</Text>
       <PageNumber>5295</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1314,8 +1322,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Garfit</Key>
-      <Forenames>H.</Forenames>
-      <Text>de B. C. (Lieut.)</Text>
+      <Forenames>H. de B</Forenames>
+      <Text>. C. (Lieut.)</Text>
       <PageNumber>7110</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1357,8 +1365,8 @@
     <MainItem>
       <Key>Cole</Key>
       <Title>Capt.</Title>
-      <Forenames>S.</Forenames>
-      <Text>du P, T. (resigned)</Text>
+      <Forenames>S. du P</Forenames>
+      <Text>, T. (resigned)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1393,7 +1401,9 @@
       <Key>Baillie</Key>
       <Title>Sir</Title>
       <Forenames>G. G. S.</Forenames>
-      <Text>, Bart. (2nd . Lieut.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1417,8 +1427,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gaisford</Key>
-      <Title>St.</Title>
-      <Forenames>Lawrence</Forenames>
+      <Forenames>St. Lawrence</Forenames>
       <Text>, C. H. (2nd Lieut.)</Text>
       <PageNumber>6536</PageNumber>
     </MainItem>

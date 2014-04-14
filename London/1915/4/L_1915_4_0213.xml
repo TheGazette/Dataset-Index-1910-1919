@@ -527,7 +527,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rowlands</Key>
-      <Text>J. S. S. (2nd Lt.)</Text>
+      <Forenames>J. S. S.</Forenames>
+      <Text>(2nd Lt.)</Text>
       <PageNumber>11215</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -825,7 +826,7 @@
       <PageNumber>10018</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Temp. Capt</Text>
+      <Text>Temp. Capt.</Text>
       <PageNumber>11884</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -842,7 +843,9 @@
     <MainItem>
       <Key>Russell</Key>
       <Forenames>A. E.</Forenames>
-      <Text>, M.D. (Capt., whose services will be available on mobilisation)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>11588</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1143,7 +1146,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>R. L.</Forenames>
-      <Text>, M.D. (resigned)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>12929</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1225,7 +1230,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>J. E.</Forenames>
-      <Text>, M.D. (Capt.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>12698</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1418,8 +1425,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>Clair, A. (2nd Lt.)</Text>
+      <Key>St. Clair</Key>
+      <Forenames>A.</Forenames>
+      <Text>(2nd Lt.)</Text>
       <PageNumber>10490</PageNumber>
     </MainItem>
     <SubItem>
@@ -1430,15 +1438,18 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>John, F. W. H. (2nd Lt.)</Text>
+      <Forenames>John</Forenames>
+      <Text>, F. W. H. (2nd Lt.)</Text>
       <PageNumber>9878</PageNumber>
       <PageNumber>10367</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>Quintin, 2nd Lt. R. G. (temp. Lt.)</Text>
+      <Key>St. Quintin</Key>
+      <Title>2nd Lt.</Title>
+      <Forenames>R. G.</Forenames>
+      <Text>(temp. Lt.)</Text>
       <PageNumber>11215</PageNumber>
     </MainItem>
   </ItemGroup>

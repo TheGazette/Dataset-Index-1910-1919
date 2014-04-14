@@ -305,7 +305,7 @@
       <PageNumber>1256</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Actg. Lt. Sub. Not.</Text>
+      <Text>Actg. Lt. Sub. Not</Text>
       <PageNumber>2133</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -406,7 +406,7 @@
       <PageNumber>1046</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Reverts to temp, rank of Lt.</Text>
+      <Text>Reverts to temp, rank of Lt</Text>
       <PageNumber>2459</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -763,18 +763,22 @@
       <Key>Rhvs</Key>
       <Title>Capt. (temp. Lt.-Col.)</Title>
       <Forenames>O. L.</Forenames>
-      <Text>, * M.D. (rel. temp, rank)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>2461</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Rice</Key>
-      <Text>. 2nd Lt. A. K. (temp. Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>A. K.</Forenames>
+      <Text>(temp. Lt.)</Text>
       <PageNumber>826</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Lt.</Text>
+      <Text>Lt</Text>
       <PageNumber>3128</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -812,7 +816,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Richards</Key>
-      <Text>. 2nd Lt. A. S. (confd.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>A. S.</Forenames>
+      <Text>(confd.)</Text>
       <PageNumber>359</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -849,7 +855,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>H. E. S.</Forenames>
-      <Text>, M.D. (trd.) Sub. Not</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>942</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1086,7 +1094,9 @@
       <Key>Richey</Key>
       <Title>Maj.</Title>
       <Forenames>G. H. M.</Forenames>
-      <Text>, D.S.O. (Lt.Col., temp.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>1782</PageNumber>
     </MainItem>
     <SubItem>
@@ -1233,7 +1243,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Riddick</Key>
-      <Text>. Capt. J. G. (temp. Maj.)</Text>
+      <Title>Capt.</Title>
+      <Forenames>J. G.</Forenames>
+      <Text>(temp. Maj.)</Text>
       <PageNumber>965</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1356,7 +1368,10 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>H. M.</Forenames>
-      <Text>, M.D., F.R.C.S. (seed.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>187</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1367,7 +1382,10 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>H. M.</Forenames>
-      <Text>, M.D., F.R.C.S. (date of seedg.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>686</PageNumber>
     </MainItem>
   </ItemGroup>

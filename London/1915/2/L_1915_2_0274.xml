@@ -963,8 +963,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Barrow</Key>
-      <Forenames>Cecil</Forenames>
-      <Text>de Vere (2nd Lieut.)</Text>
+      <Forenames>Cecil de Vere</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>5489</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1141,7 +1141,9 @@
     <MainItem>
       <Key>Bowen</Key>
       <Forenames>Gerard Christopher</Forenames>
-      <Text>, D.S.O. (Capt. Adjt. and Qrmr.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6035</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1290,7 +1292,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Buhl</Key>
-      <Text>. Capt. and Hon, Maj. Frederick Julius (temporary Capt.]</Text>
+      <Title>Capt.</Title>
+      <Text>and Hon, Maj. Frederick Julius (temporary Capt.]</Text>
       <PageNumber>5401</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1375,7 +1378,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Carse</Key>
-      <Text>. John (2nd Lieut.)</Text>
+      <Forenames>John</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>3444</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1480,7 +1484,9 @@
       <Key>Clarke-Jervoiae</Key>
       <Title>Sir</Title>
       <Forenames>Eustace J.</Forenames>
-      <Text>, Bt. (Maj.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>5016</PageNumber>
     </MainItem>
   </ItemGroup>

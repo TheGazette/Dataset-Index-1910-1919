@@ -4,8 +4,7 @@
     <MainItem>
       <Key>Dunster</Key>
       <Title>temp. Lt.</Title>
-      <Forenames>J. E.</Forenames>
-      <Text>de M</Text>
+      <Forenames>J. E. de M</Forenames>
       <PageNumber>9555</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -13,7 +12,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Dunsterville</Key>
-      <Text>.Lt.-Col. (temp. Col.) E. L. (Col.) ;.. Dunton, temp. 2nd Lt. A. W.,</Text>
+      <Title>Lt.-Col. (temp. Col.)</Title>
+      <Forenames>E. L.</Forenames>
+      <Text>(Col.) ;.. Dunton, temp. 2nd Lt. A. W.,</Text>
       <PageNumber>8163</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -95,7 +96,9 @@
       <Key>Durell</Key>
       <Title>Col. (Chief Paym.)</Title>
       <Forenames>A. J. V.</Forenames>
-      <Text>, C.B. (placed on h.p. list on acc. of ill-health) .„</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>10075</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -104,7 +107,9 @@
       <Key>Durham</Key>
       <Title>temp. Maj.</Title>
       <Forenames>C. G.</Forenames>
-      <Text>, D.S.O. (actg. U.-Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>10381</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -115,7 +120,9 @@
       </Key>
       <Title>Sjt.</Title>
       <Forenames>E. H.</Forenames>
-      <Text>, M.M. (2nd Lt. for service in the Field)</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>10754</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -177,7 +184,9 @@
       <Key>Durie</Key>
       <Title>Supern. Maj.</Title>
       <Forenames>T. E.</Forenames>
-      <Text>, M.C. (restd. to estabt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8262</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -186,7 +195,9 @@
       <Key>Durling</Key>
       <Title>2nd Lt.</Title>
       <Forenames>T. H.</Forenames>
-      <Text>(trd. to M.G.C., Infy.)</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>7734</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -213,13 +224,17 @@
       <Key>Durrands</Key>
       <Title>Lt.</Title>
       <Forenames>W. B</Forenames>
-      <Text>M.C. (actg! Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9537</PageNumber>
     </MainItem>
     <SubCategoryTitle>Gen. List for duty with A</SubCategoryTitle>
     <SubCategoryTitle>Sig. Serv.) ... 9973 Ceases, to belong to M.G.C</SubCategoryTitle>
     <SubItem>
-      <Text>Ceases, to belong to M.G.C. on transfer to Gen. List for duty with A. Serv</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>10164</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -365,7 +380,9 @@
       <Key>Duxbury</Key>
       <Title>Lt.</Title>
       <Forenames>A. M.</Forenames>
-      <Text>, M.C. (rel. temp, rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9082</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -393,7 +410,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>C. H.</Forenames>
-      <Text>, M.C. (actg. Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8974</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -498,7 +517,9 @@
       <PageNumber>8873</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>Ceases to belong to ___ ___ Cadet S., M.M. (temp. 2nd M.G.C, Infy., on Lt.)</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>9070</PageNumber>
     </SubItem>
     <SubItem>
@@ -588,8 +609,8 @@
         <KeyDitto>___ ___ .</KeyDitto>
       </Key>
       <Title>Capt. (temp. Maj.)</Title>
-      <Forenames>H. St</Forenames>
-      <Text>. G., ___ ___ (temp. 2nd Lt., attd.)</Text>
+      <Forenames>H. St. G</Forenames>
+      <Text>., ___ ___ (temp. 2nd Lt., attd.)</Text>
       <PageNumber>8137</PageNumber>
     </MainItem>
   </ItemGroup>

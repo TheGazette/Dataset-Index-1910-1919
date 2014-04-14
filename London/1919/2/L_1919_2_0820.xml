@@ -113,7 +113,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Astle</Key>
-      <Text>. 2nd Lt. (Hon. Lt.) (actg. Lt.) F. H. (2nd Lt., Gr. B., and rel. actg. rank of Lt. on ceasing to be Lt., and to be Hon. Lt.)</Text>
+      <Title>2nd Lt. (Hon. Lt.) (actg. Lt.)</Title>
+      <Forenames>F. H.</Forenames>
+      <Text>(2nd Lt., Gr. B., and rel. actg. rank of Lt. on ceasing to be Lt., and to be Hon. Lt.)</Text>
       <PageNumber>6253</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -140,7 +142,9 @@
       <Key>Atkey</Key>
       <Title>Lt. (actg. Capt.)</Title>
       <Forenames>A. C</Forenames>
-      <Text>, M.C. (trd. to unempid. list)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6515</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -533,7 +537,9 @@
       <Key>Auker</Key>
       <Title>Capt.</Title>
       <Forenames>L.</Forenames>
-      <Text>, O.B.E. (graded for pay and allces. as Maj., Gr. B)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>6518</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -868,7 +874,9 @@
       <Key>Babington</Key>
       <Title>Maj.</Title>
       <Forenames>J. T.</Forenames>
-      <Text>, D.S.O. (graded for pay and ailces. as</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6513</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -934,7 +942,7 @@
       <PageNumber>4218</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Lt. J. M. (trd. to unempld</Text>
+      <Text>Lt. J. M. (trd. to unempld.</Text>
       <PageNumber>6660</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1095,7 +1103,9 @@
     <MainItem>
       <Key>Baillie</Key>
       <Title>2nd Lt. (Hon. Lt.) (actg. Lt.)</Title>
-      <Text>5! (S.O.) J., M.C. ' (trd: to unempld. list)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5797</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1158,7 +1168,7 @@
       <PageNumber>6519</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>pay and allces. as Lapt., Gr</Text>
+      <Text>pay and allces. as Lapt., Gr.</Text>
       <PageNumber>5048</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1177,7 +1187,10 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>list) Maj. JL., C.M.G., D.S.O.,</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4891</PageNumber>
     </MainItem>
   </ItemGroup>

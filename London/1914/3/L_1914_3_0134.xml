@@ -126,8 +126,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sutherland</Key>
-      <Forenames>George Granville The</Forenames>
-      <Text>Duke of (Hon. Colonel)</Text>
+      <Forenames>George Granville</Forenames>
+      <Text>The Duke of (Hon. Colonel)</Text>
       <PageNumber>6208</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -518,7 +518,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mitchell</Key>
-      <Text>. Francis Cowie (2nd Lieut.)</Text>
+      <Forenames>Francis Cowie</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>7496</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -549,7 +550,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wood</Key>
-      <Text>. Murdoch MeKenzie (2nd Lieut.)</Text>
+      <Forenames>Murdoch</Forenames>
+      <Text>MeKenzie (2nd Lieut.)</Text>
       <PageNumber>7705</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -764,7 +766,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Leigh</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, James H. (seconded)</Text>
       <PageNumber>7014</PageNumber>
     </MainItem>
@@ -1149,7 +1151,9 @@
       <Key>Leith-Buckanan</Key>
       <Title>Lieut.-Col. Sir</Title>
       <Forenames>Alexander W.</Forenames>
-      <Text>, Bt. (seconded)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>7496</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1202,7 +1206,9 @@
       <Key>Butlin</Key>
       <Title>Sir</Title>
       <Forenames>Henry G. T.</Forenames>
-      <Text>, Bt, (2nd Lieut.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>6707</PageNumber>
     </MainItem>
   </ItemGroup>

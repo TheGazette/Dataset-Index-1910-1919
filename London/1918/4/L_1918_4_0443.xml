@@ -156,7 +156,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Tong</Key>
-      <Text>W. W. (temp. 2nd Lt.)</Text>
+      <Forenames>W. W.</Forenames>
+      <Text>(temp. 2nd Lt.)</Text>
       <PageNumber>12230</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -182,7 +183,10 @@
       <Key>Trotter</Key>
       <Title>Maj.-Gen. Sir</Title>
       <Forenames>J. K.</Forenames>
-      <Text>, K.C.B., C.M.G. (temp. Col. and County Comdt.) '</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>12318</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -725,7 +729,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Weeks</Key>
-      <Text>W. J. (temp. 2nd Lt.)</Text>
+      <Forenames>W. J.</Forenames>
+      <Text>(temp. 2nd Lt.)</Text>
       <PageNumber>14055</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -805,14 +810,18 @@
       <Key>Wethered</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>F. O.</Forenames>
-      <Text>, C.M.G. (to eomd. the Bn.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>14887</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Wetherell</Key>
-      <Text>temp. Capt. M. (2nd in comd.)</Text>
+      <Title>temp. Capt.</Title>
+      <Forenames>M.</Forenames>
+      <Text>(2nd in comd.)</Text>
       <PageNumber>15023</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -889,7 +898,9 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>T. E.</Forenames>
-      <Text>, M.D. (temp. Maj.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>12955</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1001,7 +1012,7 @@
       <PageNumber>14055</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Hon. Lt.-Col. on appt. as ___ Hon. Comdt.fSub. Not</Text>
+      <Text>Hon. Lt.-Col. on appt. as ___ Hon. Comdt.fSub. Not.</Text>
       <PageNumber>15181</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1125,7 +1136,9 @@
       </Key>
       <Title>Lt.-Col.</Title>
       <Forenames>G. T. B.</Forenames>
-      <Text>, D.S.O. (to comd</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>13430</PageNumber>
     </MainItem>
   </ItemGroup>

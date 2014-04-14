@@ -12,21 +12,24 @@
   <ItemGroup>
     <MainItem>
       <Key>Mlaj</Key>
-      <Text>. J. B., iD.S.O. i(Lt.-OoL)</Text>
+      <Forenames>J. B.</Forenames>
+      <Text>, iD.S.O. i(Lt.-OoL)</Text>
       <PageNumber>2696</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Lt</Key>
-      <Text>. J. I. (resigns commn. on acc. of ill-heaWh. contracted on active service, and to be Hon. IA.)</Text>
+      <Forenames>J. I.</Forenames>
+      <Text>(resigns commn. on acc. of ill-heaWh. contracted on active service, and to be Hon. IA.)</Text>
       <PageNumber>1418</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Capt</Key>
-      <Text>. J. W. (secd.)</Text>
+      <Forenames>J. W.</Forenames>
+      <Text>(secd.)</Text>
       <PageNumber>235</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -219,7 +222,9 @@
       <Key>Miurnaine</Key>
       <Title>Capt.</Title>
       <Forenames>G. F. T.</Forenames>
-      <Text>, M.C. (secd.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>951</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -240,7 +245,9 @@
       <PageNumber>1697</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>Maj. W. H., D.S.O. (actg. Lt. Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>2466</PageNumber>
       <PageNumber>3272</PageNumber>
     </SubItem>
@@ -353,7 +360,9 @@
       <Key>Myers</Key>
       <Title>temp. Lt.</Title>
       <Forenames>A. P.</Forenames>
-      <Text>, M.C. (actg. Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2967</PageNumber>
     </MainItem>
     <SubItem>
@@ -395,7 +404,10 @@
       <Key>Naden</Key>
       <Title>Lt. (actg. Capt.)</Title>
       <Forenames>F.</Forenames>
-      <Text>, D.S.O., M.C. (actg. Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2967</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -429,7 +441,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Napier</Key>
-      <Text>. Capt. (actg. Maj.) A. F. S. (rel. actg. rank)</Text>
+      <Title>Capt. (actg. Maj.)</Title>
+      <Forenames>A. F. S.</Forenames>
+      <Text>(rel. actg. rank)</Text>
       <PageNumber>2622</PageNumber>
     </MainItem>
     <SubItem>
@@ -509,7 +523,9 @@
       <Key>Neale</Key>
       <Title>Lt.</Title>
       <Forenames>A. S.</Forenames>
-      <Text>, M.C. (actg. Capt., addtl.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1208</PageNumber>
     </MainItem>
     <SubItem>
@@ -564,7 +580,9 @@
       <Key>Neely</Key>
       <Title>Capt. (actg. Maj.)</Title>
       <Forenames>G. H.</Forenames>
-      <Text>, M.C. (actg. Lt.-ColL)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2774</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -580,12 +598,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Neilson</Key>
-      <Text>. Lt. F. G. (Capt.)</Text>
+      <Title>Lt.</Title>
+      <Forenames>F. G.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>2454</PageNumber>
     </MainItem>
     <SubItem>
       <Text>
         <PageNumber>1643</PageNumber>
+        <Honour>D.S.O.</Honour>
       </Text>
       <PageNumber>1721</PageNumber>
     </SubItem>
@@ -728,7 +749,9 @@
       <Key>Newman</Key>
       <Title>Capt. (actg. Maj.)</Title>
       <Forenames>A. W.</Forenames>
-      <Text>, M.C. (ret actg. rank)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2406</PageNumber>
     </MainItem>
     <SubItem>
@@ -758,6 +781,7 @@
     </MainItem>
     <SubItem>
       <Text>
+        <Honour>M.C.</Honour>
         <PageNumber>1168</PageNumber>
       </Text>
       <PageNumber>3389</PageNumber>
@@ -777,7 +801,9 @@
       <Key>Newth</Key>
       <Title>Capt. (actg. Maj.)</Title>
       <Forenames>A. L. W.</Forenames>
-      <Text>, M.C. (rel. actg. rank)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1913</PageNumber>
     </MainItem>
     <SubItem>
@@ -816,7 +842,9 @@
       <PageNumber>977</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>' lit. W. G., M.C. (Capt., and rem. secd.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>696</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -903,6 +931,7 @@
     <SubItem>
       <Text>
         <PageNumber>2405</PageNumber>
+        <Honour>M.C.</Honour>
         <PageNumber>2864</PageNumber>
       </Text>
       <PageNumber>926</PageNumber>

@@ -37,6 +37,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Putron</Key>
+      <Title>Lieut.</Title>
+      <Forenames>H.</Forenames>
+      <Text>(temporary .Capt., and to be supernumerary)</Text>
+      <PageNumber>ibid.</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Ellershaw</Key>
       <Title>Lieut.</Title>
       <Forenames>Henry</Forenames>
@@ -56,8 +65,10 @@
     <MainItem>
       <Key>Etheridge</Key>
       <Title>Lieut.-Col.</Title>
-      <Forenames>Cecil</Forenames>
-      <Text>de C, D.S.O. (to command 22nd (7th City) Bat.)</Text>
+      <Forenames>Cecil de C</Forenames>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>10415</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -292,7 +303,9 @@
       <Key>Jones</Key>
       <Title>Lieut.-Col.</Title>
       <Forenames>Herbert J.</Forenames>
-      <Text>, ; D.S.O. (to command 13th Bat.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7904</PageNumber>
     </MainItem>
     <SubItem>
@@ -454,8 +467,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Owen</Key>
-      <Forenames>George H. R. St</Forenames>
-      <Text>. J. (temporary 2nd Lieut.)</Text>
+      <Forenames>George H. R. St. J</Forenames>
+      <Text>. (temporary 2nd Lieut.)</Text>
       <PageNumber>___ ___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -713,7 +726,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Austin</Key>
-      <Text>. F. C. (temporary Capt.)</Text>
+      <Forenames>F. C.</Forenames>
+      <Text>(temporary Capt.)</Text>
       <PageNumber>10431</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -919,8 +933,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donoghue, Brevet Col. Montague E. (to command 17th Bat.)</Text>
+      <Key>O'Donoghue</Key>
+      <Title>Brevet Col.</Title>
+      <Forenames>Mon-</Forenames>
+      <Text>tague E. (to command 17th Bat.)</Text>
       <PageNumber>10113</PageNumber>
     </MainItem>
   </ItemGroup>

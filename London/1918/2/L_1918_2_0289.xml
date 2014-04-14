@@ -272,7 +272,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Burchell</Key>
-      <Text>. E. S. (temp. Qrmr. and Hon. Lt.)</Text>
+      <Forenames>E. S.</Forenames>
+      <Text>(temp. Qrmr. and Hon. Lt.)</Text>
       <PageNumber>7444</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -414,7 +415,10 @@
       </Key>
       <Title>Lt.-Col.</Title>
       <Forenames>E. S</Forenames>
-      <Text>, C.M.G. (Bt. Col.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>6494</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -524,7 +528,9 @@
       </Key>
       <Title>2nd Lt.</Title>
       <Forenames>A</Forenames>
-      <Text>, D.S.O. (K. Berks. R.) (placed on h.p. list on acc. of ill-health caused by wounds)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4119</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -583,7 +589,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>D. L</Forenames>
-      <Text>, M.C. (Flying Offr.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6864</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -743,7 +751,9 @@
       </Key>
       <Title>Lt.-Col.</Title>
       <Forenames>B. B</Forenames>
-      <Text>, D.S.O. (temp.' Col.) .«</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5681</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -817,7 +827,9 @@
       </Key>
       <Title>temp. Lt.</Title>
       <Forenames>H. F</Forenames>
-      <Text>, M.C. (temp. Capt. and retain actg. rank)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4973</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -827,8 +839,8 @@
         <KeyDitto>___ ___ .</KeyDitto>
       </Key>
       <Title>temp. Capt.</Title>
-      <Forenames>H. St</Forenames>
-      <Text>. G. (actg. ' Maj-)</Text>
+      <Forenames>H. St. G</Forenames>
+      <Text>. (actg. ' Maj-)</Text>
       <PageNumber>4647</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -839,7 +851,9 @@
       </Key>
       <Title>temp. Capt.</Title>
       <Forenames>J.</Forenames>
-      <Text>(R.A.M.C.) '(actg. .Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4805</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -850,7 +864,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>J.</Forenames>
-      <Text>(R.A.M.C.) (Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4977</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -894,7 +910,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>M</Forenames>
-      <Text>, M.C. (actg. Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7695</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -932,7 +950,9 @@
       </Key>
       <Title>Cadet</Title>
       <Forenames>W</Forenames>
-      <Text>, M.M. (temp. 2nd Lt, attd.)</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>6566</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -951,8 +971,8 @@
     <MainItem>
       <Key>Burke-Gaffney</Key>
       <Title>temp. 2nd Lt.</Title>
-      <Forenames>E. O</Forenames>
-      <Text>'D. (t..mp. Lt.)</Text>
+      <Forenames>E. O'D</Forenames>
+      <Text>. (t..mp. Lt.)</Text>
       <PageNumber>6437</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -978,7 +998,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Burkey</Key>
-      <Text>. Cadet S. (temp. 2nd Lt, attd.)</Text>
+      <Title>Cadet</Title>
+      <Forenames>S.</Forenames>
+      <Text>(temp. 2nd Lt, attd.)</Text>
       <PageNumber>5143</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1009,7 +1031,9 @@
       </Key>
       <Title>2nd Lt. (actg. Capt.)</Title>
       <Forenames>R. F</Forenames>
-      <Text>, M.C. (actg. Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6877</PageNumber>
     </MainItem>
     <SubItem>
@@ -1099,7 +1123,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Burman</Key>
-      <Text>. Cadet A. L. (2nd Lt.)</Text>
+      <Title>Cadet</Title>
+      <Forenames>A. L.</Forenames>
+      <Text>(2nd Lt.)</Text>
       <PageNumber>7702</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1165,7 +1191,9 @@
       <Key>Burnand</Key>
       <Title>temp. Lt.-Col.</Title>
       <Forenames>N. G</Forenames>
-      <Text>, D.S.O. (trd. to M.G.C, Infy.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6761</PageNumber>
     </MainItem>
     <SubItem>
@@ -1182,7 +1210,9 @@
       </Key>
       <Title>temp. 2nd Lt.</Title>
       <Forenames>R. M</Forenames>
-      <Text>, M.C. (temp. Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4803</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1191,7 +1221,9 @@
       <Key>Burnard</Key>
       <Title>Maj.</Title>
       <Forenames>C. F</Forenames>
-      <Text>, D.S.O. (apptd. to Lab. Corps)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5448</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1299,7 +1331,9 @@
       </Key>
       <Title>Maj. (temp. Lt.-Col.)</Title>
       <Forenames>J. C</Forenames>
-      <Text>, D.S.O. (rel. temp, rank)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7441</PageNumber>
     </MainItem>
   </ItemGroup>

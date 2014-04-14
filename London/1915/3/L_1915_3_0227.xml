@@ -99,7 +99,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Arnold</Key>
-      <Text>. 2nd Lieut. Kenneth N. ;(temporary Lieut.)</Text>
+      <Title>2nd Lieut.</Title>
+      <Forenames>Kenneth N.</Forenames>
+      <Text>;(temporary Lieut.)</Text>
       <PageNumber>7291</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -290,7 +292,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bastard</Key>
-      <Text>. William E. P. (Lieut.-Col.)</Text>
+      <Forenames>William E. P.</Forenames>
+      <Text>(Lieut.-Col.)</Text>
       <PageNumber>8267</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -377,7 +380,9 @@
       <Key>Bingham</Key>
       <Title>Lieut.-Col. Sir</Title>
       <Forenames>Albert E.</Forenames>
-      <Text>, Bart, (seconded)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>8250</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -487,7 +492,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Boswell</Key>
-      <Text>. Maj. Andrew (2nd Lieut.)</Text>
+      <Title>Maj.</Title>
+      <Forenames>Andrew</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>6825</PageNumber>
     </MainItem>
   </ItemGroup>

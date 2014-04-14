@@ -408,8 +408,8 @@
   <ItemGroup>
     <MainItem>
       <Key>White</Key>
-      <Forenames>Bernard C.</Forenames>
-      <Text>de B. (temporary 2nd Lieut.)</Text>
+      <Forenames>Bernard C. de B</Forenames>
+      <Text>. (temporary 2nd Lieut.)</Text>
       <PageNumber>7745</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -507,7 +507,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>James E. S.</Forenames>
-      <Text>, D.S.O. (temporary Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>9519</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -533,7 +535,9 @@
     <MainItem>
       <Key>Yatman</Key>
       <Title>Maj. and Brevet Lieut.Col. Clement.</Title>
-      <Text>D.S.O. (temporary Lieut.-Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7443</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1087,7 +1091,9 @@
     <MainItem>
       <Key>Lefroy</Key>
       <Forenames>B. P.</Forenames>
-      <Text>, D.S.O. (Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8805</PageNumber>
     </MainItem>
   </ItemGroup>

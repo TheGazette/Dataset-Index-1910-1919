@@ -321,8 +321,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, Rev. Arthur (temporary)</Text>
+      <Key>O'Connor</Key>
+      <Title>Rev.</Title>
+      <Forenames>Arthur</Forenames>
+      <Text>(temporary)</Text>
       <PageNumber>4655</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -339,8 +341,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Farrell, Rev. Peter (temporary)</Text>
+      <Key>O'Farrell</Key>
+      <Title>Rev.</Title>
+      <Forenames>Peter</Forenames>
+      <Text>(temporary)</Text>
       <PageNumber>3948</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1147,7 +1151,9 @@
     <MainItem>
       <Key>McCarthy</Key>
       <Forenames>Emma M.</Forenames>
-      <Text>, R.R.C. (temporary)</Text>
+      <Text>
+        <Honour>R.R.C.</Honour>
+      </Text>
       <PageNumber>6255</PageNumber>
     </MainItem>
   </ItemGroup>

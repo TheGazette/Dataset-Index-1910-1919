@@ -124,7 +124,9 @@
       </Key>
       <Title>temp. Lt.</Title>
       <Forenames>M.</Forenames>
-      <Text>, M.C. (temp. Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>566</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -280,7 +282,10 @@
       </Key>
       <Title>Maj. and Bt. Lt.-Col. (temp. Brig.-Gen.)</Title>
       <Forenames>S. H.</Forenames>
-      <Text>, C.M.G. (Bt. Col., for dist. serv.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>16</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -355,7 +360,9 @@
       </Key>
       <Title>temp. Lt.</Title>
       <Forenames>W.</Forenames>
-      <Text>, M.D. (temp. Capt.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>608</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -745,7 +752,9 @@
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
       <Title>Maj</Title>
-      <Text>, J. H. R., M.D. (actg. Lt.-Col.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>819</PageNumber>
     </MainItem>
     <SubItem>
@@ -817,7 +826,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>C. W.</Forenames>
-      <Text>, M.D. (temp. Lt.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>1363</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -856,7 +867,9 @@
       <Key>Wingate</Key>
       <Title>Maj. (temp. Lt.-Col.)</Title>
       <Forenames>G. H. F.</Forenames>
-      <Text>(Bt, Lt.-Col., for dist. serv.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>18</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -865,7 +878,9 @@
       <Key>Wingate-Gray</Key>
       <Title>Capt.</Title>
       <Forenames>W. S.</Forenames>
-      <Text>, M.C. (actg. Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2516</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -874,7 +889,10 @@
       <Key>Wingfteld</Key>
       <Title>Capt. and Bt. Maj. The Hon.</Title>
       <Forenames>M.A.</Forenames>
-      <Text>, D.S.O. (Bt. Lt.Col., for dist. serv.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>18</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1071,7 +1089,7 @@
       <PageNumber>2098</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Confd ,.</Text>
+      <Text>Confd ,</Text>
       <PageNumber>3004</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1101,8 +1119,11 @@
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
       <Title>Maj.</Title>
-      <Forenames>H. St</Forenames>
-      <Text>. J. L., D.S.O. (Bt, Lt.-Col. for dist. serv.)</Text>
+      <Forenames>H. St. J</Forenames>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>1596</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1386,7 +1407,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Witthans</Key>
-      <Text>. Cadet G. T. (temp. 2nd Lt. attd.)</Text>
+      <Title>Cadet</Title>
+      <Forenames>G. T.</Forenames>
+      <Text>(temp. 2nd Lt. attd.)</Text>
       <PageNumber>2019</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1504,7 +1527,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Wolton</Key>
-      <Text>. Lt. R. N. (Flying Offr., and seed.)</Text>
+      <Title>Lt.</Title>
+      <Forenames>R. N.</Forenames>
+      <Text>(Flying Offr., and seed.)</Text>
       <PageNumber>2008</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1554,7 +1579,7 @@
       <PageNumber>1776</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Confd.</Text>
+      <Text>Confd</Text>
       <PageNumber>2105</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1587,7 +1612,9 @@
       </Key>
       <Title>Cadet</Title>
       <Forenames>A. C.</Forenames>
-      <Text>(temp. 2nd Lt.) M.G.C</Text>
+      <Text>
+        <Honour>G.C</Honour>
+      </Text>
       <PageNumber>1451</PageNumber>
     </MainItem>
   </ItemGroup>

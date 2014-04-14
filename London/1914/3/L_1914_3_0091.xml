@@ -241,7 +241,9 @@
       <Key>Murray</Key>
       <Title>the Hon.</Title>
       <Forenames>A. C</Forenames>
-      <Text>, M.P., (Maj.)</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>7687</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -255,15 +257,17 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Grady, G. H. (Capt.)</Text>
+      <Key>O'Grady</Key>
+      <Forenames>G. H.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>6901</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Kelly, Andrew Nolan (Lieut.)</Text>
+      <Key>O'Kelly</Key>
+      <Forenames>Andrew Nolan</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>7687</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -550,7 +554,9 @@
     <MainItem>
       <Key>Smiley</Key>
       <Forenames>John</Forenames>
-      <Text>, Bt. (Capt.), supplementary</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>6781</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -670,7 +676,9 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Reginald</Forenames>
-      <Text>, D.S.O. (Capt.), supplementary</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7576</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -693,7 +701,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Vansittart</Key>
-      <Text>. A. B. (2nd Lieut.)</Text>
+      <Forenames>A. B.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>6503</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -920,7 +929,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Bethell</Key>
-      <Text>. Hon. Richard (2nd Lieut.)</Text>
+      <Title>Hon.</Title>
+      <Forenames>Richard</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>6904</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1039,7 +1050,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Crutchley</Key>
-      <Text>. Gerald E. Victor (2nd Lieut, on probation) '</Text>
+      <Forenames>Gerald E. Victor</Forenames>
+      <Text>(2nd Lieut, on probation) '</Text>
       <PageNumber>7403</PageNumber>
     </MainItem>
   </ItemGroup>

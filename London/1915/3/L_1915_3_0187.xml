@@ -19,6 +19,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Salis</Key>
+      <Forenames>Herbert J. N.</Forenames>
+      <Text>(Maj.), supplementary</Text>
+      <PageNumber>7306</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Deane</Key>
       <Title>2nd Lieut.</Title>
       <Forenames>E. N.</Forenames>
@@ -638,7 +646,8 @@
   <ItemGroup>
     <MainItem>
       <Key>McCahon</Key>
-      <Text>. Robert (2nd Lieut, on probation), supplementary</Text>
+      <Forenames>Robert</Forenames>
+      <Text>(2nd Lieut, on probation), supplementary</Text>
       <PageNumber>7582</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -682,7 +691,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mariette</Key>
-      <Text>. Ernest E. (Lieut.), supplementary</Text>
+      <Forenames>Ernest E.</Forenames>
+      <Text>(Lieut.), supplementary</Text>
       <PageNumber>7333</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -880,7 +890,9 @@
     <MainItem>
       <Key>Prior</Key>
       <Forenames>John H.</Forenames>
-      <Text>, D.S.O. (Maj.), supplementary</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6673</PageNumber>
     </MainItem>
   </ItemGroup>

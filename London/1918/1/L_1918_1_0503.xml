@@ -24,14 +24,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Tynan</Key>
-      <Text>l.nd Lt. J., D.S.O. (Lt.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>967</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Tyndall</Key>
-      <Text>. Oadet C. T. A. (temp. 2nd ' Lt.j</Text>
+      <Forenames>Oadet C. T. A.</Forenames>
+      <Text>(temp. 2nd ' Lt.j</Text>
       <PageNumber>100</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -222,7 +225,9 @@
       <PageNumber>3713</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Capt. (temp. Lt.-Col.) H. K., D.S.O. Comdt., Phys. and Bayonet Trg. Camp, and retain temp, rank)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>103</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -273,7 +278,9 @@
       <PageNumber>1414</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>temp. 2nd Lt., attd., R. L. A., M.C. (temp. Lt., attd.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2598</PageNumber>
     </SubItem>
     <SubItem>
@@ -286,7 +293,9 @@
       <Key>Uniacke</Key>
       <Title>Hon. Capt.</Title>
       <Forenames>A. G.</Forenames>
-      <Text>, D.S.O. (temp. Capt.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>245</PageNumber>
     </MainItem>
     <SubItem>
@@ -297,7 +306,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Unmack</Key>
-      <Text>. 2nd Lt. W. T. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>W. T.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>1630</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -310,7 +321,9 @@
       <PageNumber>1414</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>temp. Lt. V., M.C. (Gen. List)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2471</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -504,7 +517,9 @@
       <Key>Urwick</Key>
       <Title>Capt.</Title>
       <Forenames>L. E.</Forenames>
-      <Text>, M.C. (temp. Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3829</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -574,7 +589,9 @@
       <Key>Utterson</Key>
       <Title>Maj.</Title>
       <Forenames>H. K.</Forenames>
-      <Text>, D.S.O. (to comd. a Bn., and be temp. Lt.-Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>1514</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -597,6 +614,7 @@
     <SubItem>
       <Text>
         <PageNumber>3212</PageNumber>
+        <Honour>M.C.</Honour>
       </Text>
       <PageNumber>1591</PageNumber>
     </SubItem>
@@ -604,7 +622,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Uzzell</Key>
-      <Text>. Co. Sjt.-Maj. J. T. (temp. 2nd Lt.)</Text>
+      <Title>Co. Sjt.-Maj.</Title>
+      <Forenames>J. T.</Forenames>
+      <Text>(temp. 2nd Lt.)</Text>
       <PageNumber>251</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -665,8 +685,8 @@
     <MainItem>
       <Key>Vaizey</Key>
       <Title>Cadet</Title>
-      <Forenames>J. T. De H.</Forenames>
-      <Text>(2nd Lt.)</Text>
+      <Forenames>J. T. De H</Forenames>
+      <Text>. (2nd Lt.)</Text>
       <PageNumber>1180</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -798,17 +818,19 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Essen</Forenames>
-      <Text>, 2nd Lt. E. C. (Lt.)</Text>
+      <Key>Van Essen</Key>
+      <Title>2nd Lt.</Title>
+      <Forenames>E. C.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>3693</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Eyck</Forenames>
-      <Text>, temp. Capt. E. C. E. (rel. commn. on acc. of illhealth contracted on active service)</Text>
+      <Key>Van Eyck</Key>
+      <Title>temp. Capt.</Title>
+      <Forenames>E. C. E.</Forenames>
+      <Text>(rel. commn. on acc. of illhealth contracted on active service)</Text>
       <PageNumber>943</PageNumber>
     </MainItem>
     <SubItem>
@@ -818,25 +840,38 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Humbeck</Forenames>
-      <Text>, temp. 2nd Lt., attd. C. M. (trd. to Ser. Bn.)</Text>
+      <Key>Van Humbeck</Key>
+      <Title>temp. 2nd Lt.</Title>
+      <Text>, attd. C. M. (trd. to Ser. Bn.)</Text>
       <PageNumber>2604</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Praagh</Forenames>
-      <Text>, Cadet F. (temp. 2nd Lt. on prob.)</Text>
+      <Key>van Millingen</Key>
+      <Title>temp. Lt.</Title>
+      <Forenames>J. W. O.</Forenames>
+      <Text>, M.B. (corr. of date of relg. commn.) ... ... °</Text>
+      <PageNumber>1627</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Van Praagh</Key>
+      <Title>Cadet</Title>
+      <Forenames>F.</Forenames>
+      <Text>(temp. 2nd Lt. on prob.)</Text>
       <PageNumber>964</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Ryneveld</Forenames>
-      <Text>, temp. Maj. H. A., M.C. (Wing Comdr. and temp. Lt.-Col.)</Text>
+      <Key>Van Ryneveld</Key>
+      <Title>temp. Maj.</Title>
+      <Forenames>H. A.</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1782</PageNumber>
     </MainItem>
     <SubItem>
@@ -847,6 +882,14 @@
       <Text>Cadet W. &gt;N. (temp. 2nd Lt. on prob.)</Text>
       <PageNumber>709</PageNumber>
     </SubItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>van Syckel</Key>
+      <Forenames>G.</Forenames>
+      <Text>(temp. Lt.)</Text>
+      <PageNumber>686</PageNumber>
+    </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
@@ -954,7 +997,9 @@
       <Key>Varcoe</Key>
       <Title>2nd Lt. (temp. Lt.)</Title>
       <Forenames>F. H. L.</Forenames>
-      <Text>, M.C. (Asst. Instr. in Gunnery, corr. of appt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2574</PageNumber>
     </MainItem>
   </ItemGroup>

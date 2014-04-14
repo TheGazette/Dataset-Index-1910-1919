@@ -16,9 +16,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Daubeney</Key>
-      <Title>Col. (temporary)</Title>
-      <Forenames>Briga-</Forenames>
-      <Text>dier-Gen. Edward K., D.S.O. (retained on Active List, supernumerary .to establishment)</Text>
+      <Title>Col. (temporary) Brigadier-Gen.</Title>
+      <Forenames>Edward K.</Forenames>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5737</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -73,9 +75,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Burgh</Forenames>
-      <Text>,.Hon. Lieut.-Col. T. J. (temporary Lieut.)</Text>
+      <Key>De Burgh</Key>
+      <Text>.Hon. Lieut.-Col. T. J. (temporary Lieut.)</Text>
       <PageNumber>5092</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -169,9 +170,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Cane</Forenames>
-      <Text>, Col. John P. (temporary Maj.-Gen.)</Text>
+      <Key>Du Cane</Key>
+      <Title>Col.</Title>
+      <Forenames>John P.</Forenames>
+      <Text>(temporary Maj.-Gen.)</Text>
       <PageNumber>3231</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -248,7 +250,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Evans</Key>
-      <Text>. A. J. (temporary Lieut.)</Text>
+      <Forenames>A. J.</Forenames>
+      <Text>(temporary Lieut.)</Text>
       <PageNumber>4994</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -389,7 +392,9 @@
       <Key>Fielding</Key>
       <Title>Lieut.</Title>
       <Forenames>Rudolph E. A.</Forenames>
-      <Text>Viscount, D.S.O. (temporairy Capt.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4039</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -440,7 +445,9 @@
       <Key>Forestier-Walker</Key>
       <Title>Col. (temporary Brigadier-Gen.)</Title>
       <Forenames>George T.</Forenames>
-      <Text>, C.B., Aide-de-Oamp to the King (temporary Maj.-Gen.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>3568</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -449,7 +456,9 @@
       <Key>Fortescue</Key>
       <Title>Col.</Title>
       <Forenames>Francis A.</Forenames>
-      <Text>, C.B. (retained on Active List, supy. to establishment)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>5737</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -549,7 +558,9 @@
       <Key>Gabriel</Key>
       <Title>Maj.</Title>
       <Forenames>Edmund Vivian</Forenames>
-      <Text>, C.V.O., C.S.I, (temporary Maj.)</Text>
+      <Text>
+        <Honour>C.V.O.</Honour>
+      </Text>
       <PageNumber>3568</PageNumber>
     </MainItem>
     <SubItem>
@@ -643,7 +654,10 @@
       <Key>Girouard</Key>
       <Title>Brevet Col. Sir</Title>
       <Forenames>Edward P. C</Forenames>
-      <Text>, K.C.M.G., D.S.O. (temporary Maj.-Gen.)</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3922</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -652,7 +666,9 @@
       <Key>Gladstone</Key>
       <Title>Capt. Sir</Title>
       <Forenames>John R.</Forenames>
-      <Text>, Bt. (temporary Maj.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4756</PageNumber>
     </MainItem>
     <SubItem>
@@ -697,7 +713,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Gordon</Key>
-      <Text>. Col. the Hon.. Frederick, C.B., DlS.O'. (temporary Maj.Gen.) ' ... ... ... -</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>5970</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -707,7 +725,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Laurence</Forenames>
-      <Text>, G. Fi, D.S.O. (Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5484</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -736,7 +756,9 @@
       <Key>Grainger</Key>
       <Title>Surgeon-Gen.</Title>
       <Forenames>Thomas</Forenames>
-      <Text>, C. B., M.D. (Hon. Surgeon to H.M. the King)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>5641</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -834,7 +856,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Haig</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>;-Col. D. P. (temporary Maj.)</Text>
       <PageNumber>4781</PageNumber>
       <PageNumber>5092</PageNumber>
@@ -937,7 +959,11 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>General</Forenames>
-      <Text>Sir Reginald C, V.C., K.C.B., K.C.V.O. (retained on Active List)</Text>
+      <Text>
+        <Honour>V.C.</Honour>
+        <Honour>K.C.B.</Honour>
+        <Honour>K.C.V.O.</Honour>
+      </Text>
       <PageNumber>5641</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -954,7 +980,9 @@
       <Key>Hastings</Key>
       <Title>Capt.</Title>
       <Forenames>Wilfred C. N.</Forenames>
-      <Text>, D. S.O. (temporary Lieut.-Col.)</Text>
+      <Text>
+        <Honour>D. S.O.</Honour>
+      </Text>
       <PageNumber>3819</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1038,7 +1066,9 @@
       <Key>Hickie</Key>
       <Title>Col.</Title>
       <Forenames>William B.</Forenames>
-      <Text>, C.B. (Halfpay List)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>3950</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1099,7 +1129,9 @@
       <Key>Home</Key>
       <Title>Maj.</Title>
       <Forenames>Robert E.</Forenames>
-      <Text>, D.S.O. (temporary Lieut.-Col. whilst Acting Commandant, Ordnance College)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6247</PageNumber>
     </MainItem>
   </ItemGroup>

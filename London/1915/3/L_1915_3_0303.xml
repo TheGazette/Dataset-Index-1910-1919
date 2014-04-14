@@ -94,7 +94,9 @@
     <MainItem>
       <Key>Wapshare</Key>
       <Title>Col. (temporary Brigadier-Gan.)</Title>
-      <Text>' R. C.B. (Brigade Commander)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>9336</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -103,7 +105,9 @@
       <Key>Watson</Key>
       <Title>Lieut.-Col.</Title>
       <Forenames>T. C</Forenames>
-      <Text>, V.C. (Divisional Engineer ComBlander)</Text>
+      <Text>
+        <Honour>V.C.</Honour>
+      </Text>
       <PageNumber>9238</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -137,7 +141,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wyriter</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, F. C. W. (Asst. Censor)</Text>
       <PageNumber>9337</PageNumber>
     </MainItem>
@@ -180,7 +184,10 @@
     <MainItem>
       <Key>Personal</Key>
       <Forenames>Staff</Forenames>
-      <Text>of Major-General May, C.B., C.M.G., Commanding 8th (Lucknow) Division. Campion, Lieut. K. F. (Aide-deCamp)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>9102</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -188,7 +195,10 @@
     <MainItem>
       <Key>Personal</Key>
       <Forenames>Staff</Forenames>
-      <Text>of Majw-General bell, C.B., D.S.O., Commanding (Peshaimr) Division. Shearer, Lieut. E. J. (Aide-deCamp)'</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7688</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -255,14 +265,17 @@
     <MainItem>
       <Key>Bamber</Key>
       <Forenames>Charles James</Forenames>
-      <Text>; M.V.O</Text>
+      <Text>
+        <Honour>M.V.O</Honour>
+      </Text>
       <PageNumber>9239</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Lieutenants</Key>
-      <Text>. Agate, Vinayak Narayan, M.B. (temporary)</Text>
+      <Forenames>Agate</Forenames>
+      <Text>, Vinayak Narayan, M.B. (temporary)</Text>
       <PageNumber>7586</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -517,15 +530,18 @@
   <ItemGroup>
     <MainItem>
       <Key>Modi</Key>
-      <Text>. Shapurji Hormasji, F.R.C.S. (temporary)</Text>
+      <Forenames>Shapurji Hormasji</Forenames>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>7586</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Molony</Key>
-      <Forenames>John B.</Forenames>
-      <Text>de Winton (correction)</Text>
+      <Forenames>John B. de Winton</Forenames>
+      <Text>(correction)</Text>
       <PageNumber>7205</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -566,7 +582,8 @@
   <ItemGroup>
     <MainItem>
       <Key>E</Key>
-      <Text>. S. Vajifdar, Framroze Manackji. (temporary)</Text>
+      <Forenames>S. Vajifdar</Forenames>
+      <Text>, Framroze Manackji. (temporary)</Text>
       <PageNumber>7587</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -244,10 +244,24 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Salis</Forenames>
-      <Text>, A. F</Text>
+      <Key>de Mowbray</Key>
+      <Forenames>E. G. B.</Forenames>
+      <Text>' ... ..'</Text>
       <PageNumber>2638</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Salis</Key>
+      <Forenames>A. F.</Forenames>
+      <PageNumber>2638</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Winton</Key>
+      <Forenames>F. S. W.</Forenames>
+      <PageNumber>2637</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -282,7 +296,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dickinson</Key>
-      <Text>. E. R. S</Text>
+      <Forenames>E. R. S.</Forenames>
       <PageNumber>2637</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -296,7 +310,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dodd</Key>
-      <Text>. E. R. ... Doelberg,A. H. H Don, D</Text>
+      <Forenames>E. R.</Forenames>
+      <Text>... Doelberg,A. H. H Don, D</Text>
       <PageNumber>3633</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -304,7 +319,9 @@
     <MainItem>
       <Key>Donne</Key>
       <Forenames>L. V.</Forenames>
-      <Text>, D.S.C</Text>
+      <Text>
+        <Honour>D.S.C</Honour>
+      </Text>
       <PageNumber>2637</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -361,7 +378,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Elmhirst</Key>
-      <Text>. T. W</Text>
+      <Forenames>T. W .</Forenames>
       <PageNumber>2638</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -430,6 +447,7 @@
     </SubItem>
     <SubItem>
       <Text>
+        <Honour>D.S.C.</Honour>
         <PageNumber>3140</PageNumber>
       </Text>
       <PageNumber>2637</PageNumber>
@@ -601,7 +619,9 @@
     <MainItem>
       <Key>Harrison</Key>
       <Forenames>F. C</Forenames>
-      <Text>, D.S.O. ... :</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>2638</PageNumber>
     </MainItem>
     <SubItem>
@@ -659,7 +679,9 @@
     <MainItem>
       <Key>Hawkins</Key>
       <Forenames>G. A. B.</Forenames>
-      <Text>... Morgan, H., D.S.C</Text>
+      <Text>
+        <Honour>D.S.C</Honour>
+      </Text>
       <PageNumber>3141</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -791,7 +813,9 @@
     <MainItem>
       <Key>Hutchinson</Key>
       <Forenames>A. S</Forenames>
-      <Text>O'Oafcgihan, iC, D.S.C</Text>
+      <Text>
+        <Honour>D.S.C</Honour>
+      </Text>
       <PageNumber>2637</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -879,7 +903,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lindsell</Key>
-      <Text>. A. S</Text>
+      <Forenames>A. S.</Forenames>
       <PageNumber>2637</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -900,7 +924,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Loly</Key>
-      <Text>. E. M</Text>
+      <Forenames>E. M.</Forenames>
       <PageNumber>1837</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -935,7 +959,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lvon</Key>
-      <Text>. FitzH. C</Text>
+      <Text>FitzH. C</Text>
       <PageNumber>3141</PageNumber>
     </MainItem>
   </ItemGroup>

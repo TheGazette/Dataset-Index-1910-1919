@@ -185,8 +185,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Saunders-Jones</Key>
-      <Forenames>H. St</Forenames>
-      <Text>. J. (2nd Lt.)</Text>
+      <Forenames>H. St. J</Forenames>
+      <Text>. (2nd Lt.)</Text>
       <PageNumber>1962</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -535,7 +535,9 @@
     <MainItem>
       <Key>Webster</Key>
       <Forenames>C. G.</Forenames>
-      <Text>, F.R.C.S</Text>
+      <Text>
+        <Honour>F.R.C.S</Honour>
+      </Text>
       <PageNumber>1378</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -598,7 +600,9 @@
     <MainItem>
       <Key>McGillivray</Key>
       <Forenames>W. S.</Forenames>
-      <Text>, M.D. ... '</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>1960</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -625,7 +629,9 @@
     <MainItem>
       <Key>Tarr</Key>
       <Forenames>W.</Forenames>
-      <Text>, M.D., F.R.C.S.E</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>1960</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -664,7 +670,9 @@
     <MainItem>
       <Key>Williamson</Key>
       <Forenames>J. R.</Forenames>
-      <Text>(relinquishes temp, rank on transfer to R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2949</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -712,7 +720,9 @@
     <MainItem>
       <Key>Gupta</Key>
       <Forenames>S. C. S.</Forenames>
-      <Text>, M.D. F.R.C.S. (temp.)</Text>
+      <Text>
+        <Honour>M.D. F.R.C.S.</Honour>
+      </Text>
       <PageNumber>2949</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -813,9 +823,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>Romaine</Forenames>
-      <Text>, E. A. (Hon. Maj.)</Text>
+      <Key>St. Romaine</Key>
+      <Forenames>E. A.</Forenames>
+      <Text>(Hon. Maj.)</Text>
       <PageNumber>1960</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -952,7 +962,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Dundas</Key>
-      <Text>of Dundas, C. ... Bear-A dmirals. Henniker-Hughan, Sir A. J., Bt., A.-d.-C Hickley, C. S., M.V.O Nicholson, D. R. L., A.-d.-C. ... Sheppard, T. D. Lees, M.V.OL ... Retired List. Purefoy, R. P. FitzG., M.V.O. ... Smith, G. W. ... ... .... Engineer Rear-Admiral. Hudson, G. W. ... Captains. Casement, J. M Davies, A. J. Domvile, B. E. (Acting) Douglas*, H. P Dutton, A. B. S Ellis, S. V Hughes, A. B Kerr, W. M. ... ... ... Lambart, The Hon. L. J. O. (Acting) Miller, S. R Morant, E. R. (Acting) Moreton, J. A Seymour, C Stirling, A. J. B. ... Willcox, H. J. L. W. K Willis, S. L Wood, A. E Young, G. B. W ... Retired List. Wentworth, F. C. U. V. Commanders. Beasley, F. A., M.V.O Bellairs, R. M : Boyes, H Brabant, F. H Buckle, H. C. Buxton, B Campbell, L. G. B. A Champion, J. P ... Clark-Hall, R. H Colville, H. D. Coplestone-Boughey, A. F. ... Crabbe, L. G. E.. Creighton, K. E.-L. ... ...</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>___ ___ ___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>

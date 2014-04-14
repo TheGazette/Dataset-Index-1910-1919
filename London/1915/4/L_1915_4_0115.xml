@@ -106,8 +106,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>O.</Forenames>
-      <Text>de B., M.B. (temp. Capt.)</Text>
+      <Forenames>O. de B</Forenames>
+      <Text>., M.B. (temp. Capt.)</Text>
       <PageNumber>10026</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -252,7 +252,7 @@
       <PageNumber>9723</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>.Temp. Capt</Text>
+      <Text>.Temp. Capt.</Text>
       <PageNumber>12408</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -390,7 +390,7 @@
       <PageNumber>11880</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Temp. Lt</Text>
+      <Text>Temp. Lt.</Text>
       <PageNumber>11911</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -457,7 +457,7 @@
       <PageNumber>10099</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Temp. Capt. whilst Adjt</Text>
+      <Text>Temp. Capt. whilst Adjt.</Text>
       <PageNumber>12172</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -505,7 +505,7 @@
       <PageNumber>11285</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Relinquishes the temp, rank of Lt.-Col</Text>
+      <Text>Relinquishes the temp, rank of Lt.-Col.</Text>
       <PageNumber>12653</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -872,7 +872,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Lt</Forenames>
-      <Text>: K. J., D.S.O. (temp. Capt.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>11284</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -924,7 +926,10 @@
       </Key>
       <Title>Brevet Col.</Title>
       <Forenames>R</Forenames>
-      <Text>, H., C.B., C.M.G. (to command a Battalion)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>9876</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1353,7 +1358,7 @@
       <PageNumber>9764</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Temp. Capt. '</Text>
+      <Text>Temp. Capt. '.</Text>
       <PageNumber>10655</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1428,7 +1433,7 @@
       <PageNumber>11740</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Temp. Maj</Text>
+      <Text>Temp. Maj.</Text>
       <PageNumber>12304</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1750,7 +1755,11 @@
       <Key>Mathew</Key>
       <Title>Col.</Title>
       <Forenames>C. M.</Forenames>
-      <Text>, C.B., C.M.G., D.S.O. (temp. Brigadier-Gen. whilst Director of Ordnance Services)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>13010</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1786,7 +1795,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mathews</Key>
-      <Text>C. W. (temp. 2nd Lt.) .,;</Text>
+      <Forenames>C. W.</Forenames>
+      <Text>(temp. 2nd Lt.) .,;</Text>
       <PageNumber>12053</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -854,8 +854,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, Edward John (2nd Lieut.)</Text>
+      <Key>O'Connor</Key>
+      <Forenames>Edward John</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>5664</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1286,7 +1287,9 @@
       <Key>Kenyon</Key>
       <Title>Capt. Sir</Title>
       <Forenames>Frederick G.</Forenames>
-      <Text>, K.C.B. (seconded)</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+      </Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>

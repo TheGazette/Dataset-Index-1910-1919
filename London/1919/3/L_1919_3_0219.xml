@@ -116,7 +116,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Noble</Key>
-      <Text>Miss Gertrude, Royal Red Cross, 2nd CI</Text>
+      <Title>Miss</Title>
+      <Forenames>Gertrude</Forenames>
+      <Text>, Royal Red Cross, 2nd CI</Text>
       <PageNumber>9827</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -151,7 +153,9 @@
       <Key>Norman</Key>
       <Title>Comdr.</Title>
       <Forenames>Alfred Headley</Forenames>
-      <Text>, Companion, Saint Michael and Saint George</Text>
+      <Text>
+        <Honour>Companion, Saint Michael and Saint George</Honour>
+      </Text>
       <PageNumber>9107</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -199,7 +203,12 @@
       </Key>
       <Title>Cant.</Title>
       <Forenames>Wilfrid</Forenames>
-      <Text>, C.B., C.M.G., D. S.O., Companion, Star of India</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D. S.O.</Honour>
+        <Honour>Companion, Star of India</Honour>
+      </Text>
       <PageNumber>11458</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -214,8 +223,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, Miss Mary, Royal Red Cross, 2nd CI</Text>
+      <Key>O'Connor</Key>
+      <Title>Miss</Title>
+      <Forenames>Mary</Forenames>
+      <Text>, Royal Red Cross, 2nd CI</Text>
       <PageNumber>9830</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -230,8 +241,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donnell, Miss Annie Mary, Royal Red Cross, 2nd CI</Text>
+      <Key>O'Donnell</Key>
+      <Title>Miss</Title>
+      <Forenames>Annie Mary</Forenames>
+      <Text>, Royal Red Cross, 2nd CI</Text>
       <PageNumber>9827</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -239,7 +252,9 @@
     <MainItem>
       <Key>Ogilvie</Key>
       <Title>Lt.</Title>
-      <Text>Col. Alexander Thomas, Companion, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>9685</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -249,21 +264,27 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Title>Lt.</Title>
-      <Text>jCol. and Bt. Col. Edward Collingwood, C.M.G., Commander, Order of the British. Empire</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>11460</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Ogle</Key>
-      <Text>Payr. Sub-Lt. (A./Payr. Lt.) John, Member, Order of the British Empire</Text>
+      <Title>Payr. Sub-Lt</Title>
+      <Text>. (A./Payr. Lt.) John, Member, Order of the British Empire</Text>
       <PageNumber>9833</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Grady, Miss Norah, Royal Red Cross, 2nd CI</Text>
+      <Key>O'Grady</Key>
+      <Title>Miss</Title>
+      <Forenames>Norah</Forenames>
+      <Text>, Royal Red Cross, 2nd CI</Text>
       <PageNumber>9827</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -277,15 +298,18 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neal, Thomas Woollcombe Barton, Member of the Legislative Council of the Island of Barbados</Text>
+      <Key>O'Neal</Key>
+      <Forenames>Thomas Woollcombe Barton</Forenames>
+      <Text>, Member of the Legislative Council of the Island of Barbados</Text>
       <PageNumber>11000</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, Miss Marv Elizabeth, Royal Red Cross. 1st CI</Text>
+      <Key>O'Neill</Key>
+      <Title>Miss</Title>
+      <Forenames>Marv Elizabeth</Forenames>
+      <Text>, Royal Red Cross. 1st CI</Text>
       <PageNumber>9822</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -294,7 +318,9 @@
       <Key>Onslow</Key>
       <Title>Sir</Title>
       <Forenames>Richard William Alan</Forenames>
-      <Text>, Earl of, O.B.E., Lord in Waiting in Ordinary to H.M. the King</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>10472</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -302,7 +328,9 @@
     <MainItem>
       <Key>Orde</Key>
       <Forenames>Julian Walter</Forenames>
-      <Text>. Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>10218</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -338,7 +366,9 @@
       <Key>Osmaston</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Cecil Alvend</Forenames>
-      <Text>MtzHerbert, C.B., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>9842</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -373,7 +403,9 @@
     <MainItem>
       <Key>Overman</Key>
       <Forenames>Henry</Forenames>
-      <Text>, O.B.E., Member of the Royal Commission on the Agricultural Industry</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>9131</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -411,7 +443,10 @@
       <Key>Paget</Key>
       <Title>Sir</Title>
       <Forenames>Ralph Spencer</Forenames>
-      <Text>, K.C.M.G., C.V.O., Sworn of H.M. Privy Council</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>C.V.O.</Honour>
+      </Text>
       <PageNumber>10461</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -428,7 +463,9 @@
     <MainItem>
       <Key>Palmer</Key>
       <Title>Lt.</Title>
-      <Text>.(T./Capt.) Algey, Companion, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>8980</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -497,7 +534,9 @@
       <Key>Pape</Key>
       <Title>Comdr.</Title>
       <Forenames>Percy John</Forenames>
-      <Text>, R.D., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>9109</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -506,7 +545,10 @@
       <Key>Pardoe</Key>
       <Title>Mrs.</Title>
       <Forenames>Elizabeth Wentworth</Forenames>
-      <Text>, O.B.E., Lady of Grace, St. John of Jerusalem</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>Lady of Grace, St. John of Jerusalem</Honour>
+      </Text>
       <PageNumber>10082</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -600,7 +642,9 @@
       <Key>Parsons</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Frederick George</Forenames>
-      <Text>, D.S.O., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>11462</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -617,7 +661,9 @@
     <MainItem>
       <Key>Paiton</Key>
       <Forenames>James Wallace</Forenames>
-      <Text>, J.P., Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>10218</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -672,7 +718,9 @@
       <Key>Pearce</Key>
       <Title>Maj.</Title>
       <Forenames>Leslie Frank</Forenames>
-      <Text>, M.C., Companion, D.S.O</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9685</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -698,7 +746,9 @@
       <Key>Peat</Key>
       <Title>Sir</Title>
       <Forenames>William Barclay</Forenames>
-      <Text>, Bt., Chairman of the Royal Commission to Inquire into 'the Agricultural Industry</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>9131</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -716,7 +766,9 @@
       <Key>Peel</Key>
       <Title>the Right Hon.</Title>
       <Forenames>William Robert Wellesley</Forenames>
-      <Text>, Viscount, G.B.E., sworn of H.M. Privy Council</Text>
+      <Text>
+        <Honour>G.B.E.</Honour>
+      </Text>
       <PageNumber>10461</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -787,7 +839,9 @@
       <Key>Perfect</Key>
       <Title>Oomdr. (actg. Capt.)</Title>
       <Forenames>Her-</Forenames>
-      <Text>bert Mosley, O.B.E., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>8384</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -835,7 +889,10 @@
       </Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Kenneth Meikle</Forenames>
-      <Text>, D.S.O., Bar to D.S.O</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>9677</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -880,7 +937,9 @@
       <Key>Petrie</Key>
       <Title>Maj.</Title>
       <Forenames>Paul Cuthbert</Forenames>
-      <Text>, M.C., Companion, D.S.O</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9682</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -897,7 +956,9 @@
     <MainItem>
       <Key>Philipps</Key>
       <Forenames>Laurence Richard</Forenames>
-      <Text>, J.P,., created Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>10218</PageNumber>
     </MainItem>
   </ItemGroup>

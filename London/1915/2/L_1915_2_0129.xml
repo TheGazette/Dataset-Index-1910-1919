@@ -190,8 +190,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Berryman</Key>
-      <Forenames>James St</Forenames>
-      <Text>. J. Palmer (temporary 2nd Lieut.)</Text>
+      <Forenames>James St. J</Forenames>
+      <Text>. Palmer (temporary 2nd Lieut.)</Text>
       <PageNumber>5950</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -661,8 +661,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hare</Key>
-      <Title>(temporary)</Title>
-      <Forenames>Lieut</Forenames>
+      <Title>(temporary) Lieut</Title>
       <Text>, and Adjt. John (temporary Lieut, and Adjt., antedated)</Text>
       <PageNumber>3687</PageNumber>
     </MainItem>
@@ -692,7 +691,9 @@
       <Key>Heath</Key>
       <Title>Capt.</Title>
       <Forenames>R. M.</Forenames>
-      <Text>, D.S.O. (seconded with the Army Cyclist Corps)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3555</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1006,8 +1007,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, (temporary) Lieut. Gerald G. (removed from the Servico ' for absence without leave)</Text>
+      <Key>O'Brien</Key>
+      <Title>(temporary) Lieut.</Title>
+      <Forenames>Gerald G.</Forenames>
+      <Text>(removed from the Servico ' for absence without leave)</Text>
       <PageNumber>3430</PageNumber>
     </MainItem>
   </ItemGroup>

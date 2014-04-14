@@ -130,8 +130,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, H. (2nd Lt. on probation)</Text>
+      <Key>O'Brien</Key>
+      <Forenames>H.</Forenames>
+      <Text>(2nd Lt. on probation)</Text>
       <PageNumber>5972</PageNumber>
     </MainItem>
     <SubItem>
@@ -141,8 +142,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donnell, 2nd Lt. A. (relinquishes his commission)</Text>
+      <Key>O'Donnell</Key>
+      <Title>2nd Lt.</Title>
+      <Forenames>A.</Forenames>
+      <Text>(relinquishes his commission)</Text>
       <PageNumber>3775</PageNumber>
     </MainItem>
     <SubItem>
@@ -153,15 +156,19 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neil, 2nd Lt. R. (temp. Lt.)</Text>
+      <Key>O'Neil</Key>
+      <Title>2nd Lt.</Title>
+      <Forenames>R.</Forenames>
+      <Text>(temp. Lt.)</Text>
       <PageNumber>5444</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, 2nd Lt. (temp. Capt.) F. R. (seconded for duty as Adjt., Army Field Survey Company)</Text>
+      <Key>O'Neill</Key>
+      <Title>2nd Lt. (temp. Capt.)</Title>
+      <Forenames>F. R.</Forenames>
+      <Text>(seconded for duty as Adjt., Army Field Survey Company)</Text>
       <PageNumber>6229</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -528,7 +535,7 @@
       <PageNumber>3534</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Seconded.</Text>
+      <Text>Seconded</Text>
       <PageNumber>4707</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -548,7 +555,7 @@
       <PageNumber>4673</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Lt.</Text>
+      <Text>Lt</Text>
       <PageNumber>5476</PageNumber>
       <PageNumber>6431</PageNumber>
     </SubItem>
@@ -740,8 +747,8 @@
     <MainItem>
       <Key>Palethorpe</Key>
       <Title>2nd Lt.</Title>
-      <Forenames>C. N.</Forenames>
-      <Text>de W. (temp. Lt.)</Text>
+      <Forenames>C. N. de W</Forenames>
+      <Text>. (temp. Lt.)</Text>
       <PageNumber>4255</PageNumber>
     </MainItem>
     <SubItem>
@@ -921,7 +928,9 @@
       <PageNumber>6331</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>A. S., M.D. (Lt.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>5621</PageNumber>
     </SubItem>
     <SubItem>

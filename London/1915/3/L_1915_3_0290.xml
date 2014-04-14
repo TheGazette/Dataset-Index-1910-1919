@@ -47,8 +47,7 @@
     <MainItem>
       <Key>Cazenove</Key>
       <Title>Lieut.</Title>
-      <Forenames>Ralph</Forenames>
-      <Text>de L</Text>
+      <Forenames>Ralph de L</Forenames>
       <PageNumber>8265</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -155,8 +154,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Chopin</Key>
-      <Forenames>Aloysius J.</Forenames>
-      <Text>de Labouisse (2nd Lieut.)</Text>
+      <Forenames>Aloysius J. de Labouisse</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>7908</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -545,7 +544,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cullen</Key>
-      <Text>. John (2nd Lieut.)</Text>
+      <Forenames>John</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>6422</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -658,6 +658,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Bertodano</Key>
+      <Title>Capt.</Title>
+      <Forenames>Frederick R.</Forenames>
+      <Text>(temporary Maj. and to remain Adjt.)</Text>
+      <PageNumber>7512</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Deakin</Key>
       <Title>2nd Lieut.</Title>
       <Forenames>Edward C.</Forenames>
@@ -684,7 +693,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Dent</Key>
-      <Text>. 2nd Lieut. John D. (correction of date)</Text>
+      <Title>2nd Lieut.</Title>
+      <Forenames>John D.</Forenames>
+      <Text>(correction of date)</Text>
       <PageNumber>8525</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -749,7 +760,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Diggle</Key>
-      <Text>. Percy R. (2nd Lieut, cancelled) '</Text>
+      <Forenames>Percy R.</Forenames>
+      <Text>(2nd Lieut, cancelled) '</Text>
       <PageNumber>7448</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1143,7 +1155,9 @@
       <Key>Fisher</Key>
       <Title>Maj.</Title>
       <Forenames>Bertie D.</Forenames>
-      <Text>. D.S.O. (temporary Lieut.-Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7582</PageNumber>
     </MainItem>
     <SubItem>

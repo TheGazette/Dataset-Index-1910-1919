@@ -200,7 +200,10 @@
     <MainItem>
       <Key>Beauchamp</Key>
       <Title>Hon. Comdt. and Hon.</Title>
-      <Text>5L*.-Col. the Ut. Hon. Earl, K.G., K.C.M.G. (rel. commn., and retains rank of Lt.-Col.)</Text>
+      <Text>
+        <Honour>K.G.</Honour>
+        <Honour>K.C.M.G.</Honour>
+      </Text>
       <PageNumber>12748</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -283,7 +286,10 @@
       </Key>
       <Title>Hon. Comdt. and Hon. Col. Sir</Title>
       <Forenames>J.</Forenames>
-      <Text>Bart, C.B. (rel. eommn., and retains hon. rank of Col.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>12745</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -479,7 +485,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Biggar</Key>
-      <Text>temp. Lt. H. P. (rel. commn., and to be Hon. Lt.)</Text>
+      <Title>temp. Lt.</Title>
+      <Forenames>H. P.</Forenames>
+      <Text>(rel. commn., and to be Hon. Lt.)</Text>
       <PageNumber>14299</PageNumber>
     </MainItem>
   </ItemGroup>

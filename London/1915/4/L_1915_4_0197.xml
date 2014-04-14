@@ -47,7 +47,10 @@
     <MainItem>
       <Key>Killick</Key>
       <Forenames>C</Forenames>
-      <Text>, M.D., F.R.C.S. (Opt.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>10752</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -426,7 +429,9 @@
       <Key>Kinlock</Key>
       <Title>Lt.</Title>
       <Forenames>J. P.</Forenames>
-      <Text>. M.D. (temporary Capt. whilst with Aberdeen University Contingent, Senior Division, O.T.C.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>12848</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -484,7 +489,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Kirbv</Key>
-      <Text>Lt. A. G. (temp. Capt.)</Text>
+      <Title>Lt.</Title>
+      <Forenames>A. G.</Forenames>
+      <Text>(temp. Capt.)</Text>
       <PageNumber>11587</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -645,7 +652,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kirkhv</Key>
-      <Text>F. G. (2nd Lt.)</Text>
+      <Forenames>F. G.</Forenames>
+      <Text>(2nd Lt.)</Text>
       <PageNumber>10521</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -660,7 +668,7 @@
       <PageNumber>9657</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Temo. Capt</Text>
+      <Text>Temo. Capt.</Text>
       <PageNumber>12542</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1196,11 +1204,13 @@
       <Key>Lacey</Key>
       <Title>Lt.</Title>
       <Forenames>F. H.</Forenames>
-      <Text>, M.B. (resigned on appointment to the R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>12207</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Lt</Text>
+      <Text>Lt.</Text>
       <PageNumber>12207</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1808,7 +1818,9 @@
     <MainItem>
       <Key>Langley</Key>
       <Forenames>F. W. W.</Forenames>
-      <Text>(2nd Lt.) ... Langman, Maj. A. L., C.M.G. (seconded for duty with the Yeomanry Squadron, Provisional Brigade)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>11747</PageNumber>
     </MainItem>
   </ItemGroup>

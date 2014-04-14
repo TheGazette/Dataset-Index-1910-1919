@@ -57,15 +57,10 @@
       <Text>(temp. 2nd Lt., Obs. Offr., and Hon. Lt.)</Text>
       <PageNumber>6803</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
+    <SubItem>
       <Text>2hd Lt. on prob. K. J. (2hd Lt., A: and S.)</Text>
       <PageNumber>6227</PageNumber>
-    </MainItem>
+    </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
@@ -108,67 +103,28 @@
       <Text>(2nd Lt., A. and S.)</Text>
       <PageNumber>6111</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Title>2nd Lt. (in Army)</Title>
-      <Forenames>H. A.</Forenames>
-      <Text>(temp. ' 2nd Lt., A. and S.)</Text>
-      <PageNumber>6227</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>H. A.</Forenames>
-      <Text>(temp. 2nd Lt.)</Text>
+    <SubItem>
+      <Text>2nd Lt. on prob. G. R. (cbnfd. as 2nd Lt., A. and S.)</Text>
+      <PageNumber>7644</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>H. A. (temp. 2nd Lt.)</Text>
       <PageNumber>5071</PageNumber>
-    </MainItem>
+    </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>
-        <KeyDitto>-—___ ___</KeyDitto>
+        <KeyDitto>-—</KeyDitto>
       </Key>
       <Title>Admin. Oa.</Title>
       <Text>pt. J. (temp. Capt.)</Text>
       <PageNumber>5998</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Title>temp. 2nd Lt. on prob.</Title>
-      <Forenames>J. P</Forenames>
-      <Text>(confd. as temp. 2nd Lt.)</Text>
+    <SubItem>
+      <Text>temp. 2nd Lt. on prob. J. P (confd. as temp. 2nd Lt.)</Text>
       <PageNumber>7213</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Text>prob. Fit. Offr. O. H. (temp. 2nd Lt., A. and S.)</Text>
-      <PageNumber>6937</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___</KeyDitto>
-      </Key>
-      <Forenames>Oadet W. H.</Forenames>
-      <Text>(temp. 2nd Lt., , A. and S.)</Text>
-      <PageNumber>7212</PageNumber>
-    </MainItem>
+    </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
@@ -191,7 +147,12 @@
       <PageNumber>4139</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Stanley, The Hon. Sir Arthur, G.B.E., C.B.,M.V.O., M.P.</Text>
+      <Text>
+        <Honour>G.B.E.</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>M.V.O.</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4139</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -217,7 +178,9 @@
       <PageNumber>5070</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>Seely, Col. Sir Charles Hilton, Bart., M..P</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>5070</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -231,7 +194,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Sutherland</Key>
-      <Text>: Sutherland Leveson Gower, Capt. the Rt. Hon. Lord Alistair St. Clair, M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>4303</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -242,16 +207,10 @@
       <Text>, change ed. of name by deed poll to F. L. Armstrong</Text>
       <PageNumber>5644</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>William Leopold</Forenames>
-      <Text>, change of name by deed poll to W. L. , Armstrong</Text>
+    <SubItem>
+      <Text>William Leopold, change of name by deed poll to W. L. , Armstrong</Text>
       <PageNumber>5644</PageNumber>
-    </MainItem>
+    </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
@@ -319,10 +278,7 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>
-        <KeyDitto>___</KeyDitto>
-      </Key>
-      <Forenames>Notice</Forenames>
+      <Key>Notice</Key>
       <Text>in Gazette of 10th May, 1918, does not include Warrant Officer SWhbohnasters</Text>
       <PageNumber>5998</PageNumber>
     </MainItem>
@@ -332,7 +288,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Kincardineshire</Key>
-      <Text>: Gladstone, Lit.-Co. Sir John Robert, Bt. „</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>5746</PageNumber>
     </MainItem>
     <SubSectionTitle>Deputy-Lieutenants</SubSectionTitle>
@@ -369,16 +327,10 @@
       <Text>, change of name by deed poll to C. Storey</Text>
       <PageNumber>5786</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>George Adam</Forenames>
-      <Text>, change, of name by deed poll to G. E. Storey</Text>
+    <SubItem>
+      <Text>George Adam, change, of name by deed poll to G. E. Storey</Text>
       <PageNumber>4610</PageNumber>
-    </MainItem>
+    </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
@@ -411,26 +363,10 @@
       <Text>, change of name by deed poll to E. Allen</Text>
       <PageNumber>4342</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>John</Forenames>
-      <Text>, change of name by deed poll to J. Allen,</Text>
+    <SubItem>
+      <Text>John, change of name by deed poll to J. Allen,</Text>
       <PageNumber>4343</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>William</Forenames>
-      <Text>, change of name-by deedppll to W. Allen</Text>
-      <PageNumber>4343</PageNumber>
-    </MainItem>
+    </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
@@ -470,27 +406,10 @@
       <Text>, change of name by deed poll to B. Ansley</Text>
       <PageNumber>5644</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___</KeyDitto>
-      </Key>
-      <Forenames>Heinrich</Forenames>
-      <Text>, change of name by deed poll to Henry Ansley</Text>
+    <SubItem>
+      <Text>Heinrich, change of name by deed poll to Henry Ansley</Text>
       <PageNumber>5644</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Title>Sidney.</Title>
-      <Forenames>Samuel</Forenames>
-      <Text>, change of name by deed poll to S. S. Arisley</Text>
-      <PageNumber>4342</PageNumber>
-    </MainItem>
+    </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
@@ -577,6 +496,5 @@
       <PageNumber>7223</PageNumber>
     </SubItem>
   </ItemGroup>
-  <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
 </Index>
 

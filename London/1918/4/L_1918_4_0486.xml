@@ -145,8 +145,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hill</Key>
-      <Forenames>E. E. St</Forenames>
-      <Text>. L. (temp. Lt.)</Text>
+      <Forenames>E. E. St. L</Forenames>
+      <Text>. (temp. Lt.)</Text>
       <PageNumber>12125</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -352,7 +352,9 @@
     <MainItem>
       <Key>Jenkins</Key>
       <Forenames>F. A.</Forenames>
-      <Text>, M.C. (temp. Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>14706</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -655,7 +657,9 @@
     <MainItem>
       <Key>Macauley</Key>
       <Forenames>T. B.</Forenames>
-      <Text>, D.C.M. (temp. Sub-Lt.)</Text>
+      <Text>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>13213</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -711,7 +715,9 @@
     <MainItem>
       <Key>McGuire</Key>
       <Forenames>J.</Forenames>
-      <Text>, M.M. (temp. SubLt.)</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>11861</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -952,7 +958,9 @@
         <KeyDitto>___</KeyDitto>
       </Key>
       <Forenames>W.</Forenames>
-      <Text>, M.C. (temp. Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>14956</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1188,15 +1196,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Plimpton</Key>
-      <Text>C. B. (temp. Lt.)</Text>
+      <Forenames>C. B.</Forenames>
+      <Text>(temp. Lt.)</Text>
       <PageNumber>13313</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Powell</Key>
-      <Forenames>S. Von F.</Forenames>
-      <Text>(temp. Lt.)</Text>
+      <Forenames>S. Von F</Forenames>
+      <Text>. (temp. Lt.)</Text>
       <PageNumber>13494</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1234,14 +1243,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Ramsay</Key>
-      <Text>W. (temp. Sub-Lt.)</Text>
+      <Forenames>W.</Forenames>
+      <Text>(temp. Sub-Lt.)</Text>
       <PageNumber>11861</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Ramsden</Key>
-      <Text>G. H. (temp. Sub-Lt.)</Text>
+      <Forenames>G. H.</Forenames>
+      <Text>(temp. Sub-Lt.)</Text>
       <PageNumber>11861</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1399,7 +1410,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sargent</Key>
-      <Text>W. A. (temp. Lt.)</Text>
+      <Forenames>W. A.</Forenames>
+      <Text>(temp. Lt.)</Text>
       <PageNumber>13494</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1555,7 +1567,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>T. W.</Forenames>
-      <Text>, O.B.E. (temp. SubLt.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>11558</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1642,7 +1656,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>S.</Forenames>
-      <Text>, M.M. (temp. Sub-Lt.)</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>14569</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1816,7 +1832,9 @@
     <MainItem>
       <Key>Trimingham</Key>
       <Forenames>E. H.</Forenames>
-      <Text>(temp. Lt.) ... Turner, J. W., D.S.M. (temp. Sub-Lt.)</Text>
+      <Text>
+        <Honour>D.S.M.</Honour>
+      </Text>
       <PageNumber>13213</PageNumber>
     </MainItem>
   </ItemGroup>

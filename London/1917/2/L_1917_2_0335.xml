@@ -49,7 +49,9 @@
       <Key>Turrill</Key>
       <Title>Pte.</Title>
       <Forenames>J.</Forenames>
-      <Text>(temp. 2nd Lt.) ... Turtle, temp. Lt. G. de B., M.D</Text>
+      <Text>
+        <Honour>M.D</Honour>
+      </Text>
       <PageNumber>4605</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -208,7 +210,9 @@
       <Key>Tweedale</Key>
       <Title>Cadet</Title>
       <Forenames>N.</Forenames>
-      <Text>(2nd Lt.) ... Tweedie, Maj. W. J. B., C.M.G. (actg. Lt.-Col.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>3578</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -225,7 +229,9 @@
       <Key>Tweedy</Key>
       <Title>temp. Maj.</Title>
       <Forenames>R. C</Forenames>
-      <Text>, M.D. (rel. commn. on acc. of illhealth)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>6141</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -375,7 +381,9 @@
       </Key>
       <Title>Maj. (temp. lit.-Col.)</Title>
       <Forenames>W. L.</Forenames>
-      <Text>, 0., . M.C. (Brevet Lt.-Cbl.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5465</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -418,7 +426,9 @@
       <Key>TVycross</Key>
       <Title>temp. Lt.</Title>
       <Forenames>B. G.</Forenames>
-      <Text>, 'M.C. (actg. Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6486</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -454,7 +464,9 @@
     <MainItem>
       <Key>Tyhurst</Key>
       <Title>temp.</Title>
-      <Text>(Lt. R. J. S., M.C. (actg. Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4779</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -552,7 +564,9 @@
       <Key>Tyrams</Key>
       <Title>2nd Lt.</Title>
       <Forenames>F.</Forenames>
-      <Text>, M.C. (Flying Offr., Observer, and seed.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6031</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -561,7 +575,9 @@
       <Key>Tynan</Key>
       <Title>temp. Clapt.</Title>
       <Forenames>J.</Forenames>
-      <Text>, D.S.O. (actg; Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5621</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -684,7 +700,9 @@
       <Key>Tyssen</Key>
       <Title>Capt.</Title>
       <Forenames>J. H. S.</Forenames>
-      <Text>, M.C. (Sqdn. Oomdr. and temp. Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4632</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -733,7 +751,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Umfreville</Key>
-      <Text>Maj. (temp. Brig.-Gen.) P., C.M.G. (Brevet Lt.-Col.)</Text>
+      <Title>Maj. (temp. Brig.-Gen.)</Title>
+      <Forenames>P.</Forenames>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>5465</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1194,7 +1216,9 @@
       <PageNumber>5943</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>J. A., M.D. (temp. Lt.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>5834</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1240,7 +1264,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Valpy</Key>
-      <Text>F. H. (temp. 2nd Lt.)</Text>
+      <Forenames>F. H.</Forenames>
+      <Text>(temp. 2nd Lt.)</Text>
       <PageNumber>4862</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1254,10 +1279,20 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Bergen</Forenames>
-      <Text>, temp. 2nd Lt. C. (trd. and actg. Lt.)</Text>
+      <Key>Van Bergen</Key>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>C.</Forenames>
+      <Text>(trd. and actg. Lt.)</Text>
       <PageNumber>4322</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>van Breda</Key>
+      <Title>Lt. (temp.-Maj.)</Title>
+      <Forenames>H. G.</Forenames>
+      <Text>(temp. Maj.)</Text>
+      <PageNumber>4577</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

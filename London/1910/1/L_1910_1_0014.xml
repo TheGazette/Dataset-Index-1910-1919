@@ -18,7 +18,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Zanzibar</Key>
-      <Text>Senhor L. R. G. dOliveira, Consul-General for Portugal at</Text>
+      <Forenames>Senhor L. R. G.</Forenames>
+      <Text>dOliveira, Consul-General for Portugal at</Text>
       <PageNumber>1124</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -107,7 +108,9 @@
       <Key>Appleby</Key>
       <Title>Lieut.-Col.</Title>
       <Forenames>F. H.</Forenames>
-      <Text>, Knight of Grace, St. John of Jerusalem</Text>
+      <Text>
+        <Honour>Knight of Grace, St. John of Jerusalem</Honour>
+      </Text>
       <PageNumber>1593</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -124,7 +127,9 @@
     <MainItem>
       <Key>Asano</Key>
       <Forenames>Nagayuki</Forenames>
-      <Text>, Hon. Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>779</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -142,7 +147,9 @@
     <MainItem>
       <Key>Baker</Key>
       <Forenames>W. R.</Forenames>
-      <Text>, Esquire, St. John of Jerusalem</Text>
+      <Text>
+        <Honour>Esquire, St. John of Jerusalem</Honour>
+      </Text>
       <PageNumber>1593</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -212,7 +219,9 @@
       <Key>Birdwood</Key>
       <Title>Col.</Title>
       <Forenames>W. R.</Forenames>
-      <Text>, Companion, Star of India</Text>
+      <Text>
+        <Honour>Companion, Star of India</Honour>
+      </Text>
       <PageNumber>1</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -221,7 +230,9 @@
       <Key>Blackhan</Key>
       <Title>Major</Title>
       <Forenames>R. J.</Forenames>
-      <Text>, Knight of Grace, St. John of Jerusalem</Text>
+      <Text>
+        <Honour>Knight of Grace, St. John of Jerusalem</Honour>
+      </Text>
       <PageNumber>1593</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -272,7 +283,9 @@
     <MainItem>
       <Key>Castlematne</Key>
       <Title>Rt. Hon. Lord</Title>
-      <Text>, Knight of Grace, St. John of Jerusalem</Text>
+      <Text>
+        <Honour>Knight of Grace, St. John of Jerusalem</Honour>
+      </Text>
       <PageNumber>1693</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -288,7 +301,9 @@
     <MainItem>
       <Key>Chandavarkar</Key>
       <Forenames>N. C</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>526</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -304,7 +319,9 @@
     <MainItem>
       <Key>Cholmeley</Key>
       <Forenames>N. G.</Forenames>
-      <Text>, Companion, Star of India</Text>
+      <Text>
+        <Honour>Companion, Star of India</Honour>
+      </Text>
       <PageNumber>2</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -336,8 +353,39 @@
     <MainItem>
       <Key>Courtney</Key>
       <Forenames>J. M.</Forenames>
-      <Text>, Knight of Grace, St. John of Jerusalem</Text>
+      <Text>
+        <Honour>Knight of Grace, St. John of Jerusalem</Honour>
+      </Text>
       <PageNumber>1593</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Lantsheere</Key>
+      <Title>Lieut.-Col.</Title>
+      <Forenames>A. M. J. M.</Forenames>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
+      <PageNumber>779</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Lemos</Key>
+      <Forenames>C. H.</Forenames>
+      <Text>, H.M.'s Consul at Ciudad Bolivia ..'</Text>
+      <PageNumber>338</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Ligne</Key>
+      <Forenames>H. E.</Forenames>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
+      <PageNumber>779</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -345,7 +393,9 @@
       <Key>Derby</Key>
       <Title>Rt. Hon.</Title>
       <Forenames>Countess</Forenames>
-      <Text>of, Lady of Grace, St. John of Jerusalem</Text>
+      <Text>
+        <Honour>Lady of Grace, St. John of Jerusalem</Honour>
+      </Text>
       <PageNumber>1593</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -362,7 +412,9 @@
     <MainItem>
       <Key>Drummond</Key>
       <Forenames>G. E.</Forenames>
-      <Text>, Knight of Grace, St. John of Jerusalem</Text>
+      <Text>
+        <Honour>Knight of Grace, St. John of Jerusalem</Honour>
+      </Text>
       <PageNumber>1593</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -386,8 +438,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Egerton</Key>
-      <Title>Lady, Lady</Title>
-      <Text>of Grace, St. John of Jerusalem .. .,</Text>
+      <Title>Lady</Title>
+      <Text>
+        <Honour>Lady of Grace, St. John of Jerusalem</Honour>
+      </Text>
       <PageNumber>1693</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -437,7 +491,9 @@
       <Key>Freer-Smith</Key>
       <Title>Commander Sir</Title>
       <Forenames>H. P.</Forenames>
-      <Text>, Companion, Star of India</Text>
+      <Text>
+        <Honour>Companion, Star of India</Honour>
+      </Text>
       <PageNumber>1</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -505,7 +561,9 @@
     <MainItem>
       <Key>Grey</Key>
       <Forenames>H. E.</Forenames>
-      <Text>Earl, Knight of Grace, St. John of Jerusalem</Text>
+      <Text>
+        <Honour>Knight of Grace, St. John of Jerusalem</Honour>
+      </Text>
       <PageNumber>1593</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -587,14 +645,18 @@
     <MainItem>
       <Key>Hedley</Key>
       <Forenames>J.</Forenames>
-      <Text>, Fourth Class, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>1681</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hodgetts</Key>
-      <Text>;Maj. C. A., Esquire, St. John of Jerusalem</Text>
+      <Text>
+        <Honour>Esquire, St. John of Jerusalem</Honour>
+      </Text>
       <PageNumber>1593</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -650,7 +712,9 @@
     <MainItem>
       <Key>Irgens</Key>
       <Forenames>J.</Forenames>
-      <Text>, Hon. Knight Grand Cross, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>1681</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -666,7 +730,9 @@
     <MainItem>
       <Key>Iveagh</Key>
       <Title>Viscount</Title>
-      <Text>, Knight Grand Cross, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>249</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -675,7 +741,9 @@
       <Key>James</Key>
       <Title>Mrs.</Title>
       <Forenames>W. D.</Forenames>
-      <Text>, Lady of Grace, St. John of Jerusalem</Text>
+      <Text>
+        <Honour>Lady of Grace, St. John of Jerusalem</Honour>
+      </Text>
       <PageNumber>1593</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -683,15 +751,18 @@
     <MainItem>
       <Key>Japan</Key>
       <Forenames>H. I. H.</Forenames>
-      <Text>Prince Hiroyasu of, Hon. Knight Grand Cross, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>779</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Jellicoe</Key>
-      <Forenames>Rear-</Forenames>
-      <Text>Admiral Sir J. R., Admiralty Commissioner</Text>
+      <Title>Rear-Admiral Sir</Title>
+      <Forenames>J. R.</Forenames>
+      <Text>, Admiralty Commissioner</Text>
       <PageNumber>617</PageNumber>
       <PageNumber>689</PageNumber>
     </MainItem>
@@ -735,7 +806,9 @@
       <Key>Kutner</Key>
       <Title>Professor</Title>
       <Forenames>R.</Forenames>
-      <Text>, Hon. Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>1953</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -769,7 +842,9 @@
       <Key>Longhurst</Key>
       <Title>Sir</Title>
       <Forenames>H. B.</Forenames>
-      <Text>, Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>947</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -823,7 +898,9 @@
     <MainItem>
       <Key>McNicoll</Key>
       <Forenames>D.</Forenames>
-      <Text>, Esquire, St. John of Jerusalem</Text>
+      <Text>
+        <Honour>Esquire, St. John of Jerusalem</Honour>
+      </Text>
       <PageNumber>1593</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -831,7 +908,9 @@
     <MainItem>
       <Key>McRobert</Key>
       <Forenames>A.</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>526</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -866,7 +945,9 @@
       <Key>Mason</Key>
       <Title>Col.</Title>
       <Forenames>J.</Forenames>
-      <Text>, Knight of Grace, St. John of Jerusalem</Text>
+      <Text>
+        <Honour>Knight of Grace, St. John of Jerusalem</Honour>
+      </Text>
       <PageNumber>1593</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -915,7 +996,9 @@
     <MainItem>
       <Key>Mody</Key>
       <Forenames>H. N.</Forenames>
-      <Text>, Knighted .,</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>1953</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -948,7 +1031,9 @@
       <Key>Morrison</Key>
       <Title>Col.</Title>
       <Forenames>J.</Forenames>
-      <Text>, Fourth Class, Royal Victorian Order .. .. ..</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -989,8 +1074,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Papillon</Key>
-      <Title>Mrs., Lady</Title>
-      <Text>of Grace, St. John of Jerusalem</Text>
+      <Title>Mrs.</Title>
+      <Text>
+        <Honour>Lady of Grace, St. John of Jerusalem</Honour>
+      </Text>
       <PageNumber>1593</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -3,7 +3,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Hardy</Key>
-      <Text>.Capt.Henry Harrison, Member, Order of the British Empire, transferred to Military Division</Text>
+      <Title>Capt.</Title>
+      <Forenames>Henry Harrison</Forenames>
+      <Text>, Member, Order of the British Empire, transferred to Military Division</Text>
       <PageNumber>4986</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -14,7 +16,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>Henry Stewart</Forenames>
-      <Text>, M.C., Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6998</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -129,7 +133,10 @@
       <Key>Harington</Key>
       <Title>Maj. and Bt. Lt.-Col. (T./Bri?.-Gen.)</Title>
       <Forenames>John</Forenames>
-      <Text>, D.S.O., Companion, St. Michael and St. George</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, St. Michael and St. George</Honour>
+      </Text>
       <PageNumber>6791</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -170,7 +177,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Harman</Key>
-      <Text>; Lt.-Col. and Bt. Col. (T./ Maj.-Gen.) Antony Ernest Wentworth, D.S.O., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>6790</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -216,8 +227,8 @@
     <MainItem>
       <Key>Harnett</Key>
       <Title>Capt. (A./Maj.)</Title>
-      <Forenames>Edward St</Forenames>
-      <Text>. Clair, Officer, Order of the British Empire</Text>
+      <Forenames>Edward St. Clair</Forenames>
+      <Text>, Officer, Order of the British Empire</Text>
       <PageNumber>7027</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -225,7 +236,9 @@
     <MainItem>
       <Key>Harold</Key>
       <Forenames>S.S.M. Joseph</Forenames>
-      <Text>, D.C.M., Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>6808</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -307,7 +320,10 @@
       <Key>Harrel</Key>
       <Title>Comdr.</Title>
       <Forenames>William Vesey</Forenames>
-      <Text>, C.B., M.V.O., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>4196</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -430,7 +446,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>George Arthur</Forenames>
-      <Text>, D.S.O., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6988</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -507,7 +525,10 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Walter Henry</Forenames>
-      <Text>, C.M.G., Knighted</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>5422</PageNumber>
       <PageNumber>6508</PageNumber>
     </MainItem>
@@ -548,7 +569,9 @@
       <Key>Harrison</Key>
       <Title>Capt.</Title>
       <Forenames>Charles Henry</Forenames>
-      <Text>, M.C., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6812</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -559,7 +582,9 @@
       </Key>
       <Title>Lt.-Col. and Bt. Col.</Title>
       <Forenames>Cholmely Edward Carl Branfill</Forenames>
-      <Text>, C.M.G., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>6794</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -590,7 +615,9 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>T.</Forenames>
-      <Text>/Maj. Frank, M.C., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6800</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -611,7 +638,9 @@
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>S.</Forenames>
-      <Text>/S.M. George, D.C.M., Memr. ber, Order of the British Empire .. '</Text>
+      <Text>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>6808</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -653,7 +682,9 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Alderman John</Forenames>
-      <Text>, J.P.,Knighted,</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>5422</PageNumber>
       <PageNumber>6508</PageNumber>
     </MainItem>
@@ -725,7 +756,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Harrisson</Key>
-      <Text>.Sydney Thirlwall,C.M.G., Officer, Order of the British Empire</Text>
+      <Forenames>Sydney Thirlwall</Forenames>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>8092</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -760,7 +794,9 @@
       <Key>Harstone</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>John Brunton</Forenames>
-      <Text>, D.S.O., Officer, Order of the British Empire, transferred to Military Division</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4979</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -769,7 +805,10 @@
       <Key>Hart</Key>
       <Title>Lt.-Col. and Hon. Col.</Title>
       <Forenames>Charles Joseph</Forenames>
-      <Text>, C.B., T.D., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>6980</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -780,7 +819,10 @@
       </Key>
       <Title>Lt. (A./Maj.)</Title>
       <Forenames>Ernest Albert Edward</Forenames>
-      <Text>, M.C., Companion, D.S.O</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>6818</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -813,7 +855,11 @@
       </Key>
       <Title>Lt.-Col. (T./Brig.-Gen.)</Title>
       <Forenames>Her-</Forenames>
-      <Text>bert Ernest,C.M.G., D.S.O., Companion, Order of the Bath .. .. :</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>6790</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -824,7 +870,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>Kenneth Eugene</Forenames>
-      <Text>, M.C., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6988</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -852,7 +900,9 @@
       <Key>Hart-Synot</Key>
       <Title>Capt. (T./Maj.)</Title>
       <Forenames>Ronald Victor Okes</Forenames>
-      <Text>, D.S.O., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6988</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -870,7 +920,9 @@
       <Key>Hartland-Mahon</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Marcus Jamos</Forenames>
-      <Text>, Companion, D.S.O. ,</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8060</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -881,7 +933,11 @@
       </Key>
       <Title>Col.</Title>
       <Forenames>Edward Baron</Forenames>
-      <Text>, V.C., C.M.G., M.R.C.S., Knight of Grace, St. John of Jerusalem</Text>
+      <Text>
+        <Honour>V.C.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>Knight of Grace, St. John of Jerusalem</Honour>
+      </Text>
       <PageNumber>7064</PageNumber>
     </MainItem>
   </ItemGroup>

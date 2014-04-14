@@ -668,7 +668,10 @@
     <MainItem>
       <Key>Thurlow</Key>
       <Title>Maj.</Title>
-      <Text>{temp. Lt.-Col.) E. G. L., D.S.O. (Bt. Lt.-Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>5465</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -704,7 +707,9 @@
       <Key>Thursby-Polham</Key>
       <Title>2nd Lt.</Title>
       <Forenames>C. K.</Forenames>
-      <Text>, M.C. (temp. Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4469</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -779,7 +784,9 @@
       <Key>Tickell</Key>
       <Title>Lt.</Title>
       <Forenames>E. F.</Forenames>
-      <Text>, M.C. (aotg. Capt.) '</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5709</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -824,7 +831,10 @@
       <Key>Tidswell</Key>
       <Title>Capt.</Title>
       <Forenames>E. S. W.</Forenames>
-      <Text>, D.S.O. {Bt. Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>5466</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -832,7 +842,9 @@
     <MainItem>
       <Key>Tidy</Key>
       <Forenames>H. L.</Forenames>
-      <Text>, M.D. (temp. Capt.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>4058</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -945,7 +957,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Tillard</Key>
-      <Text>Maj. A. K. D. (actg. Lt., Col.) ,</Text>
+      <Title>Maj.</Title>
+      <Forenames>A. K. D.</Forenames>
+      <Text>(actg. Lt., Col.) ,</Text>
       <PageNumber>6237</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -956,7 +970,9 @@
       <Key>Tilley</Key>
       <Title>temp. Lt.</Title>
       <Forenames>G.</Forenames>
-      <Text>, M.C. (actg, Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6487</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -985,7 +1001,9 @@
       <Key>Tillyard</Key>
       <Title>Capt. (temp. Maj.)</Title>
       <Forenames>G. E.</Forenames>
-      <Text>(Bt. Maj.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>5466</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1146,7 +1164,9 @@
       </Key>
       <Title>temp. Capt.</Title>
       <Forenames>C. G.</Forenames>
-      <Text>, M.C. (rel. ' commn. on acc. of ill-health, , and to be Hon. Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5503</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1192,11 +1212,13 @@
       </Key>
       <Title>temp. 2nd Lt.</Title>
       <Forenames>L. M.</Forenames>
-      <Text>, M.C. (temp. Lt.). Sub. Not</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5212</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Actg. Capt</Text>
+      <Text>Actg. Capt.</Text>
       <PageNumber>6278</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1397,7 +1419,9 @@
       <Key>Titcombe</Key>
       <Title>temp. Lt.</Title>
       <Forenames>R. H.</Forenames>
-      <Text>, M.D. (rel. commn.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>5499</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1413,7 +1437,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Titley</Key>
-      <Text>temp. 2nd Lt. A. (trd.)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>A.</Forenames>
+      <Text>(trd.)</Text>
       <PageNumber>6365</PageNumber>
     </MainItem>
   </ItemGroup>

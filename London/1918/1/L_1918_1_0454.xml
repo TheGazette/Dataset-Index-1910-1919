@@ -35,8 +35,8 @@
     <MainItem>
       <Key>Railing</Key>
       <Title>2nd Lt.</Title>
-      <Forenames>H. St</Forenames>
-      <Text>. G. (temp. Lt.)</Text>
+      <Forenames>H. St. G</Forenames>
+      <Text>. (temp. Lt.)</Text>
       <PageNumber>714</PageNumber>
     </MainItem>
     <SubItem>
@@ -76,18 +76,24 @@
       <Key>Rallton</Key>
       <Title>Lt.</Title>
       <Forenames>J. S.</Forenames>
-      <Text>M.C. (Fit. Comdr. and temp. Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1800</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Ramage</Key>
-      <Text>. temp. Hon. Lt. G. (temp. Hon. Capt.)</Text>
+      <Title>temp. Hon. Lt.</Title>
+      <Forenames>G.</Forenames>
+      <Text>(temp. Hon. Capt.)</Text>
       <PageNumber>245</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>temp. Lt. R. M., M.C. (act.?. Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1349</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -109,7 +115,9 @@
       <Key>Ramsay</Key>
       <Title>temp. 2nd Lt.</Title>
       <Forenames>A.</Forenames>
-      <Text>, M.C. (temp. Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2051</PageNumber>
     </MainItem>
     <SubItem>
@@ -125,7 +133,9 @@
       <PageNumber>2855</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>Qrmr. and Hon. Lt. (temp. Capt.) J., M.C. (Equipint. Olir., 3rd Cl., rel. temp, rank and restd. to estab.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>853</PageNumber>
     </SubItem>
     <SubItem>
@@ -145,7 +155,9 @@
       <PageNumber>2700</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>temp. Capt. W. M., M.C. (attd.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1815</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -162,12 +174,15 @@
     <MainItem>
       <Key>Ramsbottom</Key>
       <Forenames>C. H. G.</Forenames>
-      <Text>. M.D. (temp. Maj.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>345</PageNumber>
     </MainItem>
     <SubItem>
       <Text>
         <PageNumber>410</PageNumber>
+        <Honour>D.S.O.</Honour>
       </Text>
       <PageNumber>1025</PageNumber>
     </SubItem>
@@ -227,7 +242,9 @@
       <PageNumber>2602</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Maj. (T./Lt.-Col.) J. V., D.S.O. (Brevet Lt.-Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>15</PageNumber>
     </SubItem>
     <SubItem>
@@ -382,7 +399,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rankine</Key>
-      <Text>. G. R. (temp. 2nd Lt. on prob.)</Text>
+      <Forenames>G. R.</Forenames>
+      <Text>(temp. 2nd Lt. on prob.)</Text>
       <PageNumber>243</PageNumber>
     </MainItem>
     <SubItem>
@@ -402,7 +420,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Ranns</Key>
-      <Text>. temp. 2nd Lt. R. Jl. (temp. Lt.)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>R. Jl</Forenames>
+      <Text>. (temp. Lt.)</Text>
       <PageNumber>1163</PageNumber>
     </MainItem>
     <SubItem>
@@ -511,7 +531,9 @@
       <Key>Rashleigh</Key>
       <Title>Capt.</Title>
       <Forenames>R</Forenames>
-      <Text>, N., D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>2124</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -556,14 +578,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Rath</Key>
-      <Text>.H. C. (temp. 2nd Lt, on prob.)</Text>
+      <Forenames>H. C.</Forenames>
+      <Text>(temp. 2nd Lt, on prob.)</Text>
       <PageNumber>669</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Rathbone</Key>
-      <Text>2nd L. G. V. (Lt.) Maj. H. H.F., D.S.O.(rel. actg</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3444</PageNumber>
     </MainItem>
     <SubItem>
@@ -572,6 +597,7 @@
         <PageNumber>1923</PageNumber>
         <PageNumber>3085</PageNumber>
         <PageNumber>252</PageNumber>
+        <Honour>R.R.C.</Honour>
       </Text>
       <PageNumber>1510</PageNumber>
     </SubItem>
@@ -645,7 +671,9 @@
       <Key>Ravenhill</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>F. T.</Forenames>
-      <Text>, C.M.G. (Col.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>3558</PageNumber>
     </MainItem>
   </ItemGroup>

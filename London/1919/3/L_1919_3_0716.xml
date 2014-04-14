@@ -3,7 +3,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Patterson</Key>
-      <Text>Cadet J. (Hon. 2nd Lt.)</Text>
+      <Title>Cadet</Title>
+      <Forenames>J.</Forenames>
+      <Text>(Hon. 2nd Lt.)</Text>
       <PageNumber>9011</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -278,7 +280,9 @@
       </Key>
       <Title>2nd Lt.</Title>
       <Forenames>Harley</Forenames>
-      <Text>, D.F.C. (trd. to unempld. list)</Text>
+      <Text>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>9139</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -637,7 +641,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Pidsley</Key>
-      <Text>Flying Offr. G. W. R. (trd. to unempld. list)</Text>
+      <Forenames>Flying Offr</Forenames>
+      <Text>. G. W. R. (trd. to unempld. list)</Text>
       <PageNumber>12030</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -778,7 +783,9 @@
       <Key>Pilkington</Key>
       <Title>Lt.</Title>
       <Forenames>W.</Forenames>
-      <Text>, M.C. (graded for payjand allces.as Capt., Admin.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>11591</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1010,11 +1017,13 @@
       <Key>Pine</Key>
       <Title>Capt.</Title>
       <Forenames>G. C</Forenames>
-      <Text>, M.C. (actg. Maj. while Maj., A.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8853</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Granted permanent commn</Text>
+      <Text>Granted permanent commn.</Text>
       <PageNumber>9860</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1062,7 +1071,9 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>D.</Forenames>
-      <Text>leG.,O.M.G.,D.S.O.(granted permanent commn.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>9864</PageNumber>
     </MainItem>
     <SubItem>
@@ -1084,7 +1095,9 @@
       <Key>Pithey</Key>
       <Title>Lt. (A.)</Title>
       <Forenames>C. R.</Forenames>
-      <Text>, D.F.C. (granted permanent commn.)</Text>
+      <Text>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>9870</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1216,7 +1229,9 @@
       </Key>
       <Title>Lt.-Col.</Title>
       <Forenames>P. H. L.</Forenames>
-      <Text>, M.C. (granted permanent commn.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9864</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -21,8 +21,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>George O</Forenames>
-      <Text>'Donnell, AttorneyGeneral of British Honduras</Text>
+      <Forenames>George O'Donnell</Forenames>
+      <Text>, AttorneyGeneral of British Honduras</Text>
       <PageNumber>4750</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -144,7 +144,9 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>panion, D.S.O. Lt.-Col. Edward, Member, Order of the British Empire, transferred to Military Divi-</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4990</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -205,7 +207,9 @@
       </Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Harry</Forenames>
-      <Text>, D.S.O., Companion, St. Michael and St</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6791</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -248,7 +252,9 @@
       </Key>
       <Title>Maj. (A./Lt.-Col.)</Title>
       <Forenames>Joseph</Forenames>
-      <Text>, D.S.O., Companion, St</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6948</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -310,7 +316,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ward</Key>
-      <Text>.Lt. (T. /Capt.)WilliamRobert, Officer, Order of the British Empire</Text>
+      <Title>Lt. (T. /Capt.)</Title>
+      <Text>WilliamRobert, Officer, Order of the British Empire</Text>
       <PageNumber>7053</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -401,7 +408,9 @@
     <MainItem>
       <Key>Waring</Key>
       <Forenames>Samuel James</Forenames>
-      <Text>, Esquire, created Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>5421</PageNumber>
     </MainItem>
     <SubItem>
@@ -431,7 +440,9 @@
       <PageNumber>4992</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Companion, St. Michael and St. George</Text>
+      <Text>
+        <Honour>Companion, St. Michael and St. George</Honour>
+      </Text>
       <PageNumber>7026</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -485,7 +496,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Washington</Key>
-      <Text>-Comdr. (A./Capt.) Basil George, Companion, St. Michael and St. George</Text>
+      <Text>
+        <Honour>Companion, St. Michael and St. George</Honour>
+      </Text>
       <PageNumber>6501</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -562,7 +575,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>T.</Forenames>
-      <Text>/Lt.-Col. Oscar Ferris, D.S.O., Commander, Order of the British Empire, transferred to Military</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4976</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -592,7 +607,9 @@
       <Key>Watling</Key>
       <Title>Lt.-Col. (T./Col.)</Title>
       <Forenames>Francis Wyatt</Forenames>
-      <Text>, D.S.O., Commander,</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6795</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -657,7 +674,9 @@
       </Key>
       <Title>Lt.-Col. (A./Col.)</Title>
       <Forenames>Andrew Alexander</Forenames>
-      <Text>, D.S.O., Companion, St. Michael and</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>0978</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -678,11 +697,15 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>T.</Forenames>
-      <Text>/Capt. Aubrey Wentworth Harrison, M.C., Companion,</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6820</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>D.S.O.</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>___ ___ ___ ___ ___ ___ ___ ___ ___ ___</PageNumber>
     </SubItem>
   </ItemGroup>

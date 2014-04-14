@@ -631,22 +631,24 @@
         <PageNumber>___ ___ ___ ___</PageNumber>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>O</Forenames>
-      <Text>'Byrne, C. E. (temp. Lt.)</Text>
+      <Forenames>O'Byrne</Forenames>
+      <Text>, C. E. (temp. Lt.)</Text>
       <PageNumber>1000</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hara, B. P. (temp. Asst. Paymaster)</Text>
+      <Key>O'Hara</Key>
+      <Forenames>B. P.</Forenames>
+      <Text>(temp. Asst. Paymaster)</Text>
       <PageNumber>626</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hare, V. J. (temp. Asst. Paymaster) '</Text>
+      <Key>O'Hare</Key>
+      <Forenames>V. J.</Forenames>
+      <Text>(temp. Asst. Paymaster) '</Text>
       <PageNumber>626</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1760,7 +1762,9 @@
     <MainItem>
       <Key>Singersen</Key>
       <Forenames>E. A.</Forenames>
-      <Text>, D.S.O. (Lt.-Commander)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3460</PageNumber>
     </MainItem>
   </ItemGroup>

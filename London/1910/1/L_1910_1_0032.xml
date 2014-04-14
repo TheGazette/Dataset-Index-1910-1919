@@ -83,7 +83,9 @@
       <Key>Salt</Key>
       <Title>Maj. Sir</Title>
       <Forenames>T. A.</Forenames>
-      <Text>, Bart</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -92,7 +94,9 @@
       <Key>Bromley-Wilson</Key>
       <Title>Sir</Title>
       <Forenames>M.</Forenames>
-      <Text>, Bart</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>531</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -108,7 +112,8 @@
   <ItemGroup>
     <MainItem>
       <Key>PruBsia</Key>
-      <Text>H.B.H.Prince Albert William Henry of</Text>
+      <Forenames>H.B.H.</Forenames>
+      <Text>Prince Albert William Henry of</Text>
       <PageNumber>777</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -261,6 +266,13 @@
       <Key>Dawson</Key>
       <Forenames>W. P.</Forenames>
       <PageNumber>865</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Montmorency</Key>
+      <Forenames>J. P</Forenames>
+      <PageNumber>2031</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -561,7 +573,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Jetferson</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>1418</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -897,8 +909,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, P. B ___ ___ &gt; Oliver, D. A.</Text>
+      <Key>O'Brien</Key>
+      <Forenames>P. B</Forenames>
+      <Text>___ ___ &gt; Oliver, D. A.</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1229,7 +1242,9 @@
       <Key>Domville</Key>
       <Title>Sir</Title>
       <Forenames>J. H.</Forenames>
-      <Text>, Bart</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>527</PageNumber>
     </MainItem>
   </ItemGroup>

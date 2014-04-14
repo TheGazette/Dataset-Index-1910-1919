@@ -18,8 +18,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Shea, Wilfred Bernard (2nd Lieut.)</Text>
+      <Key>O'Shea</Key>
+      <Forenames>Wilfred Bernard</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -393,8 +394,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Robertson</Key>
-      <Forenames>Frederic Arthur</Forenames>
-      <Text>de Vere (2ud Lieut.)</Text>
+      <Forenames>Frederic Arthur de Vere</Forenames>
+      <Text>(2ud Lieut.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -438,7 +439,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Phayre</Key>
-      <Title>Major</Title>
+      <Title>Major-</Title>
       <Forenames>Gen A.</Forenames>
       <Text>(Divisional Commander)</Text>
       <PageNumber>5870</PageNumber>
@@ -523,8 +524,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Rorke, Capt. J. M. W. (Instructor)</Text>
+      <Key>O'Rorke</Key>
+      <Title>Capt.</Title>
+      <Forenames>J. M. W.</Forenames>
+      <Text>(Instructor)</Text>
       <PageNumber>5870</PageNumber>
     </MainItem>
     <SubItem>
@@ -538,7 +541,9 @@
     <MainItem>
       <Key>Grainger</Key>
       <Forenames>Thomas</Forenames>
-      <Text>, C. B., M.D</Text>
+      <Text>
+        <Honour>M.D</Honour>
+      </Text>
       <PageNumber>7107</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -563,7 +568,9 @@
     <MainItem>
       <Key>Edwards</Key>
       <Forenames>William Rice</Forenames>
-      <Text>, C.M.G. M.D</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>7107</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -609,7 +616,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gwyther</Key>
-      <Text>. Arthur, M. B., F. R. C. S. E.</Text>
+      <Forenames>Arthur</Forenames>
+      <Text>, M. B., F. R. C. S. E.</Text>
       <PageNumber>___ ___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -648,7 +656,9 @@
     <MainItem>
       <Key>Scott-Monorieff</Key>
       <Forenames>William Elmsley</Forenames>
-      <Text>, M.D., F.R.C.S.E</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>___ ___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -728,7 +738,9 @@
     <MainItem>
       <Key>Keites</Key>
       <Forenames>Henry Crewe</Forenames>
-      <Text>, M.D. ...</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>___ ___ ___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -736,7 +748,9 @@
     <MainItem>
       <Key>Kirkwood</Key>
       <Forenames>Jaines</Forenames>
-      <Text>,M.D.,F.R.C.S.E.</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -750,15 +764,17 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Keeffe, Daniel S. Aloysius, M.B.</Text>
+      <Key>O'Keeffe</Key>
+      <Forenames>Daniel S. Aloysius</Forenames>
+      <Text>, M.B.</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Patton</Key>
-      <Text>. Walter Scott, M.B</Text>
+      <Forenames>Walter Scott</Forenames>
+      <Text>, M.B</Text>
       <PageNumber>7107</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -792,7 +808,9 @@
     <MainItem>
       <Key>White</Key>
       <Forenames>Frederick Norman</Forenames>
-      <Text>. M.D. ... —-— Wilson, Frederic i Ernest, M.B. ...</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>___ ___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -845,8 +863,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bilderbeck</Key>
-      <Forenames>Alured C. L. O</Forenames>
-      <Text>'Shee, M.B. (confirmed)</Text>
+      <Forenames>Alured C. L. O'Shee</Forenames>
+      <Text>, M.B. (confirmed)</Text>
       <PageNumber>___ ___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1032,6 +1050,14 @@
       <Forenames>Jagannath Balkrishna</Forenames>
       <Text>(confirmed) .</Text>
       <PageNumber>_ ___ ___ ___</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>van Reenen</Key>
+      <Forenames>Jacob William</Forenames>
+      <Text>, M.B. (confirmed)</Text>
+      <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

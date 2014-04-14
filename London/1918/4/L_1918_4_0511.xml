@@ -58,7 +58,7 @@
       <PageNumber>13215</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>J. H. (temp. 2nd Lt., Admin</Text>
+      <Text>J. H. (temp. 2nd Lt., Admin.</Text>
       <PageNumber>11867</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -293,7 +293,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>T. H.</Forenames>
-      <Text>, D.F.C. (actg. Capt.., A.) '</Text>
+      <Text>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>14134</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -319,7 +321,9 @@
       <Key>Frey</Key>
       <Title>Lt. (C.E.F.)</Title>
       <Forenames>C</Forenames>
-      <Text>, M.M. (temp. 2nd Lt., Obsvr. Offr. and Hon. Lt.)</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>11977</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -519,7 +523,9 @@
       <Key>Fullard</Key>
       <Title>Capt.</Title>
       <Forenames>P. F.</Forenames>
-      <Text>, D.S.O.,</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>14570</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -659,7 +665,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Gaffney</Key>
-      <Text>Fit. Oadet J. F. (temp</Text>
+      <Title>Fit.</Title>
+      <Forenames>Oadet J. F.</Forenames>
+      <Text>(temp</Text>
       <PageNumber>12126</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -716,7 +724,9 @@
       <Key>Galbraith</Key>
       <Title>Capt.</Title>
       <Forenames>D. M. B.</Forenames>
-      <Text>, D.S.C</Text>
+      <Text>
+        <Honour>D.S.C</Honour>
+      </Text>
       <PageNumber>11863</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -732,7 +742,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Gall</Key>
-      <Text>2nd Lt. (Ad.) A. (2nd Lt.,</Text>
+      <Title>2nd Lt. (Ad.)</Title>
+      <Forenames>A.</Forenames>
+      <Text>(2nd Lt.,</Text>
       <PageNumber>14337</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -769,7 +781,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>CadetP.</Forenames>
+      <Title>Cadet-</Title>
+      <Forenames>P.</Forenames>
       <Text>(temp. 2nd Lt.,.A.)</Text>
       <PageNumber>14571</PageNumber>
     </MainItem>
@@ -827,7 +840,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Gallwev</Key>
-      <Text>Fit. Oadet J. D. (temp</Text>
+      <Title>Fit.</Title>
+      <Forenames>Oadet J. D.</Forenames>
+      <Text>(temp</Text>
       <PageNumber>13315</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -854,21 +869,28 @@
       <Key>Gamble</Key>
       <Title>Lt. (Army)</Title>
       <Forenames>G. A.</Forenames>
-      <Text>, M.C. temp. 2nd Lt., Obsvr. Offr</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>14137</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Gaimlhliner</Key>
-      <Text>Fit. Cadet H. J. (temp</Text>
+      <Title>Fit. Cadet</Title>
+      <Forenames>H. J.</Forenames>
+      <Text>(temp</Text>
       <PageNumber>14484</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Gammell</Key>
-      <Text>. Lt.-Col. J. A. H., D.S.O., M.C. (rel. coimmn. on . ceasing to be empld.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>12712</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -938,7 +960,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>M.C. (temp. Lt., Admin.) .:</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>13220</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1103,7 +1127,7 @@
       <PageNumber>11563</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>(confd. as 2nd Lt., Obsvr</Text>
+      <Text>(confd. as 2nd Lt., Obsvr.</Text>
       <PageNumber>13217</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1122,7 +1146,9 @@
       <Key>Garrison</Key>
       <Title>2nd Lt.</Title>
       <Forenames>A. E.</Forenames>
-      <Text>, M.C. (Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>15288</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1191,7 +1217,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Gash</Key>
-      <Text>Capt. T. (actg. Maj.,</Text>
+      <Title>Capt.</Title>
+      <Forenames>T.</Forenames>
+      <Text>(actg. Maj.,</Text>
       <PageNumber>13218</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1215,7 +1243,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Gately</Key>
-      <Text>Lt. (A.) L. B. (Lt.,</Text>
+      <Title>Lt. (A.)</Title>
+      <Forenames>L. B.</Forenames>
+      <Text>(Lt.,</Text>
       <PageNumber>14822</PageNumber>
     </MainItem>
   </ItemGroup>

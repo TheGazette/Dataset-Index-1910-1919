@@ -59,8 +59,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donald, E</Text>
+      <Key>O'Donald</Key>
+      <Forenames>E</Forenames>
       <PageNumber>11168</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -133,15 +133,10 @@
       <Text>(Hon. Capt.)</Text>
       <PageNumber>11980</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___ ___</KeyDitto>
-      </Key>
-      <Title>(retirement on acc. of illhealth)</Title>
+    <SubItem>
+      <Text>(retirement on acc. of illhealth)</Text>
       <PageNumber>11748</PageNumber>
-    </MainItem>
+    </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
@@ -254,7 +249,11 @@
       <Key>Wemyse</Key>
       <Title>Sir</Title>
       <Forenames>R. E.</Forenames>
-      <Text>, K.C.B., C.M.G., M.V.O</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>M.V.O</Honour>
+      </Text>
       <PageNumber>11970</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -264,7 +263,9 @@
       <Key>Warrender</Key>
       <Title>Sir</Title>
       <Forenames>G. J.</Forenames>
-      <Text>, St., K.C.B. K.C.V.O. ..:</Text>
+      <Text>
+        <Honour>K.C.B. K.C.V.O.</Honour>
+      </Text>
       <PageNumber>11970</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -273,7 +274,10 @@
     <MainItem>
       <Key>Power</Key>
       <Forenames>L. E.</Forenames>
-      <Text>, C.B., M.V.O., A.D.C</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>11970</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -526,8 +530,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Malan</Key>
-      <Forenames>C. C.</Forenames>
-      <Text>de M</Text>
+      <Forenames>C. C. de M</Forenames>
       <PageNumber>9557</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -780,16 +783,10 @@
       <Forenames>A. H.</Forenames>
       <PageNumber>10635</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___</KeyDitto>
-      </Key>
-      <Forenames>J. G.</Forenames>
-      <Text>'</Text>
+    <SubItem>
+      <Text>J. G.'</Text>
       <PageNumber>9557</PageNumber>
-    </MainItem>
+    </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
@@ -805,15 +802,10 @@
       <Text>: McK</Text>
       <PageNumber>10635</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___</KeyDitto>
-      </Key>
-      <Forenames>J. W.</Forenames>
+    <SubItem>
+      <Text>J. W</Text>
       <PageNumber>9557</PageNumber>
-    </MainItem>
+    </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
@@ -1114,7 +1106,9 @@
       <Key>Twysden</Key>
       <Title>Sir</Title>
       <Forenames>R. T.</Forenames>
-      <Text>Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>12340</PageNumber>
     </MainItem>
   </ItemGroup>

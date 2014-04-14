@@ -63,7 +63,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Harley</Key>
-      <Text>J. T. (Lieut.)</Text>
+      <Forenames>J. T.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>36</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -385,9 +386,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Greville</Key>
-      <Title>Maj. and Hon.</Title>
-      <Forenames>Lieut-</Forenames>
-      <Text>Col. H. A, F. C. F. S. (resigned)</Text>
+      <Title>Maj. and Hon. Lieut-Col.</Title>
+      <Forenames>H. A</Forenames>
+      <Text>, F. C. F. S. (resigned)</Text>
       <PageNumber>150</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -411,8 +412,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Hernion-Hodge</Key>
-      <Forenames>Lieut-</Forenames>
-      <Text>Col. and Hon. Col. Sir R. T. Bart, (retired) Hollis, G. D. (2nd Lieut.)</Text>
+      <Title>Lieut-Col. and Hon. Col. Sir</Title>
+      <Forenames>R. T.</Forenames>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>150</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -704,14 +708,18 @@
       <Key>Rycroft</Key>
       <Title>Sir</Title>
       <Forenames>R. N.</Forenames>
-      <Text>, Bart. (Maj.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>1127</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>John, Capt. F. J. (resigned)</Text>
+      <Key>St. John</Key>
+      <Title>Capt.</Title>
+      <Forenames>F. J.</Forenames>
+      <Text>(resigned)</Text>
       <PageNumber>2033</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -729,7 +737,9 @@
       <Key>Skipworth</Key>
       <Title>2nd Lieut. Sir</Title>
       <Forenames>G. H.</Forenames>
-      <Text>dE., Bart, (resigned)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>33</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -770,7 +780,9 @@
       <Key>Stuart</Key>
       <Title>Sir</Title>
       <Forenames>S. H. L.</Forenames>
-      <Text>, Bart. (Lieut.Col.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>254</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1028,8 +1040,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donnell, G. B</Text>
+      <Key>O'Donnell</Key>
+      <Forenames>G. B.</Forenames>
       <PageNumber>1047</PageNumber>
       <PageNumber>2036</PageNumber>
     </MainItem>
@@ -1200,8 +1212,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, E</Text>
+      <Key>O'Brien</Key>
+      <Forenames>E</Forenames>
       <PageNumber>2034</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1325,8 +1337,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Atkinson</Key>
-      <Forenames>F. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>F. St. J</Forenames>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1398,8 +1409,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Corry</Key>
-      <Forenames>J.</Forenames>
-      <Text>de L... .. .. ..</Text>
+      <Forenames>J. de L</Forenames>
+      <Text>... .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

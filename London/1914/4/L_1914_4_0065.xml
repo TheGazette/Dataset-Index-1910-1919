@@ -47,7 +47,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Budworth</Key>
-      <Text>; C, E. D., M.V.O. (Lieut.-Col:)</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>8859</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -332,8 +334,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Norman St</Forenames>
-      <Text>. C. (Maj.)</Text>
+      <Forenames>Norman St. C</Forenames>
+      <Text>. (Maj.)</Text>
       <PageNumber>8133</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -465,7 +467,9 @@
     <MainItem>
       <Key>Carruthers</Key>
       <Forenames>J.</Forenames>
-      <Text>, M.V.O. (Maj.)</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>8860</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -826,8 +830,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Clutterbuck</Key>
-      <Forenames>L. St</Forenames>
-      <Text>. J. R. (Capt., and to remain seconded)</Text>
+      <Forenames>L. St. J</Forenames>
+      <Text>. R. (Capt., and to remain seconded)</Text>
       <PageNumber>8861</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -845,14 +849,17 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>R. C</Forenames>
-      <Text>, D.S.O. (Lieut.! Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Cobby</Key>
-      <Text>. Alan Herbert (temporary J 2nd Lieut.)'</Text>
+      <Forenames>Alan Herbert</Forenames>
+      <Text>(temporary J 2nd Lieut.)'</Text>
       <PageNumber>8044</PageNumber>
     </MainItem>
     <SubItem>
@@ -1083,7 +1090,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cook</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>: A. E. (temporary Lieut.)</Text>
       <PageNumber>8251</PageNumber>
     </MainItem>
@@ -1164,8 +1171,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Graham St</Forenames>
-      <Text>. John (temporary 2nd Lieut.)</Text>
+      <Forenames>Graham St. John</Forenames>
+      <Text>(temporary 2nd Lieut.)</Text>
       <PageNumber>8255</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1286,7 +1293,8 @@
   <ItemGroup>
     <MainItem>
       <Key>jCostello</Key>
-      <Text>. Charles Fleming, (tempoI rary 2nd Lieut.)</Text>
+      <Forenames>Charles Fleming</Forenames>
+      <Text>, (tempoI rary 2nd Lieut.)</Text>
       <PageNumber>8045</PageNumber>
     </MainItem>
   </ItemGroup>

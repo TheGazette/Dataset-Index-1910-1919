@@ -86,6 +86,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Winton</Key>
+      <Title>Lieut.-Col.</Title>
+      <Forenames>C.</Forenames>
+      <Text>(half-pay list)</Text>
+      <PageNumber>2427</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Fowl</Key>
       <Text>©, C. H. (Lieut.)</Text>
       <PageNumber>ibid.</PageNumber>
@@ -422,7 +431,9 @@
       <Key>Stirling</Key>
       <Title>Capt. Sir</Title>
       <Forenames>G. M. H.</Forenames>
-      <Text>, Bart. (seconded)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>1239</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -556,7 +567,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Knight</Key>
-      <Text>. G. C. (Lieut.-Col.)</Text>
+      <Forenames>G. C.</Forenames>
+      <Text>(Lieut.-Col.)</Text>
       <PageNumber>1239</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1025,8 +1037,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Shea, Qrmr. and Hon. Maj. T. (retired pay)</Text>
+      <Key>O'Shea</Key>
+      <Title>Qrmr. and Hon. Maj.</Title>
+      <Forenames>T.</Forenames>
+      <Text>(retired pay)</Text>
       <PageNumber>15</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1470,7 +1484,8 @@
   <ItemGroup>
     <MainItem>
       <Key>McCulloch</Key>
-      <Text>. A. J. (Lieut.)</Text>
+      <Forenames>A. J.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>966</PageNumber>
     </MainItem>
   </ItemGroup>

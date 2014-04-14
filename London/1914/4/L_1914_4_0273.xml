@@ -134,9 +134,18 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Silva</Forenames>
-      <Text>, Lieut.-Col. and Hon. Col. Joseph Willey (Lieut.-Col.)</Text>
+      <Key>de Laloubere</Key>
+      <Forenames>John Louis Claude Alfred</Forenames>
+      <Text>(Lieut.)</Text>
+      <PageNumber>9984</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Silva</Key>
+      <Title>Lieut.-Col. and Hon. Col.</Title>
+      <Forenames>Joseph Willey</Forenames>
+      <Text>(Lieut.-Col.)</Text>
       <PageNumber>8652</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -146,6 +155,14 @@
       <Forenames>Vesian</Forenames>
       <Text>, Hon. Maj. Roland Ellis (Capt.)</Text>
       <PageNumber>8897</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Witt</Key>
+      <Forenames>Horace Matthew</Forenames>
+      <Text>(2nd Lieut.)</Text>
+      <PageNumber>9372</PageNumber>
     </MainItem>
     <SubItem>
       <Text>Lieut</Text>
@@ -1375,8 +1392,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hawken</Key>
-      <Forenames>Charles St</Forenames>
-      <Text>. Aubyn (Capt.)</Text>
+      <Forenames>Charles St. Aubyn</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>10315</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1490,7 +1507,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Herapath</Key>
-      <Text>. Edgar, D.S.O. (Maj.)</Text>
+      <Forenames>Edgar</Forenames>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8897</PageNumber>
     </MainItem>
   </ItemGroup>

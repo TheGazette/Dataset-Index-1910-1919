@@ -115,8 +115,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Budler</Key>
-      <Forenames>A. H.</Forenames>
-      <Text>de W., M.D. (temp</Text>
+      <Forenames>A. H. de W</Forenames>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>7871</PageNumber>
     </MainItem>
     <SubItem>
@@ -281,7 +283,9 @@
       </Key>
       <Title>Cpl.</Title>
       <Forenames>P. T.</Forenames>
-      <Text>(temp. Lt.) ... Burland, temp. Lt.-Col. W. W., D.S.O. i(rel. comd. of a Bn.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>9735</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -436,7 +440,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Buttenshaw</Key>
-      <Text>temp. Capt. A. S. (temp. Maj.)</Text>
+      <Title>temp. Capt.</Title>
+      <Forenames>A. S.</Forenames>
+      <Text>(temp. Maj.)</Text>
       <PageNumber>8676</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -666,7 +672,9 @@
       </Key>
       <Title>temp. Lt.</Title>
       <Forenames>H. M.</Forenames>
-      <Text>, M.C. (actg. Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9435</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -801,7 +809,9 @@
       <Key>Carling</Key>
       <Title>temp. Lt.</Title>
       <Forenames>W. H.</Forenames>
-      <Text>, M.C. (date of rank and precedence)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9725</PageNumber>
     </MainItem>
     <SubItem>
@@ -1433,7 +1443,9 @@
       <Key>Chutter</Key>
       <Title>temp. Lt.</Title>
       <Forenames>T. S.</Forenames>
-      <Text>, M.C. (temp. Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8512</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1523,7 +1535,9 @@
       </Key>
       <Title>temp. Capt.</Title>
       <Forenames>D. A.</Forenames>
-      <Text>, M.C. (to comd. a Bn. and be actg. Lt.-Col.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7324</PageNumber>
     </MainItem>
   </ItemGroup>

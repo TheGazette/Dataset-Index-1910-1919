@@ -34,7 +34,11 @@
       </Key>
       <Title>Maj. (T./Lt.-Col.)</Title>
       <Forenames>J. H. M.</Forenames>
-      <Text>, D.S.O., M.C. (Bt. Lt.-Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>6516</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -51,7 +55,9 @@
       <Key>Corrall</Key>
       <Title>temp. Maj.</Title>
       <Forenames>W. R.</Forenames>
-      <Text>, M.C. (actg. Lt.-Col.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6996</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -155,7 +161,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>H. C</Forenames>
-      <Text>, M.C. (Capt., and rem. seed.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5839</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -226,7 +234,10 @@
       <Key>Cossart</Key>
       <Title>Maj. (actg. Lt.-Col.)</Title>
       <Forenames>A. R. B.</Forenames>
-      <Text>. D.S.O. (Bt. Lt.-Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>6494</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -252,7 +263,9 @@
     <MainItem>
       <Key>Oostello</Key>
       <Forenames>C. T.</Forenames>
-      <Text>, M.D. (temp. Lt.)... '</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>4975</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -274,7 +287,11 @@
       </Key>
       <Title>Bt. Lt.-Col.</Title>
       <Forenames>E. W.</Forenames>
-      <Text>, V.C., C.M.G., D.S.O. (temp. Brig.Gen.)</Text>
+      <Text>
+        <Honour>V.C.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6303</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -291,14 +308,17 @@
     <MainItem>
       <Key>Oostin</Key>
       <Title>Oa.</Title>
-      <Text>pt. C. B., M.C. (actg. Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7435</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Cotching</Key>
-      <Text>. temp. Lt., attd., C. E. (temp. Lt. and actg. Capt.)</Text>
+      <Title>temp. Lt.</Title>
+      <Text>, attd., C. E. (temp. Lt. and actg. Capt.)</Text>
       <PageNumber>7190</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -307,7 +327,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Cothav</Key>
-      <Text>. 2nd Lt. H. W. (actg, Capt., addtl.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>H. W.</Forenames>
+      <Text>(actg, Capt., addtl.)</Text>
       <PageNumber>4979</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -479,7 +501,9 @@
       </Key>
       <Title>2nd Lt.</Title>
       <Forenames>R. A.</Forenames>
-      <Text>(trd. to M.G.C.)</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>5048</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -528,7 +552,9 @@
       <Key>Cottrell</Key>
       <Title>Capt.</Title>
       <Forenames>A. F. B.</Forenames>
-      <Text>, D.S.O. (act^g. Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6674</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -561,7 +587,10 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>J.</Forenames>
-      <Text>, D.S.O., D.C.M. (tel. actg. rank of Capt.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>5445</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -856,7 +885,9 @@
       <Key>Courage</Key>
       <Title>2nd Lt.</Title>
       <Forenames>P. M.</Forenames>
-      <Text>, M.C. (Lt.), Snb. Not</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5445</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -915,7 +946,9 @@
       <Key>Courtauld</Key>
       <Title>temp. Capt.</Title>
       <Forenames>J.</Forenames>
-      <Text>.S., M.C. (temp. Maj.) .. 'Vrv</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7380</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -924,11 +957,15 @@
       <Key>Courtenay</Key>
       <Title>Capt.</Title>
       <Forenames>H.</Forenames>
-      <Text>, -M.C. (temp. Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5842</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Bt.Maj. .. ...'</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>6494</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -978,7 +1015,10 @@
       </Key>
       <Title>Maj.(T./Lt.-Col.)</Title>
       <Forenames>J.G.</Forenames>
-      <Text>,D.S.O. (Bt. Lt.-Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>6455</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1048,7 +1088,9 @@
       <Key>Cousins</Key>
       <Title>Cadet</Title>
       <Forenames>A.</Forenames>
-      <Text>, M.M. (temp. 2nd . Lt., attd.)</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>5549</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1076,7 +1118,9 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Title>temp.</Title>
-      <Text>2nd Lt, H. G., M.C. (temp. Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6998</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1316,7 +1360,9 @@
       <Key>Cowburn</Key>
       <Title>Capt.</Title>
       <Forenames>A. B.</Forenames>
-      <Text>, M.C. (actg, Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7292</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1345,7 +1391,10 @@
       <Key>Cowell</Key>
       <Title>Capt.</Title>
       <Forenames>E. M.</Forenames>
-      <Text>, M.D., F.R.C.S. (actg. Maj.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>5444</PageNumber>
     </MainItem>
     <SubItem>

@@ -415,7 +415,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Waltsom</Key>
-      <Text>A. F</Text>
+      <Forenames>A. F</Forenames>
       <PageNumber>16043</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -436,8 +436,7 @@
   <ItemGroup>
     <MainItem>
       <Key>White</Key>
-      <Forenames>R.</Forenames>
-      <Text>de V</Text>
+      <Forenames>R. de V</Forenames>
       <PageNumber>16043</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -918,7 +917,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>W. D.</Forenames>
-      <Text>, M.M. (2nd Lt.)</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>12562</PageNumber>
     </MainItem>
     <SubItem>
@@ -1016,7 +1017,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Barty</Key>
-      <Text>J. E. (Lt.)</Text>
+      <Forenames>J. E.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>16042</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1430,7 +1432,9 @@
     <MainItem>
       <Key>Bowers</Key>
       <Forenames>P. L.</Forenames>
-      <Text>, CLE., M.C. (Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>12793</PageNumber>
     </MainItem>
   </ItemGroup>

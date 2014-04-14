@@ -460,14 +460,21 @@
     <MainItem>
       <Key>Cheatle</Key>
       <Forenames>George Lenthal</Forenames>
-      <Text>, C.B., C.V.O., F.R.C.S. (temporary)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.V.O.</Honour>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>6269</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Cheyhe</Key>
-      <Text>; Sir William Watson Bt., ' C.B., P.R.C.S., F.R.S. (tem:. porary)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>6269</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -484,7 +491,9 @@
       <Key>Macewen</Key>
       <Title>Sir</Title>
       <Forenames>William</Forenames>
-      <Text>, M.D. (temporary) -.A</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>6269</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -492,7 +501,9 @@
     <MainItem>
       <Key>Rolleston</Key>
       <Forenames>Humphry</Forenames>
-      <Text>, Davy, M.D., . F.R.C.P. (temporary)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>6269</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -508,7 +519,9 @@
     <MainItem>
       <Key>Geoghegan</Key>
       <Forenames>Herbert Lyne</Forenames>
-      <Text>, M.D., B.A</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>4776</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -516,7 +529,9 @@
     <MainItem>
       <Key>Greenhalgh</Key>
       <Forenames>John P. Handel</Forenames>
-      <Text>, M.D</Text>
+      <Text>
+        <Honour>M.D</Honour>
+      </Text>
       <PageNumber>4776</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -568,7 +583,9 @@
     <MainItem>
       <Key>Woods</Key>
       <Forenames>Samuel Henry</Forenames>
-      <Text>, M.D., B.A</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>4776</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -593,7 +610,9 @@
     <MainItem>
       <Key>Edmunds</Key>
       <Forenames>Arthur</Forenames>
-      <Text>, M.B., F.R.C.S. (temporary)</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>3720</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -626,7 +645,9 @@
     <MainItem>
       <Key>Boston</Key>
       <Forenames>Ralph Burn</Forenames>
-      <Text>, M.D. (temporary)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>3830</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -958,7 +979,9 @@
     <MainItem>
       <Key>Toulmin</Key>
       <Forenames>Arthur</Forenames>
-      <Text>, F.R.C.S. (Edin.) (temporary)</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>5751</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1060,8 +1083,12 @@
   <ItemGroup>
     <MainItem>
       <Key>Bacon</Key>
-      <Forenames>Rear-</Forenames>
-      <Text>Admiral Reginald H. Spencer, C.V.O., D.S.O. (relinquishes his temporary commission as Col. Second Commandant)</Text>
+      <Title>Rear-Admiral</Title>
+      <Forenames>Reginald H. Spencer</Forenames>
+      <Text>
+        <Honour>C.V.O.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3828</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1176,8 +1203,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Bridge</Key>
-      <Title>Lieut.</Title>
-      <Text>-Commander Cyprian D. Charles (relinquishes his temporary commission as Hon. Maj.)</Text>
+      <Title>Lieut.-Commander</Title>
+      <Forenames>Cyprian D. Charles</Forenames>
+      <Text>(relinquishes his temporary commission as Hon. Maj.)</Text>
       <PageNumber>3945</PageNumber>
     </MainItem>
   </ItemGroup>

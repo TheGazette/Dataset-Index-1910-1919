@@ -65,7 +65,9 @@
       <Key>Maclure</Key>
       <Title>Sir</Title>
       <Forenames>J. E. S.</Forenames>
-      <Text>, Bart. (Chief Paymaster and Col.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -347,9 +349,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Lisle</Forenames>
-      <Text>, G. de S. (Col.)</Text>
+      <Key>De Lisle</Key>
+      <Forenames>G. de S</Forenames>
+      <Text>. (Col.)</Text>
       <PageNumber>503</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -657,6 +659,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Bury</Key>
+      <Title>Capt.</Title>
+      <Forenames>H. K. V.</Forenames>
+      <Text>(licensed to use and bear the title of Count de Bury and de Bocarne)</Text>
+      <PageNumber>321</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Dickinson</Key>
       <Title>Lieut.-Col.</Title>
       <Forenames>E. A.</Forenames>
@@ -918,7 +929,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Landen</Key>
-      <Text>. A. (Hon. Capt.)</Text>
+      <Forenames>A.</Forenames>
+      <Text>(Hon. Capt.)</Text>
       <PageNumber>1155</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1224,7 +1236,9 @@
       <Key>Thomas</Key>
       <Title>Col. Sir</Title>
       <Forenames>G. V.</Forenames>
-      <Text>, Bart, (retired)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>415</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1257,8 +1271,8 @@
     <MainItem>
       <Key>Verner</Key>
       <Title>Lieut.-Col.</Title>
-      <Forenames>G.</Forenames>
-      <Text>de W. (retired)</Text>
+      <Forenames>G. de W</Forenames>
+      <Text>. (retired)</Text>
       <PageNumber>16</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1621,7 +1635,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Holman</Key>
-      <Text>. Lieut.-Col. G. E.</Text>
+      <Title>Lieut.-Col.</Title>
+      <Forenames>G. E.</Forenames>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>

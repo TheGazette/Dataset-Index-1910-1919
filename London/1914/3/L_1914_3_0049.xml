@@ -328,8 +328,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rathborne</Key>
-      <Title>St.</Title>
-      <Forenames>George R.</Forenames>
+      <Forenames>St. George R.</Forenames>
       <Text>McNeill (2nd Lieut.)</Text>
       <PageNumber>6205</PageNumber>
     </MainItem>
@@ -515,7 +514,9 @@
       <Key>Swayne</Key>
       <Title>Supy. Capt.</Title>
       <Forenames>Oswald R.</Forenames>
-      <Text>, D.S.O. (restored to the establishment)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5160</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -717,7 +718,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Williams</Key>
-      <Text>. William Scott (2nd Lieut.)</Text>
+      <Forenames>William Scott</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>6304</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -825,7 +827,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ashcroft</Key>
-      <Text>. Edward Davy (2nd Lieut.)</Text>
+      <Forenames>Edward Davy</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>7300</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -971,7 +974,9 @@
     <MainItem>
       <Key>Blood</Key>
       <Forenames>General</Forenames>
-      <Text>Sir Bindott, G.C.B. (Colonel Commandant)</Text>
+      <Text>
+        <Honour>G.C.B.</Honour>
+      </Text>
       <PageNumber>5867</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1083,7 +1088,9 @@
     <MainItem>
       <Key>Charles</Key>
       <Forenames>James R. E.</Forenames>
-      <Text>, D.S.O. (Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6898</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1255,6 +1262,14 @@
       <Forenames>Walter E.</Forenames>
       <Text>(Capt.)</Text>
       <PageNumber>5556</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Ferranti</Key>
+      <Forenames>Vincent Ziani</Forenames>
+      <Text>(temporary 2nd Lieut.)</Text>
+      <PageNumber>6890</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

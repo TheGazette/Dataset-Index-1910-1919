@@ -19,7 +19,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Smith</Key>
-      <Text>. Henry P. Mathew (2nd Lieut., to be supernumerary)</Text>
+      <Forenames>Henry P. Mathew</Forenames>
+      <Text>(2nd Lieut., to be supernumerary)</Text>
       <PageNumber>7105</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -61,7 +62,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cocklburn</Key>
-      <Text>. Hon. Lieut, in the Army John G. Hunter (Capt.) ...</Text>
+      <Title>Hon. Lieut</Title>
+      <Text>, in the Army John G. Hunter (Capt.) ...</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -310,8 +312,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Thomson</Key>
-      <Forenames>Robert St</Forenames>
-      <Text>. C. (Capt.)</Text>
+      <Forenames>Robert St. C</Forenames>
+      <Text>. (Capt.)</Text>
       <PageNumber>6077</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -768,7 +770,9 @@
       <Key>Parker</Key>
       <Title>Sir</Title>
       <Forenames>William Lorenzo</Forenames>
-      <Text>, Bt. (2nd Lieut.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>7408</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1125,7 +1129,9 @@
     <MainItem>
       <Key>Chelmsford</Key>
       <Forenames>Frederic J. Napier</Forenames>
-      <Text>Lord, K.C.M.G. (Capt.)</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+      </Text>
       <PageNumber>7230</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -559,8 +559,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hardy</Key>
-      <Forenames>H. De L.</Forenames>
-      <Text>(temp. Capt.)</Text>
+      <Forenames>H. De L</Forenames>
+      <Text>. (temp. Capt.)</Text>
       <PageNumber>150</PageNumber>
     </MainItem>
     <SubItem>
@@ -622,7 +622,9 @@
       </Key>
       <Title>Lt. (actg. Capt.)</Title>
       <Forenames>F. O.</Forenames>
-      <Text>, M.C. (rel. actg. rank)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>169</PageNumber>
     </MainItem>
     <SubItem>
@@ -917,7 +919,9 @@
       <Key>Hill</Key>
       <Title>Lt.</Title>
       <Forenames>A.</Forenames>
-      <Text>L-, M.C. (temp. Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2073</PageNumber>
     </MainItem>
     <SubItem>
@@ -1032,7 +1036,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Holdsworth</Key>
-      <Text>. B. G. (2nd Lt.)</Text>
+      <Forenames>B. G.</Forenames>
+      <Text>(2nd Lt.)</Text>
       <PageNumber>3772</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1052,7 +1057,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hood</Key>
-      <Text>. H. M. (Lt.)</Text>
+      <Forenames>H. M.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>151</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1229,7 +1235,9 @@
       <PageNumber>2078</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>2nd lit. H. G., (M.C. (actg. Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>164</PageNumber>
       <PageNumber>165</PageNumber>
     </SubItem>
@@ -1541,7 +1549,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Keenan</Key>
-      <Text>. T. J. (lit.)</Text>
+      <Forenames>T. J.</Forenames>
+      <Text>(lit.)</Text>
       <PageNumber>2998</PageNumber>
     </MainItem>
   </ItemGroup>

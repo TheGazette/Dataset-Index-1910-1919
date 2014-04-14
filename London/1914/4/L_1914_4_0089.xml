@@ -3,7 +3,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hull</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>; Hubert C. E. (temporary: Gapt.)</Text>
       <PageNumber>9960</PageNumber>
     </MainItem>
@@ -371,7 +371,9 @@
       <Key>Cooke</Key>
       <Title>Sir</Title>
       <Forenames>William H.</Forenames>
-      <Text>, Bt: (temporary Lieut.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>9989</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -617,7 +619,10 @@
     <MainItem>
       <Key>Paget</Key>
       <Title>Gen.</Title>
-      <Text>the Rt. Hon. Sir Arthur Henry, G.C.B., K.C.V.O. (Colonel)</Text>
+      <Text>
+        <Honour>G.C.B.</Honour>
+        <Honour>K.C.V.O.</Honour>
+      </Text>
       <PageNumber>9971</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -664,7 +669,9 @@
     <MainItem>
       <Key>Soames</Key>
       <Forenames>Alfred</Forenames>
-      <Text>, D.S.O. (temporary Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>11139</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -971,13 +978,23 @@
       <Key>Davidson</Key>
       <Title>Lieut.-Col.</Title>
       <Forenames>Thomas St</Forenames>
-      <Text>. C., D.S.O. (to command 9th Bat talion)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7902</PageNumber>
     </MainItem>
     <SubItem>
       <Text>Correction of date</Text>
       <PageNumber>9500</PageNumber>
     </SubItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Cordova</Key>
+      <Forenames>Vivian L.</Forenames>
+      <Text>(Lieut.) ..:</Text>
+      <PageNumber>9240</PageNumber>
+    </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
@@ -1079,7 +1096,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hunt</Key>
-      <Text>. C. S. (temporary Lieut.) ...</Text>
+      <Forenames>C. S.</Forenames>
+      <Text>(temporary Lieut.) ...</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>

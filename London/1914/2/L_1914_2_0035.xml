@@ -142,8 +142,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>Hill, Maj. (Hon. Lieut, in the Army) George Herbert</Text>
+      <Key>St. Hill</Key>
+      <Title>Maj. (Hon. Lieut, in the Army)</Title>
+      <Forenames>George Herbert</Forenames>
       <PageNumber>4222</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -218,7 +219,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Waldie-Griffith</Key>
-      <Text>,Hon. Col. (Lieut.Col. and Hon. Col., Retired List .Volunteers) Sir Richard John, Bart</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>4222</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -236,7 +239,9 @@
       <Key>Wilson</Key>
       <Title>Maj.</Title>
       <Forenames>Andrew Robertson</Forenames>
-      <Text>, M.D</Text>
+      <Text>
+        <Honour>M.D</Honour>
+      </Text>
       <PageNumber>4223</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -340,7 +345,9 @@
     <MainItem>
       <Key>Swann</Key>
       <Forenames>John Christopher</Forenames>
-      <Text>, C.B</Text>
+      <Text>
+        <Honour>C.B</Honour>
+      </Text>
       <PageNumber>3301</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -351,7 +358,9 @@
       <Key>Toker</Key>
       <Title>Maj.-Gen. Sir</Title>
       <Forenames>Alliston Champion</Forenames>
-      <Text>, K.C.B</Text>
+      <Text>
+        <Honour>K.C.B</Honour>
+      </Text>
       <PageNumber>4706</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -383,9 +392,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Lisle</Forenames>
-      <Text>, George de Sausmarez</Text>
+      <Key>De Lisle</Key>
+      <Forenames>George de Sausmarez</Forenames>
       <PageNumber>4707</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -544,7 +552,9 @@
     <MainItem>
       <Key>Huggins</Key>
       <Forenames>Ponsonby Glen</Forenames>
-      <Text>, C.B.. D.S.O</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>4013</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -719,8 +729,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Carpendale</Key>
-      <Forenames>William St</Forenames>
-      <Text>. John</Text>
+      <Forenames>William St. John</Forenames>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -757,9 +766,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Brath</Forenames>
-      <Text>, Neville Stanley</Text>
+      <Key>De Brath</Key>
+      <Forenames>Neville Stanley</Forenames>
       <PageNumber>4707</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -950,7 +958,9 @@
       <Key>Gordon</Key>
       <Title>Col.</Title>
       <Forenames>Louis Augustus</Forenames>
-      <Text>, C.B</Text>
+      <Text>
+        <Honour>C.B</Honour>
+      </Text>
       <PageNumber>4707</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1018,9 +1028,12 @@
   <ItemGroup>
     <MainItem>
       <Key>Kemball</Key>
-      <Title>Major</Title>
+      <Title>Major-</Title>
       <Forenames>General G. V.</Forenames>
-      <Text>, C.B., D.S.O. (Brigade-Commander)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4620</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1035,8 +1048,11 @@
     <MainItem>
       <Key>Creagh</Key>
       <Title>Sir</Title>
-      <Forenames>O</Forenames>
-      <Text>'Moore, V.C., G.C.B., G.C.S.I</Text>
+      <Forenames>O'Moore</Forenames>
+      <Text>
+        <Honour>V.C.</Honour>
+        <Honour>G.C.B.</Honour>
+      </Text>
       <PageNumber>4012</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1076,7 +1092,9 @@
       <Key>Knapp</Key>
       <Title>Major</Title>
       <Forenames>Herbert Henry George</Forenames>
-      <Text>, M.D. (antedated)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>2885</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1118,8 +1136,8 @@
     <MainItem>
       <Key>Julius</Key>
       <Title>Capt.</Title>
-      <Forenames>S.</Forenames>
-      <Text>de V. A. (General Staff Officer, 2nd Grade)</Text>
+      <Forenames>S. de V</Forenames>
+      <Text>. A. (General Staff Officer, 2nd Grade)</Text>
       <PageNumber>3931</PageNumber>
     </MainItem>
   </ItemGroup>

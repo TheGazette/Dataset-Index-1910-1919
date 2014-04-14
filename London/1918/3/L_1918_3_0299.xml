@@ -3,7 +3,7 @@
   <ItemGroup>
     <MainItem>
       <Key>ILt</Key>
-      <Text>., attd.) ... .,</Text>
+      <Text>, attd.) ... .,</Text>
       <PageNumber>6022</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -13,7 +13,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Title>Ch.</Title>
-      <Text>lnspr. of Works and Hon. Vol W., O.B.E., B.E., M.fnst.C.E. (retires with a superannuation allowance)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>9333</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -33,7 +35,9 @@
       <Key>Kingstone</Key>
       <Title>Lt.</Title>
       <Forenames>J. J.</Forenames>
-      <Text>, M.C. (Capt., ana remain seed.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8032</PageNumber>
     </MainItem>
     <SubItem>
@@ -122,7 +126,9 @@
       </Key>
       <Title>temp. 2nd Lt.</Title>
       <Forenames>G. P.</Forenames>
-      <Text>(trd. to M.G.C., Infy.)</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>9330</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -150,18 +156,26 @@
     <MainItem>
       <Key>Kinninmont</Key>
       <Title>temp.</Title>
-      <Text>'2nd Lt. R. F. (trd. to M.G.C., Infy.)</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>9365</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Ceases to belong to A. Cyc. Corps on transfer to M.G.C., Infy.)</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>9364</PageNumber>
     </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Kino</Key>
-      <Text>. Maj. A. R., D.S.O. (placed on h.p. list on acc. of ill-health contracted on active service)..,</Text>
+      <Title>Maj.</Title>
+      <Forenames>A. R.</Forenames>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8574</PageNumber>
     </MainItem>
     <SubCategoryTitle>Retires on ret. pay on acc</SubCategoryTitle>
@@ -209,7 +223,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Kippen</Key>
-      <Text>. temp. 2nd Lt. J. B. (trd. to Ser. Bn.)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>J. B.</Forenames>
+      <Text>(trd. to Ser. Bn.)</Text>
       <PageNumber>9424</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -227,7 +243,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Kirbv</Key>
-      <Text>. Lt. A. (trd. to M.G.C., Infy.)</Text>
+      <Title>Lt.</Title>
+      <Forenames>A.</Forenames>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>9543</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -271,7 +291,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>H.</Forenames>
-      <Text>, D.S.O. (actg. Lt.Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>9887</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -282,7 +304,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>H. A.</Forenames>
-      <Text>, M.C. (actg. Lt.Col.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8552</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -314,14 +338,16 @@
       </Key>
       <Title>2nd Lt.</Title>
       <Forenames>V.</Forenames>
-      <Text>(ceases to be empld. with M.G.C., Infy.)</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>9957</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Kirk</Key>
-      <Text>. (Lt. A. W. (placed on ret. list on acc. of ill-health caused by wounds)</Text>
+      <Text>(Lt. A. W. (placed on ret. list on acc. of ill-health caused by wounds)</Text>
       <PageNumber>8431</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -410,7 +436,9 @@
       </Key>
       <Title>temp. 2nd Lt.</Title>
       <Forenames>J. H.</Forenames>
-      <Text>(trd. to M.G.C., Infy.)</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>9425</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -459,7 +487,9 @@
       <Key>Kirkby</Key>
       <Title>Maj.</Title>
       <Forenames>H. A.</Forenames>
-      <Text>, D.S.O. (actg. Lt.-Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8957</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -470,7 +500,10 @@
       </Key>
       <Title>temp. Capt. (actg. Maj.)</Title>
       <Forenames>H.</Forenames>
-      <Text>McK., M.C., D.C.M. (actg. .(Lt.Cbl.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>8974</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -509,7 +542,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Kirkham</Key>
-      <Text>. temp. Lt. A. A. (temp. Lt., attd.)</Text>
+      <Title>temp. Lt.</Title>
+      <Forenames>A. A.</Forenames>
+      <Text>(temp. Lt., attd.)</Text>
       <PageNumber>9442</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -579,7 +614,9 @@
       <Key>Kirkley</Key>
       <Title>Lt.</Title>
       <Forenames>A.</Forenames>
-      <Text>, M.C. (rel. temp. Hank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7864</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -829,11 +866,15 @@
       <Key>Kitchin</Key>
       <Title>Capt. (Bt. Maj.)</Title>
       <Forenames>C. E.</Forenames>
-      <Text>, D.S.O. (Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8575</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Bt. Lt.-CoL</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>9964</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -864,7 +905,9 @@
       <Key>Kitching</Key>
       <Title>Uapt.</Title>
       <Forenames>C. H.</Forenames>
-      <Text>, D.S.O. (actg. Lt.-Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>11398</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1039,7 +1082,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Kleinstuber</Key>
-      <Text>. Lt. C. M. (placed on h.p. list on acc. of ill-health caused by wounds)</Text>
+      <Title>Lt.</Title>
+      <Forenames>C. M.</Forenames>
+      <Text>(placed on h.p. list on acc. of ill-health caused by wounds)</Text>
       <PageNumber>8280</PageNumber>
     </MainItem>
     <SubCategoryTitle>Retires on ret. pay on acc</SubCategoryTitle>
@@ -1168,7 +1213,9 @@
       </Key>
       <Title>temp. Capt.</Title>
       <Forenames>A. E.</Forenames>
-      <Text>, M.C., M.B. (actg. Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8132</PageNumber>
     </MainItem>
   </ItemGroup>

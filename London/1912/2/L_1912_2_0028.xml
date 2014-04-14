@@ -83,7 +83,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Haworth</Key>
-      <Text>. G. E. (2nd Lieut.)</Text>
+      <Forenames>G. E.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>2793</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -92,7 +93,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Hurlbutt</Key>
-      <Text>. Lieut.-Col. C. (retired)</Text>
+      <Title>Lieut.-Col.</Title>
+      <Forenames>C.</Forenames>
+      <Text>(retired)</Text>
       <PageNumber>2707</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -891,8 +894,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Thomson</Key>
-      <Forenames>R. St</Forenames>
-      <Text>. C. (Lieut.) .</Text>
+      <Forenames>R. St. C</Forenames>
+      <Text>. (Lieut.) .</Text>
       <PageNumber>ibid..</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -953,8 +956,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Swain</Key>
-      <Forenames>C.</Forenames>
-      <Text>de P. D. (2nd Lieut.)</Text>
+      <Forenames>C. de P</Forenames>
+      <Text>. D. (2nd Lieut.)</Text>
       <PageNumber>2399</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -988,7 +991,9 @@
       <Key>Jervoise</Key>
       <Title>Sir</Title>
       <Forenames>E. J</Forenames>
-      <Text>, C, Bart. (Capt.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>ibid..</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1027,8 +1032,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Willoughby</Key>
-      <Forenames>G. St</Forenames>
-      <Text>. M. (Capt.)'</Text>
+      <Forenames>G. St. M</Forenames>
+      <Text>. (Capt.)'</Text>
       <PageNumber>4221</PageNumber>
     </MainItem>
   </ItemGroup>

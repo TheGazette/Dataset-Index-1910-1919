@@ -12,7 +12,9 @@
       <Key>MacGregor</Key>
       <Title>Sir</Title>
       <Forenames>M.</Forenames>
-      <Text>, Bart</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>1334</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -405,8 +407,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brodie</Key>
-      <Forenames>D. F. O</Forenames>
-      <Text>'C</Text>
+      <Forenames>D. F. O'C</Forenames>
       <PageNumber>5</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -646,15 +647,17 @@
       <Key>Millais</Key>
       <Title>Sir</Title>
       <Forenames>J. E.</Forenames>
-      <Text>, Bart</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>694</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Morgan</Key>
-      <Forenames>F. T.</Forenames>
-      <Text>de M. .</Text>
+      <Forenames>F. T. de M</Forenames>
+      <Text>. .</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -906,8 +909,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Herbert</Key>
-      <Forenames>D.</Forenames>
-      <Text>de C. A</Text>
+      <Forenames>D. de C</Forenames>
+      <Text>. A</Text>
       <PageNumber>2148</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -987,7 +990,9 @@
       <Key>Arbuthnot</Key>
       <Title>Capt. Sir</Title>
       <Forenames>R. K.</Forenames>
-      <Text>, Bart</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>2148</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1006,6 +1011,14 @@
       <Title>Capt.</Title>
       <Forenames>H. H</Forenames>
       <PageNumber>2320</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Chair</Key>
+      <Title>Capt.</Title>
+      <Forenames>D. R. S</Forenames>
+      <PageNumber>2148</PageNumber>
     </MainItem>
   </ItemGroup>
   <SubSectionTitle>Sub-Lieutenants</SubSectionTitle>

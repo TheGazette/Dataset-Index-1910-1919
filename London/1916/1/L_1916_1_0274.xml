@@ -64,7 +64,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Marsh</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>3481</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -79,8 +79,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Marvel</Key>
-      <Forenames>Firelighter Co</Forenames>
-      <Text>., The</Text>
+      <Forenames>Firelighter</Forenames>
+      <Text>Co., The</Text>
       <PageNumber>2128</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -444,7 +444,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Polienta</Key>
-      <Forenames>Manufacturing Co</Forenames>
+      <Forenames>Manufacturing</Forenames>
+      <Text>Co</Text>
       <PageNumber>234</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -536,7 +537,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Regent</Key>
-      <Forenames>Mount Co</Forenames>
+      <Forenames>Mount</Forenames>
+      <Text>Co</Text>
       <PageNumber>1045</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -580,7 +582,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rhind</Key>
-      <Text>, Mrs -</Text>
+      <Title>Mrs</Title>
+      <Text>-</Text>
       <PageNumber>1733</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -647,7 +650,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rose</Key>
-      <Text>, McCanna and Co</Text>
+      <Text>McCanna and Co</Text>
       <PageNumber>664</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -662,7 +665,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rosenberg</Key>
-      <Text>, McKennell and Co</Text>
+      <Text>McKennell and Co</Text>
       <PageNumber>2820</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -731,8 +734,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. Pancras Garage</Text>
+      <Key>St. Pancras</Key>
+      <Title>Garage .</Title>
       <PageNumber>3104</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -776,8 +779,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Schluter</Key>
-      <Forenames>Edm</Forenames>
-      <Text>., and Co</Text>
+      <Title>Edm.</Title>
+      <Text>, and Co</Text>
       <PageNumber>889</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -806,7 +809,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sechiari</Key>
-      <Forenames>Bros</Forenames>
+      <Title>Bros.</Title>
       <PageNumber>378</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -835,7 +838,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sheerness</Key>
-      <Forenames>Electric Theatre Co</Forenames>
+      <Forenames>Electric Theatre</Forenames>
+      <Text>Co</Text>
       <PageNumber>2128</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -858,8 +862,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Skelton</Key>
-      <Forenames>Thos</Forenames>
-      <Text>.,' and Co</Text>
+      <Title>Thos.</Title>
+      <Text>,' and Co</Text>
       <PageNumber>380</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -899,7 +903,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>C, and Co</Text>
+      <Forenames>C</Forenames>
+      <Text>, and Co</Text>
       <PageNumber>1521</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -940,13 +945,7 @@
       <PageNumber>495</PageNumber>
     </MainItem>
   </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Southern</Key>
-      <Forenames>Counties Casings Co</Forenames>
-      <PageNumber>2594</PageNumber>
-    </MainItem>
-  </ItemGroup>
+  <CategoryTitle>Southern Counties Casings Co. ... 2594</CategoryTitle>
   <ItemGroup>
     <MainItem>
       <Key>Sparkes</Key>
@@ -973,7 +972,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Star</Key>
-      <Forenames>Overall Manufacturing Co</Forenames>
+      <Forenames>Overall Manufacturing</Forenames>
+      <Text>Co</Text>
       <PageNumber>1286</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -994,7 +994,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Steer</Key>
-      <Forenames>Joseph</Forenames>
+      <Title>Joseph .</Title>
       <PageNumber>379</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1199,16 +1199,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Vincent</Key>
-      <Forenames>Motor Co</Forenames>
-      <Text>., The „</Text>
+      <Forenames>Motor</Forenames>
+      <Text>Co., The „</Text>
       <PageNumber>3337</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Vulean</Key>
-      <Forenames>Disinfectant Co</Forenames>
-      <Text>., The</Text>
+      <Forenames>Disinfectant</Forenames>
+      <Text>Co., The</Text>
       <PageNumber>1521</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1222,7 +1222,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Waldron</Key>
-      <Forenames>Brothers</Forenames>
+      <Title>Brothers .</Title>
       <PageNumber>2128</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1315,7 +1315,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Watson</Key>
-      <Forenames>Brothers</Forenames>
+      <Title>Brothers .</Title>
       <PageNumber>2272</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1351,7 +1351,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Waugh</Key>
-      <Text>.John</Text>
+      <Forenames>John</Forenames>
       <PageNumber>664</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1516,8 +1516,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Jno</Forenames>
-      <Text>., and R. A</Text>
+      <Title>Jno.</Title>
+      <Text>, and R. A</Text>
       <PageNumber>1159</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1540,15 +1540,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Wood</Key>
-      <Forenames>Wm</Forenames>
-      <Text>.,Son and Gardner</Text>
+      <Title>Wm.</Title>
+      <Text>,Son and Gardner</Text>
       <PageNumber>1611</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Woodcock</Key>
-      <Forenames>Brothers</Forenames>
+      <Title>Brothers.</Title>
       <PageNumber>3213</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1630,7 +1630,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Alderton</Key>
-      <Forenames>Arthur</Forenames>
+      <Title>Arthur .</Title>
       <PageNumber>3216</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1644,7 +1644,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Allen</Key>
-      <Forenames>Emma</Forenames>
+      <Title>Emma .</Title>
       <PageNumber>2826</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1676,7 +1676,9 @@
       <Key>Alverstone</Key>
       <Title>The Rt. Hon.</Title>
       <Forenames>Richard Everard</Forenames>
-      <Text>Viscount, G.C.M.G</Text>
+      <Text>
+        <Honour>G.C.M.G</Honour>
+      </Text>
       <PageNumber>3219</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1868,7 +1870,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Aste</Key>
-      <Text>.John</Text>
+      <Title>John .</Title>
       <PageNumber>1164</PageNumber>
       <PageNumber>1620</PageNumber>
     </MainItem>
@@ -2026,7 +2028,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bardill</Key>
-      <Forenames>William</Forenames>
+      <Title>William .</Title>
       <PageNumber>669</PageNumber>
     </MainItem>
   </ItemGroup>

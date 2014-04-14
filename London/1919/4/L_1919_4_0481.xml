@@ -103,7 +103,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>H. G.</Forenames>
-      <Text>, D.F.C. (trd. to unempld. list)</Text>
+      <Text>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>13276</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -276,7 +278,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>D.S.O. (Wing Comdr. A.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>14703</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -356,7 +360,9 @@
       </Key>
       <Title>Dep. Admin. Mrs.</Title>
       <Forenames>F.</Forenames>
-      <Text>, M.B.E. (rel. appt.)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>15065</PageNumber>
     </MainItem>
     <SubItem>
@@ -392,7 +398,10 @@
       </Key>
       <Title>Maj. (H.O.)</Title>
       <Forenames>H. E.</Forenames>
-      <Text>, D.S.O., M.V.O. (Maj. Gr. B), SUB. Not</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>12896</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -412,7 +421,9 @@
         <KeyDitto>___ — ___ ___</KeyDitto>
       </Key>
       <Title>Flight Lt. (A.)</Title>
-      <Text>| ! J. F. A., A.F.C. (granted perm. commn.)</Text>
+      <Text>
+        <Honour>A.F.C.</Honour>
+      </Text>
       <PageNumber>13139</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -434,15 +445,18 @@
       </Key>
       <Title>Obsvr. Offr.</Title>
       <Forenames>W. C</Forenames>
-      <Text>, M.C. '(granted short serv. oommn.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>13034</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Beer</Forenames>
-      <Text>Lt. C. L. (trd. to unempld. list)</Text>
+      <Key>De Beer</Key>
+      <Title>Lt.</Title>
+      <Forenames>C. L.</Forenames>
+      <Text>(trd. to unempld. list)</Text>
       <PageNumber>15198</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -452,6 +466,14 @@
       <Forenames>Boissiere</Forenames>
       <Text>, Lt. G. Y. (trd. to unempld. list)</Text>
       <PageNumber>15871</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Chapuiset</Key>
+      <Forenames>Le Merle</Forenames>
+      <Text>, 2nd Lt. L. R. P. .(trd. tounempld. list)... ,</Text>
+      <PageNumber>15872</PageNumber>
     </MainItem>
     <SubItem>
       <Text>;Not. in Gaz. 11 Nov., 1919, cancelled</Text>
@@ -468,33 +490,71 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Lacrox</Forenames>
-      <Text>, Lt. A. T. S. L. (trd. to unempld. list)</Text>
+      <Key>de Grave</Key>
+      <Title>Dep.</Title>
+      <Forenames>Administrator D. M. H.</Forenames>
+      <Text>(rel. appt.)</Text>
+      <PageNumber>12558</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Lacrox</Key>
+      <Title>Lt.</Title>
+      <Forenames>A. T. S. L.</Forenames>
+      <Text>(trd. to unempld. list)</Text>
       <PageNumber>15197</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Long</Forenames>
-      <Text>, 2nd Lt. V. M. (trd. to unempld. list)</Text>
+      <Key>De Long</Key>
+      <Title>2nd Lt.</Title>
+      <Forenames>V. M.</Forenames>
+      <Text>(trd. to unempld. list)</Text>
       <PageNumber>14316</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Lorme</Forenames>
-      <Text>, 2nd Lt. E. (trd. to unempld. list)</Text>
+      <Key>De Lorme</Key>
+      <Title>2nd Lt.</Title>
+      <Forenames>E.</Forenames>
+      <Text>(trd. to unempld. list)</Text>
       <PageNumber>12142</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Ville</Forenames>
-      <Text>, Capt. (actg. Maj.) E. A. de L. (trd. to unempld. list)</Text>
+      <Key>de Moyse-Bucknall</Key>
+      <Title>Obsvr. Offr.</Title>
+      <Forenames>S. P. B.</Forenames>
+      <Text>(granted short serv. commn.)</Text>
+      <PageNumber>15746</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Nevers</Key>
+      <Forenames>Flying Offr</Forenames>
+      <Text>. (A.) B. A. (granted short serv. commn.)</Text>
+      <PageNumber>15062</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Sarigny</Key>
+      <Forenames>Flying Offr</Forenames>
+      <Text>. V. M. C B. (actg. Flight ILt., K.B.)</Text>
+      <PageNumber>13423</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Ville</Key>
+      <Title>Capt. (actg. Maj.)</Title>
+      <Forenames>E. A. de L</Forenames>
+      <Text>. (trd. to unempld. list)</Text>
       <PageNumber>15485</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -552,7 +612,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>R.</Forenames>
-      <Text>IE., A.F.C. (trd. to unempld. list)</Text>
+      <Text>
+        <Honour>A.F.C.</Honour>
+      </Text>
       <PageNumber>13671</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -594,7 +656,9 @@
       <Key>Deans</Key>
       <Title>Flight Lt. (A. and S.)</Title>
       <Forenames>E. E.</Forenames>
-      <Text>, D.S.C. (granted short serv. commn.)</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>13032</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -603,7 +667,9 @@
       <Key>Dear</Key>
       <Title>Lt.</Title>
       <Forenames>F.</Forenames>
-      <Text>' H., M.C. (trd. to unempld. lis,t&gt;</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>13140</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -895,7 +961,9 @@
       <Key>Dewey</Key>
       <Title>Lt.</Title>
       <Forenames>N. S.</Forenames>
-      <Text>, M.C. (rel. temp, commn. on retirement from the Army) '</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>16871</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -954,8 +1022,10 @@
     <MainItem>
       <Key>Dickinson</Key>
       <Title>2nd Lt. (Hon. Lt.)</Title>
-      <Forenames>C. O</Forenames>
-      <Text>'Brien, M.C. (trd. to unempld. list)</Text>
+      <Forenames>C. O'Brien</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>13671</PageNumber>
     </MainItem>
   </ItemGroup>

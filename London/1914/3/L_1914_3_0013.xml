@@ -4,14 +4,17 @@
     <MainItem>
       <Key>Nivison</Key>
       <Forenames>Robert</Forenames>
-      <Text>, created a Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>5963</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connell, John, LL.D., knighted</Text>
+      <Key>O'Connell</Key>
+      <Forenames>John</Forenames>
+      <Text>, LL.D., knighted</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -35,7 +38,9 @@
     <MainItem>
       <Key>Payton</Key>
       <Forenames>Charles Alfred</Forenames>
-      <Text>, M.V.O., knighted</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>5963</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -44,7 +49,11 @@
       <Key>Pilcher</Key>
       <Title>Lieut.-Col.</Title>
       <Forenames>E. M.</Forenames>
-      <Text>, D.S.O., M.B., F.R.C.S., R.A.M.C., Con! suiting Staff, Osborne</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>F.R.C.S.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5764</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -53,7 +62,9 @@
       <Key>Pringle</Key>
       <Title>Sir</Title>
       <Forenames>John</Forenames>
-      <Text>, K.C.M.G., to be i a Member of the Privy Council of the Island of Jamaica</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+      </Text>
       <PageNumber>5865</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -78,7 +89,9 @@
       <Key>Ricketts</Key>
       <Title>Major</Title>
       <Forenames>Percy Edward</Forenames>
-      <Text>, Fourth Class Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>5278</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -95,7 +108,9 @@
       <Key>Robinson</Key>
       <Title>Lieut.-Col.</Title>
       <Forenames>O. L.</Forenames>
-      <Text>, R.A.M.C., Consulting Staff, Osborne</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5764</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -103,7 +118,9 @@
     <MainItem>
       <Key>Roddick</Key>
       <Forenames>Thomas George</Forenames>
-      <Text>, M.D., I LL.D., knighted</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>5963</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -112,7 +129,9 @@
       <Key>Rogers</Key>
       <Title>Lieut.-Col.</Title>
       <Forenames>Leonard</Forenames>
-      <Text>, CLE., F.R.C.P., F.R.C.S., knighted ...</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -129,7 +148,10 @@
       <Key>Ross</Key>
       <Title>Rt. Hon.</Title>
       <Forenames>John</Forenames>
-      <Text>, P.C., Knight of Grace, St. John of Jerusalem</Text>
+      <Text>
+        <Honour>P.C.</Honour>
+        <Honour>Knight of Grace, St. John of Jerusalem</Honour>
+      </Text>
       <PageNumber>6793</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -146,29 +168,36 @@
       <Key>Runciman</Key>
       <Title>Rt. Hon.</Title>
       <Forenames>Walter</Forenames>
-      <Text>, M.P., President of the Committee of Council of the Board of Trade</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>6165</PageNumber>
       <PageNumber>6184</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. Clair, Capt. the Hon. Archibald J. Murray (Master of Sinclair), Extra Equerry to Major H.R.H Prince Arthur of Connaught</Text>
+      <Key>St. Clair</Key>
+      <Title>Capt. the Hon.</Title>
+      <Forenames>Archibald J. Murray</Forenames>
+      <Text>(Master of Sinclair), Extra Equerry to Major H.R.H Prince Arthur of Connaught</Text>
       <PageNumber>7088</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. Davids, Rt. Hon. John Wyn ford, Baron, a Privy Councillor</Text>
+      <Key>St. Davids</Key>
+      <Title>Rt. Hon.</Title>
+      <Forenames>John Wyn</Forenames>
+      <Text>ford, Baron, a Privy Councillor</Text>
       <PageNumber>5539</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>. Julian, Herbert Paul, to be a Member of the Legislative Council of the Colony of Fiji</Text>
+      <Forenames>Julian</Forenames>
+      <Text>, Herbert Paul, to be a Member of the Legislative Council of the Colony of Fiji</Text>
       <PageNumber>6684</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -185,7 +214,9 @@
       <Key>Sclater</Key>
       <Title>Lieut.-Gen. Sir</Title>
       <Forenames>Henry C</Forenames>
-      <Text>, K.C.B., Army Council</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+      </Text>
       <PageNumber>6682</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -202,7 +233,9 @@
       <Key>Scott-Gatty</Key>
       <Title>Mrs.</Title>
       <Forenames>Charles</Forenames>
-      <Text>, Lady of Grace, St. John of Jerusalem</Text>
+      <Text>
+        <Honour>Lady of Grace, St. John of Jerusalem</Honour>
+      </Text>
       <PageNumber>6793</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -210,7 +243,9 @@
     <MainItem>
       <Key>Sharkey</Key>
       <Forenames>Seymour John</Forenames>
-      <Text>, M.D., F.R.C.P.. knighted</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>5963</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -269,7 +304,9 @@
       <Key>Solomon</Key>
       <Title>Sir</Title>
       <Forenames>William Henry</Forenames>
-      <Text>, K.C.M.G., K.B., Knight Commander, Star of India</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+      </Text>
       <PageNumber>6916</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -294,7 +331,11 @@
       <Key>Squire</Key>
       <Title>Col.</Title>
       <Forenames>John Edward</Forenames>
-      <Text>, C.B., M.D., F.R.C.P., Knight of Grace, St. John of Jerusalem</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>M.D.</Honour>
+        <Honour>Knight of Grace, St. John of Jerusalem</Honour>
+      </Text>
       <PageNumber>6793</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -310,7 +351,9 @@
     <MainItem>
       <Key>Stevenson</Key>
       <Title>Rt. Hon.</Title>
-      <Text>the Lord Provost of the City of Glasgow, Daniel Macaulay, created a Baronet ... ... ... ... ...</Text>
+      <Text>
+        <Honour>Baro-</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -320,7 +363,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>James Verdier</Forenames>
-      <Text>, Fifth Class, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>5552</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -328,7 +373,9 @@
     <MainItem>
       <Key>Stuart</Key>
       <Forenames>Thomas Peter Anderson</Forenames>
-      <Text>, M.D., Ch.M., LL.D., D.Sc., knighted</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>5963</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -345,7 +392,9 @@
     <MainItem>
       <Key>Sutherland</Key>
       <Forenames>John Alexander</Forenames>
-      <Text>, M.B. (Edin.), Knight of Grace, St. John of Jerusalem</Text>
+      <Text>
+        <Honour>Knight of Grace, St. John of Jerusalem</Honour>
+      </Text>
       <PageNumber>6793</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -366,7 +415,9 @@
     <MainItem>
       <Key>Thomson</Key>
       <Forenames>Alfred Edward</Forenames>
-      <Text>, M.D., knighted</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>5963</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -376,15 +427,20 @@
         <KeyDitto>___ ___ ___ ___ ___ .</KeyDitto>
       </Key>
       <Forenames>Harold Lyon</Forenames>
-      <Text>, Esquire, St. John of Jerusalem</Text>
+      <Text>
+        <Honour>Esquire, St. John of Jerusalem</Honour>
+      </Text>
       <PageNumber>6793</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Tudor</Key>
-      <Forenames>Rear-</Forenames>
-      <Text>Admiral Frederick Charles Tudor, C.B., Admiralty Commissioner</Text>
+      <Title>Rear-Admiral</Title>
+      <Forenames>Frederick Charles Tudor</Forenames>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>6301</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -398,9 +454,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Cuylenburg</Forenames>
-      <Text>, Hector William, | knighted</Text>
+      <Key>Van Cuylenburg</Key>
+      <Forenames>Hector William</Forenames>
+      <Text>, | knighted</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -415,10 +471,23 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>von Donop</Key>
+      <Title>Col. (local and temporary Maj.-Gen.) Sir</Title>
+      <Forenames>Stanley B.</Forenames>
+      <Text>
+        <Honour>K.C.B.</Honour>
+      </Text>
+      <PageNumber>6682</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Wilson</Key>
       <Title>Maj.</Title>
       <Forenames>Samuel Herbert</Forenames>
-      <Text>, R.E., Companion, St. Michael and St. George</Text>
+      <Text>
+        <Honour>Companion, St. Michael and St. George</Honour>
+      </Text>
       <PageNumber>7088</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -442,7 +511,9 @@
     <MainItem>
       <Key>Wood</Key>
       <Forenames>Edward Rogers</Forenames>
-      <Text>, Knight of Grace, St. John of Jerusalem</Text>
+      <Text>
+        <Honour>Knight of Grace, St. John of Jerusalem</Honour>
+      </Text>
       <PageNumber>6793</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -542,7 +613,9 @@
       <Key>Ainsworth</Key>
       <Title>Capt.</Title>
       <Forenames>W. J.</Forenames>
-      <Text>, D.S.O. (Deputy Asst. Adjt.-Gen.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7684</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -560,7 +633,9 @@
       <Key>Alexander</Key>
       <Title>Major</Title>
       <Forenames>D. H.</Forenames>
-      <Text>, C.M.G. (special appointment)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>7082</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -570,7 +645,9 @@
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>E. C</Forenames>
-      <Text>, D.S.O. (Brigade Major)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7594</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -655,7 +732,9 @@
       </Key>
       <Title>Major</Title>
       <Forenames>N. G.</Forenames>
-      <Text>, D.S.O. (Deputy Asst. Adjt. and Qrmr.Gen.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6688</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -693,7 +772,9 @@
       </Key>
       <Title>Major</Title>
       <Forenames>W. R. N.</Forenames>
-      <Text>, D.S.O. (special appointment)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7082</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -758,7 +839,9 @@
       <Key>Ashmore</Key>
       <Title>Major</Title>
       <Forenames>E. B.</Forenames>
-      <Text>, M.V.O., (General Staff Officer, 2nd Grade)</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>6686</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -776,7 +859,9 @@
       <Key>Atcherley</Key>
       <Title>Major</Title>
       <Forenames>L. W.</Forenames>
-      <Text>, M.V.O. (Asst. Qrmr.-Gen. and temp. Lieut.-Col.)</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>7469</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -845,7 +930,9 @@
       <Key>Bainbridge</Key>
       <Title>Col. (temp. BrigadierGen.)</Title>
       <Forenames>E. G. T.</Forenames>
-      <Text>, C.B. (General Staff Officer)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>6686</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -922,8 +1009,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Bamfylde</Key>
-      <Forenames>Lieut</Forenames>
-      <Text>, the Hon. G. W. W. (Aide-de-Camp)</Text>
+      <Title>Lieut, the Hon.</Title>
+      <Forenames>G. W. W.</Forenames>
+      <Text>(Aide-de-Camp)</Text>
       <PageNumber>6886</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -995,8 +1083,13 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Lieut-</Forenames>
-      <Text>Col. S (Aide-de-Camp to Field-Marshal Sir J. D. P. French, G.C.B., G.C.V.O., K.C.M.G.)</Text>
+      <Title>Lieut-Col.</Title>
+      <Forenames>S</Forenames>
+      <Text>
+        <Honour>G.C.B.</Honour>
+        <Honour>G.C.V.O.</Honour>
+        <Honour>K.C.M.G.</Honour>
+      </Text>
       <PageNumber>6072</PageNumber>
     </MainItem>
     <SubItem>

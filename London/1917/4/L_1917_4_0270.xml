@@ -108,9 +108,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Laney</Forenames>
-      <Text>, Cadet T. (temp. 2nd Lt., attd.)</Text>
+      <Key>Du Laney</Key>
+      <Title>Cadet</Title>
+      <Forenames>T.</Forenames>
+      <Text>(temp. 2nd Lt., attd.)</Text>
       <PageNumber>12500</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -125,9 +126,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>May</Forenames>
-      <Text>, Cadet V. A. (temp. 2nd Lt., attd.)</Text>
+      <Key>Du May</Key>
+      <Title>Cadet</Title>
+      <Forenames>V. A.</Forenames>
+      <Text>(temp. 2nd Lt., attd.)</Text>
       <PageNumber>10829</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -136,7 +138,9 @@
       <Key>Dumbell</Key>
       <Title>Maj.</Title>
       <Forenames>C. H.</Forenames>
-      <Text>, D.S.O. (actg. Lt.-Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>12113</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -176,7 +180,10 @@
       <Key>Dunbar</Key>
       <Title>Maj.</Title>
       <Forenames>B. H. V.</Forenames>
-      <Text>, D.S.O., M.D. (rel. aetg. rank of Lt.-Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>10461</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -220,7 +227,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>J. C</Forenames>
-      <Text>, D.S.O. (aotg. Lt.Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>13429</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -348,7 +357,9 @@
       </Key>
       <Title>temp. Lt.</Title>
       <Forenames>C</Forenames>
-      <Text>, M.C., M.B. (temp. Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>11304</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -370,7 +381,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>C. H. S.</Forenames>
-      <Text>(ceases to bo empld. with M.G.C.)</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>11771</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -510,7 +523,9 @@
       <Key>
         <KeyDitto>___ -</KeyDitto>
       </Key>
-      <Text>r— ___ ___ temp. Capt. G. W., M.C. (Gen. List)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>11095</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -777,7 +792,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>T. B.</Forenames>
-      <Text>, M.C. (rel. actg. rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>11937</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -842,7 +859,9 @@
       </Key>
       <Title>temp. Lt.</Title>
       <Forenames>W. H.</Forenames>
-      <Text>, F.R.C.S. Edin. (temp. Capt.)</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>11304</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1040,7 +1059,9 @@
     <MainItem>
       <Key>Dunkley</Key>
       <Title>temp. 2nd Lt.</Title>
-      <Text>C.H. (temp. Lt.)</Text>
+      <Text>
+        <Honour>C.H.</Honour>
+      </Text>
       <PageNumber>11016</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1077,7 +1098,9 @@
       </Key>
       <Title>temp. Lt.</Title>
       <Forenames>E. V.</Forenames>
-      <Text>, M.D. (temp. Capt.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>11304</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1245,7 +1268,9 @@
       </Key>
       <Title>temp. Maj.</Title>
       <Forenames>J. K.</Forenames>
-      <Text>, M.C. (ceases to be a Divnl. M.G. Offr.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>12866</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1288,7 +1313,9 @@
       </Key>
       <Title>temp. Lt.</Title>
       <Forenames>R. B.</Forenames>
-      <Text>M.C. (R.E.) (actg. Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10369</PageNumber>
     </MainItem>
     <SubItem>
@@ -1372,8 +1399,8 @@
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
       <Title>temp. Capt.</Title>
-      <Forenames>C.</Forenames>
-      <Text>de S. (temp. Maj.)</Text>
+      <Forenames>C. de S</Forenames>
+      <Text>. (temp. Maj.)</Text>
       <PageNumber>11661</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -91,8 +91,10 @@
     <MainItem>
       <Key>Daniell</Key>
       <Title>Maj. (temp. Lt.-Col.)</Title>
-      <Forenames>T. E. St</Forenames>
-      <Text>. C, M.C. (Dep. Dir., Air Min., and temp. Col.)</Text>
+      <Forenames>T. E. St. C</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4030</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -103,6 +105,15 @@
       <Forenames>C. C.</Forenames>
       <Text>(temp. S.O., 2nd CI., and temp. Maj.)</Text>
       <PageNumber>6935</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Poix</Key>
+      <Title>Capt.</Title>
+      <Forenames>R. B. C. M. T.</Forenames>
+      <Text>(temp. SO., 3rd CI.)</Text>
+      <PageNumber>5608</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -145,7 +156,9 @@
       <Key>Donaldson-Hndson</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>R. C</Forenames>
-      <Text>, D. S.O. (temp. S.O., 1st 01., Air Min.)</Text>
+      <Text>
+        <Honour>D. S.O.</Honour>
+      </Text>
       <PageNumber>6800</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -199,7 +212,9 @@
       <Key>Ebben</Key>
       <Title>Maj.</Title>
       <Forenames>H. S.</Forenames>
-      <Text>, O.B.E. (Dir., Air Min., and temp. Col.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4030</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -217,7 +232,9 @@
       <Key>Edmonds</Key>
       <Title>Maj. (temp. Lt.-Col.)</Title>
       <Forenames>C. H. K.</Forenames>
-      <Text>, D.S.O. (temp. S.O., 1st CI., Air Min.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5483</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -226,7 +243,9 @@
       <Key>Edwards</Key>
       <Title>Col.</Title>
       <Forenames>J. D.</Forenames>
-      <Text>. C.B. (temp. Brig.-Gen., Air Min.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>5070</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -259,7 +278,9 @@
       <Key>Ellington</Key>
       <Title>(Bt. Col., temp. Brig.Gen. in Army)</Title>
       <Forenames>E. L</Forenames>
-      <Text>, C.M.G. (temp. Col. and temp. Maj.Gen.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>5366</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -389,7 +410,9 @@
       <Key>Forbes</Key>
       <Title>Capt.</Title>
       <Forenames>E. W.</Forenames>
-      <Text>, M.C. (S.O., 2nd CI., Air Min., and temp. Maj.,</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4030</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -407,7 +430,9 @@
       <Key>Fraser</Key>
       <Title>Maj. (temp. Lt.-Col.)</Title>
       <Forenames>C</Forenames>
-      <Text>, M.C. (temp. S.O., 1st 01., and retain temp, rank)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5608</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -438,7 +463,10 @@
       </Key>
       <Title>Lt.-Col.</Title>
       <Forenames>W. R.</Forenames>
-      <Text>, D.S.O., M.C. (temp. Group Comdr. and temp. Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5365</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -468,7 +496,9 @@
     <MainItem>
       <Key>Gapin</Key>
       <Forenames>Lt</Forenames>
-      <Text>, (temp. Capt.) C. J., D. S.O. (S.O., 2nd CI., Air Min., and temp. 'Maj.)</Text>
+      <Text>
+        <Honour>D. S.O.</Honour>
+      </Text>
       <PageNumber>4030</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -495,7 +525,9 @@
       <Key>Gill</Key>
       <Title>Maj. (temp. Lt.-Col.)</Title>
       <Forenames>N. J</Forenames>
-      <Text>,, M.C. (temp. S.O., 1st CI.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5365</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -504,7 +536,9 @@
       <Key>Godman</Key>
       <Title>Maj. (temp. Lt.-Col.)</Title>
       <Forenames>A. L.</Forenames>
-      <Text>, D.S.O. (temp. Col., Admin., and temp. Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5365</PageNumber>
     </MainItem>
     <SubItem>
@@ -515,7 +549,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Goggin</Key>
-      <Text>. Lt. J. S. (temp. S.O., 4th 01.)</Text>
+      <Title>Lt.</Title>
+      <Forenames>J. S.</Forenames>
+      <Text>(temp. S.O., 4th 01.)</Text>
       <PageNumber>5749</PageNumber>
     </MainItem>
     <SubItem>
@@ -565,7 +601,10 @@
       <Key>Gordon</Key>
       <Title>Maj.-Gen. Hon. Sir</Title>
       <Forenames>F.</Forenames>
-      <Text>, K.C.B., D.S.O. (temp. Area Comdr. and temp.Maj.-Gen.)</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5365</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -587,7 +626,9 @@
       </Key>
       <Title>Lt.-Col.</Title>
       <Forenames>R.</Forenames>
-      <Text>, D.S.O. (temp. Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5483</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -640,7 +681,9 @@
       <Key>Groves</Key>
       <Title>Maj. (temp. Lt.-Col.)</Title>
       <Forenames>P. R. C</Forenames>
-      <Text>, D.S.O. (temp. Dir., Air. Min., and temp. Brig.Gen.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7068</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -651,7 +694,9 @@
       </Key>
       <Title>Lt.-Col. (temp. Col.)</Title>
       <Forenames>R. M.</Forenames>
-      <Text>, D.S.O. (Dir., Air Min., and temp. Brig.-Gen.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4030</PageNumber>
     </MainItem>
     <SubItem>
@@ -769,7 +814,9 @@
       <Key>Heald</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>C. B.</Forenames>
-      <Text>(Asst. Medical Administration, Air Min.) Hearson, Lt.-Col. (temp. Brig.-Gen.) J. G., D.S.O. (Dir., Air Min., and to retain temp, rank)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4030</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -778,7 +825,9 @@
       <Key>Heath-CalcWell</Key>
       <Title>Maj.-Gen.</Title>
       <Forenames>F. C</Forenames>
-      <Text>, * C.B. (temp. Area Comdr. and temp. Maj.-Gen.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>5365</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -850,7 +899,9 @@
     <MainItem>
       <Key>Hetherington</Key>
       <Title>Maj.</Title>
-      <Text>. T. G., C.B.E. (temp. S.O., 1st CI., andtemp. Lt.-Col.) v.'</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>5365</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -113,7 +113,9 @@
     <MainItem>
       <Key>Griffiths</Key>
       <Forenames>A.</Forenames>
-      <Text>, M.B., F.R.C.S.(Edin.) (temp. Lt.)</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>10478</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -564,7 +566,7 @@
       <PageNumber>11881</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Temp. Lt</Text>
+      <Text>Temp. Lt.</Text>
       <PageNumber>11911</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -691,7 +693,9 @@
     <MainItem>
       <Key>Grove-White</Key>
       <Forenames>J. H.</Forenames>
-      <Text>, M.D. (temp. Capt.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>10915</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -906,7 +910,9 @@
       <Key>Guggisberg</Key>
       <Title>Maj.</Title>
       <Forenames>F. G.</Forenames>
-      <Text>, C.M.G. (temp. Lt.-Col.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>12197</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -991,7 +997,9 @@
       <Key>Gulland</Key>
       <Title>(temp.) Col.</Title>
       <Forenames>G. L.</Forenames>
-      <Text>, M.D. (relinquishes his commission)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>12805</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1109,7 +1117,7 @@
       <PageNumber>12338</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Lt</Text>
+      <Text>Lt.</Text>
       <PageNumber>12410</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1386,7 +1394,10 @@
     <MainItem>
       <Key>Guthrie</Key>
       <Forenames>D. J.</Forenames>
-      <Text>, M.D., F.R.C.S. (Edir..) (temp Lt.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>12446</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1549,7 +1560,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gwyther</Key>
-      <Text>E. B. (temp. Capt.)</Text>
+      <Forenames>E. B.</Forenames>
+      <Text>(temp. Capt.)</Text>
       <PageNumber>12175</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1576,21 +1588,25 @@
   <ItemGroup>
     <MainItem>
       <Key>Gve</Key>
-      <Text>2nd Lt. N. D. (confirmed)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>N. D.</Forenames>
+      <Text>(confirmed)</Text>
       <PageNumber>12308</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Gvllencreutz</Key>
-      <Text>J. R. (temp. Cant.)</Text>
+      <Forenames>J. R.</Forenames>
+      <Text>(temp. Cant.)</Text>
       <PageNumber>11596</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Habershon</Key>
-      <Text>A. W. (temp. 2nd LU 10477 Hacket, Rev. F. (correction of date) ... -</Text>
+      <Forenames>A. W.</Forenames>
+      <Text>(temp. 2nd LU 10477 Hacket, Rev. F. (correction of date) ... -</Text>
       <PageNumber>10234</PageNumber>
     </MainItem>
   </ItemGroup>

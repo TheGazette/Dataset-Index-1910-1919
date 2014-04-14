@@ -5,7 +5,9 @@
     <MainItem>
       <Key>BethBll</Key>
       <Forenames>T.</Forenames>
-      <Text>Bt. (Capt.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4381</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -851,7 +853,9 @@
       <Key>Walker</Key>
       <Title>Sir</Title>
       <Forenames>R. J. M.</Forenames>
-      <Text>, Bart. (Lieut.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>3998</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1015,7 +1019,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Caldecutt</Key>
-      <Forenames>Lieut H.</Forenames>
+      <Title>Lieut</Title>
+      <Forenames>H.</Forenames>
       <Text>(resigned)</Text>
       <PageNumber>4491</PageNumber>
     </MainItem>
@@ -1166,8 +1171,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. John, W. H. (Adjt,.)</Text>
+      <Key>St. John</Key>
+      <Forenames>W. H.</Forenames>
+      <Text>(Adjt,.)</Text>
       <PageNumber>3638</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1194,7 +1200,9 @@
       <Key>Napier</Key>
       <Title>Lieut.-Col. Sir</Title>
       <Forenames>W. L.</Forenames>
-      <Text>,' Bart. (resigned)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>3713</PageNumber>
     </MainItem>
   </ItemGroup>

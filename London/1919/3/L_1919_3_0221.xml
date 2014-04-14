@@ -5,7 +5,9 @@
       <Key>Roberts</Key>
       <Title>Lt. (A./Capt.)</Title>
       <Forenames>Harry</Forenames>
-      <Text>, M.C., Companion ID.S.O</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9682</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -48,7 +50,11 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>Samuel</Forenames>
-      <Text>, D.L., M.P., created Baronet</Text>
+      <Text>
+        <Honour>D.L.</Honour>
+        <Honour>M.P.</Honour>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>10218</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -62,7 +68,10 @@
       <PageNumber>10051</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Capt. -(A./lit.-Col.) Gordon MoMahon Robertson, D.S.O., 2nd Bar to D.S.O</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>9674</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -147,7 +156,9 @@
       <PageNumber>9827</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Maj. (T./Lt.-Col.) William Pasley, D.S.O., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>11462</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -270,7 +281,10 @@
       <PageNumber>9827</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Lt.-Col. Malcolm Nugent, D.S.O., Bar to D.S.O</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>9677</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -324,14 +338,18 @@
       <Key>Boyle</Key>
       <Title>Comdr.</Title>
       <Forenames>Guy Charles Cecil</Forenames>
-      <Text>, Companion, Saint Michael and Saint George</Text>
+      <Text>
+        <Honour>Companion, Saint Michael and Saint George</Honour>
+      </Text>
       <PageNumber>9107</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Rudd</Key>
-      <Text>Miss Elizalbeith Maud, Royal Red Cross, 2nd Cl</Text>
+      <Title>Miss</Title>
+      <Forenames>Elizalbeith Maud</Forenames>
+      <Text>, Royal Red Cross, 2nd Cl</Text>
       <PageNumber>10052</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -417,7 +435,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>Gerald Hemminigton</Forenames>
-      <Text>, created Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>10218</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -426,7 +446,9 @@
       <Key>Ryland</Key>
       <Title>Mrs.</Title>
       <Forenames>Beryl Stratlbeden</Forenames>
-      <Text>, Lady of Grace, St. John of Jerusalem</Text>
+      <Text>
+        <Honour>Lady of Grace, St. John of Jerusalem</Honour>
+      </Text>
       <PageNumber>10082</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -476,8 +498,8 @@
     <MainItem>
       <Key>Satow</Key>
       <Title>Capt.</Title>
-      <Forenames>Lawrence</Forenames>
-      <Text>de Wahl, Commander, Order of the British Empire</Text>
+      <Forenames>Lawrence de Wahl</Forenames>
+      <Text>, Commander, Order of the British Empire</Text>
       <PageNumber>8584</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -496,7 +518,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>Ernest Howie</Forenames>
-      <Text>, D.S.O., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>11462</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -560,7 +584,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>George Herbert</Forenames>
-      <Text>, A.F.C., Commander, Order olf the British Empire</Text>
+      <Text>
+        <Honour>A.F.C.</Honour>
+      </Text>
       <PageNumber>10723</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -625,7 +651,10 @@
       <Key>Seaman</Key>
       <Title>Obi.</Title>
       <Forenames>Bdiwin Charles</Forenames>
-      <Text>, C.M.G., Companion, Order of the Bath, (date of appointment)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>9426</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -706,7 +735,10 @@
       <Key>Sharman</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Charles Henry</Forenames>
-      <Text>' Ludovic, C.B.E., Companion, Saint Michael and Saint George (corr.)</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>Companion, Saint Michael and Saint George</Honour>
+      </Text>
       <PageNumber>8983</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -731,7 +763,9 @@
     <MainItem>
       <Key>Sheldrake</Key>
       <Forenames>Shipwright</Forenames>
-      <Text>Lt. John William, M.V.O., Member, Order otf the British Empire</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>8385</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -781,7 +815,9 @@
     <MainItem>
       <Key>Shorland</Key>
       <Forenames>T.</Forenames>
-      <Text>/2nd Lt. James William, Companion, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>9682</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -798,7 +834,9 @@
     <MainItem>
       <Key>Simmons</Key>
       <Forenames>William Anker</Forenames>
-      <Text>, C.B.E., Member of the Royal Commission on itlhe Agricultural Industry '</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>9131</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -863,7 +901,9 @@
       <Key>Skinner</Key>
       <Title>Maj. (T./I/t.-Col.)</Title>
       <Forenames>Alex-</Forenames>
-      <Text>andra Baird, D.S.O., Officer, Order of the British Empire-</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>11462</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -883,7 +923,9 @@
       <Key>Skipworth</Key>
       <Title>Miss</Title>
       <Forenames>Rosamond Mary</Forenames>
-      <Text>, A.R.R.C., Royal Red Cross, lst Cl</Text>
+      <Text>
+        <Honour>A.R.R.C.</Honour>
+      </Text>
       <PageNumber>10047</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -938,7 +980,9 @@
     <MainItem>
       <Key>Slayter</Key>
       <Forenames>Rear-Adml</Forenames>
-      <Text>. William ' Firth, Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>11575</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -947,7 +991,9 @@
       <Key>Slesinger</Key>
       <Title>Surg. Lt.</Title>
       <Forenames>Edward Gus-</Forenames>
-      <Text>tave, M.B., F.R.C.S., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>10633</PageNumber>
     </MainItem>
     <SubItem>

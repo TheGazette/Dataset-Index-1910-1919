@@ -162,8 +162,8 @@
     <MainItem>
       <Key>Coventry</Key>
       <Title>Adjt.</Title>
-      <Forenames>George St</Forenames>
-      <Text>. J. (temporary Lieut.)</Text>
+      <Forenames>George St. J</Forenames>
+      <Text>. (temporary Lieut.)</Text>
       <PageNumber>5010</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -182,6 +182,14 @@
       <Forenames>Philip Townsend</Forenames>
       <Text>(temporary 2nd Lieut.)</Text>
       <PageNumber>3248</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Hoghton</Key>
+      <Forenames>Guy</Forenames>
+      <Text>(Capt.)</Text>
+      <PageNumber>3416</PageNumber>
     </MainItem>
     <SubItem>
       <Text>Antedated</Text>
@@ -656,8 +664,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Taylor</Key>
-      <Forenames>B. Van S.</Forenames>
-      <Text>(correction of date)</Text>
+      <Forenames>B. Van S</Forenames>
+      <Text>. (correction of date)</Text>
       <PageNumber>3954</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -804,7 +812,9 @@
     <MainItem>
       <Key>Battye</Key>
       <Forenames>Clinton W.</Forenames>
-      <Text>, D.S.O. (Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5499</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -945,7 +955,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Harris</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>: C. D. (temporary Capt., and remain seconded)</Text>
       <PageNumber>5499</PageNumber>
     </MainItem>
@@ -998,7 +1008,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kave</Key>
-      <Text>. John F. B. (temporary Lieut.)</Text>
+      <Forenames>John F. B.</Forenames>
+      <Text>(temporary Lieut.)</Text>
       <PageNumber>4270</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1054,7 +1065,9 @@
     <MainItem>
       <Key>Mansfield</Key>
       <Forenames>William H. C</Forenames>
-      <Text>, D.S.O. (Capt., supernumerary to establishment and remain seconded)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5953</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -557,7 +557,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rao</Key>
-      <Text>., Teiktaum Div&amp;kara</Text>
+      <Text>, Teiktaum Div&amp;kara</Text>
       <PageNumber>3006</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -851,7 +851,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tirivedi</Key>
-      <Text>. .Shivslhankar VitlhaJji Ttrivedi (temp.)</Text>
+      <Text>.Shivslhankar VitlhaJji Ttrivedi (temp.)</Text>
       <PageNumber>2078</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1005,8 +1005,7 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Title>Souza.</Title>
+      <Key>De Souza</Key>
       <Forenames>A. B.</Forenames>
       <Text>(Hon. Lt.)</Text>
       <PageNumber>1232</PageNumber>
@@ -1058,7 +1057,8 @@
   <ItemGroup>
     <MainItem>
       <Key>MacGregor</Key>
-      <Text>. A. H. (Hon. Lt.)</Text>
+      <Forenames>A. H.</Forenames>
+      <Text>(Hon. Lt.)</Text>
       <PageNumber>1232</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1133,14 +1133,17 @@
     <MainItem>
       <Key>Pulleyn</Key>
       <Forenames>G. H.</Forenames>
-      <Text>, M.C. (Hon. Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>146</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Rees</Key>
-      <Text>. Roos (Hon. Capt.)</Text>
+      <Forenames>Roos</Forenames>
+      <Text>(Hon. Capt.)</Text>
       <PageNumber>2073</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1362,7 +1365,10 @@
       <Key>Dumas</Key>
       <Title>Capt.</Title>
       <Forenames>P. W.</Forenames>
-      <Text>, C.B., C.V.O</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.V.O</Honour>
+      </Text>
       <PageNumber>277</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1387,7 +1393,9 @@
       <Key>Woollidomibe</Key>
       <Title>Capt.</Title>
       <Forenames>M.</Forenames>
-      <Text>, C.B</Text>
+      <Text>
+        <Honour>C.B</Honour>
+      </Text>
       <PageNumber>1441</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1397,7 +1405,10 @@
       <Key>Limpus</Key>
       <Title>Sir</Title>
       <Forenames>A. H.</Forenames>
-      <Text>, K.C.M.G., C.B</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>C.B</Honour>
+      </Text>
       <PageNumber>1945</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1406,7 +1417,10 @@
       <Key>Peirse</Key>
       <Title>Sir</Title>
       <Forenames>R. H.</Forenames>
-      <Text>, K.C.B., M.V.O</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+        <Honour>M.V.O</Honour>
+      </Text>
       <PageNumber>3756</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1424,7 +1438,9 @@
     <MainItem>
       <Key>Farquhar</Key>
       <Forenames>R. R</Forenames>
-      <Text>;, C.B. ... ^</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>277</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1466,7 +1482,10 @@
     <MainItem>
       <Key>Allenby</Key>
       <Forenames>R. A.</Forenames>
-      <Text>, M.V.O., D.S.O</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>1946</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1482,7 +1501,9 @@
     <MainItem>
       <Key>Hutchison</Key>
       <Forenames>J.</Forenames>
-      <Text>deM., C.M.G., C.V.O</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>1946</PageNumber>
     </MainItem>
   </ItemGroup>

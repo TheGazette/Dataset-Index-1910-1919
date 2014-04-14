@@ -342,8 +342,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Territorial</Key>
-      <Forenames>Decoration</Forenames>
-      <Text>conferred on Andrew, Capt. and Hon. Maj. J</Text>
+      <Text>
+        <Honour>Decoration</Honour>
+      </Text>
       <PageNumber>335</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -806,8 +807,10 @@
   <SubSectionTitle>6th Gurkha Rifles</SubSectionTitle>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donnell, Maj.-Gen. H. ... .' .</Text>
+      <Key>O'Donnell</Key>
+      <Title>Maj.-Gen.</Title>
+      <Forenames>H.</Forenames>
+      <Text>... .' .</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1381,8 +1384,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>John, R. S.' ...</Text>
+      <Key>St. John</Key>
+      <Forenames>R. S.</Forenames>
+      <Text>' ...</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1458,8 +1462,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Baker</Key>
-      <Title>St.</Title>
-      <Forenames>J</Forenames>
+      <Forenames>St. J</Forenames>
       <Text>; V.</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
@@ -1489,8 +1492,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Browne</Key>
-      <Title>St.</Title>
-      <Forenames>J. A.</Forenames>
+      <Title>St. J.</Title>
+      <Forenames>A.</Forenames>
       <Text>...</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>

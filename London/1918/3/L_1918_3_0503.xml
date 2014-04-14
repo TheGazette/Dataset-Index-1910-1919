@@ -82,7 +82,10 @@
       <Key>Chappie</Key>
       <Title>Sir</Title>
       <Forenames>J. H. G.</Forenames>
-      <Text>, K.C.B., C.V.O</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+        <Honour>C.V.O</Honour>
+      </Text>
       <PageNumber>7943</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -595,7 +598,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Smale</Key>
-      <Text>. W. G</Text>
+      <Forenames>W. G.</Forenames>
       <PageNumber>9701</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -643,7 +646,9 @@
     <MainItem>
       <Key>Murray</Key>
       <Forenames>E. P. W. G</Forenames>
-      <Text>, D.S.O. (speoia.ly promoted for War service)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>11092</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -776,7 +781,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hogan</Key>
-      <Text>. W. D</Text>
+      <Forenames>W. D</Forenames>
       <PageNumber>8200</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -786,7 +791,9 @@
     <MainItem>
       <Key>Campbell</Key>
       <Forenames>R. B.</Forenames>
-      <Text>, M.D., F.R.C.P. (temp)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>7943</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -818,8 +825,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Colson</Key>
-      <Forenames>H. St</Forenames>
-      <Text>. C, M.B</Text>
+      <Forenames>H. St. C</Forenames>
+      <Text>, M.B</Text>
       <PageNumber>8597</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -870,7 +877,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Buchanan</Key>
-      <Text>. G., MB. (temp.)</Text>
+      <Forenames>G.</Forenames>
+      <Text>
+        <Honour>MB</Honour>
+      </Text>
       <PageNumber>9114</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -998,7 +1008,9 @@
     <MainItem>
       <Key>Morse</Key>
       <Forenames>H. D.</Forenames>
-      <Text>, M.D. (temp.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>9009</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1010,7 +1022,6 @@
       <PageNumber>9576</PageNumber>
     </MainItem>
   </ItemGroup>
-  <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
   <SectionTitle>Chaplain and Naval Instructor</SectionTitle>
   <SubSubSectionTitle>Retired List</SubSubSectionTitle>
   <ItemGroup>
@@ -1235,20 +1246,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Brockman</Key>
-      <Forenames>E. St</Forenames>
-      <Text>. J. (Lt.)</Text>
+      <Forenames>E. St. J</Forenames>
+      <Text>. (Lt.)</Text>
       <PageNumber>10548</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>J. D.</Forenames>
-      <Text>(proby. 2nd Lt.)</Text>
+    <SubItem>
+      <Text>J. D. (proby. 2nd Lt.)</Text>
       <PageNumber>10661</PageNumber>
-    </MainItem>
+    </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
@@ -1273,16 +1278,10 @@
       <Text>(2nd Lt. on prob. and temp. Lt.)</Text>
       <PageNumber>9009</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>W. G.</Forenames>
-      <Text>(temp. Capt.)</Text>
+    <SubItem>
+      <Text>W. G. (temp. Capt.)</Text>
       <PageNumber>10549</PageNumber>
-    </MainItem>
+    </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
@@ -1326,16 +1325,10 @@
       <Text>(Adjt. and borne supy.)</Text>
       <PageNumber>8611</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>H. E.</Forenames>
-      <Text>(temp. Lt.)</Text>
+    <SubItem>
+      <Text>H. E. (temp. Lt.)</Text>
       <PageNumber>7942</PageNumber>
-    </MainItem>
+    </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
@@ -1366,7 +1359,9 @@
       <Key>Clifford</Key>
       <Title>temp. Lt.</Title>
       <Forenames>G. M.</Forenames>
-      <Text>(seed, for serv. with M.G.C.)</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>9576</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1436,6 +1431,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Berry</Key>
+      <Forenames>H. A. P.</Forenames>
+      <Text>(Lt.)</Text>
+      <PageNumber>10548</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Dean</Key>
       <Forenames>T.R.</Forenames>
       <Text>(temp. 2nd Lt.)</Text>
@@ -1500,8 +1503,8 @@
   <ItemGroup>
     <MainItem>
       <Key>English</Key>
-      <Forenames>F. St</Forenames>
-      <Text>. G. (proby. 2nd Lt.)</Text>
+      <Forenames>F. St. G</Forenames>
+      <Text>. (proby. 2nd Lt.)</Text>
       <PageNumber>10661</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1513,6 +1516,5 @@
       <PageNumber>7942</PageNumber>
     </MainItem>
   </ItemGroup>
-  <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
 </Index>
 

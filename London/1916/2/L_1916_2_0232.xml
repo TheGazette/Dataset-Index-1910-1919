@@ -161,17 +161,17 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Domaine</Forenames>
-      <Text>, A. R. (Lt.)</Text>
+      <Key>Du Domaine</Key>
+      <Forenames>A. R.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>6426</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Heaume</Forenames>
-      <Text>, F. H. (2nd Lt. on probation)</Text>
+      <Key>Du Heaume</Key>
+      <Forenames>F. H.</Forenames>
+      <Text>(2nd Lt. on probation)</Text>
       <PageNumber>5715</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -210,7 +210,11 @@
       <PageNumber>5212</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Lt.-Col. Rt. Hon. W. H., Earl of, G.C.B., G.C.M.G., G.C.V.O. (seconded)</Text>
+      <Text>
+        <Honour>G.C.B.</Honour>
+        <Honour>G.C.M.G.</Honour>
+        <Honour>G.C.V.O.</Honour>
+      </Text>
       <PageNumber>4814</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -284,7 +288,9 @@
       <Key>Dugmore</Key>
       <Title>Lt.-Col. (Capt. Beserve of Officers)</Title>
       <Forenames>W. F. B. R.</Forenames>
-      <Text>, D.S.O. (relinquishes his commission in the Territorial Force on ceasing to command a Battalion)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4032</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -954,7 +960,9 @@
       <Key>Egerton</Key>
       <Title>Capt.</Title>
       <Forenames>A.F.</Forenames>
-      <Text>, D.S.O. (temp. Lt.-Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5744</PageNumber>
     </MainItem>
     <SubItem>

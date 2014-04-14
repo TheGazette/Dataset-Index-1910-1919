@@ -253,12 +253,12 @@
   <ItemGroup>
     <MainItem>
       <Key>Wilks</Key>
-      <Forenames>B. St</Forenames>
-      <Text>. C. {actg. Capt.)</Text>
+      <Forenames>B. St. C</Forenames>
+      <Text>. {actg. Capt.)</Text>
       <PageNumber>4429</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Lt</Text>
+      <Text>Lt.</Text>
       <PageNumber>6373</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -433,7 +433,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>G. E.</Forenames>
-      <Text>, I.S.O. (Lt.)</Text>
+      <Text>
+        <Honour>I.S.O</Honour>
+      </Text>
       <PageNumber>7561</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -457,7 +459,7 @@
       <PageNumber>6378</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Lt</Text>
+      <Text>Lt.</Text>
       <PageNumber>6373</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -497,7 +499,7 @@
       <PageNumber>5517</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>, Aotg. Capt., comdg. a Co</Text>
+      <Text>, Aotg. Capt., comdg. a Co.</Text>
       <PageNumber>5517</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -514,8 +516,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>D. F. St</Forenames>
-      <Text>. J. (2nd Lt.),</Text>
+      <Forenames>D. F. St. J</Forenames>
+      <Text>. (2nd Lt.),</Text>
       <PageNumber>5521</PageNumber>
     </MainItem>
     <SubItem>
@@ -526,7 +528,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wor</Key>
-      <Text>.den, C. is. {Lt.)</Text>
+      <Text>den, C. is. {Lt.)</Text>
       <PageNumber>5664</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -725,7 +727,9 @@
       <Key>Ogilvie</Key>
       <Title>Lt.-Col. (T./Col.)</Title>
       <Forenames>W. H.</Forenames>
-      <Text>, C.M.G*., M.B. (Bt.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>7423</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -733,7 +737,9 @@
     <MainItem>
       <Key>Pridmore</Key>
       <Forenames>W. G.</Forenames>
-      <Text>, C.M.G., M.B</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>6123</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -741,7 +747,9 @@
     <MainItem>
       <Key>Smith</Key>
       <Forenames>J. B.</Forenames>
-      <Text>, C.B., M.B</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>4579</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -758,7 +766,11 @@
     <MainItem>
       <Key>Connor</Key>
       <Forenames>F. P.</Forenames>
-      <Text>, D.S.O., F.R.C.S. {Bt.} ..:</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>F.R.C.S.</Honour>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>6963</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -781,7 +793,11 @@
     <MainItem>
       <Key>Lloyd</Key>
       <Forenames>R. A.</Forenames>
-      <Text>, D.S.O., M.D. (Bt.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.D.</Honour>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>6963</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -789,7 +805,10 @@
     <MainItem>
       <Key>Liunham</Key>
       <Forenames>J. L.</Forenames>
-      <Text>, M.B., F.R.C.S. (Bt.)</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>6926</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -797,7 +816,9 @@
     <MainItem>
       <Key>Needham</Key>
       <Forenames>R. A.</Forenames>
-      <Text>, D.S.O., M.B. (retains temp, rank whilst holding appt. of .Dep. Dir.-Gen.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6123</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -902,7 +923,9 @@
     <MainItem>
       <Key>Urwin</Key>
       <Forenames>J. J.</Forenames>
-      <Text>, M.B., F.R.C.S. (while comdg. Ind. Cav. Field Ambulance), Sub. Not</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>6685</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -918,7 +941,9 @@
     <MainItem>
       <Key>Williams</Key>
       <Forenames>H. A.</Forenames>
-      <Text>, D.S.O., M.B. (rel. 'actg. rank on ceasing 'to comd. troops on a Hosp. Ship)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6685</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -958,7 +983,10 @@
     <MainItem>
       <Key>Paton</Key>
       <Forenames>W. C</Forenames>
-      <Text>, M.C., M.B.' (Bt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>6927</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -974,7 +1002,9 @@
     <MainItem>
       <Key>Purvis</Key>
       <Forenames>H. P.</Forenames>
-      <Text>, M.C (Bt.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>6964</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -982,7 +1012,10 @@
     <MainItem>
       <Key>Sinton</Key>
       <Forenames>J. A.</Forenames>
-      <Text>, V.C., M.B. (Bt.)</Text>
+      <Text>
+        <Honour>V.C.</Honour>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>6951</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1032,7 +1065,9 @@
     <MainItem>
       <Key>Riddell</Key>
       <Forenames>W. H.</Forenames>
-      <Text>, M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>5805</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1387,8 +1422,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Netto</Key>
+      <Forenames>F .</Forenames>
+      <PageNumber>6683</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Devindra</Key>
-      <Text>.Singh Otto</Text>
+      <Forenames>Singh Otto</Forenames>
       <PageNumber>6683</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1396,7 +1438,9 @@
     <MainItem>
       <Key>Dhan</Key>
       <Forenames>Raj Bhasin</Forenames>
-      <Text>, M.M., E.S.,</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>6683</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -901,7 +901,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Du</Key>
-      <Text>Boisson, R. H. (2nd Lt.)</Text>
+      <Forenames>Boisson</Forenames>
+      <Text>, R. H. (2nd Lt.)</Text>
       <PageNumber>10239</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1110,7 +1111,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Duke-Williams</Key>
-      <Text>Lt. R. (temp. Capt.)</Text>
+      <Title>Lt.</Title>
+      <Forenames>R.</Forenames>
+      <Text>(temp. Capt.)</Text>
       <PageNumber>9661</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1309,7 +1312,7 @@
       <PageNumber>10239</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>2nd Lt</Text>
+      <Text>2nd Lt.</Text>
       <PageNumber>11886</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1379,7 +1382,9 @@
       <Key>Dundas</Key>
       <Title>Capt. Sir</Title>
       <Forenames>H.</Forenames>
-      <Text>H. P.,' Bt, (temp. Capt.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>10164</PageNumber>
     </MainItem>
     <SubItem>
@@ -1785,7 +1790,9 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>G. B.</Forenames>
-      <Text>, M.D. (Capt.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>9753</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1820,7 +1827,9 @@
       <Key>Eames</Key>
       <Title>Maj.</Title>
       <Forenames>C. W.</Forenames>
-      <Text>, M.D. (temp. Lt.-Col.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>10504</PageNumber>
     </MainItem>
   </ItemGroup>

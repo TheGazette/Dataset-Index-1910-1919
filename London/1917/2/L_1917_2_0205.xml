@@ -38,7 +38,7 @@
       <PageNumber>6010</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Aotg. Capt. ... »</Text>
+      <Text>Aotg. Capt. ... ».</Text>
       <PageNumber>6491</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -80,7 +80,9 @@
       </Key>
       <Title>Lt. (temp. Caipt.)</Title>
       <Forenames>J. W.</Forenames>
-      <Text>, M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>4037</PageNumber>
     </MainItem>
     <SubItem>
@@ -236,7 +238,7 @@
       <PageNumber>3907</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Temp. Capt</Text>
+      <Text>Temp. Capt.</Text>
       <PageNumber>3907</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -316,7 +318,7 @@
       <PageNumber>3603</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Temp. Maj</Text>
+      <Text>Temp. Maj.</Text>
       <PageNumber>5596</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -413,7 +415,10 @@
       </Key>
       <Title>Lt.-Col.</Title>
       <Forenames>J. G.</Forenames>
-      <Text>, C.M.G., D.S.O. (Dep. Asst. Dir. of Remts.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3208</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -811,7 +816,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Fall</Key>
-      <Text>temp. 2nd Lt. H. (Flying Offr.)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>H.</Forenames>
+      <Text>(Flying Offr.)</Text>
       <PageNumber>6485</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -934,7 +941,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fanthorpe</Key>
-      <Text>T.t. R. (temp. Capt.)</Text>
+      <Forenames>T.</Forenames>
+      <Text>t. R. (temp. Capt.)</Text>
       <PageNumber>6273</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -959,7 +967,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Farfoon</Key>
-      <Text>Cadet S. E. (temp. 2nd ILt., attd.)</Text>
+      <Title>Cadet</Title>
+      <Forenames>S. E.</Forenames>
+      <Text>(temp. 2nd ILt., attd.)</Text>
       <PageNumber>3923</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -968,7 +978,9 @@
       <Key>Fargus</Key>
       <Title>Maj. (temp. Lt.-Col.)</Title>
       <Forenames>N. H. S.</Forenames>
-      <Text>, D.S.O. (rel. temp, rank)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3762</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1018,7 +1030,9 @@
       <Key>Farmar</Key>
       <Title>Maj. (temp. I/t.-Col.)</Title>
       <Forenames>H. M.</Forenames>
-      <Text>, D.S.O. (Brevet Lt.-Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5464</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1412,14 +1426,18 @@
       <Key>Farran</Key>
       <Title>Capt. (temp. Maj.)</Title>
       <Forenames>G. L.</Forenames>
-      <Text>, M.C. (temp. Lt.-Col.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4635</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Farrance</Key>
-      <Text>2nd Lt. H. (Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>H.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>3758</PageNumber>
     </MainItem>
   </ItemGroup>

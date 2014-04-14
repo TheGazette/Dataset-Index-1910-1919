@@ -52,8 +52,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Pentheny-O</Key>
-      <Text>'Kelly, Maj. E. J. (to comd. a Bn. and be temp. Lt.-Col.)</Text>
+      <Key>Pentheny-O'Kelly</Key>
+      <Title>Maj.</Title>
+      <Forenames>E. J.</Forenames>
+      <Text>(to comd. a Bn. and be temp. Lt.-Col.)</Text>
       <PageNumber>1788</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -125,7 +127,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ste</Key>
-      <Text>. Croix, temp. Lt. (actg. Capt.) L. L. (temp. Capt. and retain Staff appt.)</Text>
+      <Forenames>Croix</Forenames>
+      <Text>, temp. Lt. (actg. Capt.) L. L. (temp. Capt. and retain Staff appt.)</Text>
       <PageNumber>2444</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -165,7 +168,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Satge</Key>
-      <Text>de Thoren, Lt. L. A. (rel. rank of temp. Capt.)</Text>
+      <Forenames>de Thoren</Forenames>
+      <Text>, Lt. L. A. (rel. rank of temp. Capt.)</Text>
       <PageNumber>1366</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -271,7 +275,9 @@
       <Key>Winton</Key>
       <Title>Col.</Title>
       <Forenames>C.</Forenames>
-      <Text>, C.M.G. (having attained age limit placed on ret. pay and to be Hon. Brig.Gen.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>1354</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -379,11 +385,15 @@
       <PageNumber>3073</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>temp. Lt. A. G., M.C. (actg. Adjt. and actg. Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1415</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>C, M.D. (temp. Lt.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>1627</PageNumber>
     </SubItem>
     <SubItem>
@@ -415,7 +425,9 @@
       <PageNumber>413</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>temp. Lt. (acts. Capt.) H. V., M.C. (actg. Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>964</PageNumber>
     </SubItem>
     <SubItem>
@@ -454,7 +466,9 @@
       <PageNumber>3103</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>temp. Maj. F. G. W., F.R.C.S. Edin. (trd.)</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>244</PageNumber>
     </SubItem>
     <SubItem>
@@ -604,7 +618,9 @@
       <Key>Debono</Key>
       <Title>temp. Lt.</Title>
       <Forenames>G. F.</Forenames>
-      <Text>, M.C. (attd.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2692</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -631,7 +647,10 @@
       <Key>Deedes</Key>
       <Title>Maj. and Bt. Lt.-Col.</Title>
       <Forenames>C. P.</Forenames>
-      <Text>, C.M.G., D.S.O. (Brevet Col.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>14</PageNumber>
     </MainItem>
     <SubItem>

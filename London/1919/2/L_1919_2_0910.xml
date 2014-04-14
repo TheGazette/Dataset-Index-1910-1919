@@ -159,7 +159,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Webb-Bowen</Key>
-      <Text>' Col. T. I., C.M.G. (actg. Brie.-Gen. whilst an Area 'Comdr.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>5800</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -240,7 +242,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>John</Forenames>
-      <Text>, 'M.C. (trd. to unempld. list)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4219</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -445,7 +449,9 @@
       </Key>
       <Title>Lt.-Col. (actg. Brig.-Gen.)</Title>
       <Forenames>J. G.</Forenames>
-      <Text>, C.M.G. (trd. to uriempld. list)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>4224</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -483,7 +489,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Welbv</Key>
-      <Text>. 2nd Lt. E. E. (trd. to unempld. list)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>E. E.</Forenames>
+      <Text>(trd. to unempld. list)</Text>
       <PageNumber>5204</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -505,7 +513,9 @@
       </Key>
       <Title>Lt. (actg. Capt.)</Title>
       <Forenames>I.</Forenames>
-      <Text>, M.C. (trd. to unempld. list)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4422</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -614,7 +624,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Weller</Key>
-      <Text>. 2nd Lt, H. H. (actg. Lt. while Lt., Gr. A)</Text>
+      <Text>2nd Lt, H. H. (actg. Lt. while Lt., Gr. A)</Text>
       <PageNumber>7557</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -924,7 +934,10 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>F. M. F.</Forenames>
-      <Text>, V.C., M.C. (actig-. Capt. whilst Liaison Officer forAirlntell.)</Text>
+      <Text>
+        <Honour>V.C.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6521</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1190,7 +1203,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wevell</Key>
-      <Text>. Overseas Cadet A. (temp. 2nd Lt.)</Text>
+      <Forenames>Overseas</Forenames>
+      <Text>Cadet A. (temp. 2nd Lt.)</Text>
       <PageNumber>7436</PageNumber>
     </MainItem>
   </ItemGroup>

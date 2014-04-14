@@ -51,7 +51,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stidston</Key>
-      <Text>temp. 2nd Lt,, attd., P. J. (temp. 2nd Lt.)</Text>
+      <Title>temp.</Title>
+      <Text>2nd Lt,, attd., P. J. (temp. 2nd Lt.)</Text>
       <PageNumber>9234</PageNumber>
     </MainItem>
     <SubItem>
@@ -161,7 +162,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Still</Key>
-      <Text>Batt. Sjt.-Maj. A. (2nd Lt.)</Text>
+      <Title>Batt. Sjt.-Maj.</Title>
+      <Forenames>A.</Forenames>
+      <Text>(2nd Lt.)</Text>
       <PageNumber>7101</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -210,7 +213,9 @@
       <PageNumber>6956</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>Stipe, temp. Lt. R., M.D. (temp. Capt.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>6924</PageNumber>
     </SubItem>
     <SubItem>
@@ -221,6 +226,7 @@
       <Text>
         <PageNumber>9363</PageNumber>
         <PageNumber>9521</PageNumber>
+        <Honour>M.C.</Honour>
       </Text>
       <PageNumber>6648</PageNumber>
     </SubItem>
@@ -391,7 +397,9 @@
       </Key>
       <Title>Lt. (temp. Capt.)</Title>
       <Forenames>G. N.</Forenames>
-      <Text>, M.C., (actg. Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8508</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -547,7 +555,9 @@
       </Key>
       <Title>Col. and Hon. Brig.-Gen.</Title>
       <Forenames>G. C. I.</Forenames>
-      <Text>, D.S.O. (retires on ret. pay on acc. of ill-health)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6684</PageNumber>
     </MainItem>
     <SubItem>
@@ -619,7 +629,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>T</Forenames>
-      <Text>temp. Lt. R. H., M.D. (temp. Capt.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>10004</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -883,7 +895,10 @@
       </Key>
       <Title>temp. Maj.</Title>
       <Forenames>R.</Forenames>
-      <Text>, D.S.O., M.C.(actg. Lt.-Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8090</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -953,7 +968,9 @@
       <Key>Stokoe</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>T. R.</Forenames>
-      <Text>, D.S.O. (to comd. a Bn. tempy.) ..'</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8525</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -962,7 +979,9 @@
       <Key>Stone</Key>
       <Title>temp. Lt.</Title>
       <Forenames>C. H.</Forenames>
-      <Text>, M.C. (actg. Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8218</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -256,7 +256,9 @@
     <MainItem>
       <Key>Trewlawney</Key>
       <Forenames>C. E. D.</Forenames>
-      <Text>, R.D. (placed on retd. list with rank of Odr.)</Text>
+      <Text>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>11715</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -428,7 +430,7 @@
   <ItemGroup>
     <MainItem>
       <Key>WatsonA</Key>
-      <Text>(temp. Sub-Lt.)</Text>
+      <Title>(temp. Sub-Lt.)</Title>
       <PageNumber>12492</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -477,7 +479,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wheabfc</Key>
-      <Text>H. A. (temp. Lt.)</Text>
+      <Forenames>H. A.</Forenames>
+      <Text>(temp. Lt.)</Text>
       <PageNumber>14482</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -609,7 +612,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Windle</Key>
-      <Text>N. W. (temp. Pa.yr. Lt.)</Text>
+      <Forenames>N. W.</Forenames>
+      <Text>(temp. Pa.yr. Lt.)</Text>
       <PageNumber>14570</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1024,7 +1028,9 @@
     <MainItem>
       <Key>Blaokmore</Key>
       <Forenames>R. F</Forenames>
-      <Text>E., M.C. (temp. (Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>11557</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1168,7 +1174,7 @@
       <PageNumber>12705</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Temp. Pavr. Sub-Lt</Text>
+      <Text>Temp. Pavr. Sub-Lt.</Text>
       <PageNumber>14956</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1490,6 +1496,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Courcy</Key>
+      <Forenames>J. V.</Forenames>
+      <Text>(temp. SubLt.)</Text>
+      <PageNumber>13608</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Dean</Key>
       <Title>temp. Lt.</Title>
       <Forenames>L. E. H.</Forenames>
@@ -1623,8 +1637,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Emerson</Key>
-      <Forenames>E. St</Forenames>
-      <Text>. J. (temp. Lt.)</Text>
+      <Forenames>E. St. J</Forenames>
+      <Text>. (temp. Lt.)</Text>
       <PageNumber>13608</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1647,7 +1661,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fisher</Key>
-      <Text>L. C. (temp. Sub-Lt.)</Text>
+      <Forenames>L. C.</Forenames>
+      <Text>(temp. Sub-Lt.)</Text>
       <PageNumber>11973</PageNumber>
     </MainItem>
   </ItemGroup>

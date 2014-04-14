@@ -93,8 +93,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, William B. S. (temporary Lieut.)</Text>
+      <Key>O'Brien</Key>
+      <Forenames>William B. S.</Forenames>
+      <Text>(temporary Lieut.)</Text>
       <PageNumber>4240</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -359,8 +360,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Woolhouse</Key>
-      <Title>(temporary)</Title>
-      <Forenames>Lieut</Forenames>
+      <Title>(temporary) Lieut</Title>
       <Text>, and Adjt. Eric G. C. (correction of date)</Text>
       <PageNumber>3431</PageNumber>
     </MainItem>
@@ -502,7 +502,9 @@
     <MainItem>
       <Key>Collins</Key>
       <Forenames>Angus E.</Forenames>
-      <Text>, D.S.O. (temporary .Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4781</PageNumber>
     </MainItem>
     <SubItem>
@@ -514,7 +516,9 @@
     <MainItem>
       <Key>Congreve</Key>
       <Forenames>Charles R.</Forenames>
-      <Text>, D.S.O. (Capt.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4629</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -642,7 +646,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hayes</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, and Adjt. Geoffrey (temporary Capt.)</Text>
       <PageNumber>4038</PageNumber>
     </MainItem>
@@ -686,8 +690,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Hughes-Games</Key>
-      <Forenames>Lieut</Forenames>
-      <Text>, (temporary Capt.) Joshua B. (correction)</Text>
+      <Title>Lieut, (temporary Capt.)</Title>
+      <Forenames>Joshua B.</Forenames>
+      <Text>(correction)</Text>
       <PageNumber>5877</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -945,8 +950,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. John, Lieut, the Hon. Rowland T. (temporaryCapt.)</Text>
+      <Key>St. John</Key>
+      <Title>Lieut, the Hon.</Title>
+      <Forenames>Rowland T.</Forenames>
+      <Text>(temporaryCapt.)</Text>
       <PageNumber>4636</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1041,7 +1048,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Waller</Key>
-      <Text>. John W.. (temporary Lieut.)</Text>
+      <Forenames>John W.</Forenames>
+      <Text>. (temporary Lieut.)</Text>
       <PageNumber>6257</PageNumber>
     </MainItem>
   </ItemGroup>

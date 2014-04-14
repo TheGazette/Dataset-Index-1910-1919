@@ -427,7 +427,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fisher</Key>
-      <Text>. William Henry (2nd Lieut.)</Text>
+      <Forenames>William Henry</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>6150</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -759,7 +760,9 @@
       <Key>Crane</Key>
       <Title>Maj.</Title>
       <Forenames>Charles Paston</Forenames>
-      <Text>, D.S.O. (temporary Lieut.-Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4545</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -898,8 +901,8 @@
     <MainItem>
       <Key>Bate</Key>
       <Title>2nd Lieut.</Title>
-      <Forenames>Robert E.</Forenames>
-      <Text>de B. (correction of date)</Text>
+      <Forenames>Robert E. de B</Forenames>
+      <Text>. (correction of date)</Text>
       <PageNumber>4770</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1126,8 +1129,8 @@
     <MainItem>
       <Key>Surridge</Key>
       <Title>Lieut.</Title>
-      <Forenames>Stewart O</Forenames>
-      <Text>'R. (temporary Capt.)</Text>
+      <Forenames>Stewart O'R</Forenames>
+      <Text>. (temporary Capt.)</Text>
       <PageNumber>5097</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1161,7 +1164,9 @@
       <Key>Wilkinson</Key>
       <Title>Capt.</Title>
       <Forenames>Henry T. D.</Forenames>
-      <Text>, D.S.O. (temporary Capt.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4044</PageNumber>
     </MainItem>
   </ItemGroup>

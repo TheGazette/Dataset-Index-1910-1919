@@ -21,7 +21,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Giveen</Key>
-      <Text>Lt. C. M. (A.D.C., &amp; reL actg. rank of Capt.)</Text>
+      <Text>
+        <Honour>A.D.C.</Honour>
+      </Text>
       <PageNumber>9421</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -30,7 +32,9 @@
       <Key>Gloag</Key>
       <Title>temp. Maj.</Title>
       <Forenames>M. W.</Forenames>
-      <Text>(A.D.C., &amp; trd. to Gen. List)</Text>
+      <Text>
+        <Honour>A.D.C.</Honour>
+      </Text>
       <PageNumber>9943</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -39,7 +43,11 @@
       <Key>Glubb</Key>
       <Title>Maj.-Gen. Sir</Title>
       <Forenames>F. M.</Forenames>
-      <Text>, K.C.M.G., C.B., D.S.O. (Chief</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>9326</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -48,7 +56,9 @@
       <Key>Glynn</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>T. G. P.</Forenames>
-      <Text>. C.M.G., 1C4B</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>5</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -57,7 +67,9 @@
       <Key>Goad</Key>
       <Title>Capt.</Title>
       <Forenames>C. E. G. B.</Forenames>
-      <Text>, M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>11534</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -84,7 +96,9 @@
       <Key>Gogarty</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>H. E.</Forenames>
-      <Text>, D.S.O. (A.A.G)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>9552</PageNumber>
     </MainItem>
     <SubItem>
@@ -106,7 +120,9 @@
       <Key>Goldney</Key>
       <Title>Maj.</Title>
       <Forenames>H. W.</Forenames>
-      <Text>M.C., Brig. Maj. and seed.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8264</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -142,7 +158,9 @@
       <Key>Gooch</Key>
       <Title>Capt.</Title>
       <Forenames>R. F. K.</Forenames>
-      <Text>, M.C. (1st Asst. Supt., &amp; seed.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>11406</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -169,7 +187,9 @@
       <Key>Gordon</Key>
       <Title>Capt.</Title>
       <Forenames>A. H.</Forenames>
-      <Text>(rel. appt. as A.D.C.)</Text>
+      <Text>
+        <Honour>A.D.C.</Honour>
+      </Text>
       <PageNumber>7874</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -211,7 +231,9 @@
       <Key>Gordon-Cumming</Key>
       <Title>Capt.</Title>
       <Forenames>A. P.</Forenames>
-      <Text>, M.C. (Brig. Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9207</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -227,7 +249,12 @@
   <ItemGroup>
     <MainItem>
       <Key>Gorell</Key>
-      <Text>. temp. Capt. R. G., Lord, O.B.E., M.C. (rel. appt. as G.S.O., 2nd Gr., &amp; rel. temp. rank of Maj.)</Text>
+      <Title>temp. Capt.</Title>
+      <Forenames>R. G.</Forenames>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9421</PageNumber>
     </MainItem>
     <SubItem>
@@ -248,8 +275,8 @@
     <MainItem>
       <Key>Gorton</Key>
       <Title>Bt. Col.</Title>
-      <Forenames>R. St</Forenames>
-      <Text>. G. (Brig.Gen. &amp; temp. Brig.-Gen)</Text>
+      <Forenames>R. St. G</Forenames>
+      <Text>. (Brig.Gen. &amp; temp. Brig.-Gen)</Text>
       <PageNumber>10835</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -264,7 +291,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Gough</Key>
-      <Text>. temp. Capt. A. T. (Brig.Maj.)</Text>
+      <Title>temp. Capt.</Title>
+      <Forenames>A. T.</Forenames>
+      <Text>(Brig.Maj.)</Text>
       <PageNumber>9094</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -275,7 +304,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>G. P.</Forenames>
-      <Text>(A.D.C.)</Text>
+      <Text>
+        <Honour>A.D.C.</Honour>
+      </Text>
       <PageNumber>9421</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -322,7 +353,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Graham</Key>
-      <Text>. Maj. (temp. Lt.-Col.) C. P., D.S.O. (Prov.-Marshal, CI. X. &amp; retain temp, rank)</Text>
+      <Title>Maj. (temp. Lt.-Col.)</Title>
+      <Forenames>C. P.</Forenames>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>10841</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -333,7 +368,10 @@
       </Key>
       <Title>Maj., Lord</Title>
       <Forenames>D. M.</Forenames>
-      <Text>, D.S.O., M.C. (G.S.O., 1st Gr., &amp; tamp. Lt.-Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>11510</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -344,7 +382,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>J. M.</Forenames>
-      <Text>(rel. appt. as A.D.C.)</Text>
+      <Text>
+        <Honour>A.D.C.</Honour>
+      </Text>
       <PageNumber>7874</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -373,7 +413,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Grant</Key>
-      <Text>. Capt. (now Maj.) R. C</Text>
+      <Title>Capt. (now Maj.)</Title>
+      <Forenames>R. C.</Forenames>
       <PageNumber>10157</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -411,7 +452,9 @@
       <Key>Greenhough</Key>
       <Title>temp. Maj. (temp. Col.)</Title>
       <Forenames>F. H.</Forenames>
-      <Text>, D.S.O. (Dep. Dir. of Inland Water Trans.) (Chief Constn. Engr.) (CI. T), . corr. of surname</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>9417</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -420,7 +463,9 @@
       <Key>Greenwall</Key>
       <Title>Maj. (temp. Lt.-Col.)</Title>
       <Forenames>W. B.</Forenames>
-      <Text>, D.S.O. (spec, appt., CI. BB, and retain temp, rank)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>9435</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -456,7 +501,10 @@
       <Key>Grenfell</Key>
       <Title>Col. (Hon. Brig.-Gen.)</Title>
       <Forenames>H. M.</Forenames>
-      <Text>, C.M.G., M.V.O. (rel. spec. appt.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>11391</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -477,7 +525,9 @@
     <MainItem>
       <Key>Gribbon</Key>
       <Title>Bt. Lt.</Title>
-      <Text>nCol. W. K., C.M.G. (temp. G.S.O., 1st Gr.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>10098</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -597,7 +647,10 @@
       <Key>Guggisberg</Key>
       <Title>Lt.-Col. (temp. Brig.Gen.)</Title>
       <Forenames>F.</Forenames>
-      <Text>IG., C.M.G., D.S.O. (Asst. Inspr. of Training, and retain temp, rank)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>10485</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -605,7 +658,9 @@
     <MainItem>
       <Key>Gurnam</Key>
       <Forenames>Singh</Forenames>
-      <Text>, Hon. Maj. (A.D.C. Extra)</Text>
+      <Text>
+        <Honour>A.D.C.</Honour>
+      </Text>
       <PageNumber>11533</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -614,7 +669,9 @@
       <Key>Guthrie</Key>
       <Title>Lt.</Title>
       <Forenames>P. S.</Forenames>
-      <Text>(A.D.C. and seed.)</Text>
+      <Text>
+        <Honour>A.D.C.</Honour>
+      </Text>
       <PageNumber>9325</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -623,7 +680,9 @@
       <Key>Gwatkin</Key>
       <Title>Capt.</Title>
       <Forenames>F.</Forenames>
-      <Text>, M.C. (Brig. Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10732</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -632,7 +691,9 @@
       <Key>Gwyn-Thomas</Key>
       <Title>Lt.-Col. (temp. Brig.^Gen.)</Title>
       <Forenames>G.</Forenames>
-      <Text>, D.S.O. (Brig. Comdr., and retain temp. rank)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>11235</PageNumber>
     </MainItem>
     <SubItem>

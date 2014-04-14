@@ -95,7 +95,9 @@
     <MainItem>
       <Key>Hallowell-Carew</Key>
       <Title>Lt.</Title>
-      <Text>-Cdr. Robert Raymond, Companion, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>6504</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -110,8 +112,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Hambleden</Key>
-      <Forenames>Viscountess</Forenames>
-      <Text>, Lady of Grace, St. John of Jerusalem</Text>
+      <Title>Viscountess</Title>
+      <Text>
+        <Honour>Lady of Grace, St. John of Jerusalem</Honour>
+      </Text>
       <PageNumber>7064</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -179,7 +183,11 @@
       </Key>
       <Title>Maj. and Bt. Lt.-Col. (A./Lt.Col.)</Title>
       <Forenames>Ernest Graham</Forenames>
-      <Text>, D.S.O., M.C., Companion, St. Michael and St. George</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>Companion, St. Michael and St. George</Honour>
+      </Text>
       <PageNumber>6922</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -201,7 +209,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>Norman Chivas</Forenames>
-      <Text>, D.S.C., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>6799</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -315,7 +325,9 @@
       </Key>
       <Title>Maj. and Bt. Lt.-Col. (T./Col.)</Title>
       <Forenames>Frederick Dawson</Forenames>
-      <Text>, D.S.O., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6980</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -331,7 +343,9 @@
     <MainItem>
       <Key>Hampton</Key>
       <Forenames>T.</Forenames>
-      <Text>/Lt. Thomas, D.C.M., Member,' Order of the British Empire '</Text>
+      <Text>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>6808</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -463,7 +477,9 @@
       <Key>Handyside</Key>
       <Title>Surgri.</Title>
       <Forenames>Rear-Adml</Forenames>
-      <Text>. Patrick Brodie, C.B., M.B., Knight Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>7050</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -472,7 +488,10 @@
       <Key>Hankey</Key>
       <Title>Maj. (T./Lt.-Col.)</Title>
       <Forenames>John Cyril Giffard Alers</Forenames>
-      <Text>, O.B.E., M.V.O., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>6980</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -543,7 +562,9 @@
     <MainItem>
       <Key>Hanning-Lee</Key>
       <Title>Lt.</Title>
-      <Text>Comdr. . (A./ Comdr.) D.S.O., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5110</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -567,7 +588,9 @@
     <MainItem>
       <Key>Hansell</Key>
       <Forenames>Henry Peter</Forenames>
-      <Text>, M.V.O., Gentleman Usher in Ordinary to the King</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>4412</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -576,7 +599,10 @@
       <Key>Hanson</Key>
       <Title>Sir</Title>
       <Forenames>Charles Augustin</Forenames>
-      <Text>, Bt., Knight of Grace, St. John of Jerusalem .. .;</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>Knight of Grace, St. John of Jerusalem</Honour>
+      </Text>
       <PageNumber>5324</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -627,7 +653,9 @@
       <Key>Harbord</Key>
       <Title>Maj. (T./Brig.-Gen.)</Title>
       <Forenames>Cyril Rodney</Forenames>
-      <Text>, D.S.O., Companion, St, Michael and St. George</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6922</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -670,7 +698,9 @@
       <Key>Hardie</Key>
       <Title>Maj. (A./Lt.-Col.)</Title>
       <Forenames>John Leslie</Forenames>
-      <Text>, D.S.O., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6812</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -743,8 +773,8 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Title>Capt.</Title>
-      <Forenames>Kenneth O</Forenames>
-      <Text>'Brien, Officer, Order of the British Empire</Text>
+      <Forenames>Kenneth O'Brien</Forenames>
+      <Text>, Officer, Order of the British Empire</Text>
       <PageNumber>6961</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -766,7 +796,9 @@
       </Key>
       <Title>Capt. (T./Col.)</Title>
       <Forenames>Philip Edward</Forenames>
-      <Text>, M.C., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6800</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -777,7 +809,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>Ralph Price</Forenames>
-      <Text>, M.C., Companion, D.S.O</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6821</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -807,7 +841,9 @@
       <Key>Hardisty</Key>
       <Title>Maj. (A./Lt.-Col.)</Title>
       <Forenames>Richard Henry Moore</Forenames>
-      <Text>, M.C, Companion, D.S.O. ..,</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6821</PageNumber>
     </MainItem>
   </ItemGroup>

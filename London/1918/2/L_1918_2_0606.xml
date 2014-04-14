@@ -4,7 +4,9 @@
     <MainItem>
       <Key>Morrison-Scott</Key>
       <Forenames>R. C. H.</Forenames>
-      <Text>, D.S.O. . (temp. Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4301</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -60,8 +62,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, G. G. (temp. Lt.)</Text>
+      <Key>O'Neill</Key>
+      <Forenames>G. G.</Forenames>
+      <Text>(temp. Lt.)</Text>
       <PageNumber>6932</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -175,7 +178,9 @@
     <MainItem>
       <Key>Pilgrim</Key>
       <Forenames>F.</Forenames>
-      <Text>, C.G.M. (temp. 2nd Lt.) '</Text>
+      <Text>
+        <Honour>C.G.M.</Honour>
+      </Text>
       <PageNumber>5195</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -225,7 +230,9 @@
     <MainItem>
       <Key>Rann</Key>
       <Forenames>A. E.</Forenames>
-      <Text>, M.C. (Capt., and rem. seed.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5748</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -342,7 +349,9 @@
       </Key>
       <Title>temp. Lt.</Title>
       <Forenames>W.</Forenames>
-      <Text>, M.O., D.C.M. (actg. Capt.)</Text>
+      <Text>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>7207</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -621,7 +630,11 @@
   <ItemGroup>
     <MainItem>
       <Key>White</Key>
-      <Text>. Col. (temp. Brig.-Gen.) H. S. N., OB., M.V.O. (rel. temp, rank)</Text>
+      <Title>Col. (temp. Brig.-Gen.)</Title>
+      <Forenames>H. S. N.</Forenames>
+      <Text>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>4568</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -696,7 +709,9 @@
     <MainItem>
       <Key>Williamson</Key>
       <Forenames>W. C</Forenames>
-      <Text>, M.C. (temp. Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5480</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -957,9 +972,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Lacy</Forenames>
-      <Text>, W. (temp. Lt.)</Text>
+      <Key>De Lacy</Key>
+      <Forenames>W.</Forenames>
+      <Text>(temp. Lt.)</Text>
       <PageNumber>5481</PageNumber>
     </MainItem>
     <SubItem>
@@ -970,8 +985,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dixon</Key>
-      <Forenames>A. O. St</Forenames>
-      <Text>. J. (temp. Lt.)</Text>
+      <Forenames>A. O. St. J</Forenames>
+      <Text>. (temp. Lt.)</Text>
       <PageNumber>6933</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1415,9 +1430,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Corlandt</Forenames>
-      <Text>, temp. 2nd Lt. F. C. M. (temp. Capt.)</Text>
+      <Key>Van Corlandt</Key>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>F. C. M.</Forenames>
+      <Text>(temp. Capt.)</Text>
       <PageNumber>4138</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1501,7 +1517,9 @@
       <Key>Cantrell</Key>
       <Title>Maj.</Title>
       <Forenames>A. S.</Forenames>
-      <Text>(Bt. Lt.-Col.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>653</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1510,7 +1528,10 @@
       <Key>Forster</Key>
       <Title>Capt.</Title>
       <Forenames>A. L.</Forenames>
-      <Text>, D.S.O. (Bt. Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>65343</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1536,7 +1557,10 @@
     <MainItem>
       <Key>Bamford</Key>
       <Title>Capt.</Title>
-      <Text>E-, D.S.O. (Bt. Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>5991</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1545,7 +1569,10 @@
       <Key>Carpenter</Key>
       <Title>Maj.</Title>
       <Forenames>G.</Forenames>
-      <Text>, D.S.O. (Bt. Lt.Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>6534</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1554,7 +1581,9 @@
       <Key>Chater</Key>
       <Title>Capt.</Title>
       <Forenames>A. R.</Forenames>
-      <Text>(Bt. Maj.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>5991</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1590,7 +1619,9 @@
       <Key>Cooke</Key>
       <Title>Lt.</Title>
       <Forenames>T. F. V.</Forenames>
-      <Text>(Bt. Maj. on promn. to Capt.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>59923</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1598,7 +1629,9 @@
     <MainItem>
       <Key>Curtoys</Key>
       <Title>Col.</Title>
-      <Text>-Comdt. (temp. Brig.Gen.) C. E. E., C.B. (placed on ret. list, and to be Hon. Ma.j.-Gen.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>7485</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1612,10 +1645,20 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Gruohy</Key>
+      <Forenames>F. de Q</Forenames>
+      <Text>. (temp. Hon. 2nd Lt.)</Text>
+      <PageNumber>7322</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Dowdting</Key>
       <Title>Capt.</Title>
       <Forenames>H. E.</Forenames>
-      <Text>(Bt. Maj.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>6534</PageNumber>
     </MainItem>
   </ItemGroup>

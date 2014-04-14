@@ -6,7 +6,7 @@
     <PageNumber>2262</PageNumber>
   </SubItem>
   <SubItem>
-    <Text>Capt.</Text>
+    <Text>Capt</Text>
     <PageNumber>2816</PageNumber>
   </SubItem>
   <ItemGroup>
@@ -153,7 +153,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>D.</Forenames>
-      <Text>(R.A.M.C.) (Capt.. and rem. seed.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1040</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -285,7 +287,9 @@
       </Key>
       <Title>Capt. (actg. iMaj.)</Title>
       <Forenames>F. L</Forenames>
-      <Text>M.C. (rel. actg. rank of Maj. on ceasing to (be 2nd in comd.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2947</PageNumber>
     </MainItem>
     <SubItem>
@@ -386,7 +390,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>H. B. W.</Forenames>
-      <Text>, M.B., F.R.C.S. (restd. to asltibt.)</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>1471</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -408,7 +414,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>H. J.</Forenames>
-      <Text>, M.C., M.B. (restd. to esflbt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3745</PageNumber>
     </MainItem>
     <SubItem>
@@ -541,7 +549,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>J. H.</Forenames>
-      <Text>, M.B.E. (seed, for serv. as Cypher Offr.)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3138</PageNumber>
     </MainItem>
     <SubItem>
@@ -556,7 +566,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>K. E. J.</Forenames>
-      <Text>, M.C. (rel commn. on acc. of ill-health 'caused by wounds, and to be Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1067</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -750,7 +762,9 @@
       </Key>
       <Title>Capt. (actg. Maj.)</Title>
       <Forenames>S.</Forenames>
-      <Text>, M.C. (rel. actg. rank of Maj. on ceasing to comd. a Bty., R.F.A., T.F.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3712</PageNumber>
     </MainItem>
     <SubItem>
@@ -787,7 +801,10 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>S. M.</Forenames>
-      <Text>, C.B., M.B., .F.R.C.S. (restd. to estaibt.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>2729</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -842,7 +859,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>Walter James</Forenames>
-      <Text>, M.C. (rel. aotg. rank Of Ca.pt. on ceasing to 'be 2nd in comd. of a Field Co.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3880</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -973,14 +992,18 @@
       <Key>Smythe</Key>
       <Title>Lt.</Title>
       <Forenames>B. W.</Forenames>
-      <Text>, M.C. (actg. Capt., addtl.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2816</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Snaitfh</Key>
-      <Text>, Capt. E. G., M.C. (trd. to T.F..R-, to resume medical studies)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2555</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1025,14 +1048,21 @@
   <ItemGroup>
     <MainItem>
       <Key>Soanee</Key>
-      <Text>2nd lit. G. E., D.C.M. (Lt.)</Text>
+      <Text>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>707</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Soltuny</Key>
-      <Text>lit.-Col. A. B., C.M.G., O.B.E., M.D., F.R.C.S. (Col.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.D.</Honour>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>2817</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1040,7 +1070,9 @@
     <MainItem>
       <Key>Somerleyton</Key>
       <Forenames>Capt</Forenames>
-      <Text>the Rt. Hon. S. B., Lord, K.C.V.O. (retired, on attaining the age limit)</Text>
+      <Text>
+        <Honour>K.C.V.O.</Honour>
+      </Text>
       <PageNumber>20807</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1102,9 +1134,11 @@
       <Title>2nd Lt.</Title>
       <Forenames>A. G.</Forenames>
       <Text>M.C</Text>
-      <PageNumber>3375</PageNumber>
     </MainItem>
   </ItemGroup>
+  <Honour>
+    <PageNumber>3375</PageNumber>
+  </Honour>
   <ItemGroup>
     <MainItem>
       <Key>
@@ -1148,7 +1182,9 @@
       <Key>Soutten</Key>
       <Title>Lt. (actg. Cant.)</Title>
       <Forenames>A. O .</Forenames>
-      <Text>M.C. (actg. Maj. whilst. 2nd in n comd.), Sub. Not. . :</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1773</PageNumber>
     </MainItem>
   </ItemGroup>

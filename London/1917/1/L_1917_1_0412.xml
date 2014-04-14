@@ -33,7 +33,7 @@
       <PageNumber>2732</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Capt.</Text>
+      <Text>Capt</Text>
       <PageNumber>2870</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -142,7 +142,9 @@
       <Key>Collett</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>H</Forenames>
-      <Text>B., D.S.O. (Comdt.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3083</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -189,7 +191,9 @@
       <Key>Collum</Key>
       <Title>Capt.</Title>
       <Forenames>W. H.</Forenames>
-      <Text>, M.C. (temp. Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2341</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -296,7 +300,7 @@
       <PageNumber>759</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Actg. Maj.</Text>
+      <Text>Actg. Maj</Text>
       <PageNumber>2733</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -311,7 +315,7 @@
       <PageNumber>759</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Tamp. Maj.</Text>
+      <Text>Tamp. Maj</Text>
       <PageNumber>1660</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -329,7 +333,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cope</Key>
-      <Text>.and, Conpl. E. S. (temp. Hon. Lt.)</Text>
+      <Text>and, Conpl. E. S. (temp. Hon. Lt.)</Text>
       <PageNumber>2022</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -490,7 +494,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>L.</Forenames>
-      <Text>(A.D.C.)</Text>
+      <Text>
+        <Honour>A.D.C.</Honour>
+      </Text>
       <PageNumber>3083</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -536,7 +542,9 @@
       <Key>Critchley</Key>
       <Title>Maj.</Title>
       <Forenames>A. C</Forenames>
-      <Text>, D.S.O. (tamp. Lt.-iCol.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>824</PageNumber>
       <PageNumber>939</PageNumber>
     </MainItem>
@@ -554,7 +562,7 @@
       <PageNumber>2869</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Rel. actg. rank of Maj.</Text>
+      <Text>Rel. actg. rank of Maj</Text>
       <PageNumber>920</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -808,7 +816,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Davis</Key>
-      <Text>. Serjt. E. F. (temp. Lt.)</Text>
+      <Title>Serjt.</Title>
+      <Forenames>E. F.</Forenames>
+      <Text>(temp. Lt.)</Text>
       <PageNumber>2355</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -917,18 +927,34 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Klerk</Forenames>
-      <Text>, H. B. (temp. Lt.)</Text>
+      <Key>De Klerk</Key>
+      <Forenames>H. B.</Forenames>
+      <Text>(temp. Lt.)</Text>
       <PageNumber>108</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Knock</Forenames>
-      <Text>, D. J. (temp. Lt.)</Text>
+      <Key>De Knock</Key>
+      <Forenames>D. J.</Forenames>
+      <Text>(temp. Lt.)</Text>
       <PageNumber>2613</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Villiers</Key>
+      <Forenames>G. W.</Forenames>
+      <Text>(temp. 2nd Lt.)</Text>
+      <PageNumber>109</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Wet</Key>
+      <Forenames>D. N.</Forenames>
+      <Text>(temp. Capt.)</Text>
+      <PageNumber>108</PageNumber>
     </MainItem>
     <SubItem>
       <Text>Rel. coimimn</Text>
@@ -944,6 +970,14 @@
       <Forenames>J. C.</Forenames>
       <Text>(trd.)</Text>
       <PageNumber>502</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Wolf</Key>
+      <Forenames>Sapper F. G.</Forenames>
+      <Text>(temp. Lt.)</Text>
+      <PageNumber>1587</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -990,7 +1024,7 @@
       <PageNumber>108</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Sub. Not.</Text>
+      <Text>Sub. Not</Text>
       <PageNumber>2212</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1006,14 +1040,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Devenish</Key>
-      <Text>. J. G. R. (temp. Lt.)</Text>
+      <Forenames>J. G. R.</Forenames>
+      <Text>(temp. Lt.)</Text>
       <PageNumber>2613</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Devine</Key>
-      <Text>. Gnr, H. B. (temp. Lt.)</Text>
+      <Forenames>Gnr</Forenames>
+      <Text>, H. B. (temp. Lt.)</Text>
       <PageNumber>1962</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1038,7 +1074,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Dixon</Key>
-      <Text>. Corpl. W. H. (temp. lit.)</Text>
+      <Title>Corpl.</Title>
+      <Forenames>W. H.</Forenames>
+      <Text>(temp. lit.)</Text>
       <PageNumber>1347</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1079,7 +1117,7 @@
       <PageNumber>1962</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Temp. Lt.</Text>
+      <Text>Temp. Lt</Text>
       <PageNumber>1962</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1102,7 +1140,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Doug</Key>
-      <Text>.aH, actg. Serit. T. iR. (temp. Lt.) ... .'</Text>
+      <Text>aH, actg. Serit. T. iR. (temp. Lt.) ... .'</Text>
       <PageNumber>2524</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1231,7 +1269,7 @@
       <PageNumber>1888</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Trd.</Text>
+      <Text>Trd</Text>
       <PageNumber>1962</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1326,7 +1364,9 @@
       <Key>Elliot</Key>
       <Title>Capt.</Title>
       <Forenames>R. G.</Forenames>
-      <Text>, M.C. (temp Qr.-Mr. and Hon. Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>920</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1375,7 +1415,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Ellis</Key>
-      <Text>. Lt. A. W. (temp. Capt.)</Text>
+      <Title>Lt.</Title>
+      <Forenames>A. W.</Forenames>
+      <Text>(temp. Capt.)</Text>
       <PageNumber>759</PageNumber>
     </MainItem>
     <SubItem>
@@ -1438,7 +1480,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ever</Key>
-      <Text>.*. Bombr. A. R, (temp. Lt.)</Text>
+      <Text>*. Bombr. A. R, (temp. Lt.)</Text>
       <PageNumber>939</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1471,7 +1513,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fallis</Key>
-      <Text>. Lce.-Sjt. E. B. J. (temp. Lt.)</Text>
+      <Title>Lce.</Title>
+      <Text>-Sjt. E. B. J. (temp. Lt.)</Text>
       <PageNumber>2974</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1538,7 +1581,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Feindel</Key>
-      <Text>. Sit. J. H. (temp. Lt.)</Text>
+      <Title>Sit.</Title>
+      <Forenames>J. H.</Forenames>
+      <Text>(temp. Lt.)</Text>
       <PageNumber>108</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1614,7 +1659,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fervier</Key>
-      <Text>. Staff Sjt.-,Maj. J. W. (temp. Lt.)</Text>
+      <Forenames>Staff</Forenames>
+      <Text>Sjt.-,Maj. J. W. (temp. Lt.)</Text>
       <PageNumber>2746</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1741,7 +1787,9 @@
       <Key>Folger</Key>
       <Title>Maj.</Title>
       <Forenames>K. C</Forenames>
-      <Text>, D.S.O. (Dir. of Old. Services and temp. Lt.Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>2260</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1757,7 +1805,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Forbes</Key>
-      <Text>. Pte. L. H. (temp. 2nd Lt</Text>
+      <Title>Pte.</Title>
+      <Forenames>L. H.</Forenames>
+      <Text>(temp. 2nd Lt</Text>
       <PageNumber>386</PageNumber>
     </MainItem>
   </ItemGroup>

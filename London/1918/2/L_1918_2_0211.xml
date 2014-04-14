@@ -58,7 +58,9 @@
     <MainItem>
       <Key>Low</Key>
       <Forenames>Sidney James</Forenames>
-      <Text>, M.A.I., Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>4026</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -119,7 +121,10 @@
       <Key>Lowis</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Penton Shakespear</Forenames>
-      <Text>, D.S.O., Companion, St. Michael and St. George</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, St. Michael and St. George</Honour>
+      </Text>
       <PageNumber>6453</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -135,7 +140,9 @@
     <MainItem>
       <Key>Lowry</Key>
       <Forenames>Arthur Beimore</Forenames>
-      <Text>, Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>6528</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -144,7 +151,10 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>tin, M.C., Companion, D.S.O</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>6459</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -153,7 +163,9 @@
       <Key>Xowsley</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Montagu Mar-</Forenames>
-      <Text>mion, Companion, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>6505</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -162,7 +174,12 @@
       <Key>Xowther</Key>
       <Title>Col. (T./Maj.-Gen.)</Title>
       <Forenames>Henry Cecil</Forenames>
-      <Text>, C.B., C.M.G., C.V.O., D.S.O., Knight Comdr., St. Michael and St. George</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>C.V.O.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6514</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -171,7 +188,9 @@
       <Key>Xuard</Key>
       <Title>Col. (T./Brig.-Gen.)</Title>
       <Forenames>Charles Camac</Forenames>
-      <Text>, Companion, St. Michael and St. George</Text>
+      <Text>
+        <Honour>Companion, St. Michael and St. George</Honour>
+      </Text>
       <PageNumber>6511</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -180,8 +199,11 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Rear-</Forenames>
-      <Text>Admiral John Scott, Companion, Order of the Bath</Text>
+      <Title>Rear-Admiral</Title>
+      <Forenames>John Scott</Forenames>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>6527</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -190,7 +212,10 @@
       <Key>Lucas</Key>
       <Title>Maj. and Bt. Lt.-Col. (T./ Brig.-Gen.)</Title>
       <Forenames>Cuthbert Henry</Forenames>
-      <Text>TindaH, D.S.O., Companion, St. Michael and St. George</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, St. Michael and St. George</Honour>
+      </Text>
       <PageNumber>6453</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -211,7 +236,9 @@
       </Key>
       <Title>Lit. (actg. Maj.)</Title>
       <Forenames>Walter Ran-</Forenames>
-      <Text>dolph, Companion, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>4410</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -231,7 +258,10 @@
       </Key>
       <Title>Col.</Title>
       <Forenames>Richard Harman</Forenames>
-      <Text>, C.B., M.B., F.R.C.S., V.D., Companion, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>4410</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -240,7 +270,10 @@
       <Key>Luck</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Brian John Michael</Forenames>
-      <Text>, D.S.O., Companion, St. Michael and St. George</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, St. Michael and St. George</Honour>
+      </Text>
       <PageNumber>6503</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -249,7 +282,9 @@
       <Key>Luckock</Key>
       <Title>Maj. and Bt. Lt.-Col.</Title>
       <Forenames>Russell Mortimer</Forenames>
-      <Text>, Companion, St. Michael and St. George</Text>
+      <Text>
+        <Honour>Companion, St. Michael and St. George</Honour>
+      </Text>
       <PageNumber>6453</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -258,7 +293,9 @@
       <Key>Lluke</Key>
       <Title>Bit.</Title>
       <Forenames>I</Forenames>
-      <Text>&amp;.-Col. (temp. Brig.Gen.) Thomas Mawe, D.S.O., Officer, Order of the British Empire ,.'</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6715</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -293,11 +330,16 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>lit.-Cod. (Tl/Brig.-Gen.) Frederick William, V.C., D.S.O., 3rd Bar to D.S.O</Text>
-      <PageNumber>4819</PageNumber>
+      <Text>
+        <Honour>V.C.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
     </MainItem>
-    <SubItem>
+    <Honour>
+      <PageNumber>4819</PageNumber>
       <Text>Companion, Order of the Bath</Text>
+    </Honour>
+    <SubItem>
       <PageNumber>6527</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -307,7 +349,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>John</Forenames>
-      <Text>, M.D., Knight Comdr., Order of the British Empire</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>6686</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -352,7 +396,9 @@
     <MainItem>
       <Key>Lunn</Key>
       <Forenames>George</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>4026</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -378,7 +424,9 @@
     <MainItem>
       <Key>Lutyens</Key>
       <Forenames>Edwin Lamdseer</Forenames>
-      <Text>, A.R.A., Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>4026</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -395,7 +443,10 @@
       <Key>Luxton</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Daniel Aston</Forenames>
-      <Text>, D.S.O., Companion, St. Michael and St. George</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, St. Michael and St. George</Honour>
+      </Text>
       <PageNumber>6454</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -423,7 +474,10 @@
     <MainItem>
       <Key>Lyell</Key>
       <Forenames>T.</Forenames>
-      <Text>/Lt.-Col. (T./Col;) David, D.S.O., Companion, St. Michael and St. George</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, St. Michael and St. George</Honour>
+      </Text>
       <PageNumber>6453</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -548,7 +602,9 @@
     <MainItem>
       <Key>McAlpine</Key>
       <Forenames>Robert</Forenames>
-      <Text>, J.P., created_ Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>6524</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -556,7 +612,9 @@
     <MainItem>
       <Key>McAnally</Key>
       <Forenames>Henry W. M.</Forenames>
-      <Text>, Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>6528</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -590,14 +648,20 @@
   <ItemGroup>
     <MainItem>
       <Key>McCall</Key>
-      <Text>. Maj. and Bt. Lt.-Col. Hugh William, Companion, D.S.O</Text>
+      <Title>Maj. and Bt. Lt.-Col.</Title>
+      <Forenames>Hugh William</Forenames>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>6489</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Maccallum</Key>
-      <Text>. Miss Helena Benedicta, RoyalRed Cross, 2nd CI</Text>
+      <Title>Miss</Title>
+      <Forenames>Helena Benedicta</Forenames>
+      <Text>, RoyalRed Cross, 2nd CI</Text>
       <PageNumber>7312</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -606,7 +670,9 @@
       <Key>McCarthy</Key>
       <Title>Miss</Title>
       <Forenames>Emma Maud</Forenames>
-      <Text>, R.R.C., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>R.R.C.</Honour>
+      </Text>
       <PageNumber>6690</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -709,7 +775,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>William</Forenames>
-      <Text>, Companion, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>6459</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -719,7 +787,11 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>T.</Forenames>
-      <Text>/Surg. William James, D.S.O., M.C., M.B., Bar to D.S.O</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>4986</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -736,7 +808,9 @@
     <MainItem>
       <Key>McCraith</Key>
       <Forenames>James William</Forenames>
-      <Text>, Knighted '</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>4026</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -745,7 +819,10 @@
       <Key>McCuaig</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>George Eric</Forenames>
-      <Text>, D.S.O., Companion, St. Michael and St. George</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, St. Michael and St. George</Honour>
+      </Text>
       <PageNumber>6454</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -754,7 +831,11 @@
       <Key>McCudden</Key>
       <Title>2nd Lt. (temp. Capt.)</Title>
       <Forenames>James Byford</Forenames>
-      <Text>, D.S.O., M.C, M.M., Victoria Cross</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.M.</Honour>
+        <Honour>Victoria Cross</Honour>
+      </Text>
       <PageNumber>3997</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -770,7 +851,10 @@
     <MainItem>
       <Key>McCulloch</Key>
       <Forenames>Lt-</Forenames>
-      <Text>Col. (T./Brig.-Gen.) Robert Henry Frederick, D.S.O., Companion, St. Michael and St. George</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, St. Michael and St. George</Honour>
+      </Text>
       <PageNumber>6493</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -806,7 +890,9 @@
       <Key>MacDonald</Key>
       <Title>Lt. (A./Capt.)</Title>
       <Forenames>Angus</Forenames>
-      <Text>MacGillivray, Companion, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>4837</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -842,7 +928,9 @@
       <Key>Macdonald</Key>
       <Title>Maj. and Bt. Lt.-Col.</Title>
       <Forenames>Clarence Reginald</Forenames>
-      <Text>. Companion, St. Michael and St. George</Text>
+      <Text>
+        <Honour>Companion, St. Michael and St. George</Honour>
+      </Text>
       <PageNumber>6514</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -853,7 +941,10 @@
       </Key>
       <Title>Maj.-Gen.</Title>
       <Forenames>Donald Alexander</Forenames>
-      <Text>, C.M.G., I.S.O.. Kniriited</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>I.S.O</Honour>
+      </Text>
       <PageNumber>4027</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -862,7 +953,11 @@
       <Key>MaoDonald</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Donald John</Forenames>
-      <Text>, D.S.O., M.C., Bar to D.S.O</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>7394</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -880,14 +975,19 @@
     <MainItem>
       <Key>Macdonald</Key>
       <Title>Lt.</Title>
-      <Text>(A./Maj.j James Alexander, Companion, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>6459</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>MaoDonald</Key>
-      <Text>. Maj. the Revd. John, Howard, D.D., M.B.E., Commander, Order of the British Empire</Text>
+      <Title>Maj.</Title>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>6690</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -914,7 +1014,9 @@
       <Key>Macdonald</Key>
       <Title>Col.</Title>
       <Forenames>Stuart</Forenames>
-      <Text>, C.M.G., M.B.. Companion, Order of</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>6461</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -923,7 +1025,9 @@
       <Key>MacDonald</Key>
       <Title>Capt.</Title>
       <Forenames>Thomas Wilson</Forenames>
-      <Text>, Companion, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>6459</PageNumber>
     </MainItem>
   </ItemGroup>

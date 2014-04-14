@@ -206,7 +206,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cullen</Key>
-      <Text>P. F. (temp. 2nd Lt.,</Text>
+      <Forenames>P. F.</Forenames>
+      <Text>(temp. 2nd Lt.,</Text>
       <PageNumber>12620</PageNumber>
     </MainItem>
     <SubItem>
@@ -226,7 +227,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Cully</Key>
-      <Text>Fit. Cadet R. A. (temp. 2nd</Text>
+      <Title>Fit. Cadet</Title>
+      <Forenames>R. A.</Forenames>
+      <Text>(temp. 2nd</Text>
       <PageNumber>12494</PageNumber>
     </MainItem>
     <SubItem>
@@ -246,7 +249,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Oumming</Key>
-      <Text>End Lt. A. (Hon. Capt.)</Text>
+      <Forenames>End</Forenames>
+      <Text>Lt. A. (Hon. Capt.)</Text>
       <PageNumber>14337</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -265,14 +269,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Cundlff</Key>
-      <Text>Lt. (lOlbsvr. Offr.) F. W</Text>
+      <Title>Lt. (lOlbsvr. Offr.)</Title>
+      <Forenames>F. W.</Forenames>
       <PageNumber>13920</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>CundM</Key>
-      <Text>Fit. Cadet A. J. (temp</Text>
+      <Title>Fit. Cadet</Title>
+      <Forenames>A. J.</Forenames>
+      <Text>(temp</Text>
       <PageNumber>13315</PageNumber>
     </MainItem>
     <SubItem>
@@ -356,7 +363,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cunninghame</Key>
-      <Text>Lt. factg. Capt.) F</Text>
+      <Title>Lt.</Title>
+      <Text>factg. Capt.) F</Text>
       <PageNumber>12904</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -404,7 +412,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Ourrv</Key>
-      <Text>Fit. Oadet C: R. (temp. 2nd</Text>
+      <Title>Fit.</Title>
+      <Forenames>Oadet C</Forenames>
+      <Text>: R. (temp. 2nd</Text>
       <PageNumber>12254</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -431,7 +441,7 @@
       <PageNumber>14959</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>Lt., Admin</Text>
+      <Text>Lt., Admin.</Text>
       <PageNumber>15052</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -480,7 +490,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Dalgleish</Key>
-      <Text>Fit. Oadet W. (temp. 2nd Lt., Obsvr. Offr.)</Text>
+      <Title>Fit.</Title>
+      <Forenames>Oadet W.</Forenames>
+      <Text>(temp. 2nd Lt., Obsvr. Offr.)</Text>
       <PageNumber>11564</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -542,7 +554,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Damant</Key>
-      <Text>Fit. Cadet F. K. (temp. 2nd Lt., A.)</Text>
+      <Title>Fit. Cadet</Title>
+      <Forenames>F. K.</Forenames>
+      <Text>(temp. 2nd Lt., A.)</Text>
       <PageNumber>11975</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -587,7 +601,9 @@
       <Key>Daneerfield</Key>
       <Title>Lt.</Title>
       <Forenames>B.</Forenames>
-      <Text>, M.C. (actg. Capt., 0.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>14820</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -627,7 +643,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Title>Lt.</Title>
-      <Text>rr.F.) F. R., M.C. (temp. 2nd Lt., Obsvr. Offr., and Hon. Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>14573</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -656,7 +674,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Daniels</Key>
-      <Text>2nd Lt. (Hon. Lt.) A. (aetg. .Lt., Gr. B)</Text>
+      <Title>2nd Lt. (Hon. Lt.)</Title>
+      <Forenames>A.</Forenames>
+      <Text>(aetg. .Lt., Gr. B)</Text>
       <PageNumber>13745</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -720,7 +740,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Darling</Key>
-      <Text>'Capt. (Army) W., M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>13924</PageNumber>
     </MainItem>
     <SubItem>
@@ -757,7 +779,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Daughton</Key>
-      <Text>2nd Lt. W. (actg. Lt.,</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>W.</Forenames>
+      <Text>(actg. Lt.,</Text>
       <PageNumber>14823</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1104,7 +1128,7 @@
     </MainItem>
     <KeyDitto>___ ___ ___</KeyDitto>
     <SubItem>
-      <Text>Capt., A., and Hon. Maj</Text>
+      <Text>Capt., A., and Hon. Maj.</Text>
       <PageNumber>11718</PageNumber>
     </SubItem>
   </ItemGroup>

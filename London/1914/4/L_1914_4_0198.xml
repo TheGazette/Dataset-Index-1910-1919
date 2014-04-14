@@ -120,8 +120,8 @@
     <MainItem>
       <Key>Webb</Key>
       <Title>2nd Lieut.</Title>
-      <Forenames>Charles St</Forenames>
-      <Text>. L. (confirmed)</Text>
+      <Forenames>Charles St. L</Forenames>
+      <Text>. (confirmed)</Text>
       <PageNumber>7926</PageNumber>
       <PageNumber>9518</PageNumber>
     </MainItem>
@@ -178,7 +178,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Werner</Key>
-      <Text>. Charles Augustus (Capt.)</Text>
+      <Forenames>Charles Augustus</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>10572</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -237,14 +238,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Wheeler</Key>
-      <Text>. Charles Norman (Capt.)</Text>
+      <Forenames>Charles Norman</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>9504</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>White</Key>
-      <Text>. Capt. J. H. G. (date of appointment)</Text>
+      <Title>Capt.</Title>
+      <Forenames>J. H. G.</Forenames>
+      <Text>(date of appointment)</Text>
       <PageNumber>9115</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -352,8 +356,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Willans</Key>
-      <Forenames>Robert St</Forenames>
-      <Text>. Join (Lieut.)</Text>
+      <Forenames>Robert St. Join</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>7897</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -577,7 +581,9 @@
       <Key>Wolseley</Key>
       <Title>Sir</Title>
       <Forenames>Capel Charles</Forenames>
-      <Text>, Bt. (Lieut.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>10572</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -884,7 +890,9 @@
       <Key>Powell</Key>
       <Title>Maj.-Gen.</Title>
       <Forenames>C. H.</Forenames>
-      <Text>, C.B. (temporary Gen. Officer Commanding)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -915,7 +923,9 @@
       <Key>Pain</Key>
       <Title>Col. (temporary BrigadierGen.)</Title>
       <Forenames>G. H.</Forenames>
-      <Text>, C.B. (temporary)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>8642</PageNumber>
     </MainItem>
   </ItemGroup>

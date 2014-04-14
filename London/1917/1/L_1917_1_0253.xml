@@ -31,7 +31,9 @@
       <Key>Jinks</Key>
       <Title>temp. 2nd Lt.</Title>
       <Forenames>J. C</Forenames>
-      <Text>, M.C. (trd.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1134</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -117,7 +119,9 @@
       </Key>
       <Title>temp. 2nd Lt.</Title>
       <Forenames>S. S.</Forenames>
-      <Text>, M.C. (trd.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2742</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -473,7 +477,10 @@
       </Key>
       <Title>Col. (temp. Brig.-Gen.)</Title>
       <Forenames>F. E.</Forenames>
-      <Text>, C.M.G., D.S.O. (temp. Maj.Gen.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>2127</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -484,7 +491,9 @@
       </Key>
       <Title>temp. Lt. (actg. Capt.)</Title>
       <Forenames>F. H.</Forenames>
-      <Text>, V.C. (actg. Maj.)</Text>
+      <Text>
+        <Honour>V.C.</Honour>
+      </Text>
       <PageNumber>2865</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -804,7 +813,9 @@
       <PageNumber>358</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Workshop Offr., M.G.C</Text>
+      <Text>
+        <Honour>G.C</Honour>
+      </Text>
       <PageNumber>1367</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -826,7 +837,9 @@
       </Key>
       <Title>temp. Lt.</Title>
       <Forenames>R.</Forenames>
-      <Text>, M.D. (temp. Capt.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>1627</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1293,7 +1306,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>R. H.</Forenames>
-      <Text>, D.S.O. (Tel. actg. rank of Lt.-Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>266</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1348,7 +1363,9 @@
       </Key>
       <Title>temp. Maj.</Title>
       <Forenames>W. H. H.</Forenames>
-      <Text>, M.C. {to comd. a Bn., and be temp. Lt.-Cbl.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1385</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1461,7 +1478,7 @@
       <PageNumber>606</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Trd.</Text>
+      <Text>Trd</Text>
       <PageNumber>3008</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1683,14 +1700,16 @@
       <PageNumber>1586</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Actg. Capt.</Text>
+      <Text>Actg. Capt</Text>
       <PageNumber>1659</PageNumber>
     </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Jolly</Key>
-      <Text>. Cadet A. (temp. 2nd Lt.)</Text>
+      <Title>Cadet</Title>
+      <Forenames>A.</Forenames>
+      <Text>(temp. 2nd Lt.)</Text>
       <PageNumber>2389</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1751,7 +1770,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Jones</Key>
-      <Text>. Cadet A. (temp. 2nd Lt.)</Text>
+      <Title>Cadet</Title>
+      <Forenames>A.</Forenames>
+      <Text>(temp. 2nd Lt.)</Text>
       <PageNumber>2867</PageNumber>
     </MainItem>
   </ItemGroup>

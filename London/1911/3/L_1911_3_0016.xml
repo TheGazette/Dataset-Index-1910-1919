@@ -47,7 +47,9 @@
       <Key>Colleton</Key>
       <Title>Col. Sir</Title>
       <Forenames>R. A. W.</Forenames>
-      <Text>, Bart. (retired pay)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>6456</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -99,8 +101,8 @@
     <MainItem>
       <Key>Davidson</Key>
       <Title>Lt.-Col.</Title>
-      <Forenames>T. St</Forenames>
-      <Text>. C. (retired)</Text>
+      <Forenames>T. St. C</Forenames>
+      <Text>. (retired)</Text>
       <PageNumber>6456</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -110,6 +112,14 @@
       <Forenames>K. S.</Forenames>
       <Text>(Maj.-Gen.)</Text>
       <PageNumber>5988</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Winton</Key>
+      <Forenames>C.</Forenames>
+      <Text>(Col.)</Text>
+      <PageNumber>5634</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -159,7 +169,9 @@
       <Key>Foster</Key>
       <Title>Col. Sir</Title>
       <Forenames>W. Y.</Forenames>
-      <Text>, Bart. (retired) .:</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>4936</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -201,8 +213,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Garfit</Key>
-      <Forenames>H.</Forenames>
-      <Text>de B.-C. (local rank of . Lieut, in West Africa)</Text>
+      <Forenames>H. de B</Forenames>
+      <Text>.-C. (local rank of . Lieut, in West Africa)</Text>
       <PageNumber>5060</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -342,7 +354,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Huskisson</Key>
-      <Text>Col. W. (half-pay list)</Text>
+      <Title>Col.</Title>
+      <Forenames>W.</Forenames>
+      <Text>(half-pay list)</Text>
       <PageNumber>5807</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -373,7 +387,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Khan</Key>
-      <Text>C. (Hon. Capt.)</Text>
+      <Forenames>C.</Forenames>
+      <Text>(Hon. Capt.)</Text>
       <PageNumber>6802</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -601,7 +616,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Snatt</Key>
-      <Text>S. A. (Hon. Maj.)</Text>
+      <Forenames>S. A.</Forenames>
+      <Text>(Hon. Maj.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1007,7 +1023,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ing</Key>
-      <Text>G: H. A. (Maj.)</Text>
+      <Forenames>G</Forenames>
+      <Text>: H. A. (Maj.)</Text>
       <PageNumber>6064</PageNumber>
     </MainItem>
   </ItemGroup>

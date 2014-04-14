@@ -75,7 +75,9 @@
     <MainItem>
       <Key>Burton</Key>
       <Forenames>A. H. G.</Forenames>
-      <Text>, M.D. (temp. Lt.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>1667</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -273,7 +275,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>T. J.</Forenames>
-      <Text>, M.D. (temp. Capt.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>456</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1028,7 +1032,9 @@
     <MainItem>
       <Key>Byers</Key>
       <Forenames>A. F.</Forenames>
-      <Text>, R.R.C. (Matron, Queen Alexandra's Imperial Military Nursing Service)</Text>
+      <Text>
+        <Honour>R.R.C.</Honour>
+      </Text>
       <PageNumber>99</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1045,7 +1051,11 @@
       <Key>Byng</Key>
       <Title>Maj.-Gen. The Hon. Sir</Title>
       <Forenames>J. H. G.</Forenames>
-      <Text>, K.C.M.G., C.B., M.V.O. (temp. Lt.-Gen.)</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>418</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1339,8 +1349,8 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Title>(temp.) Maj.</Title>
-      <Forenames>W. M. Du Q.</Forenames>
-      <Text>(Capt. and to retain temp, rank), supplementary</Text>
+      <Forenames>W. M. Du Q</Forenames>
+      <Text>. (Capt. and to retain temp, rank), supplementary</Text>
       <PageNumber>1458</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1498,7 +1508,9 @@
     <MainItem>
       <Key>Caldwell</Key>
       <Forenames>A. G.</Forenames>
-      <Text>, M.D. (temp. Capt.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>274</PageNumber>
     </MainItem>
   </ItemGroup>

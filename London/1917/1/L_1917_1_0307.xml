@@ -64,7 +64,10 @@
       </Key>
       <Title>Maj. (temp. Lt.-Col.)</Title>
       <Forenames>E.</Forenames>
-      <Text>, D.S.O. (Bt. Lt.-Col., for Dist. Serv.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>17</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -75,7 +78,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>F. T.</Forenames>
-      <Text>, M.C. (actg. Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2519</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -409,7 +414,10 @@
       <Key>Sackville-Weet</Key>
       <Title>Lt.-Col. (temp. Brig.-Gen.), Hon.</Title>
       <Forenames>C. J.</Forenames>
-      <Text>, C.M.G. (Bt. Col., for Dist. Serv.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>16</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -417,8 +425,8 @@
     <MainItem>
       <Key>Sadgrove</Key>
       <Title>temp. 2nd Lt.</Title>
-      <Forenames>K. H. O</Forenames>
-      <Text>'R. (temp. Lt.)</Text>
+      <Forenames>K. H. O'R</Forenames>
+      <Text>. (temp. Lt.)</Text>
       <PageNumber>1778</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -435,8 +443,11 @@
     <MainItem>
       <Key>Sadleir-Jackson</Key>
       <Title>Maj.</Title>
-      <Forenames>L. W.</Forenames>
-      <Text>de V., C.M.G., D.S.O. (actg. Lt.-Col.)</Text>
+      <Forenames>L. W. de V</Forenames>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>2755</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -521,7 +532,9 @@
       <Key>Safford</Key>
       <Title>Maj. (temp. Lt.-Col.)</Title>
       <Forenames>A. H.</Forenames>
-      <Text>(Bt. Lt.-Col., for Val. Serv.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>926</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -584,8 +597,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. Amory, 2nd Lt. J. M. R. E. (Flying Offr.)</Text>
+      <Key>St. Amory</Key>
+      <Title>2nd Lt.</Title>
+      <Forenames>J. M. R. E.</Forenames>
+      <Text>(Flying Offr.)</Text>
       <PageNumber>104</PageNumber>
     </MainItem>
     <SubItem>
@@ -607,7 +622,8 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>. Aubyn, temp. 2nd Lt. F. J. (temp. Lt.) :</Text>
+      <Forenames>Aubyn</Forenames>
+      <Text>, temp. 2nd Lt. F. J. (temp. Lt.) :</Text>
       <PageNumber>385</PageNumber>
     </MainItem>
     <SubItem>
@@ -628,8 +644,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. Bernards-Bryan, temp. Lt. C. G. (actg. Capt.)</Text>
+      <Key>St. Bernards-Bryan</Key>
+      <Title>temp. Lt.</Title>
+      <Forenames>C. G.</Forenames>
+      <Text>(actg. Capt.)</Text>
       <PageNumber>2002</PageNumber>
     </MainItem>
     <SubItem>
@@ -639,8 +657,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. Clair, Capt. G. J. P. (Maj. and rem. seed.)</Text>
+      <Key>St. Clair</Key>
+      <Title>Capt.</Title>
+      <Forenames>G. J. P.</Forenames>
+      <Text>(Maj. and rem. seed.)</Text>
       <PageNumber>499</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -657,22 +677,30 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. George, Cadet A. R. (temp. 2nd Lt., attd)</Text>
+      <Key>St. George</Key>
+      <Title>Cadet</Title>
+      <Forenames>A. R.</Forenames>
+      <Text>(temp. 2nd Lt., attd)</Text>
       <PageNumber>1585</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. GeorgeYorke, temp. Lt. F., M.C. (rel. commn. on acc. of illhealth and to be Hon. Lt.)</Text>
+      <Key>St. GeorgeYorke</Key>
+      <Title>temp. Lt.</Title>
+      <Forenames>F.</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2523</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. John, temp. Maj. F. J. (trd.)</Text>
+      <Key>St. John</Key>
+      <Title>temp. Maj.</Title>
+      <Forenames>F. J.</Forenames>
+      <Text>(trd.)</Text>
       <PageNumber>1243</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -736,36 +764,45 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. John-Smith, Capt. B. G. (seed.)</Text>
+      <Key>St. John-Smith</Key>
+      <Title>Capt.</Title>
+      <Forenames>B. G.</Forenames>
+      <Text>(seed.)</Text>
       <PageNumber>565</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. Levan, Col. J. T., Lord, C.V.O., I0.IB. (Hon. Brig.-Gen. for</Text>
+      <Key>St. Levan</Key>
+      <Title>Col.</Title>
+      <Forenames>J. T.</Forenames>
+      <Text>
+        <Honour>C.V.O.</Honour>
+      </Text>
       <PageNumber>925</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. Maur, 2ndLt. R. W. M. (Lt.j</Text>
+      <Key>St. Maur</Key>
+      <Text>2ndLt. R. W. M. (Lt.j</Text>
       <PageNumber>1860</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. Noble, Lt. C. (Equipmt. Offr., 2nd CI.)</Text>
+      <Key>St. Noble</Key>
+      <Title>Lt.</Title>
+      <Forenames>C.</Forenames>
+      <Text>(Equipmt. Offr., 2nd CI.)</Text>
       <PageNumber>1270</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. Quinton, N. (temp. Lt.)</Text>
+      <Key>St. Quinton</Key>
+      <Forenames>N.</Forenames>
+      <Text>(temp. Lt.)</Text>
       <PageNumber>1884</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1001,7 +1038,9 @@
       <Key>Salter</Key>
       <Title>temp. 2nd Lt.</Title>
       <Forenames>G.</Forenames>
-      <Text>, M.C. (actg. Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>267</PageNumber>
     </MainItem>
     <SubItem>
@@ -1223,7 +1262,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Samuels</Key>
-      <Text>. Lt. E. P. P. (reetd. to estabt.)</Text>
+      <Title>Lt.</Title>
+      <Forenames>E. P. P.</Forenames>
+      <Text>(reetd. to estabt.)</Text>
       <PageNumber>1438</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1254,7 +1295,9 @@
       <Key>Samut</Key>
       <Title>2nd Lt.</Title>
       <Forenames>A. J.</Forenames>
-      <Text>, M.C. (actg. ICIapt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1862</PageNumber>
     </MainItem>
     <SubItem>
@@ -1307,7 +1350,9 @@
       <Key>Sandars</Key>
       <Title>Maj. (temp. Lt.-Col.)</Title>
       <Forenames>E. C.</Forenames>
-      <Text>(Bt. Lt.-Col., for Val. .Servs</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>926</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1316,7 +1361,10 @@
       <Key>Sanday</Key>
       <Title>Capt.</Title>
       <Forenames>W. D. S.</Forenames>
-      <Text>, D.S.O., M.C. (Sqdn. Comdr.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1028</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1336,7 +1384,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>T. F.</Forenames>
-      <Text>, M.C. (actg. Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2844</PageNumber>
     </MainItem>
   </ItemGroup>

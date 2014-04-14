@@ -105,6 +105,8 @@
     </MainItem>
     <SubItem>
       <Text>
+        <Honour>C.H.</Honour>
+        <Honour>D.S.O.</Honour>
         <PageNumber>2280</PageNumber>
       </Text>
       <PageNumber>1517</PageNumber>
@@ -123,14 +125,19 @@
     <MainItem>
       <Key>Fairbank</Key>
       <Forenames>Capt</Forenames>
-      <Text>, H. A. T., D.S.O., F.R.C.S. (seed.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>2697</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Fairclough</Key>
-      <Text>£:nd Lt. E. L., M.C. (Lt,)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2281</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -275,7 +282,9 @@
       <Key>Fano</Key>
       <Title>Capt.</Title>
       <Forenames>F. L.</Forenames>
-      <Text>, M.C. (corr. of date of promn.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1069</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -531,7 +540,7 @@
       <PageNumber>3741</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Lt. and rem. seed</Text>
+      <Text>Lt. and rem. seed.</Text>
       <PageNumber>3741</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -599,7 +608,7 @@
       <PageNumber>2038</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Cadet J. B. (2nd Lt.),</Text>
+      <Text>Cadet J. B. (2nd Lt.),.</Text>
       <PageNumber>254</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -760,7 +769,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Fetherston</Key>
-      <Text>. Cadet C. E. (2nd Lt.). ,</Text>
+      <Title>Cadet</Title>
+      <Forenames>C. E.</Forenames>
+      <Text>(2nd Lt.). ,</Text>
       <PageNumber>3108</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1052,7 +1063,7 @@
       <PageNumber>2328</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>Sub. Not</Text>
+      <Text>Sub. Not.</Text>
       <PageNumber>3568</PageNumber>
     </SubItem>
   </ItemGroup>

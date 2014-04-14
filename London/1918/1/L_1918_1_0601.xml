@@ -69,7 +69,9 @@
     <MainItem>
       <Key>Waldegrave</Key>
       <Title>Lt.-Col.</Title>
-      <Text>the Rt. Hon. W. F. Earl, D.L., V.D. (Hon. CoL on appt. as Hon. Comdt.)</Text>
+      <Text>
+        <Honour>D.L.</Honour>
+      </Text>
       <PageNumber>1888</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -386,7 +388,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Willcock</Key>
-      <Text>., Med. Offr. and temp Capt. A. D. (resigns eommn. on acc. of ill-health)</Text>
+      <Text>, Med. Offr. and temp Capt. A. D. (resigns eommn. on acc. of ill-health)</Text>
       <PageNumber>2299</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -524,7 +526,7 @@
       <PageNumber>696</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Asst. Adjt. and temp Lt</Text>
+      <Text>Asst. Adjt. and temp Lt.</Text>
       <PageNumber>2328</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -782,7 +784,7 @@
       <PageNumber>3707</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Col. F. A. (temp. Maj.) Sub. Not</Text>
+      <Text>Col. F. A. (temp. Maj.) Sub. Not.</Text>
       <PageNumber>1722</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -825,7 +827,9 @@
     <MainItem>
       <Key>Zetland</Key>
       <Title>Col.</Title>
-      <Text>the Most Noble The Marquess of, K.T. (Hon. Lt.Col. on appt. as Hon. Comdt.)</Text>
+      <Text>
+        <Honour>K.T.</Honour>
+      </Text>
       <PageNumber>2698</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -833,7 +837,12 @@
   <ItemGroup>
     <MainItem>
       <Key>Lucas</Key>
-      <Text>. Lt.-Col. (Lt.-Col. and Hon. Col.) A. G.,C.B., M.V.O</Text>
+      <Title>Lt.-Col. (Lt.-Col. and Hon. Col.)</Title>
+      <Forenames>A. G.</Forenames>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>M.V.O</Honour>
+      </Text>
       <PageNumber>2574</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -887,7 +896,9 @@
       <Key>Arohibald</Key>
       <Title>temp. Lt.</Title>
       <Forenames>E. B.</Forenames>
-      <Text>(A.D.C.)</Text>
+      <Text>
+        <Honour>A.D.C.</Honour>
+      </Text>
       <PageNumber>1812</PageNumber>
     </MainItem>
   </ItemGroup>

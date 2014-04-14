@@ -3,7 +3,9 @@
   <ItemGroup>
     <MainItem>
       <Key>King</Key>
-      <Text>.Miss Teresa, Royal Red Cross, 2nd Cl</Text>
+      <Title>Miss</Title>
+      <Forenames>Teresa</Forenames>
+      <Text>, Royal Red Cross, 2nd Cl</Text>
       <PageNumber>6841</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -86,7 +88,9 @@
     <MainItem>
       <Key>Kingscote</Key>
       <Forenames>Thomas Arthur Fitz-</Forenames>
-      <Text>hardinge, M.V.O.,Extra Gentleman Usher to the King</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>4412</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -94,7 +98,9 @@
     <MainItem>
       <Key>Kingston</Key>
       <Forenames>T.</Forenames>
-      <Text>/2nd Lt. Alfred Thomas, D.C.M., Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>6809</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -135,7 +141,10 @@
       <Key>Kingstone</Key>
       <Title>Capt.</Title>
       <Forenames>James Joseph</Forenames>
-      <Text>, M.C., Companion, D.S.O</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>6819</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -178,7 +187,9 @@
     <MainItem>
       <Key>Kinsey</Key>
       <Forenames>Joseph James</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>4414</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -206,7 +217,10 @@
       </Key>
       <Title>Lt.-Col. (A./Col.)</Title>
       <Forenames>Frank Howard</Forenames>
-      <Text>, V.C., D.C.M., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>V.C.</Honour>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>7027</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -217,7 +231,9 @@
       </Key>
       <Title>Cdr.</Title>
       <Forenames>Richard Evan Williams</Forenames>
-      <Text>, Companion, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>4734</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -258,7 +274,9 @@
       </Key>
       <Title>Maj.(T./Lt.-Col.)</Title>
       <Forenames>John Charles</Forenames>
-      <Text>, O.B.E., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>6981</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -289,7 +307,10 @@
       <Key>Kirkcaldy</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>James</Forenames>
-      <Text>, D.S.O., Companion, St. Michael and St. George</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, St. Michael and St. George</Honour>
+      </Text>
       <PageNumber>6793</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -315,7 +336,9 @@
     <MainItem>
       <Key>Kirkness</Key>
       <Forenames>T.</Forenames>
-      <Text>/Lt.-Col. Lewis Hawker, D.S.O., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6949</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -369,7 +392,10 @@
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>T.</Forenames>
-      <Text>/Lt.-Col. James George, D.S.O., Companion, St. Michael and St. George . ,</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, St. Michael and St. George</Honour>
+      </Text>
       <PageNumber>6791</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -530,7 +556,9 @@
       <Key>Knaggs</Key>
       <Title>Miss</Title>
       <Forenames>Amy</Forenames>
-      <Text>, R.R.C., Bar to R.R.C</Text>
+      <Text>
+        <Honour>R.R.C.</Honour>
+      </Text>
       <PageNumber>4675</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -541,7 +569,10 @@
       </Key>
       <Title>Col.</Title>
       <Forenames>Henry Thomas</Forenames>
-      <Text>, C.M.G., M.B., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>6921</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -560,7 +591,9 @@
       </Key>
       <Title>Lt.-Col. and Bt. Col. (T./Brig.Gen.)</Title>
       <Forenames>Kempster Kenmure</Forenames>
-      <Text>, C. M.G., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>6790</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -621,14 +654,18 @@
       </Key>
       <Title>Capt. (T./Lt.-Co.l)</Title>
       <Forenames>Charles Louis William Morley</Forenames>
-      <Text>, D. S.O., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>D. S.O.</Honour>
+      </Text>
       <PageNumber>6989</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Knight</Key>
-      <Text>. Capt. (A./Lt.-Col.) Ernest, Officer, Order of the British Empire</Text>
+      <Title>Capt. (A./Lt.-Col.)</Title>
+      <Forenames>Ernest</Forenames>
+      <Text>, Officer, Order of the British Empire</Text>
       <PageNumber>6801</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -660,8 +697,8 @@
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
       <Title>Maj</Title>
-      <Forenames>James St</Forenames>
-      <Text>. Pierre, Officer, Order ot the British Empire</Text>
+      <Forenames>James St. Pierre</Forenames>
+      <Text>, Officer, Order ot the British Empire</Text>
       <PageNumber>7006</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -720,7 +757,9 @@
       <Key>Knollys</Key>
       <Title>Maj. (A./Lt.-Col.)</Title>
       <Forenames>Denis Erskine</Forenames>
-      <Text>, Companion, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>6951</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -803,7 +842,9 @@
       <Key>Knox</Key>
       <Title>Lt.-Col. and Bt. Col. (T./Maj.-Gen.)</Title>
       <Forenames>Alfred William Fortescue</Forenames>
-      <Text>, C.B., Knight Commander, Order of the Bath</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>6087</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -887,7 +928,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Konstam</Key>
-      <Text>EdwinMax,O.B.E.,Kings Counsel</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4413</PageNumber>
     </MainItem>
     <SubItem>
@@ -900,7 +943,9 @@
       <Key>Kreyer</Key>
       <Title>Maj.</Title>
       <Forenames>John Arthur Claude</Forenames>
-      <Text>, Companion, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>6951</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -917,7 +962,9 @@
     <MainItem>
       <Key>Kuhne</Key>
       <Forenames>T.</Forenames>
-      <Text>/Maj. Carl Hans, D.S.O., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6801</PageNumber>
     </MainItem>
   </ItemGroup>

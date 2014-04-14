@@ -135,7 +135,9 @@
       <Key>Barlow</Key>
       <Title>Sir</Title>
       <Forenames>H. W. W.</Forenames>
-      <Text>, Bart. (Col.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>9319</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -693,7 +695,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Lees</Key>
-      <Text>.Quartr. and Hon. Capt. D.(retired)</Text>
+      <Title>Quartr. and Hon. Capt.</Title>
+      <Forenames>D.</Forenames>
+      <Text>(retired)</Text>
       <PageNumber>7074</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1030,9 +1034,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Von</Key>
-      <Forenames>Donop</Forenames>
-      <Text>, S. B. (Col.)</Text>
+      <Key>Von Donop</Key>
+      <Forenames>S. B.</Forenames>
+      <Text>(Col.)</Text>
       <PageNumber>7353</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1161,7 +1165,9 @@
       <Key>Anstruther</Key>
       <Title>Lieut.-Col. and Hon. Col. Sir</Title>
       <Forenames>R. W.</Forenames>
-      <Text>, Bart</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1629,7 +1635,9 @@
       <Key>Carden</Key>
       <Title>Sir</Title>
       <Forenames>F. H. W.</Forenames>
-      <Text>, Bart. (Maj.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>8689</PageNumber>
     </MainItem>
   </ItemGroup>

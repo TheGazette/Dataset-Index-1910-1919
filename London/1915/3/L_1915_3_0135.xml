@@ -142,8 +142,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Pollard</Key>
-      <Forenames>Arthur E. St</Forenames>
-      <Text>. V. (Lieut.Col.)</Text>
+      <Forenames>Arthur E. St. V</Forenames>
+      <Text>. (Lieut.Col.)</Text>
       <PageNumber>7177</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -346,14 +346,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Twynam</Key>
-      <Text>. Godfrey (temporary 2nd Lieut.)</Text>
+      <Forenames>Godfrey</Forenames>
+      <Text>(temporary 2nd Lieut.)</Text>
       <PageNumber>8168</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Waite</Key>
-      <Text>. Donald M. (temporary 2nd Lieut.)</Text>
+      <Forenames>Donald M.</Forenames>
+      <Text>(temporary 2nd Lieut.)</Text>
       <PageNumber>7901</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -368,7 +370,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Walmsley</Key>
-      <Text>. Harry Henden (temporary 2nd Lieut.)</Text>
+      <Forenames>Harry Henden</Forenames>
+      <Text>(temporary 2nd Lieut.)</Text>
       <PageNumber>8112</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -392,14 +395,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Watson-Thomas</Key>
-      <Text>. Walter Patrick (temporary 2nd Lieut.)</Text>
+      <Forenames>Walter Patrick</Forenames>
+      <Text>(temporary 2nd Lieut.)</Text>
       <PageNumber>9076</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Webster</Key>
-      <Text>. David F. K. (temporary Lieut.)</Text>
+      <Forenames>David F. K.</Forenames>
+      <Text>(temporary Lieut.)</Text>
       <PageNumber>6837</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -422,7 +427,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wilkinson</Key>
-      <Text>. Archibold Garbutt (2nd Lieut.)</Text>
+      <Forenames>Archibold Garbutt</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>6841</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -474,7 +480,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wright</Key>
-      <Text>. A. (Lieut.)</Text>
+      <Forenames>A.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>7866</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -504,7 +511,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ardill</Key>
-      <Text>. John Roche (temporary 2nd Lieut.)</Text>
+      <Forenames>John Roche</Forenames>
+      <Text>(temporary 2nd Lieut.)</Text>
       <PageNumber>9441</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -569,7 +577,9 @@
     <MainItem>
       <Key>Bond</Key>
       <Forenames>C. E.</Forenames>
-      <Text>, D.S.O. (Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8807</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -760,9 +770,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Chair</Forenames>
-      <Text>, Lieut. G. H. B. (temporary Capt., supernumerary to establishment)</Text>
+      <Key>De Chair</Key>
+      <Title>Lieut.</Title>
+      <Forenames>G. H. B.</Forenames>
+      <Text>(temporary Capt., supernumerary to establishment)</Text>
       <PageNumber>8109</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -802,6 +813,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>du Moulin</Key>
+      <Title>Lieut.</Title>
+      <Forenames>F. L.</Forenames>
+      <Text>(temporary Capt.)</Text>
+      <PageNumber>9558</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Fitzherbert</Key>
       <Forenames>Wyndham W.</Forenames>
       <Text>(temporary Lieut.)</Text>
@@ -830,7 +850,9 @@
       <Key>Green</Key>
       <Title>Maj.</Title>
       <Forenames>E. W. B.</Forenames>
-      <Text>. D.S.O. (temporary Lieut.-Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7444</PageNumber>
     </MainItem>
   </ItemGroup>

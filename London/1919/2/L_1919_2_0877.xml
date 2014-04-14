@@ -164,7 +164,7 @@
       <PageNumber>7435</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Corrs. of No</Text>
+      <Text>Corrs. of No.</Text>
       <PageNumber>7307</PageNumber>
       <PageNumber>7436</PageNumber>
     </SubItem>
@@ -254,7 +254,9 @@
     <MainItem>
       <Key>Millman</Key>
       <Title>(Lt; {actg. Capt.)</Title>
-      <Text>,N. C, M.C. (trd. to unempld. list)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6251</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -526,7 +528,10 @@
       <Key>Minchin</Key>
       <Title>Maj.</Title>
       <Forenames>F. F.</Forenames>
-      <Text>, D.S.O., M.C. (actg. Lt.-Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7305</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -865,7 +870,9 @@
       <Key>Modin</Key>
       <Title>Capt.</Title>
       <Forenames>C. O. F.</Forenames>
-      <Text>, D.S.C. (trd. to unempld. list)</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>4216</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -981,7 +988,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Moldran</Key>
-      <Text>. 2nd Lt. C. C. (trd. to unemprd. list)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>C. C.</Forenames>
+      <Text>(trd. to unemprd. list)</Text>
       <PageNumber>5348</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -990,14 +999,18 @@
       <Key>Molesworth</Key>
       <Title>Capt.</Title>
       <Forenames>W. E.</Forenames>
-      <Text>, M.C. {actg. Maj., A.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5045</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Molland</Key>
-      <Text>. 2nd Lt. P. C. (trd. to unempld. list)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>P. C.</Forenames>
+      <Text>(trd. to unempld. list)</Text>
       <PageNumber>8113</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1013,7 +1026,9 @@
       <Key>Moller</Key>
       <Title>Capt.</Title>
       <Forenames>F. S.</Forenames>
-      <Text>, M.C. (actg. Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6521</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1077,7 +1092,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Moricrieff</Key>
-      <Text>. Lt. A. Y. (tod. to unempld. list)</Text>
+      <Title>Lt.</Title>
+      <Forenames>A. Y.</Forenames>
+      <Text>(tod. to unempld. list)</Text>
       <PageNumber>7432</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1103,7 +1120,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mondor</Key>
-      <Text>. 2nd L£ J. A. (trd. to unempld. list)</Text>
+      <Text>2nd L£ J. A. (trd. to unempld. list)</Text>
       <PageNumber>5347</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1141,8 +1158,10 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Title>Lt. (iHon. Capt.)</Title>
-      <Forenames>H. H.</Forenames>
-      <Text>de B., M.C. (tod. to unempld. list)</Text>
+      <Forenames>H. H. de B</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4220</PageNumber>
     </MainItem>
   </ItemGroup>

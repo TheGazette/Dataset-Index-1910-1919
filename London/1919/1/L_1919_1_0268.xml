@@ -47,7 +47,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Francis</Key>
-      <Text>. Miss Maud Louise, Royal Red Cross, 1st CI</Text>
+      <Title>Miss</Title>
+      <Forenames>Maud Louise</Forenames>
+      <Text>, Royal Red Cross, 1st CI</Text>
       <PageNumber>33</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -81,7 +83,10 @@
       <Key>Franklin</Key>
       <Title>Maj. and Bt. Lt.-Col. (T./Brig.-Gen.)</Title>
       <Forenames>Harold Scott Erskine</Forenames>
-      <Text>, D.S.O., Companion, St. Michael and St. George</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, St. Michael and St. George</Honour>
+      </Text>
       <PageNumber>2993</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -103,14 +108,18 @@
   <ItemGroup>
     <MainItem>
       <Key>Frankling</Key>
-      <Text>.Herbert George, M.R.C.S., Commander, Order of the British Empire</Text>
+      <Forenames>Herbert George</Forenames>
+      <Text>, M.R.C.S., Commander, Order of the British Empire</Text>
       <PageNumber>2426</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Franks</Key>
-      <Text>. Lt.-Col. George Dospard, D.S.O., Companion, St. Michael and St. George</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, St. Michael and St. George</Honour>
+      </Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -120,7 +129,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Title>Capt.</Title>
-      <Text>,T./Maj.) Kendal Ferguson, Companion, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>2365</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -130,7 +141,9 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>William Temple</Forenames>
-      <Text>, C.B., Member of Commission to settle terms of user of patented inventions</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>3751</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -139,7 +152,10 @@
       <Key>Fraser</Key>
       <Title>Capt. (A./Lt.-Col.)</Title>
       <Forenames>Alex-</Forenames>
-      <Text>ander Donald, D.S.O., M.C., Bar to D.S.O</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1602</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -150,7 +166,9 @@
       </Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Cecil</Forenames>
-      <Text>, M.C., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>93</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -187,7 +205,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>A.</Forenames>
-      <Text>/Maj.) Francis William lan Victor, M.C., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>93</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -208,7 +228,10 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Title>Maj. and Bt. Col.</Title>
-      <Text>(T./Lt.-Col. George Ireland, D.S.O., Companion, St. Michael and St. George</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, St. Michael and St. George</Honour>
+      </Text>
       <PageNumber>74</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -229,7 +252,9 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>James</Forenames>
-      <Text>,. M.lnst.C.E., Companion, St. Michael and St. George</Text>
+      <Text>
+        <Honour>Companion, St. Michael and St. George</Honour>
+      </Text>
       <PageNumber>108</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -254,7 +279,10 @@
       </Key>
       <Title>Lt. (T./Lt.-Col.)</Title>
       <Forenames>John Alex-</Forenames>
-      <Text>ander, D.S.O., D.C.M., 2nd Bar to D.S.O</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>3224</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -272,7 +300,10 @@
     <MainItem>
       <Key>Fraser-MaoKenzie</Key>
       <Forenames>Capt</Forenames>
-      <Text>; (A./Maj.) Evelyn Robert Leopold, M.C., Companion, D.S.O</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>55</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -292,7 +323,10 @@
       </Key>
       <Title>Capt. (A./Maj.)</Title>
       <Forenames>Cecil Rayner</Forenames>
-      <Text>, M.C., Companion, D.S.O</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>2365</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -340,7 +374,13 @@
       </Key>
       <Title>2nd Lt. (A./Capt.)</Title>
       <Forenames>John Hunt</Forenames>
-      <Text>, Member, Order of the British Empire Furnivall, Lt.-Col. Charles Hilton, Companion, St. Michael and St. George Furse, Maj. Ralph Dolignon, D.S.O., Bar to D.S.O. .. Gabb, Capt. (T./Maj.) Samuel Alwyne, M.C., Officer, Order of the British Empire Gabriel, Miss Ada Baker, Royal Red Cross, 2nd CI Gain, Lt. (A./Capt.) Richard Spencer, Companion, D.S.O. Gair, Lt.-Col. Sinclair, Officer, Order of the British Empire Gajjan Singh Sardar Bahadur, Offioer, Order of the Brrtish Empire Date Gale, Lt. Frederick Richard, Member, Order of the British Empire Gallaway, Mrs. Agnes Lottie, Member.Order of the British Empire. Date</Text>
+      <Text>
+        <Honour>Companion, St. Michael and St. George</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>106</PageNumber>
     </MainItem>
     <SubItem>

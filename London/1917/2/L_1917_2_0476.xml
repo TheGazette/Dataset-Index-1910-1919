@@ -106,7 +106,9 @@
       <Key>Scrimger</Key>
       <Title>temp. Capt.</Title>
       <Forenames>F. A. C</Forenames>
-      <Text>, V.C. (temp. Maj.)</Text>
+      <Text>
+        <Honour>V.C.</Honour>
+      </Text>
       <PageNumber>4065</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -300,7 +302,9 @@
       <Key>Shertton</Key>
       <Title>temp. Lt.</Title>
       <Forenames>J. L.</Forenames>
-      <Text>, M.C. (temp. Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6145</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -879,7 +883,10 @@
       </Key>
       <Title>temp. Maj.</Title>
       <Forenames>S. A.</Forenames>
-      <Text>, D.S.O. (resigns temp, commn. on appt. to R.A.M.C.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3763</PageNumber>
     </MainItem>
     <SubItem>
@@ -961,14 +968,19 @@
       <Key>Sneatlh</Key>
       <Title>temp. Capt.</Title>
       <Forenames>T.</Forenames>
-      <Text>DA., M.C. .(irel. aotg. iraink of Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4205</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Snell</Key>
-      <Text>Lt.-Gol. A. E., D.S.O. (temp. Col.)</Text>
+      <Title>Lt.</Title>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4038</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1036,7 +1048,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Soper</Key>
-      <Text>temp. Lit. E. N. (trd.)</Text>
+      <Title>temp. Lit.</Title>
+      <Forenames>E. N.</Forenames>
+      <Text>(trd.)</Text>
       <PageNumber>5505</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1413,7 +1427,9 @@
     <MainItem>
       <Key>Stewart</Key>
       <Forenames>C. R.</Forenames>
-      <Text>, M.D. (temp. Hon. Capt.) :</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>3583</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1494,7 +1510,9 @@
       </Key>
       <Title>Lt.-Col.</Title>
       <Forenames>J. H. K.</Forenames>
-      <Text>, D.S.O. (temp. Brig.-Gen.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3408</PageNumber>
     </MainItem>
   </ItemGroup>

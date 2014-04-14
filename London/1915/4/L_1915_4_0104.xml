@@ -125,7 +125,9 @@
     <MainItem>
       <Key>Lamplough</Key>
       <Forenames>W. H.</Forenames>
-      <Text>, M.D. {temp. Lt.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>12060</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -203,7 +205,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lance</Key>
-      <Forenames>Du P. P.</Forenames>
+      <Title>Du P.</Title>
+      <Forenames>P.</Forenames>
       <Text>(temp. Capt.)</Text>
       <PageNumber>10767</PageNumber>
     </MainItem>
@@ -328,8 +331,8 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Forenames>E.</Forenames>
-      <Text>de L. B. (temp. 2nd Lt.)</Text>
+      <Forenames>E. de L</Forenames>
+      <Text>. B. (temp. 2nd Lt.)</Text>
       <PageNumber>10163</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -460,7 +463,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>S. R.</Forenames>
-      <Text>, M.D. (temp. Lt.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>10112</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -493,7 +498,7 @@
       <PageNumber>10158</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Temp. 2nd Lt</Text>
+      <Text>Temp. 2nd Lt.</Text>
       <PageNumber>10361</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -604,7 +609,7 @@
       <PageNumber>10111</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Temp. Capt</Text>
+      <Text>Temp. Capt.</Text>
       <PageNumber>12533</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -876,8 +881,8 @@
     <MainItem>
       <Key>Lamer</Key>
       <Title>2nd Lt.</Title>
-      <Forenames>D. St</Forenames>
-      <Text>. H. (confirmed)</Text>
+      <Forenames>D. St. H</Forenames>
+      <Text>. (confirmed)</Text>
       <PageNumber>12307</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -997,7 +1002,9 @@
     <MainItem>
       <Key>Last</Key>
       <Forenames>T. C</Forenames>
-      <Text>, M.D. (temp. Lt.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>9644</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1065,14 +1072,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Lathbury</Key>
-      <Text>(temp.) 2nd Lt. F. H. (transferred to General List)</Text>
+      <Title>(temp.) 2nd Lt.</Title>
+      <Forenames>F. H.</Forenames>
+      <Text>(transferred to General List)</Text>
       <PageNumber>9896</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Latimer</Key>
-      <Text>G. D.. M.B.( temp. Lt.)</Text>
+      <Forenames>G. D.</Forenames>
+      <Text>. M.B.( temp. Lt.)</Text>
       <PageNumber>10478</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1471,7 +1481,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lawder</Key>
-      <Text>C. E. (temp. Maj.)</Text>
+      <Forenames>C. E.</Forenames>
+      <Text>(temp. Maj.)</Text>
       <PageNumber>10098</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1605,7 +1616,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Lawrence</Key>
-      <Text>Lt. and Adjt. A. (temp. Capt.)</Text>
+      <Title>Lt. and Adjt.</Title>
+      <Forenames>A.</Forenames>
+      <Text>(temp. Capt.)</Text>
       <PageNumber>9872</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1661,7 +1674,7 @@
       <PageNumber>12534</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Temp. Capt</Text>
+      <Text>Temp. Capt.</Text>
       <PageNumber>12802</PageNumber>
     </SubItem>
   </ItemGroup>

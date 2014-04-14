@@ -70,7 +70,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Birkenshaw</Key>
-      <Text>. 2nd Lt., Admin., J. J. [ (2nd Lt., A. &amp; S.)</Text>
+      <Title>2nd Lt., Admin.</Title>
+      <Text>, J. J. [ (2nd Lt., A. &amp; S.)</Text>
       <PageNumber>5995</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -341,7 +342,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Bloxham</Key>
-      <Text>. Cadet A. R. (temp. 2nd</Text>
+      <Title>Cadet</Title>
+      <Forenames>A. R.</Forenames>
+      <Text>(temp. 2nd</Text>
       <PageNumber>6228</PageNumber>
     </MainItem>
     <SubItem>
@@ -493,7 +496,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Bonser</Key>
-      <Text>. 2nd Lt. R. (temp. Capt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>R.</Forenames>
+      <Text>(temp. Capt.)</Text>
       <PageNumber>7490</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -644,7 +649,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Boult</Key>
-      <Text>. temp. 2nd Lt. (in Army)* C. E. E. (temp. 2nd Lt., Obs. Offr.)</Text>
+      <Title>temp. 2nd Lt. (in Army)</Title>
+      <Text>* C. E. E. (temp. 2nd Lt., Obs. Offr.)</Text>
       <PageNumber>6591</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -731,7 +737,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bourner</Key>
-      <Text>. 2nd lit. (Admin.) R. R. (2nd Lt., A. &amp; S.)</Text>
+      <Text>2nd lit. (Admin.) R. R. (2nd Lt., A. &amp; S.)</Text>
       <PageNumber>5995</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -767,7 +773,9 @@
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Bowdler</Forenames>
-      <Text>, temp. Capt. (R.A.M.C.) A. P. (temp. Capt. and temp. Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6223</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1011,7 +1019,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Brand</Key>
-      <Text>lit. (temp. Capt.) C. J. Q., M.C. (temp. Ma].),</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6935</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1020,7 +1030,9 @@
       <Key>Brandon</Key>
       <Title>temp. 2nd Lt. (in Army)</Title>
       <Forenames>T.</Forenames>
-      <Text>, M.C. (temp. 2nd Lt.. A. &amp;</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6591</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1045,7 +1057,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Breeze</Key>
-      <Text>. N. G. (temp. 2nd Lt.. Obs</Text>
+      <Forenames>N. G.</Forenames>
+      <Text>(temp. 2nd Lt.. Obs</Text>
       <PageNumber>6592</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1107,7 +1120,9 @@
     <MainItem>
       <Key>Brewster</Key>
       <Title>temp. Capt. (in Army)</Title>
-      <Text>, G. D., M.C. (temp. 2nd Lt., A. &amp; S., and Hon. Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7326</PageNumber>
     </MainItem>
   </ItemGroup>

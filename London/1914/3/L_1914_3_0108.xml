@@ -2,9 +2,9 @@
 <Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="108" pageID="https://www.thegazette.co.uk/id/London/index/year/1914/volume/3/page/108" pagePDF="https://www.thegazette.co.uk/London/index/year/1914/volume/3/page/108" pageRDF="https://www.thegazette.co.uk/London/index/year/1914/volume/3/page/108?view=linked-data" type="index" volume="3" year="1914">
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Neck</Forenames>
-      <Text>, Charles H. (Lieut.)</Text>
+      <Key>Van Neck</Key>
+      <Forenames>Charles H.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>7576</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -341,8 +341,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Lieut</Forenames>
-      <Text>, on probation)</Text>
+      <Title>Lieut, on probation</Title>
+      <Text>)</Text>
       <PageNumber>6906</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1119,9 +1119,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Wilkie-Dalyell</Key>
-      <Title>Sir</Title>
+      <Title>Sir-</Title>
       <Forenames>James Bruce</Forenames>
-      <Text>, Bt. (Maj.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>7299</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1137,7 +1139,9 @@
       <Key>Williams</Key>
       <Title>Sir .</Title>
       <Forenames>Burton Robert</Forenames>
-      <Text>, Bt. (2nd Lieut, on probation)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>7227</PageNumber>
     </MainItem>
   </ItemGroup>

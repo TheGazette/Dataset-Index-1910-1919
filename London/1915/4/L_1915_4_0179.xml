@@ -509,7 +509,7 @@
       <PageNumber>10018</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Temp. Lt.-Col</Text>
+      <Text>Temp. Lt.-Col.</Text>
       <PageNumber>10240</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -595,7 +595,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>A. N.</Forenames>
-      <Text>, F.R.C.S. (I.) (Capt.)</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>9659</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1246,7 +1248,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Crosbie</Key>
-      <Text>Qrmr. and Hon. Lt. E. W. (correction of date)</Text>
+      <Title>Qrmr. and Hon. Lt.</Title>
+      <Forenames>E. W.</Forenames>
+      <Text>(correction of date)</Text>
       <PageNumber>10641</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1445,8 +1449,8 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Title>2nd Lt.</Title>
-      <Forenames>J.</Forenames>
-      <Text>de B. (seconded)</Text>
+      <Forenames>J. de B</Forenames>
+      <Text>. (seconded)</Text>
       <PageNumber>10639</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1824,7 +1828,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cumming</Key>
-      <Text>G. (2nd Lt.) i</Text>
+      <Forenames>G.</Forenames>
+      <Text>(2nd Lt.) i</Text>
       <PageNumber>0034</PageNumber>
     </MainItem>
   </ItemGroup>

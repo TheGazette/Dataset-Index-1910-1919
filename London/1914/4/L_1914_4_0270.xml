@@ -137,7 +137,10 @@
       <Key>Rolleston</Key>
       <Title>Lieut.-Col. and Hon. Col. Sir</Title>
       <Forenames>Lancelot</Forenames>
-      <Text>, K.C.B., D.S.O. (Hon. Col.)</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8047</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -261,15 +264,17 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. John, William Eustace (temporary Maj.)</Text>
+      <Key>St. John</Key>
+      <Forenames>William Eustace</Forenames>
+      <Text>(temporary Maj.)</Text>
       <PageNumber>10561</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>. Maur, Frederick Percy (2nd . Lieut.)</Text>
+      <Forenames>Maur</Forenames>
+      <Text>, Frederick Percy (2nd . Lieut.)</Text>
       <PageNumber>9697</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -479,7 +484,10 @@
       <Key>Sefton</Key>
       <Title>The Right Hon.</Title>
       <Forenames>Osbert Cecil</Forenames>
-      <Text>, Earl of, P.C., K.G. (temporary Maj.)</Text>
+      <Text>
+        <Honour>P.C.</Honour>
+        <Honour>K.G.</Honour>
+      </Text>
       <PageNumber>8864</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -765,8 +773,8 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Title>Maj.</Title>
-      <Forenames>George R.</Forenames>
-      <Text>de Heriez (Maj.)</Text>
+      <Forenames>George R. de Heriez</Forenames>
+      <Text>(Maj.)</Text>
       <PageNumber>8005</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -849,7 +857,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Spencer</Key>
-      <Text>. Hugh V. Berkley (2ndi Lieut.)</Text>
+      <Forenames>Hugh V. Berkley</Forenames>
+      <Text>(2ndi Lieut.)</Text>
       <PageNumber>8736</PageNumber>
     </MainItem>
     <SubItem>
@@ -870,8 +879,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sperling</Key>
-      <Title>St.</Title>
-      <Forenames>John Van Hagen</Forenames>
+      <Forenames>St. John Van Hagen</Forenames>
       <Text>(2nd</Text>
       <PageNumber>8223</PageNumber>
     </MainItem>
@@ -900,7 +908,9 @@
       <Key>Spragge</Key>
       <Title>Lieut.-Col.</Title>
       <Forenames>Basil Edward</Forenames>
-      <Text>, D.S.O. (temporary Lieut.-Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>9025</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -925,7 +935,9 @@
       <Key>Stamer</Key>
       <Title>Maj. Sir</Title>
       <Forenames>Lovelace</Forenames>
-      <Text>, Bart, (temporary Lieut.-Col.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>8864</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1150,7 +1162,9 @@
       <Key>Stracey</Key>
       <Title>Sir</Title>
       <Forenames>Edward Paulet</Forenames>
-      <Text>, Bt. (temporary Capt.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>10900</PageNumber>
     </MainItem>
   </ItemGroup>

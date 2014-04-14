@@ -693,7 +693,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hudson</Key>
-      <Text>. Robert Spear (temporary 2nd Lieut.)</Text>
+      <Forenames>Robert Spear</Forenames>
+      <Text>(temporary 2nd Lieut.)</Text>
       <PageNumber>8847</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -726,7 +727,9 @@
       <Key>Lampsoh</Key>
       <Title>Sir</Title>
       <Forenames>Curtis George</Forenames>
-      <Text>, Bt. (temporary 2nd Lieut.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>8519</PageNumber>
     </MainItem>
     <SubItem>
@@ -854,8 +857,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. John, Geoffrey Robert (temporary 2nd Lieut.)</Text>
+      <Key>St. John</Key>
+      <Forenames>Geoffrey Robert</Forenames>
+      <Text>(temporary 2nd Lieut.)</Text>
       <PageNumber>9271</PageNumber>
     </MainItem>
   </ItemGroup>

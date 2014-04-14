@@ -3,7 +3,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mr</Key>
-      <Text>.tbie30n, temp. Sjt.-Maj. W. (2nd Lt. for service in the Field)</Text>
+      <Text>tbie30n, temp. Sjt.-Maj. W. (2nd Lt. for service in the Field)</Text>
       <PageNumber>5828</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -30,7 +30,9 @@
       <Key>Matson</Key>
       <Title>Lt.</Title>
       <Forenames>C</Forenames>
-      <Text>, M.C. (Adjt. and actg Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5568</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -221,7 +223,9 @@
       </Key>
       <Title>temp. 2nd Lt.</Title>
       <Forenames>G.</Forenames>
-      <Text>, M.C. (actg. Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7282</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -408,7 +412,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>S. H.</Forenames>
-      <Text>, M.C. (temp. Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4083</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -440,7 +446,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>T. F. V.</Forenames>
-      <Text>, M.C. (actg. Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5445</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -535,7 +543,10 @@
       <Key>Mattinson</Key>
       <Title>Capt. (actg. Maj.)</Title>
       <Forenames>A. B.</Forenames>
-      <Text>, M.C., F.R.C.V.S. (Bt. Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>6517</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -590,7 +601,9 @@
       </Key>
       <Title>temp. 2nd Lt.</Title>
       <Forenames>W.</Forenames>
-      <Text>(trd. to M.G.C. Infy.)</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>6306</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -637,7 +650,9 @@
       <Key>Maude</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>E. A.</Forenames>
-      <Text>(Bt. Col.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>6516</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -648,7 +663,9 @@
       </Key>
       <Title>2nd Lt.</Title>
       <Forenames>E. W.</Forenames>
-      <Text>, M.C. (Lt. and rem. seed.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6883</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -781,7 +798,9 @@
       <Key>Maunder</Key>
       <Title>temp. Lt.</Title>
       <Forenames>G. H.</Forenames>
-      <Text>, M.C. (trd. to Gen. List)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4376</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -801,7 +820,10 @@
       <Key>Maurice</Key>
       <Title>Maj.-Gen. Sir</Title>
       <Forenames>F</Forenames>
-      <Text>, B., K.C.M.G., C.B. (placed on retd. pay.)</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>5681</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -938,7 +960,9 @@
       </Key>
       <Title>2nd Lt.</Title>
       <Forenames>W. L.</Forenames>
-      <Text>(trd. to M.G.C. Infy.)</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>7608</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -973,7 +997,10 @@
       <Key>Maxted</Key>
       <Title>temp. Lt.</Title>
       <Forenames>G.</Forenames>
-      <Text>,M.D.,F.R.C.S. (temp. Capt.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>5427</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1078,7 +1105,9 @@
       </Key>
       <Title>temp. Lt. (actg. Capt. and Adjt.)</Title>
       <Forenames>J.</Forenames>
-      <Text>, M.C. (R. Ir. Rif.) (temp. Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5567</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1089,7 +1118,9 @@
       </Key>
       <Title>temp. Lt.</Title>
       <Forenames>J.</Forenames>
-      <Text>, M.D. (actg. Maj.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>6663</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1207,7 +1238,9 @@
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
       <Title>temp. Lt.-Col.</Title>
-      <Text>, attd., R. D. P., D.S.O. (to comd. a Garr. Bn.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>690</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1226,7 +1259,11 @@
     <MainItem>
       <Key>Maxwell-Scott</Key>
       <Title>Maj.</Title>
-      <Text>&amp; Bt. Lt.-Col. (temp. Brig.-Gen.) W. J., D.S.O. (Sco. Rif.) (Bt. Col.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>6455</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1266,7 +1303,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>C. W. P.</Forenames>
-      <Text>, M.C. (placed on ret. list on acc. of illhealth contracted on active service)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7382</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1288,7 +1327,9 @@
       </Key>
       <Title>temp. Lt.</Title>
       <Forenames>D. W. G.</Forenames>
-      <Text>, M.C. (actg. Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7549</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1387,7 +1428,9 @@
       </Key>
       <Title>2nd Lt.</Title>
       <Forenames>R. B.</Forenames>
-      <Text>(trd. to M.G.C. Infy.)</Text>
+      <Text>
+        <Honour>G.C.</Honour>
+      </Text>
       <PageNumber>7282</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1398,7 +1441,9 @@
       </Key>
       <Title>2nd Lt.</Title>
       <Forenames>R. W.</Forenames>
-      <Text>, M.C. (Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4069</PageNumber>
     </MainItem>
   </ItemGroup>

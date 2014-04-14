@@ -599,7 +599,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Reynolds</Key>
-      <Text>., Lieut, (temporary Capt.,)Herbert R. P. (Flight Commander, and, to retain temporary, rank)</Text>
+      <Text>, Lieut, (temporary Capt.,)Herbert R. P. (Flight Commander, and, to retain temporary, rank)</Text>
       <PageNumber>10692</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -633,7 +633,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ross-Hume</Key>
-      <Text>. Capt. Alexander. (Flight Commander)</Text>
+      <Title>Capt. Alexander. (Flight Commander)</Title>
       <PageNumber>9362</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -649,7 +649,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Russell</Key>
-      <Text>. Lieut. Arthur L. (Flying Officer.)</Text>
+      <Title>Lieut.</Title>
+      <Forenames>Arthur L.</Forenames>
+      <Text>(Flying Officer.)</Text>
       <PageNumber>9110</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -746,7 +748,10 @@
       <Key>Trenchard</Key>
       <Title>Maj. (temporary Lieufc.-CoL)</Title>
       <Forenames>Hugh M.</Forenames>
-      <Text>, C.B., D.S.O. (Wing Commander, and to retain temporary rank)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>9404</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -778,8 +783,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Warrand</Key>
-      <Forenames>Alastair St</Forenames>
-      <Text>. J. M. (Flying Officer, and to be seconded)</Text>
+      <Forenames>Alastair St. J</Forenames>
+      <Text>. M. (Flying Officer, and to be seconded)</Text>
       <PageNumber>9110</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -828,7 +833,9 @@
       <Key>Fulton</Key>
       <Title>Maj.</Title>
       <Forenames>John D.</Forenames>
-      <Text>, B., C.B. (temporary. Lieut-Col.-)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>10668</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -887,9 +894,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Rainsford-Hannay</Key>
-      <Title>Hon.</Title>
-      <Forenames>Briga-</Forenames>
-      <Text>dier-Gen. Frederick, C.B. (temporary Commandant)</Text>
+      <Title>Hon. Brigadier-Gen.</Title>
+      <Forenames>Frederick</Forenames>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>8482</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -899,7 +908,9 @@
       <Key>Cowie</Key>
       <Title>Maj.</Title>
       <Forenames>Hugh N. R.</Forenames>
-      <Text>, D.S.O. (Commandant) U</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>202</PageNumber>
     </MainItem>
   </ItemGroup>

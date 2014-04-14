@@ -542,7 +542,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Bannatine</Key>
-      <Text>Allason, Maj.-Gen. Richard, C.B. (to command a Division) ... ...</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -550,15 +552,19 @@
     <MainItem>
       <Key>Barter</Key>
       <Title>Maj.-Gen.</Title>
-      <Forenames>Charles St</Forenames>
-      <Text>. L., C.V.O., O.B. (temporary) (to command a Division) i</Text>
+      <Forenames>Charles St. L</Forenames>
+      <Text>
+        <Honour>C.V.O.</Honour>
+      </Text>
       <PageNumber>7197</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Bartlett</Key>
-      <Text>. Col. W. T. (temporary) (Col. dn charge of Records)</Text>
+      <Title>Col.</Title>
+      <Forenames>W. T.</Forenames>
+      <Text>(temporary) (Col. dn charge of Records)</Text>
       <PageNumber>7003</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -567,7 +573,9 @@
       <Key>Bayford</Key>
       <Title>Capt.</Title>
       <Forenames>Edmund H</Forenames>
-      <Text>, D.S.O. (Brigade-Maj. and to be seconded)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6679</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -585,7 +593,9 @@
       <Key>Buckley</Key>
       <Title>Col.</Title>
       <Forenames>A. D. B.</Forenames>
-      <Text>, C.B. (temporary) (Col. in charge of Records)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -647,7 +657,9 @@
       <Key>Cox</Key>
       <Title>Lieut.-Col.</Title>
       <Forenames>E. H</Forenames>
-      <Text>, D.S.O. (temporary) (Col. in charge of Records)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7003</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -665,7 +677,9 @@
       <Key>Graham</Key>
       <Title>Maj.-Gen.</Title>
       <Forenames>Edward R. C</Forenames>
-      <Text>, C.B. (to command a Division)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>6208</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -685,7 +699,9 @@
       <Key>Hayden</Key>
       <Title>Lieut.-Col.</Title>
       <Forenames>F. A.</Forenames>
-      <Text>, D.S.O. (temporary) (Col. in charge of Records) ...</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -703,7 +719,11 @@
       <Key>Lovat</Key>
       <Title>Col.</Title>
       <Forenames>S. J.</Forenames>
-      <Text>Lord, K.C.V.O., C.B., D.S.O. (temporary) (Brigade Commander)</Text>
+      <Text>
+        <Honour>K.C.V.O.</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7097</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -712,7 +732,9 @@
       <Key>Nugent</Key>
       <Title>Col.</Title>
       <Forenames>George C</Forenames>
-      <Text>, M.V.O. (temporary) (Brigade Commander)</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1079,7 +1101,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Murdoch</Key>
-      <Text>. Alan James (2nd Lieut.)</Text>
+      <Forenames>Alan James</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>6407</PageNumber>
     </MainItem>
   </ItemGroup>

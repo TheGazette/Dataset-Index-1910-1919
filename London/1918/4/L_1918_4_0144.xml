@@ -4,7 +4,9 @@
     <MainItem>
       <Key>Inches</Key>
       <Title>Lt.-Col.</Title>
-      <Text>' EdwardJames D.S.O., Clockmaiker to His Majesty the King in Scotland</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>11856</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -12,7 +14,9 @@
     <MainItem>
       <Key>Ing</Key>
       <Title>Maj.</Title>
-      <Text>'(A./Lt.-Col.) George Harold Abseil, D.S.O., Bar to D.S.O</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>12052</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -65,7 +69,10 @@
       </Key>
       <Title>Capt. (T./Lt.-CcJ.)</Title>
       <Forenames>Arnold Nugent Strode</Forenames>
-      <Text>, D.S.O., 3rd Bar to D.S.O</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>14205</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -75,7 +82,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Title>Capt.</Title>
-      <Text>&lt;T./Lt.-Col.) Ed-ward Darby, D.S.O., 2nd Bar to D.S.O</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>14205</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -92,7 +101,10 @@
     <MainItem>
       <Key>Jameson</Key>
       <Forenames>T.</Forenames>
-      <Text>/Lt. Frank Robert Wordsworth, M.C., Companion, D.S.O</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>12054</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -101,14 +113,17 @@
       <Key>Jamreson</Key>
       <Title>2nd Lt. (A./Capt.)</Title>
       <Forenames>John Percival</Forenames>
-      <Text>, Companion, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>14211</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Jardine</Key>
-      <Text>Douglas James, Officer, Order of the British Empire</Text>
+      <Forenames>Douglas James</Forenames>
+      <Text>, Officer, Order of the British Empire</Text>
       <PageNumber>11776</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -117,7 +132,9 @@
       <Key>Jennings</Key>
       <Title>Maj.</Title>
       <Forenames>Douglas Cecil</Forenames>
-      <Text>, Companion, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>13135</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -135,7 +152,9 @@
         <KeyDitto>— ___ ___</KeyDitto>
       </Key>
       <Forenames>Edward Odtum</Forenames>
-      <Text>, I.S.O., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>I.S.O</Honour>
+      </Text>
       <PageNumber>11776</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -156,7 +175,9 @@
       </Key>
       <Title>2nd Lt.</Title>
       <Forenames>James</Forenames>
-      <Text>, Victoria Cross</Text>
+      <Text>
+        <Honour>Victoria Cross</Honour>
+      </Text>
       <PageNumber>15118</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -167,7 +188,10 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>John Heber</Forenames>
-      <Text>, M.C., Companion, D.S.O. (award cancelled]</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>14291</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -178,7 +202,9 @@
       </Key>
       <Title>Sjt.</Title>
       <Forenames>William Henry</Forenames>
-      <Text>, Victoria Cross</Text>
+      <Text>
+        <Honour>Victoria Cross</Honour>
+      </Text>
       <PageNumber>14776</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -209,7 +235,10 @@
       </Key>
       <Title>Capt. (A./Lt.-Col.)</Title>
       <Forenames>Charles Evelyn</Forenames>
-      <Text>, M.C., Companion, D.S.O</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>13134</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -245,49 +274,70 @@
   <ItemGroup>
     <MainItem>
       <Key>Jordan</Key>
-      <Text>Herbert James, Member, Order of the British Empire</Text>
+      <Forenames>Herbert James</Forenames>
+      <Text>, Member, Order of the British Empire</Text>
       <PageNumber>14906</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Joynt</Key>
-      <Text>Lt. William Donovan, Victoria Cross</Text>
+      <Title>Lt.</Title>
+      <Forenames>William Donovan</Forenames>
+      <Text>
+        <Honour>Victoria Cross</Honour>
+      </Text>
       <PageNumber>14040</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Judd</Key>
-      <Text>Cant. (T./Lt.-Col.) Bertram Christopher. D.S.O., Officer, . Order of the British Empire</Text>
+      <Title>Cant. (T./Lt.-Col.)</Title>
+      <Forenames>Bertram Christopher</Forenames>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>14905</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Judson</Key>
-      <Text>. Sjt. Reginald Stanley, D.C.M.. M-.M. Victoria Cross</Text>
+      <Text>
+        <Honour>D.C.M.</Honour>
+        <Honour>Victoria Cross</Honour>
+      </Text>
       <PageNumber>12802</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Kauntz</Key>
-      <Text>Capt. WilHam Henry, ' Member. Order of the British Empire</Text>
+      <Title>Capt.</Title>
+      <Text>WilHam Henry, ' Member. Order of the British Empire</Text>
       <PageNumber>13578</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Kay</Key>
-      <Text>Capt. (A./Maj.) Jack Kilbourne. Companion. D.S.O</Text>
+      <Title>Capt. (A./Maj.)</Title>
+      <Forenames>Jack Kil-</Forenames>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>12054</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Kazamian</Key>
-      <Text>temp. Hon. Maj. Varaztad H.. Companion, St. Michael and St. George</Text>
+      <Title>temp. Hon. Maj.</Title>
+      <Forenames>Varaztad H.</Forenames>
+      <Text>
+        <Honour>Companion, St. Michael and St. George</Honour>
+      </Text>
       <PageNumber>12693</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -343,7 +393,11 @@
     <MainItem>
       <Key>Keyes</Key>
       <Forenames>Vice-Adml</Forenames>
-      <Text>. Sir Roger John (Brownlow, K.CiB., C.M.G., C. V.O., D.S.O., Knight Comdr.,.Royal Victorian Order</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>14815</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -377,7 +431,11 @@
       <Key>Kilburn</Key>
       <Title>Lt.</Title>
       <Forenames>Arthur Rubin</Forenames>
-      <Text>, M.C., M.M., Companion, D.S.O</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>M.M.</Honour>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>14213</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -385,7 +443,9 @@
     <MainItem>
       <Key>King</Key>
       <Title>Capt.</Title>
-      <Text>i(A./Lt.-Col.) Dennis' Malcolm, D.iS.iO., M.C., Bar to D.S.O</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>13132</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -402,7 +462,9 @@
     <MainItem>
       <Key>Kirkcaldy</Key>
       <Title>Lit.</Title>
-      <Text>-Coll. James, D.S.O., 2nd Bar to D.S.O</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>14206</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -410,7 +472,9 @@
     <MainItem>
       <Key>Kirkpatrick</Key>
       <Title>Maj.-Gen.</Title>
-      <Text>'(T./Lt.Oen.) Sir George Macaulav, K.C.S.I., C.B., Knight. Commander, Order of the Bath</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>14903</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -443,7 +507,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Knight</Key>
-      <Text>A./Sjt. Arthur George, Victoria Cross</Text>
+      <Forenames>A.</Forenames>
+      <Text>
+        <Honour>Victoria Cross</Honour>
+      </Text>
       <PageNumber>13472</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -512,35 +579,46 @@
   <ItemGroup>
     <MainItem>
       <Key>Lamb</Key>
-      <Text>Miss Violet Isabel, Royal Red Cross, 2nd CI</Text>
+      <Title>Miss</Title>
+      <Forenames>Violet Isabel</Forenames>
+      <Text>, Royal Red Cross, 2nd CI</Text>
       <PageNumber>13565</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Lambert</Key>
-      <Text>Maj. Walter John, D.S.O.. Bar to D.S.O</Text>
+      <Title>Maj.</Title>
+      <Forenames>Walter John</Forenames>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>14207</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Lambton</Key>
-      <Text>Capt. Claud, Companion, D.S.O</Text>
+      <Title>Capt.</Title>
+      <Forenames>Claud</Forenames>
+      <Text>, Companion, D.S.O</Text>
       <PageNumber>13135</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Lamont</Key>
-      <Text>James, Member, Order of the British Empire,</Text>
+      <Forenames>James</Forenames>
+      <Text>, Member, Order of the British Empire,</Text>
       <PageNumber>11775</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Lang</Key>
-      <Text>William Grahome, Unofficial Member of the Legislative Council of the Island of Grenada</Text>
+      <Forenames>William Grahome</Forenames>
+      <Text>, Unofficial Member of the Legislative Council of the Island of Grenada</Text>
       <PageNumber>14111</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -549,7 +627,9 @@
       <Key>Laurent</Key>
       <Title>Sjt.</Title>
       <Forenames>Harry John</Forenames>
-      <Text>, Victoria Cross'</Text>
+      <Text>
+        <Honour>Victoria Cross</Honour>
+      </Text>
       <PageNumber>13472</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -572,7 +652,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Lawrence</Key>
-      <Text>Maj i(A;/Lt.-Col.) Hervey Major, D.S.O., Bar to D.S.O</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>13132</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -588,7 +670,10 @@
     <MainItem>
       <Key>Layh</Key>
       <Title>Lt.</Title>
-      <Text>-Obl. Herbert Thomas Ohristoph, D.S.O., Bar .to (D.S.O. (corr.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>12101</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -612,7 +697,9 @@
     <MainItem>
       <Key>Le</Key>
       <Forenames>Page</Forenames>
-      <Text>, Eng. Lt.-Cdr. (Act. Eng. Cdr.) George Wilfred, Companion, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>11782</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -629,7 +716,9 @@
       <Key>Leckv</Key>
       <Title>Cdr.</Title>
       <Forenames>Arthur Macaulav</Forenames>
-      <Text>, Companion, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>14643</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -673,7 +762,9 @@
     <MainItem>
       <Key>Lester</Key>
       <Forenames>Pte Frank</Forenames>
-      <Text>, Victoria Cross</Text>
+      <Text>
+        <Honour>Victoria Cross</Honour>
+      </Text>
       <PageNumber>14778</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -700,7 +791,9 @@
       <Key>Leyland</Key>
       <Title>Maj.</Title>
       <Forenames>Frederick Beadle</Forenames>
-      <Text>, Member, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>14815</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -708,7 +801,9 @@
     <MainItem>
       <Key>Lim</Key>
       <Forenames>Boon</Forenames>
-      <Text>, Keng, O.B.E., Unofficial Member of the Legislative Council of the Straits Settlements</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>13000</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -717,7 +812,9 @@
       <Key>Little</Key>
       <Title>Capt.</Title>
       <Forenames>George Wilfred</Forenames>
-      <Text>, Memiber. Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>14815</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -733,7 +830,10 @@
     <MainItem>
       <Key>Liverpool</Key>
       <Title>His Excellency</Title>
-      <Text>the Rt. Honble. Sir Arthur William de Brito Saville, Earl of, 'G.C.M.G., M.V.O., Knight Grand Cross, Order of the British Empire . -</Text>
+      <Text>
+        <Honour>G.C.M.G.</Honour>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>11772</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -749,7 +849,10 @@
     <MainItem>
       <Key>Lloyd</Key>
       <Title>Capt.</Title>
-      <Text>. George Ambrose. CLE., D.S.O., M.P., Knight Grand Commander, . Order of the Indian Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>11969</PageNumber>
     </MainItem>
     <SubItem>
@@ -761,7 +864,9 @@
     <MainItem>
       <Key>Lochhead</Key>
       <Forenames>James</Forenames>
-      <Text>, M.D., B:Sc, Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>11777</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -795,7 +900,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Logan</Key>
-      <Text>Maj. Robert Hector. Officer, Order of the British Empire</Text>
+      <Title>Maj.</Title>
+      <Forenames>Robert Hector</Forenames>
+      <Text>. Officer, Order of the British Empire</Text>
       <PageNumber>13578</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -810,14 +917,18 @@
   <ItemGroup>
     <MainItem>
       <Key>Lorimer</Key>
-      <Text>Mrs. Hida. Officer, Order of the British Empire</Text>
+      <Title>Mrs. Hida.</Title>
+      <Forenames>Officer</Forenames>
+      <Text>, Order of the British Empire</Text>
       <PageNumber>13580</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Love</Key>
-      <Text>Mrs. Rnoka Wharawhara. Officer. Order of the British Empire</Text>
+      <Title>Mrs.</Title>
+      <Forenames>Rnoka Wharawhara</Forenames>
+      <Text>. Officer. Order of the British Empire</Text>
       <PageNumber>11773</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -843,7 +954,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Lowersnn</Key>
-      <Text>Sit. Albert David. Victoria Cross</Text>
+      <Title>Sit.</Title>
+      <Forenames>Albert David</Forenames>
+      <Text>
+        <Honour>Victoria Cross</Honour>
+      </Text>
       <PageNumber>14777</PageNumber>
     </MainItem>
   </ItemGroup>

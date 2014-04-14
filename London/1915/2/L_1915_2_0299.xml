@@ -61,8 +61,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rothwell</Key>
-      <Title>Lieut.</Title>
-      <Text>-Commander Mark Sutton</Text>
+      <Title>Lieut.-Commander</Title>
+      <Forenames>Mark Sutton</Forenames>
       <PageNumber>3337</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -88,7 +88,9 @@
     <MainItem>
       <Key>Babington</Key>
       <Forenames>John Tremayne</Forenames>
-      <Text>, D.S.O. (Squadron-Commander)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5388</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -298,6 +300,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Grey</Key>
+      <Forenames>Nigel</Forenames>
+      <Text>(temporary Flight Sub-Lieut.)</Text>
+      <PageNumber>5107</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Delacombe</Key>
       <Forenames>Harry</Forenames>
       <Text>(temporary Flight-Commander)</Text>
@@ -317,8 +327,8 @@
     <MainItem>
       <Key>Digby</Key>
       <Title>Flight</Title>
-      <Forenames>Sub-Lieut Frank Thomas</Forenames>
-      <Text>(confirmed)</Text>
+      <Forenames>Sub-</Forenames>
+      <Text>Lieut Frank Thomas (confirmed)</Text>
       <PageNumber>4175</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -802,7 +812,9 @@
     <MainItem>
       <Key>Peirse</Key>
       <Forenames>Richard E. Charles</Forenames>
-      <Text>, D.S.O. (Flight-Commander)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4651</PageNumber>
     </MainItem>
   </ItemGroup>

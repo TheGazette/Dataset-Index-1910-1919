@@ -418,7 +418,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Davison</Key>
-      <Text>2nd Lt. (Admin.) E. G. (En* Lt.. Tech.) IPdP* Corr. of surname</Text>
+      <Title>2nd Lt. (Admin.)</Title>
+      <Forenames>E. G.</Forenames>
+      <Text>(En* Lt.. Tech.) IPdP* Corr. of surname</Text>
       <PageNumber>13318</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -565,7 +567,9 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>M.C. (temp. Capt., O.) ... End Lt. (aotg. Lt.) H. L. .{.Lt.,</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>16062</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -690,9 +694,36 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Carter</Forenames>
-      <Text>, Fit. Cadet G. W. H. (temp. 2nd Lt., A.)</Text>
+      <Key>de Balabre</Key>
+      <Title>Lt.</Title>
+      <Forenames>V. M.</Forenames>
+      <Text>(dismissed the Service Iby sentence . of G.C.M.)</Text>
+      <PageNumber>14574</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Beanfort-i</Key>
+      <Forenames>Suiohl</Forenames>
+      <Text>&amp;ck, Lt. F. J. (rel. oommn.)</Text>
+      <PageNumber>12904</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Beer</Key>
+      <Title>Flit. Cadet</Title>
+      <Forenames>F. W.</Forenames>
+      <Text>(temp. End Lt., A. and S.)</Text>
+      <PageNumber>11865</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Carter</Key>
+      <Title>Fit. Cadet</Title>
+      <Forenames>G. W. H.</Forenames>
+      <Text>(temp. 2nd Lt., A.)</Text>
       <PageNumber>11975</PageNumber>
       <PageNumber>13005</PageNumber>
     </MainItem>
@@ -708,6 +739,15 @@
       <Text>, Fit. Oadet E. G. (temp. End Lt., Obsvr. Offr.)</Text>
       <PageNumber>11978</PageNumber>
     </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Ferrars</Key>
+      <Title>2nd Lt. (Hon. Capt.)</Title>
+      <Forenames>S. K.</Forenames>
+      <Text>DA. (actg. Lt., Gr. B)</Text>
+      <PageNumber>13744</PageNumber>
+    </MainItem>
     <SubItem>
       <Text>Actg. Capt., Gr. B</Text>
       <PageNumber>15292</PageNumber>
@@ -722,16 +762,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Title>La.</Title>
+      <Key>De La</Key>
       <Text>pla.nte, Oadet C. J. (temp. 2nd' Lt. A.)</Text>
       <PageNumber>13496</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>La Vergjie</Forenames>
+      <Key>De La</Key>
+      <Forenames>Vergjie</Forenames>
       <Text>, Cadet C. (temp. End Lt. A.)</Text>
       <PageNumber>12707</PageNumber>
     </MainItem>
@@ -754,6 +793,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Morency</Key>
+      <Title>Lt.</Title>
+      <Forenames>P. B. O. L. B.</Forenames>
+      <Text>(temp. Capt.)</Text>
+      <PageNumber>12254</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>De</Key>
       <Forenames>Moyee-Bueknald</Forenames>
       <Text>, temp. . Lt. (Armv) S. P. B. (temp. 2nd Lt., Obsvr. Offir. and Hon. Lt.)</Text>
@@ -766,18 +814,29 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Pass</Forenames>
-      <Text>, Lt. (T.F.) R. D. (temp. 2nd Lt., Obsvr. Offr. and Hon, Lt.)</Text>
+      <Key>De Pass</Key>
+      <Title>Lt. (T.F.)</Title>
+      <Forenames>R. D.</Forenames>
+      <Text>(temp. 2nd Lt., Obsvr. Offr. and Hon, Lt.)</Text>
       <PageNumber>14157</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Roper Fit</Forenames>
-      <Text>. Oadet H. P. (temp. End Lt., Obsvr. Offr.)</Text>
+      <Key>De Roper</Key>
+      <Title>Fit.</Title>
+      <Forenames>Oadet H. P.</Forenames>
+      <Text>(temp. End Lt., Obsvr. Offr.)</Text>
       <PageNumber>14673</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Ropp</Key>
+      <Title>Lt. (temp. Capt.)</Title>
+      <Forenames>W. S.</Forenames>
+      <Text>(red. appt. of S.O., 3rd CI., and temp, rank of Capt.)</Text>
+      <PageNumber>12621</PageNumber>
     </MainItem>
     <SubItem>
       <Text>Lt., Admin., and rel. actg. rank of Capt</Text>
@@ -786,10 +845,20 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Turlberville</Forenames>
-      <Text>, Fit. Cadet W. E. (temp. 2nd Lt., Obsvr. Offr.)</Text>
+      <Key>De Turlberville</Key>
+      <Title>Fit. Cadet</Title>
+      <Forenames>W. E.</Forenames>
+      <Text>(temp. 2nd Lt., Obsvr. Offr.)</Text>
       <PageNumber>12256</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Verteudl</Key>
+      <Title>Fit. Cadet</Title>
+      <Forenames>M.</Forenames>
+      <Text>(temp. 2nd Lt., Obsvr. Offr.)</Text>
+      <PageNumber>14138</PageNumber>
     </MainItem>
     <SubItem>
       <Text>Not. cancelled</Text>
@@ -798,17 +867,19 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Ville</Forenames>
-      <Text>, Capt. E. A. de L. (temp. Maj., A. and S.)</Text>
+      <Key>De Ville</Key>
+      <Title>Capt.</Title>
+      <Forenames>E. A. de L</Forenames>
+      <Text>. (temp. Maj., A. and S.)</Text>
       <PageNumber>12706</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Villiems</Forenames>
-      <Text>, Fit. Cadet C. B. (temp. 2nd Lt A. and S.)</Text>
+      <Key>De Villiems</Key>
+      <Title>Fit. Cadet</Title>
+      <Forenames>C. B.</Forenames>
+      <Text>(temp. 2nd Lt A. and S.)</Text>
       <PageNumber>11975</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -821,17 +892,30 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Waal</Forenames>
-      <Text>, 2nd Lt. H. J. (corr. of date of appt.)</Text>
+      <Key>De Waal</Key>
+      <Title>2nd Lt.</Title>
+      <Forenames>H. J.</Forenames>
+      <Text>(corr. of date of appt.)</Text>
       <PageNumber>12130</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Wolfe</Forenames>
-      <Text>, Cadet A. B. (temp. End Lt. A.)</Text>
+      <Key>de Wilde</Key>
+      <Title>Capt.</Title>
+      <Forenames>H. R.</Forenames>
+      <Text>
+        <Honour>D.F.C.</Honour>
+      </Text>
+      <PageNumber>15292</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Wolfe</Key>
+      <Title>Cadet</Title>
+      <Forenames>A. B.</Forenames>
+      <Text>(temp. End Lt. A.)</Text>
       <PageNumber>11864</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -984,7 +1068,9 @@
       <Key>Delamain</Key>
       <Title>2nd Lt.</Title>
       <Forenames>E. C</Forenames>
-      <Text>, M.C. (Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>15288</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1071,7 +1157,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Demers</Key>
-      <Text>Fit. Cadet 0. J. (temp. 2nd Lt., A.)</Text>
+      <Title>Fit. Cadet</Title>
+      <Text>0. J. (temp. 2nd Lt., A.)</Text>
       <PageNumber>14334</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1103,14 +1190,18 @@
   <ItemGroup>
     <MainItem>
       <Key>Dennett</Key>
-      <Text>Fit. O'det F. L. S. (temp. 2nd Lt.. Obsvr. Offr.)</Text>
+      <Title>Fit.</Title>
+      <Forenames>O</Forenames>
+      <Text>'det F. L. S. (temp. 2nd Lt.. Obsvr. Offr.)</Text>
       <PageNumber>14485</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Dennis</Key>
-      <Text>Lt. L. J. (rel. commn..on ceasing to he empld.)</Text>
+      <Title>Lt.</Title>
+      <Forenames>L. J.</Forenames>
+      <Text>(rel. commn..on ceasing to he empld.)</Text>
       <PageNumber>11867</PageNumber>
     </MainItem>
     <SubItem>

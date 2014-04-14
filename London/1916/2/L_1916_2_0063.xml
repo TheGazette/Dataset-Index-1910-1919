@@ -14,7 +14,9 @@
       <Key>Church</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>G. R. M.</Forenames>
-      <Text>, C.M.G. (special appointment)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>3787</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -134,7 +136,9 @@
       </Key>
       <Title>Capt. (temp. Lt.-Col.)</Title>
       <Forenames>G. F.</Forenames>
-      <Text>, C.M.G. (Gen. Staff Officer, lst Grade, and to retain temp, rank)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>4701</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -154,7 +158,9 @@
       <Key>Clegg-Hill</Key>
       <Title>Brevet Maj. The Hon.</Title>
       <Forenames>C. R.</Forenames>
-      <Text>, D.S.O. -(Brigade Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3540</PageNumber>
     </MainItem>
     <SubItem>
@@ -214,7 +220,9 @@
       </Key>
       <Title>Lt.-Col.</Title>
       <Forenames>R. C</Forenames>
-      <Text>, D.S.O. (Brigadier-Gen., Royal Artillery, and temp. Brigadier-Gen., and to be seconded)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4530</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -412,7 +420,9 @@
       <Key>Cornish-Bowden</Key>
       <Title>Maj.</Title>
       <Forenames>J. H. T.</Forenames>
-      <Text>, D.S.O. (Deputy Asst. Adjt.Gen.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5470</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -488,7 +498,9 @@
       <Key>Courtney</Key>
       <Title>Lt.-Col. (temp. Col.)</Title>
       <Forenames>E. A. W.</Forenames>
-      <Text>, C.M.G. (Director of Requisition Services, and to retain temp, rank)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>6051</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -526,7 +538,9 @@
       </Key>
       <Title>Lt.-Col.</Title>
       <Forenames>C. F.</Forenames>
-      <Text>, C.B. (Brigade Commander and temp. Brigadier-Gen.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>4701</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -618,7 +632,10 @@
       <Key>Cuninghame</Key>
       <Title>Maj. Sir</Title>
       <Forenames>T. A. A. M.</Forenames>
-      <Text>, Bt., D.S.O. (General Staff Officer, lst Grade, and temp. Lt.-Col.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5615</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -690,7 +707,9 @@
       <Key>Cuthbertson</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>E. B.</Forenames>
-      <Text>, C. M.G., M.V.O. (Brigade Commander and temp. Col.)</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>6414</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -719,7 +738,9 @@
       <Key>Dansey</Key>
       <Title>Maj. (temp. Lt.-Col.)</Title>
       <Forenames>F. H.</Forenames>
-      <Text>, D.S.O. (Asst. Adjt.-Gen., and to retain temp, rank)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4120</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -775,7 +796,9 @@
       <Key>Davidson-Houston</Key>
       <Title>Capt. (Hon. Lt.-Col.)</Title>
       <Forenames>W. B.</Forenames>
-      <Text>, C.M.G. (Staff Capt.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>5908</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -784,7 +807,9 @@
       <Key>Davies</Key>
       <Title>Capt.</Title>
       <Forenames>C. M.</Forenames>
-      <Text>, D.S.O. (General Staff Officer, lst Grade and temp. Lt.-Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4819</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -806,7 +831,10 @@
       </Key>
       <Title>Maj.-Gen. (temp. Lt.-Gen.) Sir</Title>
       <Forenames>F. J.</Forenames>
-      <Text>, K.C.B., K.C.M.G. (temp. Military Secretary to the Secretary of State for War, and Secretary of the Selection Board, and to retain temp. rank)</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+        <Honour>K.C.M.G.</Honour>
+      </Text>
       <PageNumber>6307</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -817,7 +845,9 @@
       </Key>
       <Title>Maj.-Gen.</Title>
       <Forenames>R. H.</Forenames>
-      <Text>, C.B. (Commander, Reserve Centres)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>4521</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -903,15 +933,54 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Chair</Forenames>
-      <Text>, Lt. (temp. Capt.) G. H. B. (Brigade Maj., and to remain seconded)</Text>
+      <Key>De Chair</Key>
+      <Title>Lt. (temp. Capt.)</Title>
+      <Forenames>G. H. B.</Forenames>
+      <Text>(Brigade Maj., and to remain seconded)</Text>
       <PageNumber>6475</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Jager</Key>
+      <Title>(temp.) Capt.</Title>
+      <Forenames>G. J. W.</Forenames>
+      <Text>(Staff Capt.)</Text>
+      <PageNumber>4553</PageNumber>
     </MainItem>
     <SubItem>
       <Text>Railway Transport Officer</Text>
       <PageNumber>4956</PageNumber>
     </SubItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Satge</Key>
+      <Title>(temp.)</Title>
+      <Forenames>Lt</Forenames>
+      <Text>&gt;. E. E. (relinquishes his appointment and commission)</Text>
+      <PageNumber>5705</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Watteville</Key>
+      <Title>Maj.</Title>
+      <Forenames>H. G.</Forenames>
+      <Text>(General Staff Officer, 2nd Grade)</Text>
+      <PageNumber>4237</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Winton</Key>
+      <Title>Col.</Title>
+      <Forenames>C</Forenames>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
+      <PageNumber>3539</PageNumber>
+    </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
@@ -927,7 +996,9 @@
       <Key>Decies</Key>
       <Title>Lt.-Col. (Maj., Reserve of Officers)</Title>
       <Forenames>J. G. H.</Forenames>
-      <Text>Lord, D.S.O. (temp, special appointment)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6223</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -936,14 +1007,18 @@
       <Key>Deedes</Key>
       <Title>Maj.</Title>
       <Forenames>C. P.</Forenames>
-      <Text>, D.S.O. (General Staff Officer, lst Grade, and temp. Lt.-Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4822</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Denbigh</Key>
-      <Text>and Desmond, Col. R. R. B. A. A. Earl of, C.V.O. (Col., Royal Artillery)</Text>
+      <Text>
+        <Honour>C.V.O.</Honour>
+      </Text>
       <PageNumber>6063</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -952,7 +1027,9 @@
       <Key>Dennistoun</Key>
       <Title>Maj.</Title>
       <Forenames>I. O.</Forenames>
-      <Text>, M.V.O. (Asst. Adjt. and Qrmr.-Gen., . and temp. Lt.-Col.)</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>4939</PageNumber>
     </MainItem>
   </ItemGroup>

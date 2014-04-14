@@ -28,7 +28,9 @@
     <MainItem>
       <Key>Hill</Key>
       <Forenames>F. G. E.</Forenames>
-      <Text>, D.S.O. (invalided and Ito retain rank)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4417</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -124,7 +126,9 @@
     <MainItem>
       <Key>Parish</Key>
       <Forenames>A. J.</Forenames>
-      <Text>, C.B., M.A</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>5652</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -195,7 +199,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Apperly</Key>
-      <Text>. temp. Lt. (Aotg. Capt.) A. B. (rel. actg. rank of Capt.)</Text>
+      <Title>temp. Lt. (Aotg. Capt.)</Title>
+      <Forenames>A. B.</Forenames>
+      <Text>(rel. actg. rank of Capt.)</Text>
       <PageNumber>5327</PageNumber>
     </MainItem>
     <SubItem>
@@ -241,7 +247,9 @@
       <Key>Binns</Key>
       <Title>temp. Maj.</Title>
       <Forenames>C. E.</Forenames>
-      <Text>. O.B.E. (actg. Lt.-Col.)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>5652</PageNumber>
     </MainItem>
     <SubItem>
@@ -253,14 +261,16 @@
     <MainItem>
       <Key>Bolt</Key>
       <Forenames>E. E. E.</Forenames>
-      <Text>M.M. (temp. Lt.)</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>4884</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Brighton</Key>
-      <Text>., 'G. L. (temp. hon. Lt.)</Text>
+      <Text>, 'G. L. (temp. hon. Lt.)</Text>
       <PageNumber>6652</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -322,7 +332,9 @@
       <Key>Campbell</Key>
       <Title>Capt.</Title>
       <Forenames>R. H.</Forenames>
-      <Text>, M.C. (apptd. G.S.O., 3rd Gr.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4752</PageNumber>
     </MainItem>
     <SubItem>
@@ -449,6 +461,14 @@
       <Key>Davis</Key>
       <Forenames>T. E.</Forenames>
       <Text>(hon, temp. Lt.)</Text>
+      <PageNumber>4885</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Lacy</Key>
+      <Forenames>W.</Forenames>
+      <Text>(hon. temp. Capt.)</Text>
       <PageNumber>4885</PageNumber>
     </MainItem>
     <SubItem>
@@ -596,7 +616,10 @@
       <Key>Gibb</Key>
       <Title>Sir</Title>
       <Forenames>A.</Forenames>
-      <Text>, K.B.E., C.B. (trd.)</Text>
+      <Text>
+        <Honour>K.B.E.</Honour>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>5327</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -712,7 +735,9 @@
     <MainItem>
       <Key>Heaiton</Key>
       <Forenames>E. A.</Forenames>
-      <Text>, M.M. (temp. Lt.)</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>6248</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -752,7 +777,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Home</Key>
-      <Text>. temp. iLt. H. (actg. Capt., with pay of rank)</Text>
+      <Title>temp.</Title>
+      <Text>iLt. H. (actg. Capt., with pay of rank)</Text>
       <PageNumber>6365</PageNumber>
     </MainItem>
     <SubItem>
@@ -795,7 +821,9 @@
       <Key>Iverson</Key>
       <Title>temp. 2nd Lt.</Title>
       <Forenames>A. E.</Forenames>
-      <Text>, M.M. (temp. Lt.)</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>7943</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -981,7 +1009,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Merchant</Key>
-      <Text>. L. (temp. Lt.)</Text>
+      <Forenames>L.</Forenames>
+      <Text>(temp. Lt.)</Text>
       <PageNumber>6652</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1095,7 +1124,9 @@
       <Key>Pearce</Key>
       <Title>temp. Lt.</Title>
       <Forenames>C. A.</Forenames>
-      <Text>, D.S.M. (placed on retd. list)</Text>
+      <Text>
+        <Honour>D.S.M.</Honour>
+      </Text>
       <PageNumber>7707</PageNumber>
     </MainItem>
   </ItemGroup>

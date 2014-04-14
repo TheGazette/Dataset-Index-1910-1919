@@ -146,7 +146,9 @@
     <MainItem>
       <Key>Honeyford</Key>
       <Forenames>J.</Forenames>
-      <Text>, M.D. F.R.C.S. (Edin.) (temp. Lt.)</Text>
+      <Text>
+        <Honour>M.D. F.R.C.S.</Honour>
+      </Text>
       <PageNumber>12447</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -449,7 +451,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hope</Key>
-      <Text>F. (temp. 2nd Lt.)</Text>
+      <Forenames>F.</Forenames>
+      <Text>(temp. 2nd Lt.)</Text>
       <PageNumber>12305</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -618,7 +621,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>F. G.</Forenames>
-      <Text>, M.D. (temp. Lt.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>10233</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1111,7 +1116,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Hornsted</Key>
-      <Text>2nd Lt. L. G. (temp. Capt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>L. G.</Forenames>
+      <Text>(temp. Capt.)</Text>
       <PageNumber>9994</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1315,8 +1322,8 @@
     <MainItem>
       <Key>Hosack</Key>
       <Title>2nd Lt.</Title>
-      <Forenames>P. M. O</Forenames>
-      <Text>'F., supplementary (confirmed)</Text>
+      <Forenames>P. M. O'F</Forenames>
+      <Text>., supplementary (confirmed)</Text>
       <PageNumber>10635</PageNumber>
     </MainItem>
     <SubItem>
@@ -1376,7 +1383,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>W. G.</Forenames>
-      <Text>, Bt. (Lt.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>9723</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1632,7 +1641,7 @@
       <PageNumber>11039</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Temp. Lt</Text>
+      <Text>Temp. Lt.</Text>
       <PageNumber>11562</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1716,7 +1725,10 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>F. G.</Forenames>
-      <Text>, M.V.O., D.S.O. (temp. Lt.-Col;)' „</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>10899</PageNumber>
     </MainItem>
   </ItemGroup>

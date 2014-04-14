@@ -517,7 +517,8 @@
   <ItemGroup>
     <MainItem>
       <Key>McConaghy</Key>
-      <Text>W., M.B. (Maj., and to remain seconded)</Text>
+      <Forenames>W.</Forenames>
+      <Text>, M.B. (Maj., and to remain seconded)</Text>
       <PageNumber>10362</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -843,7 +844,7 @@
       <PageNumber>12157</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Relinquishes the rank of temp. Maj</Text>
+      <Text>Relinquishes the rank of temp. Maj.</Text>
       <PageNumber>12407</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1274,7 +1275,7 @@
       <PageNumber>10158</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Temp. Lt</Text>
+      <Text>Temp. Lt.</Text>
       <PageNumber>12531</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1400,7 +1401,9 @@
     <MainItem>
       <Key>Macdonell</Key>
       <Forenames>D. H.</Forenames>
-      <Text>, D.S.O. (Capt.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>12038</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1437,8 +1440,8 @@
   <ItemGroup>
     <MainItem>
       <Key>MacDonnell</Key>
-      <Forenames>J. H. O</Forenames>
-      <Text>'C. de C. (2nd Lt.)</Text>
+      <Forenames>J. H. O'C</Forenames>
+      <Text>. de C. (2nd Lt.)</Text>
       <PageNumber>12429</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1472,8 +1475,8 @@
   <ItemGroup>
     <MainItem>
       <Key>MacDonnell</Key>
-      <Forenames>R. A. M. J.</Forenames>
-      <Text>de C. * (temp. 2nd Lt.)</Text>
+      <Forenames>R. A. M. J. de C</Forenames>
+      <Text>. * (temp. 2nd Lt.)</Text>
       <PageNumber>13013</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1482,7 +1485,10 @@
       <Key>McDonnell</Key>
       <Title>Maj. the Hon. Sir</Title>
       <Forenames>S. K.</Forenames>
-      <Text>, G.C.V.O., K.C.B. (temp. Capt.)</Text>
+      <Text>
+        <Honour>G.C.V.O.</Honour>
+        <Honour>K.C.B.</Honour>
+      </Text>
       <PageNumber>11460</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -223,7 +223,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Gordon</Key>
-      <Text>. 2nd Lieut. A. M. (confirmed)</Text>
+      <Title>2nd Lieut.</Title>
+      <Forenames>A. M.</Forenames>
+      <Text>(confirmed)</Text>
       <PageNumber>4271</PageNumber>
       <PageNumber>4378</PageNumber>
     </MainItem>
@@ -396,7 +398,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gondge</Key>
-      <Text>. Bernard Nevill (2nd Lieut. on probation)</Text>
+      <Forenames>Bernard Nevill</Forenames>
+      <Text>(2nd Lieut. on probation)</Text>
       <PageNumber>4866</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -545,7 +548,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gramshaw</Key>
-      <Text>. Hugh (2nd Lieut, on probation)</Text>
+      <Forenames>Hugh</Forenames>
+      <Text>(2nd Lieut, on probation)</Text>
       <PageNumber>4866</PageNumber>
     </MainItem>
     <SubItem>
@@ -630,7 +634,9 @@
     <MainItem>
       <Key>Graves</Key>
       <Forenames>Percival H.</Forenames>
-      <Text>, D.S.O. (Capt.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3950</PageNumber>
     </MainItem>
     <SubItem>
@@ -643,8 +649,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Robert Von R.</Forenames>
-      <Text>(Lieut.)</Text>
+      <Forenames>Robert Von R</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>5213</PageNumber>
     </MainItem>
   </ItemGroup>

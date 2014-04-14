@@ -82,9 +82,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Sickle</Forenames>
-      <Text>, Charles Harold (temporary 2nd Lieut.)</Text>
+      <Key>Van Sickle</Key>
+      <Forenames>Charles Harold</Forenames>
+      <Text>(temporary 2nd Lieut.)</Text>
       <PageNumber>9521</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -103,7 +103,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ward</Key>
-      <Text>., E. (Lieut.)</Text>
+      <Text>, E. (Lieut.)</Text>
       <PageNumber>9555</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -233,7 +233,9 @@
       <Key>Cowie</Key>
       <Title>Maj.</Title>
       <Forenames>H. N</Forenames>
-      <Text>, R., O.M.G., D.S.O. (temporary Lieut.-Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6810</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -338,7 +340,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hill</Key>
-      <Text>. Edward Alfred (2nd Lieut.)</Text>
+      <Forenames>Edward Alfred</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>9517</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -514,7 +517,9 @@
       <Key>Radcliffe</Key>
       <Title>Maj.</Title>
       <Forenames>J. F.</Forenames>
-      <Text>, D.S.O. (temporary Lieut.-Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8268</PageNumber>
     </MainItem>
   </ItemGroup>

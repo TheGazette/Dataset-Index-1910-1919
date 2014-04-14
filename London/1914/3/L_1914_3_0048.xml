@@ -128,7 +128,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Thomas</Key>
-      <Text>. David Gwilym (temporary 2nd Lieut.)</Text>
+      <Forenames>David Gwilym</Forenames>
+      <Text>(temporary 2nd Lieut.)</Text>
       <PageNumber>7481</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -226,9 +227,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Straubenzee</Forenames>
-      <Text>, Casimir C. (Lieut.Col.)</Text>
+      <Key>Van Straubenzee</Key>
+      <Forenames>Casimir C.</Forenames>
+      <Text>(Lieut.Col.)</Text>
       <PageNumber>6072</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -287,7 +288,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Walker</Key>
-      <Text>. Lieut. Cecil E. (seconded as Adjt. Terr. Force)</Text>
+      <Title>Lieut.</Title>
+      <Forenames>Cecil E.</Forenames>
+      <Text>(seconded as Adjt. Terr. Force)</Text>
       <PageNumber>5364</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -313,7 +316,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wallis</Key>
-      <Text>. Kenneth Harvey (2nd Lieut.)</Text>
+      <Forenames>Kenneth Harvey</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>7301</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -353,8 +357,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Welchman</Key>
-      <Forenames>Godfrey</Forenames>
-      <Text>de Vere (2nd Lieut.)</Text>
+      <Forenames>Godfrey de Vere</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>7301</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -686,8 +690,8 @@
     <MainItem>
       <Key>Chevallier</Key>
       <Title>Capt.</Title>
-      <Forenames>Francis E.</Forenames>
-      <Text>de C. (Maj.)</Text>
+      <Forenames>Francis E. de C</Forenames>
+      <Text>. (Maj.)</Text>
       <PageNumber>6204</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -795,6 +799,30 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Cetto</Key>
+      <Forenames>Vere B. A.</Forenames>
+      <Text>(Capt.)</Text>
+      <PageNumber>5760</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Courcy</Key>
+      <Forenames>John A. Gerald</Forenames>
+      <Text>(2nd Lieut.)</Text>
+      <PageNumber>6205</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Foublanque</Key>
+      <Forenames>Edward Barrington</Forenames>
+      <Text>(2nd Lieut.)</Text>
+      <PageNumber>ibid.</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Denham</Key>
       <Forenames>Humphrey John</Forenames>
       <Text>(temporary 2nd Lieut.)</Text>
@@ -865,7 +893,9 @@
       <Key>Elphinstone-Dalrymple</Key>
       <Title>Sir</Title>
       <Forenames>Francis N.</Forenames>
-      <Text>, Bt. (Capt.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>5760</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1077,7 +1107,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Hogg</Key>
-      <Text>. Supy. Lieut. Oliver F. G. (restored to the establishment)</Text>
+      <Title>Supy. Lieut.</Title>
+      <Forenames>Oliver F. G.</Forenames>
+      <Text>(restored to the establishment)</Text>
       <PageNumber>6780</PageNumber>
     </MainItem>
   </ItemGroup>

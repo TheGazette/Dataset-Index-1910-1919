@@ -9,11 +9,15 @@
       <PageNumber>11974</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Harrison, John, C.B.E., J.P</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>13214</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>Keene, Lt. Col. Thomas Mann, O.B.E., T.D</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>14707</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -30,14 +34,19 @@
       <PageNumber>13002</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>Spencer-Clay, Lt.-Col. Herbert Henry, C.M.G., M.C</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>12254</PageNumber>
     </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Sussex</Key>
-      <Text>: Brassey, the Rt. Hon. Thomas Allnutt, Earl, T.D., M.A</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>13740</PageNumber>
     </MainItem>
     <SubItem>
@@ -374,7 +383,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Belmore</Key>
-      <Text>Loan Society, cancelling of registry</Text>
+      <Forenames>Loan Society</Forenames>
+      <Text>, cancelling of registry</Text>
       <PageNumber>12910</PageNumber>
     </MainItem>
   </ItemGroup>

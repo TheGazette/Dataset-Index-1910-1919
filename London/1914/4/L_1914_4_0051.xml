@@ -65,7 +65,9 @@
     <MainItem>
       <Key>Cuscaden</Key>
       <Forenames>William Andrew</Forenames>
-      <Text>, I.S.O. (temporary Capt.)</Text>
+      <Text>
+        <Honour>I.S.O</Honour>
+      </Text>
       <PageNumber>9670</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -74,7 +76,9 @@
       <Key>Cuyler</Key>
       <Title>Maj. Sir</Title>
       <Forenames>Charles</Forenames>
-      <Text>, Bart, (temporary Lieut.-Col. while commanding Depot)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>11040</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -197,17 +201,21 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Halpert</Forenames>
-      <Text>, R. V. (temporary 2nd Lieut.)</Text>
+      <Key>De Halpert</Key>
+      <Forenames>R. V.</Forenames>
+      <Text>(temporary 2nd Lieut.)</Text>
       <PageNumber>9268</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Lisle</Forenames>
-      <Text>, Col. (temporary Brigadier-Gen.) Henry De B., C.B., D.S.O. (temporary Maj.-Gen.)</Text>
+      <Key>De Lisle</Key>
+      <Title>Col. (temporary Brigadier-Gen.)</Title>
+      <Forenames>Henry De B</Forenames>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>9380</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -283,6 +291,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Satge</Key>
+      <Forenames>E. E.</Forenames>
+      <Text>(temporary Lieut.)</Text>
+      <PageNumber>7897</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>De</Key>
       <Forenames>Vesian</Forenames>
       <Text>, R. E. (temporary Capt., cancelled)</Text>
@@ -310,7 +326,9 @@
       <Key>Dimmer</Key>
       <Title>Lieut.</Title>
       <Forenames>John H. S.</Forenames>
-      <Text>, V.C. (temporary Capt.)</Text>
+      <Text>
+        <Honour>V.C.</Honour>
+      </Text>
       <PageNumber>10925</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -397,6 +415,17 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>von Donop</Key>
+      <Title>Sir</Title>
+      <Forenames>Stanley B.</Forenames>
+      <Text>
+        <Honour>K.C.B.</Honour>
+      </Text>
+      <PageNumber>8884</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Donnelly</Key>
       <Title>Qrmr.</Title>
       <Forenames>James J. E.</Forenames>
@@ -427,7 +456,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>James Archibald</Forenames>
-      <Text>, C.M.G. (Col.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>9003</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -458,9 +489,13 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Cane</Forenames>
-      <Text>, Col. Hubert J., C.B., M.V.O. (temporary BrigadierGen.)</Text>
+      <Key>Du Cane</Key>
+      <Title>Col.</Title>
+      <Forenames>Hubert J.</Forenames>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>8118</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -562,7 +597,9 @@
     <MainItem>
       <Key>Edwardes</Key>
       <Forenames>Stanley Malcolm</Forenames>
-      <Text>, D.S.O. (Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>9003</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -596,7 +633,9 @@
       <Key>Ellis</Key>
       <Title>Maj.</Title>
       <Forenames>Conyngham R. C</Forenames>
-      <Text>, D.S.O. (temporary Lieut.-Col. while commanding Depot)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>11040</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -613,7 +652,9 @@
       <Key>Eustace</Key>
       <Title>Col.</Title>
       <Forenames>Alexander H.</Forenames>
-      <Text>, D.S.O. (temporary BrigadierGen.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>11207</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -657,7 +698,9 @@
       </Key>
       <Title>Col.</Title>
       <Forenames>Vere B.</Forenames>
-      <Text>, C.B. (temporary Brigadier-Gen.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>11207</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -834,7 +877,9 @@
       <Key>Fowler</Key>
       <Title>Col.</Title>
       <Forenames>Francis J.</Forenames>
-      <Text>, D.S.O. (temporary Brigadier-Gen.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>11207</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -845,7 +890,9 @@
       </Key>
       <Title>Lieut.-Col.</Title>
       <Forenames>John S.</Forenames>
-      <Text>, D.S.O. (temporary Brigadier-Gen.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>9380</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -862,7 +909,9 @@
       <Key>Frankland</Key>
       <Title>Capt.</Title>
       <Forenames>Arthur Pelham</Forenames>
-      <Text>, D.S.O. (temporary Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8752</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1056,7 +1105,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Godley</Key>
-      <Text>, Sir Alexander J., K.C.M.G., C.B. (Maj.-Gen.)</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>8884</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1080,7 +1132,9 @@
     <MainItem>
       <Key>Gordon</Key>
       <Forenames>Archibald Alexander</Forenames>
-      <Text>, M.V.O. (temporary Maj.)</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>7810</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1089,14 +1143,18 @@
       <Key>Goulburn</Key>
       <Title>Col.</Title>
       <Forenames>Cuthbert E.</Forenames>
-      <Text>, D.S.O. (temporary BrigadierGen.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>9693</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Gownrd</Key>
-      <Text>. Maj. and Hon. Lieut.Col. Sharman (temporary Maj.)</Text>
+      <Title>Maj. and Hon. Lieut.Col.</Title>
+      <Forenames>Sharman</Forenames>
+      <Text>(temporary Maj.)</Text>
       <PageNumber>9137</PageNumber>
     </MainItem>
   </ItemGroup>

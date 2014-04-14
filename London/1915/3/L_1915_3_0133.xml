@@ -157,7 +157,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Staddon</Key>
-      <Text>. John Wilfrid (temporary 2nd Lieut.)</Text>
+      <Forenames>John Wilfrid</Forenames>
+      <Text>(temporary 2nd Lieut.)</Text>
       <PageNumber>9303</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -546,7 +547,9 @@
       <Key>Cantan</Key>
       <Title>Maj.</Title>
       <Forenames>H. T.</Forenames>
-      <Text>, C.M.G. (tem porary Lieut.-Col.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>7444</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -603,7 +606,9 @@
       <Key>Colvile</Key>
       <Title>Maj.</Title>
       <Forenames>George N.</Forenames>
-      <Text>, D.S.O., (to command the 7th Battalion, and to be temporary Lieut.-Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7900</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -868,7 +873,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Maywood</Key>
-      <Text>. 2nd Lieut. J. H. (temporary Lieut., supernumerary to establishment)</Text>
+      <Title>2nd Lieut.</Title>
+      <Forenames>J. H.</Forenames>
+      <Text>(temporary Lieut., supernumerary to establishment)</Text>
       <PageNumber>8258</PageNumber>
     </MainItem>
   </ItemGroup>

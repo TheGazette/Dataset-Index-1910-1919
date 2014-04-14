@@ -55,7 +55,9 @@
       <Key>Denny</Key>
       <Title>Col.</Title>
       <Forenames>Henry C</Forenames>
-      <Text>, C.B. (to command 7th Bat.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>7664</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -362,7 +364,9 @@
       <Key>Gibson-Craig</Key>
       <Title>Lieut. Sir</Title>
       <Forenames>Archibald C</Forenames>
-      <Text>, Bt. (restored to the establishment)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>6676</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -378,7 +382,9 @@
     <MainItem>
       <Key>Grahame</Key>
       <Forenames>John C</Forenames>
-      <Text>, D.S.O. (temporary Lieut.-Col., 10th Bat.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6976</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -673,7 +679,9 @@
       <Key>Scott</Key>
       <Title>Brevet Col.</Title>
       <Forenames>William A.</Forenames>
-      <Text>, C.B. (to command 9th Bat.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>7665</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -983,14 +991,16 @@
       <Key>Moody</Key>
       <Title>Brevet Col.</Title>
       <Forenames>Richard S. H.</Forenames>
-      <Text>, C.B. (to command 8th Bat.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>7665</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donovan, MorganJ. W. (Lieut.)</Text>
+      <Key>O'Donovan</Key>
+      <Text>MorganJ. W. (Lieut.)</Text>
       <PageNumber>7378</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1153,9 +1163,17 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Stacpoole</Key>
+      <Forenames>Robert A.</Forenames>
+      <Text>(Lieut.)</Text>
+      <PageNumber>7195</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Douglas</Key>
-      <Forenames>Brian C. O</Forenames>
-      <Text>'Driscoll (2nd Lieut.)</Text>
+      <Forenames>Brian C. O'Driscoll</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>7779</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1170,7 +1188,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Ford</Key>
-      <Text>Hutchinson, Lieut.-Col. George H., D.S.O. (retired pay)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5556</PageNumber>
     </MainItem>
     <SubItem>

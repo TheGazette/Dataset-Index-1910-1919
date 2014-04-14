@@ -230,7 +230,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Scott</Key>
-      <Text>. Rev. F. Errington (temporary)</Text>
+      <Title>Rev.</Title>
+      <Forenames>F. Errington</Forenames>
+      <Text>(temporary)</Text>
       <PageNumber>8397</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -384,7 +386,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Thomas</Key>
-      <Text>. Rev. C. Stephenson (temporary) ...</Text>
+      <Title>Rev.</Title>
+      <Forenames>C. Stephenson</Forenames>
+      <Text>(temporary) ...</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -755,7 +759,9 @@
       <Key>Abdy</Key>
       <Title>Col.</Title>
       <Forenames>A. J.</Forenames>
-      <Text>, C.B. (temporary Brigadier-Gen.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>8118</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -813,7 +819,9 @@
     <MainItem>
       <Key>Alderson</Key>
       <Forenames>Edwin A. H.</Forenames>
-      <Text>, C.B. (Lieut.-Gen.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>8639</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -838,7 +846,9 @@
       <Key>Allenby</Key>
       <Title>Maj.-Gen.</Title>
       <Forenames>Edmund H. H.</Forenames>
-      <Text>, C.B. (temporary Lieut.Gen.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>9380</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -863,7 +873,9 @@
     <MainItem>
       <Key>Angel</Key>
       <Forenames>T. L.</Forenames>
-      <Text>, D.S.O. (temporary Capt.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>10925</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -896,7 +908,9 @@
       <Key>Armitage</Key>
       <Title>Col.</Title>
       <Forenames>E. H.</Forenames>
-      <Text>, C.B. (temporary Brigadier-Gen.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>8118</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1024,7 +1038,9 @@
       <Key>Barclay</Key>
       <Title>Sir</Title>
       <Forenames>D.</Forenames>
-      <Text>, Bart, (temporary Capt.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>8766</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1086,7 +1102,10 @@
       <Key>Barratt</Key>
       <Title>Col.</Title>
       <Forenames>W. C</Forenames>
-      <Text>, C.B., D.S.O. (temporary Brigadier-Gen.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8766</PageNumber>
     </MainItem>
     <SubItem>
@@ -1114,8 +1133,8 @@
     <MainItem>
       <Key>Barrow</Key>
       <Title>Lieut.-Col.</Title>
-      <Forenames>George</Forenames>
-      <Text>de S. (temporary local Col.)</Text>
+      <Forenames>George de S</Forenames>
+      <Text>. (temporary local Col.)</Text>
       <PageNumber>9114</PageNumber>
     </MainItem>
     <SubItem>

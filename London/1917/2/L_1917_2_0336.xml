@@ -9,20 +9,31 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>van Deventer</Key>
+      <Title>Maj. (Bt. Lt.-Col.)</Title>
+      <Forenames>D. J. C. B.</Forenames>
+      <Text>(temp. Lt.-Col</Text>
+      <PageNumber>4577</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
       <Title>temp. Maj.-Gen.</Title>
       <Forenames>J. L.</Forenames>
-      <Text>, C.B. (temp. Lt.-Gen.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>4887</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Eysseh</Forenames>
-      <Text>, 2nd Lt. dh prob. L. M. (confd.)</Text>
+      <Key>Van Eysseh</Key>
+      <Title>2nd Lt.</Title>
+      <Text>dh prob. L. M. (confd.)</Text>
       <PageNumber>5148</PageNumber>
     </MainItem>
     <SubItem>
@@ -32,17 +43,19 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Gruisen</Forenames>
-      <Text>, 2nd Lt. W. (date of proran, to Lt.)</Text>
+      <Key>Van Gruisen</Key>
+      <Title>2nd Lt.</Title>
+      <Forenames>W.</Forenames>
+      <Text>(date of proran, to Lt.)</Text>
       <PageNumber>3297</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Haeften</Forenames>
-      <Text>, 2nd Lt. on prob. F. I. (confd.)</Text>
+      <Key>Van Haeften</Key>
+      <Title>2nd Lt. on prob.</Title>
+      <Forenames>F. I.</Forenames>
+      <Text>(confd.)</Text>
       <PageNumber>4061</PageNumber>
     </MainItem>
     <SubItem>
@@ -52,9 +65,19 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Leenof</Forenames>
-      <Text>, 2nd Lt. on prob. C. B. (Flying Offr.)</Text>
+      <Key>van Heel</Key>
+      <Title>Cadet</Title>
+      <Forenames>T.</Forenames>
+      <Text>(2nd Lt.)</Text>
+      <PageNumber>4082</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Van Leenof</Key>
+      <Title>2nd Lt. on prob.</Title>
+      <Forenames>C. B.</Forenames>
+      <Text>(Flying Offr.)</Text>
       <PageNumber>6160</PageNumber>
     </MainItem>
     <SubItem>
@@ -114,7 +137,9 @@
       <Key>Vanneck</Key>
       <Title>2nd Lt. the Hon.</Title>
       <Forenames>A. N. A.</Forenames>
-      <Text>, M.C. (Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4061</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -137,14 +162,18 @@
       <Key>Vansenden</Key>
       <Title>temp. 2nd Lt.</Title>
       <Forenames>E. A.</Forenames>
-      <Text>, M.C. (attd.) '</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5014</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Y</Key>
-      <Text>^.rcoe, 2nd Lt. F. H. L., M.C. '* (temp. Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4448</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -363,7 +392,9 @@
       </Key>
       <Title>Maj. (temp. Lt.-Col.)</Title>
       <Forenames>E. J. F.</Forenames>
-      <Text>D.S.O. (Brevet Lt.-Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5465</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -374,7 +405,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>E. N. E. M.</Forenames>
-      <Text>, D.S.O. (rel actg. rank of Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5497</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -696,7 +729,10 @@
       </Key>
       <Title>Maj. (temp. Lt.-Col.)</Title>
       <Forenames>W. K.</Forenames>
-      <Text>M.C. .(Bt. Lt.-Col.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>5467</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -886,7 +922,9 @@
     <MainItem>
       <Key>Verrall</Key>
       <Forenames>P. J.</Forenames>
-      <Text>, M.B., F.R.C.S. (temp. Lt.) ...'</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>5835</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -941,8 +979,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Vesey</Key>
-      <Forenames>E.</Forenames>
-      <Text>de B. A. (temp. Lt.)</Text>
+      <Forenames>E. de B</Forenames>
+      <Text>. A. (temp. Lt.)</Text>
       <PageNumber>6491</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -975,14 +1013,18 @@
   <ItemGroup>
     <MainItem>
       <Key>Vetter</Key>
-      <Text>2nd Lt. O. L. (Balloon Offr.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>O. L.</Forenames>
+      <Text>(Balloon Offr.)</Text>
       <PageNumber>3573</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Vial</Key>
-      <Text>Cadet W. C. (temp. 2nd Lt., attd.)</Text>
+      <Title>Cadet</Title>
+      <Forenames>W. C.</Forenames>
+      <Text>(temp. 2nd Lt., attd.)</Text>
       <PageNumber>6495</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -998,7 +1040,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Vials</Key>
-      <Text>2nd Lt. G. A. T. (temp. 2nd Lt.. Gen. List)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>G. A. T.</Forenames>
+      <Text>(temp. 2nd Lt.. Gen. List)</Text>
       <PageNumber>5967</PageNumber>
     </MainItem>
     <SubItem>
@@ -1055,7 +1099,7 @@
       <PageNumber>5837</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Flying Offr</Text>
+      <Text>Flying Offr.</Text>
       <PageNumber>5943</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1070,7 +1114,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Vickerman</Key>
-      <Text>'Capt. P. S., M.B. F.R.C.S. (temp Lt.-Col.)</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>3607</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1126,7 +1172,7 @@
       <PageNumber>6139</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Confd</Text>
+      <Text>Confd.</Text>
       <PageNumber>6033</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1134,7 +1180,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Vickers-Haviland</Key>
-      <Text>Cadet L. A. W (temp. 2nd Lt., attd.)</Text>
+      <Title>Cadet</Title>
+      <Forenames>L. A. W</Forenames>
+      <Text>(temp. 2nd Lt., attd.)</Text>
       <PageNumber>6146</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1200,7 +1248,9 @@
       <Key>Vigers</Key>
       <Title>2nd Lt.</Title>
       <Forenames>A. W.</Forenames>
-      <Text>, M.C. (Flying Offr., Observer) ... r</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5332</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1258,7 +1308,7 @@
       <PageNumber>4777</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Actg. Maj</Text>
+      <Text>Actg. Maj.</Text>
       <PageNumber>4777</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1447,7 +1497,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Viney</Key>
-      <Text>temp. Lt. A. D. (Adjt.)</Text>
+      <Title>temp. Lt.</Title>
+      <Forenames>A. D.</Forenames>
+      <Text>(Adjt.)</Text>
       <PageNumber>4299</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1528,7 +1580,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Vischer</Key>
-      <Text>temp. Capt. H. (temp. Maj.)</Text>
+      <Title>temp. Capt.</Title>
+      <Forenames>H.</Forenames>
+      <Text>(temp. Maj.)</Text>
       <PageNumber>4928</PageNumber>
     </MainItem>
   </ItemGroup>

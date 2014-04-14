@@ -115,8 +115,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connell, Maurice Geoffrey (Lieut.), supplementary</Text>
+      <Key>O'Connell</Key>
+      <Forenames>Maurice Geoffrey</Forenames>
+      <Text>(Lieut.), supplementary</Text>
       <PageNumber>6505</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -733,7 +734,9 @@
     <MainItem>
       <Key>Cradock</Key>
       <Forenames>Montagu</Forenames>
-      <Text>, C.B. (Lieut.Col.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>6901</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -744,7 +747,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>S.</Forenames>
-      <Text>, D.S.O. (Capt.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7687</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -793,6 +798,14 @@
       <Forenames>Groot</Forenames>
       <Text>, Francis Edward (2nd Lieut.)</Text>
       <PageNumber>6697</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Gunzturg</Key>
+      <Forenames>Alexis George</Forenames>
+      <Text>(2nd Lieut, on probation)</Text>
+      <PageNumber>7100</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1033,7 +1046,9 @@
     <MainItem>
       <Key>Griffiths</Key>
       <Forenames>John Norton</Forenames>
-      <Text>, M.P. (Maj.)</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>7687</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1075,7 +1090,9 @@
       <Key>Harding</Key>
       <Title>Lieut.-Col.</Title>
       <Forenames>Colin</Forenames>
-      <Text>, C.M.G. (Maj.) ..,</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>7687</PageNumber>
     </MainItem>
   </ItemGroup>

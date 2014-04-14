@@ -18,11 +18,11 @@
       <PageNumber>12678</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Temp. Lt</Text>
+      <Text>Temp. Lt.</Text>
       <PageNumber>12070</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>Temp. Lt</Text>
+      <Text>Temp. Lt.</Text>
       <PageNumber>12041</PageNumber>
     </SubItem>
     <SubItem>
@@ -635,7 +635,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>W. F.</Forenames>
-      <Text>, M.D. (correction of date)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>9773</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -711,7 +713,9 @@
     <MainItem>
       <Key>Comer</Key>
       <Forenames>E</Forenames>
-      <Text>: M., M.B., F.R.C.S. (Capt., whose services will be available on mobilisation)</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>13004</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -794,7 +798,9 @@
       <Key>Cortez-Leigh</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>F. A.</Forenames>
-      <Text>, M.I.E.E. (Territorial Decoration)</Text>
+      <Text>
+        <Honour>Territorial Decora-</Honour>
+      </Text>
       <PageNumber>12335</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1126,7 +1132,9 @@
       <Key>Coutts</Key>
       <Title>Maj.</Title>
       <Forenames>F.</Forenames>
-      <Text>(Territorial Decoration)</Text>
+      <Text>
+        <Honour>Territorial De-</Honour>
+      </Text>
       <PageNumber>12335</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1302,7 +1310,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cowie</Key>
-      <Text>C. A. (2nd Lt.)</Text>
+      <Forenames>C. A.</Forenames>
+      <Text>(2nd Lt.)</Text>
       <PageNumber>12677</PageNumber>
     </MainItem>
   </ItemGroup>

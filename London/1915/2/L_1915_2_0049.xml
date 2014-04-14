@@ -303,9 +303,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Artime</Forenames>
-      <Text>, Paul (temporary 2nd Lieut.)</Text>
+      <Key>De Artime</Key>
+      <Forenames>Paul</Forenames>
+      <Text>(temporary 2nd Lieut.)</Text>
       <PageNumber>4520</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -319,9 +319,26 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Clermont</Key>
+      <Forenames>Philip Edward</Forenames>
+      <Text>(temporary 2nd Lieut.)</Text>
+      <PageNumber>5604</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>De</Key>
       <Text>la Bere, 2nd Lieut. H. C. (temporary Lieut.)</Text>
       <PageNumber>4413</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Pass</Key>
+      <Title>temporary Lieut.</Title>
+      <Forenames>Harry</Forenames>
+      <Text>(relinquishes his commission)</Text>
+      <PageNumber>4268</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -752,7 +769,9 @@
     <MainItem>
       <Key>Duirramd</Key>
       <Forenames>H. G.</Forenames>
-      <Text>D.S.O.,(Lieut.-Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3684</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1208,8 +1227,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Joseph K. O</Forenames>
-      <Text>'Moore (2nd Lieut.)</Text>
+      <Forenames>Joseph K. O'Moore</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>5761</PageNumber>
     </MainItem>
   </ItemGroup>

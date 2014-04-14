@@ -108,6 +108,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>van Straubenzee</Key>
+      <Title>Col. (temporary Brigadier-Gen.)</Title>
+      <Forenames>C. H. C.</Forenames>
+      <Text>(Brigade &gt; Commander)</Text>
+      <PageNumber>7594</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Vans-Agnew</Key>
       <Title>Maj.</Title>
       <Forenames>E. L.</Forenames>
@@ -130,7 +139,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>J.</Forenames>
-      <Text>, D.S.O. (General Staff Officer, 1st Grade)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6686</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -168,7 +179,9 @@
       <Key>Vivian</Key>
       <Title>Capt.</Title>
       <Forenames>V.</Forenames>
-      <Text>, M.V.O. (General Staff Officer, 3rd Grade)</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>6687</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -177,7 +190,9 @@
       <Key>Vyvyan</Key>
       <Title>Col.</Title>
       <Forenames>C. B.</Forenames>
-      <Text>, C.B. (Asst. Adjt.-Gen.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -186,7 +201,9 @@
       <Key>Wake</Key>
       <Title>Brevet Maj.</Title>
       <Forenames>H.</Forenames>
-      <Text>, D.S.O. General Staff Officer, 3rd Grade, and to be seconded)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -195,7 +212,9 @@
       <Key>Wakeman</Key>
       <Title>Lieut.</Title>
       <Forenames>Omey</Forenames>
-      <Text>(Aide-deOamp to Sir G. Strickland, G.C.M.G.)</Text>
+      <Text>
+        <Honour>G.C.M.G.</Honour>
+      </Text>
       <PageNumber>5759</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -222,7 +241,9 @@
       <Key>Walker</Key>
       <Title>Lieut. Sir</Title>
       <Forenames>R. J. M.</Forenames>
-      <Text>, Bt. (Aide-de-Camp)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>6686</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -284,8 +305,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Wanless-O</Key>
-      <Text>'Gowan, Col. R. (Asst. Adjt.-Gen.)</Text>
+      <Key>Wanless-O'Gowan</Key>
+      <Title>Col.</Title>
+      <Forenames>R.</Forenames>
+      <Text>(Asst. Adjt.-Gen.)</Text>
       <PageNumber>6687</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -348,7 +371,11 @@
       <Key>Watt</Key>
       <Title>Maj.</Title>
       <Forenames>A. F.</Forenames>
-      <Text>(Private Secretary to Field-Marshal Sir J. D. P. French, G.C.B., G.C.V.O., K.C.M.G.)</Text>
+      <Text>
+        <Honour>G.C.B.</Honour>
+        <Honour>G.C.V.O.</Honour>
+        <Honour>K.C.M.G.</Honour>
+      </Text>
       <PageNumber>6072</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -395,7 +422,9 @@
       <Key>Welchman</Key>
       <Title>Capt.</Title>
       <Forenames>E. T.</Forenames>
-      <Text>, D.S.O. (General Staff Officer, 3rd Grade)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6887</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -431,7 +460,9 @@
       <Key>Whigham</Key>
       <Title>Col.</Title>
       <Forenames>Robert D.</Forenames>
-      <Text>, D.S.O. (General Staff Officer, 1st Grade)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7478</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -476,7 +507,9 @@
       <Key>Williams</Key>
       <Title>Col.</Title>
       <Forenames>Hugh B.</Forenames>
-      <Text>, D.S.O. (Base Commandant)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7173</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -497,8 +530,10 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Title>Maj. (temporary Lieut.Col.)</Title>
-      <Forenames>W.</Forenames>
-      <Text>de L., D.S.O. (General Staff Officer, 1st Grade)</Text>
+      <Forenames>W. de L</Forenames>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6886</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -528,7 +563,9 @@
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>E. E. B. Holt</Forenames>
-      <Text>, D.S.O. (special appointment)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7593</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -537,7 +574,10 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>MaJ.-Gen. H. H., C.B., D.S.O. (General Staff Officer)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6686</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -656,7 +696,9 @@
       <Key>Wright</Key>
       <Title>Col.</Title>
       <Forenames>G.</Forenames>
-      <Text>, D.S.O. (special appointment)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7082</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -823,7 +865,9 @@
       <Key>Armstrong</Key>
       <Title>Brevet Col.</Title>
       <Forenames>G. D.</Forenames>
-      <Text>, D.S.O. (Commandant at Headquarters)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -912,7 +956,9 @@
       <Key>Bennett</Key>
       <Title>Maj.</Title>
       <Forenames>C. H.</Forenames>
-      <Text>, D.S.O. (Railway Transport Officer)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7194</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -921,7 +967,10 @@
       <Key>Bingham</Key>
       <Title>Col. (temporary Brigadier-Gen.) the Hon.</Title>
       <Forenames>C. E.</Forenames>
-      <Text>, C.V.O., C.B. (Brigade Commander)</Text>
+      <Text>
+        <Honour>C.V.O.</Honour>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>6689</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -947,8 +996,8 @@
     <MainItem>
       <Key>Bowles</Key>
       <Title>Capt.</Title>
-      <Forenames>J.</Forenames>
-      <Text>de V. (Staff Capt., and to be seconded) . ... -—-</Text>
+      <Forenames>J. de V</Forenames>
+      <Text>. (Staff Capt., and to be seconded) . ... -—-</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -956,7 +1005,9 @@
     <MainItem>
       <Key>Boyd</Key>
       <Forenames>G. F.</Forenames>
-      <Text>, D.S.O. (Brigade Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -974,7 +1025,9 @@
       <Key>Briggs</Key>
       <Title>Col. (temporary BrigadierGen.)</Title>
       <Forenames>C. J.</Forenames>
-      <Text>, C.B. (Brigade Commander)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>6689</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -992,7 +1045,10 @@
       <Key>Bulfin</Key>
       <Title>Col. (temporary BrigadierGen.)</Title>
       <Forenames>E. S.</Forenames>
-      <Text>, C.V.O., C.B. (Bri-. gade Commander)</Text>
+      <Text>
+        <Honour>C.V.O.</Honour>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>6689</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1001,7 +1057,9 @@
       <Key>Budman</Key>
       <Title>Col.</Title>
       <Forenames>P.</Forenames>
-      <Text>, D.S.O. (Commandant on Lines of Communications)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6691</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1010,7 +1068,10 @@
       <Key>Bnnbury</Key>
       <Title>Col.</Title>
       <Forenames>V. T.</Forenames>
-      <Text>, C.B., D.S.O. . (Provost Marshal) ....</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1071,7 +1132,10 @@
       <Key>Chetwode</Key>
       <Title>Col. (temporary Brigadier-Gen.) Sir</Title>
       <Forenames>P. W.</Forenames>
-      <Text>, Bt., D.S.O. (Brigade Commander)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6689</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1080,7 +1144,9 @@
       <Key>Cheylesmore</Key>
       <Title>Maj.-Gen.</Title>
       <Forenames>Herbert F.</Forenames>
-      <Text>Lord, K.C.V.O. (temporary Camp Commandant (unpaid), Musketry Camp, Bisley</Text>
+      <Text>
+        <Honour>K.C.V.O.</Honour>
+      </Text>
       <PageNumber>7194</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1107,7 +1173,12 @@
       <Key>Congreve</Key>
       <Title>Col. (temporary Brigadier-Gen.)</Title>
       <Forenames>W. N.</Forenames>
-      <Text>, V.C., C.B., M.V.O., .D.S.O. (Brigade Commander)</Text>
+      <Text>
+        <Honour>V.C.</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>M.V.O.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6689</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1141,7 +1212,9 @@
       <Key>Crosse</Key>
       <Title>Lieut.-Col.</Title>
       <Forenames>Charles R.</Forenames>
-      <Text>. M.V.O. (temporary Staff Officer, . Musketry Camp, Bisley)</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>7194</PageNumber>
     </MainItem>
   </ItemGroup>

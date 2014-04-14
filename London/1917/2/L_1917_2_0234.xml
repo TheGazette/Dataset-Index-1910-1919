@@ -156,7 +156,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Hiscott</Key>
-      <Text>temp. 2nd Lt. L. S. (temp. Lt.)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>L. S.</Forenames>
+      <Text>(temp. Lt.)</Text>
       <PageNumber>3406</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -187,7 +189,9 @@
       </Key>
       <Title>temp. Lt.</Title>
       <Forenames>J.</Forenames>
-      <Text>, M.C. (Trg. Res. (actg. Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4784</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -354,8 +358,8 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Title>Cadet</Title>
-      <Forenames>E. O</Forenames>
-      <Text>'B. (temp. 2nd Lt.)</Text>
+      <Forenames>E. O'B</Forenames>
+      <Text>. (temp. 2nd Lt.)</Text>
       <PageNumber>5308</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -424,7 +428,9 @@
       <Key>Hobart</Key>
       <Title>Capt.</Title>
       <Forenames>J. W. L. S. M</Forenames>
-      <Text>C (Bt. Maj.) i</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>5466</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -452,7 +458,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Hobbs</Key>
-      <Text>temp. 2nd Lt. C. E. (Gen List)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>C. E.</Forenames>
+      <Text>(Gen List)</Text>
       <PageNumber>6031</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -549,7 +557,10 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Title>Equipmt. Offr., 3rd CI.</Title>
-      <Text>... . Maj. (temp. Lt.-.Col.) R. F. A., C.M.O., D.S.O. (Bt. Lt.-</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>5464</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -941,7 +952,7 @@
       <PageNumber>4677</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Temp. Paymr. and temp. Capt</Text>
+      <Text>Temp. Paymr. and temp. Capt.</Text>
       <PageNumber>4577</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -955,7 +966,7 @@
       <PageNumber>4202</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Rel. actg. rank of Lt.-Col</Text>
+      <Text>Rel. actg. rank of Lt.-Col.</Text>
       <PageNumber>4733</PageNumber>
     </SubItem>
   </ItemGroup>

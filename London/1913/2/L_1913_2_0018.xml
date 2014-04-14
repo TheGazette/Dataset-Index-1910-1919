@@ -66,19 +66,27 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Piro</Forenames>
-      <Text>, O. M. (Capt.)</Text>
+      <Key>De Piro</Key>
+      <Forenames>O. M.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>3253</PageNumber>
       <PageNumber>4218</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Sausmarez</Forenames>
-      <Text>, C. (Maj.)</Text>
+      <Key>De Sausmarez</Key>
+      <Forenames>C.</Forenames>
+      <Text>(Maj.)</Text>
       <PageNumber>2978</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Watteville</Key>
+      <Forenames>H. G.</Forenames>
+      <Text>(Capt.)</Text>
+      <PageNumber>3754</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -423,8 +431,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, F. H. P. (Capt.)</Text>
+      <Key>O'Connor</Key>
+      <Forenames>F. H. P.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>3670</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -557,8 +566,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Shaw</Key>
-      <Forenames>J. F.</Forenames>
-      <Text>de F. (Capt.)</Text>
+      <Forenames>J. F. de F</Forenames>
+      <Text>. (Capt.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -928,7 +937,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Hulse</Key>
-      <Text>SirE. H. W., Bart. (Lieut.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>3253</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1104,8 +1115,8 @@
         <PageNumber>___ ___ ___ ___ ___ ___ ___</PageNumber>
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>The</Forenames>
-      <Text>Queen's Royal West Surrey Regiment. Bethell, Lieut. E. W. (ante-dated)</Text>
+      <Title>The Queen</Title>
+      <Text>'s Royal West Surrey Regiment. Bethell, Lieut. E. W. (ante-dated)</Text>
       <PageNumber>3995</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1145,7 +1156,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hull</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, H. C. E. (ante-dated)</Text>
       <PageNumber>3993</PageNumber>
     </MainItem>
@@ -1345,8 +1356,8 @@
     <MainItem>
       <Key>Carey</Key>
       <Title>Capt.</Title>
-      <Forenames>T.</Forenames>
-      <Text>de B. (seconded)</Text>
+      <Forenames>T. de B</Forenames>
+      <Text>. (seconded)</Text>
       <PageNumber>3670</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1419,7 +1430,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McBride</Key>
-      <Text>., 2nd Lieut.S. . G. (seconded)</Text>
+      <Text>, 2nd Lieut.S. . G. (seconded)</Text>
       <PageNumber>3439</PageNumber>
     </MainItem>
   </ItemGroup>

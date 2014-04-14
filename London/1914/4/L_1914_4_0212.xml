@@ -351,7 +351,9 @@
       <Key>Lowe</Key>
       <Title>Maj.</Title>
       <Forenames>Arthur C</Forenames>
-      <Text>, D.S.O. (seconded)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>9520</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -437,7 +439,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stuart</Key>
-      <Text>. Archibald T. A. (2nd Lieut.)</Text>
+      <Forenames>Archibald T. A.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>9244</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -478,6 +481,14 @@
       <Key>Van</Key>
       <Text>der Byl, Albert Myburgh (2nd Lieut.)</Text>
       <PageNumber>10681</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>von Freuenfels</Key>
+      <Forenames>Carl O.</Forenames>
+      <Text>(Lieut.)</Text>
+      <PageNumber>8889</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -798,7 +809,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Baines</Key>
-      <Text>. Lieut. John H. (temporary Capt.)</Text>
+      <Title>Lieut.</Title>
+      <Forenames>John H.</Forenames>
+      <Text>(temporary Capt.)</Text>
       <PageNumber>10933</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1256,7 +1269,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Browne</Key>
-      <Text>. Capt. George B. (temporary Lieut.-Col.)</Text>
+      <Title>Capt.</Title>
+      <Forenames>George B.</Forenames>
+      <Text>(temporary Lieut.-Col.)</Text>
       <PageNumber>10306</PageNumber>
     </MainItem>
   </ItemGroup>

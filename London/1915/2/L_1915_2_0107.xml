@@ -267,9 +267,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Lafontaine</Forenames>
-      <Text>, Alfred E. C. Cart (Capt.)</Text>
+      <Key>De Lafontaine</Key>
+      <Forenames>Alfred E. C. Cart</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>5498</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -585,8 +585,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Richardson</Key>
-      <Forenames>Jooelyn A. St</Forenames>
-      <Text>. Clair (temporary 2nd Lieut.)</Text>
+      <Forenames>Jooelyn A. St. Clair</Forenames>
+      <Text>(temporary 2nd Lieut.)</Text>
       <PageNumber>5617</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -699,7 +699,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stevenson</Key>
-      <Text>., George M. (temporary Capt.)</Text>
+      <Text>, George M. (temporary Capt.)</Text>
       <PageNumber>5494</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -862,7 +862,9 @@
       <Key>Bishop</Key>
       <Title>Capt.</Title>
       <Forenames>Frederick E.</Forenames>
-      <Text>, D.S.O. (Adjt.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3567</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1232,7 +1234,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Newington</Key>
-      <Text>. Claude (temporary Maj.) ,„</Text>
+      <Forenames>Claude</Forenames>
+      <Text>(temporary Maj.) ,„</Text>
       <PageNumber>3920</PageNumber>
     </MainItem>
   </ItemGroup>

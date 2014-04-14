@@ -20,7 +20,9 @@
     <MainItem>
       <Key>Kyavv</Key>
       <Forenames>Nyan</Forenames>
-      <Text>, M.D. (temp.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>13037</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -145,7 +147,9 @@
     <MainItem>
       <Key>Pyiare</Key>
       <Forenames>Lai Dube</Forenames>
-      <Text>, MB. (temp.)</Text>
+      <Text>
+        <Honour>MB</Honour>
+      </Text>
       <PageNumber>12559</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -438,6 +442,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Neto</Key>
+      <Forenames>F.</Forenames>
+      <Text>(temp.) (corr.)</Text>
+      <PageNumber>12561</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Dhirendra</Key>
       <Forenames>Naith Chiakravartti</Forenames>
       <Text>, M.B. (temp.)</Text>
@@ -605,7 +617,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mundkiur</Key>
-      <Text>Sanjiv iRau (temp.) (corr.)</Text>
+      <Forenames>Sanjiv</Forenames>
+      <Text>iRau (temp.) (corr.)</Text>
       <PageNumber>12561</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -788,7 +801,9 @@
     <MainItem>
       <Key>Shiva</Key>
       <Forenames>Deva Singh Greval</Forenames>
-      <Text>, M.D., Ch.B., D.P.H. (temp.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>15068</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -945,7 +960,9 @@
     <MainItem>
       <Key>Bonner</Key>
       <Forenames>T. W.</Forenames>
-      <Text>, O.B.E., V.D. (rel. temp, rank)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>15490</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -968,8 +985,17 @@
     <MainItem>
       <Key>Cufie</Key>
       <Title>Sir</Title>
-      <Text>0. F. L. W., Bart., V.D</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>13036</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Rhe-Philape</Key>
+      <Forenames>G. W. V.</Forenames>
+      <PageNumber>12661</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -983,8 +1009,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hickman</Key>
-      <Forenames>R. St</Forenames>
-      <Text>. J., V.D</Text>
+      <Forenames>R. St. J</Forenames>
+      <Text>., V.D</Text>
       <PageNumber>14043</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1042,7 +1068,9 @@
   <ItemGroup>
     <MainItem>
       <Key>iSparke</Key>
-      <Text>, H. C, V.C (temp.)</Text>
+      <Text>
+        <Honour>V.C</Honour>
+      </Text>
       <PageNumber>12560</PageNumber>
     </MainItem>
     <SubItem>
@@ -1155,7 +1183,9 @@
     <MainItem>
       <Key>Wilson-Johnson</Key>
       <Forenames>J.</Forenames>
-      <Text>, C.B.E</Text>
+      <Text>
+        <Honour>C.B.E</Honour>
+      </Text>
       <PageNumber>15875</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1179,8 +1209,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Berrill</Key>
-      <Forenames>C. St</Forenames>
-      <Text>. J. (temp.)</Text>
+      <Forenames>C. St. J</Forenames>
+      <Text>. (temp.)</Text>
       <PageNumber>12795</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1188,7 +1218,9 @@
     <MainItem>
       <Key>Bowles</Key>
       <Forenames>C. W.</Forenames>
-      <Text>, M.B.E</Text>
+      <Text>
+        <Honour>M.B.E</Honour>
+      </Text>
       <PageNumber>15875</PageNumber>
     </MainItem>
   </ItemGroup>

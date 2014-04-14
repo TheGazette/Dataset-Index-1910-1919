@@ -184,7 +184,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bona</Key>
-      <Text>., 2nd Lt. B. T. (Lt.)</Text>
+      <Text>, 2nd Lt. B. T. (Lt.)</Text>
       <PageNumber>7818</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -192,7 +192,9 @@
     <MainItem>
       <Key>Bonar</Key>
       <Forenames>Lit</Forenames>
-      <Text>, D. D. M., M.C. (rel. aotg. rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5163</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -201,7 +203,9 @@
       <Key>Bonavia</Key>
       <Title>temp. Capt.</Title>
       <Forenames>V. J.</Forenames>
-      <Text>, M.D. (Lt., temp. Capt.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>4822</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -221,7 +225,9 @@
       </Key>
       <Title>2nd Lt. (Hon. Capt., R.A.F.)</Title>
       <Forenames>A. G.</Forenames>
-      <Text>, A.F.C. (Lt.)</Text>
+      <Text>
+        <Honour>A.F.C.</Honour>
+      </Text>
       <PageNumber>7818</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -243,7 +249,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>E. L.</Forenames>
-      <Text>, D.S.O. (rel. actg. rank of Lt.-Col., on ceasing to comd. a Brig, of Art.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5428</PageNumber>
     </MainItem>
     <SubItem>
@@ -334,7 +342,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>L. V.</Forenames>
-      <Text>(Bt. Lt.-Col.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>6963</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -375,7 +385,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>2nd Lt, T. J.. M.C. (Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7146</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -396,7 +408,9 @@
       </Key>
       <Title>temp. Capt.</Title>
       <Forenames>F. H.</Forenames>
-      <Text>, M.C. (rel. commii. on completion of service and retains rank of Ca.pt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7624</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -437,7 +451,9 @@
       <Key>Bones</Key>
       <Title>Lt. (aotg. Capt.)</Title>
       <Forenames>S. R.</Forenames>
-      <Text>, M.C. (aotg. Maj., comdig. a Batt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4996</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -446,7 +462,9 @@
       <Key>Boney</Key>
       <Title>Capt.</Title>
       <Forenames>T. K.</Forenames>
-      <Text>, M.D. (actg. Maj.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>6592</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -464,7 +482,10 @@
       <Key>BonhamJCarter</Key>
       <Title>Capt.</Title>
       <Forenames>A. L.</Forenames>
-      <Text>, D.S.O. (Bt. Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>6815</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -615,7 +636,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Boon</Key>
-      <Text>. temp. Qrmr. and OUt. A. G. (Capt.)</Text>
+      <Title>temp. Qrmr.</Title>
+      <Text>and OUt. A. G. (Capt.)</Text>
       <PageNumber>8193</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -637,7 +659,9 @@
       </Key>
       <Title>Cadet</Title>
       <Forenames>J. R.</Forenames>
-      <Text>, M.M. (temp. 2nd Lt.)</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>4668</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -666,7 +690,9 @@
       <Key>Boord</Key>
       <Title>2nd Lt.</Title>
       <Forenames>O. L.</Forenames>
-      <Text>, M.C. (Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5732</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -693,7 +719,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Boorman</Key>
-      <Text>. Cadet W. R. M. (temp. 2nd Lt.)</Text>
+      <Title>Cadet</Title>
+      <Forenames>W. R. M.</Forenames>
+      <Text>(temp. 2nd Lt.)</Text>
       <PageNumber>5760</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -711,7 +739,9 @@
       <Key>Booth</Key>
       <Title>temp. Lt.</Title>
       <Forenames>A.</Forenames>
-      <Text>, M.C. (rel. actg. rank of Capt. on ceasing to comd. a Co., 22nd Bn.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4827</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -823,7 +853,10 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>E. B.</Forenames>
-      <Text>, D.S.O., M.D. (actg. Lt.-CoL whilst spec. empld.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>7518</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -881,7 +914,10 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>F. C</Forenames>
-      <Text>, V.C., D.C.M. (resigns oommn.)</Text>
+      <Text>
+        <Honour>V.C.</Honour>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>7278</PageNumber>
     </MainItem>
     <SubItem>
@@ -1070,21 +1106,31 @@
   <ItemGroup>
     <MainItem>
       <Key>Bootv</Key>
-      <Text>. temp. Hon. Capt. L. B., M.B.E. (rel. commn. on ceasing to be empld., and retains hon. rank of Capt.)</Text>
+      <Title>temp. Hon. Capt.</Title>
+      <Forenames>L. B.</Forenames>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>4719</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Booy</Key>
-      <Text>. Cadet G. E. (temp. 2nd Lt.)</Text>
+      <Title>Cadet</Title>
+      <Forenames>G. E.</Forenames>
+      <Text>(temp. 2nd Lt.)</Text>
       <PageNumber>8040</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Boraston</Key>
-      <Text>. Lt. (temp. Maj.) J. H., O.B.E. {temp. ILt.-Col.)</Text>
+      <Title>Lt. (temp. Maj.)</Title>
+      <Forenames>J. H.</Forenames>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>6231</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1116,14 +1162,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Borham</Key>
-      <Text>. temn. Lt. F. V. (rel. actg. Tank of CaptO</Text>
+      <Text>temn. Lt. F. V. (rel. actg. Tank of CaptO</Text>
       <PageNumber>7283</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Borissow</Key>
-      <Text>. temp. Lt. R. (actg. Capt. con do-, a Section. Tank Corps)</Text>
+      <Title>temp. Lt.</Title>
+      <Forenames>R.</Forenames>
+      <Text>(actg. Capt. con do-, a Section. Tank Corps)</Text>
       <PageNumber>5488</PageNumber>
     </MainItem>
     <SubItem>

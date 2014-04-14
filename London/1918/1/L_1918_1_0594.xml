@@ -59,7 +59,9 @@
       <Key>Chandos-Pole</Key>
       <Title>Lt.-Col. (Hon. Col.)</Title>
       <Forenames>R. W.</Forenames>
-      <Text>, J.P., T.D. (Hon. Lt.-Col. on appt. as Hon. Comdt.)</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>2698</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -164,7 +166,9 @@
     <MainItem>
       <Key>Cholmondeley</Key>
       <Title>temp. Lt.-Col.</Title>
-      <Text>and County Commdt. H. C, C.B. (resigns commn.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>1888</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -173,7 +177,9 @@
       <Key>Christie</Key>
       <Title>Col.</Title>
       <Forenames>C. H. F.</Forenames>
-      <Text>, D.L., V.D. (Hon. Lt.-CoL)</Text>
+      <Text>
+        <Honour>D.L.</Honour>
+      </Text>
       <PageNumber>716</PageNumber>
     </MainItem>
     <SubItem>
@@ -408,15 +414,18 @@
       </Key>
       <Title>Col. (Hon. Brig.-Gen.)</Title>
       <Forenames>R. B.</Forenames>
-      <Text>, C.B., D.L..M.P. (Hon. CoL)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>D.L.</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>716</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Colwyn</Key>
-      <Forenames>The</Forenames>
-      <Text>Lord (Hon. Lt.-Col.)</Text>
+      <Title>The Lord (Hon. Lt.-Col.)</Title>
       <PageNumber>716</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -737,7 +746,7 @@
       <PageNumber>2062</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>Temp. Qrmr. and Hon. Lt</Text>
+      <Text>Temp. Qrmr. and Hon. Lt.</Text>
       <PageNumber>3414</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -982,6 +991,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Walton-Reade</Key>
+      <Forenames>J. C.</Forenames>
+      <Text>(temp. 2nd Lt.)</Text>
+      <PageNumber>2189</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Deacon</Key>
       <Title>temp. 2nd Lt.</Title>
       <Forenames>L. S.</Forenames>
@@ -1031,8 +1048,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Derby</Key>
-      <Forenames>The</Forenames>
-      <Text>Rt. Rev. C.T. Abraham, Bishop of (temp. Chapln.)</Text>
+      <Title>The Rt. Rev.</Title>
+      <Forenames>C.T. Abraham</Forenames>
+      <Text>, Bishop of (temp. Chapln.)</Text>
       <PageNumber>427</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1048,7 +1066,11 @@
     <MainItem>
       <Key>Devonshire</Key>
       <Forenames>His Grace</Forenames>
-      <Text>the Duke of, K.G., G.C.M.G., G.C.V.O. (Hon. Col.)</Text>
+      <Text>
+        <Honour>K.G.</Honour>
+        <Honour>G.C.M.G.</Honour>
+        <Honour>G.C.V.O.</Honour>
+      </Text>
       <PageNumber>716</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1091,7 +1113,9 @@
       <Key>Dickie</Key>
       <Title>Col. (Hon. Maj.-Gen.)</Title>
       <Forenames>J. E.</Forenames>
-      <Text>, C.B. (Hon. Lt.-Col.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>716</PageNumber>
     </MainItem>
     <SubItem>
@@ -1216,7 +1240,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dowbiggin</Key>
-      <Text>. J. (temp. 2nd Lt.)</Text>
+      <Forenames>J.</Forenames>
+      <Text>(temp. 2nd Lt.)</Text>
       <PageNumber>1796</PageNumber>
     </MainItem>
   </ItemGroup>

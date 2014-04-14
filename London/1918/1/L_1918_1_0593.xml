@@ -17,7 +17,11 @@
     <MainItem>
       <Key>Bayon</Key>
       <Forenames>P. G. H.</Forenames>
-      <Text>, M.D. (temp. Capt.) Beanchamp, Col. the Rt. Hon. W. Earl, K.G., K.C.M.G. (Hon</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+        <Honour>K.G.</Honour>
+        <Honour>K.C.M.G.</Honour>
+      </Text>
       <PageNumber>716</PageNumber>
     </MainItem>
     <SubItem>
@@ -118,7 +122,7 @@
       <PageNumber>1888</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Medical Offr. and temp. Lt</Text>
+      <Text>Medical Offr. and temp. Lt.</Text>
       <PageNumber>1888</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -237,7 +241,7 @@
       <PageNumber>3413</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Resigns commn</Text>
+      <Text>Resigns commn.</Text>
       <PageNumber>2968</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -631,8 +635,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Brioe</Key>
-      <Forenames>W. St</Forenames>
-      <Text>. J. (temp. 2nd Lt.)</Text>
+      <Forenames>W. St. J</Forenames>
+      <Text>. (temp. 2nd Lt.)</Text>
       <PageNumber>1084</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -800,7 +804,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Brough</Key>
-      <Text>. temp. Lt. W. T. (Asst. Adjt.)</Text>
+      <Title>temp. Lt.</Title>
+      <Forenames>W. T.</Forenames>
+      <Text>(Asst. Adjt.)</Text>
       <PageNumber>926</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -934,7 +940,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Burbidge</Key>
-      <Text>. temp Capt. H. E. (rel. commn.)</Text>
+      <Text>temp Capt. H. E. (rel. commn.)</Text>
       <PageNumber>1084</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1040,7 +1046,7 @@
       <PageNumber>3092</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Medical Offr. and temp. Lt</Text>
+      <Text>Medical Offr. and temp. Lt.</Text>
       <PageNumber>3092</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1140,7 +1146,9 @@
     <MainItem>
       <Key>Carisbrooke</Key>
       <Title>Capt.</Title>
-      <Text>the Most Hon. A. A. The Marquess of, G.C.V.O. (Hon. Col. on appt. as Hon. Comdt.)</Text>
+      <Text>
+        <Honour>G.C.V.O.</Honour>
+      </Text>
       <PageNumber>1889</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -3,7 +3,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Simpson</Key>
-      <Forenames>Flight Sub</Forenames>
+      <Title>Flight</Title>
+      <Forenames>Sub</Forenames>
       <Text>Lieut. Matthew Allister (confirmed)</Text>
       <PageNumber>7895</PageNumber>
     </MainItem>
@@ -12,7 +13,9 @@
     <MainItem>
       <Key>Sippe</Key>
       <Forenames>Sydney Vincent</Forenames>
-      <Text>, D.S.O. (temporary Flight Commander)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6437</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -29,7 +32,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>(temporary) Flight Sub-Lieut. Frank Homer (confirmed)</Text>
+      <Title>(temporary) Flight</Title>
+      <Forenames>Sub-</Forenames>
+      <Text>Lieut. Frank Homer (confirmed)</Text>
       <PageNumber>8728</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -38,7 +43,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>(temporary) Flight Sub-Lieut. Robert C. Matnard (confirmed)</Text>
+      <Title>(temporary) Flight</Title>
+      <Forenames>Sub-</Forenames>
+      <Text>Lieut. Robert C. Matnard (confirmed)</Text>
       <PageNumber>8986</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -47,7 +54,8 @@
       <Key>
         <KeyDitto>___ —</KeyDitto>
       </Key>
-      <Forenames>Flight Sub-</Forenames>
+      <Title>Flight</Title>
+      <Forenames>Sub-</Forenames>
       <Text>Lieut. Ronald Sinclair (confirmed)</Text>
       <PageNumber>8986</PageNumber>
     </MainItem>
@@ -57,7 +65,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>(temporary) Flight Sub-Lieut. Sebastian Oxfey (confirmed)</Text>
+      <Title>(temporary) Flight</Title>
+      <Forenames>Sub-</Forenames>
+      <Text>Lieut. Sebastian Oxfey (confirmed)</Text>
       <PageNumber>9323</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -72,7 +82,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Souray</Key>
-      <Forenames>Flight Sub-</Forenames>
+      <Title>Flight</Title>
+      <Forenames>Sub-</Forenames>
       <Text>Lieut. Robert (confirmed)</Text>
       <PageNumber>7895</PageNumber>
     </MainItem>
@@ -88,35 +99,44 @@
   <ItemGroup>
     <MainItem>
       <Key>Stirling</Key>
-      <Text>(temporary) Flight SubLieut. Norman Edwin (confirmed)</Text>
+      <Title>(temporary) Flight</Title>
+      <Forenames>Sub-</Forenames>
+      <Text>Lieut. Norman Edwin (confirmed)</Text>
       <PageNumber>9323</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Swaine</Key>
-      <Text>(temporary) Flight SubLieut. John A. Guy (confirmed)</Text>
+      <Title>(temporary) Flight</Title>
+      <Forenames>Sub-</Forenames>
+      <Text>Lieut. John A. Guy (confirmed)</Text>
       <PageNumber>8986</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Sykes</Key>
-      <Text>(temporary) Col. Second Commandant Frederick Hugh (temporary Wing Capt. in command of Air Service Units)</Text>
+      <Title>(temporary) Col.</Title>
+      <Forenames>Second Commandant Frederick Hugh</Forenames>
+      <Text>(temporary Wing Capt. in command of Air Service Units)</Text>
       <PageNumber>9324</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Talbot</Key>
-      <Text>(temporary) Flight SuibLieut. Geoffrey R, Henry (confirmed) Threlfall, Flight Sub-Lieut. William Bernhard (confirmed)</Text>
+      <Title>(temporary) Flight</Title>
+      <Forenames>Suib-</Forenames>
+      <Text>Lieut. Geoffrey R, Henry (confirmed) Threlfall, Flight Sub-Lieut. William Bernhard (confirmed)</Text>
       <PageNumber>7895</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Towler</Key>
-      <Forenames>Flight Sub-</Forenames>
+      <Title>Flight</Title>
+      <Forenames>Sub-</Forenames>
       <Text>Lieut. Harold Frederick (confirmed)</Text>
       <PageNumber>7073</PageNumber>
     </MainItem>
@@ -124,7 +144,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Viney</Key>
-      <Forenames>Flight Sub-</Forenames>
+      <Title>Flight</Title>
+      <Forenames>Sub-</Forenames>
       <Text>Lieut. Taunton Elliott (confirmed)</Text>
       <PageNumber>7895</PageNumber>
     </MainItem>
@@ -165,7 +186,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>(temporary) Flight Sub-Lieut. Siegfried Richards (con firmed) t^»&gt;</Text>
+      <Title>(temporary) Flight</Title>
+      <Forenames>Sub-</Forenames>
+      <Text>Lieut. Siegfried Richards (con firmed) t^»&gt;</Text>
       <PageNumber>8535</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -188,7 +211,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Williams</Key>
-      <Forenames>Flight Sub-</Forenames>
+      <Title>Flight</Title>
+      <Forenames>Sub-</Forenames>
       <Text>Lieut. Cyril B. Caudley (confirmed)</Text>
       <PageNumber>7074</PageNumber>
     </MainItem>
@@ -204,7 +228,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Wyllie</Key>
-      <Text>(temporary) Flight SubLieut. Colin Charles (con firmed)</Text>
+      <Title>(temporary) Flight</Title>
+      <Forenames>Sub-</Forenames>
+      <Text>Lieut. Colin Charles (con firmed)</Text>
       <PageNumber>8986</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -409,6 +435,15 @@
       <Text>17th „ „</Text>
       <PageNumber>9341</PageNumber>
     </SubItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Banks</Key>
+      <Forenames>Savings</Forenames>
+      <Text>and Post Office : Return of amounts received from and paid into, for the four weeks ending : 10th July,</Text>
+      <PageNumber>1915</PageNumber>
+      <PageNumber>6855</PageNumber>
+    </MainItem>
     <SubItem>
       <Text>7th August</Text>
       <PageNumber>7922</PageNumber>
@@ -483,7 +518,9 @@
     <MainItem>
       <Key>Bernheim</Key>
       <Forenames>Barthold</Forenames>
-      <Text>, change of name by deed poll to Bart Burnbam</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>7381</PageNumber>
     </MainItem>
   </ItemGroup>

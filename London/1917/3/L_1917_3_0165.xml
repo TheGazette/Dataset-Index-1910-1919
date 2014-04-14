@@ -336,7 +336,9 @@
     <MainItem>
       <Key>Balcombe-Brown</Key>
       <Title>Lt. (temp) Maj.</Title>
-      <Text>) R.. M.C. {Instr.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8539</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -354,7 +356,9 @@
       <Key>Freeman</Key>
       <Title>Capt.</Title>
       <Forenames>R. H.</Forenames>
-      <Text>. M.C. (Instr.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8539</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -381,7 +385,9 @@
       <Key>Sison</Key>
       <Title>temp. Lt. (temp. Capt.)</Title>
       <Forenames>H. M.</Forenames>
-      <Text>, M.C. (Instr.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9415</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -390,7 +396,9 @@
       <Key>Vaucour</Key>
       <Title>2nd Lt. (temp. Capt.)</Title>
       <Forenames>A.</Forenames>
-      <Text>IM., M.C. (ilnstr.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8538</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -398,8 +406,8 @@
     <MainItem>
       <Key>Wood</Key>
       <Title>2nd Lt. (temp. Capt.)</Title>
-      <Forenames>A. H. O</Forenames>
-      <Text>'H. (Instr.)</Text>
+      <Forenames>A. H. O'H</Forenames>
+      <Text>. (Instr.)</Text>
       <PageNumber>8539</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -483,7 +491,9 @@
       <Key>Harrison</Key>
       <Title>temp. Maj.</Title>
       <Forenames>H. C</Forenames>
-      <Text>, D.S.O. {iMaj. Instr. in Gunnery)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8173</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -492,7 +502,9 @@
       <Key>Honey</Key>
       <Title>Lt.</Title>
       <Forenames>W.</Forenames>
-      <Text>, M.C. ' (Capt. Instr. in Gunnery, actg. Capt., and seed.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7104</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -519,7 +531,9 @@
       <Key>Swayne</Key>
       <Title>Maj.</Title>
       <Forenames>O. R.</Forenames>
-      <Text>, D.S.O. (Maj. Instr. in Gunnery, and seed.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>9323</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -547,7 +561,9 @@
     <MainItem>
       <Key>McMahon</Key>
       <Title>Lt.-Col.</Title>
-      <Text>(temp. Col.pB. W. L.. C.M.G. (Comdt., and retain temp, rank)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>8632</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -603,7 +619,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Betts</Key>
-      <Text>Qrmr. and Hon. Capt. J. (Supt. of Physical and Baynt. Training and tamp. Maj.)</Text>
+      <Title>Qrmr. and Hon. Capt.</Title>
+      <Forenames>J.</Forenames>
+      <Text>(Supt. of Physical and Baynt. Training and tamp. Maj.)</Text>
       <PageNumber>7056</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -612,14 +630,18 @@
       <Key>Brocklehurst</Key>
       <Title>Maj. Sir</Title>
       <Forenames>P.L.</Forenames>
-      <Text>, .Bt. (temp. Asst. Supt.) ... .:</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>6851</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Burn-Callander</Key>
-      <Text>2nd Lt. C. (Asst. Supt., seed., and temp. Capt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>C.</Forenames>
+      <Text>(Asst. Supt., seed., and temp. Capt.)</Text>
       <PageNumber>9131</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -650,7 +672,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Blandv</Key>
-      <Text>Bt. Lt.-Col. L. F., D.S.O. (Chief 'Experimental Offr.)</Text>
+      <Title>Bt. Lt.-Col.</Title>
+      <Forenames>L. F.</Forenames>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7056</PageNumber>
     </MainItem>
   </ItemGroup>

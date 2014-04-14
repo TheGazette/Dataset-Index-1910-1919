@@ -132,9 +132,17 @@
     <MainItem>
       <Key>Dayrell</Key>
       <Title>Capt. and Hon. Maj.</Title>
-      <Forenames>G. M.</Forenames>
-      <Text>de L. (temp.' Lt.-Col.)</Text>
+      <Forenames>G. M. de L</Forenames>
+      <Text>. (temp.' Lt.-Col.)</Text>
       <PageNumber>10383</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Ayala</Key>
+      <Forenames>F. C.</Forenames>
+      <Text>(2nd Lt.)</Text>
+      <PageNumber>12069</PageNumber>
     </MainItem>
     <SubItem>
       <Text>
@@ -145,18 +153,43 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Boos</Forenames>
-      <Text>, E. W. (2nd Lt.)</Text>
+      <Key>De Boos</Key>
+      <Forenames>E. W.</Forenames>
+      <Text>(2nd Lt.)</Text>
       <PageNumber>12035</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Castro</Forenames>
-      <Text>, L. S. (2nd Lt.)</Text>
+      <Key>de Bourcier</Key>
+      <Forenames>H. A.</Forenames>
+      <Text>(2nd Lt.)</Text>
+      <PageNumber>12164</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Castro</Key>
+      <Forenames>L. S.</Forenames>
+      <Text>(2nd Lt.)</Text>
       <PageNumber>11022</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Cerjat</Key>
+      <Title>Lt.</Title>
+      <Forenames>C. S.</Forenames>
+      <Text>(temp. Capt.)</Text>
+      <PageNumber>10523</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Conway</Key>
+      <Forenames>J.</Forenames>
+      <Text>(2nd Lt.) ..,</Text>
+      <PageNumber>9877</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -167,9 +200,18 @@
       <PageNumber>11728</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Temp. Capt</Text>
+      <Text>Temp. Capt.</Text>
       <PageNumber>10623</PageNumber>
     </SubItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Koop</Key>
+      <Title>Capt.</Title>
+      <Forenames>J. J. J.</Forenames>
+      <Text>(restored to the establishment)</Text>
+      <PageNumber>12656</PageNumber>
+    </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
@@ -187,6 +229,72 @@
       <Forenames>S. H.</Forenames>
       <Text>(seconded)</Text>
       <PageNumber>11333</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Lavison</Key>
+      <Forenames>A. M. N.</Forenames>
+      <Text>(2nd Lt.)'</Text>
+      <PageNumber>12299</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Meric</Key>
+      <Title>(temp.) Lt.</Title>
+      <Forenames>V. E.</Forenames>
+      <Text>(date of promotion)</Text>
+      <PageNumber>10164</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Montmorency</Key>
+      <Forenames>M. F.</Forenames>
+      <Text>(2nd Lt.)</Text>
+      <PageNumber>12544</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Pury</Key>
+      <Forenames>C. F. P.</Forenames>
+      <Text>(2nd Lt.)</Text>
+      <PageNumber>11571</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Souza</Key>
+      <Forenames>S. O.</Forenames>
+      <Text>(2nd Lt.)</Text>
+      <PageNumber>9663</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Watteville</Key>
+      <Forenames>J. E.</Forenames>
+      <Text>(2nd Lt.)</Text>
+      <PageNumber>10751</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Wintan</Key>
+      <Forenames>C. H.</Forenames>
+      <Text>(Lt.)</Text>
+      <PageNumber>12314</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Zoete</Key>
+      <Title>2nd Lt.</Title>
+      <Forenames>H. W.</Forenames>
+      <Text>(temp. Lt.)</Text>
+      <PageNumber>10639</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -220,7 +328,7 @@
       <PageNumber>10501</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Temp. Capt</Text>
+      <Text>Temp. Capt.</Text>
       <PageNumber>12205</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -333,7 +441,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dearden</Key>
-      <Text>W. J. (Lt.)</Text>
+      <Forenames>W. J.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>11572</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -429,7 +538,10 @@
       <Key>Denman</Key>
       <Title>(temp.) Lt.-Col. The Right Hon.</Title>
       <Forenames>Thomas</Forenames>
-      <Text>Lord, G.C.M.G., K.C.V.O. signed)</Text>
+      <Text>
+        <Honour>G.C.M.G.</Honour>
+        <Honour>K.C.V.O.</Honour>
+      </Text>
       <PageNumber>12925</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -743,8 +855,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Deykin</Key>
-      <Forenames>R.</Forenames>
-      <Text>de C. (Capt.)</Text>
+      <Forenames>R. de C</Forenames>
+      <Text>. (Capt.)</Text>
       <PageNumber>12075</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1034,7 +1146,7 @@
       <PageNumber>10489</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Temp. Capt</Text>
+      <Text>Temp. Capt.</Text>
       <PageNumber>11768</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1466,7 +1578,9 @@
       </Key>
       <Title>Lt.-Col.</Title>
       <Forenames>J. F.</Forenames>
-      <Text>, M.B., F.R.C.S. (temp. Retired List)</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>12048</PageNumber>
     </MainItem>
     <SubItem>

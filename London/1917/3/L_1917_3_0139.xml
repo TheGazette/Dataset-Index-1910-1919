@@ -3,7 +3,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cokayne</Key>
-      <Text>Brian Ibrican, Knight Comdr., Order of the British Empire</Text>
+      <Forenames>Brian Ibrican</Forenames>
+      <Text>, Knight Comdr., Order of the British Empire</Text>
       <PageNumber>8795</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -12,7 +13,9 @@
       <Key>Coke</Key>
       <Title>Capt. (actg. Lt.-Col.) the Hon.</Title>
       <Forenames>Edward</Forenames>
-      <Text>, M.C., Companion, D.S.O</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9968</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -39,7 +42,9 @@
       <Key>Coleman</Key>
       <Title>2nd Lt. (temp. Lt.)</Title>
       <Forenames>Percy George</Forenames>
-      <Text>, Companion, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>7617</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -50,14 +55,19 @@
       </Key>
       <Title>temp. Maj.</Title>
       <Forenames>Thomas Roy</Forenames>
-      <Text>, M.C., Companion, D.S.O</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>7215</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Cbllard</Key>
-      <Text>iMaj. Alfred Stephen, Knight of Grace, St. John of Jerusalem</Text>
+      <Text>
+        <Honour>Knight of Grace, St. John of Jerusalem</Honour>
+      </Text>
       <PageNumber>7791</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -68,7 +78,10 @@
       </Key>
       <Title>Maj.-Gen.</Title>
       <Forenames>Albert Sydney</Forenames>
-      <Text>, C.B., Commander, Royal Victorian Order ... '</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>10046</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -77,7 +90,9 @@
       <Key>Collas</Key>
       <Title>Maj. (temp. Lt.-Col.)</Title>
       <Forenames>Wil-</Forenames>
-      <Text>liam John Jervoise, Companion, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>8802</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -94,7 +109,9 @@
       <Key>Cotley</Key>
       <Title>temp. Capt.</Title>
       <Forenames>Frank</Forenames>
-      <Text>, D.S.O., Bar to D.S.O</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8349</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -148,7 +165,9 @@
       <Key>Collishaw</Key>
       <Title>Pit. Lt.</Title>
       <Forenames>Raymond</Forenames>
-      <Text>, D.S.C, Companion, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>8206</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -157,7 +176,9 @@
       <Key>Colyer-Fergusson</Key>
       <Title>2nd Lt. (actg. Capt.)</Title>
       <Forenames>Thomas Riversdale</Forenames>
-      <Text>, Victoria Cross</Text>
+      <Text>
+        <Honour>Victoria Cross</Honour>
+      </Text>
       <PageNumber>9260</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -175,7 +196,9 @@
       <Key>Coningham</Key>
       <Title>2nd Lt. (temp. Capt.)</Title>
       <Forenames>Arthur</Forenames>
-      <Text>, M.C., Companion, D.S.O</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9968</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -183,7 +206,13 @@
     <MainItem>
       <Key>Connaught</Key>
       <Title>Field-Marshal H.R.H.</Title>
-      <Text>the Dnke of, K.G., K.T., K.P., G.C.B., G.C.S.I., G.C.M.G., G.O.I.E., G.C.V.O.; Knight Grand Cross, Order of the British Empire</Text>
+      <Text>
+        <Honour>K.G.</Honour>
+        <Honour>K.T.</Honour>
+        <Honour>G.C.B.</Honour>
+        <Honour>G.C.M.G.</Honour>
+        <Honour>G.C.V.O.</Honour>
+      </Text>
       <PageNumber>8794</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -192,7 +221,9 @@
       <Key>Connolly</Key>
       <Title>Capt.</Title>
       <Forenames>Charles Edward</Forenames>
-      <Text>, Companion, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>9558</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -207,7 +238,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Conrick</Key>
-      <Text>iMaj. Horatio Victor Patrick, Companion, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>7214</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -235,7 +268,9 @@
       <Key>Cooper</Key>
       <Title>temp. Capt.</Title>
       <Forenames>Arkwright Richard</Forenames>
-      <Text>, Companion, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>7617</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -246,7 +281,9 @@
       </Key>
       <Title>Sjt.</Title>
       <Forenames>Edward</Forenames>
-      <Text>, Victoria Cross</Text>
+      <Text>
+        <Honour>Victoria Cross</Honour>
+      </Text>
       <PageNumber>9532</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -255,7 +292,9 @@
       <Key>Corfe</Key>
       <Title>Maj. (temp. Lt.-Col.)</Title>
       <Forenames>Arthur Cecil</Forenames>
-      <Text>, D.S.O., Bar to D.S.O</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>9967</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -264,7 +303,10 @@
       <Key>Costello</Key>
       <Title>Maj. and Bt. Lt.-Col.</Title>
       <Forenames>Edmond William</Forenames>
-      <Text>, V.C., Companion, D.S.O</Text>
+      <Text>
+        <Honour>V.C.</Honour>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>8853</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -273,7 +315,9 @@
       <Key>Cotterill</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Joseph Montagu</Forenames>
-      <Text>, M.B., F.R.C.S., Companion, St. Michael arid St. George</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>8104</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -289,14 +333,22 @@
   <ItemGroup>
     <MainItem>
       <Key>Cox</Key>
-      <Text>Lt.-Col. Sir Percy Zachariah, K.C.S.I., K.C.I.E., Knight Grand .Commander, Order of the Indian Empire</Text>
+      <Title>Lt.-Col. Sir</Title>
+      <Forenames>Percy Zachariah</Forenames>
+      <Text>
+        <Honour>K.C.I.E.</Honour>
+      </Text>
       <PageNumber>8852</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Craig</Key>
-      <Text>2nd Lt. John Manson, Victoria Cross</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>John Manson</Forenames>
+      <Text>
+        <Honour>Victoria Cross</Honour>
+      </Text>
       <PageNumber>7905</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -305,7 +357,10 @@
       <Key>Crawford</Key>
       <Title>Capt.</Title>
       <Forenames>John Douglas</Forenames>
-      <Text>, M.C., Companion, D.S.O</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>9650</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -316,7 +371,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>Richard Frederick</Forenames>
-      <Text>, K.C.M.G., Knight Comdr.,</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+      </Text>
       <PageNumber>8795</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -334,7 +391,9 @@
       <Key>Cruickshank</Key>
       <Title>Capt.</Title>
       <Forenames>Alexander John</Forenames>
-      <Text>, Companion, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>8853</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -342,7 +401,9 @@
     <MainItem>
       <Key>Culling</Key>
       <Title>Surg.</Title>
-      <Text>-Gen. John Chislett, Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>8103</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -351,7 +412,9 @@
       <Key>Cuming</Key>
       <Title>Adml.</Title>
       <Forenames>Robert Stevenson Daiton</Forenames>
-      <Text>, Companion, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>6622</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -409,7 +472,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dauibeny</Key>
-      <Forenames>MajGiles Bulteel</Forenames>
+      <Title>Maj-</Title>
+      <Forenames>Giles Bulteel</Forenames>
       <Text>,</Text>
       <PageNumber>9967</PageNumber>
     </MainItem>
@@ -418,7 +482,9 @@
     <MainItem>
       <Key>Davenport</Key>
       <Title>Capt. (temp. Maj.)</Title>
-      <Text>. Fred. M.C., Companion,</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9968</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -426,7 +492,11 @@
     <MainItem>
       <Key>Davidge</Key>
       <Forenames>Guy Mortimer Coleridge</Forenames>
-      <Text>, Companion, D.S.O. ... Davidson, Lt.-Col. and Bt. Col. (temp. Brig.-Gen.) Sisley Richard,, Companion, St. Michael and St. George</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Bt</Honour>
+        <Honour>Companion, St. Michael and St. George</Honour>
+      </Text>
       <PageNumber>8852</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -435,7 +505,10 @@
       <Key>Davies</Key>
       <Title>Lt.-Col. and Bt. Col. (temp. ' Brig.-Gen.)</Title>
       <Forenames>Charles Henry</Forenames>
-      <Text>, D.S.O., Companion, St. Michael and St. George</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, St. Michael and St. George</Honour>
+      </Text>
       <PageNumber>8852</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -466,7 +539,9 @@
       </Key>
       <Title>Cpl.</Title>
       <Forenames>James Llewellyn</Forenames>
-      <Text>, Victoria Cross</Text>
+      <Text>
+        <Honour>Victoria Cross</Honour>
+      </Text>
       <PageNumber>9260</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -496,7 +571,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>Francis Evelyn Massy</Forenames>
-      <Text>, Companion, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>6519</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -521,9 +598,31 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Courcy</Key>
+      <Title>Capt. the Hon.</Title>
+      <Forenames>Michael William Robert</Forenames>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
+      <PageNumber>8853</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Rothschild</Key>
+      <Title>Maj.</Title>
+      <Forenames>Lionel Nathan</Forenames>
+      <Text>, Offr., Order of the British Empire '</Text>
+      <PageNumber>8797</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>De</Key>
       <Forenames>Smidt</Forenames>
-      <Text>, temp. Capt. Gerald. Ewald Overbeck, Companion, ' D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>8854</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -532,7 +631,9 @@
       <Key>Dean</Key>
       <Title>Maj.</Title>
       <Forenames>Edwin Theyer</Forenames>
-      <Text>, Companion, D.S.O. ..:</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8353</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -551,7 +652,9 @@
       <Key>Deane-Drummond</Key>
       <Title>temp. Maj.</Title>
       <Forenames>John Drummond</Forenames>
-      <Text>, M.C., Companion, D.S.O</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9556</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -610,7 +713,9 @@
     <MainItem>
       <Key>Dickens</Key>
       <Forenames>Sidney John Oldacres</Forenames>
-      <Text>, (Member, Order of the British -€798i Empire ... , Dickson, temp. Lt.-Col. (temp. Col.) Ernest, Companion, St. Michael and St. George S</Text>
+      <Text>
+        <Honour>Companion, St. Michael and St. George</Honour>
+      </Text>
       <PageNumber>852</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -660,7 +765,10 @@
       <Key>Dugdale</Key>
       <Title>Maj.</Title>
       <Forenames>James Gordon</Forenames>
-      <Text>, D. S.O.. M.C., Member, 4th</Text>
+      <Text>
+        <Honour>D. S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7912</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -725,7 +833,9 @@
       <Key>Eaton</Key>
       <Title>Lt. (actg. Capt.) the Hon.</Title>
       <Forenames>Francis Ormond Henry</Forenames>
-      <Text>, Companion, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>9968</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -742,7 +852,10 @@
     <MainItem>
       <Key>iEdwardes</Key>
       <Title>Col.</Title>
-      <Text>'(temp. Brig.-Gen.) Stanley IMalcolm, D.S.O., Companion, St. Michael and St. George</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, St. Michael and St. George</Honour>
+      </Text>
       <PageNumber>8852</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -753,7 +866,9 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Title>Maj.</Title>
-      <Text>(actg. Lt.-Col. Christopher Vaughan, Companion, D.S.O. ... '...-</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>9968</PageNumber>
     </MainItem>
   </ItemGroup>

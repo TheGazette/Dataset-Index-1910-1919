@@ -54,7 +54,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Ambrose</Key>
-      <Text>. 2nd Lt. H. (temp. Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>H.</Forenames>
+      <Text>(temp. Lt.)</Text>
       <PageNumber>1589</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -79,7 +81,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Amsden</Key>
-      <Text>.Lt.W.F. (date of precedence)</Text>
+      <Title>Lt.</Title>
+      <Forenames>W.F.</Forenames>
+      <Text>(date of precedence)</Text>
       <PageNumber>3090</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -305,7 +309,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>J. W.</Forenames>
-      <Text>, M.C. (Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2737</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -320,7 +326,7 @@
       <PageNumber>2463</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Rel. temp, rank and rem. seul.</Text>
+      <Text>Rel. temp, rank and rem. seul</Text>
       <PageNumber>2463</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -490,7 +496,9 @@
       </Key>
       <Title>2nd Lt.</Title>
       <Forenames>G. D.</Forenames>
-      <Text>M.C. (temp. Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>966</PageNumber>
     </MainItem>
     <SubItem>
@@ -758,8 +766,8 @@
     <MainItem>
       <Key>Antrobus</Key>
       <Title>2nd Lt.</Title>
-      <Forenames>J. A.</Forenames>
-      <Text>de R. A. (trd.)</Text>
+      <Forenames>J. A. de R</Forenames>
+      <Text>. A. (trd.)</Text>
       <PageNumber>2461</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -856,8 +864,8 @@
     <MainItem>
       <Key>Archer</Key>
       <Title>2nd Lt.</Title>
-      <Forenames>H.</Forenames>
-      <Text>de B. (temp. Lt.)</Text>
+      <Forenames>H. de B</Forenames>
+      <Text>. (temp. Lt.)</Text>
       <PageNumber>741</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -938,7 +946,7 @@
       <PageNumber>1905</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Capt.</Text>
+      <Text>Capt</Text>
       <PageNumber>2965</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1263,7 +1271,9 @@
       </Key>
       <Title>Maj. (temp. Lt.-Col.)</Title>
       <Forenames>J. M.</Forenames>
-      <Text>, D.S.O. (Lt.-Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>371</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1395,7 +1405,9 @@
       </Key>
       <Title>2nd Lt.</Title>
       <Forenames>C. F.</Forenames>
-      <Text>, M.C. (temp. Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2978</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1429,7 +1441,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Ashmall</Key>
-      <Text>. Cadet E. A. (2nd Lt.)</Text>
+      <Title>Cadet</Title>
+      <Forenames>E. A.</Forenames>
+      <Text>(2nd Lt.)</Text>
       <PageNumber>1279</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1442,7 +1456,7 @@
       <PageNumber>3079</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Rel. temp, rank and rem. seed.</Text>
+      <Text>Rel. temp, rank and rem. seed</Text>
       <PageNumber>3079</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1462,7 +1476,7 @@
       <PageNumber>507</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Capt.</Text>
+      <Text>Capt</Text>
       <PageNumber>2392</PageNumber>
     </SubItem>
   </ItemGroup>

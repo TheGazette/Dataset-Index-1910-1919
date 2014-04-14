@@ -36,7 +36,9 @@
     <MainItem>
       <Key>Rhodes</Key>
       <Forenames>A. E. G.</Forenames>
-      <Text>, Knight of Grace, St. John of Jerusalem ..'</Text>
+      <Text>
+        <Honour>Knight of Grace, St. John of Jerusalem</Honour>
+      </Text>
       <PageNumber>1593</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -44,7 +46,9 @@
     <MainItem>
       <Key>Robertson</Key>
       <Forenames>B.</Forenames>
-      <Text>, Companion, Star of India</Text>
+      <Text>
+        <Honour>Companion, Star of India</Honour>
+      </Text>
       <PageNumber>1</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -158,14 +162,18 @@
       <Key>Stockenstrom</Key>
       <Title>Hon. Sir</Title>
       <Forenames>J. H.</Forenames>
-      <Text>, Bart., (Cape of Good Hope), permitted to retain the title of Honourable</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>1326</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Strathcona</Key>
-      <Text>and Mount Royal, Rt. Hon. Lord, Knight of Grace, St. John of Jerusalem</Text>
+      <Text>
+        <Honour>Knight of Grace, St. John of Jerusalem</Honour>
+      </Text>
       <PageNumber>1593</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -173,7 +181,9 @@
     <MainItem>
       <Key>Stuart</Key>
       <Forenames>A. E. C</Forenames>
-      <Text>, Companion, Star of India</Text>
+      <Text>
+        <Honour>Companion, Star of India</Honour>
+      </Text>
       <PageNumber>1</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -190,7 +200,9 @@
       <Key>TakaBhima</Key>
       <Title>Capt.</Title>
       <Forenames>M.</Forenames>
-      <Text>, Hon. Fourth Class, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>779</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -198,7 +210,9 @@
     <MainItem>
       <Key>Tata</Key>
       <Forenames>D. J.</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>526</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -206,7 +220,9 @@
     <MainItem>
       <Key>Thomas</Key>
       <Forenames>R. K.</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>1498</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -216,6 +232,26 @@
       <Forenames>H.</Forenames>
       <Text>, H.M.'s Vice-Consul at Caracas</Text>
       <PageNumber>338</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>von Schwabach</Key>
+      <Title>Dr.</Title>
+      <Forenames>P.</Forenames>
+      <Text>, Hon. Knight Commander, St. Michael and St. George</Text>
+      <PageNumber>26</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>von Usedom</Key>
+      <Title>Lieut.</Title>
+      <Forenames>E. R. D.</Forenames>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
+      <PageNumber>1325</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -240,9 +276,11 @@
       <Title>Hon.</Title>
       <Forenames>A. H. J.</Forenames>
       <Text>, Commander, Royal Victorian Order</Text>
-      <PageNumber>2</PageNumber>
     </MainItem>
   </ItemGroup>
+  <Honour>
+    <PageNumber>2</PageNumber>
+  </Honour>
   <ItemGroup>
     <MainItem>
       <Key>Warre</Key>
@@ -339,7 +377,9 @@
       <Key>Yates</Key>
       <Title>Maj.</Title>
       <Forenames>H. B.</Forenames>
-      <Text>, Esquire, St. John of Jerusalem</Text>
+      <Text>
+        <Honour>Esquire, St. John of Jerusalem</Honour>
+      </Text>
       <PageNumber>1593</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -348,7 +388,9 @@
       <Key>Yoshida</Key>
       <Title>Lieut.-Col.</Title>
       <Forenames>T.</Forenames>
-      <Text>, Companion of the Bath</Text>
+      <Text>
+        <Honour>Companion of the Bath</Honour>
+      </Text>
       <PageNumber>947</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -555,8 +597,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Sullivan, J. (2nd Lieut.) .. ..</Text>
+      <Key>O'Sullivan</Key>
+      <Forenames>J.</Forenames>
+      <Text>(2nd Lieut.) .. ..</Text>
       <PageNumber>___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -667,7 +710,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wright</Key>
-      <Text>Warren, C. T. (2nd Lieut.) ..</Text>
+      <Forenames>Warren</Forenames>
+      <Text>, C. T. (2nd Lieut.) ..</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -684,7 +728,9 @@
       <Key>Abercromby</Key>
       <Title>Lieut. Sir</Title>
       <Forenames>G. W.</Forenames>
-      <Text>, Bart., Aide-de-Camp to General Rt. Hon. Sir N. G. Lyttelton</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>1595</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -844,9 +890,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Lisle</Forenames>
-      <Text>, Col. H. De B., General Staff Officer, 1st Grade .. .. ..</Text>
+      <Key>De Lisle</Key>
+      <Title>Col.</Title>
+      <Forenames>H. De B</Forenames>
+      <Text>., General Staff Officer, 1st Grade .. .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -972,15 +1019,17 @@
     <MainItem>
       <Key>Montgomery</Key>
       <Title>Maj.</Title>
-      <Forenames>H. M.</Forenames>
-      <Text>de F., Deputy Asst. Adjt.' and Qrmr.-Gen</Text>
+      <Forenames>H. M. de F</Forenames>
+      <Text>., Deputy Asst. Adjt.' and Qrmr.-Gen</Text>
       <PageNumber>1769</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, Col. E. D. J., Deputy Brig.Gen., to command the Potchestroom District</Text>
+      <Key>O'Brien</Key>
+      <Title>Col.</Title>
+      <Forenames>E. D. J.</Forenames>
+      <Text>, Deputy Brig.Gen., to command the Potchestroom District</Text>
       <PageNumber>781</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1213,8 +1262,18 @@
       <Key>Child</Key>
       <Title>Sir</Title>
       <Forenames>S. H.</Forenames>
-      <Text>, Bart. (Lieut.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>435</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Hamel</Key>
+      <Forenames>H. B.</Forenames>
+      <Text>(Capt.)</Text>
+      <PageNumber>1420</PageNumber>
     </MainItem>
   </ItemGroup>
   <KeyDitto>___ ___ ___ ___ ___</KeyDitto>

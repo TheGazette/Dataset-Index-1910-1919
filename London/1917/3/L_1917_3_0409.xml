@@ -3,7 +3,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Vaughan</Key>
-      <Text>Mrs* G. (temp. Chief Controller, W.A.A.C.)</Text>
+      <Title>Mrs</Title>
+      <Text>* G. (temp. Chief Controller, W.A.A.C.)</Text>
       <PageNumber>9543</PageNumber>
     </MainItem>
     <SubItem>
@@ -50,7 +51,9 @@
       </Key>
       <Title>temp. Capt. (actg. Maj.)</Title>
       <Forenames>J.</Forenames>
-      <Text>, M.C. (temp. Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8954</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -71,7 +74,9 @@
       </Key>
       <Title>Capt. (temp. Maj.)</Title>
       <Forenames>R. M.</Forenames>
-      <Text>, M.C. (Fit. Comdr., reverts from * Sqdn. Comdr. and rel. temp, rank)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8519</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -436,7 +441,9 @@
       <Key>Vernon</Key>
       <Title>Lt.</Title>
       <Forenames>A. J.</Forenames>
-      <Text>, M.C. (actg. Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8073</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -458,7 +465,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>H. A.</Forenames>
-      <Text>, D.S.O. (rel. temp, rank of Lt.-Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>9723</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -552,7 +561,9 @@
       </Key>
       <Title>Capt. and Bt. Maj. and Ord. Offr. 4th CI. (temp. Maj. and Ord. Offr. 3rd. CI.)</Title>
       <Forenames>W. H.</Forenames>
-      <Text>McN., M.C. (actg. Ord. Offr. '2nd CI. and actg. Lt.-Col.) .-</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6956</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -682,7 +693,9 @@
       </Key>
       <Title>temp. Lt.</Title>
       <Forenames>S. C</Forenames>
-      <Text>, M.C. (temp. Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9628</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -722,7 +735,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>C. E.</Forenames>
-      <Text>, D.S.O. (actg. Lt.Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>9737</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -778,7 +793,9 @@
       <Key>Vigers</Key>
       <Title>Lt. (temp. Capt.)</Title>
       <Forenames>T. W.</Forenames>
-      <Text>, M.C. (actg. Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6680</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1201,7 +1218,10 @@
       </Key>
       <Title>temp. Lt.</Title>
       <Forenames>G.</Forenames>
-      <Text>, M.D., F.R.C.S. (temp. Capt.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>9231</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1446,7 +1466,9 @@
       </Key>
       <Title>2nd Lt.</Title>
       <Forenames>H. T.</Forenames>
-      <Text>, M.C. (actg. Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7596</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1495,10 +1517,29 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Von</Key>
-      <Forenames>Brockdorff</Forenames>
-      <Text>, 2nd Lt. C. F. (Lt.)</Text>
+      <Key>Von Brockdorff</Key>
+      <Title>2nd Lt.</Title>
+      <Forenames>C. F.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>8654</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>von Roemer</Key>
+      <Title>Capt.</Title>
+      <Forenames>C.W.</Forenames>
+      <Text>(spec. appt.)</Text>
+      <PageNumber>9320</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>von Stieglitz</Key>
+      <Title>Capt.</Title>
+      <Forenames>F. L.</Forenames>
+      <Text>(Balloon Offr. and seed.)</Text>
+      <PageNumber>9540</PageNumber>
     </MainItem>
   </ItemGroup>
   <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>

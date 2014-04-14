@@ -367,8 +367,8 @@
     <MainItem>
       <Key>Frost</Key>
       <Title>2nd Lieut.</Title>
-      <Forenames>R. M. O</Forenames>
-      <Text>'B. (cancellation)</Text>
+      <Forenames>R. M. O'B</Forenames>
+      <Text>. (cancellation)</Text>
       <PageNumber>4773</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -515,8 +515,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, T. E. S. (2nd Lieut.)</Text>
+      <Key>O'Brien</Key>
+      <Forenames>T. E. S.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>4426</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -693,7 +694,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Baldwin</Key>
-      <Text>Lieut. O. G. de C. (resigned)</Text>
+      <Title>Lieut.</Title>
+      <Forenames>O. G. de C</Forenames>
+      <Text>. (resigned)</Text>
       <PageNumber>4182</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1063,8 +1066,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Collins</Key>
-      <Forenames>A. F. St</Forenames>
-      <Text>. C. (2nd Lieut.)</Text>
+      <Forenames>A. F. St. C</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>2704</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1234,6 +1237,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Montmorency</Key>
+      <Forenames>M.</Forenames>
+      <Text>(Lieut.-Col.)</Text>
+      <PageNumber>3052</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Dickie</Key>
       <Forenames>T. W.</Forenames>
       <Text>(Lieut.)</Text>
@@ -1326,7 +1337,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Farebrother</Key>
-      <Text>C.B. (2nd Lieut.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>3170</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1417,8 +1430,8 @@
     <MainItem>
       <Key>Gibbons</Key>
       <Title>Maj. and Hon. Lieut.-Col.</Title>
-      <Forenames>A. St</Forenames>
-      <Text>. H. (resigned)</Text>
+      <Forenames>A. St. H</Forenames>
+      <Text>. (resigned)</Text>
       <PageNumber>3170</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1775,7 +1788,9 @@
       <Key>Jardine</Key>
       <Title>Capt. and Hon. Maj. Sir</Title>
       <Forenames>W.</Forenames>
-      <Text>, Bart, (resigned)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>3329</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1798,8 +1813,8 @@
     <MainItem>
       <Key>Jervis</Key>
       <Title>Maj.</Title>
-      <Forenames>E.</Forenames>
-      <Text>de R. (resigned)</Text>
+      <Forenames>E. de R</Forenames>
+      <Text>. (resigned)</Text>
       <PageNumber>4510</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1815,8 +1830,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kay</Key>
-      <Forenames>H.</Forenames>
-      <Text>de T. W. (2nd Lieut.)</Text>
+      <Forenames>H. de T</Forenames>
+      <Text>. W. (2nd Lieut.)</Text>
       <PageNumber>4773</PageNumber>
     </MainItem>
   </ItemGroup>

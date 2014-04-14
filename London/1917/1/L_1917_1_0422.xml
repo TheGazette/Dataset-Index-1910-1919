@@ -294,9 +294,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Souza</Forenames>
-      <Text>, F. B</Text>
+      <Key>de Mello</Key>
+      <Title>(rel. temp, rank)</Title>
+      <PageNumber>2769</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Souza</Key>
+      <Forenames>F. B.</Forenames>
       <PageNumber>1178</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -703,8 +709,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hefferman</Key>
-      <Forenames>W. St</Forenames>
-      <Text>. M. (Hon. Capt.)</Text>
+      <Forenames>W. St. M</Forenames>
+      <Text>. (Hon. Capt.)</Text>
       <PageNumber>1280</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -899,7 +905,7 @@
   <ItemGroup>
     <MainItem>
       <Key>T</Key>
-      <Text>.loyd, T. W. (Hon. Capt.)</Text>
+      <Text>loyd, T. W. (Hon. Capt.)</Text>
       <PageNumber>615</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -914,7 +920,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Martin</Key>
-      <Text>. E. H. (Hon. Capt.)</Text>
+      <Forenames>E. H.</Forenames>
+      <Text>(Hon. Capt.)</Text>
       <PageNumber>615</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1086,8 +1093,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, C. E. B</Text>
+      <Key>O'Connor</Key>
+      <Forenames>C. E. B.</Forenames>
       <PageNumber>615</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1159,7 +1166,9 @@
       <Key>Best</Key>
       <Title>The Hon.</Title>
       <Forenames>M. R.</Forenames>
-      <Text>, M.V.O., tD.S.O. ... ... lit Currey, H. S., D.S.O</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>12</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1314,7 +1323,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brooke</Key>
-      <Text>. B. R</Text>
+      <Forenames>B. R</Forenames>
       <PageNumber>12</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1357,7 +1366,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dickson</Key>
-      <Text>. C. B</Text>
+      <Forenames>C. B.</Forenames>
       <PageNumber>12</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1371,7 +1380,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dorling</Key>
-      <Text>. H. T</Text>
+      <Forenames>H. T.</Forenames>
       <PageNumber>12</PageNumber>
     </MainItem>
   </ItemGroup>

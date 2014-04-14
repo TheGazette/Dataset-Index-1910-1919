@@ -346,7 +346,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Weston</Key>
-      <Text>., J. L. (Maj.)</Text>
+      <Text>, J. L. (Maj.)</Text>
       <PageNumber>11137</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -434,7 +434,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Whiteside</Key>
-      <Text>. Miles B. Dalzell (temporary 2nd Lieut.)</Text>
+      <Forenames>Miles B. Dalzell</Forenames>
+      <Text>(temporary 2nd Lieut.)</Text>
       <PageNumber>10794</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -842,8 +843,9 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Lieut</Forenames>
-      <Text>, (temporary Capt.) John C. (antedated)</Text>
+      <Title>Lieut, (temporary Capt.)</Title>
+      <Forenames>John C.</Forenames>
+      <Text>(antedated)</Text>
       <PageNumber>8613</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1171,7 +1173,9 @@
       <Key>Ashmore</Key>
       <Title>Maj.</Title>
       <Forenames>Edward B.</Forenames>
-      <Text>, M.V.O. (Wing Commander and temporary Lieut.-Col.)</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>9970</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1187,7 +1191,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Barley</Key>
-      <Text>. Lieut. Arthur B. (Flying Officer, and to be seconded)</Text>
+      <Title>Lieut.</Title>
+      <Forenames>Arthur B.</Forenames>
+      <Text>(Flying Officer, and to be seconded)</Text>
       <PageNumber>10144</PageNumber>
     </MainItem>
   </ItemGroup>

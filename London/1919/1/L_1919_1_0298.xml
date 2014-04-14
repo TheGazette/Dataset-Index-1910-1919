@@ -3,11 +3,13 @@
   <ItemGroup>
     <MainItem>
       <Key>Robinson</Key>
-      <Text>. Lt.-Col. Bobert Hervey St. Clair, Member, Order of the British Empire</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Bobert Hervey St. Clair</Forenames>
+      <Text>, Member, Order of the British Empire</Text>
       <PageNumber>472</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Date .-.</Text>
+      <Text>Date .-</Text>
       <PageNumber>2855</PageNumber>
     </SubItem>
     <SubItem>
@@ -22,7 +24,9 @@
       </Key>
       <Title>Maj. (A./Lt.-Col.)</Title>
       <Forenames>Thomas Trevor</Forenames>
-      <Text>, Hull, M.B.. Companion, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>20</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -32,7 +36,9 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>William Arthur</Forenames>
-      <Text>, C.B., Knight Commander, Order of the Bath</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>107</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -79,7 +85,9 @@
       <Key>Roeh</Key>
       <Title>Bt. Col. (T./Col.)</Title>
       <Forenames>Hor</Forenames>
-      <Text>&amp;oe Samson, D.S.O., Companion, N St. Miohael and St. George</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3</PageNumber>
     </MainItem>
     <SubItem>
@@ -119,7 +127,11 @@
       <PageNumber>2855</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>___ Maj. and Bt.Lt.-Col. (T./Brig.Gen.) Claud Stuart, D.S.O., Companion, St. Michael and St. George</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, St. Michael and St. George</Honour>
+      </Text>
       <PageNumber>52</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -128,7 +140,10 @@
       <Key>Rooke</Key>
       <Title>Maj. (A./Lt.-Col.)</Title>
       <Forenames>Everard How</Forenames>
-      <Text>, D.S.O., Companion, St. Michael and St. George</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, St. Michael and St. George</Honour>
+      </Text>
       <PageNumber>64</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -176,7 +191,11 @@
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>M</Forenames>
-      <Text>*j. and Bt. Lt.-Col. (T. /Col.) Richard Aubrey De Burgh, D.S.O., Companion, St. Michael and St. George</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, St. Michael and St. George</Honour>
+      </Text>
       <PageNumber>1941</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -187,7 +206,9 @@
       </Key>
       <Title>Lt. (A./Capt.)</Title>
       <Forenames>Thomas Whateiy</Forenames>
-      <Text>, M.C., Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>65</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -195,7 +216,9 @@
     <MainItem>
       <Key>Rose</Key>
       <Forenames>Innes</Forenames>
-      <Text>, Lord, K.C.M.G., sworn of H.M. Privy Council</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+      </Text>
       <PageNumber>3999</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -212,7 +235,10 @@
       <Key>Rosenthal</Key>
       <Title>Maj.-Gen.</Title>
       <Forenames>Charles</Forenames>
-      <Text>, C.B., C.M.G., Knight Commander, Order of the Bath</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>1</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -232,7 +258,9 @@
       <Key>Roskruge</Key>
       <Title>Engr. Comdr.</Title>
       <Forenames>Francis John</Forenames>
-      <Text>, D.S.O., Offioer, Order of the Biitish Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>112</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -241,7 +269,9 @@
       <Key>Ross</Key>
       <Title>Brig.-Gen.</Title>
       <Forenames>Alexander</Forenames>
-      <Text>, D.S.O., Companion, St. Miohael and St. George</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -262,7 +292,10 @@
       </Key>
       <Title>Lt. (A./Capt.)</Title>
       <Forenames>David</Forenames>
-      <Text>, M.C., Companion, D.S.O</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>1609</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -314,7 +347,9 @@
       <Key>
         <KeyDitto>___ ___ ___ .</KeyDitto>
       </Key>
-      <Text>the Rt. Hon. Mr. Justice John, created Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>105</PageNumber>
       <PageNumber>4008</PageNumber>
     </MainItem>
@@ -325,7 +360,10 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Title>Brig.-Gen.</Title>
-      <Text>JohnMunro,D.S.O., Companion, St. Michael and St. George</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, St. Michael and St. George</Honour>
+      </Text>
       <PageNumber>5</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -336,7 +374,10 @@
       </Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Malcolm Nugent</Forenames>
-      <Text>, D.S.O., Bar to D.S.O</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>2364</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -347,7 +388,10 @@
       </Key>
       <Title>Lt.-Col. and Bt. Col. (T./Brig.Gen.)</Title>
       <Forenames>Robert James</Forenames>
-      <Text>, C.M.G., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>81</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -388,7 +432,9 @@
       <Key>Rostron</Key>
       <Title>Comdr. (A./Capt.)</Title>
       <Forenames>Arthur Henry</Forenames>
-      <Text>, R.D., Commander, Order of the British Empire .. .. Ill Roth, T./Capt. (A./Maj.) Albert Alexander, Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>10</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -405,7 +451,10 @@
     <MainItem>
       <Key>Rothschild</Key>
       <Forenames>T.</Forenames>
-      <Text>/Maj. George Francis, M.C., Companion, D.S.O</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>20</PageNumber>
     </MainItem>
     <SubItem>
@@ -429,7 +478,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>William Edward</Forenames>
-      <Text>, D.S.O., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>10</PageNumber>
     </MainItem>
   </ItemGroup>

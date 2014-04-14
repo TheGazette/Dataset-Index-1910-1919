@@ -95,8 +95,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Harris-Rivett</Key>
-      <Forenames>The Ven</Forenames>
-      <Text>. Archdeacon A. J. E. (relinquishes his temp. commission)</Text>
+      <Title>The Ven.</Title>
+      <Forenames>Archdeacon A. J. E.</Forenames>
+      <Text>(relinquishes his temp. commission)</Text>
       <PageNumber>535</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1021,8 +1022,8 @@
     <MainItem>
       <Key>Harvard</Key>
       <Title>2nd Lt.</Title>
-      <Forenames>K. O</Forenames>
-      <Text>'G. (2nd Lt. on probation)</Text>
+      <Forenames>K. O'G</Forenames>
+      <Text>. (2nd Lt. on probation)</Text>
       <PageNumber>1331</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1032,8 +1033,8 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Title>2nd Lt.</Title>
-      <Forenames>L.</Forenames>
-      <Text>de J., supplementary (confirmed)</Text>
+      <Forenames>L. de J</Forenames>
+      <Text>., supplementary (confirmed)</Text>
       <PageNumber>2536</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1201,7 +1202,10 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Title>Lt.</Title>
-      <Text>-Ccl. R. N., C.M.G.,. D.S.O. (temp. BrigadierGen, whilst employed as Inspector of Mines)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>1471</PageNumber>
     </MainItem>
   </ItemGroup>

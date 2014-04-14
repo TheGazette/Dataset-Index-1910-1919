@@ -49,7 +49,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Garrett</Key>
-      <Text>J ___ ___ ___ J</Text>
+      <Forenames>J</Forenames>
+      <Text>___ ___ ___ J</Text>
       <PageNumber>2291</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -69,7 +70,15 @@
       <PageNumber>1213</PageNumber>
     </MainItem>
   </ItemGroup>
-  <KeyDitto>___ ___ ___ ___</KeyDitto>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___ ___</KeyDitto>
+      </Key>
+      <Forenames>R.</Forenames>
+      <PageNumber>2393</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Harsant</Key>
@@ -101,7 +110,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>E W</Text>
+      <Forenames>E</Forenames>
+      <Text>W</Text>
       <PageNumber>2103</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -623,7 +633,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Horlock</Key>
-      <Text>R, R</Text>
+      <Forenames>R</Forenames>
+      <Text>, R</Text>
       <PageNumber>1798</PageNumber>
       <PageNumber>2209</PageNumber>
     </MainItem>

@@ -12,7 +12,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kidson</Key>
-      <Text>. N. S. B. (temporary 2nd Lieut.)</Text>
+      <Forenames>N. S. B.</Forenames>
+      <Text>(temporary 2nd Lieut.)</Text>
       <PageNumber>9268</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -21,7 +22,9 @@
       <Key>Kiggell</Key>
       <Title>(temporary BrigadderGen.)</Title>
       <Forenames>Lancelot E.</Forenames>
-      <Text>, C.B. (Maj.Gen.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>8884</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -75,7 +78,10 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Wyndhain Charles</Forenames>
-      <Text>, D.S.O., A.D.C. (Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>A.D.C.</Honour>
+      </Text>
       <PageNumber>9003</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -143,7 +149,9 @@
     <MainItem>
       <Key>London</Key>
       <Forenames>Herman J. S.</Forenames>
-      <Text>, C.B. (Maj.Gen. for distinguished services in the Field)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>8639</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -190,7 +198,9 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Tom</Forenames>
-      <Text>, V.C. (Hon. Capt.)</Text>
+      <Text>
+        <Honour>V.C.</Honour>
+      </Text>
       <PageNumber>10432</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -201,7 +211,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>Walter R.</Forenames>
-      <Text>, Bt. (temporary. Col.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>10552</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -343,7 +355,9 @@
     <MainItem>
       <Key>Linton</Key>
       <Forenames>Henry</Forenames>
-      <Text>M.V.O. (temporary Lieut.)</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>10774</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -405,7 +419,9 @@
       <Key>Lowe</Key>
       <Title>Col.</Title>
       <Forenames>W. H. M.</Forenames>
-      <Text>, C.B. (temporary Brigadier-Gen.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>8239</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -502,15 +518,16 @@
       <Key>Maofarlane</Key>
       <Title>Col.</Title>
       <Forenames>Duncan A.</Forenames>
-      <Text>, D.S.O. (retained on active list, supernumerary to establishment)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>9504</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>McFarlane</Key>
-      <Title>(temporary)</Title>
-      <Forenames>Lieut</Forenames>
+      <Title>(temporary) Lieut</Title>
       <Text>, arid Qrmr. Edward John (correction of date)</Text>
       <PageNumber>9519</PageNumber>
     </MainItem>
@@ -559,8 +576,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McLellan</Key>
-      <Title>(temporary)</Title>
-      <Forenames>Lieut</Forenames>
+      <Title>(temporary) Lieut</Title>
       <Text>, and Qrmr. Malcolm (correction of date)</Text>
       <PageNumber>9519</PageNumber>
     </MainItem>
@@ -576,7 +592,8 @@
   <ItemGroup>
     <MainItem>
       <Key>McMinn</Key>
-      <Text>. Hugh Bell (temporary Lieut, j</Text>
+      <Forenames>Hugh Bell</Forenames>
+      <Text>(temporary Lieut, j</Text>
       <PageNumber>9367</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -760,8 +777,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Melvin</Key>
-      <Title>(temporary)</Title>
-      <Forenames>Lieut</Forenames>
+      <Title>(temporary) Lieut</Title>
       <Text>, and Qrmr. Alexander (relinquishes his appointment)</Text>
       <PageNumber>9619</PageNumber>
     </MainItem>
@@ -820,7 +836,9 @@
       <Key>Milner</Key>
       <Title>Col.</Title>
       <Forenames>G. F.</Forenames>
-      <Text>, D.S.O. (temporary Brigadier-Gen.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8239</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -884,7 +902,9 @@
     <MainItem>
       <Key>Montagu-Stuart-</Key>
       <Forenames>Wortley</Forenames>
-      <Text>, The Hon. Alan R., D.S.O. (Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8222</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -937,7 +957,9 @@
       <Key>Moorhouse</Key>
       <Title>Brevet Maj.</Title>
       <Forenames>Harry C</Forenames>
-      <Text>, O.M^., D.S.O. (temporary Lieut.-Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7920</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1053,7 +1075,9 @@
       <Key>Nash</Key>
       <Title>Maj.</Title>
       <Forenames>William F.</Forenames>
-      <Text>, D.S.O. (temporary Lieut.-Col. while commanding Dep6t)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>11040</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -18,7 +18,7 @@
       <PageNumber>16054</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Actg. Lt., Admin</Text>
+      <Text>Actg. Lt., Admin.</Text>
       <PageNumber>13612</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -58,7 +58,9 @@
       <Key>Lund</Key>
       <Title>2nd Lt. (Army)</Title>
       <Forenames>J. L.</Forenames>
-      <Text>, M.C. (temp. 2nd Lt., Obevr. Offf.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>14138</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -230,7 +232,9 @@
   <ItemGroup>
     <MainItem>
       <Key>McAlpine</Key>
-      <Text>2nd Lt. on prob. J. A. (confd. as 2nd Lt., A.)</Text>
+      <Title>2nd Lt. on prob.</Title>
+      <Forenames>J. A.</Forenames>
+      <Text>(confd. as 2nd Lt., A.)</Text>
       <PageNumber>13920</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -257,14 +261,18 @@
       <Key>Macanlay</Key>
       <Title>Capt. (S.O.)</Title>
       <Forenames>T. C</Forenames>
-      <Text>, M.C. (Capt., Admin.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>11978</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Macanev</Key>
-      <Text>Cadet M. B. (temp. 2nd Lt.. A.)</Text>
+      <Title>Cadet</Title>
+      <Forenames>M. B.</Forenames>
+      <Text>(temp. 2nd Lt.. A.)</Text>
       <PageNumber>14709</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -289,7 +297,9 @@
   <ItemGroup>
     <MainItem>
       <Key>MoB-n</Key>
-      <Text>Lt. G. N. (temp. Capt., A.) ... . ...'</Text>
+      <Title>Lt.</Title>
+      <Forenames>G. N.</Forenames>
+      <Text>(temp. Capt., A.) ... . ...'</Text>
       <PageNumber>12706</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -487,7 +497,9 @@
         <KeyDitto>___ ——.</KeyDitto>
       </Key>
       <Title>temp.</Title>
-      <Text>.Capt. (Army) H. H., M.C. (temp: 2nd Lt., Obsvr. Offr. and Hon. Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>11977</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -565,14 +577,20 @@
   <ItemGroup>
     <MainItem>
       <Key>MoOrae</Key>
-      <Text>Maj. J.. M.B.E. (temp.. Lt.-Col., Tech.) '</Text>
+      <Title>Maj.</Title>
+      <Forenames>J.</Forenames>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>12130</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>MoCraiig</Key>
-      <Text>2nd Lt. on prob. G. P. (coafd. as 2nd Lt., A.)</Text>
+      <Title>2nd Lt. on prob.</Title>
+      <Forenames>G. P.</Forenames>
+      <Text>(coafd. as 2nd Lt., A.)</Text>
       <PageNumber>11562</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -904,7 +922,10 @@
       <Key>McEwen</Key>
       <Title>Lt.</Title>
       <Forenames>C</Forenames>
-      <Text>, M.C., D.F.C</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>D.F.C</Honour>
+      </Text>
       <PageNumber>14334</PageNumber>
     </MainItem>
   </ItemGroup>

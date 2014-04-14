@@ -30,7 +30,9 @@
       <PageNumber>4272</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Levi, Lt.-Col. W. J., T.D</Text>
+      <Text>
+        <Honour>T.D</Honour>
+      </Text>
       <PageNumber>4272</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -41,18 +43,24 @@
       <PageNumber>6230</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Tremayne, Capt. W. F.</Text>
+      <Text>Tremayne, Capt. W. F</Text>
       <PageNumber>6230</PageNumber>
     </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Durham</Key>
-      <Text>: Headlam, Maj.-Gen. J. E. W., C.B., D.S.O</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>4708</PageNumber>
     </MainItem>
     <SubItem>
       <Text>
+        <Honour>C.B.</Honour>
+        <Honour>M.V.O.</Honour>
+        <Honour>D.S.O.</Honour>
         <PageNumber>5835</PageNumber>
       </Text>
       <PageNumber>4272</PageNumber>
@@ -100,7 +108,9 @@
       <Key>Bethell</Key>
       <Title>The Hon. Sir</Title>
       <Forenames>A. E.</Forenames>
-      <Text>, K.C.B., K.O.M.G</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+      </Text>
       <PageNumber>5828</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -109,7 +119,10 @@
       <Key>Burney</Key>
       <Title>Sir</Title>
       <Forenames>C</Forenames>
-      <Text>, K.C.B., K.C.M.G</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+        <Honour>K.C.M.G</Honour>
+      </Text>
       <PageNumber>5828</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -118,7 +131,10 @@
       <Key>Hamilton</Key>
       <Title>Sir</Title>
       <Forenames>F. T.</Forenames>
-      <Text>, K.C.B., C.V.O</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+        <Honour>C.V.O</Honour>
+      </Text>
       <PageNumber>5828</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -134,7 +150,10 @@
       <Key>Egerbon</Key>
       <Title>Sir</Title>
       <Forenames>G. Le C</Forenames>
-      <Text>, K.C.B. ... Farquhar, Sir A. M., K.C.B., C.V.O</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+        <Honour>K.C.B.</Honour>
+      </Text>
       <PageNumber>5828</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -157,7 +176,9 @@
       <Key>Inglefield</Key>
       <Title>Sir</Title>
       <Forenames>F. S.</Forenames>
-      <Text>, K.C.B</Text>
+      <Text>
+        <Honour>K.C.B</Honour>
+      </Text>
       <PageNumber>5828</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -187,14 +208,19 @@
     <MainItem>
       <Key>Currey</Key>
       <Forenames>B.</Forenames>
-      <Text>... Madden, Sir C. E., K.C.B., C.V.O</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+        <Honour>C.V.O</Honour>
+      </Text>
       <PageNumber>5828</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Moore</Key>
-      <Text>' Sir A. G. .H. W., K.C.B., C.V.O</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+      </Text>
       <PageNumber>5828</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -202,8 +228,19 @@
     <MainItem>
       <Key>Troubridge</Key>
       <Forenames>E. C. T.</Forenames>
-      <Text>, C.B., C.M.G., M.V.O</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>583</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Salis</Key>
+      <Forenames>W.</Forenames>
+      <Text>, M.V.O</Text>
+      <PageNumber>5828</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -225,7 +262,9 @@
     <MainItem>
       <Key>Tufnell</Key>
       <Forenames>L. G.</Forenames>
-      <Text>, C.M.G</Text>
+      <Text>
+        <Honour>C.M.G</Honour>
+      </Text>
       <PageNumber>5828</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -233,7 +272,9 @@
     <MainItem>
       <Key>Culme-Seymour</Key>
       <Forenames>M.</Forenames>
-      <Text>, M.V.O</Text>
+      <Text>
+        <Honour>M.V.O</Honour>
+      </Text>
       <PageNumber>6066</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -249,7 +290,9 @@
     <MainItem>
       <Key>Fyler</Key>
       <Forenames>H. A. S.</Forenames>
-      <Text>, C.B</Text>
+      <Text>
+        <Honour>C.B</Honour>
+      </Text>
       <PageNumber>5828</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -257,7 +300,10 @@
     <MainItem>
       <Key>Goodenough</Key>
       <Forenames>W. E.</Forenames>
-      <Text>, C.B., M.V.O., A.D.C</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>6066</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -287,7 +333,11 @@
     <MainItem>
       <Key>Jackson</Key>
       <Forenames>T.</Forenames>
-      <Text>, C.B., M.V.O., A.D.C</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>M.V.O.</Honour>
+        <Honour>A.D.C</Honour>
+      </Text>
       <PageNumber>6066</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -347,7 +397,9 @@
     <MainItem>
       <Key>Christian</Key>
       <Forenames>C. A.</Forenames>
-      <Text>, M.V.O. ...'</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>6217</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -399,7 +451,9 @@
     <MainItem>
       <Key>Hutchison</Key>
       <Forenames>J.</Forenames>
-      <Text>de M., C.V.O., O.M.G</Text>
+      <Text>
+        <Honour>C.V.O.</Honour>
+      </Text>
       <PageNumber>4696</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -563,8 +617,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Dogherty, F. B ;</Text>
+      <Key>O'Dogherty</Key>
+      <Forenames>F. B</Forenames>
+      <Text>;</Text>
       <PageNumber>5827</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1297,7 +1352,9 @@
     <MainItem>
       <Key>Lacy</Key>
       <Forenames>A. D. Langton-Jones</Forenames>
-      <Text>, R., D.S.O. (seniority</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6496</PageNumber>
     </MainItem>
     <SubItem>

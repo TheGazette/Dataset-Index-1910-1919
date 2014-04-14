@@ -21,9 +21,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Brath</Forenames>
-      <Text>, H. (Maj.) lil</Text>
+      <Key>De Brath</Key>
+      <Forenames>H.</Forenames>
+      <Text>(Maj.) lil</Text>
       <PageNumber>37</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -134,7 +134,9 @@
       <Key>Dickinson</Key>
       <Title>Maj.</Title>
       <Forenames>N. H. C</Forenames>
-      <Text>, D.S.O. (temporary Inspector of Mechanical Transport, 1st Class)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>9376</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -205,7 +207,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Doherty</Key>
-      <Text>. W. D. (temporary Ldeut.)</Text>
+      <Forenames>W. D.</Forenames>
+      <Text>(temporary Ldeut.)</Text>
       <PageNumber>10905</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -494,7 +497,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Edgcumbe</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>; Piers (temporary Capt.) .. '</Text>
       <PageNumber>8846</PageNumber>
     </MainItem>
@@ -1145,7 +1148,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gahan</Key>
-      <Text>. Edward J. Beresford</Text>
+      <Forenames>Edward J. Beresford</Forenames>
       <PageNumber>10446</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -224,7 +224,9 @@
     <MainItem>
       <Key>Westminster</Key>
       <Forenames>Hugh R. A.</Forenames>
-      <Text>Duke of, G C.V.O. (seconded) .'</Text>
+      <Text>
+        <Honour>C.V.O.</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -342,7 +344,9 @@
       <Key>Williams-Drnmmond</Key>
       <Title>Sir</Title>
       <Forenames>James H.</Forenames>
-      <Text>, Bt. (2nd Lieut.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>7006</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -406,7 +410,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>Mathew R. Henry</Forenames>
-      <Text>, Bart., C.S.I. (Lieut.-Col.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>7699</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -423,8 +429,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Winby</Key>
-      <Title>Hon.</Title>
-      <Forenames>Lieut</Forenames>
+      <Title>Hon. Lieut</Title>
       <Text>in the. Army Lewis Phillips (temporary Lieut.)</Text>
       <PageNumber>7601</PageNumber>
     </MainItem>
@@ -496,8 +501,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wrigley</Key>
-      <Title>Hon.</Title>
-      <Forenames>Lieut</Forenames>
+      <Title>Hon. Lieut</Title>
       <Text>, in the Army John Hardy (Major)</Text>
       <PageNumber>6700</PageNumber>
     </MainItem>
@@ -650,7 +654,9 @@
     <MainItem>
       <Key>Brooke</Key>
       <Forenames>Leopold G. F. M.</Forenames>
-      <Text>Lord, M.V.O. (Brevet Lieut-Col.)</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>5763</PageNumber>
     </MainItem>
     <SubItem>
@@ -718,14 +724,17 @@
     <MainItem>
       <Key>Cane</Key>
       <Forenames>Leonard B.</Forenames>
-      <Text>, M.D. (Capt)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>6606</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Carr-Gomm</Key>
-      <Text>. Hubert W. C. (Capt.)</Text>
+      <Forenames>Hubert W. C.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>7610</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -742,7 +751,9 @@
       <Key>Cavity</Key>
       <Title>Sir</Title>
       <Forenames>George E. A</Forenames>
-      <Text>, Bt. (Capt.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>7785</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -860,7 +871,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dikie</Key>
-      <Text>. Archibald Paul (Lieut.)</Text>
+      <Forenames>Archibald Paul</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>6407</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -875,7 +887,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Digby</Key>
-      <Text>. WalterG. (Capt.)</Text>
+      <Text>WalterG. (Capt.)</Text>
       <PageNumber>7610</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -952,8 +964,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fletcher</Key>
-      <Title>Hon.</Title>
-      <Forenames>Lieut</Forenames>
+      <Title>Hon. Lieut</Title>
       <Text>, in the Army William A. L. (Capt.)</Text>
       <PageNumber>7498</PageNumber>
     </MainItem>
@@ -1102,7 +1113,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Hamilton</Key>
-      <Text>WalterM.,M.D. (Major)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>5553</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1167,7 +1180,7 @@
   <ItemGroup>
     <MainItem>
       <Key>He</Key>
-      <Text>. mer, El ward (Lieut.)</Text>
+      <Text>mer, El ward (Lieut.)</Text>
       <PageNumber>7313</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1367,7 +1380,7 @@
   <ItemGroup>
     <MainItem>
       <Key>M</Key>
-      <Text>.ckenna, Peter F. (M .jor)</Text>
+      <Text>ckenna, Peter F. (M .jor)</Text>
       <PageNumber>7312</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1499,7 +1512,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pig</Key>
-      <Text>.tt, Geolfre* Thomas(Capt.)</Text>
+      <Text>tt, Geolfre* Thomas(Capt.)</Text>
       <PageNumber>7499</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1560,7 +1573,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pr</Key>
-      <Text>.smal, Edwin (dpt.)</Text>
+      <Text>smal, Edwin (dpt.)</Text>
       <PageNumber>7610</PageNumber>
     </MainItem>
   </ItemGroup>

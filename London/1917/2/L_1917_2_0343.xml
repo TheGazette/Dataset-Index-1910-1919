@@ -3,7 +3,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Westmacott</Key>
-      <Text>.Maj. G. P., D.S.O. (rel. actg. rank of Lt.-Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3502</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -76,7 +78,9 @@
       </Key>
       <Title>temp. Capt.</Title>
       <Forenames>C. F. R. N.</Forenames>
-      <Text>, M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>3311</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -524,7 +528,9 @@
       <Key>Whatton</Key>
       <Title>Lt.</Title>
       <Forenames>S.</Forenames>
-      <Text>. M. de H., M.C. (rel. aOtg. rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4776</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -623,7 +629,9 @@
       </Key>
       <Title>Maj. (Bt. Lt.-Col.)</Title>
       <Forenames>L. L.</Forenames>
-      <Text>, D.S.O. (aotg. Lt.-.Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5038</PageNumber>
       <PageNumber>5820</PageNumber>
     </MainItem>
@@ -663,7 +671,7 @@
       <PageNumber>4314</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Confd</Text>
+      <Text>Confd.</Text>
       <PageNumber>4464</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -813,7 +821,9 @@
       </Key>
       <Title>Lt. (actg. Cap*:)</Title>
       <Forenames>J. P.</Forenames>
-      <Text>, M.C. (actg. Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6486</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -845,7 +855,9 @@
       </Key>
       <Title>temp. Lt.</Title>
       <Forenames>P. C. E.</Forenames>
-      <Text>dE., M.D., . iF.R.C.S. Edim (temp. Capt.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>4434</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -966,7 +978,9 @@
       </Key>
       <Title>actg. Sjt.-Maj.</Title>
       <Forenames>G.</Forenames>
-      <Text>, M.C. (2nd Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5436</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1330,7 +1344,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Whitby</Key>
-      <Text>temp, 2nd Lt. E, R., M.C. \(trd.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4610</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1423,7 +1439,7 @@
       <PageNumber>5211</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>' Flying Offr</Text>
+      <Text>' Flying Offr.</Text>
       <PageNumber>5209</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1467,7 +1483,11 @@
       </Key>
       <Title>Col. (temp. Maj.-Gen.)</Title>
       <Forenames>C. B.</Forenames>
-      <Text>B., C.B., D.S.O. (A.D.C. to H.M. the King)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>A.D.C.</Honour>
+      </Text>
       <PageNumber>5614</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1488,8 +1508,8 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Title>temp. Capt.</Title>
-      <Forenames>C.</Forenames>
-      <Text>de Lacy (date of precedence)</Text>
+      <Forenames>C. de Lacy</Forenames>
+      <Text>(date of precedence)</Text>
       <PageNumber>3924</PageNumber>
     </MainItem>
   </ItemGroup>

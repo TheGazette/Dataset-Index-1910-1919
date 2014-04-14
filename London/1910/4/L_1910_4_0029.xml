@@ -4,9 +4,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Simpson</Key>
-      <Title>Supy.</Title>
-      <Forenames>Lieut-</Forenames>
-      <Text>Col. and Hon. Col. E. (resigned)</Text>
+      <Title>Supy. Lieut-Col. and Hon. Col.</Title>
+      <Forenames>E.</Forenames>
+      <Text>(resigned)</Text>
       <PageNumber>9395</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -157,8 +157,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Braithwaite</Key>
-      <Title>Supy.</Title>
-      <Forenames>Lieut-</Forenames>
+      <Title>Supy. Lieut-</Title>
       <Text>CoL C. C. (resigned)</Text>
       <PageNumber>8180</PageNumber>
     </MainItem>
@@ -267,8 +266,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Carlebach</Key>
-      <Forenames>Lieut-</Forenames>
-      <Text>Col. P. (retired)</Text>
+      <Title>Lieut-Col.</Title>
+      <Forenames>P.</Forenames>
+      <Text>(retired)</Text>
       <PageNumber>9395</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -390,6 +390,14 @@
     </MainItem>
   </ItemGroup>
   <SubSectionTitle>8th Battalion</SubSectionTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Kierzkowski-Steuart</Key>
+      <Forenames>F. H.</Forenames>
+      <Text>(LieutCol.)</Text>
+      <PageNumber>9321</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <SubSectionTitle>County of London</SubSectionTitle>
   <SubSectionTitle>9th Battalion</SubSectionTitle>
   <ItemGroup>
@@ -593,9 +601,9 @@
   <ItemGroup>
     <MainItem>
       <Key>DAlton</Key>
-      <Title>Maj. and Hon.</Title>
-      <Forenames>Lieut-</Forenames>
-      <Text>Col. R. W. (resigned)</Text>
+      <Title>Maj. and Hon. Lieut-Col.</Title>
+      <Forenames>R. W.</Forenames>
+      <Text>(resigned)</Text>
       <PageNumber>9472</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -654,9 +662,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Matthews</Key>
-      <Title>Supy. Maj. and Hon.</Title>
-      <Forenames>Lieut-</Forenames>
-      <Text>Col. M. C. (resigned)</Text>
+      <Title>Supy. Maj. and Hon. Lieut-Col.</Title>
+      <Forenames>M. C.</Forenames>
+      <Text>(resigned)</Text>
       <PageNumber>7616</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -740,8 +748,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Thomson</Key>
-      <Forenames>Lieut-</Forenames>
-      <Text>Col. and Hon. Col. B. T. L. (resigned) .. ..</Text>
+      <Title>Lieut-Col. and Hon. Col.</Title>
+      <Forenames>B. T. L.</Forenames>
+      <Text>(resigned) .. ..</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -800,8 +809,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Balfour</Key>
-      <Forenames>Lieut-</Forenames>
-      <Text>Col. and Hon. Col. J. E. H. (retired)</Text>
+      <Title>Lieut-Col. and Hon. Col.</Title>
+      <Forenames>J. E. H.</Forenames>
+      <Text>(retired)</Text>
       <PageNumber>9142</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -988,7 +998,9 @@
       <Key>Every</Key>
       <Title>Sir</Title>
       <Forenames>E. O.</Forenames>
-      <Text>Bart., (2nd Lieut.) ..</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1042,8 +1054,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Grosvenor</Key>
-      <Forenames>Lieut-</Forenames>
-      <Text>Col. and Hon. Col. Lord A. H. (retired)</Text>
+      <Title>Lieut-Col. and Hon. Col. Lord</Title>
+      <Forenames>A. H.</Forenames>
+      <Text>(retired)</Text>
       <PageNumber>7353</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1076,7 +1089,9 @@
       <Key>Hulse</Key>
       <Title>Sir</Title>
       <Forenames>E. H. W.</Forenames>
-      <Text>, Bart. (2nd Lieut.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>8077</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1124,7 +1139,9 @@
     <MainItem>
       <Key>Lacon</Key>
       <Forenames>Capt</Forenames>
-      <Text>Sir E. B F. H., Bart. (resigned)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>7255</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1343,9 +1360,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Simpson</Key>
-      <Title>Maj. and Hon.</Title>
-      <Forenames>Lieut-</Forenames>
-      <Text>Col. C. H. (resigned)</Text>
+      <Title>Maj. and Hon. Lieut-Col.</Title>
+      <Forenames>C. H.</Forenames>
+      <Text>(resigned)</Text>
       <PageNumber>9042</PageNumber>
     </MainItem>
   </ItemGroup>

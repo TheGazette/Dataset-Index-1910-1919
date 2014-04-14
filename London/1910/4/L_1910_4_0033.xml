@@ -382,7 +382,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Luff</Key>
-      <Text>.E. (Quartr. and Hon. Lieut.)</Text>
+      <Forenames>E.</Forenames>
+      <Text>(Quartr. and Hon. Lieut.)</Text>
       <PageNumber>9318</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -574,6 +575,14 @@
       <Forenames>H. F.</Forenames>
       <Text>(Commander)</Text>
       <PageNumber>7148</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Caen</Key>
+      <Forenames>R. G. F.</Forenames>
+      <Text>(Lieut.)</Text>
+      <PageNumber>8689</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1002,7 +1011,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Edwards</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, H. A</Text>
       <PageNumber>9392</PageNumber>
     </MainItem>
@@ -1134,7 +1143,9 @@
       <Key>Williams-Bulkeley</Key>
       <Title>Sir</Title>
       <Forenames>R. H.</Forenames>
-      <Text>Bart. (Commander)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>9039</PageNumber>
     </MainItem>
   </ItemGroup>

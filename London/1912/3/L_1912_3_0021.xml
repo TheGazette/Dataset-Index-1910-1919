@@ -130,8 +130,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hara, H. D. (2nd Lieut.)</Text>
+      <Key>O'Hara</Key>
+      <Forenames>H. D.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>6537</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -171,8 +172,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lawrence</Key>
-      <Forenames>G. St</Forenames>
-      <Text>. P. (2nd Lieut.)</Text>
+      <Forenames>G. St. P</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>6537</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -339,7 +340,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Snee</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, E. J. (cancellation) ...</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
@@ -701,7 +702,9 @@
       <Key>Duckworth-King</Key>
       <Title>Sir</Title>
       <Forenames>G. H. J.</Forenames>
-      <Text>, Bart. (2nd Lieut.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>5921</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -881,6 +884,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Burgh</Key>
+      <Forenames>H. G.</Forenames>
+      <Text>(2nd Lieut.)</Text>
+      <PageNumber>7023</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Hartcupi</Key>
       <Text>J(2nd Lieut.)</Text>
       <PageNumber>6636</PageNumber>
@@ -967,8 +978,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Whatton</Key>
-      <Forenames>S. M.</Forenames>
-      <Text>de H. (2nd Lieut.)</Text>
+      <Forenames>S. M. de H</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1009,8 +1020,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, T. E. S. (2nd Lieut.)</Text>
+      <Key>O'Brien</Key>
+      <Forenames>T. E. S.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>5727</PageNumber>
       <PageNumber>6938</PageNumber>
     </MainItem>
@@ -1124,7 +1136,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rees</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, G. W. (resigned)</Text>
       <PageNumber>5857</PageNumber>
     </MainItem>
@@ -1223,7 +1235,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Batt</Key>
-      <Text>. R. C. (Maj.)</Text>
+      <Forenames>R. C.</Forenames>
+      <Text>(Maj.)</Text>
       <PageNumber>6786</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1320,7 +1333,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Boulton</Key>
-      <Text>. C. P. (Maj.)</Text>
+      <Forenames>C. P.</Forenames>
+      <Text>(Maj.)</Text>
       <PageNumber>5727</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1335,7 +1349,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Brown</Key>
-      <Text>. T. H. (Lieut.)</Text>
+      <Forenames>T. H.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>6539</PageNumber>
     </MainItem>
   </ItemGroup>

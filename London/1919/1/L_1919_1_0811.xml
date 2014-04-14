@@ -172,7 +172,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Tullia</Key>
-      <Text>. Lt. J. K. (trd. to unempld. list)</Text>
+      <Title>Lt.</Title>
+      <Forenames>J. K.</Forenames>
+      <Text>(trd. to unempld. list)</Text>
       <PageNumber>3296</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -475,7 +477,9 @@
       </Key>
       <Title>2nd Lt. (0.)</Title>
       <Forenames>R. W.</Forenames>
-      <Text>, D.F.C. (2nd Lt., Admin.)</Text>
+      <Text>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>3636</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -541,7 +545,7 @@
       <PageNumber>2868</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Temp. Dep. Admr.</Text>
+      <Text>Temp. Dep. Admr</Text>
       <PageNumber>2869</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -608,7 +612,9 @@
       <Key>Twist</Key>
       <Title>Lt. (actg. Capt.)</Title>
       <Forenames>T. K.</Forenames>
-      <Text>, M.C. (trd. to unempld. list)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3152</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1098,7 +1104,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Van</Key>
-      <Text>de Velde, 2nd Lt. H. R. C. (actg. Lt.)</Text>
+      <Forenames>de Velde</Forenames>
+      <Text>, 2nd Lt. H. R. C. (actg. Lt.)</Text>
       <PageNumber>206</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1135,9 +1142,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Eeden</Forenames>
-      <Text>, 2nd Lt. W. C. (Hon. Lt.)</Text>
+      <Key>Van Eeden</Key>
+      <Title>2nd Lt.</Title>
+      <Forenames>W. C.</Forenames>
+      <Text>(Hon. Lt.)</Text>
       <PageNumber>1537</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1152,9 +1160,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Nostrand</Forenames>
-      <Text>, Fit. Cadet F. H. (temp. 2nd Lt., A.)</Text>
+      <Key>Van Nostrand</Key>
+      <Title>Fit. Cadet</Title>
+      <Forenames>F. H.</Forenames>
+      <Text>(temp. 2nd Lt., A.)</Text>
       <PageNumber>2273</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1204,8 +1213,8 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Title>2nd Lt.</Title>
-      <Forenames>C. St</Forenames>
-      <Text>. J. (actg. Lt., Admin.)</Text>
+      <Forenames>C. St. J</Forenames>
+      <Text>. (actg. Lt., Admin.)</Text>
       <PageNumber>4039</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1227,7 +1236,9 @@
       </Key>
       <Title>Lt. (O.)</Title>
       <Forenames>R. C.</Forenames>
-      <Text>,M.C.(Lt.,Admin.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1374</PageNumber>
     </MainItem>
     <SubItem>

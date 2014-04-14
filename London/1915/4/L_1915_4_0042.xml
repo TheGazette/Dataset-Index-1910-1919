@@ -199,8 +199,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bahrbrigge</Key>
-      <Forenames>W. A.</Forenames>
-      <Text>de L. Y. (temp. 2nd Lt.)</Text>
+      <Forenames>W. A. de L</Forenames>
+      <Text>. Y. (temp. 2nd Lt.)</Text>
       <PageNumber>10622</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -340,7 +340,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Baird</Key>
-      <Text>E. (2nd Lt. on probation)</Text>
+      <Forenames>E.</Forenames>
+      <Text>(2nd Lt. on probation)</Text>
       <PageNumber>12296</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -351,7 +352,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>H. B. D.</Forenames>
-      <Text>, D.S.O. (temp. Lt.-Col. whilst commanding a Battalion, Territorial Force)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>12424</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -563,7 +566,7 @@
       <PageNumber>9648</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Capt</Text>
+      <Text>Capt.</Text>
       <PageNumber>12842</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1252,16 +1255,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Bambridge</Key>
-      <Forenames>G. L. St</Forenames>
-      <Text>. C. (Lt.)</Text>
+      <Forenames>G. L. St. C</Forenames>
+      <Text>. (Lt.)</Text>
       <PageNumber>13010</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Bamford</Key>
-      <Forenames>E. St</Forenames>
-      <Text>. J. (temp. Lt.)</Text>
+      <Forenames>E. St. J</Forenames>
+      <Text>. (temp. Lt.)</Text>
       <PageNumber>10364</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1826,14 +1829,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Barder</Key>
-      <Text>S. G. (temp. 2nd Lt.)</Text>
+      <Forenames>S. G.</Forenames>
+      <Text>(temp. 2nd Lt.)</Text>
       <PageNumber>11308</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Bardrick</Key>
-      <Text>H. G. (temp. 2nd Lt,)</Text>
+      <Forenames>H. G.</Forenames>
+      <Text>(temp. 2nd Lt,)</Text>
       <PageNumber>11440</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1841,14 +1846,18 @@
     <MainItem>
       <Key>Bardswell</Key>
       <Forenames>N. D.</Forenames>
-      <Text>, M.D. (temp. Capt.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>9895</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Barette</Key>
-      <Text>(temp.) Capt. (Capt. the Royal Militia of the Island of Jersey) P. R. (relinquishes his temp, commission)</Text>
+      <Title>(temp.) Capt. (Capt. the Royal Militia of the Island of Jersey)</Title>
+      <Forenames>P. R.</Forenames>
+      <Text>(relinquishes his temp, commission)</Text>
       <PageNumber>9649</PageNumber>
     </MainItem>
   </ItemGroup>

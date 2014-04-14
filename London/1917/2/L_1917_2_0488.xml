@@ -186,8 +186,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lee</Key>
-      <Forenames>G. St</Forenames>
-      <Text>. C. (actg. Capt.)</Text>
+      <Forenames>G. St. C</Forenames>
+      <Text>. (actg. Capt.)</Text>
       <PageNumber>6055</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -250,7 +250,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lindop</Key>
-      <Text>A. H. E. (actg. Capt.)</Text>
+      <Forenames>A. H. E.</Forenames>
+      <Text>(actg. Capt.)</Text>
       <PageNumber>6055</PageNumber>
     </MainItem>
     <SubItem>
@@ -388,7 +389,8 @@
   <ItemGroup>
     <MainItem>
       <Key>McLean-Richardson</Key>
-      <Text>P. A. (2nd Lt.)</Text>
+      <Forenames>P. A.</Forenames>
+      <Text>(2nd Lt.)</Text>
       <PageNumber>6064</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -557,8 +559,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Morford</Key>
-      <Forenames>E. St</Forenames>
-      <Text>. C. (2nd Lt.)</Text>
+      <Forenames>E. St. C</Forenames>
+      <Text>. (2nd Lt.)</Text>
       <PageNumber>3514</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -616,8 +618,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Morrison</Key>
-      <Forenames>A. O</Forenames>
-      <Text>'H. (2nd Lt.)</Text>
+      <Forenames>A. O'H</Forenames>
+      <Text>. (2nd Lt.)</Text>
       <PageNumber>3514</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -707,8 +709,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Callaghan, T. P. M. (actg. Capt</Text>
+      <Key>O'Callaghan</Key>
+      <Forenames>T. P. M.</Forenames>
+      <Text>(actg. Capt</Text>
       <PageNumber>6052</PageNumber>
     </MainItem>
     <SubItem>
@@ -718,8 +721,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, R. L. (actg. Capt.)</Text>
+      <Key>O'Connor</Key>
+      <Forenames>R. L.</Forenames>
+      <Text>(actg. Capt.)</Text>
       <PageNumber>6053</PageNumber>
     </MainItem>
     <SubItem>
@@ -754,16 +758,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Oliver</Key>
-      <Title>St.</Title>
-      <Forenames>J. L.</Forenames>
+      <Title>St. J.</Title>
+      <Forenames>L.</Forenames>
       <Text>(2nd Lt.)</Text>
       <PageNumber>6064</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Reilly. D. (actg. Capt.)</Text>
+      <Key>O'Reilly</Key>
+      <Forenames>D.</Forenames>
+      <Text>(actg. Capt.)</Text>
       <PageNumber>6062</PageNumber>
     </MainItem>
     <SubItem>
@@ -807,8 +812,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Toole, 2nd Lt. N. D. G. (corr. of date of admission to Infantry Branch)</Text>
+      <Key>O'Toole</Key>
+      <Title>2nd Lt.</Title>
+      <Forenames>N. D. G.</Forenames>
+      <Text>(corr. of date of admission to Infantry Branch)</Text>
       <PageNumber>6188</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -900,7 +907,7 @@
       <PageNumber>4362</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>. Actg. Gapt</Text>
+      <Text>. Actg. Gapt.</Text>
       <PageNumber>6062</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1020,7 +1027,7 @@
       <PageNumber>4361</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Lt</Text>
+      <Text>Lt.</Text>
       <PageNumber>4362</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1231,7 +1238,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Shortridge</Key>
-      <Text>G. C. (Lt.)</Text>
+      <Forenames>G. C.</Forenames>
+      <Text>(Lt.)</Text>
       <PageNumber>5519</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1254,8 +1262,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Smith</Key>
-      <Forenames>B. St</Forenames>
-      <Text>. J. (Lt.)</Text>
+      <Forenames>B. St. J</Forenames>
+      <Text>. (Lt.)</Text>
       <PageNumber>5519</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1811,7 +1819,9 @@
     <MainItem>
       <Key>Knox</Key>
       <Forenames>R. W.</Forenames>
-      <Text>, D.S.O., M.B., F.R.C.S.E</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4361</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1835,7 +1845,9 @@
     <MainItem>
       <Key>Murray</Key>
       <Forenames>J. G. P.</Forenames>
-      <Text>, M.D., F.R.C.S.E</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>4361</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1859,7 +1871,9 @@
     <MainItem>
       <Key>Hamilton</Key>
       <Forenames>A. F.</Forenames>
-      <Text>, M.B., F.R.C.S</Text>
+      <Text>
+        <Honour>F.R.C.S</Honour>
+      </Text>
       <PageNumber>4361</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1880,8 +1894,11 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, J. S;, M.C., M.B. :</Text>
+      <Key>O'Neill</Key>
+      <Forenames>J. S</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4361</PageNumber>
     </MainItem>
   </ItemGroup>

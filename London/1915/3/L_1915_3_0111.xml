@@ -59,8 +59,8 @@
     <MainItem>
       <Key>Larpent</Key>
       <Title>(temporary) Capt.</Title>
-      <Forenames>John P. G. De H.</Forenames>
-      <Text>(Adjt.)</Text>
+      <Forenames>John P. G. De H</Forenames>
+      <Text>. (Adjt.)</Text>
       <PageNumber>6806</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -246,7 +246,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Miall-Smitfi</Key>
-      <Text>. Ralph A. (temporary Lieut.)</Text>
+      <Forenames>Ralph A.</Forenames>
+      <Text>(temporary Lieut.)</Text>
       <PageNumber>8488</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -340,7 +341,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Nelson</Key>
-      <Text>. George Oecil (temporary 2nd Lieut.)</Text>
+      <Forenames>George Oecil</Forenames>
+      <Text>(temporary 2nd Lieut.)</Text>
       <PageNumber>7654</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -362,15 +364,17 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, Cornelius Bernard (temporary 2nd Lieut.)</Text>
+      <Key>O'Connor</Key>
+      <Forenames>Cornelius Bernard</Forenames>
+      <Text>(temporary 2nd Lieut.)</Text>
       <PageNumber>8704</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hagan, Denis Shaftesbury (tem-' ' '-. porary 2nd Lieut.)</Text>
+      <Key>O'Hagan</Key>
+      <Forenames>Denis Shaftesbury</Forenames>
+      <Text>(tem-' ' '-. porary 2nd Lieut.)</Text>
       <PageNumber>9328</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -733,7 +737,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rossell</Key>
-      <Text>. Edgar Charles (temporary 2nd Lieut.)</Text>
+      <Forenames>Edgar Charles</Forenames>
+      <Text>(temporary 2nd Lieut.)</Text>
       <PageNumber>7160</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -748,7 +753,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Row</Key>
-      <Text>. Corpl. H. W. (temporary 2nd</Text>
+      <Title>Corpl.</Title>
+      <Forenames>H. W.</Forenames>
+      <Text>(temporary 2nd</Text>
       <PageNumber>7333</PageNumber>
     </MainItem>
     <SubItem>
@@ -759,14 +766,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Russell</Key>
-      <Text>. L. C. (temporary Capt.) ... Rutherford, William A. (temporary</Text>
+      <Forenames>L. C.</Forenames>
+      <Text>(temporary Capt.) ... Rutherford, William A. (temporary</Text>
       <PageNumber>7900</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>SalW</Key>
-      <Text>. Horace James (temporary</Text>
+      <Forenames>Horace James</Forenames>
+      <Text>(temporary</Text>
       <PageNumber>9629</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -799,7 +808,9 @@
       <Key>Scott</Key>
       <Title>Maj. Lord</Title>
       <Forenames>Francis G. M. Douglas</Forenames>
-      <Text>, D.S.O. (to command a Battalion, and to be temporary Lieut.-Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>9206</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1031,7 +1042,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Stephen</Key>
-      <Text>. Lieut. C. G. (temporary Capt.)</Text>
+      <Title>Lieut.</Title>
+      <Forenames>C. G.</Forenames>
+      <Text>(temporary Capt.)</Text>
       <PageNumber>9558</PageNumber>
     </MainItem>
   </ItemGroup>

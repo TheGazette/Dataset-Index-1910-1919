@@ -3,7 +3,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Jenour</Key>
-      <Text>.Lt.-Col. (T./Brig.-Gen.) Arthur Stawell, C.M.G., Companion. D.S.O</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>22</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -20,7 +22,9 @@
     <MainItem>
       <Key>Jerred</Key>
       <Forenames>Walter-Tapper</Forenames>
-      <Text>, C.B., Knight Commander, Order of the Bath</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>1958</PageNumber>
     </MainItem>
     <SubItem>
@@ -33,7 +37,9 @@
       <Key>Jessel</Key>
       <Title>Hon. Col. Sir</Title>
       <Forenames>Herbert Mer-</Forenames>
-      <Text>ton, Bt., Companion, St. Michael and St: George Jessop, William, Offsr., Order of British Empire</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>3289</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -103,11 +109,16 @@
     <SubItem>
       <Text>
         <PageNumber>22</PageNumber>
+        <Honour>D.S.O.</Honour>
         <PageNumber>22</PageNumber>
+        <Honour>D.S.O.</Honour>
         <PageNumber>22</PageNumber>
+        <Honour>D.S.O.</Honour>
         <PageNumber>399</PageNumber>
         <PageNumber>22</PageNumber>
+        <Honour>D.S.O.</Honour>
         <PageNumber>2977</PageNumber>
+        <Honour>D.S.O.</Honour>
         <PageNumber>56</PageNumber>
       </Text>
       <PageNumber>399</PageNumber>
@@ -115,6 +126,8 @@
     <SubItem>
       <Text>
         <PageNumber>22</PageNumber>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.P.</Honour>
       </Text>
       <PageNumber>399</PageNumber>
     </SubItem>
@@ -123,14 +136,22 @@
     <MainItem>
       <Key>Johnston</Key>
       <Title>Capt.</Title>
-      <Text>&amp; Bt. Maj. (T./Lt.Col.) Alexander Colin, D.S.O.,</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>17</PageNumber>
     </MainItem>
     <SubItem>
       <Text>
+        <Honour>M.C.</Honour>
         <PageNumber>22</PageNumber>
+        <Honour>D.S.O.</Honour>
         <PageNumber>28</PageNumber>
+        <Honour>M.C.</Honour>
+        <Honour>D.S.O.</Honour>
         <PageNumber>1600</PageNumber>
+        <Honour>D.S.O.</Honour>
       </Text>
       <PageNumber>3287</PageNumber>
     </SubItem>
@@ -146,7 +167,10 @@
     </MainItem>
     <SubItem>
       <Text>
+        <Honour>M.C.</Honour>
         <PageNumber>22</PageNumber>
+        <Honour>M.C.</Honour>
+        <Honour>D.S.O</Honour>
       </Text>
       <PageNumber>3592</PageNumber>
     </SubItem>
@@ -155,11 +179,15 @@
     <MainItem>
       <Key>Johnstone</Key>
       <Title>Capt. (A./Maj.)</Title>
-      <Text>i Granville Henry, Companion, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>1801</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Lt.-Col. Walter Edgeworth, Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>81</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -168,7 +196,9 @@
       <Key>Joll</Key>
       <Title>Maj.</Title>
       <Forenames>Harry Haweis</Forenames>
-      <Text>, M.C., Companion, D.S.O</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>22</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -246,6 +276,7 @@
     <SubItem>
       <Text>
         <PageNumber>380</PageNumber>
+        <Honour>D.S.O.</Honour>
         <PageNumber>663</PageNumber>
         <PageNumber>399</PageNumber>
         <PageNumber>366</PageNumber>
@@ -257,6 +288,8 @@
     <SubItem>
       <Text>
         <PageNumber>1607</PageNumber>
+        <Honour>D.S.O.</Honour>
+        <Honour>D.S.O.</Honour>
       </Text>
       <PageNumber>399</PageNumber>
     </SubItem>
@@ -380,7 +413,12 @@
         <KeyDitto>——</KeyDitto>
       </Key>
       <Forenames>Frank Arthur</Forenames>
-      <Text>, Memiber, Order of the British Empire James, Member,' Order of the British Empire 'Robert, Memlber, Order of the British Empire Lt.-Col. Thomas Bernard, FJR.CS., Companion, D. S.O. Kelman, The Rev. John, D.D., Officer, Order of the British Empire Kemlball-Cook, Basil Alfred, Companion, Order of the Bath ... Kemmis, Maj. Arthur William Marsh, Companion, D.S.O. Kemp, Joseph Horsford,. Comdr., Order of British Empire Kempthorne, Maj. I(T./Lt.-Col.) Gerard Ainslie, Companion, D.S.O Kemsley, John Chambers, Member, Order of British Empire .. Kendall, Lt.-Col. (T./Col.) Ernest Arthur, Companion, St. Michael and St. George ... Kenderdine, Charles Halestaff, Knight Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>D. S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, St. Michael and St. George</Honour>
+      </Text>
       <PageNumber>3289</PageNumber>
     </MainItem>
     <SubItem>

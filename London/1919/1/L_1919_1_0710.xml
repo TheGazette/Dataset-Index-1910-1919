@@ -28,7 +28,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Thurgood</Key>
-      <Text>.VV. J</Text>
+      <Text>VV. J</Text>
       <PageNumber>2623</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -97,7 +97,9 @@
     <MainItem>
       <Key>Trott</Key>
       <Forenames>W. A.</Forenames>
-      <Text>, M.C. (on prob.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2166</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -195,7 +197,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Underhills</Key>
-      <Text>.VV. E</Text>
+      <Text>VV. E</Text>
       <PageNumber>1537</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -208,9 +210,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Houten</Forenames>
-      <Text>, F. (temp.)</Text>
+      <Key>Van Houten</Key>
+      <Forenames>F.</Forenames>
+      <Text>(temp.)</Text>
       <PageNumber>3893</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -440,7 +442,9 @@
     <MainItem>
       <Key>Watt</Key>
       <Forenames>W. R.</Forenames>
-      <Text>, M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>1968</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -518,7 +522,9 @@
     <MainItem>
       <Key>Welsh</Key>
       <Forenames>A. C.</Forenames>
-      <Text>, M.C. (on prob.) (corr. of date of seniority)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2626</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -625,7 +631,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>G. F.</Forenames>
-      <Text>, M.C. (on prob.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>908</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -801,7 +809,9 @@
         <KeyDitto>— ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>W. T.</Forenames>
-      <Text>, M.C. (on prob.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2747</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -888,7 +898,9 @@
     <MainItem>
       <Key>Wood</Key>
       <Forenames>E.</Forenames>
-      <Text>, M.C. (on prob.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3490</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -989,7 +1001,9 @@
     <MainItem>
       <Key>Wrigley</Key>
       <Forenames>H.</Forenames>
-      <Text>, M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>3893</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1127,8 +1141,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. Maur, F. P</Text>
+      <Key>St. Maur</Key>
+      <Forenames>F. P.</Forenames>
       <PageNumber>3641</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1293,7 +1307,7 @@
       <PageNumber>3303</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>.Corr.</Text>
+      <Text>.Corr</Text>
       <PageNumber>2283</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1334,19 +1348,19 @@
       <PageNumber>3303</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Corr.</Text>
+      <Text>Corr</Text>
       <PageNumber>2282</PageNumber>
     </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Arbuthnott</Key>
-      <Forenames>J. St</Forenames>
-      <Text>. C. (on prob.)</Text>
+      <Forenames>J. St. C</Forenames>
+      <Text>. (on prob.)</Text>
       <PageNumber>3303</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Corr.</Text>
+      <Text>Corr</Text>
       <PageNumber>2282</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1373,7 +1387,9 @@
     <MainItem>
       <Key>Arnold</Key>
       <Forenames>L. F. C</Forenames>
-      <Text>, M.C. (on prob.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2438</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1616,7 +1632,7 @@
       <PageNumber>3303</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Corr.</Text>
+      <Text>Corr</Text>
       <PageNumber>727</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1682,7 +1698,7 @@
       <PageNumber>3303</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Corr.</Text>
+      <Text>Corr</Text>
       <PageNumber>916</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1771,7 +1787,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bitton</Key>
-      <Text>. D. (temp.)</Text>
+      <Forenames>D.</Forenames>
+      <Text>(temp.)</Text>
       <PageNumber>3027</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1934,8 +1951,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brett</Key>
-      <Forenames>E. T. St</Forenames>
-      <Text>. M</Text>
+      <Forenames>E. T. St. M</Forenames>
       <PageNumber>3027</PageNumber>
     </MainItem>
   </ItemGroup>

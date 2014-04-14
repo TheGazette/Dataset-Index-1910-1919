@@ -452,7 +452,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Doubble</Key>
-      <Text>Capt. M. S. (resigned)</Text>
+      <Title>Capt.</Title>
+      <Forenames>M. S.</Forenames>
+      <Text>(resigned)</Text>
       <PageNumber>5237</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -921,7 +923,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Smith</Key>
-      <Text>P.C. (Sanitary Officer) .,</Text>
+      <Text>
+        <Honour>P.C.</Honour>
+      </Text>
       <PageNumber>4646</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1621,7 +1625,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Hall</Key>
-      <Text>Lieut. J. (resigned) ... ....</Text>
+      <Title>Lieut.</Title>
+      <Forenames>J.</Forenames>
+      <Text>(resigned) ... ....</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1815,7 +1821,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Marriott</Key>
-      <Text>E. C. (Lieut.)</Text>
+      <Forenames>E. C.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>5491</PageNumber>
     </MainItem>
   </ItemGroup>

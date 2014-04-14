@@ -52,8 +52,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>John, Capt. E. M. (seconded)</Text>
+      <Key>St. John</Key>
+      <Title>Capt.</Title>
+      <Forenames>E. M.</Forenames>
+      <Text>(seconded)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -158,9 +160,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Straubenzee</Forenames>
-      <Text>, C. C. (Maj.)</Text>
+      <Key>Van Straubenzee</Key>
+      <Forenames>C. C.</Forenames>
+      <Text>(Maj.)</Text>
       <PageNumber>495</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -508,7 +510,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Greene</Key>
-      <Text>Capt. A. C. R. (seconded)</Text>
+      <Title>Capt.</Title>
+      <Forenames>A. C. R.</Forenames>
+      <Text>(seconded)</Text>
       <PageNumber>195</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -566,7 +570,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hebbert</Key>
-      <Text>G. K. P. (2nd Lieut.)</Text>
+      <Forenames>G. K. P.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>497</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -627,7 +632,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Jackson</Key>
-      <Text>M. A. (Capt.)</Text>
+      <Forenames>M. A.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>496</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -642,7 +648,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Keyes</Key>
-      <Text>A. J. H. (Capt.)</Text>
+      <Forenames>A. J. H.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>1352</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -826,8 +833,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>John, Lieut.-Col. and Brevet Col. G. F.-W.' (half-pay list)</Text>
+      <Key>St. John</Key>
+      <Title>Lieut.-Col. and Brevet Col.</Title>
+      <Forenames>G. F.</Forenames>
+      <Text>-W.' (half-pay list)</Text>
       <PageNumber>667</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -867,8 +876,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Simonds</Key>
-      <Forenames>J.</Forenames>
-      <Text>de L. (Lieut.)</Text>
+      <Forenames>J. de L</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>961</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1416,7 +1425,9 @@
       <Key>Corbet</Key>
       <Title>Sir</Title>
       <Forenames>R. J.</Forenames>
-      <Text>, Bart. (2nd Lieut.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>498</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1439,9 +1450,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Winton</Forenames>
-      <Text>, W. (2nd Lieut.)</Text>
+      <Key>De Winton</Key>
+      <Forenames>W.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>845</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1569,7 +1580,9 @@
       <Key>Ogilvy</Key>
       <Title>Sir</Title>
       <Forenames>G. N.</Forenames>
-      <Text>, Bart. (2nd Lii jieut.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>498</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1594,8 +1607,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Douglass</Key>
-      <Forenames>R. St</Forenames>
-      <Text>. J. (Lieut.)</Text>
+      <Forenames>R. St. J</Forenames>
+      <Text>. (Lieut.)</Text>
       <PageNumber>1352</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1673,8 +1686,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Livesay</Key>
-      <Forenames>R. O</Forenames>
-      <Text>'H. (Capt.)</Text>
+      <Forenames>R. O'H</Forenames>
+      <Text>. (Capt.)</Text>
       <PageNumber>15</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -442,7 +442,7 @@
       <PageNumber>11146</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Temp. Capt</Text>
+      <Text>Temp. Capt.</Text>
       <PageNumber>12543</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -609,7 +609,7 @@
       <PageNumber>9771</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Temp. Lt</Text>
+      <Text>Temp. Lt.</Text>
       <PageNumber>11297</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -625,7 +625,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Waylen</Key>
-      <Text>G. H. H. (Capt.)</Text>
+      <Forenames>G. H. H.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>19043</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -889,8 +890,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>E. A.</Forenames>
-      <Text>de B. (2nd Lt.)</Text>
+      <Forenames>E. A. de B</Forenames>
+      <Text>. (2nd Lt.)</Text>
       <PageNumber>10640</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1011,7 +1012,9 @@
       <Key>Westmacott</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>F. H.</Forenames>
-      <Text>, F.R.C.S. (Territorial Decora tion)</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>12335</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1020,7 +1023,9 @@
       <Key>Westmorland</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>P. T.</Forenames>
-      <Text>, D.S.O. (temp. Lt.-Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>11058</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1327,14 +1332,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Wheler</Key>
-      <Text>2nd Lt. Sir T. W. (temp. Lt.)</Text>
+      <Title>2nd Lt. Sir</Title>
+      <Forenames>T. W.</Forenames>
+      <Text>(temp. Lt.)</Text>
       <PageNumber>10252</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Wheloton</Key>
-      <Text>E. G. (2nd Lt.)</Text>
+      <Forenames>E. G.</Forenames>
+      <Text>(2nd Lt.)</Text>
       <PageNumber>10923</PageNumber>
     </MainItem>
   </ItemGroup>

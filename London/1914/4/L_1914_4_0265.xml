@@ -48,8 +48,25 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>La Mare</Forenames>
+      <Key>de Heriez-Smith</Key>
+      <Title>Maj.</Title>
+      <Forenames>George R.</Forenames>
+      <Text>(seconded) de Lisle, Everard W. S. M. Phillipps (2nd Lieut.)</Text>
+      <PageNumber>9244</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Free</Key>
+      <Forenames>Cecil G.</Forenames>
+      <Text>(Maj.)</Text>
+      <PageNumber>10561</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De La</Key>
+      <Forenames>Mare</Forenames>
       <Text>, S. H. (2nd Lieut.)</Text>
       <PageNumber>8485</PageNumber>
     </MainItem>
@@ -83,7 +100,9 @@
       <Key>Dering</Key>
       <Title>Maj. Sir</Title>
       <Forenames>Henry E.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>9520</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -547,8 +566,10 @@
     <MainItem>
       <Key>Essex</Key>
       <Title>Col. (Hon. Maj. in the Army)</Title>
-      <Forenames>George Devereux</Forenames>
-      <Text>de Vere, A.D.C., the Earl of (Hon. Col.)</Text>
+      <Forenames>George Devereux de Vere</Forenames>
+      <Text>
+        <Honour>A.D.C.</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -728,7 +749,9 @@
       <Key>Feilden</Key>
       <Title>Maj. (Hon. Maj. in the Army) Sir</Title>
       <Forenames>William</Forenames>
-      <Text>, Bt. (temporary Maj.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>9004</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1013,7 +1036,9 @@
       <Key>Fowke</Key>
       <Title>Sir</Title>
       <Forenames>Frederick F. Conant</Forenames>
-      <Text>, Bart, (temporary Capt.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>8737</PageNumber>
     </MainItem>
   </ItemGroup>

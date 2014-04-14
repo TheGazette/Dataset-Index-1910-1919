@@ -32,6 +32,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Wolff</Key>
+      <Title>2nd Lieut.</Title>
+      <Forenames>C. E.</Forenames>
+      <Text>(temporary Lieut.)</Text>
+      <PageNumber>8611</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Deane</Key>
       <Forenames>Colin Hermann</Forenames>
       <Text>(temporary Lieut.)</Text>
@@ -800,7 +809,9 @@
       <Key>Samut</Key>
       <Title>Lieut.-Col.</Title>
       <Forenames>Achilles</Forenames>
-      <Text>, C.M.G. . (temporary Ordnance Officer, 1st Class, and temporary Col.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>7418</PageNumber>
     </MainItem>
   </ItemGroup>

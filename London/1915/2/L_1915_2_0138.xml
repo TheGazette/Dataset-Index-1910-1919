@@ -84,8 +84,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Gilkison</Key>
-      <Forenames>Lieut</Forenames>
-      <Text>, (temporary Capt.) James D. (temporary Capt., cancelled)</Text>
+      <Title>Lieut, (temporary Capt.)</Title>
+      <Forenames>James D.</Forenames>
+      <Text>(temporary Capt., cancelled)</Text>
       <PageNumber>3684</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -212,7 +213,9 @@
     <MainItem>
       <Key>Neilson</Key>
       <Forenames>Supernumerary</Forenames>
-      <Text>Capt. &lt;&gt;W; G.,' D.S.O. (is restored to the establishment)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4998</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -233,7 +236,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Price</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>: Vdlliers Montague . (2nd Lieut.)</Text>
       <PageNumber>4248</PageNumber>
     </MainItem>
@@ -365,9 +368,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Stacpoole</Forenames>
-      <Text>, Edward H. M. {Capt.,)</Text>
+      <Key>De Stacpoole</Key>
+      <Forenames>Edward H. M.</Forenames>
+      <Text>{Capt.,)</Text>
       <PageNumber>6954</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -382,8 +385,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Ffrench</Key>
-      <Forenames>The Hon-</Forenames>
-      <Text>. John M. V. (temporary . Gapt.)</Text>
+      <Title>The Hon-.</Title>
+      <Forenames>John M. V.</Forenames>
+      <Text>(temporary . Gapt.)</Text>
       <PageNumber>4625</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -541,7 +545,9 @@
       <Key>White</Key>
       <Title>Lieut.-Col.</Title>
       <Forenames>Samuel R. L.</Forenames>
-      <Text>, D.S.O. (Half-pay List)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5315</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -581,8 +587,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Arcedeckne-Butler</Key>
-      <Title>St.</Title>
-      <Forenames>John Des-</Forenames>
+      <Forenames>St. John Des-</Forenames>
       <Text>mond (2nd Lieut.)</Text>
       <PageNumber>3727</PageNumber>
     </MainItem>
@@ -790,7 +795,9 @@
       <Key>Kenmare</Key>
       <Title>(temporary) Maj.</Title>
       <Forenames>Valen-</Forenames>
-      <Text>tine C, Earl of, C.V.O.. (relinquishes his commission)</Text>
+      <Text>
+        <Honour>C.V.O.</Honour>
+      </Text>
       <PageNumber>3586</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -920,8 +927,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Leary, 2rid Lieut: W. F. M. (temporary Lieut.)</Text>
+      <Key>O'Leary</Key>
+      <Text>2rid Lieut: W. F. M. (temporary Lieut.)</Text>
       <PageNumber>5500</PageNumber>
     </MainItem>
     <SubItem>

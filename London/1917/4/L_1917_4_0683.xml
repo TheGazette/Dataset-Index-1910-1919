@@ -53,8 +53,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Baldwin</Key>
-      <Forenames>P. N. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>P. N. St. J</Forenames>
       <PageNumber>12152</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -146,7 +145,7 @@
   <ItemGroup>
     <MainItem>
       <Key>
-        <KeyDitto>— ___ ___</KeyDitto>
+        <KeyDitto>—</KeyDitto>
       </Key>
       <Text>iL. IH. L</Text>
       <PageNumber>12152</PageNumber>
@@ -283,7 +282,7 @@
       <PageNumber>12152</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>___ ___ ___ L. H</Text>
+      <Text>L. H</Text>
       <PageNumber>10762</PageNumber>
     </SubItem>
     <SubItem>
@@ -335,7 +334,7 @@
       <PageNumber>10606</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>___ ___ E. G</Text>
+      <Text>E. G</Text>
       <PageNumber>13246</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -369,8 +368,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>Auhyn, E. K. H., D.S.C</Text>
+      <Key>St. Auhyn</Key>
+      <Forenames>E. K. H.</Forenames>
+      <Text>, D.S.C</Text>
       <PageNumber>12152</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -402,15 +402,10 @@
       <Text>E. H</Text>
       <PageNumber>10606</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___</KeyDitto>
-      </Key>
-      <Forenames>H. S. M.</Forenames>
+    <SubItem>
+      <Text>H. S. M</Text>
       <PageNumber>10606</PageNumber>
-    </MainItem>
+    </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
@@ -518,15 +513,10 @@
       <Forenames>A. L. W</Forenames>
       <PageNumber>12152</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___</KeyDitto>
-      </Key>
-      <Forenames>G. H. C</Forenames>
+    <SubItem>
+      <Text>G. H. C</Text>
       <PageNumber>12152</PageNumber>
-    </MainItem>
+    </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
@@ -776,15 +766,10 @@
       <Forenames>L. W .</Forenames>
       <PageNumber>11473</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ .</KeyDitto>
-      </Key>
-      <Forenames>W. F .</Forenames>
+    <SubItem>
+      <Text>. W. F</Text>
       <PageNumber>13498</PageNumber>
-    </MainItem>
+    </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
@@ -922,7 +907,9 @@
     <MainItem>
       <Key>Egford</Key>
       <Forenames>G. H.</Forenames>
-      <Text>, D.S.C</Text>
+      <Text>
+        <Honour>D.S.C</Honour>
+      </Text>
       <PageNumber>10904</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1345,6 +1332,5 @@
       <PageNumber>126</PageNumber>
     </MainItem>
   </ItemGroup>
-  <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
 </Index>
 

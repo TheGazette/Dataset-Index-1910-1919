@@ -178,7 +178,7 @@
       <PageNumber>1965</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Capt. *.</Text>
+      <Text>Capt. *</Text>
       <PageNumber>2965</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -360,7 +360,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Southern</Key>
-      <Text>. Lt. N. (actg. Capt.)</Text>
+      <Title>Lt.</Title>
+      <Forenames>N.</Forenames>
+      <Text>(actg. Capt.)</Text>
       <PageNumber>2357</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -444,7 +446,9 @@
       <Key>Sowerby</Key>
       <Title>Capt.</Title>
       <Forenames>G.</Forenames>
-      <Text>, M.C. (seed.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>569</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -529,7 +533,10 @@
       <Key>Sparks</Key>
       <Title>2nd Lt. (acting Maj.)</Title>
       <Forenames>H. C</Forenames>
-      <Text>, D.S.O., M.C. (seed.) '</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2027</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -810,8 +817,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Title>2nd Lt. (temp. Capt.) St.</Title>
-      <Forenames>J. V. H.</Forenames>
+      <Title>2nd Lt. (temp. Capt.) St. J.</Title>
+      <Forenames>V. H.</Forenames>
       <Text>(Lt., temp. Capt.)</Text>
       <PageNumber>1245</PageNumber>
     </MainItem>
@@ -1032,7 +1039,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Spruce</Key>
-      <Text>. 2nd Lt. S. (temp. Lt.)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>S.</Forenames>
+      <Text>(temp. Lt.)</Text>
       <PageNumber>2762</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1350,7 +1359,9 @@
       <Key>Stanway</Key>
       <Title>Lt. (temp. Capt.)</Title>
       <Forenames>W. H.</Forenames>
-      <Text>, D.S.O. (Lt.-Col., temp.) Sub. Not</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>1635</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1530,8 +1541,8 @@
     <MainItem>
       <Key>Stedall</Key>
       <Title>2nd Lt.</Title>
-      <Forenames>G. St</Forenames>
-      <Text>. G. (temp. Lt.)</Text>
+      <Forenames>G. St. G</Forenames>
+      <Text>. (temp. Lt.)</Text>
       <PageNumber>742</PageNumber>
     </MainItem>
     <SubItem>

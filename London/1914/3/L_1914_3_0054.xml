@@ -208,7 +208,9 @@
     <MainItem>
       <Key>Maclean</Key>
       <Forenames>Henry D. N.</Forenames>
-      <Text>, D.S.O. (temporary Lieut.-Col., 6th Bat.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6976</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -320,7 +322,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Macdonald</Key>
-      <Text>. John Mellis (2nd Lieut.)</Text>
+      <Forenames>John Mellis</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>6694</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -351,8 +354,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, Lieut. Richard N. (seconded)</Text>
+      <Key>O'Connor</Key>
+      <Title>Lieut.</Title>
+      <Forenames>Richard N.</Forenames>
+      <Text>(seconded)</Text>
       <PageNumber>7595</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -485,8 +490,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mordaurat-Smith</Key>
-      <Forenames>Lionel St</Forenames>
-      <Text>. George (2nd Lieut.)</Text>
+      <Forenames>Lionel St. George</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>7778</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -621,14 +626,18 @@
       <PageNumber>5760</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>To command 8th Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>7664</PageNumber>
     </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Horsford</Key>
-      <Text>. Lieut. Harry T. (seconded)</Text>
+      <Title>Lieut.</Title>
+      <Forenames>Harry T.</Forenames>
+      <Text>(seconded)</Text>
       <PageNumber>6399</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -643,7 +652,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Jordan</Key>
-      <Text>. Richard P.. D.S.O. (temporary Lieut.-Col. 7th Bat.)</Text>
+      <Forenames>Richard P.</Forenames>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6976</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -707,7 +719,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Watkins</Key>
-      <Text>. William John (Qrmr. and Hon. Lieut.)</Text>
+      <Forenames>William John</Forenames>
+      <Text>(Qrmr. and Hon. Lieut.)</Text>
       <PageNumber>6676</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -794,7 +807,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Dugan</Key>
-      <Text>. Capt. Winston J. (seconded)</Text>
+      <Title>Capt.</Title>
+      <Forenames>Winston J.</Forenames>
+      <Text>(seconded)</Text>
       <PageNumber>7094</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -929,7 +944,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Street</Key>
-      <Text>. Supy. Capt. Norman K. (restored to the establishment)</Text>
+      <Title>Supy. Capt.</Title>
+      <Forenames>Norman K.</Forenames>
+      <Text>(restored to the establishment)</Text>
       <PageNumber>7094</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1171,7 +1188,9 @@
       <Key>Smith</Key>
       <Title>Lieut.-Col.</Title>
       <Forenames>Henry L.</Forenames>
-      <Text>, D.S.O. (to command 8th Bat.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7664</PageNumber>
     </MainItem>
   </ItemGroup>

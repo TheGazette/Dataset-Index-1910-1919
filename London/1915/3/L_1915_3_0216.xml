@@ -20,7 +20,9 @@
     <MainItem>
       <Key>Scatterty</Key>
       <Forenames>William</Forenames>
-      <Text>, M.D. (Capt., whose services will be available</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>6816</PageNumber>
     </MainItem>
     <SubItem>
@@ -111,7 +113,9 @@
     <MainItem>
       <Key>Silbermann</Key>
       <Forenames>Alexander</Forenames>
-      <Text>(Lieut.) ... Simpson, Capt. John W., M.D</Text>
+      <Text>
+        <Honour>M.D</Honour>
+      </Text>
       <PageNumber>8983</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -121,7 +125,10 @@
       <Key>Skirving</Key>
       <Title>Capt.</Title>
       <Forenames>Archibald A. S.</Forenames>
-      <Text>, C.M.G., M.B., F.R.C.S</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>F.R.C.S</Honour>
+      </Text>
       <PageNumber>8983</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -288,7 +295,9 @@
     <MainItem>
       <Key>Soutter</Key>
       <Forenames>George C</Forenames>
-      <Text>, M.D. (Capt.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>8738</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -324,14 +333,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Stanley</Key>
-      <Text>. John B. (Capt.)</Text>
+      <Forenames>John B.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>8838</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Stark</Key>
-      <Text>. Robert A., M.B. (Capt.)</Text>
+      <Forenames>Robert A.</Forenames>
+      <Text>, M.B. (Capt.)</Text>
       <PageNumber>9405</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -346,7 +357,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stenhouse</Key>
-      <Text>.James A., M.B. (Capt.)</Text>
+      <Forenames>James A.</Forenames>
+      <Text>, M.B. (Capt.)</Text>
       <PageNumber>9543</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -411,7 +423,9 @@
     <MainItem>
       <Key>Steward</Key>
       <Forenames>Francis J.</Forenames>
-      <Text>, F.R.C.S. (Maj.)</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>6944</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -419,7 +433,9 @@
     <MainItem>
       <Key>Stewart</Key>
       <Forenames>Charles B.</Forenames>
-      <Text>, M.D. (Capt.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>9310</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -430,7 +446,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>James P.</Forenames>
-      <Text>, M.D., F.R.C.P. (seconded)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>7425</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -449,7 +467,9 @@
         <KeyDitto>___ ___ -—</KeyDitto>
       </Key>
       <Forenames>William C</Forenames>
-      <Text>, M.B., F.R.C.S. , (Capt.)</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>9542</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -457,8 +477,8 @@
     <MainItem>
       <Key>Stockwell</Key>
       <Title>Capt.</Title>
-      <Forenames>George E. St</Forenames>
-      <Text>. C, M.B. (temporary Capt.)</Text>
+      <Forenames>George E. St. C</Forenames>
+      <Text>, M.B. (temporary Capt.)</Text>
       <PageNumber>9450</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -466,7 +486,9 @@
     <MainItem>
       <Key>Stokes</Key>
       <Forenames>John</Forenames>
-      <Text>, M.D. (Lieut.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>7052</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -482,7 +504,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stork</Key>
-      <Text>. Ernest S., M.B. (Capt.)</Text>
+      <Forenames>Ernest S.</Forenames>
+      <Text>, M.B. (Capt.)</Text>
       <PageNumber>8530</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -522,7 +545,9 @@
     <MainItem>
       <Key>Stratford</Key>
       <Forenames>Martin B. H.</Forenames>
-      <Text>, F.R.C.S. (Edin.) (Capt.)</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>9449</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -539,15 +564,17 @@
       <Key>Sturrock</Key>
       <Title>Capt.</Title>
       <Forenames>William D.</Forenames>
-      <Text>, M.D. (temporary Maj.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>8997</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Sullivan</Key>
-      <Forenames>O</Forenames>
-      <Text>'Connell, M.B. (Lieut.)</Text>
+      <Forenames>O'Connell</Forenames>
+      <Text>, M.B. (Lieut.)</Text>
       <PageNumber>9542</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -564,7 +591,9 @@
       <Key>Sutherland</Key>
       <Title>Capt.</Title>
       <Forenames>Donald S</Forenames>
-      <Text>:, M.D. (temporary Maj.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>8254</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -596,7 +625,9 @@
     <MainItem>
       <Key>Tatlow</Key>
       <Forenames>Robert E. T.</Forenames>
-      <Text>, M.D. (Capt.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>9450</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -624,7 +655,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Julian</Forenames>
-      <Text>, F.R.C.S. (Capt.)</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>9542</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -635,7 +668,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>Richard S.</Forenames>
-      <Text>, M.B., F.R.C.S. (temporary Maj.)</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>8369</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -644,7 +679,9 @@
       <Key>Telling</Key>
       <Title>Maj.</Title>
       <Forenames>Walter H. M.</Forenames>
-      <Text>, M.D. (temporary Lieut.-Col.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>7319</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -663,7 +700,10 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>Thomas M.</Forenames>
-      <Text>, M.D., F.R.C.S. (temporary Maj.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>7320</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -701,7 +741,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>Walter</Forenames>
-      <Text>, F.R.C.S. (temporary Lieut.-Col.)</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>7319</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -777,7 +819,9 @@
     <MainItem>
       <Key>Tubby</Key>
       <Title>Maj.</Title>
-      <Text>. Alfred H., M.B., F.R.C.S. (seconded)</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>7425</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -831,7 +875,9 @@
       <Key>Turton</Key>
       <Title>Maj.</Title>
       <Forenames>Edward</Forenames>
-      <Text>, M.D. (temporary Lieut.-Col.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>8997</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -880,7 +926,9 @@
       <Key>Veale</Key>
       <Title>Capt.</Title>
       <Forenames>Rawdon A.</Forenames>
-      <Text>, M.D.</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>___</PageNumber>
     </MainItem>
     <SubItem>
@@ -901,7 +949,9 @@
       <Key>Vining</Key>
       <Title>Capt.</Title>
       <Forenames>Charles W.</Forenames>
-      <Text>, M.D. (temporary Maj.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>7319</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -909,7 +959,9 @@
     <MainItem>
       <Key>Walker</Key>
       <Forenames>Arthur S.</Forenames>
-      <Text>, M.D. (Capt.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>9214</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -920,7 +972,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>Cyril H.</Forenames>
-      <Text>, M.B., F.R.C.S. (seconded for service with War Hospital)</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>7320</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -967,7 +1021,11 @@
       <Key>Wallace</Key>
       <Title>Maj.</Title>
       <Forenames>David</Forenames>
-      <Text>, C.M.G., M.D., F.R.C.S. (seconded)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>M.D.</Honour>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>8983</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1011,7 +1069,9 @@
       <Key>Waterhouse</Key>
       <Title>Capt.</Title>
       <Forenames>Rupert</Forenames>
-      <Text>, M.D. (temporary Maj.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>7862</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1048,7 +1108,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>George W.</Forenames>
-      <Text>, M.D. (to be transferred to the permanent personnel)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>7319</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1104,7 +1166,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>Samuel G.</Forenames>
-      <Text>, M.D. (temporary Maj.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>7086</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1113,7 +1177,9 @@
       <Key>West-Watson</Key>
       <Title>Lieut.</Title>
       <Forenames>William N. W.</Forenames>
-      <Text>, M.D. (Capt.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>6816</PageNumber>
     </MainItem>
     <SubItem>
@@ -1141,7 +1207,9 @@
     <MainItem>
       <Key>Wheeler</Key>
       <Forenames>Humphrey J.</Forenames>
-      <Text>. M.D. , (Capt.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>9214</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1179,7 +1247,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>George F.</Forenames>
-      <Text>, M.D. (Capt.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>9236</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1276,7 +1346,9 @@
         <KeyDitto>___ ___ -</KeyDitto>
       </Key>
       <Forenames>John Thomas</Forenames>
-      <Text>, M.D. (Lieut.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>8337</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1304,7 +1376,9 @@
     <MainItem>
       <Key>Willox</Key>
       <Forenames>Stephen</Forenames>
-      <Text>, M.D. (Lieut.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>8997</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1312,7 +1386,9 @@
     <MainItem>
       <Key>Wills</Key>
       <Forenames>Bertram S.</Forenames>
-      <Text>, F.R.C.S. (Capt)</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>9450</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1331,7 +1407,9 @@
       <Key>Wilson</Key>
       <Title>Maj.</Title>
       <Forenames>Alexander</Forenames>
-      <Text>, F.R.C.S. (temporarily placed on permanent personnel)</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>6934</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1351,7 +1429,9 @@
         <KeyDitto>___</KeyDitto>
       </Key>
       <Forenames>James E.</Forenames>
-      <Text>, M.D. (Lieut.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>8369</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1360,8 +1440,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>John St</Forenames>
-      <Text>. George (Lieut.)</Text>
+      <Forenames>John St. George</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>9542</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1399,7 +1479,9 @@
     <MainItem>
       <Key>Winder</Key>
       <Forenames>Arthur Benjamin</Forenames>
-      <Text>, M.D. (Lieut.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>8713</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1477,7 +1559,9 @@
     <MainItem>
       <Key>Wyard</Key>
       <Forenames>Stanley</Forenames>
-      <Text>, M.D. (Capt.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>9335</PageNumber>
     </MainItem>
   </ItemGroup>

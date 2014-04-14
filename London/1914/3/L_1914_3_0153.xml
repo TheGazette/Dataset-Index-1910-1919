@@ -862,15 +862,17 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, Charles (temporary Assistant Engineer)</Text>
+      <Key>O'Brien</Key>
+      <Forenames>Charles</Forenames>
+      <Text>(temporary Assistant Engineer)</Text>
       <PageNumber>6396</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Sullivan, Francis H. Bernard (temporary Assistant Paymaster)</Text>
+      <Key>O'Sullivan</Key>
+      <Forenames>Francis H. Bernard</Forenames>
+      <Text>(temporary Assistant Paymaster)</Text>
       <PageNumber>ibid,</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -965,7 +967,10 @@
       <Key>Paget</Key>
       <Title>Sir</Title>
       <Forenames>Alfred Wyndham</Forenames>
-      <Text>, K.C.B., K.C.M.G.(temporary Commander)</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+        <Honour>K.C.M.G.</Honour>
+      </Text>
       <PageNumber>7396</PageNumber>
     </MainItem>
   </ItemGroup>

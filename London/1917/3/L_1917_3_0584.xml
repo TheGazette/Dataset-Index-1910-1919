@@ -78,7 +78,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dean</Key>
-      <Text>F. (temp. 2nd Lt.)</Text>
+      <Forenames>F.</Forenames>
+      <Text>(temp. 2nd Lt.)</Text>
       <PageNumber>6547</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -361,7 +362,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Jolley</Key>
-      <Text>N. K. (Capt.)</Text>
+      <Forenames>N. K.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>9878</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -377,7 +379,9 @@
     <MainItem>
       <Key>Lambert</Key>
       <Forenames>H.R.</Forenames>
-      <Text>, D.S.C. (Capt.)</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>9149</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -738,7 +742,8 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>Clair-Morford, Capt. A. C, M-.C. (seed.) '..:</Text>
+      <Forenames>Clair-Morford</Forenames>
+      <Text>, Capt. A. C, M-.C. (seed.) '..:</Text>
       <PageNumber>9371</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -941,6 +946,13 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>van Pra</Key>
+      <Text>»gh,.H. B. (temp. Capt.)</Text>
+      <PageNumber>6707</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Vincent</Key>
       <Forenames>W.</Forenames>
       <Text>,E. (temp. 2nd Lt.)</Text>
@@ -950,7 +962,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Walton</Key>
-      <Text>G. V, (proby. 2nd Lt.)</Text>
+      <Forenames>G. V</Forenames>
+      <Text>, (proby. 2nd Lt.)</Text>
       <PageNumber>9372</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -996,7 +1009,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Week</Key>
-      <Text>?, temp.. Lt. B. C. V., M.C. (actg. Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7914</PageNumber>
     </MainItem>
     <SubItem>
@@ -1061,7 +1076,9 @@
       <Key>Willcox</Key>
       <Title>temp. Lt.</Title>
       <Forenames>H. V. S.</Forenames>
-      <Text>, M.C. (actg. Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7916</PageNumber>
     </MainItem>
     <SubItem>
@@ -1131,7 +1148,9 @@
       <Key>Bourne</Key>
       <Title>Maj.</Title>
       <Forenames>A. G. B</Forenames>
-      <Text>, M.V.O. (seed.)</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>7915</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1166,7 +1185,9 @@
       <Key>Paris</Key>
       <Title>Maj.-Gen. Sir</Title>
       <Forenames>A.</Forenames>
-      <Text>, K.C.B. (placed on retd. list on account of wounds' reed, in action)</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+      </Text>
       <PageNumber>7485</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1209,7 +1230,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Waee</Key>
-      <Text>; Capt: and Bt. Maj. S. C. (Maj. (supy.) and rem. seed.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>9150</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1268,7 +1291,9 @@
     <MainItem>
       <Key>Lambert</Key>
       <Title>Maj.</Title>
-      <Text>arid' Bt. Lt.-Col.) J. H. (Hon. Lt.-Col.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>9757</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1444,7 +1469,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Peirce</Key>
-      <Text>C. K. (temp. Lt.)</Text>
+      <Forenames>C. K.</Forenames>
+      <Text>(temp. Lt.)</Text>
       <PageNumber>6708</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -3,7 +3,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Paul</Key>
-      <Text>. Sir George Morison, to be a Member of the Royal Commission on the Civil Service</Text>
+      <Title>Sir</Title>
+      <Forenames>George Morison</Forenames>
+      <Text>, to be a Member of the Royal Commission on the Civil Service</Text>
       <PageNumber>5106</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -22,7 +24,9 @@
       </Key>
       <Title>Lieut.-Col.</Title>
       <Forenames>Tom Harry Finch</Forenames>
-      <Text>, Companion, St. Michael and St. George</Text>
+      <Text>
+        <Honour>Companion, St. Michael and St. George</Honour>
+      </Text>
       <PageNumber>6113</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -31,7 +35,9 @@
       <Key>Ieirse</Key>
       <Title>Flight Lieut.</Title>
       <Forenames>Richard E. Charles</Forenames>
-      <Text>, Companion, Distinguished Service Order</Text>
+      <Text>
+        <Honour>Companion, Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>3550</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -39,7 +45,9 @@
     <MainItem>
       <Key>Peterson</Key>
       <Forenames>William</Forenames>
-      <Text>, LL.D., C.M.G., Knight Commander, St. 'Michael and St. George</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>5328</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -58,7 +66,9 @@
       </Key>
       <Title>Col. (temporary BrigadierGen.)</Title>
       <Forenames>Ricardo Dartnell</Forenames>
-      <Text>, Companion of the Bath</Text>
+      <Text>
+        <Honour>Companion of the Bath</Honour>
+      </Text>
       <PageNumber>6111</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -67,7 +77,9 @@
       <Key>Phillips</Key>
       <Title>Capt.</Title>
       <Forenames>G. F.</Forenames>
-      <Text>, Companion, .Distinguished Service Order</Text>
+      <Text>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>6118</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -77,8 +89,10 @@
         <KeyDitto>___ ——.</KeyDitto>
       </Key>
       <Title>Col.</Title>
-      <Forenames>Herbert</Forenames>
-      <Text>de Touffreville, Companion, St. Michael and St. George</Text>
+      <Forenames>Herbert de Touffreville</Forenames>
+      <Text>
+        <Honour>Companion, St. Michael and St. George</Honour>
+      </Text>
       <PageNumber>6113</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -104,7 +118,9 @@
       <Key>Poe</Key>
       <Title>Lieut.-Col.</Title>
       <Forenames>J.</Forenames>
-      <Text>, M.B., Companion, Distinguished Service Order</Text>
+      <Text>
+        <Honour>Companion, Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>6126</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -113,7 +129,9 @@
       <Key>Pollard</Key>
       <Title>Maj.</Title>
       <Forenames>James HawkinsWhitshed</Forenames>
-      <Text>, Companion, St. Michael and St. George</Text>
+      <Text>
+        <Honour>Companion, St. Michael and St. George</Honour>
+      </Text>
       <PageNumber>6114</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -122,7 +140,9 @@
       <Key>Porteous</Key>
       <Title>Capt.</Title>
       <Forenames>Dick Macdonaid</Forenames>
-      <Text>, Companion, Distinguished Service Order</Text>
+      <Text>
+        <Honour>Companion, Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>3694</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -131,7 +151,9 @@
       <Key>Potts</Key>
       <Title>Lieut.-Col.</Title>
       <Forenames>Frederick</Forenames>
-      <Text>, Companion, St. Michael and St. George</Text>
+      <Text>
+        <Honour>Companion, St. Michael and St. George</Honour>
+      </Text>
       <PageNumber>6113</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -140,7 +162,9 @@
       <Key>Powell</Key>
       <Title>Col.</Title>
       <Forenames>Sidney Henry</Forenames>
-      <Text>, Companion of the Bath</Text>
+      <Text>
+        <Honour>Companion of the Bath</Honour>
+      </Text>
       <PageNumber>6112</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -149,7 +173,9 @@
       <Key>Pragnell</Key>
       <Title>Maj.</Title>
       <Forenames>G. S. T.</Forenames>
-      <Text>, Companion, Distinguished Service Order</Text>
+      <Text>
+        <Honour>Companion, Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>6129</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -158,7 +184,10 @@
       <Key>Price</Key>
       <Title>Lieut.-Col. (temporary Col.)</Title>
       <Forenames>William</Forenames>
-      <Text>, C.M.G., Companion of the Bath</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>Companion of the Bath</Honour>
+      </Text>
       <PageNumber>6112</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -167,7 +196,10 @@
       <Key>Prichard</Key>
       <Title>Lieut.-Col.</Title>
       <Forenames>Charles Stewart</Forenames>
-      <Text>. D.S.O., Companion of the Bath</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion of the Bath</Honour>
+      </Text>
       <PageNumber>6112</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -183,7 +215,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Pun</Key>
-      <Text>. Rifleman Jagtea, 2nd Class, Indian Order of Merit</Text>
+      <Title>Rifleman</Title>
+      <Forenames>Jagtea</Forenames>
+      <Text>, 2nd Class, Indian Order of Merit</Text>
       <PageNumber>4265</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -218,21 +252,27 @@
   <ItemGroup>
     <MainItem>
       <Key>Ramsay</Key>
-      <Text>. Lient.-Col. John, C.S.I., CLE., Knight' Commander, Indian Empire</Text>
+      <Title>Lient.</Title>
+      <Text>-Col. John, C.S.I., CLE., Knight' Commander, Indian Empire</Text>
       <PageNumber>5329</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Ramsden</Key>
-      <Text>. Maj. J. V., Companion, Distinguished Service Order</Text>
+      <Title>Maj.</Title>
+      <Forenames>J. V.</Forenames>
+      <Text>
+        <Honour>Companion, Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>6119</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Rana</Key>
-      <Text>. Havildar Bhakat Sing, 2nd Class. Indian Order of Merit</Text>
+      <Forenames>Havildar Bhakat Sing</Forenames>
+      <Text>, 2nd Class. Indian Order of Merit</Text>
       <PageNumber>6138</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -241,15 +281,20 @@
       <Key>Rankine</Key>
       <Title>Maj.</Title>
       <Forenames>R.</Forenames>
-      <Text>. Companion, Distinguished Service Order</Text>
+      <Text>
+        <Honour>Companion, Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>5331</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Ravenhill</Key>
-      <Forenames>Lieut-</Forenames>
-      <Text>Col. Frederick Thornhill, Companion, St. Michael and St. George</Text>
+      <Title>Lieut-Col.</Title>
+      <Forenames>Frederick Thornhill</Forenames>
+      <Text>
+        <Honour>Companion, St. Michael and St. George</Honour>
+      </Text>
       <PageNumber>6113</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -264,21 +309,33 @@
   <ItemGroup>
     <MainItem>
       <Key>Reading</Key>
-      <Text>. The Rt. Hon. Sir Rufus Daniel. Baron, K.C.V.O., Knight, Grand Cross of the Bath ' _ :</Text>
+      <Title>The Rt. Hon. Sir</Title>
+      <Forenames>Rufus Daniel</Forenames>
+      <Text>
+        <Honour>K.C.V.O.</Honour>
+      </Text>
       <PageNumber>5327</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Rcdd-e</Key>
-      <Text>. Maj. .A. J.. Companion, Distinguished Service Order</Text>
+      <Title>Maj.</Title>
+      <Text>
+        <Honour>Companion, Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>6122</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Reed</Key>
-      <Text>. Lieut.-Col. Hamilton Lyster, V.C., Companion, St. Michael and St. George</Text>
+      <Title>Lieut.-Col.</Title>
+      <Forenames>Hamilton Lyster</Forenames>
+      <Text>
+        <Honour>V.C.</Honour>
+        <Honour>Companion, St. Michael and St. George</Honour>
+      </Text>
       <PageNumber>6114</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -287,7 +344,9 @@
       <Key>Reeve</Key>
       <Title>Lieut.-Col.</Title>
       <Forenames>William Tanker-</Forenames>
-      <Text>ville Monypenny, Companion, St. Michael and St. George</Text>
+      <Text>
+        <Honour>Companion, St. Michael and St. George</Honour>
+      </Text>
       <PageNumber>6113</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -305,14 +364,18 @@
       <Key>Renny</Key>
       <Title>Capt.</Title>
       <Forenames>L. F.</Forenames>
-      <Text>, Companion, Distinguished Service Order</Text>
+      <Text>
+        <Honour>Companion, Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>6118</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Rhodes-Moorhouse</Key>
-      <Text>2nd, Lieut. William Barnard, Victoria Cross</Text>
+      <Text>
+        <Honour>Victoria Cross</Honour>
+      </Text>
       <PageNumber>4990</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -342,7 +405,11 @@
       </Key>
       <Title>(temporary) Capt.</Title>
       <Forenames>O.</Forenames>
-      <Text>, M.D., F.R.C.S., L.R.C.P., Companion, Distinguished Service Order</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+        <Honour>F.R.C.S.</Honour>
+        <Honour>Companion, Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>6126</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -351,7 +418,9 @@
       <Key>Riddell</Key>
       <Title>Maj. (temporary Lieut.Col.)</Title>
       <Forenames>E. V. D.</Forenames>
-      <Text>, Companion, Distinguished Service Order</Text>
+      <Text>
+        <Honour>Companion, Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>6119</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -360,7 +429,9 @@
       <Key>Ridings</Key>
       <Title>Capt.</Title>
       <Forenames>C</Forenames>
-      <Text>, Companion, Distinguished Service Order</Text>
+      <Text>
+        <Honour>Companion, Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>5331</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -369,14 +440,20 @@
       <Key>Ridout</Key>
       <Title>Brigadier-Gen.</Title>
       <Forenames>Dudley Howard</Forenames>
-      <Text>, R.E., Companion, St. Michael and St. George</Text>
+      <Text>
+        <Honour>Companion, St. Michael and St. George</Honour>
+      </Text>
       <PageNumber>5328</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Ripley</Key>
-      <Text>. Corpl. John, Victoria Cross</Text>
+      <Title>Corpl.</Title>
+      <Forenames>John</Forenames>
+      <Text>
+        <Honour>Victoria Cross</Honour>
+      </Text>
       <PageNumber>6270</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -393,7 +470,9 @@
       <Key>Rivers</Key>
       <Title>Pte.</Title>
       <Forenames>Jacob</Forenames>
-      <Text>, Victoria Cross</Text>
+      <Text>
+        <Honour>Victoria Cross</Honour>
+      </Text>
       <PageNumber>4143</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -419,7 +498,9 @@
     <MainItem>
       <Key>Robertson</Key>
       <Forenames>John Mackinnon</Forenames>
-      <Text>. M.P., a Privy Councillor</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>5863</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -429,7 +510,9 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Malcolm Arnold</Forenames>
-      <Text>. Companion, St. Michael and St. George</Text>
+      <Text>
+        <Honour>Companion, St. Michael and St. George</Honour>
+      </Text>
       <PageNumber>5329</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -437,14 +520,21 @@
     <MainItem>
       <Key>Robinson</Key>
       <Forenames>William Arthur</Forenames>
-      <Text>, Companion of the Bath</Text>
+      <Text>
+        <Honour>Companion of the Bath</Honour>
+      </Text>
       <PageNumber>5327</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Rodd</Key>
-      <Text>. H. E. the Rt. Hon. Sir James Rennell, G.C.V.O., K.C.M.G., C.B.. Knight Grand Cross, St. Michael and St. George</Text>
+      <Forenames>H. E.</Forenames>
+      <Text>
+        <Honour>G.C.V.O.</Honour>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>5328</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -462,14 +552,18 @@
       <Key>Romilly</Key>
       <Title>Capt.</Title>
       <Forenames>Francis Henry</Forenames>
-      <Text>, Companion, Distinguished Service Order</Text>
+      <Text>
+        <Honour>Companion, Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>4508</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Ronaldson</Key>
-      <Text>. Lieut.-Col. Robert William Hawthorn, Companion, of the Bath</Text>
+      <Title>Lieut.-Col.</Title>
+      <Forenames>Robert William Hawthorn</Forenames>
+      <Text>, Companion, of the Bath</Text>
       <PageNumber>6112</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -478,7 +572,9 @@
       <Key>Roupell</Key>
       <Title>Lieut.</Title>
       <Forenames>George R. Patrick</Forenames>
-      <Text>, Victoria Cross</Text>
+      <Text>
+        <Honour>Victoria Cross</Honour>
+      </Text>
       <PageNumber>6115</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -487,7 +583,9 @@
       <Key>Rundle</Key>
       <Title>Brevet Col.</Title>
       <Forenames>George Richard Tyrell</Forenames>
-      <Text>, Companion of the Bath</Text>
+      <Text>
+        <Honour>Companion of the Bath</Honour>
+      </Text>
       <PageNumber>6112</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -496,7 +594,9 @@
       <Key>Ryder</Key>
       <Title>Lieut.-Col.</Title>
       <Forenames>Charles H. Dudley</Forenames>
-      <Text>. D.S.O., Companion, Indian Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5330</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -505,7 +605,9 @@
       <Key>Samuel</Key>
       <Title>The Rt. Hon.</Title>
       <Forenames>Herbert Louis</Forenames>
-      <Text>, M.P., to be PostmasterGeneral</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>5101</PageNumber>
       <PageNumber>5385</PageNumber>
     </MainItem>
@@ -523,7 +625,9 @@
       <Key>Sankey</Key>
       <Title>Maj.</Title>
       <Forenames>C. E. P.</Forenames>
-      <Text>, Companion, Distinguished Service Order</Text>
+      <Text>
+        <Honour>Companion, Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>6120</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -532,7 +636,10 @@
       <Key>Sargent</Key>
       <Title>Col. (temporary BrigadierGen.)</Title>
       <Forenames>Harry Neptune</Forenames>
-      <Text>. D.S.O., Companion of the Bath</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion of the Bath</Honour>
+      </Text>
       <PageNumber>6111</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -541,7 +648,9 @@
       <Key>Saunders</Key>
       <Title>Maj.</Title>
       <Forenames>Cecil Howie</Forenames>
-      <Text>, Companion, St. Michael and St. George</Text>
+      <Text>
+        <Honour>Companion, St. Michael and St. George</Honour>
+      </Text>
       <PageNumber>6114</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -549,14 +658,20 @@
     <MainItem>
       <Key>Saunders-Knox-</Key>
       <Forenames>Gore</Forenames>
-      <Text>, (temporary) Capt. William A. Cecil. Companion, Distinguished Service Order</Text>
+      <Text>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>3694</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Savaee-Armstrong</Key>
-      <Text>. Capt. F. S. N., Companion, Distinguished Service Order</Text>
+      <Title>Capt.</Title>
+      <Forenames>F. S. N.</Forenames>
+      <Text>
+        <Honour>Companion, Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>6123</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -565,14 +680,20 @@
       <Key>Scarlett</Key>
       <Title>Maj.</Title>
       <Forenames>J. A.</Forenames>
-      <Text>, Companion, Distinguished Service Order</Text>
+      <Text>
+        <Honour>Companion, Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>6117</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Scott</Key>
-      <Text>. Capt. C. B., Companion, Distinguished Service Order</Text>
+      <Title>Capt.</Title>
+      <Forenames>C. B.</Forenames>
+      <Text>
+        <Honour>Companion, Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>6123</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -588,7 +709,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Scott-Mon</Key>
-      <Text>;:rieff, Maj.-Gen. George Kenneth. C.B., C.I.E., Knight Commander of the Bath</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>5326</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -596,7 +719,9 @@
     <MainItem>
       <Key>Scrimger</Key>
       <Title>Ca.</Title>
-      <Text>pt. Francis A. Caron, Victoria Cross</Text>
+      <Text>
+        <Honour>Victoria Cross</Honour>
+      </Text>
       <PageNumber>6115</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -605,7 +730,9 @@
       <Key>Selborne</Key>
       <Title>The Rt. Hon.</Title>
       <Forenames>William Waldegrave</Forenames>
-      <Text>, Earl of. K.G., G.C.M G., to be President of the Board of Agriculture and</Text>
+      <Text>
+        <Honour>K.G.</Honour>
+      </Text>
       <PageNumber>4</PageNumber>
     </MainItem>
     <SubItem>
@@ -627,14 +754,18 @@
     <MainItem>
       <Key>Seton</Key>
       <Forenames>Malcolm Cotter Cariston</Forenames>
-      <Text>,. Companion of the Bath</Text>
+      <Text>
+        <Honour>Companion of the Bath</Honour>
+      </Text>
       <PageNumber>5327</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Sewell</Key>
-      <Text>'Maj. H. S., Companion, Distinguished Service Order</Text>
+      <Text>
+        <Honour>Companion, Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>6118</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -643,7 +774,9 @@
       <Key>Seymour</Key>
       <Title>Col.</Title>
       <Forenames>Edward Hamilton</Forenames>
-      <Text>, Companion of the Bath</Text>
+      <Text>
+        <Honour>Companion of the Bath</Honour>
+      </Text>
       <PageNumber>5326</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -659,7 +792,9 @@
     <MainItem>
       <Key>Sharpe</Key>
       <Title>Acting Cor.</Title>
-      <Text>pl. Charles, Victoria Cross .... ... ..;</Text>
+      <Text>
+        <Honour>Victoria Cross</Honour>
+      </Text>
       <PageNumber>6270</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -677,7 +812,9 @@
       <Key>Sheringham</Key>
       <Title>Capt.</Title>
       <Forenames>A. T.</Forenames>
-      <Text>, Companion, Distinguished Service Order</Text>
+      <Text>
+        <Honour>Companion, Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>6128</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -686,7 +823,9 @@
       <Key>Shipley</Key>
       <Title>Lieut.-Col.</Title>
       <Forenames>Reginald Burge</Forenames>
-      <Text>, Companion, St. Michael and St. George</Text>
+      <Text>
+        <Honour>Companion, St. Michael and St. George</Honour>
+      </Text>
       <PageNumber>6113</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -694,7 +833,9 @@
     <MainItem>
       <Key>Shoolbred</Key>
       <Title>Lieut.</Title>
-      <Text>-Col Rupert, Companion, St. Michael and St. George</Text>
+      <Text>
+        <Honour>Companion, St. Michael and St. George</Honour>
+      </Text>
       <PageNumber>6113</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -702,7 +843,9 @@
     <MainItem>
       <Key>Shcrtland</Key>
       <Forenames>Vice-</Forenames>
-      <Text>Admiral Edward George, Companion of the Bath</Text>
+      <Text>
+        <Honour>Companion of the Bath</Honour>
+      </Text>
       <PageNumber>5325</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -720,7 +863,10 @@
       <Key>Simon</Key>
       <Title>The Rt. Hon. Sir</Title>
       <Forenames>John Allsebrook</Forenames>
-      <Text>, K.C.V.O., K.C., M.P., to be one of H.M. Principal Secretaries of State</Text>
+      <Text>
+        <Honour>K.C.V.O.</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>5086</PageNumber>
       <PageNumber>5100</PageNumber>
     </MainItem>
@@ -927,7 +1073,10 @@
       <Key>Sladen</Key>
       <Title>Lieut.-Col.</Title>
       <Forenames>David Ramsay</Forenames>
-      <Text>, D.S.O., Companion, St. Michael and St. George</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, St. Michael and St. George</Honour>
+      </Text>
       <PageNumber>6114</PageNumber>
     </MainItem>
   </ItemGroup>

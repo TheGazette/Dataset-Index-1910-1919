@@ -47,7 +47,9 @@
     <MainItem>
       <Key>Froude</Key>
       <Forenames>A. A.</Forenames>
-      <Text>, C.M.G. (temp. actg. Perryman, G. S. (temp. Lt.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>716</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -79,8 +81,11 @@
     <MainItem>
       <Key>Guinness</Key>
       <Title>Sir</Title>
-      <Forenames>A. A. St</Forenames>
-      <Text>. L., Bt. Sawyer, H. A., M.C. (temp. Lt.-Cdr.)</Text>
+      <Forenames>A. A. St. L</Forenames>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1074</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -88,7 +93,9 @@
     <MainItem>
       <Key>Heanev</Key>
       <Forenames>F. J. S.</Forenames>
-      <Text>, M.D. (Surg. Lt.date of senioritv)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>1960</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -107,7 +114,9 @@
     <MainItem>
       <Key>Jones</Key>
       <Forenames>J. C</Forenames>
-      <Text>;, D.S.C. (temp. actg. '. Taylor, W. G. (temp. Lt.)</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>3755</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -115,8 +124,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Verry</Key>
-      <Forenames>H. L.</Forenames>
-      <Text>de L. (temp. Lt.)</Text>
+      <Forenames>H. L. de L</Forenames>
+      <Text>. (temp. Lt.)</Text>
       <PageNumber>3755</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -156,7 +165,9 @@
     <MainItem>
       <Key>Whittaker</Key>
       <Forenames>G. W.</Forenames>
-      <Text>, D.S.O. (temp</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>1265</PageNumber>
     </MainItem>
     <SubItem>
@@ -201,7 +212,10 @@
     <MainItem>
       <Key>Willan</Key>
       <Title>Surg. Lt.</Title>
-      <Text>-Cdr. R. J., M.V.O., M.B., F.R.C.S., M.S H</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>98</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -262,7 +276,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Barter</Key>
-      <Text>. [Mass S. (Assit. Principal)</Text>
+      <Text>[Mass S. (Assit. Principal)</Text>
       <PageNumber>2167</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -291,7 +305,9 @@
     <MainItem>
       <Key>Butcher</Key>
       <Forenames>Mass M. A.</Forenames>
-      <Text>, M.B.E. (Asst. Principal)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3148</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -344,7 +360,9 @@
     <MainItem>
       <Key>Danneltit</Key>
       <Forenames>Mfcs E. M</Forenames>
-      <Text>M.B.E. (Dep. Principal)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3148</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -360,7 +378,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Falconer</Key>
-      <Text>. (Miss IS. A. (Asst. Principal)</Text>
+      <Text>(Miss IS. A. (Asst. Principal)</Text>
       <PageNumber>1370</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -401,7 +419,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Gill</Key>
-      <Text>. Miss D. J. B. (Asst. Principal, confd.)</Text>
+      <Title>Miss</Title>
+      <Forenames>D. J. B.</Forenames>
+      <Text>(Asst. Principal, confd.)</Text>
       <PageNumber>3148</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -436,7 +456,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Goshawk</Key>
-      <Text>. Miss I. M. '(Dep. Principal)</Text>
+      <Title>Miss</Title>
+      <Forenames>I. M.</Forenames>
+      <Text>'(Dep. Principal)</Text>
       <PageNumber>1370</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -460,7 +482,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Gregory</Key>
-      <Text>. Miss V. E. (Asst. Principal, Non-admin., confd.)</Text>
+      <Title>Miss</Title>
+      <Forenames>V. E.</Forenames>
+      <Text>(Asst. Principal, Non-admin., confd.)</Text>
       <PageNumber>2157</PageNumber>
     </MainItem>
     <SubItem>

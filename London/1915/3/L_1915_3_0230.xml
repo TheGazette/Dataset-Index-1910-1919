@@ -328,8 +328,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Sullivan, Terence James (2nd Lieut.)</Text>
+      <Key>O'Sullivan</Key>
+      <Forenames>Terence James</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>8146</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1159,7 +1160,10 @@
       <Key>Sandbach</Key>
       <Title>Maj.-Gen.</Title>
       <Forenames>Arthur E.</Forenames>
-      <Text>, C.B., D.S.O. (Hon. Col.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7064</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1220,7 +1224,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Scott</Key>
-      <Text>. George Vickers (2nd Lieut.)</Text>
+      <Forenames>George Vickers</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>8384</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1282,7 +1287,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Shaw</Key>
-      <Text>. Cecil Graham (2nd Lieut.)</Text>
+      <Forenames>Cecil Graham</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>6552</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1299,14 +1305,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Shepherd</Key>
-      <Text>. Capt. Algernon M. (temporary Maj.)</Text>
+      <Title>Capt.</Title>
+      <Forenames>Algernon M.</Forenames>
+      <Text>(temporary Maj.)</Text>
       <PageNumber>9307</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Shields</Key>
-      <Text>. Ramsay (2nd Lieut.) :</Text>
+      <Forenames>Ramsay</Forenames>
+      <Text>(2nd Lieut.) :</Text>
       <PageNumber>8007</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1333,7 +1342,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Short</Key>
-      <Text>. Capt. Oswald M. (temporary Maj.) ... ... ,</Text>
+      <Title>Capt.</Title>
+      <Forenames>Oswald M.</Forenames>
+      <Text>(temporary Maj.) ... ... ,</Text>
       <PageNumber>7910</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1390,7 +1401,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sirett</Key>
-      <Text>. Albert W. (2nd Lieut.)</Text>
+      <Forenames>Albert W.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>7184</PageNumber>
     </MainItem>
     <SubItem>
@@ -1401,7 +1413,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Slack</Key>
-      <Text>. 2nd Lieut. Deane H. (temporary Capt.)</Text>
+      <Title>2nd Lieut.</Title>
+      <Forenames>Deane H.</Forenames>
+      <Text>(temporary Capt.)</Text>
       <PageNumber>6564</PageNumber>
     </MainItem>
   </ItemGroup>

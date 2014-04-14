@@ -77,7 +77,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hanbury</Key>
-      <Forenames>Edgar</Forenames>
+      <Title>Edgar .</Title>
       <PageNumber>9733</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -399,8 +399,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hemery</Key>
-      <Forenames>Robert</Forenames>
-      <Text>.,</Text>
+      <Title>Robert .</Title>
+      <Text>,</Text>
       <PageNumber>9608</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -414,7 +414,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Henderson</Key>
-      <Forenames>Frances</Forenames>
+      <Title>Frances.</Title>
       <PageNumber>8234</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -509,7 +509,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Thomas</Forenames>
+      <Title>Thomas.</Title>
       <PageNumber>10689</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -537,16 +537,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Holland</Key>
-      <Title>Mary.</Title>
-      <Forenames>Ann</Forenames>
+      <Title>Mary. Ann.</Title>
       <PageNumber>9051</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Holliday</Key>
-      <Forenames>Read</Forenames>
-      <Text>... ._</Text>
+      <Title>Read .</Title>
+      <Text>.. ._</Text>
       <PageNumber>8524</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -560,7 +559,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Holmes</Key>
-      <Text>Henry Clarence</Text>
+      <Forenames>Henry Clarence</Forenames>
       <PageNumber>9157</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -702,7 +701,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Howes</Key>
-      <Forenames>James</Forenames>
+      <Title>James .</Title>
       <PageNumber>8672</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -723,7 +722,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hudson</Key>
-      <Forenames>Ann</Forenames>
+      <Title>Ann.</Title>
       <PageNumber>8931</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -732,7 +731,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Sidney</Forenames>
+      <Title>Sidney .</Title>
       <PageNumber>9733</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -813,7 +812,10 @@
     <MainItem>
       <Key>Humphreys</Key>
       <Forenames>Harry Hunt</Forenames>
-      <Text>, Lt.-Col. Gerald Ponsonby Sneyd, C.M.G., D.S.O</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>10455</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -854,7 +856,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hutchison</Key>
-      <Text>Jane</Text>
+      <Forenames>Jane</Forenames>
       <PageNumber>10210</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -868,7 +870,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Illien</Key>
-      <Forenames>Samuel</Forenames>
+      <Title>Samuel.</Title>
       <PageNumber>9303</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -952,7 +954,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Jacobs</Key>
-      <Forenames>Jeannette</Forenames>
+      <Title>Jeannette .</Title>
       <PageNumber>9050</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1054,8 +1056,11 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Thomas Pelham, D.S.O..,,</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Thomas Pelham</Forenames>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>9605</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1078,8 +1083,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Henry Murray Hope</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Henry Murray Hope</Forenames>
       <PageNumber>9607</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1168,8 +1173,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kay</Key>
-      <Forenames>Herbert</Forenames>
-      <Text>.!</Text>
+      <Title>Herbert.</Title>
+      <Text>!</Text>
       <PageNumber>10454</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1239,7 +1244,7 @@
   <ItemGroup>
     <MainItem>
       <Key>King</Key>
-      <Forenames>Robert</Forenames>
+      <Title>Robert.</Title>
       <PageNumber>8523</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1308,14 +1313,14 @@
       <Key>
         <KeyDitto>___ —— ___ ___</KeyDitto>
       </Key>
-      <Forenames>Maria</Forenames>
+      <Title>Maria .</Title>
       <PageNumber>10054</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Kyte</Key>
-      <Forenames>Harry</Forenames>
+      <Title>Harry.</Title>
       <PageNumber>10696</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1329,7 +1334,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ladd</Key>
-      <Forenames>Anne</Forenames>
+      <Title>Anne .</Title>
       <PageNumber>11488</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1343,23 +1348,23 @@
   <ItemGroup>
     <MainItem>
       <Key>Lancaster</Key>
-      <Forenames>John</Forenames>
+      <Title>John .</Title>
       <PageNumber>9050</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Lander</Key>
-      <Forenames>John</Forenames>
-      <Text>... ... —</Text>
+      <Title>John.</Title>
+      <Text>.. ... —</Text>
       <PageNumber>7821</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>LanningjMary</Key>
-      <Forenames>Ann</Forenames>
-      <Text>...-' ... N^.. Larkin, Thomas Henry -</Text>
+      <Title>Ann.</Title>
+      <Text>..-' ... N^.. Larkin, Thomas Henry -</Text>
       <PageNumber>10808</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1507,7 +1512,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Litkie</Key>
-      <Text>Valerian Arnold</Text>
+      <Forenames>Valerian Arnold</Forenames>
       <PageNumber>9729</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1532,7 +1537,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Canon William John Knox</Forenames>
+      <Title>Canon</Title>
+      <Forenames>William John Knox</Forenames>
       <PageNumber>8675</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1553,8 +1559,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Locke</Key>
-      <Forenames>John</Forenames>
-      <Text>.„</Text>
+      <Title>John .</Title>
+      <Text>„</Text>
       <PageNumber>10694</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1568,8 +1574,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lockwood</Key>
-      <Forenames>Job</Forenames>
-      <Text>... ._</Text>
+      <Title>Job .</Title>
+      <Text>.. ._</Text>
       <PageNumber>7818</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1586,7 +1592,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Loin</Key>
-      <Text>(or Kamsden), Sarah</Text>
+      <Title>(or Kamsden)</Title>
+      <Text>, Sarah</Text>
       <PageNumber>11215</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1626,7 +1633,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lorillard</Key>
-      <Forenames>Gertrude</Forenames>
+      <Title>Gertrude .</Title>
       <PageNumber>8382</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1655,7 +1662,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lowe</Key>
-      <Forenames>Eccles</Forenames>
+      <Title>Eccles .</Title>
       <PageNumber>10204</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1679,7 +1686,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lumb</Key>
-      <Forenames>Jane</Forenames>
+      <Title>Jane .</Title>
       <PageNumber>10694</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1694,7 +1701,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lynch</Key>
-      <Forenames>Mary</Forenames>
+      <Title>Mary.</Title>
       <PageNumber>10691</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1729,14 +1736,14 @@
   <ItemGroup>
     <MainItem>
       <Key>McDouall</Key>
-      <Forenames>Priscilla</Forenames>
+      <Title>Priscilla.</Title>
       <PageNumber>9301</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Maeey</Key>
-      <Forenames>Ann</Forenames>
+      <Title>Ann .</Title>
       <PageNumber>9735</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1810,7 +1817,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Manning</Key>
-      <Forenames>Martha</Forenames>
+      <Title>Martha .</Title>
       <PageNumber>8104</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1912,7 +1919,10 @@
     <MainItem>
       <Key>Maud</Key>
       <Forenames>Edward Maude</Forenames>
-      <Text>, Lt.-Gen. Sir Frederick Stanley, K.C.B., C.M.G., D.S.O</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>9503</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1962,7 +1972,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Middieton</Key>
-      <Forenames>Linneus</Forenames>
+      <Title>Linneus.</Title>
       <PageNumber>9607</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1978,7 +1988,9 @@
       <Key>Milbank</Key>
       <Title>Sir</Title>
       <Forenames>Powlett Charles John</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>8230</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1992,7 +2004,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Millen</Key>
-      <Forenames>Emma</Forenames>
+      <Title>Emma .</Title>
       <PageNumber>10807</PageNumber>
     </MainItem>
   </ItemGroup>

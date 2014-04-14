@@ -95,7 +95,9 @@
     <MainItem>
       <Key>Waterlow</Key>
       <Title>(Hon. Capt. in the Army)</Title>
-      <Text>, James F., D.S.O. (Lieut.-Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8771</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -513,8 +515,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>William O</Forenames>
-      <Text>'B. G. (Lieut.)</Text>
+      <Forenames>William O'B</Forenames>
+      <Text>. G. (Lieut.)</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -588,8 +590,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Loder</Key>
-      <Forenames>John</Forenames>
-      <Text>de Vere (2nd Lieut.)</Text>
+      <Forenames>John de Vere</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>8619</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -715,8 +717,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. George, Clifford F. Loftus (2nd Lieut.)</Text>
+      <Key>St. George</Key>
+      <Forenames>Clifford F. Loftus</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>8405</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -843,6 +846,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Wolff</Key>
+      <Forenames>Charles Esmond</Forenames>
+      <Text>(2nd Lieut.)</Text>
+      <PageNumber>9028</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Done</Key>
       <Forenames>William E. Pears</Forenames>
       <Text>(2nd Lieut.) „</Text>
@@ -891,7 +902,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Holmes</Key>
-      <Text>. Albert Arundel (temporary Capt.)</Text>
+      <Forenames>Albert Arundel</Forenames>
+      <Text>(temporary Capt.)</Text>
       <PageNumber>___ ___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1031,7 +1043,9 @@
     <MainItem>
       <Key>Waugh</Key>
       <Forenames>Peter M.</Forenames>
-      <Text>, M.D. (SurgeonCapt.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>10456</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -110,7 +110,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mclntyre</Key>
-      <Text>A. C. (2nd Lieut.)</Text>
+      <Forenames>A. C.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>4972</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -533,6 +534,14 @@
   <SubSectionTitle>5th Battalion</SubSectionTitle>
   <ItemGroup>
     <MainItem>
+      <Key>de Cologan</Key>
+      <Forenames>A. T. B.</Forenames>
+      <Text>(2nd Lieut.)</Text>
+      <PageNumber>5060</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Frere</Key>
       <Title>Lieut.</Title>
       <Forenames>G. R.</Forenames>
@@ -552,16 +561,17 @@
   <SubSectionTitle>Bth Battalion</SubSectionTitle>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Cane</Forenames>
-      <Text>, Lieut.-Col. . L. C. (resigned)</Text>
+      <Key>Du Cane</Key>
+      <Title>Lieut.-Col.</Title>
+      <Text>. L. C. (resigned)</Text>
       <PageNumber>5661</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Eyers</Key>
-      <Text>E. W. H. (Maj.) ..,</Text>
+      <Forenames>E. W. H.</Forenames>
+      <Text>(Maj.) ..,</Text>
       <PageNumber>6564</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -885,7 +895,9 @@
       <Key>Alexander</Key>
       <Title>Capt. Sir</Title>
       <Forenames>L. C. W.</Forenames>
-      <Text>, Bart, (to command Signal Co.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>6240</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1166,8 +1178,8 @@
     <MainItem>
       <Key>Graham</Key>
       <Title>Maj.</Title>
-      <Forenames>J. St</Forenames>
-      <Text>. J. (resigned)</Text>
+      <Forenames>J. St. J</Forenames>
+      <Text>. (resigned)</Text>
       <PageNumber>5140</PageNumber>
     </MainItem>
   </ItemGroup>

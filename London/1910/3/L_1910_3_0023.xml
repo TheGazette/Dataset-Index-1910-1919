@@ -348,7 +348,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rannie</Key>
-      <Text>. R. (Maj.)</Text>
+      <Forenames>R.</Forenames>
+      <Text>(Maj.)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -533,8 +534,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. John Mildmay, Maj. C. B. (resigned)</Text>
+      <Key>St. John</Key>
+      <Forenames>Mildmay</Forenames>
+      <Text>, Maj. C. B. (resigned)</Text>
       <PageNumber>4655</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -838,8 +840,10 @@
     <MainItem>
       <Key>Evans</Key>
       <Title>Sir</Title>
-      <Forenames>M.</Forenames>
-      <Text>de G., Bart. (Capt.)</Text>
+      <Forenames>M. de G</Forenames>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>6607</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -849,8 +853,10 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Title>Capt. Sir</Title>
-      <Forenames>M.</Forenames>
-      <Text>de G., Bart, (resigned)</Text>
+      <Forenames>M. de G</Forenames>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1263,8 +1269,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Pigott</Key>
-      <Title>St.</Title>
-      <Forenames>J. R.</Forenames>
+      <Title>St. J.</Title>
+      <Forenames>R.</Forenames>
       <Text>(2nd Lieut.)</Text>
       <PageNumber>4861</PageNumber>
     </MainItem>

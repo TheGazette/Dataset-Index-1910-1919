@@ -401,7 +401,9 @@
     <MainItem>
       <Key>Bushe</Key>
       <Forenames>C. W.</Forenames>
-      <Text>, M.D., B.A</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>12929</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -505,8 +507,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Heathcote</Key>
-      <Forenames>R. St</Forenames>
-      <Text>. A., M!B. (temp.)</Text>
+      <Forenames>R. St. A</Forenames>
+      <Text>., M!B. (temp.)</Text>
       <PageNumber>10295</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -624,7 +626,11 @@
     <MainItem>
       <Key>Orr</Key>
       <Forenames>J. B.</Forenames>
-      <Text>, M.D.: D.S.O., M.C. (temp.) :</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>11701</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -695,7 +701,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Shepherd</Key>
-      <Text>C. H. A. (temp.)</Text>
+      <Forenames>C. H. A.</Forenames>
+      <Text>(temp.)</Text>
       <PageNumber>10905</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -746,24 +753,19 @@
       <Text>, M.B. (temp.)</Text>
       <PageNumber>11046</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>P.</Forenames>
-      <Text>(temp.)</Text>
+    <SubItem>
+      <Text>P. (temp.)</Text>
       <PageNumber>12357</PageNumber>
-    </MainItem>
+    </SubItem>
   </ItemGroup>
   <SectionTitle>Chaplain of the Fleet</SectionTitle>
   <SubSubSectionTitle>Retired List</SubSubSectionTitle>
   <ItemGroup>
     <MainItem>
       <Key>Wood</Key>
-      <Forenames>The Ven</Forenames>
-      <Text>. Archdeacon H. S., D.D</Text>
+      <Title>The Ven.</Title>
+      <Forenames>Archdeacon H. S.</Forenames>
+      <Text>, D.D</Text>
       <PageNumber>12812</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -802,7 +804,9 @@
     <MainItem>
       <Key>Clark</Key>
       <Forenames>J</Forenames>
-      <Text>: R., C.B., M.A</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>13499</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -830,16 +834,10 @@
       <Text>(temp. Capt.)</Text>
       <PageNumber>10763</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>E. L.</Forenames>
-      <Text>(temp. Capt.)</Text>
+    <SubItem>
+      <Text>E. L. (temp. Capt.)</Text>
       <PageNumber>10763</PageNumber>
-    </MainItem>
+    </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
@@ -1185,7 +1183,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Feely</Key>
-      <Text>Lt. C. A. (retd. on acc. of med. unfitness for further service)</Text>
+      <Title>Lt.</Title>
+      <Forenames>C. A.</Forenames>
+      <Text>(retd. on acc. of med. unfitness for further service)</Text>
       <PageNumber>13246</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1240,7 +1240,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gibbins</Key>
-      <Text>G. (temp. Lt.)</Text>
+      <Forenames>G.</Forenames>
+      <Text>(temp. Lt.)</Text>
       <PageNumber>11595</PageNumber>
     </MainItem>
     <SubItem>
@@ -1251,11 +1252,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Girdlestone</Key>
-      <Forenames>G. O</Forenames>
-      <Text>'D. (temp. Lt.)</Text>
+      <Forenames>G. O'D</Forenames>
+      <Text>. (temp. Lt.)</Text>
       <PageNumber>10295</PageNumber>
     </MainItem>
-    <KeyDitto>___ ___ ___ ___</KeyDitto>
     <SubItem>
       <Text>
         <PageNumber>12356</PageNumber>
@@ -1267,7 +1267,9 @@
     <MainItem>
       <Key>Godfrey</Key>
       <Forenames>E. A.</Forenames>
-      <Text>, M.C. (temp. Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>12812</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1433,7 +1435,7 @@
   <ItemGroup>
     <MainItem>
       <Key>
-        <KeyDitto>— ___ ___ ___ ___ ___ ___</KeyDitto>
+        <KeyDitto>—</KeyDitto>
       </Key>
       <Text>1,. O. (temp. . Lt.)</Text>
       <PageNumber>10295</PageNumber>
@@ -1482,7 +1484,7 @@
   <ItemGroup>
     <MainItem>
       <Key>
-        <KeyDitto>___ —. ___ ___</KeyDitto>
+        <KeyDitto>—.</KeyDitto>
       </Key>
       <Forenames>J. G. S.</Forenames>
       <Text>(Lt.) ... ... U1&amp;</Text>
@@ -1492,19 +1494,9 @@
       <Text>Temp, lit</Text>
       <PageNumber>12356</PageNumber>
     </SubItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___ .</KeyDitto>
-      </Key>
-      <Forenames>M. J. S.</Forenames>
-      <Text>!(IA.) ..:</Text>
-      <PageNumber>11154</PageNumber>
-    </MainItem>
     <SubItem>
-      <Text>Temp. Lt. ... ,</Text>
-      <PageNumber>12356</PageNumber>
+      <Text>. M. J. S. !(IA.) ..:</Text>
+      <PageNumber>11154</PageNumber>
     </SubItem>
   </ItemGroup>
   <ItemGroup>

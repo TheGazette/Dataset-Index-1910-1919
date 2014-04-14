@@ -79,8 +79,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wetherall</Key>
-      <Forenames>Harry E.</Forenames>
-      <Text>de R. (Capt.)</Text>
+      <Forenames>Harry E. de R</Forenames>
+      <Text>. (Capt.)</Text>
       <PageNumber>5952</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -189,7 +189,9 @@
       <PageNumber>3726</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>Boyd-Moss, Ernest W., D.S.O. (Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3696</PageNumber>
     </SubItem>
     <SubItem>
@@ -424,7 +426,9 @@
       <Key>Lambton</Key>
       <Title>Maj.</Title>
       <Forenames>G. C</Forenames>
-      <Text>, D.S.O. (Brevet Lieut.-Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6123</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -486,8 +490,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hara, (temporary) Lieut. James F. W. (relinquishes his commission)</Text>
+      <Key>O'Hara</Key>
+      <Title>(temporary) Lieut.</Title>
+      <Forenames>James F. W.</Forenames>
+      <Text>(relinquishes his commission)</Text>
       <PageNumber>4240</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -565,7 +571,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Slodden</Key>
-      <Text>. Cyril E. (temporary Lieut.)</Text>
+      <Forenames>Cyril E.</Forenames>
+      <Text>(temporary Lieut.)</Text>
       <PageNumber>3700</PageNumber>
     </MainItem>
   </ItemGroup>

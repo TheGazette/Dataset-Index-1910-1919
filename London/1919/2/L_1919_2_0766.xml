@@ -274,7 +274,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Strachey</Key>
-      <Text>. late temp. Capt. and 2nd in Comd. J. St. L. (Hon. Capt\</Text>
+      <Title>late temp. Capt.</Title>
+      <Text>and 2nd in Comd. J. St. L. (Hon. Capt\</Text>
       <PageNumber>7922</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -346,7 +347,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Syer</Key>
-      <Text>. late temp. 2nd Lt. E. J. (Hon. 2nd Lt.)</Text>
+      <Title>late temp. 2nd Lt.</Title>
+      <Forenames>E. J.</Forenames>
+      <Text>(Hon. 2nd Lt.)</Text>
       <PageNumber>7921</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -382,7 +385,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Tamolin</Key>
-      <Text>. late temp. Lt. j. w!</Text>
+      <Title>late temp. Lt.</Title>
+      <Text>j. w!</Text>
       <PageNumber>6620</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -409,7 +413,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Tite</Key>
-      <Text>. late temp. Capt. C. J. C</Text>
+      <Title>late temp. Capt.</Title>
+      <Forenames>C. J. C.</Forenames>
       <PageNumber>7505</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1323,7 +1328,10 @@
       <Key>Warner</Key>
       <Title>Col. Sir</Title>
       <Forenames>T. C. T.</Forenames>
-      <Text>, Bt., C.B. (Hon. Comdt., with hon. rank of Col.), Sub. Not</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>5911</PageNumber>
     </MainItem>
   </ItemGroup>

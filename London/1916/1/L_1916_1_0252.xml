@@ -275,8 +275,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wake</Key>
-      <Title>St.</Title>
-      <Forenames>A. B.</Forenames>
+      <Title>St. A.</Title>
+      <Forenames>B.</Forenames>
       <Text>-</Text>
       <PageNumber>90</PageNumber>
     </MainItem>
@@ -1027,15 +1027,16 @@
     <MainItem>
       <Key>Jehan</Key>
       <Forenames>E. M.</Forenames>
-      <Text>, D.S.C. (specially promoted),</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>340</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Jennings</Key>
-      <Forenames>A. E.</Forenames>
-      <Text>de B</Text>
+      <Forenames>A. E. de B</Forenames>
       <PageNumber>180</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1097,15 +1098,16 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connell, D: B</Text>
+      <Key>O'Connell</Key>
+      <Forenames>D</Forenames>
+      <Text>: B</Text>
       <PageNumber>1805</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Conor, E. H</Text>
+      <Key>O'Conor</Key>
+      <Forenames>E. H</Forenames>
       <PageNumber>2935</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1133,8 +1135,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Pitt</Key>
-      <Title>St.</Title>
-      <Forenames>J. G. H</Forenames>
+      <Title>St. J.</Title>
+      <Forenames>G. H</Forenames>
       <PageNumber>1805</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1184,7 +1186,9 @@
     <MainItem>
       <Key>Tudway</Key>
       <Forenames>L. C. P.</Forenames>
-      <Text>, D.S.C. (specially promoted)]</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>1241</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1265,6 +1269,13 @@
       <Key>Brister</Key>
       <Forenames>J. E.</Forenames>
       <PageNumber>846</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Lisle</Key>
+      <Forenames>R. H. E. M. P.</Forenames>
+      <PageNumber>1129</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1528,9 +1539,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Salis</Forenames>
-      <Text>, A. F</Text>
+      <Key>De Salis</Key>
+      <Forenames>A. F .</Forenames>
       <PageNumber>2935</PageNumber>
     </MainItem>
   </ItemGroup>

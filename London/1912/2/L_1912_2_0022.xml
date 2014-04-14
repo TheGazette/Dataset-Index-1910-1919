@@ -64,7 +64,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cormack</Key>
-      <Text>. R. P. (Lieut.)</Text>
+      <Forenames>R. P.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>4135</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -351,7 +352,9 @@
       <Key>Abercromby</Key>
       <Title>Sir</Title>
       <Forenames>G. W.</Forenames>
-      <Text>, Bart. (Lieut.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>4312</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -373,7 +376,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gunning</Key>
-      <Text>. E. G. F. (Lieut.)</Text>
+      <Forenames>E. G. F.</Forenames>
+      <Text>(Lieut.)</Text>
       <PageNumber>2706</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -457,7 +461,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Mervyn</Key>
-      <Text>. 2nd Lieut. J. F. A. (resigned)</Text>
+      <Title>2nd Lieut.</Title>
+      <Forenames>J. F. A.</Forenames>
+      <Text>(resigned)</Text>
       <PageNumber>4312</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -589,8 +595,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Farrell, G. H. M. (2nd Lieut.)</Text>
+      <Key>O'Farrell</Key>
+      <Forenames>G. H. M.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>4386</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -772,7 +779,9 @@
       <Key>Williams-Bulkeley</Key>
       <Title>Sir</Title>
       <Forenames>R. H.</Forenames>
-      <Text>, Bart. (Hon. Col.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>3177</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1378,6 +1387,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de St</Key>
+      <Forenames>Croix</Forenames>
+      <Text>, C. (Lieut.)</Text>
+      <PageNumber>3371</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Dixon</Key>
       <Forenames>G.</Forenames>
       <Text>(2nd Lieut.)</Text>
@@ -1448,7 +1465,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ficklin</Key>
-      <Text>. H. P. M. B. (2nd Lieut.)</Text>
+      <Forenames>H. P. M. B.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>3584</PageNumber>
     </MainItem>
   </ItemGroup>

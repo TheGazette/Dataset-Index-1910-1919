@@ -448,7 +448,9 @@
   <ItemGroup>
     <MainItem>
       <Key>North</Key>
-      <Text>0. H., D.S.O. (Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8806</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -608,7 +610,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Lieut M.</Forenames>
+      <Title>Lieut</Title>
+      <Forenames>M.</Forenames>
       <Text>(temporary Capt.)</Text>
       <PageNumber>8624</PageNumber>
     </MainItem>
@@ -782,7 +785,9 @@
     <MainItem>
       <Key>Spooner</Key>
       <Forenames>A. H.</Forenames>
-      <Text>, D.S.O. (Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8806</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -798,7 +803,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stance</Key>
-      <Text>. George Nugent (temporary 2nd Lieut.)</Text>
+      <Forenames>George Nugent</Forenames>
+      <Text>(temporary 2nd Lieut.)</Text>
       <PageNumber>7330</PageNumber>
     </MainItem>
     <SubItem>
@@ -817,14 +823,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Stockdale</Key>
-      <Text>. Edward L. J. (temporary Lieut.)</Text>
+      <Forenames>Edward L. J.</Forenames>
+      <Text>(temporary Lieut.)</Text>
       <PageNumber>9560</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Swain</Key>
-      <Text>. Matthew E. (temporary 2nd Lieut.)</Text>
+      <Forenames>Matthew E.</Forenames>
+      <Text>(temporary 2nd Lieut.)</Text>
       <PageNumber>9534</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -839,7 +847,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Tavlor</Key>
-      <Text>. John Crapper (temporary 2nd Lieut.)</Text>
+      <Forenames>John Crapper</Forenames>
+      <Text>(temporary 2nd Lieut.)</Text>
       <PageNumber>6837</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -982,7 +991,9 @@
     <MainItem>
       <Key>Willis</Key>
       <Forenames>R. R.</Forenames>
-      <Text>, V.C. (Maj.)</Text>
+      <Text>
+        <Honour>V.C.</Honour>
+      </Text>
       <PageNumber>8806</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1024,7 +1035,9 @@
     <MainItem>
       <Key>Woodman</Key>
       <Forenames>J. E. S.</Forenames>
-      <Text>, D.S.O. (Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8806</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1039,8 +1052,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Yates</Key>
-      <Forenames>Joseph M. St</Forenames>
-      <Text>. John (temporary 2nd Lieut.)</Text>
+      <Forenames>Joseph M. St. John</Forenames>
+      <Text>(temporary 2nd Lieut.)</Text>
       <PageNumber>7059</PageNumber>
     </MainItem>
     <SubItem>
@@ -1167,7 +1180,9 @@
     <MainItem>
       <Key>Bruce</Key>
       <Forenames>A. G.</Forenames>
-      <Text>, D.S.O. (Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8806</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1280,7 +1295,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Dick</Key>
-      <Text>. Maj. D. H. A.. D.S.O. (temporary Lieut.-Col.)</Text>
+      <Title>Maj.</Title>
+      <Forenames>D. H. A.</Forenames>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7443</PageNumber>
     </MainItem>
   </ItemGroup>

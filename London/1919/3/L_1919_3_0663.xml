@@ -82,7 +82,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fey</Key>
-      <Text>Overseas Cadet E. C. (temp. 2nd Lt.)</Text>
+      <Forenames>Overseas</Forenames>
+      <Text>Cadet E. C. (temp. 2nd Lt.)</Text>
       <PageNumber>8238</PageNumber>
       <PageNumber>8605</PageNumber>
     </MainItem>
@@ -394,7 +395,9 @@
   <ItemGroup>
     <MainItem>
       <Key>F</Key>
-      <Text>inch-iNoy,es, Lt.-Col. C. R., D.S.O. (xel. commit on ceasing ito be ompild.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>10763</PageNumber>
     </MainItem>
     <SubItem>
@@ -405,7 +408,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Findlllay</Key>
-      <Text>JA (A.) O, D.F.C. (.granted! perm, comimin.)</Text>
+      <Text>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>9869</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -447,7 +452,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>ILt. ,(lA.) M. H., D.S.C., .D.F.O. (comr. of surname)... H</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>245</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -479,7 +486,9 @@
       <Key>
         <KeyDitto>___ ___ —--</KeyDitto>
       </Key>
-      <Text>ILt. (LA.) M. H., D.S.C., D.F.C (granted; perm. oommn.)</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>9869</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -847,7 +856,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>Richard</Forenames>
-      <Text>, M.C. .(Itod. to uneimpld. list)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9142</PageNumber>
     </MainItem>
     <SubItem>
@@ -904,7 +915,7 @@
       <PageNumber>8237</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Trd. to .unempld. list, Sub. Not</Text>
+      <Text>Trd. to .unempld. list, Sub. Not.</Text>
       <PageNumber>10657</PageNumber>
     </SubItem>
   </ItemGroup>

@@ -331,7 +331,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bland</Key>
-      <Text>. Cecil F. Ramsden (2nd Lieut.)</Text>
+      <Forenames>Cecil F. Ramsden</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>9096</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -355,7 +356,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rromhead</Key>
-      <Text>. R G. 'Maj.)</Text>
+      <Forenames>R</Forenames>
+      <Text>G. 'Maj.)</Text>
       <PageNumber>8808</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -543,14 +545,19 @@
       <Key>Hanbury-Sparrow</Key>
       <Title>Lieut.</Title>
       <Forenames>A. A. H.</Forenames>
-      <Text>, D.S.O. (temporary Capt., supernumerary to establishment)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7574</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Harris</Key>
-      <Text>A.E. F., D.S.O. (Maj.j</Text>
+      <Text>
+        <Honour>A.E.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8808</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -567,7 +574,9 @@
       <Key>Hill</Key>
       <Title>Maj.</Title>
       <Forenames>C. G.</Forenames>
-      <Text>, G.M.G., D.S.O. (temporary Lieut.-Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6811</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -923,7 +932,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Weston</Key>
-      <Text>. Lieut. J. S. T. (temporary Capt., supernumerary to establishment)</Text>
+      <Title>Lieut.</Title>
+      <Forenames>J. S. T.</Forenames>
+      <Text>(temporary Capt., supernumerary to establishment)</Text>
       <PageNumber>7574</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -949,7 +960,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Adams</Key>
-      <Text>. Charles (temporary 2nd Lieut.)</Text>
+      <Forenames>Charles</Forenames>
+      <Text>(temporary 2nd Lieut.)</Text>
       <PageNumber>9229</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -964,7 +976,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Annesley</Key>
-      <Text>. A. J. P. (temporary Maj.)</Text>
+      <Forenames>A. J. P.</Forenames>
+      <Text>(temporary Maj.)</Text>
       <PageNumber>6414</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1005,15 +1018,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Barling</Key>
-      <Text>. Arthur Amos (temporary . 2nd Lieut.)</Text>
+      <Forenames>Arthur Amos</Forenames>
+      <Text>(temporary . 2nd Lieut.)</Text>
       <PageNumber>8163</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Barnett</Key>
-      <Forenames>Lascelles</Forenames>
-      <Text>de B. (temporary Capt., supernumerary to establishment) ... '</Text>
+      <Forenames>Lascelles de B</Forenames>
+      <Text>. (temporary Capt., supernumerary to establishment) ... '</Text>
       <PageNumber>8262</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1085,7 +1099,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bradlev</Key>
-      <Text>. Gerald Graves (temporary 2nd Lieut.)</Text>
+      <Forenames>Gerald Graves</Forenames>
+      <Text>(temporary 2nd Lieut.)</Text>
       <PageNumber>8993</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1094,7 +1109,9 @@
       <Key>Buchanan-Dunlop</Key>
       <Title>Capt.</Title>
       <Forenames>H. D.</Forenames>
-      <Text>, .' D.S.O. (temporary Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8813</PageNumber>
     </MainItem>
     <SubItem>
@@ -1105,7 +1122,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bunyard</Key>
-      <Text>. George Norman (tempo-</Text>
+      <Forenames>George Norman</Forenames>
+      <Text>(tempo-</Text>
       <PageNumber>8168</PageNumber>
     </MainItem>
   </ItemGroup>

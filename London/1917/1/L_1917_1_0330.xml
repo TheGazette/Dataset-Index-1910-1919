@@ -158,7 +158,9 @@
       <Key>Uniacke</Key>
       <Title>Lt.-Col. and Bt. Col. (temp. Maj.-Gen.)</Title>
       <Forenames>H. C. C.</Forenames>
-      <Text>C.M.G. (Maj.-Gen., for dist. serv.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>15</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -197,7 +199,9 @@
       </Key>
       <Title>temp. Lt.</Title>
       <Forenames>H. A. R. E.</Forenames>
-      <Text>, M.B., F.R.C.S. (rel. commn.)</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>1628</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -473,7 +477,9 @@
       </Key>
       <Title>2nd Lt.</Title>
       <Forenames>S. C. R.</Forenames>
-      <Text>, M.C. (actg. Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2830</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -493,7 +499,10 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>T. J.</Forenames>
-      <Text>, M.C. (Bt. Maj., for dist. serv.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>18</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -725,57 +734,77 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Hee</Forenames>
-      <Text>, temp. 2nd Lt. on prob. R. H. (confd.)</Text>
+      <Key>Van Hee</Key>
+      <Title>temp. 2nd Lt. on prob.</Title>
+      <Forenames>R. H.</Forenames>
+      <Text>(confd.)</Text>
       <PageNumber>1060</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Millar</Forenames>
-      <Text>, Cadet R. (2nd Lt,)</Text>
+      <Key>Van Millar</Key>
+      <Title>Cadet</Title>
+      <Forenames>R.</Forenames>
+      <Text>(2nd Lt,)</Text>
       <PageNumber>1963</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Oss</Forenames>
-      <Text>, Cadet M. D. (2nd Lt.)</Text>
+      <Key>van Millingen</Key>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>C. A. M.</Forenames>
+      <Text>(temp. Lt.)</Text>
+      <PageNumber>2834</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Van Oss</Key>
+      <Title>Cadet</Title>
+      <Forenames>M. D.</Forenames>
+      <Text>(2nd Lt.)</Text>
       <PageNumber>1062</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Ryneveld</Forenames>
-      <Text>, temp. Capt. H. A., M.C. (Sqdn. Comdr.)</Text>
+      <Key>Van Ryneveld</Key>
+      <Title>temp. Capt.</Title>
+      <Forenames>H. A.</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1028</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Someren</Forenames>
-      <Text>, temp. Lt. W. V. L. (date of promn. to temp. Capt.)</Text>
+      <Key>Van Someren</Key>
+      <Title>temp. Lt.</Title>
+      <Forenames>W. V. L.</Forenames>
+      <Text>(date of promn. to temp. Capt.)</Text>
       <PageNumber>737</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Straubenzee</Forenames>
-      <Text>, Capt. A. B., M.C. (actg. Maj.)</Text>
+      <Key>Van Straubenzee</Key>
+      <Title>Capt.</Title>
+      <Forenames>A. B.</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2516</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Zeller</Forenames>
-      <Text>, Cadet T. D. (temp. 2nd Lt.)</Text>
+      <Key>Van Zeller</Key>
+      <Title>Cadet</Title>
+      <Forenames>T. D.</Forenames>
+      <Text>(temp. 2nd Lt.)</Text>
       <PageNumber>1267</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -793,7 +822,9 @@
       <Key>Vandeleur</Key>
       <Title>Maj. (temp. Lt.-Col.)</Title>
       <Forenames>H. M.</Forenames>
-      <Text>(Bt. Lt.-Col., for val. servs.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>926</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -804,7 +835,10 @@
       </Key>
       <Title>Lt.-Col. (temp. Brig-.Gen.)</Title>
       <Forenames>R. S.</Forenames>
-      <Text>, C.M.G. (Bt.-Col., for dist. serv.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>16</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -878,7 +912,9 @@
       <Key>Vansenden</Key>
       <Title>temp. 2nd Lt.</Title>
       <Forenames>E. A.</Forenames>
-      <Text>M.C. (actg. Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2021</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -896,7 +932,9 @@
       <Key>Varcoe</Key>
       <Title>2nd Lt.</Title>
       <Forenames>F. H. L.</Forenames>
-      <Text>, M.C. (Flying Offr., Observer, Gen. List)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2753</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1273,7 +1311,9 @@
     <MainItem>
       <Key>Vernon</Key>
       <Title>temp.</Title>
-      <Text>2nd Lt, L. P., M.C. (temp. Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>385</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1300,15 +1340,17 @@
       <Key>Verschoyle-Campbell</Key>
       <Title>Capt. (temp. Maj.)</Title>
       <Forenames>W. H.</Forenames>
-      <Text>MoN. (Bt. Maj., for dist. serv.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>19</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Vertue</Key>
-      <Forenames>H. St</Forenames>
-      <Text>. H., M.B. (Lt.)</Text>
+      <Forenames>H. St. H</Forenames>
+      <Text>., M.B. (Lt.)</Text>
       <PageNumber>1584</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1412,7 +1454,10 @@
       <Key>Vicary</Key>
       <Title>Capt.</Title>
       <Forenames>A. C</Forenames>
-      <Text>, M.C. (Bt. Maj., for dist. serv.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>19</PageNumber>
     </MainItem>
   </ItemGroup>

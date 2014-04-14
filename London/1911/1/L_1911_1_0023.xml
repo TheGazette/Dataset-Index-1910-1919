@@ -1006,8 +1006,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Long</Key>
-      <Forenames>A.</Forenames>
-      <Text>de L. (2nd Lieut.)</Text>
+      <Forenames>A. de L</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>1156</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1151,15 +1151,18 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, W. D. (Capt.)</Text>
+      <Key>O'Brien</Key>
+      <Forenames>W. D.</Forenames>
+      <Text>(Capt.)</Text>
       <PageNumber>698</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Reilly, Maj. J. B. (resigned) ...</Text>
+      <Key>O'Reilly</Key>
+      <Title>Maj.</Title>
+      <Forenames>J. B.</Forenames>
+      <Text>(resigned) ...</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1335,7 +1338,9 @@
       <Key>Ripley</Key>
       <Title>Sir</Title>
       <Forenames>F. H.</Forenames>
-      <Text>, Bart. (Lieut.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>1044</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1656,7 +1661,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Baynham</Key>
-      <Text>. C. T. (2nd Lieut.)</Text>
+      <Forenames>C. T.</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>507</PageNumber>
     </MainItem>
   </ItemGroup>

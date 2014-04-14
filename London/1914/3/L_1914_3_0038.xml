@@ -50,8 +50,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donel, Sidney (Lieut, on probation)</Text>
+      <Key>O'Donel</Key>
+      <Forenames>Sidney</Forenames>
+      <Text>(Lieut, on probation)</Text>
       <PageNumber>6402</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -75,7 +76,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Priston</Key>
-      <Text>. William Henry (temporary Lieut.)</Text>
+      <Forenames>William Henry</Forenames>
+      <Text>(temporary Lieut.)</Text>
       <PageNumber>7378</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -495,7 +497,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Hogg</Key>
-      <Text>. Rev. Matthew Banks (temporary)</Text>
+      <Title>Rev.</Title>
+      <Forenames>Matthew Banks</Forenames>
+      <Text>(temporary)</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -688,22 +692,28 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Farrell, Rev. Francis (temporary)</Text>
+      <Key>O'Farrell</Key>
+      <Title>Rev.</Title>
+      <Forenames>Francis</Forenames>
+      <Text>(temporary)</Text>
       <PageNumber>7465</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Malley, Rev. John J. Evans (temporary)</Text>
+      <Key>O'Malley</Key>
+      <Title>Rev.</Title>
+      <Forenames>John J. Evans</Forenames>
+      <Text>(temporary)</Text>
       <PageNumber>6881</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Oldfield</Key>
-      <Text>. Rev. Henry Douglas (temporary)</Text>
+      <Title>Rev.</Title>
+      <Forenames>Henry Douglas</Forenames>
+      <Text>(temporary)</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -995,7 +1005,9 @@
       <Key>Armitage</Key>
       <Title>Col.</Title>
       <Forenames>Edward H.</Forenames>
-      <Text>, C.B. (half pay list)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>5556</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1030,7 +1042,9 @@
     <MainItem>
       <Key>Bainbridge</Key>
       <Forenames>E. G. T.</Forenames>
-      <Text>, C.B. (temporary Brigadier-Gen.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>6581</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1081,8 +1095,8 @@
     <MainItem>
       <Key>Barter</Key>
       <Title>Col.</Title>
-      <Forenames>B. St</Forenames>
-      <Text>. J. (temporary Brigadier-Gen.)</Text>
+      <Forenames>B. St. J</Forenames>
+      <Text>. (temporary Brigadier-Gen.)</Text>
       <PageNumber>7568</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1090,7 +1104,9 @@
     <MainItem>
       <Key>Bayard</Key>
       <Forenames>R.</Forenames>
-      <Text>, D.S.O. (temporary Brigadier-Gen.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6581</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1132,7 +1148,9 @@
       <Key>Borradaile</Key>
       <Title>Col.</Title>
       <Forenames>H. B.</Forenames>
-      <Text>, D.S.O. (temporary Brigadier-Gen.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7220</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1165,7 +1183,10 @@
     <MainItem>
       <Key>Bray</Key>
       <Forenames>C. A.</Forenames>
-      <Text>, C.B., C.M.G. (temporary Brigadier-Gen.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>6581</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1180,7 +1201,9 @@
     <MainItem>
       <Key>Brereton</Key>
       <Forenames>E. F.</Forenames>
-      <Text>, D.S.O. (temporary Brigadier-Gen.) ... ~.</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>

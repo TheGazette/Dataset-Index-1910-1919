@@ -308,8 +308,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Newman</Key>
-      <Forenames>Lieut</Forenames>
-      <Text>, (temporary Capt.) Albert G. (relinquishes tempo rary rank of Capt. on alteration in posting)</Text>
+      <Title>Lieut, (temporary Capt.)</Title>
+      <Forenames>Albert G.</Forenames>
+      <Text>(relinquishes tempo rary rank of Capt. on alteration in posting)</Text>
       <PageNumber>8737</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -759,7 +760,9 @@
       <Key>Butlin</Key>
       <Title>Lieut. Sir</Title>
       <Forenames>Henry G. T.</Forenames>
-      <Text>, Bt. (temporary Capt.) Clayton, Keith Herbert (2nd Lieut.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>8982</PageNumber>
     </MainItem>
   </ItemGroup>

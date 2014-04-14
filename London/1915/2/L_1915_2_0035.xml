@@ -42,7 +42,11 @@
       </Key>
       <Title>Brigadier-Gen.</Title>
       <Forenames>Edward J.</Forenames>
-      <Text>, C.B., M.V.O., D.S.O. (Division Commander)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>M.V.O.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4763</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -53,7 +57,9 @@
       </Key>
       <Title>Col.</Title>
       <Forenames>Harry</Forenames>
-      <Text>, C.M.G. (temporary Col* in charge of Territorial Force Records)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>5733</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -101,7 +107,9 @@
       <Key>Cory</Key>
       <Title>Brevet Lieut.-Col.</Title>
       <Forenames>George N.</Forenames>
-      <Text>, D.S.O. (General Staff Offi cer, 1st Grade)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4990</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -212,8 +220,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Daly</Key>
-      <Forenames>D. St</Forenames>
-      <Text>. C. (Superintendent, 'Remount Depot, and temporary 'Maj.)</Text>
+      <Forenames>D. St. C</Forenames>
+      <Text>. (Superintendent, 'Remount Depot, and temporary 'Maj.)</Text>
       <PageNumber>4146</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -248,7 +256,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Darbishire</Key>
-      <Text>. (temporary) Maj. Russell N. (Asst. Embarkation Staff Officer)</Text>
+      <Title>(temporary) Maj.</Title>
+      <Forenames>Rus-</Forenames>
+      <Text>sell N. (Asst. Embarkation Staff Officer)</Text>
       <PageNumber>5733</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -343,7 +353,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>Claiuide M.</Forenames>
-      <Text>, D.S.O. General Staff Officer, 3rd . Grade)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3582</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -418,8 +430,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Title>Lieut.</Title>
-      <Text>-Commander Frederick J. (special appointment)</Text>
+      <Title>Lieut.-Commander</Title>
+      <Forenames>Frederick J.</Forenames>
+      <Text>(special appointment)</Text>
       <PageNumber>5724</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -451,7 +464,10 @@
     <MainItem>
       <Key>Dawkins</Key>
       <Forenames>C. T.</Forenames>
-      <Text>, C.B., C.M.G. (Maj.-Gen. for service in the Field)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>6116</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -460,7 +476,9 @@
       <Key>Dawnay</Key>
       <Title>Capt.</Title>
       <Forenames>G. P.</Forenames>
-      <Text>, D.S.O:, M.V.O. (General Staff Officer, 3rd Grade)</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>3227</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -494,18 +512,29 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Knoop</Forenames>
-      <Text>, Capt. J. J. J. (special appoinhment)</Text>
+      <Key>De Knoop</Key>
+      <Title>Capt.</Title>
+      <Forenames>J. J. J.</Forenames>
+      <Text>(special appoinhment)</Text>
       <PageNumber>4034</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Lisle</Forenames>
-      <Text>, Col. George de S. (Brigade Commander and temporary Brigadier-Gen.)</Text>
+      <Key>De Lisle</Key>
+      <Title>Col.</Title>
+      <Forenames>George de S</Forenames>
+      <Text>. (Brigade Commander and temporary Brigadier-Gen.)</Text>
       <PageNumber>6168</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Lotbiniere</Key>
+      <Title>Lieut.-Col.</Title>
+      <Forenames>Alain C. de L</Forenames>
+      <Text>. Joly, C.S.I., CLE. (Chief Engineer and temporary Brigadier-Gen.)</Text>
+      <PageNumber>6021</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -521,10 +550,31 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Sausmarez</Forenames>
-      <Text>, Brevet Lieut.-Col. Cecil, D.S.O. o (temporary Deputy Asst. Adjt.-Gen. at the War Office, and to be seconded)</Text>
+      <Key>de Satge</Key>
+      <Title>(temporary) Lieut.</Title>
+      <Forenames>E. E.</Forenames>
+      <Text>(special appointment)</Text>
+      <PageNumber>5839</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Sausmarez</Key>
+      <Title>Brevet Lieut.-Col.</Title>
+      <Forenames>Cecil</Forenames>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3816</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Trafford</Key>
+      <Title>(temporary) 2nd Lieut.</Title>
+      <Forenames>R. E.</Forenames>
+      <Text>(special appointment)</Text>
+      <PageNumber>5193</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -550,7 +600,9 @@
       <Key>Deedes</Key>
       <Title>Capt.</Title>
       <Forenames>C. P.</Forenames>
-      <Text>, D.S.O. (Brevet iMaj. for service in the Field)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6117</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -573,7 +625,10 @@
       <Key>Delme-Radcliffe</Key>
       <Title>Col. (temporary Brigadier-General)</Title>
       <Forenames>Charles</Forenames>
-      <Text>, C.V.O., C.B. C.M.G. (special appointment, and to retain temporary rank)</Text>
+      <Text>
+        <Honour>C.V.O.</Honour>
+        <Honour>C.B. C.M.G.</Honour>
+      </Text>
       <PageNumber>5514</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -610,7 +665,9 @@
       <Key>Dennistoun</Key>
       <Title>Capt.</Title>
       <Forenames>Ian</Forenames>
-      <Text>0., M.V.O. (Deputy Asst. Adjt. and Qrmr.Gen.)</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>4388</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -663,7 +720,9 @@
       <Key>Dxkie</Key>
       <Title>Col. (Hon. Maj.-Gen.)</Title>
       <Forenames>John K.</Forenames>
-      <Text>, C.B. (special appointment)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>5724</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -672,7 +731,9 @@
       <Key>Dillon</Key>
       <Title>Capt.</Title>
       <Forenames>Eric</Forenames>
-      <Text>FitzG., D.S.O. (Brigade Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4991</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -683,7 +744,9 @@
       </Key>
       <Title>Oaipt.</Title>
       <Forenames>Stephen S.</Forenames>
-      <Text>,D.S.O. (special appointment, and to be seconded)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5514</PageNumber>
     </MainItem>
   </ItemGroup>

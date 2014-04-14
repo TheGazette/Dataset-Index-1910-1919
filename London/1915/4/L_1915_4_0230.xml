@@ -279,8 +279,8 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Title>Lt.</Title>
-      <Forenames>H. St</Forenames>
-      <Text>. C. (corrections)</Text>
+      <Forenames>H. St. C</Forenames>
+      <Text>. (corrections)</Text>
       <PageNumber>9774</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -768,7 +768,9 @@
     <MainItem>
       <Key>Nixon</Key>
       <Title>Gen. Sir</Title>
-      <Text>j. E., K.C.B. (Aide-de-Camp Gen: to His Majesty the King)</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+      </Text>
       <PageNumber>10728</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -786,14 +788,17 @@
       <Key>Roberts</Key>
       <Title>Col. (temp. BrigadierGen.)</Title>
       <Forenames>H. L.</Forenames>
-      <Text>, M.V.O. (Brigade Commander)</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>9656</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>John, Maj. R. S. (Brigade Maj.)</Text>
+      <Forenames>John</Forenames>
+      <Text>, Maj. R. S. (Brigade Maj.)</Text>
       <PageNumber>9667</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -881,7 +886,9 @@
     <MainItem>
       <Key>Cochrane</Key>
       <Forenames>A. W. R.</Forenames>
-      <Text>, M.B., F.R.C.S</Text>
+      <Text>
+        <Honour>F.R.C.S</Honour>
+      </Text>
       <PageNumber>10293</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -910,8 +917,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lalor</Key>
-      <Forenames>N. P. O</Forenames>
-      <Text>'Gorman. M.B</Text>
+      <Forenames>N. P. O'Gorman</Forenames>
+      <Text>. M.B</Text>
       <PageNumber>10293</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -926,7 +933,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Niblock</Key>
-      <Text>W. J., M.B., F.R.C.S.I</Text>
+      <Forenames>W. J.</Forenames>
+      <Text>, M.B., F.R.C.S.I</Text>
       <PageNumber>10293</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1027,14 +1035,17 @@
     <MainItem>
       <Key>Nesfieid</Key>
       <Forenames>V. B.</Forenames>
-      <Text>, F.R.C.S</Text>
+      <Text>
+        <Honour>F.R.C.S</Honour>
+      </Text>
       <PageNumber>12075</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, P. L. (antedated)</Text>
+      <Key>O'Neill</Key>
+      <Forenames>P. L.</Forenames>
+      <Text>(antedated)</Text>
       <PageNumber>12093</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1095,7 +1106,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mclver</Key>
-      <Text>C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>10169</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1157,7 +1168,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wilson</Key>
-      <Text>J. D., M.B</Text>
+      <Forenames>J. D.</Forenames>
+      <Text>, M.B</Text>
       <PageNumber>10168</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1216,6 +1228,14 @@
       <Forenames>R. E.</Forenames>
       <Text>, M.B. (temp.)</Text>
       <PageNumber>12075</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Souza</Key>
+      <Forenames>P. J.</Forenames>
+      <Text>(temp.)</Text>
+      <PageNumber>10170</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1308,7 +1328,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kaka</Key>
-      <Text>S. M. (temp.)</Text>
+      <Forenames>S. M.</Forenames>
+      <Text>(temp.)</Text>
       <PageNumber>10294</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1331,14 +1352,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Kotak</Key>
-      <Text>S. J. (temp.)</Text>
+      <Forenames>S. J.</Forenames>
+      <Text>(temp.)</Text>
       <PageNumber>10170</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Machado</Key>
-      <Text>L. S.. F.R.C.S.I. (temp.)</Text>
+      <Forenames>L. S.</Forenames>
+      <Text>. F.R.C.S.I. (temp.)</Text>
       <PageNumber>12075</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1379,7 +1402,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mohan</Key>
-      <Text>G. V. R. M.B. {temp.)</Text>
+      <Forenames>G. V. R. M.B.</Forenames>
+      <Text>{temp.)</Text>
       <PageNumber>10170</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1410,7 +1434,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Patel</Key>
-      <Text>K. K. (temp.)</Text>
+      <Forenames>K. K.</Forenames>
+      <Text>(temp.)</Text>
       <PageNumber>10170</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1428,7 +1453,9 @@
     <MainItem>
       <Key>Pestonji</Key>
       <Forenames>A. B.</Forenames>
-      <Text>, F.R.C.S. {temp.)</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>9774</PageNumber>
     </MainItem>
     <SubItem>
@@ -1439,14 +1466,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Phadke</Key>
-      <Text>S. K.. M.B. (temp.)</Text>
+      <Forenames>S. K.</Forenames>
+      <Text>. M.B. (temp.)</Text>
       <PageNumber>12075</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Rajan</Key>
-      <Text>H. S.. M.B. (temp.)</Text>
+      <Forenames>H. S.</Forenames>
+      <Text>. M.B. (temp.)</Text>
       <PageNumber>12075</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1469,7 +1498,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Satyapal</Key>
-      <Text>M.B. (temp.) .:</Text>
+      <Forenames>M.B.</Forenames>
+      <Text>(temp.) .:</Text>
       <PageNumber>12075</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1484,7 +1514,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Thak-ur</Key>
-      <Text>B. S. (temp.)</Text>
+      <Forenames>B. S.</Forenames>
+      <Text>(temp.)</Text>
       <PageNumber>10170</PageNumber>
     </MainItem>
   </ItemGroup>

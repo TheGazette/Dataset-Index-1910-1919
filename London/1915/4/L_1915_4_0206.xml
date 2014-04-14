@@ -266,7 +266,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Nettell</Key>
-      <Text>A. V. (2nd Lt.)</Text>
+      <Forenames>A. V.</Forenames>
+      <Text>(2nd Lt.)</Text>
       <PageNumber>10490</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -335,7 +336,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Nevitt</Key>
-      <Text>Lt. G. R. (temp. Capt.)</Text>
+      <Title>Lt.</Title>
+      <Forenames>G. R.</Forenames>
+      <Text>(temp. Capt.)</Text>
       <PageNumber>9663</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -501,7 +504,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Newnham-Davis</Key>
-      <Text>N. (Maj.)</Text>
+      <Forenames>N.</Forenames>
+      <Text>(Maj.)</Text>
       <PageNumber>11148</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -630,7 +634,7 @@
       <PageNumber>10292</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Adjt</Text>
+      <Text>Adjt.</Text>
       <PageNumber>11886</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -692,7 +696,7 @@
       <PageNumber>11145</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Adjt</Text>
+      <Text>Adjt.</Text>
       <PageNumber>12430</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -729,7 +733,9 @@
       <PageNumber>10251</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Territorial Decoration</Text>
+      <Text>
+        <Honour>Territorial Decoration</Honour>
+      </Text>
       <PageNumber>12335</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -976,7 +982,7 @@
       <PageNumber>9733</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Temp. Capt</Text>
+      <Text>Temp. Capt.</Text>
       <PageNumber>9733</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1623,7 +1629,9 @@
       <Key>Nuttall</Key>
       <Title>Surgeon-Maj.</Title>
       <Forenames>A. P.</Forenames>
-      <Text>, M.D. (resigned)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>9731</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1676,22 +1684,26 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Bryen, W. J. (2nd Lt.)</Text>
+      <Key>O'Bryen</Key>
+      <Forenames>W. J.</Forenames>
+      <Text>(2nd Lt.)</Text>
       <PageNumber>10882</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Byrne, M. (2nd Lt.)</Text>
+      <Key>O'Byrne</Key>
+      <Forenames>M.</Forenames>
+      <Text>(2nd Lt.)</Text>
       <PageNumber>11167</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Callaghan, 2nd Lt. C. T. (relinquishes his commission on appointment to Regular Cavalry)</Text>
+      <Key>O'Callaghan</Key>
+      <Title>2nd Lt.</Title>
+      <Forenames>C. T.</Forenames>
+      <Text>(relinquishes his commission on appointment to Regular Cavalry)</Text>
       <PageNumber>12180</PageNumber>
     </MainItem>
     <SubItem>
@@ -1712,15 +1724,17 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor D. R. J. (2nd Lt.)</Text>
+      <Key>O'Connor</Key>
+      <Forenames>D. R. J.</Forenames>
+      <Text>(2nd Lt.)</Text>
       <PageNumber>10000</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donnell, A. (2nd Lt.)</Text>
+      <Key>O'Donnell</Key>
+      <Forenames>A.</Forenames>
+      <Text>(2nd Lt.)</Text>
       <PageNumber>12459</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1746,64 +1760,77 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Dowda, B. F. (2nd Lt.)</Text>
+      <Key>O'Dowda</Key>
+      <Forenames>B. F.</Forenames>
+      <Text>(2nd Lt.)</Text>
       <PageNumber>11570</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Gorman, M. J. P., C.B. (temp. Lt.-Oci.)</Text>
+      <Key>O'Gorman</Key>
+      <Forenames>M. J. P.</Forenames>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>12662</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Grady, Lt. J. F. (relinquishes his commission)</Text>
+      <Key>O'Grady</Key>
+      <Title>Lt.</Title>
+      <Forenames>J. F.</Forenames>
+      <Text>(relinquishes his commission)</Text>
       <PageNumber>12166</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hanlon, L. T. (2nd Lt.)</Text>
+      <Key>O'Hanlon</Key>
+      <Forenames>L. T.</Forenames>
+      <Text>(2nd Lt.)</Text>
       <PageNumber>12458</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hara, 2nd Lt. T. (temp. Lt.)</Text>
+      <Key>O'Hara</Key>
+      <Title>2nd Lt.</Title>
+      <Forenames>T.</Forenames>
+      <Text>(temp. Lt.)</Text>
       <PageNumber>10165</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hea, J. J. (2nd Lt.)</Text>
+      <Key>O'Hea</Key>
+      <Forenames>J. J.</Forenames>
+      <Text>(2nd Lt.)</Text>
       <PageNumber>12309</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Keefe, H. J. (2nd Lt.)</Text>
+      <Key>O'Keefe</Key>
+      <Forenames>H. J.</Forenames>
+      <Text>(2nd Lt.)</Text>
       <PageNumber>9729</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Meara, J. M., M.B. (Capt.)</Text>
+      <Key>O'Meara</Key>
+      <Forenames>J. M.</Forenames>
+      <Text>, M.B. (Capt.)</Text>
       <PageNumber>9753</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Reilly, C. (2nd Lt.) ..;</Text>
+      <Key>O'Reilly</Key>
+      <Forenames>C.</Forenames>
+      <Text>(2nd Lt.) ..;</Text>
       <PageNumber>11165</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1820,22 +1847,26 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Biordan, G. F. (2nd Lt.)</Text>
+      <Key>O'Biordan</Key>
+      <Forenames>G. F.</Forenames>
+      <Text>(2nd Lt.)</Text>
       <PageNumber>12205</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Shee, Lt.-Col. G. J. P. P. (date of pay and allowances)</Text>
+      <Key>O'Shee</Key>
+      <Title>Lt.-Col.</Title>
+      <Forenames>G. J. P. P.</Forenames>
+      <Text>(date of pay and allowances)</Text>
       <PageNumber>12459</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Sullivan, F. (2nd Lt.)</Text>
+      <Key>O'Sullivan</Key>
+      <Forenames>F.</Forenames>
+      <Text>(2nd Lt.)</Text>
       <PageNumber>11336</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1848,7 +1879,7 @@
       <PageNumber>11147</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Adjt</Text>
+      <Text>Adjt.</Text>
       <PageNumber>11147</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1889,7 +1920,7 @@
       <PageNumber>9771</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Temp. Lt</Text>
+      <Text>Temp. Lt.</Text>
       <PageNumber>11297</PageNumber>
     </SubItem>
   </ItemGroup>

@@ -42,8 +42,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Egan</Key>
-      <Forenames>J. O</Forenames>
-      <Text>'D. (temp. Capt.)</Text>
+      <Forenames>J. O'D</Forenames>
+      <Text>. (temp. Capt.)</Text>
       <PageNumber>6323</PageNumber>
     </MainItem>
     <SubItem>
@@ -237,7 +237,9 @@
       <Key>Ellershaw</Key>
       <Title>Maj.</Title>
       <Forenames>A.</Forenames>
-      <Text>, D.S.O. (temp. Lt.-Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4349</PageNumber>
     </MainItem>
     <SubItem>
@@ -571,7 +573,9 @@
     <MainItem>
       <Key>Elphinstone-Dalrymple</Key>
       <Forenames>Supernu-</Forenames>
-      <Text>merary Capt. Sir F. N., Bt. (restored to the establishment)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4106</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -580,7 +584,9 @@
       <Key>Elsmie</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>A. M. S.</Forenames>
-      <Text>, C.M.G. (temp. Brigadier-Gen. whilst Brigade Commander)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>6202</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -599,7 +605,9 @@
       </Key>
       <Title>(temp.) Lt.</Title>
       <Forenames>T. G.</Forenames>
-      <Text>, M.D. (relinquishes his commission)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>5740</PageNumber>
     </MainItem>
     <SubItem>

@@ -71,8 +71,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Monk</Key>
-      <Forenames>G. P.</Forenames>
-      <Text>de B. (2nd Lieut.)</Text>
+      <Forenames>G. P. de B</Forenames>
+      <Text>. (2nd Lieut.)</Text>
       <PageNumber>6882</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -351,7 +351,9 @@
       <Key>Robinson</Key>
       <Title>Capt. Sir</Title>
       <Forenames>F. V. L.</Forenames>
-      <Text>, Bart, (retired)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>6801</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -859,6 +861,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Bunsen</Key>
+      <Forenames>A. G.</Forenames>
+      <Text>(Lieut.) ...</Text>
+      <PageNumber>ibid.</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Gibson</Key>
       <Title>Capt.</Title>
       <Forenames>W.</Forenames>
@@ -886,7 +896,8 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>John, Lieut. Hon. R. T. (seconded)</Text>
+      <Forenames>John</Forenames>
+      <Text>, Lieut. Hon. R. T. (seconded)</Text>
       <PageNumber>5806</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1271,8 +1282,8 @@
     <MainItem>
       <Key>Bowman</Key>
       <Title>Lieut.</Title>
-      <Forenames>P. S. St</Forenames>
-      <Text>. G. (resigned)</Text>
+      <Forenames>P. S. St. G</Forenames>
+      <Text>. (resigned)</Text>
       <PageNumber>6226</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1282,6 +1293,14 @@
       <Forenames>H. H. A.</Forenames>
       <Text>(Lieut.)</Text>
       <PageNumber>6553</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Stacpoole</Key>
+      <Forenames>R .A.</Forenames>
+      <Text>(2nd Lieut.)</Text>
+      <PageNumber>6883</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

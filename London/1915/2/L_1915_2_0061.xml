@@ -276,14 +276,19 @@
     <MainItem>
       <Key>Atkins</Key>
       <Forenames>John</Forenames>
-      <Text>, M.B., F.R.C.S. (temporary Col.)</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>4623</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Ballance</Key>
-      <Text>'Capt. Charles A., M.V.O., F.R.C.S. (temporary Col.)</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>5110</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -292,7 +297,9 @@
       <Key>Bruce</Key>
       <Title>Surgeon-Gen. Sir</Title>
       <Forenames>David</Forenames>
-      <Text>, Kt., C.B., F.R.S., M.B. (retained on Active List and to be Supernumerary)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>5110</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -301,7 +308,10 @@
       <Key>Low</Key>
       <Title>Capt.</Title>
       <Forenames>V. W.</Forenames>
-      <Text>, M.D., F.R.C.S. (temporary Col.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>6142</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -310,7 +320,9 @@
       <Key>Moynihan</Key>
       <Title>Col. Sir</Title>
       <Forenames>B. G. A.</Forenames>
-      <Text>, Kt., M.B., F.R.C.S. (relinquishes his temporary commission)</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>5638</PageNumber>
     </MainItem>
     <SubItem>
@@ -320,8 +332,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donnell, Col. Thomas J. (temporary Surgeon-Gen.)</Text>
+      <Key>O'Donnell</Key>
+      <Title>Col.</Title>
+      <Forenames>Thomas J.</Forenames>
+      <Text>(temporary Surgeon-Gen.)</Text>
       <PageNumber>3919</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -336,7 +350,9 @@
     <MainItem>
       <Key>Robson</Key>
       <Forenames>Arthur W. Mayo</Forenames>
-      <Text>, C.V.O. (temporary Col.)</Text>
+      <Text>
+        <Honour>C.V.O.</Honour>
+      </Text>
       <PageNumber>5516</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -345,7 +361,9 @@
       <Key>Sleman</Key>
       <Title>Lieut.-Col. (local Col.)</Title>
       <Forenames>Richard R.</Forenames>
-      <Text>, M.D. (temporary Col. whilst Deputy Director of ' Medical Services at Malta)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>6169</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -354,7 +372,9 @@
       <Key>Stewart</Key>
       <Title>Capt.</Title>
       <Forenames>J. P.</Forenames>
-      <Text>, M.D., F.R.C.P. (temporary Col.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>6142</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -362,7 +382,10 @@
     <MainItem>
       <Key>Symonds</Key>
       <Forenames>Charters J.</Forenames>
-      <Text>, M.D., F.R.C.S. (temporary Col.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>6169</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -371,7 +394,9 @@
       <Key>Tubby</Key>
       <Title>Maj.</Title>
       <Forenames>A. H</Forenames>
-      <Text>M.B., F.R.C.S. (temporary Col.)</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>6142</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -410,7 +435,10 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>James Johnston</Forenames>
-      <Text>, M.D., F.R.C.S. (temporary Lieut.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>4874</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -418,7 +446,9 @@
     <MainItem>
       <Key>Abrahams</Key>
       <Forenames>Adolphe</Forenames>
-      <Text>, M.D. (temporary Lieut.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>4249</PageNumber>
     </MainItem>
     <SubItem>
@@ -448,7 +478,9 @@
     <MainItem>
       <Key>Adams</Key>
       <Forenames>Alfred</Forenames>
-      <Text>, M.D. (temporary Lieut.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>5638</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -509,8 +541,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Agate</Key>
-      <Forenames>Henry St</Forenames>
-      <Text>. Arnaud (temporary Lieut.)</Text>
+      <Forenames>Henry St. Arnaud</Forenames>
+      <Text>(temporary Lieut.)</Text>
       <PageNumber>4036</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -526,7 +558,10 @@
     <MainItem>
       <Key>Aitken</Key>
       <Forenames>Andrew Blair</Forenames>
-      <Text>, M.D., F.R.C.S. (temporary Lieut.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>6143</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -544,7 +579,9 @@
         <KeyDitto>___</KeyDitto>
       </Key>
       <Forenames>James Finlay</Forenames>
-      <Text>, M.D. (temporary Lieut.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>5967</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -795,7 +832,9 @@
     <MainItem>
       <Key>Armstrong-Dash</Key>
       <Forenames>Charles James</Forenames>
-      <Text>, M.D. (temporary Lieut.) ..!</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>4250</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -811,7 +850,9 @@
     <MainItem>
       <Key>Arthur</Key>
       <Forenames>Charles L. Tulloch</Forenames>
-      <Text>, M.D. (temporary Lieut.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>5735</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -853,7 +894,9 @@
     <MainItem>
       <Key>Ashwin</Key>
       <Forenames>Richard Hamilton</Forenames>
-      <Text>, M.D. (temporary Lieut.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>5726</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -877,7 +920,9 @@
     <MainItem>
       <Key>Atkinson</Key>
       <Forenames>John Lancelot</Forenames>
-      <Text>, M.D. (temporary Lieut.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>5493</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -887,7 +932,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Attwater</Key>
-      <Text>. Harry Lawrence, M.B.' F.R.C.S. (temporary Lieut.)</Text>
+      <Forenames>Harry Lawrence</Forenames>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>5726</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -961,7 +1009,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Banbury</Key>
-      <Text>. Richard Albert (tempo rary Lieut.)</Text>
+      <Forenames>Richard Albert</Forenames>
+      <Text>(tempo rary Lieut.)</Text>
       <PageNumber>4037</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -969,7 +1018,9 @@
     <MainItem>
       <Key>Barclay</Key>
       <Forenames>Herbert Clifford</Forenames>
-      <Text>, M.D., F.B.C.S.Edin. (temporary Maj.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>3450</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1004,7 +1055,9 @@
     <MainItem>
       <Key>Barnett</Key>
       <Forenames>Lewis Edward</Forenames>
-      <Text>, M.B., F.R.C.S. (temporary Lieut.) ... ,</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>5367</PageNumber>
     </MainItem>
     <SubItem>

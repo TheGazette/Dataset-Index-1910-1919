@@ -67,6 +67,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Wiart</Key>
+      <Forenames>A. C.</Forenames>
+      <Text>(Adjt.)</Text>
+      <PageNumber>222</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Drummond</Key>
       <Forenames>H.</Forenames>
       <Text>(2nd Lieut.)</Text>
@@ -224,7 +232,9 @@
       <Key>Gilmour</Key>
       <Title>Lieut.-Col. and Hon. Col. Sir</Title>
       <Forenames>J.</Forenames>
-      <Text>, Bart. (resigned)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>1831</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -643,7 +653,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Poole</Key>
-      <Text>Qrmr. and Hon. Maj. G. T. (resigned):</Text>
+      <Title>Qrmr. and Hon. Maj.</Title>
+      <Forenames>G. T.</Forenames>
+      <Text>(resigned):</Text>
       <PageNumber>801</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -909,7 +921,9 @@
       <Key>Wrey</Key>
       <Title>Maj. and Hon. Lieut.-Col. Sir</Title>
       <Forenames>B. R. S.</Forenames>
-      <Text>, Bart, (resigned)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>1831</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -957,8 +971,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Davies</Key>
-      <Forenames>O. St</Forenames>
-      <Text>. L. (Capt.)</Text>
+      <Forenames>O. St. L</Forenames>
+      <Text>. (Capt.)</Text>
       <PageNumber>1667</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1353,7 +1367,9 @@
       <Key>Grey</Key>
       <Title>Lieut.-Col. Sir</Title>
       <Forenames>H. F.</Forenames>
-      <Text>Bart....</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>___ ___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>

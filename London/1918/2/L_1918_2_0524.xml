@@ -25,7 +25,9 @@
     <MainItem>
       <Key>Dain</Key>
       <Title>Lt. (actg. Capt.)</Title>
-      <Text>0. H. R., M.C. (actg. Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5333</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -52,7 +54,9 @@
       </Key>
       <Title>2nd Lt.</Title>
       <Forenames>J.</Forenames>
-      <Text>, M.M. (Lt. and rem. seed.)</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>7299</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -359,7 +363,9 @@
       <Key>Darling</Key>
       <Title>Lt. (actg. Capt.)</Title>
       <Forenames>E.</Forenames>
-      <Text>, M.C. (rel. actg. rank)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4010</PageNumber>
     </MainItem>
     <SubItem>
@@ -372,7 +378,9 @@
       <Key>Darlington</Key>
       <Title>temp. 2nd Lt.</Title>
       <Forenames>P.</Forenames>
-      <Text>, M.C. (Adjt. and actg. Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7114</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -403,7 +411,9 @@
       <Key>Darroch</Key>
       <Title>2nd Lt.</Title>
       <Forenames>J.</Forenames>
-      <Text>. M.C. (Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7273</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -582,7 +592,9 @@
       </Key>
       <Title>Lt. (laotg. idapt.)</Title>
       <Forenames>A. G.</Forenames>
-      <Text>, M.C. (Lpl. R.) (Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6549</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -659,7 +671,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>T.</Forenames>
-      <Text>,( D.S.O. {actg. Lt.Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6764</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -670,7 +684,9 @@
       </Key>
       <Title>2nd Lt.</Title>
       <Forenames>W.</Forenames>
-      <Text>, M.C. (seed.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4127</PageNumber>
     </MainItem>
     <SubItem>
@@ -840,7 +856,9 @@
       </Key>
       <Title>Lt. (actg. Capt.)</Title>
       <Forenames>E. B.</Forenames>
-      <Text>. M.C. (retains actg. rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6873</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -873,7 +891,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>G. C</Forenames>
-      <Text>, M.C. (actg. Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7582</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1123,7 +1143,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Davis</Key>
-      <Text>. Lt. A. F. (seed, for service with W.A.F.F.)</Text>
+      <Title>Lt.</Title>
+      <Forenames>A. F.</Forenames>
+      <Text>(seed, for service with W.A.F.F.)</Text>
       <PageNumber>7133</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1358,7 +1380,9 @@
       </Key>
       <Title>Lt. (actg. Capt.)</Title>
       <Forenames>S.</Forenames>
-      <Text>, M.C. (actg.-Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7001</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1454,7 +1478,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Davy</Key>
-      <Text>. Cadet A. G. (2nd Lt.)</Text>
+      <Title>Cadet</Title>
+      <Forenames>A. G.</Forenames>
+      <Text>(2nd Lt.)</Text>
       <PageNumber>6670</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1658,14 +1684,125 @@
     <MainItem>
       <Key>Dayrell</Key>
       <Title>Capt. (Hon. Maj.J {actg. Lt.-Col.)</Title>
-      <Forenames>G. M.</Forenames>
-      <Text>de L. (rel actg.' rank)</Text>
+      <Forenames>G. M. de L</Forenames>
+      <Text>. (rel actg.' rank)</Text>
       <PageNumber>4011</PageNumber>
     </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Bourcier</Key>
+      <Title>2nd Lt.</Title>
+      <Forenames>H. A.</Forenames>
+      <Text>(Lt.)</Text>
+      <PageNumber>4426</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Candole</Key>
+      <Title>2nd Lt.</Title>
+      <Forenames>A. C. V.</Forenames>
+      <Text>(Lt.)</Text>
+      <PageNumber>6078</PageNumber>
+    </MainItem>
     <SubItem>
-      <Text>Seod. for serv. with M.G.C</Text>
+      <Text>
+        <Honour>G.C</Honour>
+      </Text>
       <PageNumber>7274</PageNumber>
     </SubItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Janasz</Key>
+      <Title>Lt.</Title>
+      <Forenames>R. A. G.</Forenames>
+      <Text>(restd. to estabt.)</Text>
+      <PageNumber>5833</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Lavison</Key>
+      <Title>Cadet</Title>
+      <Forenames>S.</Forenames>
+      <Text>(2nd Lt.)</Text>
+      <PageNumber>6670</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Lozey</Key>
+      <Title>Cadet</Title>
+      <Forenames>L.</Forenames>
+      <Text>(2nd Lt.)</Text>
+      <PageNumber>6445</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Marney</Key>
+      <Title>2nd Lt.</Title>
+      <Forenames>R. J. T.</Forenames>
+      <Text>(Lt. and rem. seed.)</Text>
+      <PageNumber>7273</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Bennington</Key>
+      <Title>2nd Lt.</Title>
+      <Forenames>D.</Forenames>
+      <Text>(Lt.)</Text>
+      <PageNumber>7032</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de St</Key>
+      <Forenames>Paer</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
+      <PageNumber>4126</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Szaramowicz</Key>
+      <Title>Lt. (actg. Capt.)</Title>
+      <Forenames>L.</Forenames>
+      <Text>iF. H. W. {rel. actg. rank of Capt.)</Text>
+      <PageNumber>5972</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Ville</Key>
+      <Title>temp. Capt.</Title>
+      <Forenames>R.</Forenames>
+      <Text>CO. (Capt.)</Text>
+      <PageNumber>7390</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Vries</Key>
+      <Title>2nd Lt.</Title>
+      <Forenames>R. F.</Forenames>
+      <Text>(Lt.)</Text>
+      <PageNumber>5851</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Wardt</Key>
+      <Title>2nd Lt.</Title>
+      <Forenames>T.</Forenames>
+      <Text>(Lt.)</Text>
+      <PageNumber>4426</PageNumber>
+    </MainItem>
   </ItemGroup>
 </Index>
 

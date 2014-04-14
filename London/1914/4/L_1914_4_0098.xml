@@ -275,7 +275,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lumb</Key>
-      <Text>. H. W. (temporary Maj.)</Text>
+      <Forenames>H. W.</Forenames>
+      <Text>(temporary Maj.)</Text>
       <PageNumber>11205</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -442,8 +443,8 @@
     <MainItem>
       <Key>Solbe</Key>
       <Title>Col.</Title>
-      <Forenames>Charles E. De L.</Forenames>
-      <Text>(to command 9th Bat.)</Text>
+      <Forenames>Charles E. De L</Forenames>
+      <Text>. (to command 9th Bat.)</Text>
       <PageNumber>7903</PageNumber>
     </MainItem>
     <SubItem>
@@ -456,7 +457,9 @@
       <Key>Somerset</Key>
       <Title>Lieut.-Col.</Title>
       <Forenames>Charles W.</Forenames>
-      <Text>, M.V.O. (to command the Cambridge Bat.)</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>8365</PageNumber>
     </MainItem>
     <SubItem>
@@ -707,7 +710,9 @@
       <Key>Denny</Key>
       <Title>Col.</Title>
       <Forenames>Henry C</Forenames>
-      <Text>, C.B. (to command 8th Bat.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>9002</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -775,14 +780,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Grigs</Key>
-      <Text>. Edward W. (temporary Oi.pt.)</Text>
+      <Forenames>Edward W.</Forenames>
+      <Text>(temporary Oi.pt.)</Text>
       <PageNumber>10664</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hillman</Key>
-      <Text>. Robert F. Cameron (temporary Lieut.)</Text>
+      <Forenames>Robert F. Cameron</Forenames>
+      <Text>(temporary Lieut.)</Text>
       <PageNumber>9502</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -797,8 +804,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Holmes</Key>
-      <Forenames>William C. L.</Forenames>
-      <Text>de Lance (temporary Capt.)</Text>
+      <Forenames>William C. L. de Lance</Forenames>
+      <Text>(temporary Capt.)</Text>
       <PageNumber>9135</PageNumber>
     </MainItem>
     <SubItem>
@@ -893,7 +900,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sutton</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, and Adjt. W. M. (temporary Capt., and to be supernumerary)</Text>
       <PageNumber>10555</PageNumber>
     </MainItem>
@@ -1106,7 +1113,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Colvin</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>, and Adjt. R. A. (temporary Capt., and to be supernumerary)</Text>
       <PageNumber>10555</PageNumber>
     </MainItem>

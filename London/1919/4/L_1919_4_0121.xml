@@ -67,7 +67,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Sudds</Key>
-      <Text>lit.-..Col. William Benjamin, O.B.E., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>15441</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -124,7 +126,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Suttie</Key>
-      <Text>Peter Edwin, Officer, Order ' of the British Empire</Text>
+      <Forenames>Peter Edwin</Forenames>
+      <Text>, Officer, Order ' of the British Empire</Text>
       <PageNumber>16099</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -152,7 +155,10 @@
       <Key>Sjwaibey</Key>
       <Title>Lt.-Col. (T./Brig.-Gen.)</Title>
       <Forenames>Wilfred Speddinig</Forenames>
-      <Text>, C.B., C.M.G., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>15444</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -160,7 +166,9 @@
     <MainItem>
       <Key>Siway-ne</Key>
       <Title>Maj. and Bt.</Title>
-      <Text>CM. Sir Eric John Eagles, K.C.M.G., C. B.. Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+      </Text>
       <PageNumber>15436</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -289,7 +297,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>Ernest Augustus</Forenames>
-      <Text>, Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>15854</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -337,7 +347,10 @@
       <Key>Tempest</Key>
       <Title>Lt.</Title>
       <Forenames>Ewart Vincent</Forenames>
-      <Text>, M.C., 'Companion, D.S.O</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>15291</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -364,7 +377,9 @@
       <Key>Teversham</Key>
       <Title>Col.</Title>
       <Forenames>Richard Kin-lock</Forenames>
-      <Text>, D.S.O., Officer, Order of the 'British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>15454</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -408,7 +423,9 @@
       </Key>
       <Title>Capt. Francis.</Title>
       <Forenames>Henry Hale</Forenames>
-      <Text>, M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>15454</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -417,11 +434,15 @@
       <Key>
         <KeyDitto>___ ——</KeyDitto>
       </Key>
-      <Text>i ___ Sir Godfrey John Vignoles, Bt., Second Secretary in . H.M. Diplomatic Service</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>12138</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Member,. Fourth Class, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>15864</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -490,7 +511,9 @@
         <KeyDitto>___ ___ -— ___</KeyDitto>
       </Key>
       <Title>Maj.</Title>
-      <Text>.(A./Lt.-Col.) Reginald, Companion, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>12228</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -531,7 +554,17 @@
     <MainItem>
       <Key>Tomling</Key>
       <Forenames>Flying Offr</Forenames>
-      <Text>. George Gibson, M.C, Member, Order of the British Empire Tomlinson, Qrmr. and Maj. Frederick, M.C, Officer, Order of the British Empire Tompson, M.aj. and Bt. Lt.-Col. .(T./Lt.-Col.) Reginald Henry Dialrymple, D.S.O., Companion, St. Michael and St. George ... Toppin, T./Miaj. (T. /Lt.-Col.) Henry, Officer, Order of the British Empire Tottenham, Percy Marmaduke, Commander, Order of the British Empire Tracy^Inglis, Cbl. Russell, Commander, Order of the British Empire ... ... Travers, Wing Comdr. James Lindsey, Officer, Order of the British Empire Treadwell, Capt. . Charles Archibald Lawrance, Officer, Order of the British Empire ... Trees, Qrmr. and Capt. Reginald Pearson, Member, Order of theBritish Empire ... Treleaven, Maj. George Willard, M.C, Companion, D.S.O. ... Tremaine, Maj. and Bt. Lt.-Col. Richard, Commander, Order of the British Empire Tremearne, .Mrs. Sybil, Member, Order of the British Empire... Trenchard, Air-Marshal Sir Hugh Montague, K.C.B., D.S.O., created Baronet ... ... Trestrail, T./Maj. Alfred Ernest Yates, Companiion, D.S.O</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, St. Michael and St. George</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>Bt</Honour>
+        <Honour>K.C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>Baronet</Honour>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>12651</PageNumber>
     </MainItem>
   </ItemGroup>

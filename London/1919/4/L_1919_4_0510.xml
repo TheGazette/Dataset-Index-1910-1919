@@ -56,7 +56,9 @@
   <ItemGroup>
     <MainItem>
       <Key>North</Key>
-      <Text>Lt. O. E. (trd. to unempld. ' Oast)</Text>
+      <Title>Lt.</Title>
+      <Forenames>O. E.</Forenames>
+      <Text>(trd. to unempld. ' Oast)</Text>
       <PageNumber>13549</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -101,7 +103,9 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>iFlyinig Offr. (A.) JH., M.C, D.F.C. (perm, comma, as Flight Lt.)</Text>
+      <Text>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>14703</PageNumber>
     </MainItem>
     <SubItem>
@@ -184,7 +188,10 @@
       </Key>
       <Title>Flight Lt. (S.)</Title>
       <Forenames>H. L.</Forenames>
-      <Text>, D.S.C., D.F.C. (granted short serv. oommn.)</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>14702</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -261,8 +268,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, 2nd Lt. B. T. P. (trd. to uhempld. list)</Text>
+      <Key>O'Brien</Key>
+      <Title>2nd Lt.</Title>
+      <Forenames>B. T. P.</Forenames>
+      <Text>(trd. to uhempld. list)</Text>
       <PageNumber>15484</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -280,8 +289,10 @@
   <KeyDitto>—___</KeyDitto>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, 2nd Lt. H. J. (trd. to umempld. list)</Text>
+      <Key>O'Brien</Key>
+      <Title>2nd Lt.</Title>
+      <Forenames>H. J.</Forenames>
+      <Text>(trd. to umempld. list)</Text>
       <PageNumber>12655</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -296,15 +307,18 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Byrae, Flyftng Offr. J. E. G. (rel. temp, commn. on return to Army duty)</Text>
+      <Key>O'Byrae</Key>
+      <Forenames>Flyftng Offr</Forenames>
+      <Text>. J. E. G. (rel. temp, commn. on return to Army duty)</Text>
       <PageNumber>15064</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Callaghan, Cadet G. T. (Hon. 2nd Lt.) ... ,</Text>
+      <Key>O'Callaghan</Key>
+      <Title>Cadet</Title>
+      <Forenames>G. T.</Forenames>
+      <Text>(Hon. 2nd Lt.) ... ,</Text>
       <PageNumber>14319</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -315,7 +329,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>M. A.</Forenames>
-      <Text>. D.F.C. (trd. to unempld. list)</Text>
+      <Text>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>15485</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -330,8 +346,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, 2nd Lt. C. J. ijtrd. to unempld. list)</Text>
+      <Key>O'Connor</Key>
+      <Title>2nd Lt.</Title>
+      <Forenames>C. J.</Forenames>
+      <Text>ijtrd. to unempld. list)</Text>
       <PageNumber>15485</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -366,14 +384,16 @@
       <Key>
         <KeyDitto>___ -</KeyDitto>
       </Key>
-      <Text>r—' ___ 2nd Lt. T. H., MM. (trd. to empld. list)</Text>
+      <Text>
+        <Honour>MM</Honour>
+      </Text>
       <PageNumber>15485</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Day, 2nd ILt. B. J. P. (trd. to uneanpld. list)</Text>
+      <Key>O'Day</Key>
+      <Text>2nd ILt. B. J. P. (trd. to uneanpld. list)</Text>
       <PageNumber>15485</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -409,7 +429,9 @@
         <KeyDitto>—___ ___</KeyDitto>
       </Key>
       <Forenames>Flying</Forenames>
-      <Text>and Obsvr. Offr. (A.) G. C, D.F.C. (granted perm, commn.)</Text>
+      <Text>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>13139</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -426,15 +448,19 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donoghue, Dep. Admin. A. (rel. appt. on completion of service)</Text>
+      <Key>O'Donoghue</Key>
+      <Title>Dep. Admin.</Title>
+      <Forenames>A.</Forenames>
+      <Text>(rel. appt. on completion of service)</Text>
       <PageNumber>14046</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donoughue, 2nd Lt. W. (trd. .to unempld. list)</Text>
+      <Key>O'Donoughue</Key>
+      <Title>2nd Lt.</Title>
+      <Forenames>W.</Forenames>
+      <Text>(trd. .to unempld. list)</Text>
       <PageNumber>14706</PageNumber>
     </MainItem>
     <SubItem>
@@ -452,15 +478,18 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Gormani Flying Offr. E. G. (Flight Lt.)</Text>
+      <Key>O'Gormani</Key>
+      <Forenames>Flying Offr</Forenames>
+      <Text>. E. G. (Flight Lt.)</Text>
       <PageNumber>15199</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hagan, Capt. H. (trd. to unempld. list)</Text>
+      <Key>O'Hagan</Key>
+      <Title>Capt.</Title>
+      <Forenames>H.</Forenames>
+      <Text>(trd. to unempld. list)</Text>
       <PageNumber>15749</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -475,8 +504,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Keefe, 2nd Lt. G. M. P. (trd. to unempld. list)</Text>
+      <Key>O'Keefe</Key>
+      <Title>2nd Lt.</Title>
+      <Forenames>G. M. P.</Forenames>
+      <Text>(trd. to unempld. list)</Text>
       <PageNumber>12789</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -661,8 +692,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Rourke, 2nd Lt. J. P. (told, to umempld. list)</Text>
+      <Key>O'Rourke</Key>
+      <Title>2nd Lt.</Title>
+      <Forenames>J. P.</Forenames>
+      <Text>(told, to umempld. list)</Text>
       <PageNumber>14317</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -775,8 +808,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Sullivaai, Asst. Admin, (actg. Adm., D.A.A.) E. (rel. appt. on completion of service)</Text>
+      <Key>O'Sullivaai</Key>
+      <Title>Asst.</Title>
+      <Forenames>Admin</Forenames>
+      <Text>, (actg. Adm., D.A.A.) E. (rel. appt. on completion of service)</Text>
       <PageNumber>13650</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -839,7 +874,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>H. L. H.</Forenames>
-      <Text>, A.F.C. (.graded for pay and a.lces. as Mag., A.)</Text>
+      <Text>
+        <Honour>A.F.C.</Honour>
+      </Text>
       <PageNumber>12789</PageNumber>
     </MainItem>
     <SubItem>
@@ -853,7 +890,10 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Flying Offr</Forenames>
-      <Text>. (A) J., D.F.C., M.M. (granted short serv. ooimmni.)</Text>
+      <Text>
+        <Honour>D.F.C.</Honour>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>13034</PageNumber>
     </MainItem>
     <SubItem>
@@ -982,7 +1022,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Oxenham</Key>
-      <Text>Maj. H. A., M.C. (trd. to unempld. list)</Text>
+      <Title>Maj.</Title>
+      <Forenames>H. A.</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>16486</PageNumber>
     </MainItem>
   </ItemGroup>

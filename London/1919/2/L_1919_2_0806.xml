@@ -50,7 +50,9 @@
     <MainItem>
       <Key>Clark</Key>
       <Forenames>A. M.</Forenames>
-      <Text>, V.D., A.D.C. (temp.)</Text>
+      <Text>
+        <Honour>A.D.C.</Honour>
+      </Text>
       <PageNumber>4432</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -71,7 +73,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sparke</Key>
-      <Text>.H. IC.,V.D</Text>
+      <Forenames>H.</Forenames>
+      <Text>IC.,V.D</Text>
       <PageNumber>6123</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -159,7 +162,9 @@
     <MainItem>
       <Key>Green</Key>
       <Forenames>T. G.</Forenames>
-      <Text>, M.B.E., V.D. (rel. temp, rank)</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>7838</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -174,8 +179,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hickman</Key>
-      <Forenames>R. St</Forenames>
-      <Text>. J. (temp.)</Text>
+      <Forenames>R. St. J</Forenames>
+      <Text>. (temp.)</Text>
       <PageNumber>7838</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -340,6 +345,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Rhe-Philipe</Key>
+      <Forenames>G. W. V.</Forenames>
+      <Text>(temp.)</Text>
+      <PageNumber>4583</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Dunk</Key>
       <Forenames>E. F</Forenames>
       <PageNumber>4580</PageNumber>
@@ -371,7 +384,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Green</Key>
-      <Text>. A. [Dale (temp.)</Text>
+      <Forenames>A.</Forenames>
+      <Text>[Dale (temp.)</Text>
       <PageNumber>4583</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -620,7 +634,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Charlton</Key>
-      <Text>. H. J. (temp.)</Text>
+      <Forenames>H. J.</Forenames>
+      <Text>(temp.)</Text>
       <PageNumber>6128</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1182,7 +1197,7 @@
       <PageNumber>7077</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Corr</Text>
+      <Text>Corr.</Text>
       <PageNumber>7077</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1398,6 +1413,14 @@
       <Forenames>J. E. L.</Forenames>
       <Text>(temp.)</Text>
       <PageNumber>7715</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Rosario</Key>
+      <Forenames>L. G.</Forenames>
+      <Text>(temp.)</Text>
+      <PageNumber>7716</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

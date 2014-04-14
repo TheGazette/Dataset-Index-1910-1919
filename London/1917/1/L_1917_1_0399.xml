@@ -36,8 +36,8 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Title>2nd Lt. (temp. Lt.)</Title>
-      <Forenames>H. I.</Forenames>
-      <Text>de B. (temp. Capt. and rem. Adjt.)</Text>
+      <Forenames>H. I. de B</Forenames>
+      <Text>. (temp. Capt. and rem. Adjt.)</Text>
       <PageNumber>3009</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -438,7 +438,9 @@
       <Key>Windsor</Key>
       <Title>Capt. (actg. Lt.-Col.)</Title>
       <Forenames>A. H.</Forenames>
-      <Text>, C.M.G. (reverts to temp, rank of Maj.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>1247</PageNumber>
     </MainItem>
     <SubItem>
@@ -451,7 +453,9 @@
       <Key>Wingate</Key>
       <Title>Capt. (temp. Maj.)</Title>
       <Forenames>G.</Forenames>
-      <Text>, M.C. (temp. Lt.-Col.) Sub. Not</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>686</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -640,7 +644,9 @@
       <Key>Wistanee</Key>
       <Title>Capt. (temp. Maj.)</Title>
       <Forenames>W. A.</Forenames>
-      <Text>, M.C. (aetg. Lt.-Col.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2470</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -900,7 +906,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>G. B. G.</Forenames>
-      <Text>, D.S.O. (Lt.-Col. temp.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>941</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1083,7 +1091,7 @@
       <PageNumber>2852</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Maj.</Text>
+      <Text>Maj</Text>
       <PageNumber>2852</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1196,7 +1204,9 @@
       <Key>Woodbridge</Key>
       <Title>Capt. (temp. Maj.)</Title>
       <Forenames>A. H.</Forenames>
-      <Text>, M.C. (rel. temp, rank)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1174</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1482,14 +1492,18 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Capt</Forenames>
-      <Text>, W. T., M.C. (precedence)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>966</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Woodthorpe</Key>
-      <Text>. Serjt. J. (2nd Lt.)</Text>
+      <Title>Serjt.</Title>
+      <Forenames>J.</Forenames>
+      <Text>(2nd Lt.)</Text>
       <PageNumber>3126</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1517,8 +1531,8 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Title>Capt.</Title>
-      <Forenames>G.</Forenames>
-      <Text>de B. (rel. conmin. on ace. of ill-health and to be Hon. Capt.) Sub. Not</Text>
+      <Forenames>G. de B</Forenames>
+      <Text>. (rel. conmin. on ace. of ill-health and to be Hon. Capt.) Sub. Not</Text>
       <PageNumber>2748</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1536,7 +1550,9 @@
       <Key>Woolley</Key>
       <Title>Lt. (temp. Capt.)</Title>
       <Forenames>G. H.</Forenames>
-      <Text>, V.C. (Capt. and rem. seed.)</Text>
+      <Text>
+        <Honour>V.C.</Honour>
+      </Text>
       <PageNumber>3127</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1661,7 +1677,9 @@
       </Key>
       <Title>Capt. (temp. Maj.)</Title>
       <Forenames>W. G.</Forenames>
-      <Text>, M.C. (Maj. and rein. Adjt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3089</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1688,7 +1706,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Wotherspoon</Key>
-      <Text>. Cadet M. M. (2nd Lt.)</Text>
+      <Title>Cadet</Title>
+      <Forenames>M. M.</Forenames>
+      <Text>(2nd Lt.)</Text>
       <PageNumber>1371</PageNumber>
     </MainItem>
   </ItemGroup>

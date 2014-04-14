@@ -25,7 +25,10 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>William</Forenames>
-      <Text>, M.D., F.R.C.S. (Edin.) (temporary Lieut.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>8375</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -43,7 +46,9 @@
     <MainItem>
       <Key>Zealand</Key>
       <Forenames>Leo</Forenames>
-      <Text>, M.D. (temporary . Lieut.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>6635</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -211,6 +216,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Launay</Key>
+      <Forenames>Charles M.</Forenames>
+      <Text>(temporary 2nd Lieut.)</Text>
+      <PageNumber>8961</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Denniston</Key>
       <Title>(temporary) 2nd Lieut.</Title>
       <Forenames>Peter</Forenames>
@@ -319,7 +332,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ginsberg</Key>
-      <Text>. Albert (temporary Capt.)</Text>
+      <Forenames>Albert</Forenames>
+      <Text>(temporary Capt.)</Text>
       <PageNumber>8521</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -462,8 +476,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hughes-Chamberlain</Key>
-      <Forenames>John L. M.</Forenames>
-      <Text>de C. (temporary 2nd Lieut.)</Text>
+      <Forenames>John L. M. de C</Forenames>
+      <Text>. (temporary 2nd Lieut.)</Text>
       <PageNumber>8961</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -770,7 +784,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Smith</Key>
-      <Text>. Robinson S. (temporary '* Lieut.)</Text>
+      <Forenames>Robinson S.</Forenames>
+      <Text>(temporary '* Lieut.)</Text>
       <PageNumber>8702</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1170,7 +1185,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Jones</Key>
-      <Text>. Herbert George (temporary Lieut.)</Text>
+      <Forenames>Herbert George</Forenames>
+      <Text>(temporary Lieut.)</Text>
       <PageNumber>8241</PageNumber>
     </MainItem>
   </ItemGroup>

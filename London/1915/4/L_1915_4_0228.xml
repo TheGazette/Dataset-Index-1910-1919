@@ -34,8 +34,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Grady, Capt. G. F. de C. (Adjt.)</Text>
+      <Key>O'Grady</Key>
+      <Title>Capt.</Title>
+      <Forenames>G. F. de C</Forenames>
+      <Text>. (Adjt.)</Text>
       <PageNumber>12178</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -103,14 +105,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Pattinson</Key>
-      <Text>A. B. (temp. Lt.)</Text>
+      <Forenames>A. B.</Forenames>
+      <Text>(temp. Lt.)</Text>
       <PageNumber>12656</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Peacock</Key>
-      <Text>Brevet Lt.-Col. P. (temp. Lt.-Col.)</Text>
+      <Title>Brevet Lt.-Col.</Title>
+      <Forenames>P.</Forenames>
+      <Text>(temp. Lt.-Col.)</Text>
       <PageNumber>10512</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -283,14 +288,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Ricketts</Key>
-      <Text>N. H. (temp. Lt.)</Text>
+      <Forenames>N. H.</Forenames>
+      <Text>(temp. Lt.)</Text>
       <PageNumber>12656</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Ridley</Key>
-      <Text>E. C. (temp. 2nd Lt.)</Text>
+      <Forenames>E. C.</Forenames>
+      <Text>(temp. 2nd Lt.)</Text>
       <PageNumber>10513</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -330,7 +337,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Ross</Key>
-      <Text>Lt.-Col. J. G. (Chief Paymaster)</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>J. G.</Forenames>
+      <Text>(Chief Paymaster)</Text>
       <PageNumber>12041</PageNumber>
     </MainItem>
     <SubItem>
@@ -351,7 +360,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ruston</Key>
-      <Text>A. W. (temp. Lt.)</Text>
+      <Forenames>A. W.</Forenames>
+      <Text>(temp. Lt.)</Text>
       <PageNumber>12452</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -383,7 +393,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Saunders</Key>
-      <Text>A. L. (temp. Lt.) -</Text>
+      <Forenames>A. L.</Forenames>
+      <Text>(temp. Lt.) -</Text>
       <PageNumber>10921</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -490,7 +501,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Skinner</Key>
-      <Text>F. W. (temp Lt.)</Text>
+      <Forenames>F. W.</Forenames>
+      <Text>(temp Lt.)</Text>
       <PageNumber>11600</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -551,7 +563,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Stewart</Key>
-      <Text>Lt. A. W. O. (temp. Capt.)</Text>
+      <Title>Lt.</Title>
+      <Forenames>A. W. O.</Forenames>
+      <Text>(temp. Capt.)</Text>
       <PageNumber>12539</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -956,14 +970,21 @@
   <ItemGroup>
     <MainItem>
       <Key>Cobbe</Key>
-      <Text>A. S., V.C., C.B., D.S.O., . A.D.C</Text>
+      <Forenames>A. S.</Forenames>
+      <Text>
+        <Honour>V.C.</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>A.D.C</Honour>
+      </Text>
       <PageNumber>10928</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Oumberlege</Key>
-      <Text>C..J</Text>
+      <Forenames>C.</Forenames>
+      <Text>.J</Text>
       <PageNumber>10928</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -999,7 +1020,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Holnian</Key>
-      <Text>H:C, C.M.G., D.S.O</Text>
+      <Forenames>H</Forenames>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>30928</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1227,8 +1252,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tucker</Key>
-      <Forenames>T. H. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>T. H. St. G</Forenames>
       <PageNumber>9773</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1469,7 +1493,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hill</Key>
-      <Text>H. A. (restoration from temp. Half-pay List to Active List)</Text>
+      <Forenames>H. A.</Forenames>
+      <Text>(restoration from temp. Half-pay List to Active List)</Text>
       <PageNumber>9774</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1569,8 +1594,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Xeill, H. J. D</Text>
+      <Key>O'Xeill</Key>
+      <Forenames>H. J. D</Forenames>
       <PageNumber>10293</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1584,14 +1609,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Oswald</Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>10293</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Pellv</Key>
-      <Text>H. R</Text>
+      <Forenames>H. R</Forenames>
       <PageNumber>10293</PageNumber>
     </MainItem>
   </ItemGroup>

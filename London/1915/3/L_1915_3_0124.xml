@@ -3,7 +3,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Nicholson</Key>
-      <Text>. Richard Le B. (temporary Capt.)</Text>
+      <Forenames>Richard Le B.</Forenames>
+      <Text>(temporary Capt.)</Text>
       <PageNumber>8489</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -406,7 +407,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bowen</Key>
-      <Text>., Ivor (to command 10th Battalion, and to be temporary Lieut.-Col.) '</Text>
+      <Text>, Ivor (to command 10th Battalion, and to be temporary Lieut.-Col.) '</Text>
       <PageNumber>7654</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -414,7 +415,9 @@
     <MainItem>
       <Key>Braithwaite</Key>
       <Forenames>William</Forenames>
-      <Text>G-, D.S.O. (Lieut.-Col.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8874</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -667,6 +670,14 @@
       <Forenames>Tom</Forenames>
       <Text>(temporary 2nd Lieut.)</Text>
       <PageNumber>7059</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Pentheny-O'Kelly</Key>
+      <Forenames>E. J.</Forenames>
+      <Text>(Maj.)</Text>
+      <PageNumber>8806</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1076,8 +1087,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Harris-St</Key>
-      <Text>. John, W. (Maj.)</Text>
+      <Key>Harris-St. John</Key>
+      <Forenames>W.</Forenames>
+      <Text>(Maj.)</Text>
       <PageNumber>8806</PageNumber>
     </MainItem>
   </ItemGroup>

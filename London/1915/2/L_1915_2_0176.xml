@@ -125,8 +125,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Kelly, 2nd Lieut. W. M. (tempo. rary Lieut.), supplementary</Text>
+      <Key>O'Kelly</Key>
+      <Title>2nd Lieut.</Title>
+      <Forenames>W. M.</Forenames>
+      <Text>(tempo. rary Lieut.), supplementary</Text>
       <PageNumber>4880</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -327,7 +329,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bayley</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>;: Joseph H., supplementary (confirmed)</Text>
       <PageNumber>6146</PageNumber>
     </MainItem>
@@ -351,8 +353,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Braithwaite</Key>
-      <Forenames>Lieut</Forenames>
-      <Text>, (on probation) Norman, supplementary (resigned)</Text>
+      <Title>Lieut, (on probation)</Title>
+      <Forenames>Norman</Forenames>
+      <Text>, supplementary (resigned)</Text>
       <PageNumber>6146</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -506,7 +509,9 @@
     <MainItem>
       <Key>Hey</Key>
       <Forenames>Wilson H. Percy</Forenames>
-      <Text>, M.B., F.R.C.S. (Capt.) supplementary</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>4538</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -585,7 +590,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lund</Key>
-      <Forenames>Lieut</Forenames>
+      <Title>Lieut</Title>
       <Text>; Sydney W., supplementary (confirmed)</Text>
       <PageNumber>3251</PageNumber>
     </MainItem>
@@ -802,7 +807,9 @@
       <Key>Rose</Key>
       <Title>Lieut.</Title>
       <Forenames>Gilbert W.</Forenames>
-      <Text>, MB., supplementary (confirmed)</Text>
+      <Text>
+        <Honour>MB</Honour>
+      </Text>
       <PageNumber>5093</PageNumber>
       <PageNumber>5758</PageNumber>
     </MainItem>

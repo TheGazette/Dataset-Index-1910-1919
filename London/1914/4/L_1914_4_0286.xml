@@ -279,14 +279,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Cowan</Key>
-      <Text>. David Laidlaw (temporary Sub-Lieut.)</Text>
+      <Forenames>David Laidlaw</Forenames>
+      <Text>(temporary Sub-Lieut.)</Text>
       <PageNumber>10919</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Cowap</Key>
-      <Text>. Sub-Lieut. Charles R. , (confirmed)</Text>
+      <Forenames>Sub-</Forenames>
+      <Text>Lieut. Charles R. , (confirmed)</Text>
       <PageNumber>11134</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -444,7 +446,9 @@
     <MainItem>
       <Key>Cust</Key>
       <Forenames>Herbert E. Purey</Forenames>
-      <Text>, C.B. (temporary Commander)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>7916</PageNumber>
     </MainItem>
     <SubItem>
@@ -588,7 +592,9 @@
     <MainItem>
       <Key>Dawes</Key>
       <Forenames>James Arthur</Forenames>
-      <Text>, M.P. (temporary Sub-Lieut.)</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -606,6 +612,14 @@
       <Forenames>Sub-</Forenames>
       <Text>Lieut. Archibald (confirmed)</Text>
       <PageNumber>10184</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Horsey</Key>
+      <Forenames>Spencer V. Y.</Forenames>
+      <Text>(temporary Commander)</Text>
+      <PageNumber>9399</PageNumber>
     </MainItem>
     <SubItem>
       <Text>Temporary Capt</Text>
@@ -966,7 +980,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dunne</Key>
-      <Text>. John (temporary SubLieut.)</Text>
+      <Forenames>John</Forenames>
+      <Text>(temporary SubLieut.)</Text>
       <PageNumber>10185</PageNumber>
     </MainItem>
     <SubItem>
@@ -985,7 +1000,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Durrant</Key>
-      <Text>. Arthur Ernest (temporary Sub-Lieut.)</Text>
+      <Forenames>Arthur Ernest</Forenames>
+      <Text>(temporary Sub-Lieut.)</Text>
       <PageNumber>10689</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -171,7 +171,9 @@
       <Key>Dowse</Key>
       <Title>Capt.</Title>
       <Forenames>J. C. A.</Forenames>
-      <Text>, M.C., M;B. (Lt., temp. Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>445</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -226,7 +228,9 @@
       <Key>Dowzer</Key>
       <Title>temp. Lt.</Title>
       <Forenames>T.</Forenames>
-      <Text>, F.R.C.S., I. (temp. Capt.)</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>1627</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -469,7 +473,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>A. P.</Forenames>
-      <Text>, M.D. (temp. Lt.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>1167</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -692,7 +698,9 @@
       <PageNumber>2973</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Capt. and Bt. Maj. J. S.,</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>676</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -779,7 +787,10 @@
       <Key>Dreyer</Key>
       <Title>Maj.</Title>
       <Forenames>J. T</Forenames>
-      <Text>, D.S.O. (Bt</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>926</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -988,7 +999,7 @@
       <PageNumber>2129</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Trd. and actg. Lt.</Text>
+      <Text>Trd. and actg. Lt</Text>
       <PageNumber>1244</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1132,7 +1143,9 @@
       </Key>
       <Title>Rev.</Title>
       <Forenames>W.</Forenames>
-      <Text>, M.C. (Asst. to Dep. Chapln. Gen. and temp, Chapln., 2nd CI.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2609</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1141,7 +1154,9 @@
       <Key>Dryden</Key>
       <Title>2nd Lt.</Title>
       <Forenames>E.</Forenames>
-      <Text>, M.C. (date of commn.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1963</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1209,9 +1224,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Boulay</Forenames>
-      <Text>, Capt. A. H. (date of prom, to MJ-)</Text>
+      <Key>Du Boulay</Key>
+      <Title>Capt.</Title>
+      <Forenames>A. H.</Forenames>
+      <Text>(date of prom, to MJ-)</Text>
       <PageNumber>562</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1225,9 +1241,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Cane</Forenames>
-      <Text>, temp. Capt. C. G. (actg. Maj.)</Text>
+      <Key>Du Cane</Key>
+      <Title>temp. Capt.</Title>
+      <Forenames>C. G.</Forenames>
+      <Text>(actg. Maj.)</Text>
       <PageNumber>3113</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1238,6 +1255,15 @@
       <Text>, temp. Lt. C. G. L. (temp. Lt. attd.)</Text>
       <PageNumber>2262</PageNumber>
     </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>du Cros</Key>
+      <Title>2nd Lt.</Title>
+      <Forenames>E. H.</Forenames>
+      <Text>(trd.)</Text>
+      <PageNumber>111</PageNumber>
+    </MainItem>
     <SubItem>
       <Text>Lt. ... 1133, i3U</Text>
       <PageNumber>4</PageNumber>
@@ -1245,17 +1271,29 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Pas</Forenames>
-      <Text>, Cadet F. M. (temp. 2nd Lt.)</Text>
+      <Key>Du Pas</Key>
+      <Title>Cadet</Title>
+      <Forenames>F. M.</Forenames>
+      <Text>(temp. 2nd Lt.)</Text>
       <PageNumber>2101</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>du Plessis</Key>
+      <Title>2nd Lt. on prob.</Title>
+      <Forenames>H. E</Forenames>
+      <Text>(eonfd.)</Text>
+      <PageNumber>2357</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>DuPort</Key>
       <Title>Co.</Title>
-      <Text>-Serjt.-Maj. L. (2nd Lt.) :.. Du Pre, Capt. F. J., D.S.O. (temp Maj.j</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>2123</PageNumber>
     </MainItem>
     <SubItem>
@@ -1267,10 +1305,20 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Sautoy</Forenames>
-      <Text>, Maj. E. F. (Workshop Offr.) (Sub. Not.)</Text>
+      <Key>Du Sautoy</Key>
+      <Title>Maj.</Title>
+      <Forenames>E. F.</Forenames>
+      <Text>(Workshop Offr.) (Sub. Not.)</Text>
       <PageNumber>2023</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>du Vallon</Key>
+      <Title>temp. Capt.</Title>
+      <Forenames>H. C. de J</Forenames>
+      <Text>. (temp. Capt., attd.)</Text>
+      <PageNumber>60</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1376,7 +1424,9 @@
       <Key>Dudley-Ward</Key>
       <Title>2nd Lt.</Title>
       <Forenames>C. H.</Forenames>
-      <Text>, M.C. (rel actg. rank of Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2335</PageNumber>
     </MainItem>
     <SubItem>

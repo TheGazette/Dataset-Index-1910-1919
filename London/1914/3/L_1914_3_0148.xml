@@ -74,9 +74,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Lanty</Forenames>
-      <Text>, Harry Wm. (Hon. Capt.)</Text>
+      <Key>De Lanty</Key>
+      <Forenames>Harry Wm</Forenames>
+      <Text>. (Hon. Capt.)</Text>
       <PageNumber>5455</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -98,8 +98,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, George Patrick (Hon. Lieut.) ...</Text>
+      <Key>O'Brien</Key>
+      <Forenames>George Patrick</Forenames>
+      <Text>(Hon. Lieut.) ...</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -132,8 +133,7 @@
     <MainItem>
       <Key>Murphy</Key>
       <Title>Hon. Capt.</Title>
-      <Forenames>Daniel O</Forenames>
-      <Text>'Connell</Text>
+      <Forenames>Daniel O'Connell</Forenames>
       <PageNumber>5559</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -149,15 +149,17 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, William (Hon. Capt.) ...</Text>
+      <Key>O'Brien</Key>
+      <Forenames>William</Forenames>
+      <Text>(Hon. Capt.) ...</Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donnell, Charles (Hon. Capt.)...</Text>
+      <Key>O'Donnell</Key>
+      <Forenames>Charles</Forenames>
+      <Text>(Hon. Capt.)...</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -235,14 +237,18 @@
   <ItemGroup>
     <MainItem>
       <Key>Stirling</Key>
-      <Text>: Zetland, Most Hon. The Marquis of, P.C., K.T</Text>
+      <Text>
+        <Honour>P.C.</Honour>
+      </Text>
       <PageNumber>6895</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Surrey</Key>
-      <Text>: Elles, Lieut.-Gen. Sir Edmond Roche, G.C.LE., K.C.B</Text>
+      <Text>
+        <Honour>K.C.B</Honour>
+      </Text>
       <PageNumber>7395</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -250,14 +256,18 @@
   <ItemGroup>
     <MainItem>
       <Key>Bedford</Key>
-      <Text>: Deane, Major James, C.M.G</Text>
+      <Text>
+        <Honour>C.M.G</Honour>
+      </Text>
       <PageNumber>6308</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Berwick</Key>
-      <Text>: Boswall, Sir George Reginald Houstoun, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>5763</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -285,7 +295,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Southampton</Key>
-      <Text>: Ashley, Major Wilfred William, M.P</Text>
+      <Text>
+        <Honour>M.P</Honour>
+      </Text>
       <PageNumber>6209</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -308,7 +320,9 @@
     <MainItem>
       <Key>Yorkshire</Key>
       <Title>(North Riding)</Title>
-      <Text>: Helmsley, Rt. Hon. Charles Wm. Reginald Viscount, M.P</Text>
+      <Text>
+        <Honour>M.P</Honour>
+      </Text>
       <PageNumber>6079</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -325,7 +339,9 @@
     <MainItem>
       <Key>Ballard</Key>
       <Forenames>George Alexander</Forenames>
-      <Text>, C.B</Text>
+      <Text>
+        <Honour>C.B</Honour>
+      </Text>
       <PageNumber>6794</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -358,7 +374,10 @@
       <Key>Callaghan</Key>
       <Title>Admiral Sir</Title>
       <Forenames>George Astley</Forenames>
-      <Text>, G.C.V.O., K.C.B. (First and Principal)</Text>
+      <Text>
+        <Honour>G.C.V.O.</Honour>
+        <Honour>K.C.B.</Honour>
+      </Text>
       <PageNumber>7293</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -367,7 +386,9 @@
       <Key>Halsey</Key>
       <Title>Capt.</Title>
       <Forenames>Lionel</Forenames>
-      <Text>, C.M.G</Text>
+      <Text>
+        <Honour>C.M.G</Honour>
+      </Text>
       <PageNumber>7478</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -376,7 +397,9 @@
       <Key>Henniker-Hnghan</Key>
       <Title>Capt. Sir</Title>
       <Forenames>Arthur John</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>7396</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -384,7 +407,9 @@
     <MainItem>
       <Key>Keyes</Key>
       <Forenames>Commodore Roger J. Brown-</Forenames>
-      <Text>low, C.B., M.V.O -</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -400,7 +425,9 @@
     <MainItem>
       <Key>Backhouse</Key>
       <Forenames>Roger R. Charles</Forenames>
-      <Text>, C.B</Text>
+      <Text>
+        <Honour>C.B</Honour>
+      </Text>
       <PageNumber>7293</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -409,7 +436,9 @@
     <MainItem>
       <Key>Chapman</Key>
       <Forenames>Cuthbert Godfrey</Forenames>
-      <Text>, M.V.O</Text>
+      <Text>
+        <Honour>M.V.O</Honour>
+      </Text>
       <PageNumber>5450</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -582,7 +611,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Argyll</Key>
-      <Text>: Breadaibane, Marquess of, K.G</Text>
+      <Text>
+        <Honour>K.G</Honour>
+      </Text>
       <PageNumber>6494</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -611,7 +642,9 @@
       <Key>Poe</Key>
       <Title>Sir</Title>
       <Forenames>Edmund Samuel</Forenames>
-      <Text>, G.C.V.O., K.C.B</Text>
+      <Text>
+        <Honour>G.C.V.O.</Honour>
+      </Text>
       <PageNumber>7293</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -621,7 +654,10 @@
       <Key>Bayly</Key>
       <Title>Sir</Title>
       <Forenames>Lewis</Forenames>
-      <Text>, K.C.B.,C.V.O</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+        <Honour>C.V.O</Honour>
+      </Text>
       <PageNumber>7294</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -643,7 +679,9 @@
     <MainItem>
       <Key>Limpus</Key>
       <Forenames>Arthur Henry</Forenames>
-      <Text>, C.B. . (absorbed into the establishment)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>7478</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -652,7 +690,9 @@
       <Key>Patey</Key>
       <Title>Sir</Title>
       <Forenames>George Edwin</Forenames>
-      <Text>, K.C.V.O. (Supy. to the establishment) ...</Text>
+      <Text>
+        <Honour>K.C.V.O.</Honour>
+      </Text>
       <PageNumber>ibid.</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -661,7 +701,9 @@
     <MainItem>
       <Key>Fisher</Key>
       <Forenames>William Blake</Forenames>
-      <Text>, C.B</Text>
+      <Text>
+        <Honour>C.B</Honour>
+      </Text>
       <PageNumber>6794</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -747,15 +789,16 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. John, Arthur Beauchamp ...</Text>
+      <Key>St. John</Key>
+      <Forenames>Arthur Beauchamp</Forenames>
+      <Text>...</Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Sedgwick</Key>
-      <Text>. Cyril Gordon</Text>
+      <Forenames>Cyril Gordon</Forenames>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>

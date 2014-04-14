@@ -355,8 +355,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Riordan, 2nd Lieut. Donald S. C. dE. O'C. (correction of date)</Text>
+      <Key>O'Riordan</Key>
+      <Title>2nd Lieut.</Title>
+      <Forenames>Donald S. C.</Forenames>
+      <Text>dE. O'C. (correction of date)</Text>
       <PageNumber>3822</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -542,7 +544,9 @@
       <Key>Eccles</Key>
       <Title>Col. Sir</Title>
       <Forenames>Robert</Forenames>
-      <Text>, Bart, (temporary Lieut.-Col.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>5857</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -874,7 +878,9 @@
     <MainItem>
       <Key>Farmer</Key>
       <Forenames>Donald Dickson</Forenames>
-      <Text>, V.C. (Qrmr. and temporary Hon. Lieut.)</Text>
+      <Text>
+        <Honour>V.C.</Honour>
+      </Text>
       <PageNumber>5957</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1054,7 +1060,9 @@
       <Key>Barclay</Key>
       <Title>Lieut.-Col. and Hon. Col.</Title>
       <Forenames>Hugh G.</Forenames>
-      <Text>, M.V.O. (temporary Maj.)</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>5503</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1063,7 +1071,9 @@
       <Key>Berney</Key>
       <Title>2nd Lieut. Sir</Title>
       <Forenames>Thomas R.</Forenames>
-      <Text>, Bart, (temporary Lieut.)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>5957</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1149,7 +1159,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Gilbert</Key>
-      <Text>. Capt. and Hon. Maj. (temporary Capt.) A. A. (correc tion)</Text>
+      <Title>Capt. and Hon. Maj. (temporary Capt.)</Title>
+      <Forenames>A. A.</Forenames>
+      <Text>(correc tion)</Text>
       <PageNumber>5000</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1173,7 +1185,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hornor</Key>
-      <Text>. Ronald Fortescue (2nd Lieut.)</Text>
+      <Forenames>Ronald Fortescue</Forenames>
+      <Text>(2nd Lieut.)</Text>
       <PageNumber>3925</PageNumber>
     </MainItem>
   </ItemGroup>

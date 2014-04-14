@@ -27,7 +27,9 @@
       <Key>Lucas</Key>
       <Title>Lt.-Col. (temp. Brig.-Gen.)</Title>
       <Forenames>F. G.</Forenames>
-      <Text>, D.S.O. (Brig. Comdr.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>12241</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -54,7 +56,9 @@
       <Key>Maclean</Key>
       <Title>Capt.</Title>
       <Forenames>G. G. C.</Forenames>
-      <Text>(A.D.C.)</Text>
+      <Text>
+        <Honour>A.D.C.</Honour>
+      </Text>
       <PageNumber>12242</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -198,7 +202,9 @@
       <Key>Peek</Key>
       <Title>Capt. Sir</Title>
       <Forenames>W.</Forenames>
-      <Text>(A.D.C.)</Text>
+      <Text>
+        <Honour>A.D.C.</Honour>
+      </Text>
       <PageNumber>12243</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -207,7 +213,9 @@
       <Key>Rawson</Key>
       <Title>Capt.</Title>
       <Forenames>C. D.</Forenames>
-      <Text>, D.S.O. (Staff Capt.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>12244</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -237,17 +245,10 @@
       <Text>(Maj.-Gen.)</Text>
       <PageNumber>12244</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___</KeyDitto>
-      </Key>
-      <Title>(temp.) Brig.-Gen.</Title>
-      <Forenames>J. C.</Forenames>
-      <Text>(Brig.' Gen.)</Text>
+    <SubItem>
+      <Text>(temp.) Brig.-Gen. J. C. (Brig.' Gen.)</Text>
       <PageNumber>12244</PageNumber>
-    </MainItem>
+    </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
@@ -299,7 +300,9 @@
       <Key>Spain</Key>
       <Title>Lt.</Title>
       <Forenames>G. A. R.</Forenames>
-      <Text>(appt. A.D.C.)</Text>
+      <Text>
+        <Honour>A.D.C.</Honour>
+      </Text>
       <PageNumber>12242</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -314,9 +317,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Forenames>John</Forenames>
-      <Text>, Maj. (temp. Lt.-Col.) R. S. (Asst. Qr.-Mr.-Gen.)</Text>
+      <Key>St. John</Key>
+      <Title>Maj. (temp. Lt.-Col.)</Title>
+      <Forenames>R. S.</Forenames>
+      <Text>(Asst. Qr.-Mr.-Gen.)</Text>
       <PageNumber>12242</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -396,8 +400,8 @@
     <MainItem>
       <Key>Wellborne</Key>
       <Title>Capt.</Title>
-      <Forenames>C.</Forenames>
-      <Text>de M. (Staff Capt.]</Text>
+      <Forenames>C. de M</Forenames>
+      <Text>. (Staff Capt.]</Text>
       <PageNumber>12242</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -471,7 +475,10 @@
       <Key>Goodbody</Key>
       <Title>Maj.</Title>
       <Forenames>C. M.</Forenames>
-      <Text>, D.S.O. (Bt.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>12554</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -480,7 +487,10 @@
       <Key>Horton</Key>
       <Title>Maj.</Title>
       <Forenames>J. H.</Forenames>
-      <Text>, D.S.O., M.B. (Bt.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>12555</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -488,7 +498,9 @@
     <MainItem>
       <Key>Hugo</Key>
       <Forenames>J. H.</Forenames>
-      <Text>, D.S.O., M.B</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>11168</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -520,7 +532,9 @@
     <MainItem>
       <Key>Buokley</Key>
       <Forenames>H. C</Forenames>
-      <Text>, M.D., F.E.C.S.E</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>11745</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -568,7 +582,9 @@
     <MainItem>
       <Key>MacWatters</Key>
       <Forenames>M. R. C</Forenames>
-      <Text>, M.B., F.R.C.S</Text>
+      <Text>
+        <Honour>F.R.C.S</Honour>
+      </Text>
       <PageNumber>11745</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -962,34 +978,23 @@
       <Forenames>D. N</Forenames>
       <PageNumber>11982</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>I. D .</Forenames>
+    <SubItem>
+      <Text>I. D</Text>
       <PageNumber>11982</PageNumber>
-    </MainItem>
+    </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>
-        <KeyDitto>— ___ ___</KeyDitto>
+        <KeyDitto>—</KeyDitto>
       </Key>
       <Forenames>M. B</Forenames>
       <PageNumber>11982</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
-      </Key>
-      <Forenames>S. C. S.</Forenames>
-      <Text>(rel. of temp, rank)</Text>
+    <SubItem>
+      <Text>S. C. S. (rel. of temp, rank)</Text>
       <PageNumber>11170</PageNumber>
-    </MainItem>
+    </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
@@ -1043,15 +1048,10 @@
       <Forenames>L. C</Forenames>
       <PageNumber>11982</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___ ___</KeyDitto>
-      </Key>
-      <Forenames>T. E</Forenames>
+    <SubItem>
+      <Text>T. E</Text>
       <PageNumber>11982</PageNumber>
-    </MainItem>
+    </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
@@ -1159,15 +1159,10 @@
       <Forenames>H. P</Forenames>
       <PageNumber>11982</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>P. C</Forenames>
+    <SubItem>
+      <Text>P. C</Text>
       <PageNumber>11982</PageNumber>
-    </MainItem>
+    </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
@@ -1451,6 +1446,5 @@
       <PageNumber>11168</PageNumber>
     </MainItem>
   </ItemGroup>
-  <KeyDitto>___ ___ ___</KeyDitto>
 </Index>
 

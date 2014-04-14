@@ -960,7 +960,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Barstow</Key>
-      <Text>. A. E</Text>
+      <Forenames>A. E.</Forenames>
       <PageNumber>4080</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1074,8 +1074,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hare</Key>
-      <Forenames>I. L. O</Forenames>
-      <Text>'H</Text>
+      <Forenames>I. L. O'H</Forenames>
       <PageNumber>4080</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1368,7 +1367,7 @@
   <ItemGroup>
     <MainItem>
       <Key>B</Key>
-      <Text>.ittye, T. H</Text>
+      <Text>ittye, T. H</Text>
       <PageNumber>___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1467,6 +1466,14 @@
       <Forenames>A. M.</Forenames>
       <Text>.. .. .. ..</Text>
       <PageNumber>___ ___</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Burgh</Key>
+      <Forenames>T.</Forenames>
+      <Text>..</Text>
+      <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1597,7 +1604,9 @@
       <Key>Leslie</Key>
       <Title>Sir</Title>
       <Forenames>N. R. A. D.</Forenames>
-      <Text>, Bart</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>3074</PageNumber>
     </MainItem>
   </ItemGroup>

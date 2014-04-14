@@ -50,7 +50,7 @@
       <PageNumber>1048</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Rel. commn.</Text>
+      <Text>Rel. commn</Text>
       <PageNumber>2360</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -497,8 +497,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cobbold</Key>
-      <Forenames>H. St</Forenames>
-      <Text>. G. (temp. Capt.)</Text>
+      <Forenames>H. St. G</Forenames>
+      <Text>. (temp. Capt.)</Text>
       <PageNumber>2964</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -878,7 +878,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Corbett</Key>
-      <Text>. P. B. (temp. 2nd Lt.)</Text>
+      <Forenames>P. B.</Forenames>
+      <Text>(temp. 2nd Lt.)</Text>
       <PageNumber>2617</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -932,7 +933,7 @@
       <PageNumber>2839</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Sub. Not.</Text>
+      <Text>Sub. Not</Text>
       <PageNumber>3125</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1205,7 +1206,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cross</Key>
-      <Text>. D. C. (temp. 2nd Lt.)</Text>
+      <Forenames>D. C.</Forenames>
+      <Text>(temp. 2nd Lt.)</Text>
       <PageNumber>1453</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1287,7 +1289,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cubitt</Key>
-      <Text>.C. F. (temp. Capt.)</Text>
+      <Forenames>C. F.</Forenames>
+      <Text>(temp. Capt.)</Text>
       <PageNumber>2964</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1809,9 +1812,20 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Salis</Forenames>
-      <Text>, R. F. (temp. 2nd Lt.)</Text>
+      <Key>de Hoghton</Key>
+      <Title>Lt.-Col. Sir</Title>
+      <Forenames>J.</Forenames>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
+      <PageNumber>2214</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Salis</Key>
+      <Forenames>R. F.</Forenames>
+      <Text>(temp. 2nd Lt.)</Text>
       <PageNumber>2267</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1889,7 +1903,9 @@
     <MainItem>
       <Key>Dewar</Key>
       <Forenames>T. W.</Forenames>
-      <Text>, M.D., CM., F.R.C.P.E. (temp. Lt. and Med. Offr.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>3125</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1915,7 +1931,9 @@
       <Key>Dick</Key>
       <Title>Col.</Title>
       <Forenames>A. C. D.</Forenames>
-      <Text>, C.B. (temp. Lt.Col. and County Commdt.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>1443</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1991,7 +2009,9 @@
     <MainItem>
       <Key>Dixey</Key>
       <Forenames>H. E.</Forenames>
-      <Text>, M.D. (temp. Capt. and Medical Offr.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>2839</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -214,8 +214,8 @@
   <ItemGroup>
     <MainItem>
       <Key>East</Key>
-      <Forenames>Indian Railway Co</Forenames>
-      <Text>., sinking fund notice</Text>
+      <Forenames>Indian Railway</Forenames>
+      <Text>Co., sinking fund notice</Text>
       <PageNumber>8040</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -314,7 +314,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ford</Key>
-      <Text>Ambrose, change of name by deed poll to Ambrose Ford Rooke</Text>
+      <Forenames>Ambrose</Forenames>
+      <Text>, change of name by deed poll to Ambrose Ford Rooke</Text>
       <PageNumber>7122</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -381,8 +382,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Galbreath</Key>
-      <Forenames>Bros</Forenames>
-      <Text>., transfer of business to John Stevenson, M.D.,-C.M</Text>
+      <Title>Bros.</Title>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>9361</PageNumber>
     </MainItem>
   </ItemGroup>

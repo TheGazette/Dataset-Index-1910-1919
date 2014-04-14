@@ -203,6 +203,7 @@
     </MainItem>
     <SubItem>
       <Text>
+        <Honour>D.S.O.</Honour>
         <PageNumber>2756</PageNumber>
       </Text>
       <PageNumber>818</PageNumber>
@@ -247,7 +248,9 @@
       <Key>Barns</Key>
       <Title>temp. 2nd Lt.</Title>
       <Forenames>T.</Forenames>
-      <Text>M.C. (Lt^ rection of name)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>444</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -316,7 +319,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Barr</Key>
-      <Text>. Cadet C. B. (temp. 2nd Lt</Text>
+      <Title>Cadet</Title>
+      <Forenames>C. B.</Forenames>
+      <Text>(temp. 2nd Lt</Text>
       <PageNumber>2126</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -363,7 +368,7 @@
       <PageNumber>2382</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>temo. 2rid, Lt. H. F. '(temr,.</Text>
+      <Text>temo. 2rid, Lt. H. F. '(temr,</Text>
       <PageNumber>3119</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -408,7 +413,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Barrack</Key>
-      <Text>. Lce.-Sjt. A. M. (temp</Text>
+      <Title>Lce.</Title>
+      <Text>-Sjt. A. M. (temp</Text>
       <PageNumber>1041</PageNumber>
     </MainItem>
     <SubItem>
@@ -512,7 +518,10 @@
       </Key>
       <Title>Col. (temp. Brig.-Gen.)</Title>
       <Forenames>W. C</Forenames>
-      <Text>, C.B., D.S.O. (temp. Maj.-Gen.)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>846</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -586,7 +595,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>B. B.</Forenames>
-      <Text>, , M.C. (actg. Maj.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2597</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -696,7 +707,9 @@
       </Key>
       <Title>temp. Lt.</Title>
       <Forenames>J. H. P. B.</Forenames>
-      <Text>, M.D. (temp. Capt.)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>1627</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -774,7 +787,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>W. E.</Forenames>
-      <Text>. F.R.C.S. .(temp. ILt.)</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>1043</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -792,7 +807,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Barrett-Haslewood</Key>
-      <Text>. Cadet H. A. (temp. 2nd Lt.)</Text>
+      <Title>Cadet</Title>
+      <Forenames>H. A.</Forenames>
+      <Text>(temp. 2nd Lt.)</Text>
       <PageNumber>2263</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -912,7 +929,9 @@
       </Key>
       <Title>2nd Lt.</Title>
       <Forenames>J. B.</Forenames>
-      <Text>, M.C. (temp. Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2727</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1021,7 +1040,9 @@
       <Key>Barry</Key>
       <Title>Capt.</Title>
       <Forenames>A. G.</Forenames>
-      <Text>, M.C. (temp</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>681</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1137,7 +1158,9 @@
         <KeyDitto>-—</KeyDitto>
       </Key>
       <Title>Cadet</Title>
-      <Text>iP. L. (temp. 2nd Lt.) ... Barstow, 2nd Lt. J. A., M.C. (actg</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>605</PageNumber>
     </MainItem>
     <SubItem>
@@ -1161,7 +1184,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Title>2nd Lt.</Title>
-      <Text>) Capt. W. A. T., M.C. (aotg</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2516</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1169,8 +1194,8 @@
     <MainItem>
       <Key>Barter</Key>
       <Title>Col.</Title>
-      <Forenames>B. St</Forenames>
-      <Text>. J. (Hon. Brig.-</Text>
+      <Forenames>B. St. J</Forenames>
+      <Text>. (Hon. Brig.-</Text>
       <PageNumber>3084</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1198,11 +1223,15 @@
       <Key>Bartholomew</Key>
       <Title>Maj.</Title>
       <Forenames>A. W.</Forenames>
-      <Text>, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>16</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>(Bt. Lt.-Col. for Dist. Serv.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>285</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1244,7 +1273,9 @@
       <Key>Bartlett</Key>
       <Title>Capt. (temp. Maj.)</Title>
       <Forenames>A. J. N.</Forenames>
-      <Text>i(Bt. Maj. for Dist. Serv.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>18</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1255,7 +1286,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>B. S.</Forenames>
-      <Text>, D.S.O. (actg. Lt.-</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>1472</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1422,7 +1455,10 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>C. W.</Forenames>
-      <Text>, C.M.G., D.S.O. (temp. Lt.-Col.)</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>1957</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -193,7 +193,7 @@
       <PageNumber>1130</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Temp. Lt.</Text>
+      <Text>Temp. Lt</Text>
       <PageNumber>2349</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -527,7 +527,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Avent</Key>
-      <Text>. temp. 2nd Lt. J. G. (temp. Lt.)</Text>
+      <Title>temp. 2nd Lt.</Title>
+      <Forenames>J. G.</Forenames>
+      <Text>(temp. Lt.)</Text>
       <PageNumber>2760</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -685,7 +687,9 @@
       <Key>Aylward</Key>
       <Title>temp. Lt.</Title>
       <Forenames>R. N.</Forenames>
-      <Text>, M.C.. (actg. Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>675</PageNumber>
     </MainItem>
     <SubItem>
@@ -816,7 +820,7 @@
       <PageNumber>1130</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Rel. commn. on ace. of illhealth contracted on active service, and to be Hon. 2nd Lt.</Text>
+      <Text>Rel. commn. on ace. of illhealth contracted on active service, and to be Hon. 2nd Lt</Text>
       <PageNumber>1130</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1097,7 +1101,11 @@
       <Key>Bagwell</Key>
       <Title>Capt.</Title>
       <Forenames>J.</Forenames>
-      <Text>, M.V.O., M.C. (Bt. Maj. for Dist. Serv.)</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>18</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1147,7 +1155,9 @@
       </Key>
       <Title>temp. Lt.</Title>
       <Forenames>B. F.</Forenames>
-      <Text>, M.C. (temp. Capt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1166</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1227,7 +1237,7 @@
       <PageNumber>1862</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Date of promn. to Lt.</Text>
+      <Text>Date of promn. to Lt</Text>
       <PageNumber>3070</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1249,7 +1259,9 @@
       </Key>
       <Title>Maj. (temp. iLt.-iCol.)</Title>
       <Forenames>F. G. G.</Forenames>
-      <Text>(Bt. Lt.-Col. for Val. Servs.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>926</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1286,7 +1298,7 @@
       <PageNumber>1030</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Su!b. Not.</Text>
+      <Text>Su!b. Not</Text>
       <PageNumber>1625</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1377,7 +1389,10 @@
         <KeyDitto>___</KeyDitto>
       </Key>
       <Title>Maj.</Title>
-      <Text>(temp. Lt.-CoLj J. H., D.S.O., Shrops. L.I. (Bt. Lt.-Col. for Diet. Serv.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>16</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1388,7 +1403,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>J. H.</Forenames>
-      <Text>, R.E. (Bt. Lt.-Col. for Val. Servs.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>926</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1442,7 +1459,9 @@
       </Key>
       <Title>2nd Lt.</Title>
       <Forenames>M. A.</Forenames>
-      <Text>, M.C. (Adjt. and actg. Lt.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1861</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1525,7 +1544,9 @@
       </Key>
       <Title>temp. Lt.</Title>
       <Forenames>D. M.</Forenames>
-      <Text>, M.D. (temp. Capt.) ,</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>1863</PageNumber>
     </MainItem>
   </ItemGroup>

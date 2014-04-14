@@ -13,7 +13,10 @@
     <MainItem>
       <Key>Sykes</Key>
       <Title>Maij.</Title>
-      <Text>-Gen. Sir Frederick Hugh, K.C.B., C.M.G.. Knight Grand Cross, Order of the British Empire</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>10763</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -24,7 +27,10 @@
       </Key>
       <Title>Lt.-Col. (T./Brdg.-Gen.) Sir</Title>
       <Forenames>Percy Molesworth</Forenames>
-      <Text>, K.C.LE, C.M.G., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>11467</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -44,7 +50,9 @@
       </Key>
       <Title>Maj. (T.JU.-Col.)</Title>
       <Forenames>Mark</Forenames>
-      <Text>, D.S.O., Coimpanion, Order of the Indian Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>11458</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -79,7 +87,9 @@
       <Key>Tate</Key>
       <Title>Col.</Title>
       <Forenames>Alan Edmondson</Forenames>
-      <Text>, C.M.G;, Companion, Star of India ,</Text>
+      <Text>
+        <Honour>Companion, Star of India</Honour>
+      </Text>
       <PageNumber>11459</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -110,7 +120,9 @@
       <Key>Taylor</Key>
       <Title>Miss</Title>
       <Forenames>Alice Maud Rttwson</Forenames>
-      <Text>, M.B.E. Royal Red Cross, 2nd CI. '</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>9828</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -178,7 +190,9 @@
       <Key>Tennyson-Smith</Key>
       <Title>Mrs.</Title>
       <Forenames>Catherine Maud</Forenames>
-      <Text>King, A.R.R.C., Royal Red Cross, ltet CI. ,</Text>
+      <Text>
+        <Honour>A.R.R.C.</Honour>
+      </Text>
       <PageNumber>10047</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -223,7 +237,9 @@
       <Key>Thomas</Key>
       <Title>Surg. Comdr.</Title>
       <Forenames>Arthur Richard</Forenames>
-      <Text>, F.R.C.S., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>10634</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -277,7 +293,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>William James</Forenames>
-      <Text>, Kt., created Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>8221</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -336,7 +354,11 @@
       </Key>
       <Title>Miss</Title>
       <Forenames>Nellie</Forenames>
-      <Text>, Royal' Red Cross, 2nd CI. ... gegg Thomson, Maj. and Bt. Lt.-Col. (T./Dt.-Col.) Alexander Guthrie, D.S.O., Companion, Saint Michael and Saint George (corr.)</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Saint Michael and Saint George</Honour>
+      </Text>
       <PageNumber>8983</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -347,7 +369,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>Graeme</Forenames>
-      <Text>, K.C.B., Colonial Secretary of the Island of Ceylon</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+      </Text>
       <PageNumber>9858</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -373,7 +397,9 @@
       <Key>Thring</Key>
       <Title>Oomdr.</Title>
       <Forenames>Frank John</Forenames>
-      <Text>, O.B.E., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>8384</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -382,7 +408,9 @@
       <Key>Thursfield</Key>
       <Title>Payr.</Title>
       <Forenames>Lt-Comdr</Forenames>
-      <Text>. (T./ Payr.-Ooandr.) Raymond Spencer, Companion, St. Michael and St. George</Text>
+      <Text>
+        <Honour>Companion, St. Michael and St. George</Honour>
+      </Text>
       <PageNumber>9831</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -400,7 +428,9 @@
       <Key>Titbits</Key>
       <Title>Capt.</Title>
       <Forenames>Charles</Forenames>
-      <Text>, M.V.O., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>8942</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -446,7 +476,9 @@
       <Key>Tobin</Key>
       <Title>Maj.</Title>
       <Forenames>Harry Walter</Forenames>
-      <Text>, D.S.O., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>11462</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -462,7 +494,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Todd</Key>
-      <Text>Miss Jessie Anne, Royal Red Cross, 2nd 01</Text>
+      <Title>Miss</Title>
+      <Forenames>Jessie Anne</Forenames>
+      <Text>, Royal Red Cross, 2nd 01</Text>
       <PageNumber>10052</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -478,7 +512,12 @@
   <ItemGroup>
     <MainItem>
       <Key>Tomlin</Key>
-      <Text>Capt. George Napier, M.V.O., Companion, St. Michael and St. George</Text>
+      <Title>Capt.</Title>
+      <Forenames>George Napier</Forenames>
+      <Text>
+        <Honour>M.V.O.</Honour>
+        <Honour>Companion, St. Michael and St. George</Honour>
+      </Text>
       <PageNumber>10197</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -496,7 +535,9 @@
       <Key>TonsonHRye</Key>
       <Title>Maj. (A./Lt.-Col.)</Title>
       <Forenames>Hubert</Forenames>
-      <Text>'Bernard, D.S.O., Bar to D.S.O,</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>9676</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -521,7 +562,9 @@
     <MainItem>
       <Key>Torrie</Key>
       <Title>Maj.</Title>
-      <Text>.(A./Lt.-Col.) Olaud . Jameson, D.S.O., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>11462</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -608,8 +651,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Treowen</Key>
-      <Forenames>The</Forenames>
-      <Text>Lord, C.B., O.M.G.. Knight of Grace, St. John of Jerusalem</Text>
+      <Title>The Lord</Title>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>Knight of Grace, St. John of Jerusalem</Honour>
+      </Text>
       <PageNumber>10082</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -627,7 +673,10 @@
       <Key>Trewby</Key>
       <Title>Capt.</Title>
       <Forenames>George</Forenames>
-      <Text>, D.S.O., Companion, St. Michael and St. George</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, St. Michael and St. George</Honour>
+      </Text>
       <PageNumber>8735</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -645,7 +694,9 @@
       <Key>Tudway</Key>
       <Title>Lt.</Title>
       <Forenames>Lionel Charles Paul</Forenames>
-      <Text>, D.S.C., Companion, D.lS.O</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>8945</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -679,7 +730,9 @@
       <Key>Turner</Key>
       <Title>Capt. (T./Lt. Col.)</Title>
       <Forenames>Reginald</Forenames>
-      <Text>, D.S.O., Bar to D.S.O</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>9676</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -721,14 +774,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Vaman</Key>
-      <Text>Vishnu Phadke, Unofficial Member of the Legislative Council of East Africa Protectorate</Text>
+      <Forenames>Vishnu Phadke</Forenames>
+      <Text>, Unofficial Member of the Legislative Council of East Africa Protectorate</Text>
       <PageNumber>10652</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>De Weyer</Forenames>
+      <Key>Van De</Key>
+      <Forenames>Weyer</Forenames>
       <Text>, Miss Joan, Royal (Red Cross, 2nd CI</Text>
       <PageNumber>10052</PageNumber>
     </MainItem>
@@ -737,7 +791,9 @@
     <MainItem>
       <Key>Vanrenen</Key>
       <Title>Lt.</Title>
-      <Text>Col. George Rlainer, Companion, D.S.O. ... H</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>1458</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -745,7 +801,10 @@
     <MainItem>
       <Key>Varley</Key>
       <Forenames>T.</Forenames>
-      <Text>/Capt. ' Oswald, M.C., Companion, D.S.O</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>9683</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -860,7 +919,9 @@
     <MainItem>
       <Key>Waddilove</Key>
       <Forenames>Joshua Kelley</Forenames>
-      <Text>, Knighted ,</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>10219</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -887,7 +948,10 @@
       <Key>Wadswortlh</Key>
       <Title>Maj.</Title>
       <Forenames>William Robert</Forenames>
-      <Text>, M.C., Companion, D.S.O</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>9685</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -265,8 +265,8 @@
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
       <Title>2nd Lt.</Title>
-      <Forenames>A. St</Forenames>
-      <Text>. C. (temp. Lt.)</Text>
+      <Forenames>A. St. C</Forenames>
+      <Text>. (temp. Lt.)</Text>
       <PageNumber>11883</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -341,7 +341,7 @@
       <PageNumber>10002</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Temp. Lt</Text>
+      <Text>Temp. Lt.</Text>
       <PageNumber>12676</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -639,7 +639,7 @@
       <PageNumber>9879</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Temp. Lt</Text>
+      <Text>Temp. Lt.</Text>
       <PageNumber>11334</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1054,7 +1054,9 @@
       <Key>Boucher</Key>
       <Title>Capt.</Title>
       <Forenames>B. H.</Forenames>
-      <Text>D.S.O. (temp. Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>10906</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1270,7 +1272,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>A. J. H.</Forenames>
-      <Text>, D.S.O. (temp. Maj.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>10627</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1477,7 +1481,10 @@
     <MainItem>
       <Key>Box</Key>
       <Forenames>C. R.</Forenames>
-      <Text>M.D., F.R.C.S. (Capt., whose services will be available on mobilisation)</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>11588</PageNumber>
     </MainItem>
   </ItemGroup>
